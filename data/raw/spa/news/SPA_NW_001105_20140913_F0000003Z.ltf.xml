@@ -1,0 +1,587 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LCTL_TEXT>
+  <DOC id="SPA_NW_001105_20140913_F0000003Z.xml" tokenization="tokenization_parameters" grammar="none" raw_text_char_length="2260" raw_text_md5="ab066be53dde740624b474fef3e9de53">
+    <TEXT>
+      <SEG id="segment-0" start_char="0" end_char="37">
+        <ORIGINAL_TEXT>&lt;?xml version="1.0" encoding="utf-8"?&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-0-0" pos="unknown" morph="none" start_char="0" end_char="4">&lt;?xml</TOKEN>
+        <TOKEN id="token-0-1" pos="unknown" morph="none" start_char="6" end_char="18">version="1.0"</TOKEN>
+        <TOKEN id="token-0-2" pos="unknown" morph="none" start_char="20" end_char="37">encoding="utf-8"?&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-1" start_char="39" end_char="81">
+        <ORIGINAL_TEXT>&lt;DOC id="SPA_NW_001105_20140913_F0000003Z"&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-1-0" pos="unknown" morph="none" start_char="39" end_char="42">&lt;DOC</TOKEN>
+        <TOKEN id="token-1-1" pos="unknown" morph="none" start_char="44" end_char="81">id="SPA_NW_001105_20140913_F0000003Z"&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-2" start_char="83" end_char="227">
+        <ORIGINAL_TEXT>&lt;SOURCE&gt;http://www.jornada.unam.mx/ultimas/2014/09/13/sudafrica-indignada-por-sentencia-201cdemasiado-suave201d-para-pistorius-6430.html&lt;/SOURCE&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-2-0" pos="unknown" morph="none" start_char="83" end_char="227">&lt;SOURCE&gt;http://www.jornada.unam.mx/ultimas/2014/09/13/sudafrica-indignada-por-sentencia-201cdemasiado-suave201d-para-pistorius-6430.html&lt;/SOURCE&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-3" start_char="229" end_char="270">
+        <ORIGINAL_TEXT>&lt;DATE_TIME&gt;2014-09-13T00:00:00&lt;/DATE_TIME&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-3-0" pos="unknown" morph="none" start_char="229" end_char="270">&lt;DATE_TIME&gt;2014-09-13T00:00:00&lt;/DATE_TIME&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-4" start_char="272" end_char="281">
+        <ORIGINAL_TEXT>&lt;HEADLINE&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-4-0" pos="unknown" morph="none" start_char="272" end_char="281">&lt;HEADLINE&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-5" start_char="283" end_char="349">
+        <ORIGINAL_TEXT>Sudáfrica, indignada por sentencia “demasiado suave” para Pistorius</ORIGINAL_TEXT>
+        <TOKEN id="token-5-0" pos="word" morph="none" start_char="283" end_char="291">Sudáfrica</TOKEN>
+        <TOKEN id="token-5-1" pos="punct" morph="none" start_char="292" end_char="292">,</TOKEN>
+        <TOKEN id="token-5-2" pos="word" morph="none" start_char="294" end_char="302">indignada</TOKEN>
+        <TOKEN id="token-5-3" pos="word" morph="none" start_char="304" end_char="306">por</TOKEN>
+        <TOKEN id="token-5-4" pos="word" morph="none" start_char="308" end_char="316">sentencia</TOKEN>
+        <TOKEN id="token-5-5" pos="punct" morph="none" start_char="318" end_char="318">“</TOKEN>
+        <TOKEN id="token-5-6" pos="word" morph="none" start_char="319" end_char="327">demasiado</TOKEN>
+        <TOKEN id="token-5-7" pos="word" morph="none" start_char="329" end_char="333">suave</TOKEN>
+        <TOKEN id="token-5-8" pos="punct" morph="none" start_char="334" end_char="334">”</TOKEN>
+        <TOKEN id="token-5-9" pos="word" morph="none" start_char="336" end_char="339">para</TOKEN>
+        <TOKEN id="token-5-10" pos="word" morph="none" start_char="341" end_char="349">Pistorius</TOKEN>
+      </SEG>
+      <SEG id="segment-6" start_char="351" end_char="361">
+        <ORIGINAL_TEXT>&lt;/HEADLINE&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-6-0" pos="unknown" morph="none" start_char="351" end_char="361">&lt;/HEADLINE&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-7" start_char="363" end_char="368">
+        <ORIGINAL_TEXT>&lt;TEXT&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-7-0" pos="unknown" morph="none" start_char="363" end_char="368">&lt;TEXT&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-8" start_char="370" end_char="372">
+        <ORIGINAL_TEXT>&lt;P&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-8-0" pos="unknown" morph="none" start_char="370" end_char="372">&lt;P&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-9" start_char="374" end_char="440">
+        <ORIGINAL_TEXT>Pretoria. La sentencia al atleta paralímpico Oscar Pistorius generó</ORIGINAL_TEXT>
+        <TOKEN id="token-9-0" pos="word" morph="none" start_char="374" end_char="381">Pretoria</TOKEN>
+        <TOKEN id="token-9-1" pos="punct" morph="none" start_char="382" end_char="382">.</TOKEN>
+        <TOKEN id="token-9-2" pos="word" morph="none" start_char="384" end_char="385">La</TOKEN>
+        <TOKEN id="token-9-3" pos="word" morph="none" start_char="387" end_char="395">sentencia</TOKEN>
+        <TOKEN id="token-9-4" pos="word" morph="none" start_char="397" end_char="398">al</TOKEN>
+        <TOKEN id="token-9-5" pos="word" morph="none" start_char="400" end_char="405">atleta</TOKEN>
+        <TOKEN id="token-9-6" pos="word" morph="none" start_char="407" end_char="417">paralímpico</TOKEN>
+        <TOKEN id="token-9-7" pos="word" morph="none" start_char="419" end_char="423">Oscar</TOKEN>
+        <TOKEN id="token-9-8" pos="word" morph="none" start_char="425" end_char="433">Pistorius</TOKEN>
+        <TOKEN id="token-9-9" pos="word" morph="none" start_char="435" end_char="440">generó</TOKEN>
+      </SEG>
+      <SEG id="segment-10" start_char="442" end_char="510">
+        <ORIGINAL_TEXT>indignación en la mayor parte de medios de Sudáfrica por considerarse</ORIGINAL_TEXT>
+        <TOKEN id="token-10-0" pos="word" morph="none" start_char="442" end_char="452">indignación</TOKEN>
+        <TOKEN id="token-10-1" pos="word" morph="none" start_char="454" end_char="455">en</TOKEN>
+        <TOKEN id="token-10-2" pos="word" morph="none" start_char="457" end_char="458">la</TOKEN>
+        <TOKEN id="token-10-3" pos="word" morph="none" start_char="460" end_char="464">mayor</TOKEN>
+        <TOKEN id="token-10-4" pos="word" morph="none" start_char="466" end_char="470">parte</TOKEN>
+        <TOKEN id="token-10-5" pos="word" morph="none" start_char="472" end_char="473">de</TOKEN>
+        <TOKEN id="token-10-6" pos="word" morph="none" start_char="475" end_char="480">medios</TOKEN>
+        <TOKEN id="token-10-7" pos="word" morph="none" start_char="482" end_char="483">de</TOKEN>
+        <TOKEN id="token-10-8" pos="word" morph="none" start_char="485" end_char="493">Sudáfrica</TOKEN>
+        <TOKEN id="token-10-9" pos="word" morph="none" start_char="495" end_char="497">por</TOKEN>
+        <TOKEN id="token-10-10" pos="word" morph="none" start_char="499" end_char="510">considerarse</TOKEN>
+      </SEG>
+      <SEG id="segment-11" start_char="512" end_char="527">
+        <ORIGINAL_TEXT>demasiado suave.</ORIGINAL_TEXT>
+        <TOKEN id="token-11-0" pos="word" morph="none" start_char="512" end_char="520">demasiado</TOKEN>
+        <TOKEN id="token-11-1" pos="word" morph="none" start_char="522" end_char="526">suave</TOKEN>
+        <TOKEN id="token-11-2" pos="punct" morph="none" start_char="527" end_char="527">.</TOKEN>
+      </SEG>
+      <SEG id="segment-12" start_char="529" end_char="532">
+        <ORIGINAL_TEXT>&lt;/P&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-12-0" pos="unknown" morph="none" start_char="529" end_char="532">&lt;/P&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-13" start_char="534" end_char="536">
+        <ORIGINAL_TEXT>&lt;P&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-13-0" pos="unknown" morph="none" start_char="534" end_char="536">&lt;P&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-14" start_char="538" end_char="608">
+        <ORIGINAL_TEXT>La jueza Thokozile Masipa declaró al sudafricano de 27 años culpable de</ORIGINAL_TEXT>
+        <TOKEN id="token-14-0" pos="word" morph="none" start_char="538" end_char="539">La</TOKEN>
+        <TOKEN id="token-14-1" pos="word" morph="none" start_char="541" end_char="545">jueza</TOKEN>
+        <TOKEN id="token-14-2" pos="word" morph="none" start_char="547" end_char="555">Thokozile</TOKEN>
+        <TOKEN id="token-14-3" pos="word" morph="none" start_char="557" end_char="562">Masipa</TOKEN>
+        <TOKEN id="token-14-4" pos="word" morph="none" start_char="564" end_char="570">declaró</TOKEN>
+        <TOKEN id="token-14-5" pos="word" morph="none" start_char="572" end_char="573">al</TOKEN>
+        <TOKEN id="token-14-6" pos="word" morph="none" start_char="575" end_char="585">sudafricano</TOKEN>
+        <TOKEN id="token-14-7" pos="word" morph="none" start_char="587" end_char="588">de</TOKEN>
+        <TOKEN id="token-14-8" pos="number" morph="none" start_char="590" end_char="591">27</TOKEN>
+        <TOKEN id="token-14-9" pos="word" morph="none" start_char="593" end_char="596">años</TOKEN>
+        <TOKEN id="token-14-10" pos="word" morph="none" start_char="598" end_char="605">culpable</TOKEN>
+        <TOKEN id="token-14-11" pos="word" morph="none" start_char="607" end_char="608">de</TOKEN>
+      </SEG>
+      <SEG id="segment-15" start_char="610" end_char="686">
+        <ORIGINAL_TEXT>homicidio involuntario, pero lo exculpó del asesinato premeditado de su novia</ORIGINAL_TEXT>
+        <TOKEN id="token-15-0" pos="word" morph="none" start_char="610" end_char="618">homicidio</TOKEN>
+        <TOKEN id="token-15-1" pos="word" morph="none" start_char="620" end_char="631">involuntario</TOKEN>
+        <TOKEN id="token-15-2" pos="punct" morph="none" start_char="632" end_char="632">,</TOKEN>
+        <TOKEN id="token-15-3" pos="word" morph="none" start_char="634" end_char="637">pero</TOKEN>
+        <TOKEN id="token-15-4" pos="word" morph="none" start_char="639" end_char="640">lo</TOKEN>
+        <TOKEN id="token-15-5" pos="word" morph="none" start_char="642" end_char="648">exculpó</TOKEN>
+        <TOKEN id="token-15-6" pos="word" morph="none" start_char="650" end_char="652">del</TOKEN>
+        <TOKEN id="token-15-7" pos="word" morph="none" start_char="654" end_char="662">asesinato</TOKEN>
+        <TOKEN id="token-15-8" pos="word" morph="none" start_char="664" end_char="674">premeditado</TOKEN>
+        <TOKEN id="token-15-9" pos="word" morph="none" start_char="676" end_char="677">de</TOKEN>
+        <TOKEN id="token-15-10" pos="word" morph="none" start_char="679" end_char="680">su</TOKEN>
+        <TOKEN id="token-15-11" pos="word" morph="none" start_char="682" end_char="686">novia</TOKEN>
+      </SEG>
+      <SEG id="segment-16" start_char="688" end_char="703">
+        <ORIGINAL_TEXT>Reeva Steenkamp.</ORIGINAL_TEXT>
+        <TOKEN id="token-16-0" pos="word" morph="none" start_char="688" end_char="692">Reeva</TOKEN>
+        <TOKEN id="token-16-1" pos="word" morph="none" start_char="694" end_char="702">Steenkamp</TOKEN>
+        <TOKEN id="token-16-2" pos="punct" morph="none" start_char="703" end_char="703">.</TOKEN>
+      </SEG>
+      <SEG id="segment-17" start_char="705" end_char="708">
+        <ORIGINAL_TEXT>&lt;/P&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-17-0" pos="unknown" morph="none" start_char="705" end_char="708">&lt;/P&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-18" start_char="710" end_char="712">
+        <ORIGINAL_TEXT>&lt;P&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-18-0" pos="unknown" morph="none" start_char="710" end_char="712">&lt;P&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-19" start_char="714" end_char="783">
+        <ORIGINAL_TEXT>Casi todos los diarios del país dejaron hoy claro en sus titulares que</ORIGINAL_TEXT>
+        <TOKEN id="token-19-0" pos="word" morph="none" start_char="714" end_char="717">Casi</TOKEN>
+        <TOKEN id="token-19-1" pos="word" morph="none" start_char="719" end_char="723">todos</TOKEN>
+        <TOKEN id="token-19-2" pos="word" morph="none" start_char="725" end_char="727">los</TOKEN>
+        <TOKEN id="token-19-3" pos="word" morph="none" start_char="729" end_char="735">diarios</TOKEN>
+        <TOKEN id="token-19-4" pos="word" morph="none" start_char="737" end_char="739">del</TOKEN>
+        <TOKEN id="token-19-5" pos="word" morph="none" start_char="741" end_char="744">país</TOKEN>
+        <TOKEN id="token-19-6" pos="word" morph="none" start_char="746" end_char="752">dejaron</TOKEN>
+        <TOKEN id="token-19-7" pos="word" morph="none" start_char="754" end_char="756">hoy</TOKEN>
+        <TOKEN id="token-19-8" pos="word" morph="none" start_char="758" end_char="762">claro</TOKEN>
+        <TOKEN id="token-19-9" pos="word" morph="none" start_char="764" end_char="765">en</TOKEN>
+        <TOKEN id="token-19-10" pos="word" morph="none" start_char="767" end_char="769">sus</TOKEN>
+        <TOKEN id="token-19-11" pos="word" morph="none" start_char="771" end_char="779">titulares</TOKEN>
+        <TOKEN id="token-19-12" pos="word" morph="none" start_char="781" end_char="783">que</TOKEN>
+      </SEG>
+      <SEG id="segment-20" start_char="785" end_char="815">
+        <ORIGINAL_TEXT>esperaban una condena más dura.</ORIGINAL_TEXT>
+        <TOKEN id="token-20-0" pos="word" morph="none" start_char="785" end_char="793">esperaban</TOKEN>
+        <TOKEN id="token-20-1" pos="word" morph="none" start_char="795" end_char="797">una</TOKEN>
+        <TOKEN id="token-20-2" pos="word" morph="none" start_char="799" end_char="805">condena</TOKEN>
+        <TOKEN id="token-20-3" pos="word" morph="none" start_char="807" end_char="809">más</TOKEN>
+        <TOKEN id="token-20-4" pos="word" morph="none" start_char="811" end_char="814">dura</TOKEN>
+        <TOKEN id="token-20-5" pos="punct" morph="none" start_char="815" end_char="815">.</TOKEN>
+      </SEG>
+      <SEG id="segment-21" start_char="817" end_char="820">
+        <ORIGINAL_TEXT>&lt;/P&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-21-0" pos="unknown" morph="none" start_char="817" end_char="820">&lt;/P&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-22" start_char="822" end_char="824">
+        <ORIGINAL_TEXT>&lt;P&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-22-0" pos="unknown" morph="none" start_char="822" end_char="824">&lt;P&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-23" start_char="826" end_char="895">
+        <ORIGINAL_TEXT>El New Age escribió "Lágrimas de alivio" junto a una foto llorando del</ORIGINAL_TEXT>
+        <TOKEN id="token-23-0" pos="word" morph="none" start_char="826" end_char="827">El</TOKEN>
+        <TOKEN id="token-23-1" pos="word" morph="none" start_char="829" end_char="831">New</TOKEN>
+        <TOKEN id="token-23-2" pos="word" morph="none" start_char="833" end_char="835">Age</TOKEN>
+        <TOKEN id="token-23-3" pos="word" morph="none" start_char="837" end_char="844">escribió</TOKEN>
+        <TOKEN id="token-23-4" pos="punct" morph="none" start_char="846" end_char="846">"</TOKEN>
+        <TOKEN id="token-23-5" pos="word" morph="none" start_char="847" end_char="854">Lágrimas</TOKEN>
+        <TOKEN id="token-23-6" pos="word" morph="none" start_char="856" end_char="857">de</TOKEN>
+        <TOKEN id="token-23-7" pos="word" morph="none" start_char="859" end_char="864">alivio</TOKEN>
+        <TOKEN id="token-23-8" pos="punct" morph="none" start_char="865" end_char="865">"</TOKEN>
+        <TOKEN id="token-23-9" pos="word" morph="none" start_char="867" end_char="871">junto</TOKEN>
+        <TOKEN id="token-23-10" pos="word" morph="none" start_char="873" end_char="873">a</TOKEN>
+        <TOKEN id="token-23-11" pos="word" morph="none" start_char="875" end_char="877">una</TOKEN>
+        <TOKEN id="token-23-12" pos="word" morph="none" start_char="879" end_char="882">foto</TOKEN>
+        <TOKEN id="token-23-13" pos="word" morph="none" start_char="884" end_char="891">llorando</TOKEN>
+        <TOKEN id="token-23-14" pos="word" morph="none" start_char="893" end_char="895">del</TOKEN>
+      </SEG>
+      <SEG id="segment-24" start_char="897" end_char="968">
+        <ORIGINAL_TEXT>atleta, mientras que el Pretoria News tituló en grandes letras: "La gran</ORIGINAL_TEXT>
+        <TOKEN id="token-24-0" pos="word" morph="none" start_char="897" end_char="902">atleta</TOKEN>
+        <TOKEN id="token-24-1" pos="punct" morph="none" start_char="903" end_char="903">,</TOKEN>
+        <TOKEN id="token-24-2" pos="word" morph="none" start_char="905" end_char="912">mientras</TOKEN>
+        <TOKEN id="token-24-3" pos="word" morph="none" start_char="914" end_char="916">que</TOKEN>
+        <TOKEN id="token-24-4" pos="word" morph="none" start_char="918" end_char="919">el</TOKEN>
+        <TOKEN id="token-24-5" pos="word" morph="none" start_char="921" end_char="928">Pretoria</TOKEN>
+        <TOKEN id="token-24-6" pos="word" morph="none" start_char="930" end_char="933">News</TOKEN>
+        <TOKEN id="token-24-7" pos="word" morph="none" start_char="935" end_char="940">tituló</TOKEN>
+        <TOKEN id="token-24-8" pos="word" morph="none" start_char="942" end_char="943">en</TOKEN>
+        <TOKEN id="token-24-9" pos="word" morph="none" start_char="945" end_char="951">grandes</TOKEN>
+        <TOKEN id="token-24-10" pos="word" morph="none" start_char="953" end_char="958">letras</TOKEN>
+        <TOKEN id="token-24-11" pos="punct" morph="none" start_char="959" end_char="959">:</TOKEN>
+        <TOKEN id="token-24-12" pos="punct" morph="none" start_char="961" end_char="961">"</TOKEN>
+        <TOKEN id="token-24-13" pos="word" morph="none" start_char="962" end_char="963">La</TOKEN>
+        <TOKEN id="token-24-14" pos="word" morph="none" start_char="965" end_char="968">gran</TOKEN>
+      </SEG>
+      <SEG id="segment-25" start_char="970" end_char="987">
+        <ORIGINAL_TEXT>evasión de Oscar".</ORIGINAL_TEXT>
+        <TOKEN id="token-25-0" pos="word" morph="none" start_char="970" end_char="976">evasión</TOKEN>
+        <TOKEN id="token-25-1" pos="word" morph="none" start_char="978" end_char="979">de</TOKEN>
+        <TOKEN id="token-25-2" pos="word" morph="none" start_char="981" end_char="985">Oscar</TOKEN>
+        <TOKEN id="token-25-3" pos="punct" morph="none" start_char="986" end_char="987">".</TOKEN>
+      </SEG>
+      <SEG id="segment-26" start_char="989" end_char="992">
+        <ORIGINAL_TEXT>&lt;/P&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-26-0" pos="unknown" morph="none" start_char="989" end_char="992">&lt;/P&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-27" start_char="994" end_char="996">
+        <ORIGINAL_TEXT>&lt;P&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-27-0" pos="unknown" morph="none" start_char="994" end_char="996">&lt;P&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-28" start_char="998" end_char="1069">
+        <ORIGINAL_TEXT>El Citizen ya había exigido el viernes la cárcel con un Enciérrenlo, así</ORIGINAL_TEXT>
+        <TOKEN id="token-28-0" pos="word" morph="none" start_char="998" end_char="999">El</TOKEN>
+        <TOKEN id="token-28-1" pos="word" morph="none" start_char="1001" end_char="1007">Citizen</TOKEN>
+        <TOKEN id="token-28-2" pos="word" morph="none" start_char="1009" end_char="1010">ya</TOKEN>
+        <TOKEN id="token-28-3" pos="word" morph="none" start_char="1012" end_char="1016">había</TOKEN>
+        <TOKEN id="token-28-4" pos="word" morph="none" start_char="1018" end_char="1024">exigido</TOKEN>
+        <TOKEN id="token-28-5" pos="word" morph="none" start_char="1026" end_char="1027">el</TOKEN>
+        <TOKEN id="token-28-6" pos="word" morph="none" start_char="1029" end_char="1035">viernes</TOKEN>
+        <TOKEN id="token-28-7" pos="word" morph="none" start_char="1037" end_char="1038">la</TOKEN>
+        <TOKEN id="token-28-8" pos="word" morph="none" start_char="1040" end_char="1045">cárcel</TOKEN>
+        <TOKEN id="token-28-9" pos="word" morph="none" start_char="1047" end_char="1049">con</TOKEN>
+        <TOKEN id="token-28-10" pos="word" morph="none" start_char="1051" end_char="1052">un</TOKEN>
+        <TOKEN id="token-28-11" pos="word" morph="none" start_char="1054" end_char="1064">Enciérrenlo</TOKEN>
+        <TOKEN id="token-28-12" pos="punct" morph="none" start_char="1065" end_char="1065">,</TOKEN>
+        <TOKEN id="token-28-13" pos="word" morph="none" start_char="1067" end_char="1069">así</TOKEN>
+      </SEG>
+      <SEG id="segment-29" start_char="1071" end_char="1111">
+        <ORIGINAL_TEXT>que hoy decidió abrir con un "Vergüenza".</ORIGINAL_TEXT>
+        <TOKEN id="token-29-0" pos="word" morph="none" start_char="1071" end_char="1073">que</TOKEN>
+        <TOKEN id="token-29-1" pos="word" morph="none" start_char="1075" end_char="1077">hoy</TOKEN>
+        <TOKEN id="token-29-2" pos="word" morph="none" start_char="1079" end_char="1085">decidió</TOKEN>
+        <TOKEN id="token-29-3" pos="word" morph="none" start_char="1087" end_char="1091">abrir</TOKEN>
+        <TOKEN id="token-29-4" pos="word" morph="none" start_char="1093" end_char="1095">con</TOKEN>
+        <TOKEN id="token-29-5" pos="word" morph="none" start_char="1097" end_char="1098">un</TOKEN>
+        <TOKEN id="token-29-6" pos="punct" morph="none" start_char="1100" end_char="1100">"</TOKEN>
+        <TOKEN id="token-29-7" pos="word" morph="none" start_char="1101" end_char="1109">Vergüenza</TOKEN>
+        <TOKEN id="token-29-8" pos="punct" morph="none" start_char="1110" end_char="1111">".</TOKEN>
+      </SEG>
+      <SEG id="segment-30" start_char="1113" end_char="1116">
+        <ORIGINAL_TEXT>&lt;/P&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-30-0" pos="unknown" morph="none" start_char="1113" end_char="1116">&lt;/P&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-31" start_char="1118" end_char="1120">
+        <ORIGINAL_TEXT>&lt;P&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-31-0" pos="unknown" morph="none" start_char="1118" end_char="1120">&lt;P&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-32" start_char="1122" end_char="1196">
+        <ORIGINAL_TEXT>Como muchos sudafricanos, el diario Beeld mostró sobre todo solidaridad con</ORIGINAL_TEXT>
+        <TOKEN id="token-32-0" pos="word" morph="none" start_char="1122" end_char="1125">Como</TOKEN>
+        <TOKEN id="token-32-1" pos="word" morph="none" start_char="1127" end_char="1132">muchos</TOKEN>
+        <TOKEN id="token-32-2" pos="word" morph="none" start_char="1134" end_char="1145">sudafricanos</TOKEN>
+        <TOKEN id="token-32-3" pos="punct" morph="none" start_char="1146" end_char="1146">,</TOKEN>
+        <TOKEN id="token-32-4" pos="word" morph="none" start_char="1148" end_char="1149">el</TOKEN>
+        <TOKEN id="token-32-5" pos="word" morph="none" start_char="1151" end_char="1156">diario</TOKEN>
+        <TOKEN id="token-32-6" pos="word" morph="none" start_char="1158" end_char="1162">Beeld</TOKEN>
+        <TOKEN id="token-32-7" pos="word" morph="none" start_char="1164" end_char="1169">mostró</TOKEN>
+        <TOKEN id="token-32-8" pos="word" morph="none" start_char="1171" end_char="1175">sobre</TOKEN>
+        <TOKEN id="token-32-9" pos="word" morph="none" start_char="1177" end_char="1180">todo</TOKEN>
+        <TOKEN id="token-32-10" pos="word" morph="none" start_char="1182" end_char="1192">solidaridad</TOKEN>
+        <TOKEN id="token-32-11" pos="word" morph="none" start_char="1194" end_char="1196">con</TOKEN>
+      </SEG>
+      <SEG id="segment-33" start_char="1198" end_char="1222">
+        <ORIGINAL_TEXT>la familia de la víctima.</ORIGINAL_TEXT>
+        <TOKEN id="token-33-0" pos="word" morph="none" start_char="1198" end_char="1199">la</TOKEN>
+        <TOKEN id="token-33-1" pos="word" morph="none" start_char="1201" end_char="1207">familia</TOKEN>
+        <TOKEN id="token-33-2" pos="word" morph="none" start_char="1209" end_char="1210">de</TOKEN>
+        <TOKEN id="token-33-3" pos="word" morph="none" start_char="1212" end_char="1213">la</TOKEN>
+        <TOKEN id="token-33-4" pos="word" morph="none" start_char="1215" end_char="1221">víctima</TOKEN>
+        <TOKEN id="token-33-5" pos="punct" morph="none" start_char="1222" end_char="1222">.</TOKEN>
+      </SEG>
+      <SEG id="segment-34" start_char="1224" end_char="1227">
+        <ORIGINAL_TEXT>&lt;/P&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-34-0" pos="unknown" morph="none" start_char="1224" end_char="1227">&lt;/P&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-35" start_char="1229" end_char="1231">
+        <ORIGINAL_TEXT>&lt;P&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-35-0" pos="unknown" morph="none" start_char="1229" end_char="1231">&lt;P&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-36" start_char="1233" end_char="1306">
+        <ORIGINAL_TEXT>"Los padres de Reeva no pueden creerlo", escribió el rotativo en Afrikaan.</ORIGINAL_TEXT>
+        <TOKEN id="token-36-0" pos="punct" morph="none" start_char="1233" end_char="1233">"</TOKEN>
+        <TOKEN id="token-36-1" pos="word" morph="none" start_char="1234" end_char="1236">Los</TOKEN>
+        <TOKEN id="token-36-2" pos="word" morph="none" start_char="1238" end_char="1243">padres</TOKEN>
+        <TOKEN id="token-36-3" pos="word" morph="none" start_char="1245" end_char="1246">de</TOKEN>
+        <TOKEN id="token-36-4" pos="word" morph="none" start_char="1248" end_char="1252">Reeva</TOKEN>
+        <TOKEN id="token-36-5" pos="word" morph="none" start_char="1254" end_char="1255">no</TOKEN>
+        <TOKEN id="token-36-6" pos="word" morph="none" start_char="1257" end_char="1262">pueden</TOKEN>
+        <TOKEN id="token-36-7" pos="word" morph="none" start_char="1264" end_char="1270">creerlo</TOKEN>
+        <TOKEN id="token-36-8" pos="punct" morph="none" start_char="1271" end_char="1272">",</TOKEN>
+        <TOKEN id="token-36-9" pos="word" morph="none" start_char="1274" end_char="1281">escribió</TOKEN>
+        <TOKEN id="token-36-10" pos="word" morph="none" start_char="1283" end_char="1284">el</TOKEN>
+        <TOKEN id="token-36-11" pos="word" morph="none" start_char="1286" end_char="1293">rotativo</TOKEN>
+        <TOKEN id="token-36-12" pos="word" morph="none" start_char="1295" end_char="1296">en</TOKEN>
+        <TOKEN id="token-36-13" pos="word" morph="none" start_char="1298" end_char="1305">Afrikaan</TOKEN>
+        <TOKEN id="token-36-14" pos="punct" morph="none" start_char="1306" end_char="1306">.</TOKEN>
+      </SEG>
+      <SEG id="segment-37" start_char="1308" end_char="1311">
+        <ORIGINAL_TEXT>&lt;/P&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-37-0" pos="unknown" morph="none" start_char="1308" end_char="1311">&lt;/P&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-38" start_char="1313" end_char="1315">
+        <ORIGINAL_TEXT>&lt;P&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-38-0" pos="unknown" morph="none" start_char="1313" end_char="1315">&lt;P&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-39" start_char="1317" end_char="1389">
+        <ORIGINAL_TEXT>Pistorius mató a su novia, de 29 años, en febrero de 2013 al dispararle a</ORIGINAL_TEXT>
+        <TOKEN id="token-39-0" pos="word" morph="none" start_char="1317" end_char="1325">Pistorius</TOKEN>
+        <TOKEN id="token-39-1" pos="word" morph="none" start_char="1327" end_char="1330">mató</TOKEN>
+        <TOKEN id="token-39-2" pos="word" morph="none" start_char="1332" end_char="1332">a</TOKEN>
+        <TOKEN id="token-39-3" pos="word" morph="none" start_char="1334" end_char="1335">su</TOKEN>
+        <TOKEN id="token-39-4" pos="word" morph="none" start_char="1337" end_char="1341">novia</TOKEN>
+        <TOKEN id="token-39-5" pos="punct" morph="none" start_char="1342" end_char="1342">,</TOKEN>
+        <TOKEN id="token-39-6" pos="word" morph="none" start_char="1344" end_char="1345">de</TOKEN>
+        <TOKEN id="token-39-7" pos="number" morph="none" start_char="1347" end_char="1348">29</TOKEN>
+        <TOKEN id="token-39-8" pos="word" morph="none" start_char="1350" end_char="1353">años</TOKEN>
+        <TOKEN id="token-39-9" pos="punct" morph="none" start_char="1354" end_char="1354">,</TOKEN>
+        <TOKEN id="token-39-10" pos="word" morph="none" start_char="1356" end_char="1357">en</TOKEN>
+        <TOKEN id="token-39-11" pos="word" morph="none" start_char="1359" end_char="1365">febrero</TOKEN>
+        <TOKEN id="token-39-12" pos="word" morph="none" start_char="1367" end_char="1368">de</TOKEN>
+        <TOKEN id="token-39-13" pos="number" morph="none" start_char="1370" end_char="1373">2013</TOKEN>
+        <TOKEN id="token-39-14" pos="word" morph="none" start_char="1375" end_char="1376">al</TOKEN>
+        <TOKEN id="token-39-15" pos="word" morph="none" start_char="1378" end_char="1387">dispararle</TOKEN>
+        <TOKEN id="token-39-16" pos="word" morph="none" start_char="1389" end_char="1389">a</TOKEN>
+      </SEG>
+      <SEG id="segment-40" start_char="1391" end_char="1419">
+        <ORIGINAL_TEXT>través de la puerta del baño.</ORIGINAL_TEXT>
+        <TOKEN id="token-40-0" pos="word" morph="none" start_char="1391" end_char="1396">través</TOKEN>
+        <TOKEN id="token-40-1" pos="word" morph="none" start_char="1398" end_char="1399">de</TOKEN>
+        <TOKEN id="token-40-2" pos="word" morph="none" start_char="1401" end_char="1402">la</TOKEN>
+        <TOKEN id="token-40-3" pos="word" morph="none" start_char="1404" end_char="1409">puerta</TOKEN>
+        <TOKEN id="token-40-4" pos="word" morph="none" start_char="1411" end_char="1413">del</TOKEN>
+        <TOKEN id="token-40-5" pos="word" morph="none" start_char="1415" end_char="1418">baño</TOKEN>
+        <TOKEN id="token-40-6" pos="punct" morph="none" start_char="1419" end_char="1419">.</TOKEN>
+      </SEG>
+      <SEG id="segment-41" start_char="1421" end_char="1424">
+        <ORIGINAL_TEXT>&lt;/P&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-41-0" pos="unknown" morph="none" start_char="1421" end_char="1424">&lt;/P&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-42" start_char="1426" end_char="1428">
+        <ORIGINAL_TEXT>&lt;P&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-42-0" pos="unknown" morph="none" start_char="1426" end_char="1428">&lt;P&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-43" start_char="1430" end_char="1498">
+        <ORIGINAL_TEXT>La jueza creyó la versión de la estrella paralímpica, que aseguró que</ORIGINAL_TEXT>
+        <TOKEN id="token-43-0" pos="word" morph="none" start_char="1430" end_char="1431">La</TOKEN>
+        <TOKEN id="token-43-1" pos="word" morph="none" start_char="1433" end_char="1437">jueza</TOKEN>
+        <TOKEN id="token-43-2" pos="word" morph="none" start_char="1439" end_char="1443">creyó</TOKEN>
+        <TOKEN id="token-43-3" pos="word" morph="none" start_char="1445" end_char="1446">la</TOKEN>
+        <TOKEN id="token-43-4" pos="word" morph="none" start_char="1448" end_char="1454">versión</TOKEN>
+        <TOKEN id="token-43-5" pos="word" morph="none" start_char="1456" end_char="1457">de</TOKEN>
+        <TOKEN id="token-43-6" pos="word" morph="none" start_char="1459" end_char="1460">la</TOKEN>
+        <TOKEN id="token-43-7" pos="word" morph="none" start_char="1462" end_char="1469">estrella</TOKEN>
+        <TOKEN id="token-43-8" pos="word" morph="none" start_char="1471" end_char="1481">paralímpica</TOKEN>
+        <TOKEN id="token-43-9" pos="punct" morph="none" start_char="1482" end_char="1482">,</TOKEN>
+        <TOKEN id="token-43-10" pos="word" morph="none" start_char="1484" end_char="1486">que</TOKEN>
+        <TOKEN id="token-43-11" pos="word" morph="none" start_char="1488" end_char="1494">aseguró</TOKEN>
+        <TOKEN id="token-43-12" pos="word" morph="none" start_char="1496" end_char="1498">que</TOKEN>
+      </SEG>
+      <SEG id="segment-44" start_char="1500" end_char="1559">
+        <ORIGINAL_TEXT>pensaba que en su casa había un ladrón y disparó por pánico.</ORIGINAL_TEXT>
+        <TOKEN id="token-44-0" pos="word" morph="none" start_char="1500" end_char="1506">pensaba</TOKEN>
+        <TOKEN id="token-44-1" pos="word" morph="none" start_char="1508" end_char="1510">que</TOKEN>
+        <TOKEN id="token-44-2" pos="word" morph="none" start_char="1512" end_char="1513">en</TOKEN>
+        <TOKEN id="token-44-3" pos="word" morph="none" start_char="1515" end_char="1516">su</TOKEN>
+        <TOKEN id="token-44-4" pos="word" morph="none" start_char="1518" end_char="1521">casa</TOKEN>
+        <TOKEN id="token-44-5" pos="word" morph="none" start_char="1523" end_char="1527">había</TOKEN>
+        <TOKEN id="token-44-6" pos="word" morph="none" start_char="1529" end_char="1530">un</TOKEN>
+        <TOKEN id="token-44-7" pos="word" morph="none" start_char="1532" end_char="1537">ladrón</TOKEN>
+        <TOKEN id="token-44-8" pos="word" morph="none" start_char="1539" end_char="1539">y</TOKEN>
+        <TOKEN id="token-44-9" pos="word" morph="none" start_char="1541" end_char="1547">disparó</TOKEN>
+        <TOKEN id="token-44-10" pos="word" morph="none" start_char="1549" end_char="1551">por</TOKEN>
+        <TOKEN id="token-44-11" pos="word" morph="none" start_char="1553" end_char="1558">pánico</TOKEN>
+        <TOKEN id="token-44-12" pos="punct" morph="none" start_char="1559" end_char="1559">.</TOKEN>
+      </SEG>
+      <SEG id="segment-45" start_char="1561" end_char="1564">
+        <ORIGINAL_TEXT>&lt;/P&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-45-0" pos="unknown" morph="none" start_char="1561" end_char="1564">&lt;/P&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-46" start_char="1566" end_char="1568">
+        <ORIGINAL_TEXT>&lt;P&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-46-0" pos="unknown" morph="none" start_char="1566" end_char="1568">&lt;P&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-47" start_char="1570" end_char="1639">
+        <ORIGINAL_TEXT>Expertos en derecho también se mostraron sorprendidos por el fallo. El</ORIGINAL_TEXT>
+        <TOKEN id="token-47-0" pos="word" morph="none" start_char="1570" end_char="1577">Expertos</TOKEN>
+        <TOKEN id="token-47-1" pos="word" morph="none" start_char="1579" end_char="1580">en</TOKEN>
+        <TOKEN id="token-47-2" pos="word" morph="none" start_char="1582" end_char="1588">derecho</TOKEN>
+        <TOKEN id="token-47-3" pos="word" morph="none" start_char="1590" end_char="1596">también</TOKEN>
+        <TOKEN id="token-47-4" pos="word" morph="none" start_char="1598" end_char="1599">se</TOKEN>
+        <TOKEN id="token-47-5" pos="word" morph="none" start_char="1601" end_char="1609">mostraron</TOKEN>
+        <TOKEN id="token-47-6" pos="word" morph="none" start_char="1611" end_char="1622">sorprendidos</TOKEN>
+        <TOKEN id="token-47-7" pos="word" morph="none" start_char="1624" end_char="1626">por</TOKEN>
+        <TOKEN id="token-47-8" pos="word" morph="none" start_char="1628" end_char="1629">el</TOKEN>
+        <TOKEN id="token-47-9" pos="word" morph="none" start_char="1631" end_char="1635">fallo</TOKEN>
+        <TOKEN id="token-47-10" pos="punct" morph="none" start_char="1636" end_char="1636">.</TOKEN>
+        <TOKEN id="token-47-11" pos="word" morph="none" start_char="1638" end_char="1639">El</TOKEN>
+      </SEG>
+      <SEG id="segment-48" start_char="1641" end_char="1715">
+        <ORIGINAL_TEXT>jurista penal Lovell Fernandez, de Ciudad del Cabo, calificó la decisión de</ORIGINAL_TEXT>
+        <TOKEN id="token-48-0" pos="word" morph="none" start_char="1641" end_char="1647">jurista</TOKEN>
+        <TOKEN id="token-48-1" pos="word" morph="none" start_char="1649" end_char="1653">penal</TOKEN>
+        <TOKEN id="token-48-2" pos="word" morph="none" start_char="1655" end_char="1660">Lovell</TOKEN>
+        <TOKEN id="token-48-3" pos="word" morph="none" start_char="1662" end_char="1670">Fernandez</TOKEN>
+        <TOKEN id="token-48-4" pos="punct" morph="none" start_char="1671" end_char="1671">,</TOKEN>
+        <TOKEN id="token-48-5" pos="word" morph="none" start_char="1673" end_char="1674">de</TOKEN>
+        <TOKEN id="token-48-6" pos="word" morph="none" start_char="1676" end_char="1681">Ciudad</TOKEN>
+        <TOKEN id="token-48-7" pos="word" morph="none" start_char="1683" end_char="1685">del</TOKEN>
+        <TOKEN id="token-48-8" pos="word" morph="none" start_char="1687" end_char="1690">Cabo</TOKEN>
+        <TOKEN id="token-48-9" pos="punct" morph="none" start_char="1691" end_char="1691">,</TOKEN>
+        <TOKEN id="token-48-10" pos="word" morph="none" start_char="1693" end_char="1700">calificó</TOKEN>
+        <TOKEN id="token-48-11" pos="word" morph="none" start_char="1702" end_char="1703">la</TOKEN>
+        <TOKEN id="token-48-12" pos="word" morph="none" start_char="1705" end_char="1712">decisión</TOKEN>
+        <TOKEN id="token-48-13" pos="word" morph="none" start_char="1714" end_char="1715">de</TOKEN>
+      </SEG>
+      <SEG id="segment-49" start_char="1717" end_char="1784">
+        <ORIGINAL_TEXT>"polémica" y advirtió de que "causó indignación entre la población".</ORIGINAL_TEXT>
+        <TOKEN id="token-49-0" pos="punct" morph="none" start_char="1717" end_char="1717">"</TOKEN>
+        <TOKEN id="token-49-1" pos="word" morph="none" start_char="1718" end_char="1725">polémica</TOKEN>
+        <TOKEN id="token-49-2" pos="punct" morph="none" start_char="1726" end_char="1726">"</TOKEN>
+        <TOKEN id="token-49-3" pos="word" morph="none" start_char="1728" end_char="1728">y</TOKEN>
+        <TOKEN id="token-49-4" pos="word" morph="none" start_char="1730" end_char="1737">advirtió</TOKEN>
+        <TOKEN id="token-49-5" pos="word" morph="none" start_char="1739" end_char="1740">de</TOKEN>
+        <TOKEN id="token-49-6" pos="word" morph="none" start_char="1742" end_char="1744">que</TOKEN>
+        <TOKEN id="token-49-7" pos="punct" morph="none" start_char="1746" end_char="1746">"</TOKEN>
+        <TOKEN id="token-49-8" pos="word" morph="none" start_char="1747" end_char="1751">causó</TOKEN>
+        <TOKEN id="token-49-9" pos="word" morph="none" start_char="1753" end_char="1763">indignación</TOKEN>
+        <TOKEN id="token-49-10" pos="word" morph="none" start_char="1765" end_char="1769">entre</TOKEN>
+        <TOKEN id="token-49-11" pos="word" morph="none" start_char="1771" end_char="1772">la</TOKEN>
+        <TOKEN id="token-49-12" pos="word" morph="none" start_char="1774" end_char="1782">población</TOKEN>
+        <TOKEN id="token-49-13" pos="punct" morph="none" start_char="1783" end_char="1784">".</TOKEN>
+      </SEG>
+      <SEG id="segment-50" start_char="1786" end_char="1789">
+        <ORIGINAL_TEXT>&lt;/P&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-50-0" pos="unknown" morph="none" start_char="1786" end_char="1789">&lt;/P&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-51" start_char="1791" end_char="1793">
+        <ORIGINAL_TEXT>&lt;P&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-51-0" pos="unknown" morph="none" start_char="1791" end_char="1793">&lt;P&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-52" start_char="1795" end_char="1868">
+        <ORIGINAL_TEXT>Muchos sudafricanos están convencidos de que el deportista se libró de una</ORIGINAL_TEXT>
+        <TOKEN id="token-52-0" pos="word" morph="none" start_char="1795" end_char="1800">Muchos</TOKEN>
+        <TOKEN id="token-52-1" pos="word" morph="none" start_char="1802" end_char="1813">sudafricanos</TOKEN>
+        <TOKEN id="token-52-2" pos="word" morph="none" start_char="1815" end_char="1819">están</TOKEN>
+        <TOKEN id="token-52-3" pos="word" morph="none" start_char="1821" end_char="1831">convencidos</TOKEN>
+        <TOKEN id="token-52-4" pos="word" morph="none" start_char="1833" end_char="1834">de</TOKEN>
+        <TOKEN id="token-52-5" pos="word" morph="none" start_char="1836" end_char="1838">que</TOKEN>
+        <TOKEN id="token-52-6" pos="word" morph="none" start_char="1840" end_char="1841">el</TOKEN>
+        <TOKEN id="token-52-7" pos="word" morph="none" start_char="1843" end_char="1852">deportista</TOKEN>
+        <TOKEN id="token-52-8" pos="word" morph="none" start_char="1854" end_char="1855">se</TOKEN>
+        <TOKEN id="token-52-9" pos="word" morph="none" start_char="1857" end_char="1861">libró</TOKEN>
+        <TOKEN id="token-52-10" pos="word" morph="none" start_char="1863" end_char="1864">de</TOKEN>
+        <TOKEN id="token-52-11" pos="word" morph="none" start_char="1866" end_char="1868">una</TOKEN>
+      </SEG>
+      <SEG id="segment-53" start_char="1870" end_char="1910">
+        <ORIGINAL_TEXT>sentencia más dura por ser famoso y rico.</ORIGINAL_TEXT>
+        <TOKEN id="token-53-0" pos="word" morph="none" start_char="1870" end_char="1878">sentencia</TOKEN>
+        <TOKEN id="token-53-1" pos="word" morph="none" start_char="1880" end_char="1882">más</TOKEN>
+        <TOKEN id="token-53-2" pos="word" morph="none" start_char="1884" end_char="1887">dura</TOKEN>
+        <TOKEN id="token-53-3" pos="word" morph="none" start_char="1889" end_char="1891">por</TOKEN>
+        <TOKEN id="token-53-4" pos="word" morph="none" start_char="1893" end_char="1895">ser</TOKEN>
+        <TOKEN id="token-53-5" pos="word" morph="none" start_char="1897" end_char="1902">famoso</TOKEN>
+        <TOKEN id="token-53-6" pos="word" morph="none" start_char="1904" end_char="1904">y</TOKEN>
+        <TOKEN id="token-53-7" pos="word" morph="none" start_char="1906" end_char="1909">rico</TOKEN>
+        <TOKEN id="token-53-8" pos="punct" morph="none" start_char="1910" end_char="1910">.</TOKEN>
+      </SEG>
+      <SEG id="segment-54" start_char="1912" end_char="1915">
+        <ORIGINAL_TEXT>&lt;/P&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-54-0" pos="unknown" morph="none" start_char="1912" end_char="1915">&lt;/P&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-55" start_char="1917" end_char="1919">
+        <ORIGINAL_TEXT>&lt;P&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-55-0" pos="unknown" morph="none" start_char="1917" end_char="1919">&lt;P&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-56" start_char="1921" end_char="1990">
+        <ORIGINAL_TEXT>La pena a la que será condenado no se conocerá hasta después del 13 de</ORIGINAL_TEXT>
+        <TOKEN id="token-56-0" pos="word" morph="none" start_char="1921" end_char="1922">La</TOKEN>
+        <TOKEN id="token-56-1" pos="word" morph="none" start_char="1924" end_char="1927">pena</TOKEN>
+        <TOKEN id="token-56-2" pos="word" morph="none" start_char="1929" end_char="1929">a</TOKEN>
+        <TOKEN id="token-56-3" pos="word" morph="none" start_char="1931" end_char="1932">la</TOKEN>
+        <TOKEN id="token-56-4" pos="word" morph="none" start_char="1934" end_char="1936">que</TOKEN>
+        <TOKEN id="token-56-5" pos="word" morph="none" start_char="1938" end_char="1941">será</TOKEN>
+        <TOKEN id="token-56-6" pos="word" morph="none" start_char="1943" end_char="1951">condenado</TOKEN>
+        <TOKEN id="token-56-7" pos="word" morph="none" start_char="1953" end_char="1954">no</TOKEN>
+        <TOKEN id="token-56-8" pos="word" morph="none" start_char="1956" end_char="1957">se</TOKEN>
+        <TOKEN id="token-56-9" pos="word" morph="none" start_char="1959" end_char="1966">conocerá</TOKEN>
+        <TOKEN id="token-56-10" pos="word" morph="none" start_char="1968" end_char="1972">hasta</TOKEN>
+        <TOKEN id="token-56-11" pos="word" morph="none" start_char="1974" end_char="1980">después</TOKEN>
+        <TOKEN id="token-56-12" pos="word" morph="none" start_char="1982" end_char="1984">del</TOKEN>
+        <TOKEN id="token-56-13" pos="number" morph="none" start_char="1986" end_char="1987">13</TOKEN>
+        <TOKEN id="token-56-14" pos="word" morph="none" start_char="1989" end_char="1990">de</TOKEN>
+      </SEG>
+      <SEG id="segment-57" start_char="1992" end_char="2058">
+        <ORIGINAL_TEXT>octubre. Mientras tanto, Pistorius seguirá en libertad condicional.</ORIGINAL_TEXT>
+        <TOKEN id="token-57-0" pos="word" morph="none" start_char="1992" end_char="1998">octubre</TOKEN>
+        <TOKEN id="token-57-1" pos="punct" morph="none" start_char="1999" end_char="1999">.</TOKEN>
+        <TOKEN id="token-57-2" pos="word" morph="none" start_char="2001" end_char="2008">Mientras</TOKEN>
+        <TOKEN id="token-57-3" pos="word" morph="none" start_char="2010" end_char="2014">tanto</TOKEN>
+        <TOKEN id="token-57-4" pos="punct" morph="none" start_char="2015" end_char="2015">,</TOKEN>
+        <TOKEN id="token-57-5" pos="word" morph="none" start_char="2017" end_char="2025">Pistorius</TOKEN>
+        <TOKEN id="token-57-6" pos="word" morph="none" start_char="2027" end_char="2033">seguirá</TOKEN>
+        <TOKEN id="token-57-7" pos="word" morph="none" start_char="2035" end_char="2036">en</TOKEN>
+        <TOKEN id="token-57-8" pos="word" morph="none" start_char="2038" end_char="2045">libertad</TOKEN>
+        <TOKEN id="token-57-9" pos="word" morph="none" start_char="2047" end_char="2057">condicional</TOKEN>
+        <TOKEN id="token-57-10" pos="punct" morph="none" start_char="2058" end_char="2058">.</TOKEN>
+      </SEG>
+      <SEG id="segment-58" start_char="2060" end_char="2063">
+        <ORIGINAL_TEXT>&lt;/P&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-58-0" pos="unknown" morph="none" start_char="2060" end_char="2063">&lt;/P&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-59" start_char="2065" end_char="2067">
+        <ORIGINAL_TEXT>&lt;P&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-59-0" pos="unknown" morph="none" start_char="2065" end_char="2067">&lt;P&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-60" start_char="2069" end_char="2142">
+        <ORIGINAL_TEXT>En el peor de los casos, el sprinter, que tiene amputadas las dos piernas,</ORIGINAL_TEXT>
+        <TOKEN id="token-60-0" pos="word" morph="none" start_char="2069" end_char="2070">En</TOKEN>
+        <TOKEN id="token-60-1" pos="word" morph="none" start_char="2072" end_char="2073">el</TOKEN>
+        <TOKEN id="token-60-2" pos="word" morph="none" start_char="2075" end_char="2078">peor</TOKEN>
+        <TOKEN id="token-60-3" pos="word" morph="none" start_char="2080" end_char="2081">de</TOKEN>
+        <TOKEN id="token-60-4" pos="word" morph="none" start_char="2083" end_char="2085">los</TOKEN>
+        <TOKEN id="token-60-5" pos="word" morph="none" start_char="2087" end_char="2091">casos</TOKEN>
+        <TOKEN id="token-60-6" pos="punct" morph="none" start_char="2092" end_char="2092">,</TOKEN>
+        <TOKEN id="token-60-7" pos="word" morph="none" start_char="2094" end_char="2095">el</TOKEN>
+        <TOKEN id="token-60-8" pos="word" morph="none" start_char="2097" end_char="2104">sprinter</TOKEN>
+        <TOKEN id="token-60-9" pos="punct" morph="none" start_char="2105" end_char="2105">,</TOKEN>
+        <TOKEN id="token-60-10" pos="word" morph="none" start_char="2107" end_char="2109">que</TOKEN>
+        <TOKEN id="token-60-11" pos="word" morph="none" start_char="2111" end_char="2115">tiene</TOKEN>
+        <TOKEN id="token-60-12" pos="word" morph="none" start_char="2117" end_char="2125">amputadas</TOKEN>
+        <TOKEN id="token-60-13" pos="word" morph="none" start_char="2127" end_char="2129">las</TOKEN>
+        <TOKEN id="token-60-14" pos="word" morph="none" start_char="2131" end_char="2133">dos</TOKEN>
+        <TOKEN id="token-60-15" pos="word" morph="none" start_char="2135" end_char="2141">piernas</TOKEN>
+        <TOKEN id="token-60-16" pos="punct" morph="none" start_char="2142" end_char="2142">,</TOKEN>
+      </SEG>
+      <SEG id="segment-61" start_char="2144" end_char="2217">
+        <ORIGINAL_TEXT>podría ser condenado a 15 años de cárcel, aunque también es posible que la</ORIGINAL_TEXT>
+        <TOKEN id="token-61-0" pos="word" morph="none" start_char="2144" end_char="2149">podría</TOKEN>
+        <TOKEN id="token-61-1" pos="word" morph="none" start_char="2151" end_char="2153">ser</TOKEN>
+        <TOKEN id="token-61-2" pos="word" morph="none" start_char="2155" end_char="2163">condenado</TOKEN>
+        <TOKEN id="token-61-3" pos="word" morph="none" start_char="2165" end_char="2165">a</TOKEN>
+        <TOKEN id="token-61-4" pos="number" morph="none" start_char="2167" end_char="2168">15</TOKEN>
+        <TOKEN id="token-61-5" pos="word" morph="none" start_char="2170" end_char="2173">años</TOKEN>
+        <TOKEN id="token-61-6" pos="word" morph="none" start_char="2175" end_char="2176">de</TOKEN>
+        <TOKEN id="token-61-7" pos="word" morph="none" start_char="2178" end_char="2183">cárcel</TOKEN>
+        <TOKEN id="token-61-8" pos="punct" morph="none" start_char="2184" end_char="2184">,</TOKEN>
+        <TOKEN id="token-61-9" pos="word" morph="none" start_char="2186" end_char="2191">aunque</TOKEN>
+        <TOKEN id="token-61-10" pos="word" morph="none" start_char="2193" end_char="2199">también</TOKEN>
+        <TOKEN id="token-61-11" pos="word" morph="none" start_char="2201" end_char="2202">es</TOKEN>
+        <TOKEN id="token-61-12" pos="word" morph="none" start_char="2204" end_char="2210">posible</TOKEN>
+        <TOKEN id="token-61-13" pos="word" morph="none" start_char="2212" end_char="2214">que</TOKEN>
+        <TOKEN id="token-61-14" pos="word" morph="none" start_char="2216" end_char="2217">la</TOKEN>
+      </SEG>
+      <SEG id="segment-62" start_char="2219" end_char="2238">
+        <ORIGINAL_TEXT>pena sea suspendida.</ORIGINAL_TEXT>
+        <TOKEN id="token-62-0" pos="word" morph="none" start_char="2219" end_char="2222">pena</TOKEN>
+        <TOKEN id="token-62-1" pos="word" morph="none" start_char="2224" end_char="2226">sea</TOKEN>
+        <TOKEN id="token-62-2" pos="word" morph="none" start_char="2228" end_char="2237">suspendida</TOKEN>
+        <TOKEN id="token-62-3" pos="punct" morph="none" start_char="2238" end_char="2238">.</TOKEN>
+      </SEG>
+      <SEG id="segment-63" start_char="2240" end_char="2243">
+        <ORIGINAL_TEXT>&lt;/P&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-63-0" pos="unknown" morph="none" start_char="2240" end_char="2243">&lt;/P&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-64" start_char="2245" end_char="2251">
+        <ORIGINAL_TEXT>&lt;/TEXT&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-64-0" pos="unknown" morph="none" start_char="2245" end_char="2251">&lt;/TEXT&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-65" start_char="2253" end_char="2258">
+        <ORIGINAL_TEXT>&lt;/DOC&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-65-0" pos="unknown" morph="none" start_char="2253" end_char="2258">&lt;/DOC&gt;</TOKEN>
+      </SEG>
+    </TEXT>
+  </DOC>
+</LCTL_TEXT>

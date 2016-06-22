@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE LCTL_TEXT SYSTEM "ltf.v1.5.dtd">
+<LCTL_TEXT>
+<DOC id="CMN_NW_001326_20150619_F0010000T.nw.xml" tokenization="tokenization_parameters" grammar="none" raw_text_char_length="1369" raw_text_md5="a323e6853e108ce1c4dbdd3c8892980c">
+<TEXT>
+<SEG id="segment-0" start_char="0" end_char="37">
+<ORIGINAL_TEXT>&lt;?xml version="1.0" encoding="utf-8"?&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-0-0" pos="unknown" morph="none" start_char="0" end_char="4">&lt;?xml</TOKEN>
+<TOKEN id="token-0-1" pos="unknown" morph="none" start_char="6" end_char="18">version="1.0"</TOKEN>
+<TOKEN id="token-0-2" pos="unknown" morph="none" start_char="20" end_char="37">encoding="utf-8"?&gt;</TOKEN>
+</SEG>
+<SEG id="segment-1" start_char="39" end_char="81">
+<ORIGINAL_TEXT>&lt;DOC id="CMN_NW_001326_20150619_F0010000T"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-1-0" pos="unknown" morph="none" start_char="39" end_char="42">&lt;DOC</TOKEN>
+<TOKEN id="token-1-1" pos="unknown" morph="none" start_char="44" end_char="81">id="CMN_NW_001326_20150619_F0010000T"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-2" start_char="83" end_char="151">
+<ORIGINAL_TEXT>&lt;SOURCE&gt;http://finance.ifeng.com/a/20150619/13788058_0.shtml&lt;/SOURCE&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-2-0" pos="unknown" morph="none" start_char="83" end_char="151">&lt;SOURCE&gt;http://finance.ifeng.com/a/20150619/13788058_0.shtml&lt;/SOURCE&gt;</TOKEN>
+</SEG>
+<SEG id="segment-3" start_char="153" end_char="194">
+<ORIGINAL_TEXT>&lt;DATE_TIME&gt;2015-06-19T00:00:00&lt;/DATE_TIME&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-3-0" pos="unknown" morph="none" start_char="153" end_char="194">&lt;DATE_TIME&gt;2015-06-19T00:00:00&lt;/DATE_TIME&gt;</TOKEN>
+</SEG>
+<SEG id="segment-4" start_char="196" end_char="205">
+<ORIGINAL_TEXT>&lt;HEADLINE&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-4-0" pos="unknown" morph="none" start_char="196" end_char="205">&lt;HEADLINE&gt;</TOKEN>
+</SEG>
+<SEG id="segment-5" start_char="207" end_char="234">
+<ORIGINAL_TEXT>中国股市暴跌真正原因：外资空头疯狂做空美国上市A股ETF</ORIGINAL_TEXT>
+<TOKEN id="token-5-0" pos="word" morph="none" start_char="207" end_char="216">中国股市暴跌真正原因</TOKEN>
+<TOKEN id="token-5-1" pos="punct" morph="none" start_char="217" end_char="217">：</TOKEN>
+<TOKEN id="token-5-2" pos="word" morph="none" start_char="218" end_char="234">外资空头疯狂做空美国上市A股ETF</TOKEN>
+</SEG>
+<SEG id="segment-6" start_char="236" end_char="246">
+<ORIGINAL_TEXT>&lt;/HEADLINE&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-6-0" pos="unknown" morph="none" start_char="236" end_char="246">&lt;/HEADLINE&gt;</TOKEN>
+</SEG>
+<SEG id="segment-7" start_char="248" end_char="253">
+<ORIGINAL_TEXT>&lt;TEXT&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-7-0" pos="unknown" morph="none" start_char="248" end_char="253">&lt;TEXT&gt;</TOKEN>
+</SEG>
+<SEG id="segment-8" start_char="255" end_char="257">
+<ORIGINAL_TEXT>&lt;P&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-8-0" pos="unknown" morph="none" start_char="255" end_char="257">&lt;P&gt;</TOKEN>
+</SEG>
+<SEG id="segment-9" start_char="259" end_char="313">
+<ORIGINAL_TEXT>凤凰财经讯 据外媒报道，美国投资者从未如此坚信，中国A股的反弹已经结束，外资空头疯狂做空美国上市的A股ETF。</ORIGINAL_TEXT>
+<TOKEN id="token-9-0" pos="word" morph="none" start_char="259" end_char="263">凤凰财经讯</TOKEN>
+<TOKEN id="token-9-1" pos="unknown" morph="none" start_char="265" end_char="313">据外媒报道，美国投资者从未如此坚信，中国A股的反弹已经结束，外资空头疯狂做空美国上市的A股ETF。</TOKEN>
+</SEG>
+<SEG id="segment-10" start_char="315" end_char="318">
+<ORIGINAL_TEXT>&lt;/P&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-10-0" pos="unknown" morph="none" start_char="315" end_char="318">&lt;/P&gt;</TOKEN>
+</SEG>
+<SEG id="segment-11" start_char="320" end_char="322">
+<ORIGINAL_TEXT>&lt;P&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-11-0" pos="unknown" morph="none" start_char="320" end_char="322">&lt;P&gt;</TOKEN>
+</SEG>
+<SEG id="segment-12" start_char="324" end_char="491">
+<ORIGINAL_TEXT>彭博新闻社的数据显示，美国最大的跟踪人民币计价股票的ETF的做空意愿已经升至流通股数的16%，创下历史记录。做空赌注较上月翻番。交易员上周从追踪中国A股的ETF Deutsche X-trackers Harvest CSI 300 China A-Shares ETF中撤出了2.58亿美元的资金，创下2013年该基金开创以来的记录。</ORIGINAL_TEXT>
+<TOKEN id="token-12-0" pos="unknown" morph="none" start_char="324" end_char="403">彭博新闻社的数据显示，美国最大的跟踪人民币计价股票的ETF的做空意愿已经升至流通股数的16%，创下历史记录。做空赌注较上月翻番。交易员上周从追踪中国A股的ETF</TOKEN>
+<TOKEN id="token-12-1" pos="word" morph="none" start_char="405" end_char="412">Deutsche</TOKEN>
+<TOKEN id="token-12-2" pos="word" morph="none" start_char="414" end_char="414">X</TOKEN>
+<TOKEN id="token-12-3" pos="punct" morph="none" start_char="415" end_char="415">-</TOKEN>
+<TOKEN id="token-12-4" pos="word" morph="none" start_char="416" end_char="423">trackers</TOKEN>
+<TOKEN id="token-12-5" pos="word" morph="none" start_char="425" end_char="431">Harvest</TOKEN>
+<TOKEN id="token-12-6" pos="word" morph="none" start_char="433" end_char="435">CSI</TOKEN>
+<TOKEN id="token-12-7" pos="number" morph="none" start_char="437" end_char="439">300</TOKEN>
+<TOKEN id="token-12-8" pos="word" morph="none" start_char="441" end_char="445">China</TOKEN>
+<TOKEN id="token-12-9" pos="word" morph="none" start_char="447" end_char="447">A</TOKEN>
+<TOKEN id="token-12-10" pos="punct" morph="none" start_char="448" end_char="448">-</TOKEN>
+<TOKEN id="token-12-11" pos="word" morph="none" start_char="449" end_char="454">Shares</TOKEN>
+<TOKEN id="token-12-12" pos="unknown" morph="none" start_char="456" end_char="491">ETF中撤出了2.58亿美元的资金，创下2013年该基金开创以来的记录。</TOKEN>
+</SEG>
+<SEG id="segment-13" start_char="493" end_char="496">
+<ORIGINAL_TEXT>&lt;/P&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-13-0" pos="unknown" morph="none" start_char="493" end_char="496">&lt;/P&gt;</TOKEN>
+</SEG>
+<SEG id="segment-14" start_char="498" end_char="500">
+<ORIGINAL_TEXT>&lt;P&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-14-0" pos="unknown" morph="none" start_char="498" end_char="500">&lt;P&gt;</TOKEN>
+</SEG>
+<SEG id="segment-15" start_char="502" end_char="592">
+<ORIGINAL_TEXT>对上证综指的悲观情绪已经恶化。A股本周可能连跌5个交易日，跌幅或创下2009年2月来最大。看多者表示，中国的货币政策将推动股市进一步上涨，而看空者则认为，市场已经脱离了经济的基本面。</ORIGINAL_TEXT>
+<TOKEN id="token-15-0" pos="unknown" morph="none" start_char="502" end_char="592">对上证综指的悲观情绪已经恶化。A股本周可能连跌5个交易日，跌幅或创下2009年2月来最大。看多者表示，中国的货币政策将推动股市进一步上涨，而看空者则认为，市场已经脱离了经济的基本面。</TOKEN>
+</SEG>
+<SEG id="segment-16" start_char="594" end_char="597">
+<ORIGINAL_TEXT>&lt;/P&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-16-0" pos="unknown" morph="none" start_char="594" end_char="597">&lt;/P&gt;</TOKEN>
+</SEG>
+<SEG id="segment-17" start_char="599" end_char="601">
+<ORIGINAL_TEXT>&lt;P&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-17-0" pos="unknown" morph="none" start_char="599" end_char="601">&lt;P&gt;</TOKEN>
+</SEG>
+<SEG id="segment-18" start_char="603" end_char="720">
+<ORIGINAL_TEXT>Fiduciary Trust Co.的首席投资官Michael Millaney向彭博新闻社表示：“抛售还将继续，直到股市从目前流动性催生的泡沫回归至更为理性的交易模式。所有一切都将回到中国宏观经济的背景下。目前，中国经济还在放缓。”</ORIGINAL_TEXT>
+<TOKEN id="token-18-0" pos="word" morph="none" start_char="603" end_char="611">Fiduciary</TOKEN>
+<TOKEN id="token-18-1" pos="word" morph="none" start_char="613" end_char="617">Trust</TOKEN>
+<TOKEN id="token-18-2" pos="word" morph="none" start_char="619" end_char="620">Co</TOKEN>
+<TOKEN id="token-18-3" pos="punct" morph="none" start_char="621" end_char="621">.</TOKEN>
+<TOKEN id="token-18-4" pos="word" morph="none" start_char="622" end_char="634">的首席投资官Michael</TOKEN>
+<TOKEN id="token-18-5" pos="unknown" morph="none" start_char="636" end_char="720">Millaney向彭博新闻社表示：“抛售还将继续，直到股市从目前流动性催生的泡沫回归至更为理性的交易模式。所有一切都将回到中国宏观经济的背景下。目前，中国经济还在放缓。”</TOKEN>
+</SEG>
+<SEG id="segment-19" start_char="722" end_char="725">
+<ORIGINAL_TEXT>&lt;/P&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-19-0" pos="unknown" morph="none" start_char="722" end_char="725">&lt;/P&gt;</TOKEN>
+</SEG>
+<SEG id="segment-20" start_char="727" end_char="729">
+<ORIGINAL_TEXT>&lt;P&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-20-0" pos="unknown" morph="none" start_char="727" end_char="729">&lt;P&gt;</TOKEN>
+</SEG>
+<SEG id="segment-21" start_char="731" end_char="868">
+<ORIGINAL_TEXT>周一至周四，德意志银行的A股ETF下跌7.4％，至51.10美元。这与上证综指的情况大致相同。香港上市的iShares FTSE A50 China Index ETF同期下跌7.9%，至14.92港元。该ETF是全球规模最大的A股基金。去年，A股表现抢眼，涨幅超过100%。</ORIGINAL_TEXT>
+<TOKEN id="token-21-0" pos="unknown" morph="none" start_char="731" end_char="789">周一至周四，德意志银行的A股ETF下跌7.4％，至51.10美元。这与上证综指的情况大致相同。香港上市的iShares</TOKEN>
+<TOKEN id="token-21-1" pos="word" morph="none" start_char="791" end_char="794">FTSE</TOKEN>
+<TOKEN id="token-21-2" pos="word" morph="none" start_char="796" end_char="798">A50</TOKEN>
+<TOKEN id="token-21-3" pos="word" morph="none" start_char="800" end_char="804">China</TOKEN>
+<TOKEN id="token-21-4" pos="word" morph="none" start_char="806" end_char="810">Index</TOKEN>
+<TOKEN id="token-21-5" pos="unknown" morph="none" start_char="812" end_char="868">ETF同期下跌7.9%，至14.92港元。该ETF是全球规模最大的A股基金。去年，A股表现抢眼，涨幅超过100%。</TOKEN>
+</SEG>
+<SEG id="segment-22" start_char="870" end_char="873">
+<ORIGINAL_TEXT>&lt;/P&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-22-0" pos="unknown" morph="none" start_char="870" end_char="873">&lt;/P&gt;</TOKEN>
+</SEG>
+<SEG id="segment-23" start_char="875" end_char="877">
+<ORIGINAL_TEXT>&lt;P&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-23-0" pos="unknown" morph="none" start_char="875" end_char="877">&lt;P&gt;</TOKEN>
+</SEG>
+<SEG id="segment-24" start_char="879" end_char="913">
+<ORIGINAL_TEXT>本周新股的上市冻结了大量资金，导致股市下跌，这在一些分析师的预料之内。</ORIGINAL_TEXT>
+<TOKEN id="token-24-0" pos="unknown" morph="none" start_char="879" end_char="913">本周新股的上市冻结了大量资金，导致股市下跌，这在一些分析师的预料之内。</TOKEN>
+</SEG>
+<SEG id="segment-25" start_char="915" end_char="918">
+<ORIGINAL_TEXT>&lt;/P&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-25-0" pos="unknown" morph="none" start_char="915" end_char="918">&lt;/P&gt;</TOKEN>
+</SEG>
+<SEG id="segment-26" start_char="920" end_char="922">
+<ORIGINAL_TEXT>&lt;P&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-26-0" pos="unknown" morph="none" start_char="920" end_char="922">&lt;P&gt;</TOKEN>
+</SEG>
+<SEG id="segment-27" start_char="924" end_char="1054">
+<ORIGINAL_TEXT>摩根士丹利在对39名投资者进行调查后发现，超过一半的受访者认为中国内地股市处于泡沫之中，他们预计在接下来的12个月，股市将有10%的修正。摩根士丹利分析师Brian Kelleher表示，全球投资者对A股的看空情绪创下2013年3月摩根士丹利开始该调查时的新高。</ORIGINAL_TEXT>
+<TOKEN id="token-27-0" pos="unknown" morph="none" start_char="924" end_char="1005">摩根士丹利在对39名投资者进行调查后发现，超过一半的受访者认为中国内地股市处于泡沫之中，他们预计在接下来的12个月，股市将有10%的修正。摩根士丹利分析师Brian</TOKEN>
+<TOKEN id="token-27-1" pos="word" morph="none" start_char="1007" end_char="1016">Kelleher表示</TOKEN>
+<TOKEN id="token-27-2" pos="punct" morph="none" start_char="1017" end_char="1017">，</TOKEN>
+<TOKEN id="token-27-3" pos="word" morph="none" start_char="1018" end_char="1053">全球投资者对A股的看空情绪创下2013年3月摩根士丹利开始该调查时的新高</TOKEN>
+<TOKEN id="token-27-4" pos="punct" morph="none" start_char="1054" end_char="1054">。</TOKEN>
+</SEG>
+<SEG id="segment-28" start_char="1056" end_char="1059">
+<ORIGINAL_TEXT>&lt;/P&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-28-0" pos="unknown" morph="none" start_char="1056" end_char="1059">&lt;/P&gt;</TOKEN>
+</SEG>
+<SEG id="segment-29" start_char="1061" end_char="1063">
+<ORIGINAL_TEXT>&lt;P&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-29-0" pos="unknown" morph="none" start_char="1061" end_char="1063">&lt;P&gt;</TOKEN>
+</SEG>
+<SEG id="segment-30" start_char="1065" end_char="1173">
+<ORIGINAL_TEXT>Thornburg Investment Management Inc的Charlie Wilson表示，股市的抛售是长期牛市中健康的暂停，而不是市场崩盘。他表示，他或将利用此次股市下跌的机会买入更多高质量公司的股票。</ORIGINAL_TEXT>
+<TOKEN id="token-30-0" pos="word" morph="none" start_char="1065" end_char="1073">Thornburg</TOKEN>
+<TOKEN id="token-30-1" pos="word" morph="none" start_char="1075" end_char="1084">Investment</TOKEN>
+<TOKEN id="token-30-2" pos="word" morph="none" start_char="1086" end_char="1095">Management</TOKEN>
+<TOKEN id="token-30-3" pos="word" morph="none" start_char="1097" end_char="1107">Inc的Charlie</TOKEN>
+<TOKEN id="token-30-4" pos="unknown" morph="none" start_char="1109" end_char="1173">Wilson表示，股市的抛售是长期牛市中健康的暂停，而不是市场崩盘。他表示，他或将利用此次股市下跌的机会买入更多高质量公司的股票。</TOKEN>
+</SEG>
+<SEG id="segment-31" start_char="1175" end_char="1178">
+<ORIGINAL_TEXT>&lt;/P&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-31-0" pos="unknown" morph="none" start_char="1175" end_char="1178">&lt;/P&gt;</TOKEN>
+</SEG>
+<SEG id="segment-32" start_char="1180" end_char="1182">
+<ORIGINAL_TEXT>&lt;P&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-32-0" pos="unknown" morph="none" start_char="1180" end_char="1182">&lt;P&gt;</TOKEN>
+</SEG>
+<SEG id="segment-33" start_char="1184" end_char="1298">
+<ORIGINAL_TEXT>在Thronburg Developing world Fund管理者20亿美元资金的Wilson表示：“股市回调的部分原因是监管层希望抑制股市过热。政府最不想看到的是股市崩溃。他们希望管理股市的热情，但不想彻底浇灭股市的人气。”</ORIGINAL_TEXT>
+<TOKEN id="token-33-0" pos="word" morph="none" start_char="1184" end_char="1193">在Thronburg</TOKEN>
+<TOKEN id="token-33-1" pos="word" morph="none" start_char="1195" end_char="1204">Developing</TOKEN>
+<TOKEN id="token-33-2" pos="word" morph="none" start_char="1206" end_char="1210">world</TOKEN>
+<TOKEN id="token-33-3" pos="unknown" morph="none" start_char="1212" end_char="1298">Fund管理者20亿美元资金的Wilson表示：“股市回调的部分原因是监管层希望抑制股市过热。政府最不想看到的是股市崩溃。他们希望管理股市的热情，但不想彻底浇灭股市的人气。”</TOKEN>
+</SEG>
+<SEG id="segment-34" start_char="1300" end_char="1303">
+<ORIGINAL_TEXT>&lt;/P&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-34-0" pos="unknown" morph="none" start_char="1300" end_char="1303">&lt;/P&gt;</TOKEN>
+</SEG>
+<SEG id="segment-35" start_char="1305" end_char="1307">
+<ORIGINAL_TEXT>&lt;P&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-35-0" pos="unknown" morph="none" start_char="1305" end_char="1307">&lt;P&gt;</TOKEN>
+</SEG>
+<SEG id="segment-36" start_char="1309" end_char="1347">
+<ORIGINAL_TEXT>Wilson的基金在过去的5年平均每年上涨7.4％，打败了行业内96%的基金。</ORIGINAL_TEXT>
+<TOKEN id="token-36-0" pos="unknown" morph="none" start_char="1309" end_char="1347">Wilson的基金在过去的5年平均每年上涨7.4％，打败了行业内96%的基金。</TOKEN>
+</SEG>
+<SEG id="segment-37" start_char="1349" end_char="1352">
+<ORIGINAL_TEXT>&lt;/P&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-37-0" pos="unknown" morph="none" start_char="1349" end_char="1352">&lt;/P&gt;</TOKEN>
+</SEG>
+<SEG id="segment-38" start_char="1354" end_char="1360">
+<ORIGINAL_TEXT>&lt;/TEXT&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-38-0" pos="unknown" morph="none" start_char="1354" end_char="1360">&lt;/TEXT&gt;</TOKEN>
+</SEG>
+<SEG id="segment-39" start_char="1362" end_char="1367">
+<ORIGINAL_TEXT>&lt;/DOC&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-39-0" pos="unknown" morph="none" start_char="1362" end_char="1367">&lt;/DOC&gt;</TOKEN>
+</SEG>
+</TEXT>
+</DOC>
+</LCTL_TEXT>

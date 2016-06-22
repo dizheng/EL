@@ -1,0 +1,715 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE LCTL_TEXT SYSTEM "ltf.v1.5.dtd">
+<LCTL_TEXT>
+<DOC id="CMN_DF_000311_20150713_F001000AR.df.xml" tokenization="tokenization_parameters" grammar="none" raw_text_char_length="4692" raw_text_md5="2f38fd6f49265f17c938ef5fefbe1d1b">
+<TEXT>
+<SEG id="segment-0" start_char="0" end_char="37">
+<ORIGINAL_TEXT>&lt;?xml version="1.0" encoding="utf-8"?&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-0-0" pos="unknown" morph="none" start_char="0" end_char="4">&lt;?xml</TOKEN>
+<TOKEN id="token-0-1" pos="unknown" morph="none" start_char="6" end_char="18">version="1.0"</TOKEN>
+<TOKEN id="token-0-2" pos="unknown" morph="none" start_char="20" end_char="37">encoding="utf-8"?&gt;</TOKEN>
+</SEG>
+<SEG id="segment-1" start_char="39" end_char="81">
+<ORIGINAL_TEXT>&lt;doc id="CMN_DF_000311_20150713_F001000AR"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-1-0" pos="unknown" morph="none" start_char="39" end_char="42">&lt;doc</TOKEN>
+<TOKEN id="token-1-1" pos="unknown" morph="none" start_char="44" end_char="81">id="CMN_DF_000311_20150713_F001000AR"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-2" start_char="83" end_char="92">
+<ORIGINAL_TEXT>&lt;headline&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-2-0" pos="unknown" morph="none" start_char="83" end_char="92">&lt;headline&gt;</TOKEN>
+</SEG>
+<SEG id="segment-3" start_char="94" end_char="111">
+<ORIGINAL_TEXT>快讯：欧元区领导人已达成希腊救助协议</ORIGINAL_TEXT>
+<TOKEN id="token-3-0" pos="word" morph="none" start_char="94" end_char="95">快讯</TOKEN>
+<TOKEN id="token-3-1" pos="punct" morph="none" start_char="96" end_char="96">：</TOKEN>
+<TOKEN id="token-3-2" pos="word" morph="none" start_char="97" end_char="111">欧元区领导人已达成希腊救助协议</TOKEN>
+</SEG>
+<SEG id="segment-4" start_char="113" end_char="123">
+<ORIGINAL_TEXT>&lt;/headline&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-4-0" pos="unknown" morph="none" start_char="113" end_char="123">&lt;/headline&gt;</TOKEN>
+</SEG>
+<SEG id="segment-5" start_char="125" end_char="184">
+<ORIGINAL_TEXT>&lt;post id="p1" author="再别金沙萨" datetime="2015-07-13T19:25:00"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-5-0" pos="unknown" morph="none" start_char="125" end_char="129">&lt;post</TOKEN>
+<TOKEN id="token-5-1" pos="unknown" morph="none" start_char="131" end_char="137">id="p1"</TOKEN>
+<TOKEN id="token-5-2" pos="unknown" morph="none" start_char="139" end_char="152">author="再别金沙萨"</TOKEN>
+<TOKEN id="token-5-3" pos="unknown" morph="none" start_char="154" end_char="184">datetime="2015-07-13T19:25:00"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-6" start_char="186" end_char="237">
+<ORIGINAL_TEXT>http://news.163.com/15/0713/15/AUDOEKOM00014SEH.html</ORIGINAL_TEXT>
+<TOKEN id="token-6-0" pos="url" morph="none" start_char="186" end_char="237">http://news.163.com/15/0713/15/AUDOEKOM00014SEH.html</TOKEN>
+</SEG>
+<SEG id="segment-7" start_char="239" end_char="245">
+<ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-7-0" pos="unknown" morph="none" start_char="239" end_char="245">&lt;/post&gt;</TOKEN>
+</SEG>
+<SEG id="segment-8" start_char="247" end_char="312">
+<ORIGINAL_TEXT>&lt;post id="p2" author="billycoming" datetime="2015-07-13T19:26:00"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-8-0" pos="unknown" morph="none" start_char="247" end_char="251">&lt;post</TOKEN>
+<TOKEN id="token-8-1" pos="unknown" morph="none" start_char="253" end_char="259">id="p2"</TOKEN>
+<TOKEN id="token-8-2" pos="unknown" morph="none" start_char="261" end_char="280">author="billycoming"</TOKEN>
+<TOKEN id="token-8-3" pos="unknown" morph="none" start_char="282" end_char="312">datetime="2015-07-13T19:26:00"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-9" start_char="314" end_char="331">
+<ORIGINAL_TEXT>会哭的孩子有奶吃，皿煮的任性可以支持</ORIGINAL_TEXT>
+<TOKEN id="token-9-0" pos="word" morph="none" start_char="314" end_char="321">会哭的孩子有奶吃</TOKEN>
+<TOKEN id="token-9-1" pos="punct" morph="none" start_char="322" end_char="322">，</TOKEN>
+<TOKEN id="token-9-2" pos="word" morph="none" start_char="323" end_char="331">皿煮的任性可以支持</TOKEN>
+</SEG>
+<SEG id="segment-10" start_char="333" end_char="339">
+<ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-10-0" pos="unknown" morph="none" start_char="333" end_char="339">&lt;/post&gt;</TOKEN>
+</SEG>
+<SEG id="segment-11" start_char="341" end_char="407">
+<ORIGINAL_TEXT>&lt;post id="p3" author="yuyuexinghen" datetime="2015-07-13T19:27:00"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-11-0" pos="unknown" morph="none" start_char="341" end_char="345">&lt;post</TOKEN>
+<TOKEN id="token-11-1" pos="unknown" morph="none" start_char="347" end_char="353">id="p3"</TOKEN>
+<TOKEN id="token-11-2" pos="unknown" morph="none" start_char="355" end_char="375">author="yuyuexinghen"</TOKEN>
+<TOKEN id="token-11-3" pos="unknown" morph="none" start_char="377" end_char="407">datetime="2015-07-13T19:27:00"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-12" start_char="409" end_char="427">
+<ORIGINAL_TEXT>我能说个卧槽么，希腊这群要饭的又胜利了</ORIGINAL_TEXT>
+<TOKEN id="token-12-0" pos="word" morph="none" start_char="409" end_char="415">我能说个卧槽么</TOKEN>
+<TOKEN id="token-12-1" pos="punct" morph="none" start_char="416" end_char="416">，</TOKEN>
+<TOKEN id="token-12-2" pos="word" morph="none" start_char="417" end_char="427">希腊这群要饭的又胜利了</TOKEN>
+</SEG>
+<SEG id="segment-13" start_char="430" end_char="445">
+<ORIGINAL_TEXT>还是说要强制进行紧缩的货币政策呢</ORIGINAL_TEXT>
+<TOKEN id="token-13-0" pos="word" morph="none" start_char="430" end_char="445">还是说要强制进行紧缩的货币政策呢</TOKEN>
+</SEG>
+<SEG id="segment-14" start_char="447" end_char="453">
+<ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-14-0" pos="unknown" morph="none" start_char="447" end_char="453">&lt;/post&gt;</TOKEN>
+</SEG>
+<SEG id="segment-15" start_char="455" end_char="514">
+<ORIGINAL_TEXT>&lt;post id="p4" author="丢翻小日本" datetime="2015-07-13T19:28:00"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-15-0" pos="unknown" morph="none" start_char="455" end_char="459">&lt;post</TOKEN>
+<TOKEN id="token-15-1" pos="unknown" morph="none" start_char="461" end_char="467">id="p4"</TOKEN>
+<TOKEN id="token-15-2" pos="unknown" morph="none" start_char="469" end_char="482">author="丢翻小日本"</TOKEN>
+<TOKEN id="token-15-3" pos="unknown" morph="none" start_char="484" end_char="514">datetime="2015-07-13T19:28:00"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-16" start_char="516" end_char="541">
+<ORIGINAL_TEXT>这是要赶游资走么？你看，我这这么多无赖，欢迎借我钱。</ORIGINAL_TEXT>
+<TOKEN id="token-16-0" pos="unknown" morph="none" start_char="516" end_char="541">这是要赶游资走么？你看，我这这么多无赖，欢迎借我钱。</TOKEN>
+</SEG>
+<SEG id="segment-17" start_char="543" end_char="549">
+<ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-17-0" pos="unknown" morph="none" start_char="543" end_char="549">&lt;/post&gt;</TOKEN>
+</SEG>
+<SEG id="segment-18" start_char="551" end_char="614">
+<ORIGINAL_TEXT>&lt;post id="p5" author="muskeetor" datetime="2015-07-13T19:30:00"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-18-0" pos="unknown" morph="none" start_char="551" end_char="555">&lt;post</TOKEN>
+<TOKEN id="token-18-1" pos="unknown" morph="none" start_char="557" end_char="563">id="p5"</TOKEN>
+<TOKEN id="token-18-2" pos="unknown" morph="none" start_char="565" end_char="582">author="muskeetor"</TOKEN>
+<TOKEN id="token-18-3" pos="unknown" morph="none" start_char="584" end_char="614">datetime="2015-07-13T19:30:00"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-19" start_char="616" end_char="802">
+<ORIGINAL_TEXT>拉倒吧，那不是救助协议，直接就是一份哀的美敦书： 希腊对养老金和劳动市场进行“力度巨大”的改革；国际债权人代表进驻雅典，全面监督相关法案的起草；希腊或将拿出500亿欧元“有价值”的资产交由外部基金进行私有化;如果本方案得不到同意，或将开启希腊暂时退出欧元区的替代谈判，包括对希腊进行债务重组。 ——就差直接让希腊割地赔款，把今后百年的国家税收权拱手交给欧元区的德法等大佬们了</ORIGINAL_TEXT>
+<TOKEN id="token-19-0" pos="unknown" morph="none" start_char="616" end_char="639">拉倒吧，那不是救助协议，直接就是一份哀的美敦书：</TOKEN>
+<TOKEN id="token-19-1" pos="unknown" morph="none" start_char="641" end_char="761">希腊对养老金和劳动市场进行“力度巨大”的改革；国际债权人代表进驻雅典，全面监督相关法案的起草；希腊或将拿出500亿欧元“有价值”的资产交由外部基金进行私有化;如果本方案得不到同意，或将开启希腊暂时退出欧元区的替代谈判，包括对希腊进行债务重组。</TOKEN>
+<TOKEN id="token-19-2" pos="punct" morph="none" start_char="763" end_char="764">——</TOKEN>
+<TOKEN id="token-19-3" pos="word" morph="none" start_char="765" end_char="775">就差直接让希腊割地赔款</TOKEN>
+<TOKEN id="token-19-4" pos="punct" morph="none" start_char="776" end_char="776">，</TOKEN>
+<TOKEN id="token-19-5" pos="word" morph="none" start_char="777" end_char="802">把今后百年的国家税收权拱手交给欧元区的德法等大佬们了</TOKEN>
+</SEG>
+<SEG id="segment-20" start_char="805" end_char="1085">
+<ORIGINAL_TEXT>&amp;lt;img id="aimg_sD2W1" onclick="zoom(this, this.src, 0, 0, 0)" class="zoom" width="600" height="3402" file="http://i.guancha.cn/news/2015/07/13/20150713145734963.jpg" border="0" alt="" src="http://i.guancha.cn/news/2015/07/13/20150713145734963.jpg" lazyloaded="true" _load="1"&amp;gt;</ORIGINAL_TEXT>
+<TOKEN id="token-20-0" pos="punct" morph="none" start_char="805" end_char="805">&amp;</TOKEN>
+<TOKEN id="token-20-1" pos="word" morph="none" start_char="806" end_char="807">lt</TOKEN>
+<TOKEN id="token-20-2" pos="punct" morph="none" start_char="808" end_char="808">;</TOKEN>
+<TOKEN id="token-20-3" pos="word" morph="none" start_char="809" end_char="811">img</TOKEN>
+<TOKEN id="token-20-4" pos="unknown" morph="none" start_char="813" end_char="827">id="aimg_sD2W1"</TOKEN>
+<TOKEN id="token-20-5" pos="unknown" morph="none" start_char="829" end_char="847">onclick="zoom(this,</TOKEN>
+<TOKEN id="token-20-6" pos="word" morph="none" start_char="849" end_char="852">this</TOKEN>
+<TOKEN id="token-20-7" pos="punct" morph="none" start_char="853" end_char="853">.</TOKEN>
+<TOKEN id="token-20-8" pos="word" morph="none" start_char="854" end_char="856">src</TOKEN>
+<TOKEN id="token-20-9" pos="punct" morph="none" start_char="857" end_char="857">,</TOKEN>
+<TOKEN id="token-20-10" pos="word" morph="none" start_char="859" end_char="859">0</TOKEN>
+<TOKEN id="token-20-11" pos="punct" morph="none" start_char="860" end_char="860">,</TOKEN>
+<TOKEN id="token-20-12" pos="word" morph="none" start_char="862" end_char="862">0</TOKEN>
+<TOKEN id="token-20-13" pos="punct" morph="none" start_char="863" end_char="863">,</TOKEN>
+<TOKEN id="token-20-14" pos="word" morph="none" start_char="865" end_char="865">0</TOKEN>
+<TOKEN id="token-20-15" pos="punct" morph="none" start_char="866" end_char="867">)"</TOKEN>
+<TOKEN id="token-20-16" pos="unknown" morph="none" start_char="869" end_char="880">class="zoom"</TOKEN>
+<TOKEN id="token-20-17" pos="unknown" morph="none" start_char="882" end_char="892">width="600"</TOKEN>
+<TOKEN id="token-20-18" pos="unknown" morph="none" start_char="894" end_char="906">height="3402"</TOKEN>
+<TOKEN id="token-20-19" pos="unknown" morph="none" start_char="908" end_char="971">file="http://i.guancha.cn/news/2015/07/13/20150713145734963.jpg"</TOKEN>
+<TOKEN id="token-20-20" pos="unknown" morph="none" start_char="973" end_char="982">border="0"</TOKEN>
+<TOKEN id="token-20-21" pos="unknown" morph="none" start_char="984" end_char="989">alt=""</TOKEN>
+<TOKEN id="token-20-22" pos="unknown" morph="none" start_char="991" end_char="1053">src="http://i.guancha.cn/news/2015/07/13/20150713145734963.jpg"</TOKEN>
+<TOKEN id="token-20-23" pos="unknown" morph="none" start_char="1055" end_char="1071">lazyloaded="true"</TOKEN>
+<TOKEN id="token-20-24" pos="unknown" morph="none" start_char="1073" end_char="1085">_load="1"&amp;gt;</TOKEN>
+</SEG>
+<SEG id="segment-21" start_char="1087" end_char="1093">
+<ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-21-0" pos="unknown" morph="none" start_char="1087" end_char="1093">&lt;/post&gt;</TOKEN>
+</SEG>
+<SEG id="segment-22" start_char="1095" end_char="1162">
+<ORIGINAL_TEXT>&lt;post id="p6" author="panzerschiffe" datetime="2015-07-13T19:30:00"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-22-0" pos="unknown" morph="none" start_char="1095" end_char="1099">&lt;post</TOKEN>
+<TOKEN id="token-22-1" pos="unknown" morph="none" start_char="1101" end_char="1107">id="p6"</TOKEN>
+<TOKEN id="token-22-2" pos="unknown" morph="none" start_char="1109" end_char="1130">author="panzerschiffe"</TOKEN>
+<TOKEN id="token-22-3" pos="unknown" morph="none" start_char="1132" end_char="1162">datetime="2015-07-13T19:30:00"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-23" start_char="1164" end_char="1178">
+<ORIGINAL_TEXT>呵呵，意料之中，妥协妥协更健康</ORIGINAL_TEXT>
+<TOKEN id="token-23-0" pos="unknown" morph="none" start_char="1164" end_char="1178">呵呵，意料之中，妥协妥协更健康</TOKEN>
+</SEG>
+<SEG id="segment-24" start_char="1180" end_char="1186">
+<ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-24-0" pos="unknown" morph="none" start_char="1180" end_char="1186">&lt;/post&gt;</TOKEN>
+</SEG>
+<SEG id="segment-25" start_char="1188" end_char="1247">
+<ORIGINAL_TEXT>&lt;post id="p7" author="zjdhn" datetime="2015-07-13T19:32:00"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-25-0" pos="unknown" morph="none" start_char="1188" end_char="1192">&lt;post</TOKEN>
+<TOKEN id="token-25-1" pos="unknown" morph="none" start_char="1194" end_char="1200">id="p7"</TOKEN>
+<TOKEN id="token-25-2" pos="unknown" morph="none" start_char="1202" end_char="1215">author="zjdhn"</TOKEN>
+<TOKEN id="token-25-3" pos="unknown" morph="none" start_char="1217" end_char="1247">datetime="2015-07-13T19:32:00"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-26" start_char="1249" end_char="1274">
+<ORIGINAL_TEXT>希腊也是受害者，一个码头工人和农民欧洲非要人家玩金融</ORIGINAL_TEXT>
+<TOKEN id="token-26-0" pos="word" morph="none" start_char="1249" end_char="1255">希腊也是受害者</TOKEN>
+<TOKEN id="token-26-1" pos="punct" morph="none" start_char="1256" end_char="1256">，</TOKEN>
+<TOKEN id="token-26-2" pos="word" morph="none" start_char="1257" end_char="1274">一个码头工人和农民欧洲非要人家玩金融</TOKEN>
+</SEG>
+<SEG id="segment-27" start_char="1276" end_char="1282">
+<ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-27-0" pos="unknown" morph="none" start_char="1276" end_char="1282">&lt;/post&gt;</TOKEN>
+</SEG>
+<SEG id="segment-28" start_char="1284" end_char="1341">
+<ORIGINAL_TEXT>&lt;post id="p8" author="张起灵" datetime="2015-07-13T19:35:00"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-28-0" pos="unknown" morph="none" start_char="1284" end_char="1288">&lt;post</TOKEN>
+<TOKEN id="token-28-1" pos="unknown" morph="none" start_char="1290" end_char="1296">id="p8"</TOKEN>
+<TOKEN id="token-28-2" pos="unknown" morph="none" start_char="1298" end_char="1309">author="张起灵"</TOKEN>
+<TOKEN id="token-28-3" pos="unknown" morph="none" start_char="1311" end_char="1341">datetime="2015-07-13T19:35:00"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-29" start_char="1343" end_char="1364">
+<ORIGINAL_TEXT>证明欠账的才是大爷，就不还，你还得继续借给我</ORIGINAL_TEXT>
+<TOKEN id="token-29-0" pos="unknown" morph="none" start_char="1343" end_char="1364">证明欠账的才是大爷，就不还，你还得继续借给我</TOKEN>
+</SEG>
+<SEG id="segment-30" start_char="1366" end_char="1372">
+<ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-30-0" pos="unknown" morph="none" start_char="1366" end_char="1372">&lt;/post&gt;</TOKEN>
+</SEG>
+<SEG id="segment-31" start_char="1374" end_char="1434">
+<ORIGINAL_TEXT>&lt;post id="p9" author="中南海万金油" datetime="2015-07-13T19:39:00"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-31-0" pos="unknown" morph="none" start_char="1374" end_char="1378">&lt;post</TOKEN>
+<TOKEN id="token-31-1" pos="unknown" morph="none" start_char="1380" end_char="1386">id="p9"</TOKEN>
+<TOKEN id="token-31-2" pos="unknown" morph="none" start_char="1388" end_char="1402">author="中南海万金油"</TOKEN>
+<TOKEN id="token-31-3" pos="unknown" morph="none" start_char="1404" end_char="1434">datetime="2015-07-13T19:39:00"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-32" start_char="1436" end_char="1564">
+<ORIGINAL_TEXT>上周的深度国际希腊债务专题很好看，希腊人的薪资相当于德国的80%，而劳动力生产效率只相当于德国的20%到30%。1500万人口中有500万人拥有双重国籍，上层社会几乎都有美国等国籍，国家经济不好，精英阶层拍拍屁股回另一个祖国发展就是了，根本不会出谋划策渡患难</ORIGINAL_TEXT>
+<TOKEN id="token-32-0" pos="unknown" morph="none" start_char="1436" end_char="1564">上周的深度国际希腊债务专题很好看，希腊人的薪资相当于德国的80%，而劳动力生产效率只相当于德国的20%到30%。1500万人口中有500万人拥有双重国籍，上层社会几乎都有美国等国籍，国家经济不好，精英阶层拍拍屁股回另一个祖国发展就是了，根本不会出谋划策渡患难</TOKEN>
+</SEG>
+<SEG id="segment-33" start_char="1566" end_char="1572">
+<ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-33-0" pos="unknown" morph="none" start_char="1566" end_char="1572">&lt;/post&gt;</TOKEN>
+</SEG>
+<SEG id="segment-34" start_char="1574" end_char="1633">
+<ORIGINAL_TEXT>&lt;post id="p10" author="龙翔九天" datetime="2015-07-13T19:43:00"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-34-0" pos="unknown" morph="none" start_char="1574" end_char="1578">&lt;post</TOKEN>
+<TOKEN id="token-34-1" pos="unknown" morph="none" start_char="1580" end_char="1587">id="p10"</TOKEN>
+<TOKEN id="token-34-2" pos="unknown" morph="none" start_char="1589" end_char="1601">author="龙翔九天"</TOKEN>
+<TOKEN id="token-34-3" pos="unknown" morph="none" start_char="1603" end_char="1633">datetime="2015-07-13T19:43:00"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-35" start_char="1635" end_char="1667">
+<ORIGINAL_TEXT>希腊玩的这么风光，那些还不如希腊的中东欧欧盟国家是不是也该拼一下了</ORIGINAL_TEXT>
+<TOKEN id="token-35-0" pos="word" morph="none" start_char="1635" end_char="1642">希腊玩的这么风光</TOKEN>
+<TOKEN id="token-35-1" pos="punct" morph="none" start_char="1643" end_char="1643">，</TOKEN>
+<TOKEN id="token-35-2" pos="word" morph="none" start_char="1644" end_char="1667">那些还不如希腊的中东欧欧盟国家是不是也该拼一下了</TOKEN>
+</SEG>
+<SEG id="segment-36" start_char="1669" end_char="1675">
+<ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-36-0" pos="unknown" morph="none" start_char="1669" end_char="1675">&lt;/post&gt;</TOKEN>
+</SEG>
+<SEG id="segment-37" start_char="1677" end_char="1737">
+<ORIGINAL_TEXT>&lt;post id="p11" author="caidd" datetime="2015-07-13T19:53:00"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-37-0" pos="unknown" morph="none" start_char="1677" end_char="1681">&lt;post</TOKEN>
+<TOKEN id="token-37-1" pos="unknown" morph="none" start_char="1683" end_char="1690">id="p11"</TOKEN>
+<TOKEN id="token-37-2" pos="unknown" morph="none" start_char="1692" end_char="1705">author="caidd"</TOKEN>
+<TOKEN id="token-37-3" pos="unknown" morph="none" start_char="1707" end_char="1737">datetime="2015-07-13T19:53:00"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-38" start_char="1739" end_char="1849">
+<ORIGINAL_TEXT>德国人恼了！&amp;lt;img src="http://img.cjdby.com/static2/image/smiley/tiger/23.gif" smilieid="158" border="0" alt=""&amp;gt;</ORIGINAL_TEXT>
+<TOKEN id="token-38-0" pos="unknown" morph="none" start_char="1739" end_char="1751">德国人恼了！&amp;lt;img</TOKEN>
+<TOKEN id="token-38-1" pos="unknown" morph="none" start_char="1753" end_char="1812">src="http://img.cjdby.com/static2/image/smiley/tiger/23.gif"</TOKEN>
+<TOKEN id="token-38-2" pos="unknown" morph="none" start_char="1814" end_char="1827">smilieid="158"</TOKEN>
+<TOKEN id="token-38-3" pos="unknown" morph="none" start_char="1829" end_char="1838">border="0"</TOKEN>
+<TOKEN id="token-38-4" pos="unknown" morph="none" start_char="1840" end_char="1849">alt=""&amp;gt;</TOKEN>
+</SEG>
+<SEG id="segment-39" start_char="1851" end_char="1857">
+<ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-39-0" pos="unknown" morph="none" start_char="1851" end_char="1857">&lt;/post&gt;</TOKEN>
+</SEG>
+<SEG id="segment-40" start_char="1859" end_char="1918">
+<ORIGINAL_TEXT>&lt;post id="p12" author="天才陌路" datetime="2015-07-13T19:58:00"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-40-0" pos="unknown" morph="none" start_char="1859" end_char="1863">&lt;post</TOKEN>
+<TOKEN id="token-40-1" pos="unknown" morph="none" start_char="1865" end_char="1872">id="p12"</TOKEN>
+<TOKEN id="token-40-2" pos="unknown" morph="none" start_char="1874" end_char="1886">author="天才陌路"</TOKEN>
+<TOKEN id="token-40-3" pos="unknown" morph="none" start_char="1888" end_char="1918">datetime="2015-07-13T19:58:00"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-41" start_char="1920" end_char="1946">
+<ORIGINAL_TEXT>德国那些苛刻条件希腊接受了？那些条件相当于揭希腊的皮啊</ORIGINAL_TEXT>
+<TOKEN id="token-41-0" pos="word" morph="none" start_char="1920" end_char="1932">德国那些苛刻条件希腊接受了</TOKEN>
+<TOKEN id="token-41-1" pos="punct" morph="none" start_char="1933" end_char="1933">？</TOKEN>
+<TOKEN id="token-41-2" pos="word" morph="none" start_char="1934" end_char="1946">那些条件相当于揭希腊的皮啊</TOKEN>
+</SEG>
+<SEG id="segment-42" start_char="1948" end_char="1954">
+<ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-42-0" pos="unknown" morph="none" start_char="1948" end_char="1954">&lt;/post&gt;</TOKEN>
+</SEG>
+<SEG id="segment-43" start_char="1956" end_char="2018">
+<ORIGINAL_TEXT>&lt;post id="p13" author="wzhwkza" datetime="2015-07-13T19:59:00"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-43-0" pos="unknown" morph="none" start_char="1956" end_char="1960">&lt;post</TOKEN>
+<TOKEN id="token-43-1" pos="unknown" morph="none" start_char="1962" end_char="1969">id="p13"</TOKEN>
+<TOKEN id="token-43-2" pos="unknown" morph="none" start_char="1971" end_char="1986">author="wzhwkza"</TOKEN>
+<TOKEN id="token-43-3" pos="unknown" morph="none" start_char="1988" end_char="2018">datetime="2015-07-13T19:59:00"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-44" start_char="2020" end_char="2024">
+<ORIGINAL_TEXT>呵呵呵呵…</ORIGINAL_TEXT>
+<TOKEN id="token-44-0" pos="word" morph="none" start_char="2020" end_char="2023">呵呵呵呵</TOKEN>
+<TOKEN id="token-44-1" pos="punct" morph="none" start_char="2024" end_char="2024">…</TOKEN>
+</SEG>
+<SEG id="segment-45" start_char="2027" end_char="2035">
+<ORIGINAL_TEXT>众神的节操碎了一地</ORIGINAL_TEXT>
+<TOKEN id="token-45-0" pos="word" morph="none" start_char="2027" end_char="2035">众神的节操碎了一地</TOKEN>
+</SEG>
+<SEG id="segment-46" start_char="2037" end_char="2043">
+<ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-46-0" pos="unknown" morph="none" start_char="2037" end_char="2043">&lt;/post&gt;</TOKEN>
+</SEG>
+<SEG id="segment-47" start_char="2045" end_char="2105">
+<ORIGINAL_TEXT>&lt;post id="p14" author="gudao" datetime="2015-07-13T19:59:00"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-47-0" pos="unknown" morph="none" start_char="2045" end_char="2049">&lt;post</TOKEN>
+<TOKEN id="token-47-1" pos="unknown" morph="none" start_char="2051" end_char="2058">id="p14"</TOKEN>
+<TOKEN id="token-47-2" pos="unknown" morph="none" start_char="2060" end_char="2073">author="gudao"</TOKEN>
+<TOKEN id="token-47-3" pos="unknown" morph="none" start_char="2075" end_char="2105">datetime="2015-07-13T19:59:00"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-48" start_char="2107" end_char="2134">
+<ORIGINAL_TEXT>&lt;quote orig_author="中南海万金油"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-48-0" pos="unknown" morph="none" start_char="2107" end_char="2112">&lt;quote</TOKEN>
+<TOKEN id="token-48-1" pos="unknown" morph="none" start_char="2114" end_char="2134">orig_author="中南海万金油"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-49" start_char="2136" end_char="2193">
+<ORIGINAL_TEXT>上周的深度国际希腊债务专题很好看，希腊人的薪资相当于德国的80%，而劳动力生产效率只相当于德国的20%到30 ...</ORIGINAL_TEXT>
+<TOKEN id="token-49-0" pos="unknown" morph="none" start_char="2136" end_char="2189">上周的深度国际希腊债务专题很好看，希腊人的薪资相当于德国的80%，而劳动力生产效率只相当于德国的20%到30</TOKEN>
+<TOKEN id="token-49-1" pos="unknown" morph="none" start_char="2191" end_char="2193">...</TOKEN>
+</SEG>
+<SEG id="segment-50" start_char="2195" end_char="2202">
+<ORIGINAL_TEXT>&lt;/quote&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-50-0" pos="unknown" morph="none" start_char="2195" end_char="2202">&lt;/quote&gt;</TOKEN>
+</SEG>
+<SEG id="segment-51" start_char="2204" end_char="2217">
+<ORIGINAL_TEXT>是的是的，这个节目一直有看。</ORIGINAL_TEXT>
+<TOKEN id="token-51-0" pos="word" morph="none" start_char="2204" end_char="2207">是的是的</TOKEN>
+<TOKEN id="token-51-1" pos="punct" morph="none" start_char="2208" end_char="2208">，</TOKEN>
+<TOKEN id="token-51-2" pos="word" morph="none" start_char="2209" end_char="2216">这个节目一直有看</TOKEN>
+<TOKEN id="token-51-3" pos="punct" morph="none" start_char="2217" end_char="2217">。</TOKEN>
+</SEG>
+<SEG id="segment-52" start_char="2220" end_char="2251">
+<ORIGINAL_TEXT>有些福利真是触目惊心，也算开了眼界，从政府到国民都有相应的过错。</ORIGINAL_TEXT>
+<TOKEN id="token-52-0" pos="unknown" morph="none" start_char="2220" end_char="2251">有些福利真是触目惊心，也算开了眼界，从政府到国民都有相应的过错。</TOKEN>
+</SEG>
+<SEG id="segment-53" start_char="2253" end_char="2259">
+<ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-53-0" pos="unknown" morph="none" start_char="2253" end_char="2259">&lt;/post&gt;</TOKEN>
+</SEG>
+<SEG id="segment-54" start_char="2261" end_char="2324">
+<ORIGINAL_TEXT>&lt;post id="p15" author="dirtyfan" datetime="2015-07-13T20:07:00"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-54-0" pos="unknown" morph="none" start_char="2261" end_char="2265">&lt;post</TOKEN>
+<TOKEN id="token-54-1" pos="unknown" morph="none" start_char="2267" end_char="2274">id="p15"</TOKEN>
+<TOKEN id="token-54-2" pos="unknown" morph="none" start_char="2276" end_char="2292">author="dirtyfan"</TOKEN>
+<TOKEN id="token-54-3" pos="unknown" morph="none" start_char="2294" end_char="2324">datetime="2015-07-13T20:07:00"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-55" start_char="2326" end_char="2338">
+<ORIGINAL_TEXT>中国是不是可以趁机扫点货？</ORIGINAL_TEXT>
+<TOKEN id="token-55-0" pos="word" morph="none" start_char="2326" end_char="2337">中国是不是可以趁机扫点货</TOKEN>
+<TOKEN id="token-55-1" pos="punct" morph="none" start_char="2338" end_char="2338">？</TOKEN>
+</SEG>
+<SEG id="segment-56" start_char="2340" end_char="2346">
+<ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-56-0" pos="unknown" morph="none" start_char="2340" end_char="2346">&lt;/post&gt;</TOKEN>
+</SEG>
+<SEG id="segment-57" start_char="2348" end_char="2406">
+<ORIGINAL_TEXT>&lt;post id="p16" author="f22" datetime="2015-07-13T20:14:00"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-57-0" pos="unknown" morph="none" start_char="2348" end_char="2352">&lt;post</TOKEN>
+<TOKEN id="token-57-1" pos="unknown" morph="none" start_char="2354" end_char="2361">id="p16"</TOKEN>
+<TOKEN id="token-57-2" pos="unknown" morph="none" start_char="2363" end_char="2374">author="f22"</TOKEN>
+<TOKEN id="token-57-3" pos="unknown" morph="none" start_char="2376" end_char="2406">datetime="2015-07-13T20:14:00"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-58" start_char="2408" end_char="2437">
+<ORIGINAL_TEXT>&lt;quote orig_author="dirtyfan"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-58-0" pos="unknown" morph="none" start_char="2408" end_char="2413">&lt;quote</TOKEN>
+<TOKEN id="token-58-1" pos="unknown" morph="none" start_char="2415" end_char="2437">orig_author="dirtyfan"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-59" start_char="2439" end_char="2451">
+<ORIGINAL_TEXT>中国是不是可以趁机扫点货？</ORIGINAL_TEXT>
+<TOKEN id="token-59-0" pos="word" morph="none" start_char="2439" end_char="2450">中国是不是可以趁机扫点货</TOKEN>
+<TOKEN id="token-59-1" pos="punct" morph="none" start_char="2451" end_char="2451">？</TOKEN>
+</SEG>
+<SEG id="segment-60" start_char="2453" end_char="2460">
+<ORIGINAL_TEXT>&lt;/quote&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-60-0" pos="unknown" morph="none" start_char="2453" end_char="2460">&lt;/quote&gt;</TOKEN>
+</SEG>
+<SEG id="segment-61" start_char="2462" end_char="2474">
+<ORIGINAL_TEXT>希腊有啥起眼的产品和技术？</ORIGINAL_TEXT>
+<TOKEN id="token-61-0" pos="word" morph="none" start_char="2462" end_char="2473">希腊有啥起眼的产品和技术</TOKEN>
+<TOKEN id="token-61-1" pos="punct" morph="none" start_char="2474" end_char="2474">？</TOKEN>
+</SEG>
+<SEG id="segment-62" start_char="2476" end_char="2482">
+<ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-62-0" pos="unknown" morph="none" start_char="2476" end_char="2482">&lt;/post&gt;</TOKEN>
+</SEG>
+<SEG id="segment-63" start_char="2484" end_char="2545">
+<ORIGINAL_TEXT>&lt;post id="p17" author="yyw888" datetime="2015-07-13T20:16:00"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-63-0" pos="unknown" morph="none" start_char="2484" end_char="2488">&lt;post</TOKEN>
+<TOKEN id="token-63-1" pos="unknown" morph="none" start_char="2490" end_char="2497">id="p17"</TOKEN>
+<TOKEN id="token-63-2" pos="unknown" morph="none" start_char="2499" end_char="2513">author="yyw888"</TOKEN>
+<TOKEN id="token-63-3" pos="unknown" morph="none" start_char="2515" end_char="2545">datetime="2015-07-13T20:16:00"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-64" start_char="2547" end_char="2600">
+<ORIGINAL_TEXT>双重国籍不是好东西。西方存在这样现象。还有效命中情局的格鲁吉亚的前肿桶又被任命为乌克兰的一个州长。真是醉了。</ORIGINAL_TEXT>
+<TOKEN id="token-64-0" pos="unknown" morph="none" start_char="2547" end_char="2600">双重国籍不是好东西。西方存在这样现象。还有效命中情局的格鲁吉亚的前肿桶又被任命为乌克兰的一个州长。真是醉了。</TOKEN>
+</SEG>
+<SEG id="segment-65" start_char="2602" end_char="2608">
+<ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-65-0" pos="unknown" morph="none" start_char="2602" end_char="2608">&lt;/post&gt;</TOKEN>
+</SEG>
+<SEG id="segment-66" start_char="2610" end_char="2673">
+<ORIGINAL_TEXT>&lt;post id="p18" author="dirtyfan" datetime="2015-07-13T20:17:00"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-66-0" pos="unknown" morph="none" start_char="2610" end_char="2614">&lt;post</TOKEN>
+<TOKEN id="token-66-1" pos="unknown" morph="none" start_char="2616" end_char="2623">id="p18"</TOKEN>
+<TOKEN id="token-66-2" pos="unknown" morph="none" start_char="2625" end_char="2641">author="dirtyfan"</TOKEN>
+<TOKEN id="token-66-3" pos="unknown" morph="none" start_char="2643" end_char="2673">datetime="2015-07-13T20:17:00"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-67" start_char="2675" end_char="2699">
+<ORIGINAL_TEXT>&lt;quote orig_author="f22"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-67-0" pos="unknown" morph="none" start_char="2675" end_char="2680">&lt;quote</TOKEN>
+<TOKEN id="token-67-1" pos="unknown" morph="none" start_char="2682" end_char="2699">orig_author="f22"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-68" start_char="2701" end_char="2713">
+<ORIGINAL_TEXT>希腊有啥起眼的产品和技术？</ORIGINAL_TEXT>
+<TOKEN id="token-68-0" pos="word" morph="none" start_char="2701" end_char="2712">希腊有啥起眼的产品和技术</TOKEN>
+<TOKEN id="token-68-1" pos="punct" morph="none" start_char="2713" end_char="2713">？</TOKEN>
+</SEG>
+<SEG id="segment-69" start_char="2715" end_char="2722">
+<ORIGINAL_TEXT>&lt;/quote&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-69-0" pos="unknown" morph="none" start_char="2715" end_char="2722">&lt;/quote&gt;</TOKEN>
+</SEG>
+<SEG id="segment-70" start_char="2724" end_char="2736">
+<ORIGINAL_TEXT>土地、港口、关系、主权……</ORIGINAL_TEXT>
+<TOKEN id="token-70-0" pos="unknown" morph="none" start_char="2724" end_char="2736">土地、港口、关系、主权……</TOKEN>
+</SEG>
+<SEG id="segment-71" start_char="2738" end_char="2744">
+<ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-71-0" pos="unknown" morph="none" start_char="2738" end_char="2744">&lt;/post&gt;</TOKEN>
+</SEG>
+<SEG id="segment-72" start_char="2746" end_char="2810">
+<ORIGINAL_TEXT>&lt;post id="p19" author="ok_lunker" datetime="2015-07-13T20:18:00"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-72-0" pos="unknown" morph="none" start_char="2746" end_char="2750">&lt;post</TOKEN>
+<TOKEN id="token-72-1" pos="unknown" morph="none" start_char="2752" end_char="2759">id="p19"</TOKEN>
+<TOKEN id="token-72-2" pos="unknown" morph="none" start_char="2761" end_char="2778">author="ok_lunker"</TOKEN>
+<TOKEN id="token-72-3" pos="unknown" morph="none" start_char="2780" end_char="2810">datetime="2015-07-13T20:18:00"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-73" start_char="2812" end_char="2839">
+<ORIGINAL_TEXT>&lt;quote orig_author="yyw888"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-73-0" pos="unknown" morph="none" start_char="2812" end_char="2817">&lt;quote</TOKEN>
+<TOKEN id="token-73-1" pos="unknown" morph="none" start_char="2819" end_char="2839">orig_author="yyw888"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-74" start_char="2841" end_char="2894">
+<ORIGINAL_TEXT>双重国籍不是好东西。西方存在这样现象。还有效命中情局的格鲁吉亚的前肿桶又被任命为乌克兰的一个州长。真 ...</ORIGINAL_TEXT>
+<TOKEN id="token-74-0" pos="unknown" morph="none" start_char="2841" end_char="2890">双重国籍不是好东西。西方存在这样现象。还有效命中情局的格鲁吉亚的前肿桶又被任命为乌克兰的一个州长。真</TOKEN>
+<TOKEN id="token-74-1" pos="unknown" morph="none" start_char="2892" end_char="2894">...</TOKEN>
+</SEG>
+<SEG id="segment-75" start_char="2896" end_char="2903">
+<ORIGINAL_TEXT>&lt;/quote&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-75-0" pos="unknown" morph="none" start_char="2896" end_char="2903">&lt;/quote&gt;</TOKEN>
+</SEG>
+<SEG id="segment-76" start_char="2905" end_char="2915">
+<ORIGINAL_TEXT>双重国籍必然会蛇鼠两端</ORIGINAL_TEXT>
+<TOKEN id="token-76-0" pos="word" morph="none" start_char="2905" end_char="2915">双重国籍必然会蛇鼠两端</TOKEN>
+</SEG>
+<SEG id="segment-77" start_char="2917" end_char="2923">
+<ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-77-0" pos="unknown" morph="none" start_char="2917" end_char="2923">&lt;/post&gt;</TOKEN>
+</SEG>
+<SEG id="segment-78" start_char="2925" end_char="2982">
+<ORIGINAL_TEXT>&lt;post id="p20" author="找钱" datetime="2015-07-13T20:22:00"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-78-0" pos="unknown" morph="none" start_char="2925" end_char="2929">&lt;post</TOKEN>
+<TOKEN id="token-78-1" pos="unknown" morph="none" start_char="2931" end_char="2938">id="p20"</TOKEN>
+<TOKEN id="token-78-2" pos="unknown" morph="none" start_char="2940" end_char="2950">author="找钱"</TOKEN>
+<TOKEN id="token-78-3" pos="unknown" morph="none" start_char="2952" end_char="2982">datetime="2015-07-13T20:22:00"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-79" start_char="2984" end_char="3027">
+<ORIGINAL_TEXT>希腊1千万人面积13万平方公里，地理位置还这么好，就算只搞旅游也够吃饭了吧，管理得真差劲</ORIGINAL_TEXT>
+<TOKEN id="token-79-0" pos="unknown" morph="none" start_char="2984" end_char="3027">希腊1千万人面积13万平方公里，地理位置还这么好，就算只搞旅游也够吃饭了吧，管理得真差劲</TOKEN>
+</SEG>
+<SEG id="segment-80" start_char="3029" end_char="3035">
+<ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-80-0" pos="unknown" morph="none" start_char="3029" end_char="3035">&lt;/post&gt;</TOKEN>
+</SEG>
+<SEG id="segment-81" start_char="3037" end_char="3102">
+<ORIGINAL_TEXT>&lt;post id="p21" author="tudoubocai" datetime="2015-07-13T20:23:00"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-81-0" pos="unknown" morph="none" start_char="3037" end_char="3041">&lt;post</TOKEN>
+<TOKEN id="token-81-1" pos="unknown" morph="none" start_char="3043" end_char="3050">id="p21"</TOKEN>
+<TOKEN id="token-81-2" pos="unknown" morph="none" start_char="3052" end_char="3070">author="tudoubocai"</TOKEN>
+<TOKEN id="token-81-3" pos="unknown" morph="none" start_char="3072" end_char="3102">datetime="2015-07-13T20:23:00"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-82" start_char="3104" end_char="3128">
+<ORIGINAL_TEXT>&lt;quote orig_author="f22"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-82-0" pos="unknown" morph="none" start_char="3104" end_char="3109">&lt;quote</TOKEN>
+<TOKEN id="token-82-1" pos="unknown" morph="none" start_char="3111" end_char="3128">orig_author="f22"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-83" start_char="3130" end_char="3142">
+<ORIGINAL_TEXT>希腊有啥起眼的产品和技术？</ORIGINAL_TEXT>
+<TOKEN id="token-83-0" pos="word" morph="none" start_char="3130" end_char="3141">希腊有啥起眼的产品和技术</TOKEN>
+<TOKEN id="token-83-1" pos="punct" morph="none" start_char="3142" end_char="3142">？</TOKEN>
+</SEG>
+<SEG id="segment-84" start_char="3144" end_char="3151">
+<ORIGINAL_TEXT>&lt;/quote&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-84-0" pos="unknown" morph="none" start_char="3144" end_char="3151">&lt;/quote&gt;</TOKEN>
+</SEG>
+<SEG id="segment-85" start_char="3153" end_char="3157">
+<ORIGINAL_TEXT>有港口没？</ORIGINAL_TEXT>
+<TOKEN id="token-85-0" pos="word" morph="none" start_char="3153" end_char="3156">有港口没</TOKEN>
+<TOKEN id="token-85-1" pos="punct" morph="none" start_char="3157" end_char="3157">？</TOKEN>
+</SEG>
+<SEG id="segment-86" start_char="3159" end_char="3165">
+<ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-86-0" pos="unknown" morph="none" start_char="3159" end_char="3165">&lt;/post&gt;</TOKEN>
+</SEG>
+<SEG id="segment-87" start_char="3167" end_char="3229">
+<ORIGINAL_TEXT>&lt;post id="p22" author="testora" datetime="2015-07-13T20:24:00"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-87-0" pos="unknown" morph="none" start_char="3167" end_char="3171">&lt;post</TOKEN>
+<TOKEN id="token-87-1" pos="unknown" morph="none" start_char="3173" end_char="3180">id="p22"</TOKEN>
+<TOKEN id="token-87-2" pos="unknown" morph="none" start_char="3182" end_char="3197">author="testora"</TOKEN>
+<TOKEN id="token-87-3" pos="unknown" morph="none" start_char="3199" end_char="3229">datetime="2015-07-13T20:24:00"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-88" start_char="3231" end_char="3309">
+<ORIGINAL_TEXT>其实中国不需要看别人的双重国籍问题，自家的香港精英在回归前就设计好香港的区籍无论移民哪个国家，香港的区籍都不会被移出，最大限度保障香港精英们的子孙后代的权利。</ORIGINAL_TEXT>
+<TOKEN id="token-88-0" pos="unknown" morph="none" start_char="3231" end_char="3309">其实中国不需要看别人的双重国籍问题，自家的香港精英在回归前就设计好香港的区籍无论移民哪个国家，香港的区籍都不会被移出，最大限度保障香港精英们的子孙后代的权利。</TOKEN>
+</SEG>
+<SEG id="segment-89" start_char="3311" end_char="3317">
+<ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-89-0" pos="unknown" morph="none" start_char="3311" end_char="3317">&lt;/post&gt;</TOKEN>
+</SEG>
+<SEG id="segment-90" start_char="3319" end_char="3379">
+<ORIGINAL_TEXT>&lt;post id="p23" author="米他爹01" datetime="2015-07-13T20:27:00"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-90-0" pos="unknown" morph="none" start_char="3319" end_char="3323">&lt;post</TOKEN>
+<TOKEN id="token-90-1" pos="unknown" morph="none" start_char="3325" end_char="3332">id="p23"</TOKEN>
+<TOKEN id="token-90-2" pos="unknown" morph="none" start_char="3334" end_char="3347">author="米他爹01"</TOKEN>
+<TOKEN id="token-90-3" pos="unknown" morph="none" start_char="3349" end_char="3379">datetime="2015-07-13T20:27:00"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-91" start_char="3381" end_char="3405">
+<ORIGINAL_TEXT>&lt;quote orig_author="f22"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-91-0" pos="unknown" morph="none" start_char="3381" end_char="3386">&lt;quote</TOKEN>
+<TOKEN id="token-91-1" pos="unknown" morph="none" start_char="3388" end_char="3405">orig_author="f22"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-92" start_char="3407" end_char="3419">
+<ORIGINAL_TEXT>希腊有啥起眼的产品和技术？</ORIGINAL_TEXT>
+<TOKEN id="token-92-0" pos="word" morph="none" start_char="3407" end_char="3418">希腊有啥起眼的产品和技术</TOKEN>
+<TOKEN id="token-92-1" pos="punct" morph="none" start_char="3419" end_char="3419">？</TOKEN>
+</SEG>
+<SEG id="segment-93" start_char="3421" end_char="3428">
+<ORIGINAL_TEXT>&lt;/quote&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-93-0" pos="unknown" morph="none" start_char="3421" end_char="3428">&lt;/quote&gt;</TOKEN>
+</SEG>
+<SEG id="segment-94" start_char="3430" end_char="3446">
+<ORIGINAL_TEXT>产品和技术没有，那么多岛令人垂涎。</ORIGINAL_TEXT>
+<TOKEN id="token-94-0" pos="word" morph="none" start_char="3430" end_char="3436">产品和技术没有</TOKEN>
+<TOKEN id="token-94-1" pos="punct" morph="none" start_char="3437" end_char="3437">，</TOKEN>
+<TOKEN id="token-94-2" pos="word" morph="none" start_char="3438" end_char="3445">那么多岛令人垂涎</TOKEN>
+<TOKEN id="token-94-3" pos="punct" morph="none" start_char="3446" end_char="3446">。</TOKEN>
+</SEG>
+<SEG id="segment-95" start_char="3448" end_char="3454">
+<ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-95-0" pos="unknown" morph="none" start_char="3448" end_char="3454">&lt;/post&gt;</TOKEN>
+</SEG>
+<SEG id="segment-96" start_char="3456" end_char="3516">
+<ORIGINAL_TEXT>&lt;post id="p24" author="znbcr" datetime="2015-07-13T20:27:00"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-96-0" pos="unknown" morph="none" start_char="3456" end_char="3460">&lt;post</TOKEN>
+<TOKEN id="token-96-1" pos="unknown" morph="none" start_char="3462" end_char="3469">id="p24"</TOKEN>
+<TOKEN id="token-96-2" pos="unknown" morph="none" start_char="3471" end_char="3484">author="znbcr"</TOKEN>
+<TOKEN id="token-96-3" pos="unknown" morph="none" start_char="3486" end_char="3516">datetime="2015-07-13T20:27:00"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-97" start_char="3518" end_char="3533">
+<ORIGINAL_TEXT>还说德国是经济入侵、是政变！！！</ORIGINAL_TEXT>
+<TOKEN id="token-97-0" pos="word" morph="none" start_char="3518" end_char="3526">还说德国是经济入侵</TOKEN>
+<TOKEN id="token-97-1" pos="punct" morph="none" start_char="3527" end_char="3527">、</TOKEN>
+<TOKEN id="token-97-2" pos="word" morph="none" start_char="3528" end_char="3530">是政变</TOKEN>
+<TOKEN id="token-97-3" pos="punct" morph="none" start_char="3531" end_char="3533">！！！</TOKEN>
+</SEG>
+<SEG id="segment-98" start_char="3536" end_char="3593">
+<ORIGINAL_TEXT>要不是为了在欧盟里充大个，德国人也不愿意管希腊这摊烂事。收获的是一堆不靠谱的“介入权利”，付出的可是自己的真金白银。</ORIGINAL_TEXT>
+<TOKEN id="token-98-0" pos="unknown" morph="none" start_char="3536" end_char="3593">要不是为了在欧盟里充大个，德国人也不愿意管希腊这摊烂事。收获的是一堆不靠谱的“介入权利”，付出的可是自己的真金白银。</TOKEN>
+</SEG>
+<SEG id="segment-99" start_char="3596" end_char="3644">
+<ORIGINAL_TEXT>自己家底差成这样还不努力，以为傍个大款就能由着性子败家，问题是谁就那么理所当然的替你收拾烂摊子啊。</ORIGINAL_TEXT>
+<TOKEN id="token-99-0" pos="unknown" morph="none" start_char="3596" end_char="3644">自己家底差成这样还不努力，以为傍个大款就能由着性子败家，问题是谁就那么理所当然的替你收拾烂摊子啊。</TOKEN>
+</SEG>
+<SEG id="segment-100" start_char="3647" end_char="3687">
+<ORIGINAL_TEXT>在我看来这些条件都是德国人为了抵偿前期的投入和借款的“等价”交换（说等价都亏了）。</ORIGINAL_TEXT>
+<TOKEN id="token-100-0" pos="unknown" morph="none" start_char="3647" end_char="3687">在我看来这些条件都是德国人为了抵偿前期的投入和借款的“等价”交换（说等价都亏了）。</TOKEN>
+</SEG>
+<SEG id="segment-101" start_char="3690" end_char="3741">
+<ORIGINAL_TEXT>前一段时间德国流传过一首网络歌曲，歌词就是“别看我们出过希特勒，但是我们还是被希腊财政部长打败了。。。”</ORIGINAL_TEXT>
+<TOKEN id="token-101-0" pos="unknown" morph="none" start_char="3690" end_char="3741">前一段时间德国流传过一首网络歌曲，歌词就是“别看我们出过希特勒，但是我们还是被希腊财政部长打败了。。。”</TOKEN>
+</SEG>
+<SEG id="segment-102" start_char="3744" end_char="3863">
+<ORIGINAL_TEXT>PS：还有一个数据，一方面是说希腊的财政情况，一方面更说明天朝经济体量的可怕————从6月15日到7月3日，天朝股市15个交易日蒸发的钱，按照经济总量计算，可以把去年的希腊（注意不是希腊的债务，是整个希腊的国民生产总值）买下来10次。。。。</ORIGINAL_TEXT>
+<TOKEN id="token-102-0" pos="unknown" morph="none" start_char="3744" end_char="3863">PS：还有一个数据，一方面是说希腊的财政情况，一方面更说明天朝经济体量的可怕————从6月15日到7月3日，天朝股市15个交易日蒸发的钱，按照经济总量计算，可以把去年的希腊（注意不是希腊的债务，是整个希腊的国民生产总值）买下来10次。。。。</TOKEN>
+</SEG>
+<SEG id="segment-103" start_char="3865" end_char="3871">
+<ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-103-0" pos="unknown" morph="none" start_char="3865" end_char="3871">&lt;/post&gt;</TOKEN>
+</SEG>
+<SEG id="segment-104" start_char="3873" end_char="3931">
+<ORIGINAL_TEXT>&lt;post id="p25" author="步疾风" datetime="2015-07-13T20:31:00"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-104-0" pos="unknown" morph="none" start_char="3873" end_char="3877">&lt;post</TOKEN>
+<TOKEN id="token-104-1" pos="unknown" morph="none" start_char="3879" end_char="3886">id="p25"</TOKEN>
+<TOKEN id="token-104-2" pos="unknown" morph="none" start_char="3888" end_char="3899">author="步疾风"</TOKEN>
+<TOKEN id="token-104-3" pos="unknown" morph="none" start_char="3901" end_char="3931">datetime="2015-07-13T20:31:00"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-105" start_char="3933" end_char="3951">
+<ORIGINAL_TEXT>朝统一的“欧洲财政部”上面迈进了一步！</ORIGINAL_TEXT>
+<TOKEN id="token-105-0" pos="unknown" morph="none" start_char="3933" end_char="3951">朝统一的“欧洲财政部”上面迈进了一步！</TOKEN>
+</SEG>
+<SEG id="segment-106" start_char="3953" end_char="3959">
+<ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-106-0" pos="unknown" morph="none" start_char="3953" end_char="3959">&lt;/post&gt;</TOKEN>
+</SEG>
+<SEG id="segment-107" start_char="3961" end_char="4025">
+<ORIGINAL_TEXT>&lt;post id="p26" author="canyuyige" datetime="2015-07-13T20:33:00"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-107-0" pos="unknown" morph="none" start_char="3961" end_char="3965">&lt;post</TOKEN>
+<TOKEN id="token-107-1" pos="unknown" morph="none" start_char="3967" end_char="3974">id="p26"</TOKEN>
+<TOKEN id="token-107-2" pos="unknown" morph="none" start_char="3976" end_char="3993">author="canyuyige"</TOKEN>
+<TOKEN id="token-107-3" pos="unknown" morph="none" start_char="3995" end_char="4025">datetime="2015-07-13T20:33:00"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-108" start_char="4027" end_char="4054">
+<ORIGINAL_TEXT>&lt;quote orig_author="yyw888"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-108-0" pos="unknown" morph="none" start_char="4027" end_char="4032">&lt;quote</TOKEN>
+<TOKEN id="token-108-1" pos="unknown" morph="none" start_char="4034" end_char="4054">orig_author="yyw888"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-109" start_char="4056" end_char="4109">
+<ORIGINAL_TEXT>双重国籍不是好东西。西方存在这样现象。还有效命中情局的格鲁吉亚的前肿桶又被任命为乌克兰的一个州长。真 ...</ORIGINAL_TEXT>
+<TOKEN id="token-109-0" pos="unknown" morph="none" start_char="4056" end_char="4105">双重国籍不是好东西。西方存在这样现象。还有效命中情局的格鲁吉亚的前肿桶又被任命为乌克兰的一个州长。真</TOKEN>
+<TOKEN id="token-109-1" pos="unknown" morph="none" start_char="4107" end_char="4109">...</TOKEN>
+</SEG>
+<SEG id="segment-110" start_char="4111" end_char="4118">
+<ORIGINAL_TEXT>&lt;/quote&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-110-0" pos="unknown" morph="none" start_char="4111" end_char="4118">&lt;/quote&gt;</TOKEN>
+</SEG>
+<SEG id="segment-111" start_char="4120" end_char="4136">
+<ORIGINAL_TEXT>双重国籍就是强国搅和弱国的一根棍子</ORIGINAL_TEXT>
+<TOKEN id="token-111-0" pos="word" morph="none" start_char="4120" end_char="4136">双重国籍就是强国搅和弱国的一根棍子</TOKEN>
+</SEG>
+<SEG id="segment-112" start_char="4138" end_char="4144">
+<ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-112-0" pos="unknown" morph="none" start_char="4138" end_char="4144">&lt;/post&gt;</TOKEN>
+</SEG>
+<SEG id="segment-113" start_char="4146" end_char="4203">
+<ORIGINAL_TEXT>&lt;post id="p27" author="战戈" datetime="2015-07-13T20:33:00"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-113-0" pos="unknown" morph="none" start_char="4146" end_char="4150">&lt;post</TOKEN>
+<TOKEN id="token-113-1" pos="unknown" morph="none" start_char="4152" end_char="4159">id="p27"</TOKEN>
+<TOKEN id="token-113-2" pos="unknown" morph="none" start_char="4161" end_char="4171">author="战戈"</TOKEN>
+<TOKEN id="token-113-3" pos="unknown" morph="none" start_char="4173" end_char="4203">datetime="2015-07-13T20:33:00"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-114" start_char="4205" end_char="4250">
+<ORIGINAL_TEXT>这不是什么救助计划吧，，，是众债主把希腊人家里的所有值钱的家当都拿出来变卖的瓜分计划吧。。。</ORIGINAL_TEXT>
+<TOKEN id="token-114-0" pos="word" morph="none" start_char="4205" end_char="4214">这不是什么救助计划吧</TOKEN>
+<TOKEN id="token-114-1" pos="punct" morph="none" start_char="4215" end_char="4217">，，，</TOKEN>
+<TOKEN id="token-114-2" pos="word" morph="none" start_char="4218" end_char="4247">是众债主把希腊人家里的所有值钱的家当都拿出来变卖的瓜分计划吧</TOKEN>
+<TOKEN id="token-114-3" pos="punct" morph="none" start_char="4248" end_char="4250">。。。</TOKEN>
+</SEG>
+<SEG id="segment-115" start_char="4252" end_char="4258">
+<ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-115-0" pos="unknown" morph="none" start_char="4252" end_char="4258">&lt;/post&gt;</TOKEN>
+</SEG>
+<SEG id="segment-116" start_char="4260" end_char="4318">
+<ORIGINAL_TEXT>&lt;post id="p28" author="f22" datetime="2015-07-13T20:33:00"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-116-0" pos="unknown" morph="none" start_char="4260" end_char="4264">&lt;post</TOKEN>
+<TOKEN id="token-116-1" pos="unknown" morph="none" start_char="4266" end_char="4273">id="p28"</TOKEN>
+<TOKEN id="token-116-2" pos="unknown" morph="none" start_char="4275" end_char="4286">author="f22"</TOKEN>
+<TOKEN id="token-116-3" pos="unknown" morph="none" start_char="4288" end_char="4318">datetime="2015-07-13T20:33:00"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-117" start_char="4320" end_char="4351">
+<ORIGINAL_TEXT>&lt;quote orig_author="tudoubocai"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-117-0" pos="unknown" morph="none" start_char="4320" end_char="4325">&lt;quote</TOKEN>
+<TOKEN id="token-117-1" pos="unknown" morph="none" start_char="4327" end_char="4351">orig_author="tudoubocai"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-118" start_char="4353" end_char="4357">
+<ORIGINAL_TEXT>有港口没？</ORIGINAL_TEXT>
+<TOKEN id="token-118-0" pos="word" morph="none" start_char="4353" end_char="4356">有港口没</TOKEN>
+<TOKEN id="token-118-1" pos="punct" morph="none" start_char="4357" end_char="4357">？</TOKEN>
+</SEG>
+<SEG id="segment-119" start_char="4359" end_char="4366">
+<ORIGINAL_TEXT>&lt;/quote&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-119-0" pos="unknown" morph="none" start_char="4359" end_char="4366">&lt;/quote&gt;</TOKEN>
+</SEG>
+<SEG id="segment-120" start_char="4368" end_char="4378">
+<ORIGINAL_TEXT>港口没价值，辐射面很小</ORIGINAL_TEXT>
+<TOKEN id="token-120-0" pos="word" morph="none" start_char="4368" end_char="4372">港口没价值</TOKEN>
+<TOKEN id="token-120-1" pos="punct" morph="none" start_char="4373" end_char="4373">，</TOKEN>
+<TOKEN id="token-120-2" pos="word" morph="none" start_char="4374" end_char="4378">辐射面很小</TOKEN>
+</SEG>
+<SEG id="segment-121" start_char="4380" end_char="4386">
+<ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-121-0" pos="unknown" morph="none" start_char="4380" end_char="4386">&lt;/post&gt;</TOKEN>
+</SEG>
+<SEG id="segment-122" start_char="4388" end_char="4452">
+<ORIGINAL_TEXT>&lt;post id="p29" author="canyuyige" datetime="2015-07-13T20:34:00"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-122-0" pos="unknown" morph="none" start_char="4388" end_char="4392">&lt;post</TOKEN>
+<TOKEN id="token-122-1" pos="unknown" morph="none" start_char="4394" end_char="4401">id="p29"</TOKEN>
+<TOKEN id="token-122-2" pos="unknown" morph="none" start_char="4403" end_char="4420">author="canyuyige"</TOKEN>
+<TOKEN id="token-122-3" pos="unknown" morph="none" start_char="4422" end_char="4452">datetime="2015-07-13T20:34:00"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-123" start_char="4454" end_char="4482">
+<ORIGINAL_TEXT>&lt;quote orig_author="testora"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-123-0" pos="unknown" morph="none" start_char="4454" end_char="4459">&lt;quote</TOKEN>
+<TOKEN id="token-123-1" pos="unknown" morph="none" start_char="4461" end_char="4482">orig_author="testora"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-124" start_char="4484" end_char="4537">
+<ORIGINAL_TEXT>其实中国不需要看别人的双重国籍问题，自家的香港精英在回归前就设计好香港的区籍无论移民哪个国家，香港的 ...</ORIGINAL_TEXT>
+<TOKEN id="token-124-0" pos="unknown" morph="none" start_char="4484" end_char="4533">其实中国不需要看别人的双重国籍问题，自家的香港精英在回归前就设计好香港的区籍无论移民哪个国家，香港的</TOKEN>
+<TOKEN id="token-124-1" pos="unknown" morph="none" start_char="4535" end_char="4537">...</TOKEN>
+</SEG>
+<SEG id="segment-125" start_char="4539" end_char="4546">
+<ORIGINAL_TEXT>&lt;/quote&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-125-0" pos="unknown" morph="none" start_char="4539" end_char="4546">&lt;/quote&gt;</TOKEN>
+</SEG>
+<SEG id="segment-126" start_char="4548" end_char="4562">
+<ORIGINAL_TEXT>所以就折腾，使劲折腾。他XXX</ORIGINAL_TEXT>
+<TOKEN id="token-126-0" pos="unknown" morph="none" start_char="4548" end_char="4562">所以就折腾，使劲折腾。他XXX</TOKEN>
+</SEG>
+<SEG id="segment-127" start_char="4564" end_char="4570">
+<ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-127-0" pos="unknown" morph="none" start_char="4564" end_char="4570">&lt;/post&gt;</TOKEN>
+</SEG>
+<SEG id="segment-128" start_char="4572" end_char="4632">
+<ORIGINAL_TEXT>&lt;post id="p30" author="华盛顿红军" datetime="2015-07-13T20:35:00"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-128-0" pos="unknown" morph="none" start_char="4572" end_char="4576">&lt;post</TOKEN>
+<TOKEN id="token-128-1" pos="unknown" morph="none" start_char="4578" end_char="4585">id="p30"</TOKEN>
+<TOKEN id="token-128-2" pos="unknown" morph="none" start_char="4587" end_char="4600">author="华盛顿红军"</TOKEN>
+<TOKEN id="token-128-3" pos="unknown" morph="none" start_char="4602" end_char="4632">datetime="2015-07-13T20:35:00"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-129" start_char="4634" end_char="4645">
+<ORIGINAL_TEXT>不知道希腊zf会不会跪。</ORIGINAL_TEXT>
+<TOKEN id="token-129-0" pos="word" morph="none" start_char="4634" end_char="4644">不知道希腊zf会不会跪</TOKEN>
+<TOKEN id="token-129-1" pos="punct" morph="none" start_char="4645" end_char="4645">。</TOKEN>
+</SEG>
+<SEG id="segment-130" start_char="4648" end_char="4675">
+<ORIGINAL_TEXT>如果跪的话，很快就能看到希腊版的"总税务司"赫德先生鸟。</ORIGINAL_TEXT>
+<TOKEN id="token-130-0" pos="unknown" morph="none" start_char="4648" end_char="4675">如果跪的话，很快就能看到希腊版的"总税务司"赫德先生鸟。</TOKEN>
+</SEG>
+<SEG id="segment-131" start_char="4677" end_char="4683">
+<ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-131-0" pos="unknown" morph="none" start_char="4677" end_char="4683">&lt;/post&gt;</TOKEN>
+</SEG>
+<SEG id="segment-132" start_char="4685" end_char="4690">
+<ORIGINAL_TEXT>&lt;/doc&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-132-0" pos="unknown" morph="none" start_char="4685" end_char="4690">&lt;/doc&gt;</TOKEN>
+</SEG>
+</TEXT>
+</DOC>
+</LCTL_TEXT>

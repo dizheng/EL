@@ -1,0 +1,846 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LCTL_TEXT>
+  <DOC id="SPA_NW_001088_20150303_F0000003C.xml" tokenization="tokenization_parameters" grammar="none" raw_text_char_length="3544" raw_text_md5="6adf77280ad99b0783cb9188d9d01cb0">
+    <TEXT>
+      <SEG id="segment-0" start_char="0" end_char="37">
+        <ORIGINAL_TEXT>&lt;?xml version="1.0" encoding="utf-8"?&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-0-0" pos="unknown" morph="none" start_char="0" end_char="4">&lt;?xml</TOKEN>
+        <TOKEN id="token-0-1" pos="unknown" morph="none" start_char="6" end_char="18">version="1.0"</TOKEN>
+        <TOKEN id="token-0-2" pos="unknown" morph="none" start_char="20" end_char="37">encoding="utf-8"?&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-1" start_char="39" end_char="81">
+        <ORIGINAL_TEXT>&lt;DOC id="SPA_NW_001088_20150303_F0000003C"&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-1-0" pos="unknown" morph="none" start_char="39" end_char="42">&lt;DOC</TOKEN>
+        <TOKEN id="token-1-1" pos="unknown" morph="none" start_char="44" end_char="81">id="SPA_NW_001088_20150303_F0000003C"&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-2" start_char="83" end_char="203">
+        <ORIGINAL_TEXT>&lt;SOURCE&gt;http://www.elancasti.com.ar/internacional/2015/3/3/obama-admitio-benjamin-netanyahu-equivoco-252421.html&lt;/SOURCE&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-2-0" pos="unknown" morph="none" start_char="83" end_char="203">&lt;SOURCE&gt;http://www.elancasti.com.ar/internacional/2015/3/3/obama-admitio-benjamin-netanyahu-equivoco-252421.html&lt;/SOURCE&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-3" start_char="205" end_char="246">
+        <ORIGINAL_TEXT>&lt;DATE_TIME&gt;2015-03-03T00:00:00&lt;/DATE_TIME&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-3-0" pos="unknown" morph="none" start_char="205" end_char="246">&lt;DATE_TIME&gt;2015-03-03T00:00:00&lt;/DATE_TIME&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-4" start_char="248" end_char="257">
+        <ORIGINAL_TEXT>&lt;HEADLINE&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-4-0" pos="unknown" morph="none" start_char="248" end_char="257">&lt;HEADLINE&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-5" start_char="259" end_char="306">
+        <ORIGINAL_TEXT>Obama admitió que Benjamin Netanyahu se equivocó</ORIGINAL_TEXT>
+        <TOKEN id="token-5-0" pos="word" morph="none" start_char="259" end_char="263">Obama</TOKEN>
+        <TOKEN id="token-5-1" pos="word" morph="none" start_char="265" end_char="271">admitió</TOKEN>
+        <TOKEN id="token-5-2" pos="word" morph="none" start_char="273" end_char="275">que</TOKEN>
+        <TOKEN id="token-5-3" pos="word" morph="none" start_char="277" end_char="284">Benjamin</TOKEN>
+        <TOKEN id="token-5-4" pos="word" morph="none" start_char="286" end_char="294">Netanyahu</TOKEN>
+        <TOKEN id="token-5-5" pos="word" morph="none" start_char="296" end_char="297">se</TOKEN>
+        <TOKEN id="token-5-6" pos="word" morph="none" start_char="299" end_char="306">equivocó</TOKEN>
+      </SEG>
+      <SEG id="segment-6" start_char="308" end_char="318">
+        <ORIGINAL_TEXT>&lt;/HEADLINE&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-6-0" pos="unknown" morph="none" start_char="308" end_char="318">&lt;/HEADLINE&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-7" start_char="320" end_char="325">
+        <ORIGINAL_TEXT>&lt;TEXT&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-7-0" pos="unknown" morph="none" start_char="320" end_char="325">&lt;TEXT&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-8" start_char="327" end_char="329">
+        <ORIGINAL_TEXT>&lt;P&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-8-0" pos="unknown" morph="none" start_char="327" end_char="329">&lt;P&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-9" start_char="331" end_char="406">
+        <ORIGINAL_TEXT>El presidente estadounidense, Barack Obama, dijo ayer que el primer ministro</ORIGINAL_TEXT>
+        <TOKEN id="token-9-0" pos="word" morph="none" start_char="331" end_char="332">El</TOKEN>
+        <TOKEN id="token-9-1" pos="word" morph="none" start_char="334" end_char="343">presidente</TOKEN>
+        <TOKEN id="token-9-2" pos="word" morph="none" start_char="345" end_char="358">estadounidense</TOKEN>
+        <TOKEN id="token-9-3" pos="punct" morph="none" start_char="359" end_char="359">,</TOKEN>
+        <TOKEN id="token-9-4" pos="word" morph="none" start_char="361" end_char="366">Barack</TOKEN>
+        <TOKEN id="token-9-5" pos="word" morph="none" start_char="368" end_char="372">Obama</TOKEN>
+        <TOKEN id="token-9-6" pos="punct" morph="none" start_char="373" end_char="373">,</TOKEN>
+        <TOKEN id="token-9-7" pos="word" morph="none" start_char="375" end_char="378">dijo</TOKEN>
+        <TOKEN id="token-9-8" pos="word" morph="none" start_char="380" end_char="383">ayer</TOKEN>
+        <TOKEN id="token-9-9" pos="word" morph="none" start_char="385" end_char="387">que</TOKEN>
+        <TOKEN id="token-9-10" pos="word" morph="none" start_char="389" end_char="390">el</TOKEN>
+        <TOKEN id="token-9-11" pos="word" morph="none" start_char="392" end_char="397">primer</TOKEN>
+        <TOKEN id="token-9-12" pos="word" morph="none" start_char="399" end_char="406">ministro</TOKEN>
+      </SEG>
+      <SEG id="segment-10" start_char="408" end_char="483">
+        <ORIGINAL_TEXT>israelí, Benjamin Netanyahu, de visita en Washington, se había equivocado en</ORIGINAL_TEXT>
+        <TOKEN id="token-10-0" pos="word" morph="none" start_char="408" end_char="414">israelí</TOKEN>
+        <TOKEN id="token-10-1" pos="punct" morph="none" start_char="415" end_char="415">,</TOKEN>
+        <TOKEN id="token-10-2" pos="word" morph="none" start_char="417" end_char="424">Benjamin</TOKEN>
+        <TOKEN id="token-10-3" pos="word" morph="none" start_char="426" end_char="434">Netanyahu</TOKEN>
+        <TOKEN id="token-10-4" pos="punct" morph="none" start_char="435" end_char="435">,</TOKEN>
+        <TOKEN id="token-10-5" pos="word" morph="none" start_char="437" end_char="438">de</TOKEN>
+        <TOKEN id="token-10-6" pos="word" morph="none" start_char="440" end_char="445">visita</TOKEN>
+        <TOKEN id="token-10-7" pos="word" morph="none" start_char="447" end_char="448">en</TOKEN>
+        <TOKEN id="token-10-8" pos="word" morph="none" start_char="450" end_char="459">Washington</TOKEN>
+        <TOKEN id="token-10-9" pos="punct" morph="none" start_char="460" end_char="460">,</TOKEN>
+        <TOKEN id="token-10-10" pos="word" morph="none" start_char="462" end_char="463">se</TOKEN>
+        <TOKEN id="token-10-11" pos="word" morph="none" start_char="465" end_char="469">había</TOKEN>
+        <TOKEN id="token-10-12" pos="word" morph="none" start_char="471" end_char="480">equivocado</TOKEN>
+        <TOKEN id="token-10-13" pos="word" morph="none" start_char="482" end_char="483">en</TOKEN>
+      </SEG>
+      <SEG id="segment-11" start_char="485" end_char="555">
+        <ORIGINAL_TEXT>el pasado a propósito de los planes nucleares iraníes, y aseguró que no</ORIGINAL_TEXT>
+        <TOKEN id="token-11-0" pos="word" morph="none" start_char="485" end_char="486">el</TOKEN>
+        <TOKEN id="token-11-1" pos="word" morph="none" start_char="488" end_char="493">pasado</TOKEN>
+        <TOKEN id="token-11-2" pos="word" morph="none" start_char="495" end_char="495">a</TOKEN>
+        <TOKEN id="token-11-3" pos="word" morph="none" start_char="497" end_char="505">propósito</TOKEN>
+        <TOKEN id="token-11-4" pos="word" morph="none" start_char="507" end_char="508">de</TOKEN>
+        <TOKEN id="token-11-5" pos="word" morph="none" start_char="510" end_char="512">los</TOKEN>
+        <TOKEN id="token-11-6" pos="word" morph="none" start_char="514" end_char="519">planes</TOKEN>
+        <TOKEN id="token-11-7" pos="word" morph="none" start_char="521" end_char="529">nucleares</TOKEN>
+        <TOKEN id="token-11-8" pos="word" morph="none" start_char="531" end_char="537">iraníes</TOKEN>
+        <TOKEN id="token-11-9" pos="punct" morph="none" start_char="538" end_char="538">,</TOKEN>
+        <TOKEN id="token-11-10" pos="word" morph="none" start_char="540" end_char="540">y</TOKEN>
+        <TOKEN id="token-11-11" pos="word" morph="none" start_char="542" end_char="548">aseguró</TOKEN>
+        <TOKEN id="token-11-12" pos="word" morph="none" start_char="550" end_char="552">que</TOKEN>
+        <TOKEN id="token-11-13" pos="word" morph="none" start_char="554" end_char="555">no</TOKEN>
+      </SEG>
+      <SEG id="segment-12" start_char="557" end_char="594">
+        <ORIGINAL_TEXT>tener ningún problema personal con él.</ORIGINAL_TEXT>
+        <TOKEN id="token-12-0" pos="word" morph="none" start_char="557" end_char="561">tener</TOKEN>
+        <TOKEN id="token-12-1" pos="word" morph="none" start_char="563" end_char="568">ningún</TOKEN>
+        <TOKEN id="token-12-2" pos="word" morph="none" start_char="570" end_char="577">problema</TOKEN>
+        <TOKEN id="token-12-3" pos="word" morph="none" start_char="579" end_char="586">personal</TOKEN>
+        <TOKEN id="token-12-4" pos="word" morph="none" start_char="588" end_char="590">con</TOKEN>
+        <TOKEN id="token-12-5" pos="word" morph="none" start_char="592" end_char="593">él</TOKEN>
+        <TOKEN id="token-12-6" pos="punct" morph="none" start_char="594" end_char="594">.</TOKEN>
+      </SEG>
+      <SEG id="segment-13" start_char="596" end_char="599">
+        <ORIGINAL_TEXT>&lt;/P&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-13-0" pos="unknown" morph="none" start_char="596" end_char="599">&lt;/P&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-14" start_char="601" end_char="603">
+        <ORIGINAL_TEXT>&lt;P&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-14-0" pos="unknown" morph="none" start_char="601" end_char="603">&lt;P&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-15" start_char="605" end_char="677">
+        <ORIGINAL_TEXT>Haciendo referencia al acuerdo concluido a fines de 2013 y anticipando el</ORIGINAL_TEXT>
+        <TOKEN id="token-15-0" pos="word" morph="none" start_char="605" end_char="612">Haciendo</TOKEN>
+        <TOKEN id="token-15-1" pos="word" morph="none" start_char="614" end_char="623">referencia</TOKEN>
+        <TOKEN id="token-15-2" pos="word" morph="none" start_char="625" end_char="626">al</TOKEN>
+        <TOKEN id="token-15-3" pos="word" morph="none" start_char="628" end_char="634">acuerdo</TOKEN>
+        <TOKEN id="token-15-4" pos="word" morph="none" start_char="636" end_char="644">concluido</TOKEN>
+        <TOKEN id="token-15-5" pos="word" morph="none" start_char="646" end_char="646">a</TOKEN>
+        <TOKEN id="token-15-6" pos="word" morph="none" start_char="648" end_char="652">fines</TOKEN>
+        <TOKEN id="token-15-7" pos="word" morph="none" start_char="654" end_char="655">de</TOKEN>
+        <TOKEN id="token-15-8" pos="number" morph="none" start_char="657" end_char="660">2013</TOKEN>
+        <TOKEN id="token-15-9" pos="word" morph="none" start_char="662" end_char="662">y</TOKEN>
+        <TOKEN id="token-15-10" pos="word" morph="none" start_char="664" end_char="674">anticipando</TOKEN>
+        <TOKEN id="token-15-11" pos="word" morph="none" start_char="676" end_char="677">el</TOKEN>
+      </SEG>
+      <SEG id="segment-16" start_char="679" end_char="753">
+        <ORIGINAL_TEXT>congelamiento de una parte de las actividades nucleares de Irán a cambio de</ORIGINAL_TEXT>
+        <TOKEN id="token-16-0" pos="word" morph="none" start_char="679" end_char="691">congelamiento</TOKEN>
+        <TOKEN id="token-16-1" pos="word" morph="none" start_char="693" end_char="694">de</TOKEN>
+        <TOKEN id="token-16-2" pos="word" morph="none" start_char="696" end_char="698">una</TOKEN>
+        <TOKEN id="token-16-3" pos="word" morph="none" start_char="700" end_char="704">parte</TOKEN>
+        <TOKEN id="token-16-4" pos="word" morph="none" start_char="706" end_char="707">de</TOKEN>
+        <TOKEN id="token-16-5" pos="word" morph="none" start_char="709" end_char="711">las</TOKEN>
+        <TOKEN id="token-16-6" pos="word" morph="none" start_char="713" end_char="723">actividades</TOKEN>
+        <TOKEN id="token-16-7" pos="word" morph="none" start_char="725" end_char="733">nucleares</TOKEN>
+        <TOKEN id="token-16-8" pos="word" morph="none" start_char="735" end_char="736">de</TOKEN>
+        <TOKEN id="token-16-9" pos="word" morph="none" start_char="738" end_char="741">Irán</TOKEN>
+        <TOKEN id="token-16-10" pos="word" morph="none" start_char="743" end_char="743">a</TOKEN>
+        <TOKEN id="token-16-11" pos="word" morph="none" start_char="745" end_char="750">cambio</TOKEN>
+        <TOKEN id="token-16-12" pos="word" morph="none" start_char="752" end_char="753">de</TOKEN>
+      </SEG>
+      <SEG id="segment-17" start_char="755" end_char="831">
+        <ORIGINAL_TEXT>un levantamiento parcial de las sanciones, Obama opinó durante una entrevista</ORIGINAL_TEXT>
+        <TOKEN id="token-17-0" pos="word" morph="none" start_char="755" end_char="756">un</TOKEN>
+        <TOKEN id="token-17-1" pos="word" morph="none" start_char="758" end_char="770">levantamiento</TOKEN>
+        <TOKEN id="token-17-2" pos="word" morph="none" start_char="772" end_char="778">parcial</TOKEN>
+        <TOKEN id="token-17-3" pos="word" morph="none" start_char="780" end_char="781">de</TOKEN>
+        <TOKEN id="token-17-4" pos="word" morph="none" start_char="783" end_char="785">las</TOKEN>
+        <TOKEN id="token-17-5" pos="word" morph="none" start_char="787" end_char="795">sanciones</TOKEN>
+        <TOKEN id="token-17-6" pos="punct" morph="none" start_char="796" end_char="796">,</TOKEN>
+        <TOKEN id="token-17-7" pos="word" morph="none" start_char="798" end_char="802">Obama</TOKEN>
+        <TOKEN id="token-17-8" pos="word" morph="none" start_char="804" end_char="808">opinó</TOKEN>
+        <TOKEN id="token-17-9" pos="word" morph="none" start_char="810" end_char="816">durante</TOKEN>
+        <TOKEN id="token-17-10" pos="word" morph="none" start_char="818" end_char="820">una</TOKEN>
+        <TOKEN id="token-17-11" pos="word" morph="none" start_char="822" end_char="831">entrevista</TOKEN>
+      </SEG>
+      <SEG id="segment-18" start_char="833" end_char="908">
+        <ORIGINAL_TEXT>con la agencia Reuters que el análisis de Netanyahu sobre este tema se había</ORIGINAL_TEXT>
+        <TOKEN id="token-18-0" pos="word" morph="none" start_char="833" end_char="835">con</TOKEN>
+        <TOKEN id="token-18-1" pos="word" morph="none" start_char="837" end_char="838">la</TOKEN>
+        <TOKEN id="token-18-2" pos="word" morph="none" start_char="840" end_char="846">agencia</TOKEN>
+        <TOKEN id="token-18-3" pos="word" morph="none" start_char="848" end_char="854">Reuters</TOKEN>
+        <TOKEN id="token-18-4" pos="word" morph="none" start_char="856" end_char="858">que</TOKEN>
+        <TOKEN id="token-18-5" pos="word" morph="none" start_char="860" end_char="861">el</TOKEN>
+        <TOKEN id="token-18-6" pos="word" morph="none" start_char="863" end_char="870">análisis</TOKEN>
+        <TOKEN id="token-18-7" pos="word" morph="none" start_char="872" end_char="873">de</TOKEN>
+        <TOKEN id="token-18-8" pos="word" morph="none" start_char="875" end_char="883">Netanyahu</TOKEN>
+        <TOKEN id="token-18-9" pos="word" morph="none" start_char="885" end_char="889">sobre</TOKEN>
+        <TOKEN id="token-18-10" pos="word" morph="none" start_char="891" end_char="894">este</TOKEN>
+        <TOKEN id="token-18-11" pos="word" morph="none" start_char="896" end_char="899">tema</TOKEN>
+        <TOKEN id="token-18-12" pos="word" morph="none" start_char="901" end_char="902">se</TOKEN>
+        <TOKEN id="token-18-13" pos="word" morph="none" start_char="904" end_char="908">había</TOKEN>
+      </SEG>
+      <SEG id="segment-19" start_char="910" end_char="931">
+        <ORIGINAL_TEXT>demostrado equivocado.</ORIGINAL_TEXT>
+        <TOKEN id="token-19-0" pos="word" morph="none" start_char="910" end_char="919">demostrado</TOKEN>
+        <TOKEN id="token-19-1" pos="word" morph="none" start_char="921" end_char="930">equivocado</TOKEN>
+        <TOKEN id="token-19-2" pos="punct" morph="none" start_char="931" end_char="931">.</TOKEN>
+      </SEG>
+      <SEG id="segment-20" start_char="933" end_char="936">
+        <ORIGINAL_TEXT>&lt;/P&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-20-0" pos="unknown" morph="none" start_char="933" end_char="936">&lt;/P&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-21" start_char="938" end_char="940">
+        <ORIGINAL_TEXT>&lt;P&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-21-0" pos="unknown" morph="none" start_char="938" end_char="940">&lt;P&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-22" start_char="942" end_char="1015">
+        <ORIGINAL_TEXT>"Netanyahu hizo todo tipo de declaraciones", afirmó Obama el día antes del</ORIGINAL_TEXT>
+        <TOKEN id="token-22-0" pos="punct" morph="none" start_char="942" end_char="942">"</TOKEN>
+        <TOKEN id="token-22-1" pos="word" morph="none" start_char="943" end_char="951">Netanyahu</TOKEN>
+        <TOKEN id="token-22-2" pos="word" morph="none" start_char="953" end_char="956">hizo</TOKEN>
+        <TOKEN id="token-22-3" pos="word" morph="none" start_char="958" end_char="961">todo</TOKEN>
+        <TOKEN id="token-22-4" pos="word" morph="none" start_char="963" end_char="966">tipo</TOKEN>
+        <TOKEN id="token-22-5" pos="word" morph="none" start_char="968" end_char="969">de</TOKEN>
+        <TOKEN id="token-22-6" pos="word" morph="none" start_char="971" end_char="983">declaraciones</TOKEN>
+        <TOKEN id="token-22-7" pos="punct" morph="none" start_char="984" end_char="985">",</TOKEN>
+        <TOKEN id="token-22-8" pos="word" morph="none" start_char="987" end_char="992">afirmó</TOKEN>
+        <TOKEN id="token-22-9" pos="word" morph="none" start_char="994" end_char="998">Obama</TOKEN>
+        <TOKEN id="token-22-10" pos="word" morph="none" start_char="1000" end_char="1001">el</TOKEN>
+        <TOKEN id="token-22-11" pos="word" morph="none" start_char="1003" end_char="1005">día</TOKEN>
+        <TOKEN id="token-22-12" pos="word" morph="none" start_char="1007" end_char="1011">antes</TOKEN>
+        <TOKEN id="token-22-13" pos="word" morph="none" start_char="1013" end_char="1015">del</TOKEN>
+      </SEG>
+      <SEG id="segment-23" start_char="1017" end_char="1091">
+        <ORIGINAL_TEXT>discurso ante el Congreso estadounidense del primer ministro israelí, feroz</ORIGINAL_TEXT>
+        <TOKEN id="token-23-0" pos="word" morph="none" start_char="1017" end_char="1024">discurso</TOKEN>
+        <TOKEN id="token-23-1" pos="word" morph="none" start_char="1026" end_char="1029">ante</TOKEN>
+        <TOKEN id="token-23-2" pos="word" morph="none" start_char="1031" end_char="1032">el</TOKEN>
+        <TOKEN id="token-23-3" pos="word" morph="none" start_char="1034" end_char="1041">Congreso</TOKEN>
+        <TOKEN id="token-23-4" pos="word" morph="none" start_char="1043" end_char="1056">estadounidense</TOKEN>
+        <TOKEN id="token-23-5" pos="word" morph="none" start_char="1058" end_char="1060">del</TOKEN>
+        <TOKEN id="token-23-6" pos="word" morph="none" start_char="1062" end_char="1067">primer</TOKEN>
+        <TOKEN id="token-23-7" pos="word" morph="none" start_char="1069" end_char="1076">ministro</TOKEN>
+        <TOKEN id="token-23-8" pos="word" morph="none" start_char="1078" end_char="1084">israelí</TOKEN>
+        <TOKEN id="token-23-9" pos="punct" morph="none" start_char="1085" end_char="1085">,</TOKEN>
+        <TOKEN id="token-23-10" pos="word" morph="none" start_char="1087" end_char="1091">feroz</TOKEN>
+      </SEG>
+      <SEG id="segment-24" start_char="1093" end_char="1126">
+        <ORIGINAL_TEXT>opositor a un acuerdo con Teherán.</ORIGINAL_TEXT>
+        <TOKEN id="token-24-0" pos="word" morph="none" start_char="1093" end_char="1100">opositor</TOKEN>
+        <TOKEN id="token-24-1" pos="word" morph="none" start_char="1102" end_char="1102">a</TOKEN>
+        <TOKEN id="token-24-2" pos="word" morph="none" start_char="1104" end_char="1105">un</TOKEN>
+        <TOKEN id="token-24-3" pos="word" morph="none" start_char="1107" end_char="1113">acuerdo</TOKEN>
+        <TOKEN id="token-24-4" pos="word" morph="none" start_char="1115" end_char="1117">con</TOKEN>
+        <TOKEN id="token-24-5" pos="word" morph="none" start_char="1119" end_char="1125">Teherán</TOKEN>
+        <TOKEN id="token-24-6" pos="punct" morph="none" start_char="1126" end_char="1126">.</TOKEN>
+      </SEG>
+      <SEG id="segment-25" start_char="1128" end_char="1131">
+        <ORIGINAL_TEXT>&lt;/P&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-25-0" pos="unknown" morph="none" start_char="1128" end_char="1131">&lt;/P&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-26" start_char="1133" end_char="1135">
+        <ORIGINAL_TEXT>&lt;P&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-26-0" pos="unknown" morph="none" start_char="1133" end_char="1135">&lt;P&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-27" start_char="1137" end_char="1208">
+        <ORIGINAL_TEXT>"(El primer ministro israelí dijo que) este será un muy mal acuerdo. Que</ORIGINAL_TEXT>
+        <TOKEN id="token-27-0" pos="punct" morph="none" start_char="1137" end_char="1138">"(</TOKEN>
+        <TOKEN id="token-27-1" pos="word" morph="none" start_char="1139" end_char="1140">El</TOKEN>
+        <TOKEN id="token-27-2" pos="word" morph="none" start_char="1142" end_char="1147">primer</TOKEN>
+        <TOKEN id="token-27-3" pos="word" morph="none" start_char="1149" end_char="1156">ministro</TOKEN>
+        <TOKEN id="token-27-4" pos="word" morph="none" start_char="1158" end_char="1164">israelí</TOKEN>
+        <TOKEN id="token-27-5" pos="word" morph="none" start_char="1166" end_char="1169">dijo</TOKEN>
+        <TOKEN id="token-27-6" pos="word" morph="none" start_char="1171" end_char="1173">que</TOKEN>
+        <TOKEN id="token-27-7" pos="punct" morph="none" start_char="1174" end_char="1174">)</TOKEN>
+        <TOKEN id="token-27-8" pos="word" morph="none" start_char="1176" end_char="1179">este</TOKEN>
+        <TOKEN id="token-27-9" pos="word" morph="none" start_char="1181" end_char="1184">será</TOKEN>
+        <TOKEN id="token-27-10" pos="word" morph="none" start_char="1186" end_char="1187">un</TOKEN>
+        <TOKEN id="token-27-11" pos="word" morph="none" start_char="1189" end_char="1191">muy</TOKEN>
+        <TOKEN id="token-27-12" pos="word" morph="none" start_char="1193" end_char="1195">mal</TOKEN>
+        <TOKEN id="token-27-13" pos="word" morph="none" start_char="1197" end_char="1203">acuerdo</TOKEN>
+        <TOKEN id="token-27-14" pos="punct" morph="none" start_char="1204" end_char="1204">.</TOKEN>
+        <TOKEN id="token-27-15" pos="word" morph="none" start_char="1206" end_char="1208">Que</TOKEN>
+      </SEG>
+      <SEG id="segment-28" start_char="1210" end_char="1282">
+        <ORIGINAL_TEXT>esto permitirá a Irán recuperar 50.000 millones de dólares. (Que) Irán no</ORIGINAL_TEXT>
+        <TOKEN id="token-28-0" pos="word" morph="none" start_char="1210" end_char="1213">esto</TOKEN>
+        <TOKEN id="token-28-1" pos="word" morph="none" start_char="1215" end_char="1223">permitirá</TOKEN>
+        <TOKEN id="token-28-2" pos="word" morph="none" start_char="1225" end_char="1225">a</TOKEN>
+        <TOKEN id="token-28-3" pos="word" morph="none" start_char="1227" end_char="1230">Irán</TOKEN>
+        <TOKEN id="token-28-4" pos="word" morph="none" start_char="1232" end_char="1240">recuperar</TOKEN>
+        <TOKEN id="token-28-5" pos="number" morph="none" start_char="1242" end_char="1247">50.000</TOKEN>
+        <TOKEN id="token-28-6" pos="word" morph="none" start_char="1249" end_char="1256">millones</TOKEN>
+        <TOKEN id="token-28-7" pos="word" morph="none" start_char="1258" end_char="1259">de</TOKEN>
+        <TOKEN id="token-28-8" pos="word" morph="none" start_char="1261" end_char="1267">dólares</TOKEN>
+        <TOKEN id="token-28-9" pos="punct" morph="none" start_char="1268" end_char="1268">.</TOKEN>
+        <TOKEN id="token-28-10" pos="punct" morph="none" start_char="1270" end_char="1270">(</TOKEN>
+        <TOKEN id="token-28-11" pos="word" morph="none" start_char="1271" end_char="1273">Que</TOKEN>
+        <TOKEN id="token-28-12" pos="punct" morph="none" start_char="1274" end_char="1274">)</TOKEN>
+        <TOKEN id="token-28-13" pos="word" morph="none" start_char="1276" end_char="1279">Irán</TOKEN>
+        <TOKEN id="token-28-14" pos="word" morph="none" start_char="1281" end_char="1282">no</TOKEN>
+      </SEG>
+      <SEG id="segment-29" start_char="1284" end_char="1350">
+        <ORIGINAL_TEXT>respetará el acuerdo. Nada de esto se ha verificado", agregó Obama.</ORIGINAL_TEXT>
+        <TOKEN id="token-29-0" pos="word" morph="none" start_char="1284" end_char="1292">respetará</TOKEN>
+        <TOKEN id="token-29-1" pos="word" morph="none" start_char="1294" end_char="1295">el</TOKEN>
+        <TOKEN id="token-29-2" pos="word" morph="none" start_char="1297" end_char="1303">acuerdo</TOKEN>
+        <TOKEN id="token-29-3" pos="punct" morph="none" start_char="1304" end_char="1304">.</TOKEN>
+        <TOKEN id="token-29-4" pos="word" morph="none" start_char="1306" end_char="1309">Nada</TOKEN>
+        <TOKEN id="token-29-5" pos="word" morph="none" start_char="1311" end_char="1312">de</TOKEN>
+        <TOKEN id="token-29-6" pos="word" morph="none" start_char="1314" end_char="1317">esto</TOKEN>
+        <TOKEN id="token-29-7" pos="word" morph="none" start_char="1319" end_char="1320">se</TOKEN>
+        <TOKEN id="token-29-8" pos="word" morph="none" start_char="1322" end_char="1323">ha</TOKEN>
+        <TOKEN id="token-29-9" pos="word" morph="none" start_char="1325" end_char="1334">verificado</TOKEN>
+        <TOKEN id="token-29-10" pos="punct" morph="none" start_char="1335" end_char="1336">",</TOKEN>
+        <TOKEN id="token-29-11" pos="word" morph="none" start_char="1338" end_char="1343">agregó</TOKEN>
+        <TOKEN id="token-29-12" pos="word" morph="none" start_char="1345" end_char="1349">Obama</TOKEN>
+        <TOKEN id="token-29-13" pos="punct" morph="none" start_char="1350" end_char="1350">.</TOKEN>
+      </SEG>
+      <SEG id="segment-30" start_char="1352" end_char="1355">
+        <ORIGINAL_TEXT>&lt;/P&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-30-0" pos="unknown" morph="none" start_char="1352" end_char="1355">&lt;/P&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-31" start_char="1357" end_char="1359">
+        <ORIGINAL_TEXT>&lt;P&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-31-0" pos="unknown" morph="none" start_char="1357" end_char="1359">&lt;P&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-32" start_char="1361" end_char="1435">
+        <ORIGINAL_TEXT>Evocando las tensiones de estos últimos días entre Israel y Estados Unidos,</ORIGINAL_TEXT>
+        <TOKEN id="token-32-0" pos="word" morph="none" start_char="1361" end_char="1368">Evocando</TOKEN>
+        <TOKEN id="token-32-1" pos="word" morph="none" start_char="1370" end_char="1372">las</TOKEN>
+        <TOKEN id="token-32-2" pos="word" morph="none" start_char="1374" end_char="1382">tensiones</TOKEN>
+        <TOKEN id="token-32-3" pos="word" morph="none" start_char="1384" end_char="1385">de</TOKEN>
+        <TOKEN id="token-32-4" pos="word" morph="none" start_char="1387" end_char="1391">estos</TOKEN>
+        <TOKEN id="token-32-5" pos="word" morph="none" start_char="1393" end_char="1399">últimos</TOKEN>
+        <TOKEN id="token-32-6" pos="word" morph="none" start_char="1401" end_char="1404">días</TOKEN>
+        <TOKEN id="token-32-7" pos="word" morph="none" start_char="1406" end_char="1410">entre</TOKEN>
+        <TOKEN id="token-32-8" pos="word" morph="none" start_char="1412" end_char="1417">Israel</TOKEN>
+        <TOKEN id="token-32-9" pos="word" morph="none" start_char="1419" end_char="1419">y</TOKEN>
+        <TOKEN id="token-32-10" pos="word" morph="none" start_char="1421" end_char="1427">Estados</TOKEN>
+        <TOKEN id="token-32-11" pos="word" morph="none" start_char="1429" end_char="1434">Unidos</TOKEN>
+        <TOKEN id="token-32-12" pos="punct" morph="none" start_char="1435" end_char="1435">,</TOKEN>
+      </SEG>
+      <SEG id="segment-33" start_char="1437" end_char="1511">
+        <ORIGINAL_TEXT>el presidente estimó que no se trataba "de un problema personal" entre él y</ORIGINAL_TEXT>
+        <TOKEN id="token-33-0" pos="word" morph="none" start_char="1437" end_char="1438">el</TOKEN>
+        <TOKEN id="token-33-1" pos="word" morph="none" start_char="1440" end_char="1449">presidente</TOKEN>
+        <TOKEN id="token-33-2" pos="word" morph="none" start_char="1451" end_char="1456">estimó</TOKEN>
+        <TOKEN id="token-33-3" pos="word" morph="none" start_char="1458" end_char="1460">que</TOKEN>
+        <TOKEN id="token-33-4" pos="word" morph="none" start_char="1462" end_char="1463">no</TOKEN>
+        <TOKEN id="token-33-5" pos="word" morph="none" start_char="1465" end_char="1466">se</TOKEN>
+        <TOKEN id="token-33-6" pos="word" morph="none" start_char="1468" end_char="1474">trataba</TOKEN>
+        <TOKEN id="token-33-7" pos="punct" morph="none" start_char="1476" end_char="1476">"</TOKEN>
+        <TOKEN id="token-33-8" pos="word" morph="none" start_char="1477" end_char="1478">de</TOKEN>
+        <TOKEN id="token-33-9" pos="word" morph="none" start_char="1480" end_char="1481">un</TOKEN>
+        <TOKEN id="token-33-10" pos="word" morph="none" start_char="1483" end_char="1490">problema</TOKEN>
+        <TOKEN id="token-33-11" pos="word" morph="none" start_char="1492" end_char="1499">personal</TOKEN>
+        <TOKEN id="token-33-12" pos="punct" morph="none" start_char="1500" end_char="1500">"</TOKEN>
+        <TOKEN id="token-33-13" pos="word" morph="none" start_char="1502" end_char="1506">entre</TOKEN>
+        <TOKEN id="token-33-14" pos="word" morph="none" start_char="1508" end_char="1509">él</TOKEN>
+        <TOKEN id="token-33-15" pos="word" morph="none" start_char="1511" end_char="1511">y</TOKEN>
+      </SEG>
+      <SEG id="segment-34" start_char="1513" end_char="1522">
+        <ORIGINAL_TEXT>Netanyahu.</ORIGINAL_TEXT>
+        <TOKEN id="token-34-0" pos="word" morph="none" start_char="1513" end_char="1521">Netanyahu</TOKEN>
+        <TOKEN id="token-34-1" pos="punct" morph="none" start_char="1522" end_char="1522">.</TOKEN>
+      </SEG>
+      <SEG id="segment-35" start_char="1524" end_char="1527">
+        <ORIGINAL_TEXT>&lt;/P&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-35-0" pos="unknown" morph="none" start_char="1524" end_char="1527">&lt;/P&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-36" start_char="1529" end_char="1531">
+        <ORIGINAL_TEXT>&lt;P&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-36-0" pos="unknown" morph="none" start_char="1529" end_char="1531">&lt;P&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-37" start_char="1533" end_char="1599">
+        <ORIGINAL_TEXT>Netanyahu organizó su discurso ante el Congreso directamente con el</ORIGINAL_TEXT>
+        <TOKEN id="token-37-0" pos="word" morph="none" start_char="1533" end_char="1541">Netanyahu</TOKEN>
+        <TOKEN id="token-37-1" pos="word" morph="none" start_char="1543" end_char="1550">organizó</TOKEN>
+        <TOKEN id="token-37-2" pos="word" morph="none" start_char="1552" end_char="1553">su</TOKEN>
+        <TOKEN id="token-37-3" pos="word" morph="none" start_char="1555" end_char="1562">discurso</TOKEN>
+        <TOKEN id="token-37-4" pos="word" morph="none" start_char="1564" end_char="1567">ante</TOKEN>
+        <TOKEN id="token-37-5" pos="word" morph="none" start_char="1569" end_char="1570">el</TOKEN>
+        <TOKEN id="token-37-6" pos="word" morph="none" start_char="1572" end_char="1579">Congreso</TOKEN>
+        <TOKEN id="token-37-7" pos="word" morph="none" start_char="1581" end_char="1592">directamente</TOKEN>
+        <TOKEN id="token-37-8" pos="word" morph="none" start_char="1594" end_char="1596">con</TOKEN>
+        <TOKEN id="token-37-9" pos="word" morph="none" start_char="1598" end_char="1599">el</TOKEN>
+      </SEG>
+      <SEG id="segment-38" start_char="1601" end_char="1674">
+        <ORIGINAL_TEXT>presidente republicano de la Cámara de Representantes, John Boehner, y sin</ORIGINAL_TEXT>
+        <TOKEN id="token-38-0" pos="word" morph="none" start_char="1601" end_char="1610">presidente</TOKEN>
+        <TOKEN id="token-38-1" pos="word" morph="none" start_char="1612" end_char="1622">republicano</TOKEN>
+        <TOKEN id="token-38-2" pos="word" morph="none" start_char="1624" end_char="1625">de</TOKEN>
+        <TOKEN id="token-38-3" pos="word" morph="none" start_char="1627" end_char="1628">la</TOKEN>
+        <TOKEN id="token-38-4" pos="word" morph="none" start_char="1630" end_char="1635">Cámara</TOKEN>
+        <TOKEN id="token-38-5" pos="word" morph="none" start_char="1637" end_char="1638">de</TOKEN>
+        <TOKEN id="token-38-6" pos="word" morph="none" start_char="1640" end_char="1653">Representantes</TOKEN>
+        <TOKEN id="token-38-7" pos="punct" morph="none" start_char="1654" end_char="1654">,</TOKEN>
+        <TOKEN id="token-38-8" pos="word" morph="none" start_char="1656" end_char="1659">John</TOKEN>
+        <TOKEN id="token-38-9" pos="word" morph="none" start_char="1661" end_char="1667">Boehner</TOKEN>
+        <TOKEN id="token-38-10" pos="punct" morph="none" start_char="1668" end_char="1668">,</TOKEN>
+        <TOKEN id="token-38-11" pos="word" morph="none" start_char="1670" end_char="1670">y</TOKEN>
+        <TOKEN id="token-38-12" pos="word" morph="none" start_char="1672" end_char="1674">sin</TOKEN>
+      </SEG>
+      <SEG id="segment-39" start_char="1676" end_char="1744">
+        <ORIGINAL_TEXT>informar previamente a la Casa Blanca, lo que provocó la cólera de la</ORIGINAL_TEXT>
+        <TOKEN id="token-39-0" pos="word" morph="none" start_char="1676" end_char="1683">informar</TOKEN>
+        <TOKEN id="token-39-1" pos="word" morph="none" start_char="1685" end_char="1695">previamente</TOKEN>
+        <TOKEN id="token-39-2" pos="word" morph="none" start_char="1697" end_char="1697">a</TOKEN>
+        <TOKEN id="token-39-3" pos="word" morph="none" start_char="1699" end_char="1700">la</TOKEN>
+        <TOKEN id="token-39-4" pos="word" morph="none" start_char="1702" end_char="1705">Casa</TOKEN>
+        <TOKEN id="token-39-5" pos="word" morph="none" start_char="1707" end_char="1712">Blanca</TOKEN>
+        <TOKEN id="token-39-6" pos="punct" morph="none" start_char="1713" end_char="1713">,</TOKEN>
+        <TOKEN id="token-39-7" pos="word" morph="none" start_char="1715" end_char="1716">lo</TOKEN>
+        <TOKEN id="token-39-8" pos="word" morph="none" start_char="1718" end_char="1720">que</TOKEN>
+        <TOKEN id="token-39-9" pos="word" morph="none" start_char="1722" end_char="1728">provocó</TOKEN>
+        <TOKEN id="token-39-10" pos="word" morph="none" start_char="1730" end_char="1731">la</TOKEN>
+        <TOKEN id="token-39-11" pos="word" morph="none" start_char="1733" end_char="1738">cólera</TOKEN>
+        <TOKEN id="token-39-12" pos="word" morph="none" start_char="1740" end_char="1741">de</TOKEN>
+        <TOKEN id="token-39-13" pos="word" morph="none" start_char="1743" end_char="1744">la</TOKEN>
+      </SEG>
+      <SEG id="segment-40" start_char="1746" end_char="1815">
+        <ORIGINAL_TEXT>presidencia estadounidense. Obama descartó cualquier posibilidad de un</ORIGINAL_TEXT>
+        <TOKEN id="token-40-0" pos="word" morph="none" start_char="1746" end_char="1756">presidencia</TOKEN>
+        <TOKEN id="token-40-1" pos="word" morph="none" start_char="1758" end_char="1771">estadounidense</TOKEN>
+        <TOKEN id="token-40-2" pos="punct" morph="none" start_char="1772" end_char="1772">.</TOKEN>
+        <TOKEN id="token-40-3" pos="word" morph="none" start_char="1774" end_char="1778">Obama</TOKEN>
+        <TOKEN id="token-40-4" pos="word" morph="none" start_char="1780" end_char="1787">descartó</TOKEN>
+        <TOKEN id="token-40-5" pos="word" morph="none" start_char="1789" end_char="1797">cualquier</TOKEN>
+        <TOKEN id="token-40-6" pos="word" morph="none" start_char="1799" end_char="1809">posibilidad</TOKEN>
+        <TOKEN id="token-40-7" pos="word" morph="none" start_char="1811" end_char="1812">de</TOKEN>
+        <TOKEN id="token-40-8" pos="word" morph="none" start_char="1814" end_char="1815">un</TOKEN>
+      </SEG>
+      <SEG id="segment-41" start_char="1817" end_char="1866">
+        <ORIGINAL_TEXT>encuentro con Netanyahu en ocasión de esta visita.</ORIGINAL_TEXT>
+        <TOKEN id="token-41-0" pos="word" morph="none" start_char="1817" end_char="1825">encuentro</TOKEN>
+        <TOKEN id="token-41-1" pos="word" morph="none" start_char="1827" end_char="1829">con</TOKEN>
+        <TOKEN id="token-41-2" pos="word" morph="none" start_char="1831" end_char="1839">Netanyahu</TOKEN>
+        <TOKEN id="token-41-3" pos="word" morph="none" start_char="1841" end_char="1842">en</TOKEN>
+        <TOKEN id="token-41-4" pos="word" morph="none" start_char="1844" end_char="1850">ocasión</TOKEN>
+        <TOKEN id="token-41-5" pos="word" morph="none" start_char="1852" end_char="1853">de</TOKEN>
+        <TOKEN id="token-41-6" pos="word" morph="none" start_char="1855" end_char="1858">esta</TOKEN>
+        <TOKEN id="token-41-7" pos="word" morph="none" start_char="1860" end_char="1865">visita</TOKEN>
+        <TOKEN id="token-41-8" pos="punct" morph="none" start_char="1866" end_char="1866">.</TOKEN>
+      </SEG>
+      <SEG id="segment-42" start_char="1868" end_char="1871">
+        <ORIGINAL_TEXT>&lt;/P&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-42-0" pos="unknown" morph="none" start_char="1868" end_char="1871">&lt;/P&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-43" start_char="1873" end_char="1875">
+        <ORIGINAL_TEXT>&lt;P&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-43-0" pos="unknown" morph="none" start_char="1873" end_char="1875">&lt;P&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-44" start_char="1877" end_char="1950">
+        <ORIGINAL_TEXT>El presidente estadounidense dijo una vez más que las posibilidades de que</ORIGINAL_TEXT>
+        <TOKEN id="token-44-0" pos="word" morph="none" start_char="1877" end_char="1878">El</TOKEN>
+        <TOKEN id="token-44-1" pos="word" morph="none" start_char="1880" end_char="1889">presidente</TOKEN>
+        <TOKEN id="token-44-2" pos="word" morph="none" start_char="1891" end_char="1904">estadounidense</TOKEN>
+        <TOKEN id="token-44-3" pos="word" morph="none" start_char="1906" end_char="1909">dijo</TOKEN>
+        <TOKEN id="token-44-4" pos="word" morph="none" start_char="1911" end_char="1913">una</TOKEN>
+        <TOKEN id="token-44-5" pos="word" morph="none" start_char="1915" end_char="1917">vez</TOKEN>
+        <TOKEN id="token-44-6" pos="word" morph="none" start_char="1919" end_char="1921">más</TOKEN>
+        <TOKEN id="token-44-7" pos="word" morph="none" start_char="1923" end_char="1925">que</TOKEN>
+        <TOKEN id="token-44-8" pos="word" morph="none" start_char="1927" end_char="1929">las</TOKEN>
+        <TOKEN id="token-44-9" pos="word" morph="none" start_char="1931" end_char="1943">posibilidades</TOKEN>
+        <TOKEN id="token-44-10" pos="word" morph="none" start_char="1945" end_char="1946">de</TOKEN>
+        <TOKEN id="token-44-11" pos="word" morph="none" start_char="1948" end_char="1950">que</TOKEN>
+      </SEG>
+      <SEG id="segment-45" start_char="1952" end_char="2025">
+        <ORIGINAL_TEXT>las negociaciones no lleguen a buen puerto seguían siendo elevadas. "Diría</ORIGINAL_TEXT>
+        <TOKEN id="token-45-0" pos="word" morph="none" start_char="1952" end_char="1954">las</TOKEN>
+        <TOKEN id="token-45-1" pos="word" morph="none" start_char="1956" end_char="1968">negociaciones</TOKEN>
+        <TOKEN id="token-45-2" pos="word" morph="none" start_char="1970" end_char="1971">no</TOKEN>
+        <TOKEN id="token-45-3" pos="word" morph="none" start_char="1973" end_char="1979">lleguen</TOKEN>
+        <TOKEN id="token-45-4" pos="word" morph="none" start_char="1981" end_char="1981">a</TOKEN>
+        <TOKEN id="token-45-5" pos="word" morph="none" start_char="1983" end_char="1986">buen</TOKEN>
+        <TOKEN id="token-45-6" pos="word" morph="none" start_char="1988" end_char="1993">puerto</TOKEN>
+        <TOKEN id="token-45-7" pos="word" morph="none" start_char="1995" end_char="2001">seguían</TOKEN>
+        <TOKEN id="token-45-8" pos="word" morph="none" start_char="2003" end_char="2008">siendo</TOKEN>
+        <TOKEN id="token-45-9" pos="word" morph="none" start_char="2010" end_char="2017">elevadas</TOKEN>
+        <TOKEN id="token-45-10" pos="punct" morph="none" start_char="2018" end_char="2018">.</TOKEN>
+        <TOKEN id="token-45-11" pos="punct" morph="none" start_char="2020" end_char="2020">"</TOKEN>
+        <TOKEN id="token-45-12" pos="word" morph="none" start_char="2021" end_char="2025">Diría</TOKEN>
+      </SEG>
+      <SEG id="segment-46" start_char="2027" end_char="2099">
+        <ORIGINAL_TEXT>que probablemente hay más posibilidades de que Irán no diga sí", declaró.</ORIGINAL_TEXT>
+        <TOKEN id="token-46-0" pos="word" morph="none" start_char="2027" end_char="2029">que</TOKEN>
+        <TOKEN id="token-46-1" pos="word" morph="none" start_char="2031" end_char="2043">probablemente</TOKEN>
+        <TOKEN id="token-46-2" pos="word" morph="none" start_char="2045" end_char="2047">hay</TOKEN>
+        <TOKEN id="token-46-3" pos="word" morph="none" start_char="2049" end_char="2051">más</TOKEN>
+        <TOKEN id="token-46-4" pos="word" morph="none" start_char="2053" end_char="2065">posibilidades</TOKEN>
+        <TOKEN id="token-46-5" pos="word" morph="none" start_char="2067" end_char="2068">de</TOKEN>
+        <TOKEN id="token-46-6" pos="word" morph="none" start_char="2070" end_char="2072">que</TOKEN>
+        <TOKEN id="token-46-7" pos="word" morph="none" start_char="2074" end_char="2077">Irán</TOKEN>
+        <TOKEN id="token-46-8" pos="word" morph="none" start_char="2079" end_char="2080">no</TOKEN>
+        <TOKEN id="token-46-9" pos="word" morph="none" start_char="2082" end_char="2085">diga</TOKEN>
+        <TOKEN id="token-46-10" pos="word" morph="none" start_char="2087" end_char="2088">sí</TOKEN>
+        <TOKEN id="token-46-11" pos="punct" morph="none" start_char="2089" end_char="2090">",</TOKEN>
+        <TOKEN id="token-46-12" pos="word" morph="none" start_char="2092" end_char="2098">declaró</TOKEN>
+        <TOKEN id="token-46-13" pos="punct" morph="none" start_char="2099" end_char="2099">.</TOKEN>
+      </SEG>
+      <SEG id="segment-47" start_char="2101" end_char="2104">
+        <ORIGINAL_TEXT>&lt;/P&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-47-0" pos="unknown" morph="none" start_char="2101" end_char="2104">&lt;/P&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-48" start_char="2106" end_char="2108">
+        <ORIGINAL_TEXT>&lt;P&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-48-0" pos="unknown" morph="none" start_char="2106" end_char="2108">&lt;P&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-49" start_char="2110" end_char="2126">
+        <ORIGINAL_TEXT>Contra un acuerdo</ORIGINAL_TEXT>
+        <TOKEN id="token-49-0" pos="word" morph="none" start_char="2110" end_char="2115">Contra</TOKEN>
+        <TOKEN id="token-49-1" pos="word" morph="none" start_char="2117" end_char="2118">un</TOKEN>
+        <TOKEN id="token-49-2" pos="word" morph="none" start_char="2120" end_char="2126">acuerdo</TOKEN>
+      </SEG>
+      <SEG id="segment-50" start_char="2128" end_char="2131">
+        <ORIGINAL_TEXT>&lt;/P&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-50-0" pos="unknown" morph="none" start_char="2128" end_char="2131">&lt;/P&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-51" start_char="2133" end_char="2135">
+        <ORIGINAL_TEXT>&lt;P&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-51-0" pos="unknown" morph="none" start_char="2133" end_char="2135">&lt;P&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-52" start_char="2137" end_char="2210">
+        <ORIGINAL_TEXT>El primer ministro israelí, Benjamin Netanyahu, dará hoy un discurso en el</ORIGINAL_TEXT>
+        <TOKEN id="token-52-0" pos="word" morph="none" start_char="2137" end_char="2138">El</TOKEN>
+        <TOKEN id="token-52-1" pos="word" morph="none" start_char="2140" end_char="2145">primer</TOKEN>
+        <TOKEN id="token-52-2" pos="word" morph="none" start_char="2147" end_char="2154">ministro</TOKEN>
+        <TOKEN id="token-52-3" pos="word" morph="none" start_char="2156" end_char="2162">israelí</TOKEN>
+        <TOKEN id="token-52-4" pos="punct" morph="none" start_char="2163" end_char="2163">,</TOKEN>
+        <TOKEN id="token-52-5" pos="word" morph="none" start_char="2165" end_char="2172">Benjamin</TOKEN>
+        <TOKEN id="token-52-6" pos="word" morph="none" start_char="2174" end_char="2182">Netanyahu</TOKEN>
+        <TOKEN id="token-52-7" pos="punct" morph="none" start_char="2183" end_char="2183">,</TOKEN>
+        <TOKEN id="token-52-8" pos="word" morph="none" start_char="2185" end_char="2188">dará</TOKEN>
+        <TOKEN id="token-52-9" pos="word" morph="none" start_char="2190" end_char="2192">hoy</TOKEN>
+        <TOKEN id="token-52-10" pos="word" morph="none" start_char="2194" end_char="2195">un</TOKEN>
+        <TOKEN id="token-52-11" pos="word" morph="none" start_char="2197" end_char="2204">discurso</TOKEN>
+        <TOKEN id="token-52-12" pos="word" morph="none" start_char="2206" end_char="2207">en</TOKEN>
+        <TOKEN id="token-52-13" pos="word" morph="none" start_char="2209" end_char="2210">el</TOKEN>
+      </SEG>
+      <SEG id="segment-53" start_char="2212" end_char="2285">
+        <ORIGINAL_TEXT>Congreso estadounidense en contra de las negociaciones que el gobierno del</ORIGINAL_TEXT>
+        <TOKEN id="token-53-0" pos="word" morph="none" start_char="2212" end_char="2219">Congreso</TOKEN>
+        <TOKEN id="token-53-1" pos="word" morph="none" start_char="2221" end_char="2234">estadounidense</TOKEN>
+        <TOKEN id="token-53-2" pos="word" morph="none" start_char="2236" end_char="2237">en</TOKEN>
+        <TOKEN id="token-53-3" pos="word" morph="none" start_char="2239" end_char="2244">contra</TOKEN>
+        <TOKEN id="token-53-4" pos="word" morph="none" start_char="2246" end_char="2247">de</TOKEN>
+        <TOKEN id="token-53-5" pos="word" morph="none" start_char="2249" end_char="2251">las</TOKEN>
+        <TOKEN id="token-53-6" pos="word" morph="none" start_char="2253" end_char="2265">negociaciones</TOKEN>
+        <TOKEN id="token-53-7" pos="word" morph="none" start_char="2267" end_char="2269">que</TOKEN>
+        <TOKEN id="token-53-8" pos="word" morph="none" start_char="2271" end_char="2272">el</TOKEN>
+        <TOKEN id="token-53-9" pos="word" morph="none" start_char="2274" end_char="2281">gobierno</TOKEN>
+        <TOKEN id="token-53-10" pos="word" morph="none" start_char="2283" end_char="2285">del</TOKEN>
+      </SEG>
+      <SEG id="segment-54" start_char="2287" end_char="2361">
+        <ORIGINAL_TEXT>presidente Barack Obama lleva adelante con Irán por su programa nuclear, en</ORIGINAL_TEXT>
+        <TOKEN id="token-54-0" pos="word" morph="none" start_char="2287" end_char="2296">presidente</TOKEN>
+        <TOKEN id="token-54-1" pos="word" morph="none" start_char="2298" end_char="2303">Barack</TOKEN>
+        <TOKEN id="token-54-2" pos="word" morph="none" start_char="2305" end_char="2309">Obama</TOKEN>
+        <TOKEN id="token-54-3" pos="word" morph="none" start_char="2311" end_char="2315">lleva</TOKEN>
+        <TOKEN id="token-54-4" pos="word" morph="none" start_char="2317" end_char="2324">adelante</TOKEN>
+        <TOKEN id="token-54-5" pos="word" morph="none" start_char="2326" end_char="2328">con</TOKEN>
+        <TOKEN id="token-54-6" pos="word" morph="none" start_char="2330" end_char="2333">Irán</TOKEN>
+        <TOKEN id="token-54-7" pos="word" morph="none" start_char="2335" end_char="2337">por</TOKEN>
+        <TOKEN id="token-54-8" pos="word" morph="none" start_char="2339" end_char="2340">su</TOKEN>
+        <TOKEN id="token-54-9" pos="word" morph="none" start_char="2342" end_char="2349">programa</TOKEN>
+        <TOKEN id="token-54-10" pos="word" morph="none" start_char="2351" end_char="2357">nuclear</TOKEN>
+        <TOKEN id="token-54-11" pos="punct" morph="none" start_char="2358" end_char="2358">,</TOKEN>
+        <TOKEN id="token-54-12" pos="word" morph="none" start_char="2360" end_char="2361">en</TOKEN>
+      </SEG>
+      <SEG id="segment-55" start_char="2363" end_char="2428">
+        <ORIGINAL_TEXT>una polémica visita dos semanas antes de las elecciones en Israel.</ORIGINAL_TEXT>
+        <TOKEN id="token-55-0" pos="word" morph="none" start_char="2363" end_char="2365">una</TOKEN>
+        <TOKEN id="token-55-1" pos="word" morph="none" start_char="2367" end_char="2374">polémica</TOKEN>
+        <TOKEN id="token-55-2" pos="word" morph="none" start_char="2376" end_char="2381">visita</TOKEN>
+        <TOKEN id="token-55-3" pos="word" morph="none" start_char="2383" end_char="2385">dos</TOKEN>
+        <TOKEN id="token-55-4" pos="word" morph="none" start_char="2387" end_char="2393">semanas</TOKEN>
+        <TOKEN id="token-55-5" pos="word" morph="none" start_char="2395" end_char="2399">antes</TOKEN>
+        <TOKEN id="token-55-6" pos="word" morph="none" start_char="2401" end_char="2402">de</TOKEN>
+        <TOKEN id="token-55-7" pos="word" morph="none" start_char="2404" end_char="2406">las</TOKEN>
+        <TOKEN id="token-55-8" pos="word" morph="none" start_char="2408" end_char="2417">elecciones</TOKEN>
+        <TOKEN id="token-55-9" pos="word" morph="none" start_char="2419" end_char="2420">en</TOKEN>
+        <TOKEN id="token-55-10" pos="word" morph="none" start_char="2422" end_char="2427">Israel</TOKEN>
+        <TOKEN id="token-55-11" pos="punct" morph="none" start_char="2428" end_char="2428">.</TOKEN>
+      </SEG>
+      <SEG id="segment-56" start_char="2430" end_char="2433">
+        <ORIGINAL_TEXT>&lt;/P&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-56-0" pos="unknown" morph="none" start_char="2430" end_char="2433">&lt;/P&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-57" start_char="2435" end_char="2437">
+        <ORIGINAL_TEXT>&lt;P&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-57-0" pos="unknown" morph="none" start_char="2435" end_char="2437">&lt;P&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-58" start_char="2439" end_char="2508">
+        <ORIGINAL_TEXT>Netanyahu fue invitado a hablar ante ambas cámaras del Congreso por el</ORIGINAL_TEXT>
+        <TOKEN id="token-58-0" pos="word" morph="none" start_char="2439" end_char="2447">Netanyahu</TOKEN>
+        <TOKEN id="token-58-1" pos="word" morph="none" start_char="2449" end_char="2451">fue</TOKEN>
+        <TOKEN id="token-58-2" pos="word" morph="none" start_char="2453" end_char="2460">invitado</TOKEN>
+        <TOKEN id="token-58-3" pos="word" morph="none" start_char="2462" end_char="2462">a</TOKEN>
+        <TOKEN id="token-58-4" pos="word" morph="none" start_char="2464" end_char="2469">hablar</TOKEN>
+        <TOKEN id="token-58-5" pos="word" morph="none" start_char="2471" end_char="2474">ante</TOKEN>
+        <TOKEN id="token-58-6" pos="word" morph="none" start_char="2476" end_char="2480">ambas</TOKEN>
+        <TOKEN id="token-58-7" pos="word" morph="none" start_char="2482" end_char="2488">cámaras</TOKEN>
+        <TOKEN id="token-58-8" pos="word" morph="none" start_char="2490" end_char="2492">del</TOKEN>
+        <TOKEN id="token-58-9" pos="word" morph="none" start_char="2494" end_char="2501">Congreso</TOKEN>
+        <TOKEN id="token-58-10" pos="word" morph="none" start_char="2503" end_char="2505">por</TOKEN>
+        <TOKEN id="token-58-11" pos="word" morph="none" start_char="2507" end_char="2508">el</TOKEN>
+      </SEG>
+      <SEG id="segment-59" start_char="2510" end_char="2583">
+        <ORIGINAL_TEXT>presidente de la Cámara de representantes, el republicano John Boehner, en</ORIGINAL_TEXT>
+        <TOKEN id="token-59-0" pos="word" morph="none" start_char="2510" end_char="2519">presidente</TOKEN>
+        <TOKEN id="token-59-1" pos="word" morph="none" start_char="2521" end_char="2522">de</TOKEN>
+        <TOKEN id="token-59-2" pos="word" morph="none" start_char="2524" end_char="2525">la</TOKEN>
+        <TOKEN id="token-59-3" pos="word" morph="none" start_char="2527" end_char="2532">Cámara</TOKEN>
+        <TOKEN id="token-59-4" pos="word" morph="none" start_char="2534" end_char="2535">de</TOKEN>
+        <TOKEN id="token-59-5" pos="word" morph="none" start_char="2537" end_char="2550">representantes</TOKEN>
+        <TOKEN id="token-59-6" pos="punct" morph="none" start_char="2551" end_char="2551">,</TOKEN>
+        <TOKEN id="token-59-7" pos="word" morph="none" start_char="2553" end_char="2554">el</TOKEN>
+        <TOKEN id="token-59-8" pos="word" morph="none" start_char="2556" end_char="2566">republicano</TOKEN>
+        <TOKEN id="token-59-9" pos="word" morph="none" start_char="2568" end_char="2571">John</TOKEN>
+        <TOKEN id="token-59-10" pos="word" morph="none" start_char="2573" end_char="2579">Boehner</TOKEN>
+        <TOKEN id="token-59-11" pos="punct" morph="none" start_char="2580" end_char="2580">,</TOKEN>
+        <TOKEN id="token-59-12" pos="word" morph="none" start_char="2582" end_char="2583">en</TOKEN>
+      </SEG>
+      <SEG id="segment-60" start_char="2585" end_char="2660">
+        <ORIGINAL_TEXT>una decisión tomada a espaldas de la Casa Blanca y que irritó a Obama, quien</ORIGINAL_TEXT>
+        <TOKEN id="token-60-0" pos="word" morph="none" start_char="2585" end_char="2587">una</TOKEN>
+        <TOKEN id="token-60-1" pos="word" morph="none" start_char="2589" end_char="2596">decisión</TOKEN>
+        <TOKEN id="token-60-2" pos="word" morph="none" start_char="2598" end_char="2603">tomada</TOKEN>
+        <TOKEN id="token-60-3" pos="word" morph="none" start_char="2605" end_char="2605">a</TOKEN>
+        <TOKEN id="token-60-4" pos="word" morph="none" start_char="2607" end_char="2614">espaldas</TOKEN>
+        <TOKEN id="token-60-5" pos="word" morph="none" start_char="2616" end_char="2617">de</TOKEN>
+        <TOKEN id="token-60-6" pos="word" morph="none" start_char="2619" end_char="2620">la</TOKEN>
+        <TOKEN id="token-60-7" pos="word" morph="none" start_char="2622" end_char="2625">Casa</TOKEN>
+        <TOKEN id="token-60-8" pos="word" morph="none" start_char="2627" end_char="2632">Blanca</TOKEN>
+        <TOKEN id="token-60-9" pos="word" morph="none" start_char="2634" end_char="2634">y</TOKEN>
+        <TOKEN id="token-60-10" pos="word" morph="none" start_char="2636" end_char="2638">que</TOKEN>
+        <TOKEN id="token-60-11" pos="word" morph="none" start_char="2640" end_char="2645">irritó</TOKEN>
+        <TOKEN id="token-60-12" pos="word" morph="none" start_char="2647" end_char="2647">a</TOKEN>
+        <TOKEN id="token-60-13" pos="word" morph="none" start_char="2649" end_char="2653">Obama</TOKEN>
+        <TOKEN id="token-60-14" pos="punct" morph="none" start_char="2654" end_char="2654">,</TOKEN>
+        <TOKEN id="token-60-15" pos="word" morph="none" start_char="2656" end_char="2660">quien</TOKEN>
+      </SEG>
+      <SEG id="segment-61" start_char="2662" end_char="2733">
+        <ORIGINAL_TEXT>no recibirá al premier mientras permanezca en territorio estadounidense.</ORIGINAL_TEXT>
+        <TOKEN id="token-61-0" pos="word" morph="none" start_char="2662" end_char="2663">no</TOKEN>
+        <TOKEN id="token-61-1" pos="word" morph="none" start_char="2665" end_char="2672">recibirá</TOKEN>
+        <TOKEN id="token-61-2" pos="word" morph="none" start_char="2674" end_char="2675">al</TOKEN>
+        <TOKEN id="token-61-3" pos="word" morph="none" start_char="2677" end_char="2683">premier</TOKEN>
+        <TOKEN id="token-61-4" pos="word" morph="none" start_char="2685" end_char="2692">mientras</TOKEN>
+        <TOKEN id="token-61-5" pos="word" morph="none" start_char="2694" end_char="2703">permanezca</TOKEN>
+        <TOKEN id="token-61-6" pos="word" morph="none" start_char="2705" end_char="2706">en</TOKEN>
+        <TOKEN id="token-61-7" pos="word" morph="none" start_char="2708" end_char="2717">territorio</TOKEN>
+        <TOKEN id="token-61-8" pos="word" morph="none" start_char="2719" end_char="2732">estadounidense</TOKEN>
+        <TOKEN id="token-61-9" pos="punct" morph="none" start_char="2733" end_char="2733">.</TOKEN>
+      </SEG>
+      <SEG id="segment-62" start_char="2735" end_char="2738">
+        <ORIGINAL_TEXT>&lt;/P&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-62-0" pos="unknown" morph="none" start_char="2735" end_char="2738">&lt;/P&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-63" start_char="2740" end_char="2742">
+        <ORIGINAL_TEXT>&lt;P&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-63-0" pos="unknown" morph="none" start_char="2740" end_char="2742">&lt;P&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-64" start_char="2744" end_char="2818">
+        <ORIGINAL_TEXT>Ayer, tras arribar a Washington, Netanyahu insistió en que no aceptó dar el</ORIGINAL_TEXT>
+        <TOKEN id="token-64-0" pos="word" morph="none" start_char="2744" end_char="2747">Ayer</TOKEN>
+        <TOKEN id="token-64-1" pos="punct" morph="none" start_char="2748" end_char="2748">,</TOKEN>
+        <TOKEN id="token-64-2" pos="word" morph="none" start_char="2750" end_char="2753">tras</TOKEN>
+        <TOKEN id="token-64-3" pos="word" morph="none" start_char="2755" end_char="2761">arribar</TOKEN>
+        <TOKEN id="token-64-4" pos="word" morph="none" start_char="2763" end_char="2763">a</TOKEN>
+        <TOKEN id="token-64-5" pos="word" morph="none" start_char="2765" end_char="2774">Washington</TOKEN>
+        <TOKEN id="token-64-6" pos="punct" morph="none" start_char="2775" end_char="2775">,</TOKEN>
+        <TOKEN id="token-64-7" pos="word" morph="none" start_char="2777" end_char="2785">Netanyahu</TOKEN>
+        <TOKEN id="token-64-8" pos="word" morph="none" start_char="2787" end_char="2794">insistió</TOKEN>
+        <TOKEN id="token-64-9" pos="word" morph="none" start_char="2796" end_char="2797">en</TOKEN>
+        <TOKEN id="token-64-10" pos="word" morph="none" start_char="2799" end_char="2801">que</TOKEN>
+        <TOKEN id="token-64-11" pos="word" morph="none" start_char="2803" end_char="2804">no</TOKEN>
+        <TOKEN id="token-64-12" pos="word" morph="none" start_char="2806" end_char="2811">aceptó</TOKEN>
+        <TOKEN id="token-64-13" pos="word" morph="none" start_char="2813" end_char="2815">dar</TOKEN>
+        <TOKEN id="token-64-14" pos="word" morph="none" start_char="2817" end_char="2818">el</TOKEN>
+      </SEG>
+      <SEG id="segment-65" start_char="2820" end_char="2896">
+        <ORIGINAL_TEXT>discurso para ofender a Obama -con quien no ha tenido buenas relaciones desde</ORIGINAL_TEXT>
+        <TOKEN id="token-65-0" pos="word" morph="none" start_char="2820" end_char="2827">discurso</TOKEN>
+        <TOKEN id="token-65-1" pos="word" morph="none" start_char="2829" end_char="2832">para</TOKEN>
+        <TOKEN id="token-65-2" pos="word" morph="none" start_char="2834" end_char="2840">ofender</TOKEN>
+        <TOKEN id="token-65-3" pos="word" morph="none" start_char="2842" end_char="2842">a</TOKEN>
+        <TOKEN id="token-65-4" pos="word" morph="none" start_char="2844" end_char="2848">Obama</TOKEN>
+        <TOKEN id="token-65-5" pos="punct" morph="none" start_char="2850" end_char="2850">-</TOKEN>
+        <TOKEN id="token-65-6" pos="word" morph="none" start_char="2851" end_char="2853">con</TOKEN>
+        <TOKEN id="token-65-7" pos="word" morph="none" start_char="2855" end_char="2859">quien</TOKEN>
+        <TOKEN id="token-65-8" pos="word" morph="none" start_char="2861" end_char="2862">no</TOKEN>
+        <TOKEN id="token-65-9" pos="word" morph="none" start_char="2864" end_char="2865">ha</TOKEN>
+        <TOKEN id="token-65-10" pos="word" morph="none" start_char="2867" end_char="2872">tenido</TOKEN>
+        <TOKEN id="token-65-11" pos="word" morph="none" start_char="2874" end_char="2879">buenas</TOKEN>
+        <TOKEN id="token-65-12" pos="word" morph="none" start_char="2881" end_char="2890">relaciones</TOKEN>
+        <TOKEN id="token-65-13" pos="word" morph="none" start_char="2892" end_char="2896">desde</TOKEN>
+      </SEG>
+      <SEG id="segment-66" start_char="2898" end_char="2974">
+        <ORIGINAL_TEXT>que ambos llegaron al poder, en 2009-, aunque reafirmó que un acuerdo nuclear</ORIGINAL_TEXT>
+        <TOKEN id="token-66-0" pos="word" morph="none" start_char="2898" end_char="2900">que</TOKEN>
+        <TOKEN id="token-66-1" pos="word" morph="none" start_char="2902" end_char="2906">ambos</TOKEN>
+        <TOKEN id="token-66-2" pos="word" morph="none" start_char="2908" end_char="2915">llegaron</TOKEN>
+        <TOKEN id="token-66-3" pos="word" morph="none" start_char="2917" end_char="2918">al</TOKEN>
+        <TOKEN id="token-66-4" pos="word" morph="none" start_char="2920" end_char="2924">poder</TOKEN>
+        <TOKEN id="token-66-5" pos="punct" morph="none" start_char="2925" end_char="2925">,</TOKEN>
+        <TOKEN id="token-66-6" pos="word" morph="none" start_char="2927" end_char="2928">en</TOKEN>
+        <TOKEN id="token-66-7" pos="word" morph="none" start_char="2930" end_char="2933">2009</TOKEN>
+        <TOKEN id="token-66-8" pos="punct" morph="none" start_char="2934" end_char="2935">-,</TOKEN>
+        <TOKEN id="token-66-9" pos="word" morph="none" start_char="2937" end_char="2942">aunque</TOKEN>
+        <TOKEN id="token-66-10" pos="word" morph="none" start_char="2944" end_char="2951">reafirmó</TOKEN>
+        <TOKEN id="token-66-11" pos="word" morph="none" start_char="2953" end_char="2955">que</TOKEN>
+        <TOKEN id="token-66-12" pos="word" morph="none" start_char="2957" end_char="2958">un</TOKEN>
+        <TOKEN id="token-66-13" pos="word" morph="none" start_char="2960" end_char="2966">acuerdo</TOKEN>
+        <TOKEN id="token-66-14" pos="word" morph="none" start_char="2968" end_char="2974">nuclear</TOKEN>
+      </SEG>
+      <SEG id="segment-67" start_char="2976" end_char="3046">
+        <ORIGINAL_TEXT>como el que busca el mandatario estadounidense amenaza la existencia de</ORIGINAL_TEXT>
+        <TOKEN id="token-67-0" pos="word" morph="none" start_char="2976" end_char="2979">como</TOKEN>
+        <TOKEN id="token-67-1" pos="word" morph="none" start_char="2981" end_char="2982">el</TOKEN>
+        <TOKEN id="token-67-2" pos="word" morph="none" start_char="2984" end_char="2986">que</TOKEN>
+        <TOKEN id="token-67-3" pos="word" morph="none" start_char="2988" end_char="2992">busca</TOKEN>
+        <TOKEN id="token-67-4" pos="word" morph="none" start_char="2994" end_char="2995">el</TOKEN>
+        <TOKEN id="token-67-5" pos="word" morph="none" start_char="2997" end_char="3006">mandatario</TOKEN>
+        <TOKEN id="token-67-6" pos="word" morph="none" start_char="3008" end_char="3021">estadounidense</TOKEN>
+        <TOKEN id="token-67-7" pos="word" morph="none" start_char="3023" end_char="3029">amenaza</TOKEN>
+        <TOKEN id="token-67-8" pos="word" morph="none" start_char="3031" end_char="3032">la</TOKEN>
+        <TOKEN id="token-67-9" pos="word" morph="none" start_char="3034" end_char="3043">existencia</TOKEN>
+        <TOKEN id="token-67-10" pos="word" morph="none" start_char="3045" end_char="3046">de</TOKEN>
+      </SEG>
+      <SEG id="segment-68" start_char="3048" end_char="3054">
+        <ORIGINAL_TEXT>Israel.</ORIGINAL_TEXT>
+        <TOKEN id="token-68-0" pos="word" morph="none" start_char="3048" end_char="3053">Israel</TOKEN>
+        <TOKEN id="token-68-1" pos="punct" morph="none" start_char="3054" end_char="3054">.</TOKEN>
+      </SEG>
+      <SEG id="segment-69" start_char="3056" end_char="3059">
+        <ORIGINAL_TEXT>&lt;/P&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-69-0" pos="unknown" morph="none" start_char="3056" end_char="3059">&lt;/P&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-70" start_char="3061" end_char="3063">
+        <ORIGINAL_TEXT>&lt;P&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-70-0" pos="unknown" morph="none" start_char="3061" end_char="3063">&lt;P&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-71" start_char="3065" end_char="3138">
+        <ORIGINAL_TEXT>"Tengo una obligación moral de hablar ante estos peligros mientras todavía</ORIGINAL_TEXT>
+        <TOKEN id="token-71-0" pos="punct" morph="none" start_char="3065" end_char="3065">"</TOKEN>
+        <TOKEN id="token-71-1" pos="word" morph="none" start_char="3066" end_char="3070">Tengo</TOKEN>
+        <TOKEN id="token-71-2" pos="word" morph="none" start_char="3072" end_char="3074">una</TOKEN>
+        <TOKEN id="token-71-3" pos="word" morph="none" start_char="3076" end_char="3085">obligación</TOKEN>
+        <TOKEN id="token-71-4" pos="word" morph="none" start_char="3087" end_char="3091">moral</TOKEN>
+        <TOKEN id="token-71-5" pos="word" morph="none" start_char="3093" end_char="3094">de</TOKEN>
+        <TOKEN id="token-71-6" pos="word" morph="none" start_char="3096" end_char="3101">hablar</TOKEN>
+        <TOKEN id="token-71-7" pos="word" morph="none" start_char="3103" end_char="3106">ante</TOKEN>
+        <TOKEN id="token-71-8" pos="word" morph="none" start_char="3108" end_char="3112">estos</TOKEN>
+        <TOKEN id="token-71-9" pos="word" morph="none" start_char="3114" end_char="3121">peligros</TOKEN>
+        <TOKEN id="token-71-10" pos="word" morph="none" start_char="3123" end_char="3130">mientras</TOKEN>
+        <TOKEN id="token-71-11" pos="word" morph="none" start_char="3132" end_char="3138">todavía</TOKEN>
+      </SEG>
+      <SEG id="segment-72" start_char="3140" end_char="3211">
+        <ORIGINAL_TEXT>haya tiempo para evitarlos", dijo Netanyahu ante el Comité de Relaciones</ORIGINAL_TEXT>
+        <TOKEN id="token-72-0" pos="word" morph="none" start_char="3140" end_char="3143">haya</TOKEN>
+        <TOKEN id="token-72-1" pos="word" morph="none" start_char="3145" end_char="3150">tiempo</TOKEN>
+        <TOKEN id="token-72-2" pos="word" morph="none" start_char="3152" end_char="3155">para</TOKEN>
+        <TOKEN id="token-72-3" pos="word" morph="none" start_char="3157" end_char="3165">evitarlos</TOKEN>
+        <TOKEN id="token-72-4" pos="punct" morph="none" start_char="3166" end_char="3167">",</TOKEN>
+        <TOKEN id="token-72-5" pos="word" morph="none" start_char="3169" end_char="3172">dijo</TOKEN>
+        <TOKEN id="token-72-6" pos="word" morph="none" start_char="3174" end_char="3182">Netanyahu</TOKEN>
+        <TOKEN id="token-72-7" pos="word" morph="none" start_char="3184" end_char="3187">ante</TOKEN>
+        <TOKEN id="token-72-8" pos="word" morph="none" start_char="3189" end_char="3190">el</TOKEN>
+        <TOKEN id="token-72-9" pos="word" morph="none" start_char="3192" end_char="3197">Comité</TOKEN>
+        <TOKEN id="token-72-10" pos="word" morph="none" start_char="3199" end_char="3200">de</TOKEN>
+        <TOKEN id="token-72-11" pos="word" morph="none" start_char="3202" end_char="3211">Relaciones</TOKEN>
+      </SEG>
+      <SEG id="segment-73" start_char="3213" end_char="3283">
+        <ORIGINAL_TEXT>Públicas Americano-Isralíes (AIPAC), el mayor grupo de presión judío de</ORIGINAL_TEXT>
+        <TOKEN id="token-73-0" pos="word" morph="none" start_char="3213" end_char="3220">Públicas</TOKEN>
+        <TOKEN id="token-73-1" pos="word" morph="none" start_char="3222" end_char="3230">Americano</TOKEN>
+        <TOKEN id="token-73-2" pos="punct" morph="none" start_char="3231" end_char="3231">-</TOKEN>
+        <TOKEN id="token-73-3" pos="word" morph="none" start_char="3232" end_char="3239">Isralíes</TOKEN>
+        <TOKEN id="token-73-4" pos="punct" morph="none" start_char="3241" end_char="3241">(</TOKEN>
+        <TOKEN id="token-73-5" pos="word" morph="none" start_char="3242" end_char="3246">AIPAC</TOKEN>
+        <TOKEN id="token-73-6" pos="punct" morph="none" start_char="3247" end_char="3248">),</TOKEN>
+        <TOKEN id="token-73-7" pos="word" morph="none" start_char="3250" end_char="3251">el</TOKEN>
+        <TOKEN id="token-73-8" pos="word" morph="none" start_char="3253" end_char="3257">mayor</TOKEN>
+        <TOKEN id="token-73-9" pos="word" morph="none" start_char="3259" end_char="3263">grupo</TOKEN>
+        <TOKEN id="token-73-10" pos="word" morph="none" start_char="3265" end_char="3266">de</TOKEN>
+        <TOKEN id="token-73-11" pos="word" morph="none" start_char="3268" end_char="3274">presión</TOKEN>
+        <TOKEN id="token-73-12" pos="word" morph="none" start_char="3276" end_char="3280">judío</TOKEN>
+        <TOKEN id="token-73-13" pos="word" morph="none" start_char="3282" end_char="3283">de</TOKEN>
+      </SEG>
+      <SEG id="segment-74" start_char="3285" end_char="3299">
+        <ORIGINAL_TEXT>Estados Unidos.</ORIGINAL_TEXT>
+        <TOKEN id="token-74-0" pos="word" morph="none" start_char="3285" end_char="3291">Estados</TOKEN>
+        <TOKEN id="token-74-1" pos="word" morph="none" start_char="3293" end_char="3298">Unidos</TOKEN>
+        <TOKEN id="token-74-2" pos="punct" morph="none" start_char="3299" end_char="3299">.</TOKEN>
+      </SEG>
+      <SEG id="segment-75" start_char="3301" end_char="3304">
+        <ORIGINAL_TEXT>&lt;/P&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-75-0" pos="unknown" morph="none" start_char="3301" end_char="3304">&lt;/P&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-76" start_char="3306" end_char="3308">
+        <ORIGINAL_TEXT>&lt;P&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-76-0" pos="unknown" morph="none" start_char="3306" end_char="3308">&lt;P&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-77" start_char="3310" end_char="3381">
+        <ORIGINAL_TEXT>Mientras Netanyahu hablaba, el secretario de Estado norteamericano, John</ORIGINAL_TEXT>
+        <TOKEN id="token-77-0" pos="word" morph="none" start_char="3310" end_char="3317">Mientras</TOKEN>
+        <TOKEN id="token-77-1" pos="word" morph="none" start_char="3319" end_char="3327">Netanyahu</TOKEN>
+        <TOKEN id="token-77-2" pos="word" morph="none" start_char="3329" end_char="3335">hablaba</TOKEN>
+        <TOKEN id="token-77-3" pos="punct" morph="none" start_char="3336" end_char="3336">,</TOKEN>
+        <TOKEN id="token-77-4" pos="word" morph="none" start_char="3338" end_char="3339">el</TOKEN>
+        <TOKEN id="token-77-5" pos="word" morph="none" start_char="3341" end_char="3350">secretario</TOKEN>
+        <TOKEN id="token-77-6" pos="word" morph="none" start_char="3352" end_char="3353">de</TOKEN>
+        <TOKEN id="token-77-7" pos="word" morph="none" start_char="3355" end_char="3360">Estado</TOKEN>
+        <TOKEN id="token-77-8" pos="word" morph="none" start_char="3362" end_char="3375">norteamericano</TOKEN>
+        <TOKEN id="token-77-9" pos="punct" morph="none" start_char="3376" end_char="3376">,</TOKEN>
+        <TOKEN id="token-77-10" pos="word" morph="none" start_char="3378" end_char="3381">John</TOKEN>
+      </SEG>
+      <SEG id="segment-78" start_char="3383" end_char="3454">
+        <ORIGINAL_TEXT>Kerry, iniciaba una nueva ronda de negociaciones con Irán con la meta de</ORIGINAL_TEXT>
+        <TOKEN id="token-78-0" pos="word" morph="none" start_char="3383" end_char="3387">Kerry</TOKEN>
+        <TOKEN id="token-78-1" pos="punct" morph="none" start_char="3388" end_char="3388">,</TOKEN>
+        <TOKEN id="token-78-2" pos="word" morph="none" start_char="3390" end_char="3397">iniciaba</TOKEN>
+        <TOKEN id="token-78-3" pos="word" morph="none" start_char="3399" end_char="3401">una</TOKEN>
+        <TOKEN id="token-78-4" pos="word" morph="none" start_char="3403" end_char="3407">nueva</TOKEN>
+        <TOKEN id="token-78-5" pos="word" morph="none" start_char="3409" end_char="3413">ronda</TOKEN>
+        <TOKEN id="token-78-6" pos="word" morph="none" start_char="3415" end_char="3416">de</TOKEN>
+        <TOKEN id="token-78-7" pos="word" morph="none" start_char="3418" end_char="3430">negociaciones</TOKEN>
+        <TOKEN id="token-78-8" pos="word" morph="none" start_char="3432" end_char="3434">con</TOKEN>
+        <TOKEN id="token-78-9" pos="word" morph="none" start_char="3436" end_char="3439">Irán</TOKEN>
+        <TOKEN id="token-78-10" pos="word" morph="none" start_char="3441" end_char="3443">con</TOKEN>
+        <TOKEN id="token-78-11" pos="word" morph="none" start_char="3445" end_char="3446">la</TOKEN>
+        <TOKEN id="token-78-12" pos="word" morph="none" start_char="3448" end_char="3451">meta</TOKEN>
+        <TOKEN id="token-78-13" pos="word" morph="none" start_char="3453" end_char="3454">de</TOKEN>
+      </SEG>
+      <SEG id="segment-79" start_char="3456" end_char="3522">
+        <ORIGINAL_TEXT>alcanzar un acuerdo marco antes de la fecha límite de fin de marzo.</ORIGINAL_TEXT>
+        <TOKEN id="token-79-0" pos="word" morph="none" start_char="3456" end_char="3463">alcanzar</TOKEN>
+        <TOKEN id="token-79-1" pos="word" morph="none" start_char="3465" end_char="3466">un</TOKEN>
+        <TOKEN id="token-79-2" pos="word" morph="none" start_char="3468" end_char="3474">acuerdo</TOKEN>
+        <TOKEN id="token-79-3" pos="word" morph="none" start_char="3476" end_char="3480">marco</TOKEN>
+        <TOKEN id="token-79-4" pos="word" morph="none" start_char="3482" end_char="3486">antes</TOKEN>
+        <TOKEN id="token-79-5" pos="word" morph="none" start_char="3488" end_char="3489">de</TOKEN>
+        <TOKEN id="token-79-6" pos="word" morph="none" start_char="3491" end_char="3492">la</TOKEN>
+        <TOKEN id="token-79-7" pos="word" morph="none" start_char="3494" end_char="3498">fecha</TOKEN>
+        <TOKEN id="token-79-8" pos="word" morph="none" start_char="3500" end_char="3505">límite</TOKEN>
+        <TOKEN id="token-79-9" pos="word" morph="none" start_char="3507" end_char="3508">de</TOKEN>
+        <TOKEN id="token-79-10" pos="word" morph="none" start_char="3510" end_char="3512">fin</TOKEN>
+        <TOKEN id="token-79-11" pos="word" morph="none" start_char="3514" end_char="3515">de</TOKEN>
+        <TOKEN id="token-79-12" pos="word" morph="none" start_char="3517" end_char="3521">marzo</TOKEN>
+        <TOKEN id="token-79-13" pos="punct" morph="none" start_char="3522" end_char="3522">.</TOKEN>
+      </SEG>
+      <SEG id="segment-80" start_char="3524" end_char="3527">
+        <ORIGINAL_TEXT>&lt;/P&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-80-0" pos="unknown" morph="none" start_char="3524" end_char="3527">&lt;/P&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-81" start_char="3529" end_char="3535">
+        <ORIGINAL_TEXT>&lt;/TEXT&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-81-0" pos="unknown" morph="none" start_char="3529" end_char="3535">&lt;/TEXT&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-82" start_char="3537" end_char="3542">
+        <ORIGINAL_TEXT>&lt;/DOC&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-82-0" pos="unknown" morph="none" start_char="3537" end_char="3542">&lt;/DOC&gt;</TOKEN>
+      </SEG>
+    </TEXT>
+  </DOC>
+</LCTL_TEXT>

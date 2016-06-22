@@ -1,0 +1,2037 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE LCTL_TEXT SYSTEM "ltf.v1.5.dtd">
+<LCTL_TEXT>
+<DOC id="ENG_DF_001492_20150530_F0010008B.df.xml" tokenization="tokenization_parameters" grammar="none" raw_text_char_length="10279" raw_text_md5="94418f8158a746a6c46b06df53f9b9df">
+<TEXT>
+<SEG id="segment-0" start_char="0" end_char="37">
+<ORIGINAL_TEXT>&lt;?xml version="1.0" encoding="utf-8"?&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-0-0" pos="unknown" morph="none" start_char="0" end_char="4">&lt;?xml</TOKEN>
+<TOKEN id="token-0-1" pos="unknown" morph="none" start_char="6" end_char="18">version="1.0"</TOKEN>
+<TOKEN id="token-0-2" pos="unknown" morph="none" start_char="20" end_char="37">encoding="utf-8"?&gt;</TOKEN>
+</SEG>
+<SEG id="segment-1" start_char="39" end_char="81">
+<ORIGINAL_TEXT>&lt;doc id="ENG_DF_001492_20150530_F0010008B"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-1-0" pos="unknown" morph="none" start_char="39" end_char="42">&lt;doc</TOKEN>
+<TOKEN id="token-1-1" pos="unknown" morph="none" start_char="44" end_char="81">id="ENG_DF_001492_20150530_F0010008B"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-2" start_char="83" end_char="92">
+<ORIGINAL_TEXT>&lt;headline&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-2-0" pos="unknown" morph="none" start_char="83" end_char="92">&lt;headline&gt;</TOKEN>
+</SEG>
+<SEG id="segment-3" start_char="94" end_char="111">
+<ORIGINAL_TEXT>Riots in Baltimore</ORIGINAL_TEXT>
+<TOKEN id="token-3-0" pos="word" morph="none" start_char="94" end_char="98">Riots</TOKEN>
+<TOKEN id="token-3-1" pos="word" morph="none" start_char="100" end_char="101">in</TOKEN>
+<TOKEN id="token-3-2" pos="word" morph="none" start_char="103" end_char="111">Baltimore</TOKEN>
+</SEG>
+<SEG id="segment-4" start_char="113" end_char="123">
+<ORIGINAL_TEXT>&lt;/headline&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-4-0" pos="unknown" morph="none" start_char="113" end_char="123">&lt;/headline&gt;</TOKEN>
+</SEG>
+<SEG id="segment-5" start_char="125" end_char="191">
+<ORIGINAL_TEXT>&lt;post id="p1" author="BeaverCreek " datetime="2015-05-30T13:12:00"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-5-0" pos="unknown" morph="none" start_char="125" end_char="129">&lt;post</TOKEN>
+<TOKEN id="token-5-1" pos="unknown" morph="none" start_char="131" end_char="137">id="p1"</TOKEN>
+<TOKEN id="token-5-2" pos="unknown" morph="none" start_char="139" end_char="157">author="BeaverCreek</TOKEN>
+<TOKEN id="token-5-3" pos="unknown" morph="none" start_char="159" end_char="159">"</TOKEN>
+<TOKEN id="token-5-4" pos="unknown" morph="none" start_char="161" end_char="191">datetime="2015-05-30T13:12:00"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-6" start_char="193" end_char="443">
+<ORIGINAL_TEXT>People, this is not 1968. The looting and burning is very much contained to pockets, one on the west side, one on the east side. The two pockets are tied together by North Avenue, which runs east-west. The pockets are a few blocks off of North Avenue.</ORIGINAL_TEXT>
+<TOKEN id="token-6-0" pos="word" morph="none" start_char="193" end_char="198">People</TOKEN>
+<TOKEN id="token-6-1" pos="punct" morph="none" start_char="199" end_char="199">,</TOKEN>
+<TOKEN id="token-6-2" pos="word" morph="none" start_char="201" end_char="204">this</TOKEN>
+<TOKEN id="token-6-3" pos="word" morph="none" start_char="206" end_char="207">is</TOKEN>
+<TOKEN id="token-6-4" pos="word" morph="none" start_char="209" end_char="211">not</TOKEN>
+<TOKEN id="token-6-5" pos="word" morph="none" start_char="213" end_char="216">1968</TOKEN>
+<TOKEN id="token-6-6" pos="punct" morph="none" start_char="217" end_char="217">.</TOKEN>
+<TOKEN id="token-6-7" pos="word" morph="none" start_char="219" end_char="221">The</TOKEN>
+<TOKEN id="token-6-8" pos="word" morph="none" start_char="223" end_char="229">looting</TOKEN>
+<TOKEN id="token-6-9" pos="word" morph="none" start_char="231" end_char="233">and</TOKEN>
+<TOKEN id="token-6-10" pos="word" morph="none" start_char="235" end_char="241">burning</TOKEN>
+<TOKEN id="token-6-11" pos="word" morph="none" start_char="243" end_char="244">is</TOKEN>
+<TOKEN id="token-6-12" pos="word" morph="none" start_char="246" end_char="249">very</TOKEN>
+<TOKEN id="token-6-13" pos="word" morph="none" start_char="251" end_char="254">much</TOKEN>
+<TOKEN id="token-6-14" pos="word" morph="none" start_char="256" end_char="264">contained</TOKEN>
+<TOKEN id="token-6-15" pos="word" morph="none" start_char="266" end_char="267">to</TOKEN>
+<TOKEN id="token-6-16" pos="word" morph="none" start_char="269" end_char="275">pockets</TOKEN>
+<TOKEN id="token-6-17" pos="punct" morph="none" start_char="276" end_char="276">,</TOKEN>
+<TOKEN id="token-6-18" pos="word" morph="none" start_char="278" end_char="280">one</TOKEN>
+<TOKEN id="token-6-19" pos="word" morph="none" start_char="282" end_char="283">on</TOKEN>
+<TOKEN id="token-6-20" pos="word" morph="none" start_char="285" end_char="287">the</TOKEN>
+<TOKEN id="token-6-21" pos="word" morph="none" start_char="289" end_char="292">west</TOKEN>
+<TOKEN id="token-6-22" pos="word" morph="none" start_char="294" end_char="297">side</TOKEN>
+<TOKEN id="token-6-23" pos="punct" morph="none" start_char="298" end_char="298">,</TOKEN>
+<TOKEN id="token-6-24" pos="word" morph="none" start_char="300" end_char="302">one</TOKEN>
+<TOKEN id="token-6-25" pos="word" morph="none" start_char="304" end_char="305">on</TOKEN>
+<TOKEN id="token-6-26" pos="word" morph="none" start_char="307" end_char="309">the</TOKEN>
+<TOKEN id="token-6-27" pos="word" morph="none" start_char="311" end_char="314">east</TOKEN>
+<TOKEN id="token-6-28" pos="word" morph="none" start_char="316" end_char="319">side</TOKEN>
+<TOKEN id="token-6-29" pos="punct" morph="none" start_char="320" end_char="320">.</TOKEN>
+<TOKEN id="token-6-30" pos="word" morph="none" start_char="322" end_char="324">The</TOKEN>
+<TOKEN id="token-6-31" pos="word" morph="none" start_char="326" end_char="328">two</TOKEN>
+<TOKEN id="token-6-32" pos="word" morph="none" start_char="330" end_char="336">pockets</TOKEN>
+<TOKEN id="token-6-33" pos="word" morph="none" start_char="338" end_char="340">are</TOKEN>
+<TOKEN id="token-6-34" pos="word" morph="none" start_char="342" end_char="345">tied</TOKEN>
+<TOKEN id="token-6-35" pos="word" morph="none" start_char="347" end_char="354">together</TOKEN>
+<TOKEN id="token-6-36" pos="word" morph="none" start_char="356" end_char="357">by</TOKEN>
+<TOKEN id="token-6-37" pos="word" morph="none" start_char="359" end_char="363">North</TOKEN>
+<TOKEN id="token-6-38" pos="word" morph="none" start_char="365" end_char="370">Avenue</TOKEN>
+<TOKEN id="token-6-39" pos="punct" morph="none" start_char="371" end_char="371">,</TOKEN>
+<TOKEN id="token-6-40" pos="word" morph="none" start_char="373" end_char="377">which</TOKEN>
+<TOKEN id="token-6-41" pos="word" morph="none" start_char="379" end_char="382">runs</TOKEN>
+<TOKEN id="token-6-42" pos="word" morph="none" start_char="384" end_char="387">east</TOKEN>
+<TOKEN id="token-6-43" pos="punct" morph="none" start_char="388" end_char="388">-</TOKEN>
+<TOKEN id="token-6-44" pos="word" morph="none" start_char="389" end_char="392">west</TOKEN>
+<TOKEN id="token-6-45" pos="punct" morph="none" start_char="393" end_char="393">.</TOKEN>
+<TOKEN id="token-6-46" pos="word" morph="none" start_char="395" end_char="397">The</TOKEN>
+<TOKEN id="token-6-47" pos="word" morph="none" start_char="399" end_char="405">pockets</TOKEN>
+<TOKEN id="token-6-48" pos="word" morph="none" start_char="407" end_char="409">are</TOKEN>
+<TOKEN id="token-6-49" pos="word" morph="none" start_char="411" end_char="411">a</TOKEN>
+<TOKEN id="token-6-50" pos="word" morph="none" start_char="413" end_char="415">few</TOKEN>
+<TOKEN id="token-6-51" pos="word" morph="none" start_char="417" end_char="422">blocks</TOKEN>
+<TOKEN id="token-6-52" pos="word" morph="none" start_char="424" end_char="426">off</TOKEN>
+<TOKEN id="token-6-53" pos="word" morph="none" start_char="428" end_char="429">of</TOKEN>
+<TOKEN id="token-6-54" pos="word" morph="none" start_char="431" end_char="435">North</TOKEN>
+<TOKEN id="token-6-55" pos="word" morph="none" start_char="437" end_char="442">Avenue</TOKEN>
+<TOKEN id="token-6-56" pos="punct" morph="none" start_char="443" end_char="443">.</TOKEN>
+</SEG>
+<SEG id="segment-7" start_char="447" end_char="709">
+<ORIGINAL_TEXT>I've been waiting for a true analysis of how widespread (as opposed the the above post qualifier "pocket") the Bmore looting was, and today's online Baltimore Sun delivered. It appears that the looting was not so limited to pockets, as some originally posited... </ORIGINAL_TEXT>
+<TOKEN id="token-7-0" pos="word" morph="none" start_char="447" end_char="447">I</TOKEN>
+<TOKEN id="token-7-1" pos="punct" morph="none" start_char="448" end_char="448">'</TOKEN>
+<TOKEN id="token-7-2" pos="word" morph="none" start_char="449" end_char="450">ve</TOKEN>
+<TOKEN id="token-7-3" pos="word" morph="none" start_char="452" end_char="455">been</TOKEN>
+<TOKEN id="token-7-4" pos="word" morph="none" start_char="457" end_char="463">waiting</TOKEN>
+<TOKEN id="token-7-5" pos="word" morph="none" start_char="465" end_char="467">for</TOKEN>
+<TOKEN id="token-7-6" pos="word" morph="none" start_char="469" end_char="469">a</TOKEN>
+<TOKEN id="token-7-7" pos="word" morph="none" start_char="471" end_char="474">true</TOKEN>
+<TOKEN id="token-7-8" pos="word" morph="none" start_char="476" end_char="483">analysis</TOKEN>
+<TOKEN id="token-7-9" pos="word" morph="none" start_char="485" end_char="486">of</TOKEN>
+<TOKEN id="token-7-10" pos="word" morph="none" start_char="488" end_char="490">how</TOKEN>
+<TOKEN id="token-7-11" pos="word" morph="none" start_char="492" end_char="501">widespread</TOKEN>
+<TOKEN id="token-7-12" pos="punct" morph="none" start_char="503" end_char="503">(</TOKEN>
+<TOKEN id="token-7-13" pos="word" morph="none" start_char="504" end_char="505">as</TOKEN>
+<TOKEN id="token-7-14" pos="word" morph="none" start_char="507" end_char="513">opposed</TOKEN>
+<TOKEN id="token-7-15" pos="word" morph="none" start_char="515" end_char="517">the</TOKEN>
+<TOKEN id="token-7-16" pos="word" morph="none" start_char="519" end_char="521">the</TOKEN>
+<TOKEN id="token-7-17" pos="word" morph="none" start_char="523" end_char="527">above</TOKEN>
+<TOKEN id="token-7-18" pos="word" morph="none" start_char="529" end_char="532">post</TOKEN>
+<TOKEN id="token-7-19" pos="word" morph="none" start_char="534" end_char="542">qualifier</TOKEN>
+<TOKEN id="token-7-20" pos="punct" morph="none" start_char="544" end_char="544">"</TOKEN>
+<TOKEN id="token-7-21" pos="word" morph="none" start_char="545" end_char="550">pocket</TOKEN>
+<TOKEN id="token-7-22" pos="punct" morph="none" start_char="551" end_char="552">")</TOKEN>
+<TOKEN id="token-7-23" pos="word" morph="none" start_char="554" end_char="556">the</TOKEN>
+<TOKEN id="token-7-24" pos="word" morph="none" start_char="558" end_char="562">Bmore</TOKEN>
+<TOKEN id="token-7-25" pos="word" morph="none" start_char="564" end_char="570">looting</TOKEN>
+<TOKEN id="token-7-26" pos="word" morph="none" start_char="572" end_char="574">was</TOKEN>
+<TOKEN id="token-7-27" pos="punct" morph="none" start_char="575" end_char="575">,</TOKEN>
+<TOKEN id="token-7-28" pos="word" morph="none" start_char="577" end_char="579">and</TOKEN>
+<TOKEN id="token-7-29" pos="word" morph="none" start_char="581" end_char="585">today</TOKEN>
+<TOKEN id="token-7-30" pos="punct" morph="none" start_char="586" end_char="586">'</TOKEN>
+<TOKEN id="token-7-31" pos="word" morph="none" start_char="587" end_char="587">s</TOKEN>
+<TOKEN id="token-7-32" pos="word" morph="none" start_char="589" end_char="594">online</TOKEN>
+<TOKEN id="token-7-33" pos="word" morph="none" start_char="596" end_char="604">Baltimore</TOKEN>
+<TOKEN id="token-7-34" pos="word" morph="none" start_char="606" end_char="608">Sun</TOKEN>
+<TOKEN id="token-7-35" pos="word" morph="none" start_char="610" end_char="618">delivered</TOKEN>
+<TOKEN id="token-7-36" pos="punct" morph="none" start_char="619" end_char="619">.</TOKEN>
+<TOKEN id="token-7-37" pos="word" morph="none" start_char="621" end_char="622">It</TOKEN>
+<TOKEN id="token-7-38" pos="word" morph="none" start_char="624" end_char="630">appears</TOKEN>
+<TOKEN id="token-7-39" pos="word" morph="none" start_char="632" end_char="635">that</TOKEN>
+<TOKEN id="token-7-40" pos="word" morph="none" start_char="637" end_char="639">the</TOKEN>
+<TOKEN id="token-7-41" pos="word" morph="none" start_char="641" end_char="647">looting</TOKEN>
+<TOKEN id="token-7-42" pos="word" morph="none" start_char="649" end_char="651">was</TOKEN>
+<TOKEN id="token-7-43" pos="word" morph="none" start_char="653" end_char="655">not</TOKEN>
+<TOKEN id="token-7-44" pos="word" morph="none" start_char="657" end_char="658">so</TOKEN>
+<TOKEN id="token-7-45" pos="word" morph="none" start_char="660" end_char="666">limited</TOKEN>
+<TOKEN id="token-7-46" pos="word" morph="none" start_char="668" end_char="669">to</TOKEN>
+<TOKEN id="token-7-47" pos="word" morph="none" start_char="671" end_char="677">pockets</TOKEN>
+<TOKEN id="token-7-48" pos="punct" morph="none" start_char="678" end_char="678">,</TOKEN>
+<TOKEN id="token-7-49" pos="word" morph="none" start_char="680" end_char="681">as</TOKEN>
+<TOKEN id="token-7-50" pos="word" morph="none" start_char="683" end_char="686">some</TOKEN>
+<TOKEN id="token-7-51" pos="word" morph="none" start_char="688" end_char="697">originally</TOKEN>
+<TOKEN id="token-7-52" pos="word" morph="none" start_char="699" end_char="705">posited</TOKEN>
+<TOKEN id="token-7-53" pos="punct" morph="none" start_char="706" end_char="708">...</TOKEN>
+</SEG>
+<SEG id="segment-8" start_char="712" end_char="1037">
+<ORIGINAL_TEXT>The headline (for those who do not wish to click through) is: "Shop owners' stories show riot damage was widespread". A sub sentence is this: A complete accounting of the financial damage caused during the riots has yet to be finished, but one month later, it's clear that the scope is far wider than was initially suspected. </ORIGINAL_TEXT>
+<TOKEN id="token-8-0" pos="word" morph="none" start_char="712" end_char="714">The</TOKEN>
+<TOKEN id="token-8-1" pos="word" morph="none" start_char="716" end_char="723">headline</TOKEN>
+<TOKEN id="token-8-2" pos="punct" morph="none" start_char="725" end_char="725">(</TOKEN>
+<TOKEN id="token-8-3" pos="word" morph="none" start_char="726" end_char="728">for</TOKEN>
+<TOKEN id="token-8-4" pos="word" morph="none" start_char="730" end_char="734">those</TOKEN>
+<TOKEN id="token-8-5" pos="word" morph="none" start_char="736" end_char="738">who</TOKEN>
+<TOKEN id="token-8-6" pos="word" morph="none" start_char="740" end_char="741">do</TOKEN>
+<TOKEN id="token-8-7" pos="word" morph="none" start_char="743" end_char="745">not</TOKEN>
+<TOKEN id="token-8-8" pos="word" morph="none" start_char="747" end_char="750">wish</TOKEN>
+<TOKEN id="token-8-9" pos="word" morph="none" start_char="752" end_char="753">to</TOKEN>
+<TOKEN id="token-8-10" pos="word" morph="none" start_char="755" end_char="759">click</TOKEN>
+<TOKEN id="token-8-11" pos="word" morph="none" start_char="761" end_char="767">through</TOKEN>
+<TOKEN id="token-8-12" pos="punct" morph="none" start_char="768" end_char="768">)</TOKEN>
+<TOKEN id="token-8-13" pos="word" morph="none" start_char="770" end_char="771">is</TOKEN>
+<TOKEN id="token-8-14" pos="punct" morph="none" start_char="772" end_char="772">:</TOKEN>
+<TOKEN id="token-8-15" pos="punct" morph="none" start_char="774" end_char="774">"</TOKEN>
+<TOKEN id="token-8-16" pos="word" morph="none" start_char="775" end_char="778">Shop</TOKEN>
+<TOKEN id="token-8-17" pos="word" morph="none" start_char="780" end_char="785">owners</TOKEN>
+<TOKEN id="token-8-18" pos="punct" morph="none" start_char="786" end_char="786">'</TOKEN>
+<TOKEN id="token-8-19" pos="word" morph="none" start_char="788" end_char="794">stories</TOKEN>
+<TOKEN id="token-8-20" pos="word" morph="none" start_char="796" end_char="799">show</TOKEN>
+<TOKEN id="token-8-21" pos="word" morph="none" start_char="801" end_char="804">riot</TOKEN>
+<TOKEN id="token-8-22" pos="word" morph="none" start_char="806" end_char="811">damage</TOKEN>
+<TOKEN id="token-8-23" pos="word" morph="none" start_char="813" end_char="815">was</TOKEN>
+<TOKEN id="token-8-24" pos="word" morph="none" start_char="817" end_char="826">widespread</TOKEN>
+<TOKEN id="token-8-25" pos="punct" morph="none" start_char="827" end_char="828">".</TOKEN>
+<TOKEN id="token-8-26" pos="word" morph="none" start_char="830" end_char="830">A</TOKEN>
+<TOKEN id="token-8-27" pos="word" morph="none" start_char="832" end_char="834">sub</TOKEN>
+<TOKEN id="token-8-28" pos="word" morph="none" start_char="836" end_char="843">sentence</TOKEN>
+<TOKEN id="token-8-29" pos="word" morph="none" start_char="845" end_char="846">is</TOKEN>
+<TOKEN id="token-8-30" pos="word" morph="none" start_char="848" end_char="851">this</TOKEN>
+<TOKEN id="token-8-31" pos="punct" morph="none" start_char="852" end_char="852">:</TOKEN>
+<TOKEN id="token-8-32" pos="word" morph="none" start_char="854" end_char="854">A</TOKEN>
+<TOKEN id="token-8-33" pos="word" morph="none" start_char="856" end_char="863">complete</TOKEN>
+<TOKEN id="token-8-34" pos="word" morph="none" start_char="865" end_char="874">accounting</TOKEN>
+<TOKEN id="token-8-35" pos="word" morph="none" start_char="876" end_char="877">of</TOKEN>
+<TOKEN id="token-8-36" pos="word" morph="none" start_char="879" end_char="881">the</TOKEN>
+<TOKEN id="token-8-37" pos="word" morph="none" start_char="883" end_char="891">financial</TOKEN>
+<TOKEN id="token-8-38" pos="word" morph="none" start_char="893" end_char="898">damage</TOKEN>
+<TOKEN id="token-8-39" pos="word" morph="none" start_char="900" end_char="905">caused</TOKEN>
+<TOKEN id="token-8-40" pos="word" morph="none" start_char="907" end_char="912">during</TOKEN>
+<TOKEN id="token-8-41" pos="word" morph="none" start_char="914" end_char="916">the</TOKEN>
+<TOKEN id="token-8-42" pos="word" morph="none" start_char="918" end_char="922">riots</TOKEN>
+<TOKEN id="token-8-43" pos="word" morph="none" start_char="924" end_char="926">has</TOKEN>
+<TOKEN id="token-8-44" pos="word" morph="none" start_char="928" end_char="930">yet</TOKEN>
+<TOKEN id="token-8-45" pos="word" morph="none" start_char="932" end_char="933">to</TOKEN>
+<TOKEN id="token-8-46" pos="word" morph="none" start_char="935" end_char="936">be</TOKEN>
+<TOKEN id="token-8-47" pos="word" morph="none" start_char="938" end_char="945">finished</TOKEN>
+<TOKEN id="token-8-48" pos="punct" morph="none" start_char="946" end_char="946">,</TOKEN>
+<TOKEN id="token-8-49" pos="word" morph="none" start_char="948" end_char="950">but</TOKEN>
+<TOKEN id="token-8-50" pos="word" morph="none" start_char="952" end_char="954">one</TOKEN>
+<TOKEN id="token-8-51" pos="word" morph="none" start_char="956" end_char="960">month</TOKEN>
+<TOKEN id="token-8-52" pos="word" morph="none" start_char="962" end_char="966">later</TOKEN>
+<TOKEN id="token-8-53" pos="punct" morph="none" start_char="967" end_char="967">,</TOKEN>
+<TOKEN id="token-8-54" pos="word" morph="none" start_char="969" end_char="970">it</TOKEN>
+<TOKEN id="token-8-55" pos="punct" morph="none" start_char="971" end_char="971">'</TOKEN>
+<TOKEN id="token-8-56" pos="word" morph="none" start_char="972" end_char="972">s</TOKEN>
+<TOKEN id="token-8-57" pos="word" morph="none" start_char="974" end_char="978">clear</TOKEN>
+<TOKEN id="token-8-58" pos="word" morph="none" start_char="980" end_char="983">that</TOKEN>
+<TOKEN id="token-8-59" pos="word" morph="none" start_char="985" end_char="987">the</TOKEN>
+<TOKEN id="token-8-60" pos="word" morph="none" start_char="989" end_char="993">scope</TOKEN>
+<TOKEN id="token-8-61" pos="word" morph="none" start_char="995" end_char="996">is</TOKEN>
+<TOKEN id="token-8-62" pos="word" morph="none" start_char="998" end_char="1000">far</TOKEN>
+<TOKEN id="token-8-63" pos="word" morph="none" start_char="1002" end_char="1006">wider</TOKEN>
+<TOKEN id="token-8-64" pos="word" morph="none" start_char="1008" end_char="1011">than</TOKEN>
+<TOKEN id="token-8-65" pos="word" morph="none" start_char="1013" end_char="1015">was</TOKEN>
+<TOKEN id="token-8-66" pos="word" morph="none" start_char="1017" end_char="1025">initially</TOKEN>
+<TOKEN id="token-8-67" pos="word" morph="none" start_char="1027" end_char="1035">suspected</TOKEN>
+<TOKEN id="token-8-68" pos="punct" morph="none" start_char="1036" end_char="1036">.</TOKEN>
+</SEG>
+<SEG id="segment-9" start_char="1039" end_char="1045">
+<ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-9-0" pos="unknown" morph="none" start_char="1039" end_char="1045">&lt;/post&gt;</TOKEN>
+</SEG>
+<SEG id="segment-10" start_char="1047" end_char="1107">
+<ORIGINAL_TEXT>&lt;post id="p2" author="WOMBAT" datetime="2015-05-30T16:18:00"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-10-0" pos="unknown" morph="none" start_char="1047" end_char="1051">&lt;post</TOKEN>
+<TOKEN id="token-10-1" pos="unknown" morph="none" start_char="1053" end_char="1059">id="p2"</TOKEN>
+<TOKEN id="token-10-2" pos="unknown" morph="none" start_char="1061" end_char="1075">author="WOMBAT"</TOKEN>
+<TOKEN id="token-10-3" pos="unknown" morph="none" start_char="1077" end_char="1107">datetime="2015-05-30T16:18:00"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-11" start_char="1109" end_char="1257">
+<ORIGINAL_TEXT>Security Square is on Security Boulevard, which is so named because the main complex of the nation's Social Security Administration is located there.</ORIGINAL_TEXT>
+<TOKEN id="token-11-0" pos="word" morph="none" start_char="1109" end_char="1116">Security</TOKEN>
+<TOKEN id="token-11-1" pos="word" morph="none" start_char="1118" end_char="1123">Square</TOKEN>
+<TOKEN id="token-11-2" pos="word" morph="none" start_char="1125" end_char="1126">is</TOKEN>
+<TOKEN id="token-11-3" pos="word" morph="none" start_char="1128" end_char="1129">on</TOKEN>
+<TOKEN id="token-11-4" pos="word" morph="none" start_char="1131" end_char="1138">Security</TOKEN>
+<TOKEN id="token-11-5" pos="word" morph="none" start_char="1140" end_char="1148">Boulevard</TOKEN>
+<TOKEN id="token-11-6" pos="punct" morph="none" start_char="1149" end_char="1149">,</TOKEN>
+<TOKEN id="token-11-7" pos="word" morph="none" start_char="1151" end_char="1155">which</TOKEN>
+<TOKEN id="token-11-8" pos="word" morph="none" start_char="1157" end_char="1158">is</TOKEN>
+<TOKEN id="token-11-9" pos="word" morph="none" start_char="1160" end_char="1161">so</TOKEN>
+<TOKEN id="token-11-10" pos="word" morph="none" start_char="1163" end_char="1167">named</TOKEN>
+<TOKEN id="token-11-11" pos="word" morph="none" start_char="1169" end_char="1175">because</TOKEN>
+<TOKEN id="token-11-12" pos="word" morph="none" start_char="1177" end_char="1179">the</TOKEN>
+<TOKEN id="token-11-13" pos="word" morph="none" start_char="1181" end_char="1184">main</TOKEN>
+<TOKEN id="token-11-14" pos="word" morph="none" start_char="1186" end_char="1192">complex</TOKEN>
+<TOKEN id="token-11-15" pos="word" morph="none" start_char="1194" end_char="1195">of</TOKEN>
+<TOKEN id="token-11-16" pos="word" morph="none" start_char="1197" end_char="1199">the</TOKEN>
+<TOKEN id="token-11-17" pos="word" morph="none" start_char="1201" end_char="1206">nation</TOKEN>
+<TOKEN id="token-11-18" pos="punct" morph="none" start_char="1207" end_char="1207">'</TOKEN>
+<TOKEN id="token-11-19" pos="word" morph="none" start_char="1208" end_char="1208">s</TOKEN>
+<TOKEN id="token-11-20" pos="word" morph="none" start_char="1210" end_char="1215">Social</TOKEN>
+<TOKEN id="token-11-21" pos="word" morph="none" start_char="1217" end_char="1224">Security</TOKEN>
+<TOKEN id="token-11-22" pos="word" morph="none" start_char="1226" end_char="1239">Administration</TOKEN>
+<TOKEN id="token-11-23" pos="word" morph="none" start_char="1241" end_char="1242">is</TOKEN>
+<TOKEN id="token-11-24" pos="word" morph="none" start_char="1244" end_char="1250">located</TOKEN>
+<TOKEN id="token-11-25" pos="word" morph="none" start_char="1252" end_char="1256">there</TOKEN>
+<TOKEN id="token-11-26" pos="punct" morph="none" start_char="1257" end_char="1257">.</TOKEN>
+</SEG>
+<SEG id="segment-12" start_char="1259" end_char="1265">
+<ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-12-0" pos="unknown" morph="none" start_char="1259" end_char="1265">&lt;/post&gt;</TOKEN>
+</SEG>
+<SEG id="segment-13" start_char="1267" end_char="1331">
+<ORIGINAL_TEXT>&lt;post id="p3" author="laxman3221" datetime="2015-05-30T21:04:00"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-13-0" pos="unknown" morph="none" start_char="1267" end_char="1271">&lt;post</TOKEN>
+<TOKEN id="token-13-1" pos="unknown" morph="none" start_char="1273" end_char="1279">id="p3"</TOKEN>
+<TOKEN id="token-13-2" pos="unknown" morph="none" start_char="1281" end_char="1299">author="laxman3221"</TOKEN>
+<TOKEN id="token-13-3" pos="unknown" morph="none" start_char="1301" end_char="1331">datetime="2015-05-30T21:04:00"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-14" start_char="1333" end_char="1392">
+<ORIGINAL_TEXT>&amp;lt;img src="http://i.imgur.com/pGlaxoW.png" alt="Image"&amp;gt;</ORIGINAL_TEXT>
+<TOKEN id="token-14-0" pos="punct" morph="none" start_char="1333" end_char="1333">&amp;</TOKEN>
+<TOKEN id="token-14-1" pos="word" morph="none" start_char="1334" end_char="1335">lt</TOKEN>
+<TOKEN id="token-14-2" pos="punct" morph="none" start_char="1336" end_char="1336">;</TOKEN>
+<TOKEN id="token-14-3" pos="word" morph="none" start_char="1337" end_char="1339">img</TOKEN>
+<TOKEN id="token-14-4" pos="unknown" morph="none" start_char="1341" end_char="1376">src="http://i.imgur.com/pGlaxoW.png"</TOKEN>
+<TOKEN id="token-14-5" pos="unknown" morph="none" start_char="1378" end_char="1392">alt="Image"&amp;gt;</TOKEN>
+</SEG>
+<SEG id="segment-15" start_char="1394" end_char="1400">
+<ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-15-0" pos="unknown" morph="none" start_char="1394" end_char="1400">&lt;/post&gt;</TOKEN>
+</SEG>
+<SEG id="segment-16" start_char="1402" end_char="1471">
+<ORIGINAL_TEXT>&lt;post id="p4" author="cradleandshoot " datetime="2015-05-31T11:09:00"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-16-0" pos="unknown" morph="none" start_char="1402" end_char="1406">&lt;post</TOKEN>
+<TOKEN id="token-16-1" pos="unknown" morph="none" start_char="1408" end_char="1414">id="p4"</TOKEN>
+<TOKEN id="token-16-2" pos="unknown" morph="none" start_char="1416" end_char="1437">author="cradleandshoot</TOKEN>
+<TOKEN id="token-16-3" pos="unknown" morph="none" start_char="1439" end_char="1439">"</TOKEN>
+<TOKEN id="token-16-4" pos="unknown" morph="none" start_char="1441" end_char="1471">datetime="2015-05-31T11:09:00"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-17" start_char="1473" end_char="1812">
+<ORIGINAL_TEXT>That graph is pretty startling. When you keep the hounds on a very short leash the lower case predators will predominate the scene. The best one can hope for in this case, given the freedom, is they will start killing one another off in greater numbers. &amp;lt;img src="./images/smilies/icon/rolleyes.gif" alt=":roll:" title="Rolling Eyes"&amp;gt;</ORIGINAL_TEXT>
+<TOKEN id="token-17-0" pos="word" morph="none" start_char="1473" end_char="1476">That</TOKEN>
+<TOKEN id="token-17-1" pos="word" morph="none" start_char="1478" end_char="1482">graph</TOKEN>
+<TOKEN id="token-17-2" pos="word" morph="none" start_char="1484" end_char="1485">is</TOKEN>
+<TOKEN id="token-17-3" pos="word" morph="none" start_char="1487" end_char="1492">pretty</TOKEN>
+<TOKEN id="token-17-4" pos="word" morph="none" start_char="1494" end_char="1502">startling</TOKEN>
+<TOKEN id="token-17-5" pos="punct" morph="none" start_char="1503" end_char="1503">.</TOKEN>
+<TOKEN id="token-17-6" pos="word" morph="none" start_char="1505" end_char="1508">When</TOKEN>
+<TOKEN id="token-17-7" pos="word" morph="none" start_char="1510" end_char="1512">you</TOKEN>
+<TOKEN id="token-17-8" pos="word" morph="none" start_char="1514" end_char="1517">keep</TOKEN>
+<TOKEN id="token-17-9" pos="word" morph="none" start_char="1519" end_char="1521">the</TOKEN>
+<TOKEN id="token-17-10" pos="word" morph="none" start_char="1523" end_char="1528">hounds</TOKEN>
+<TOKEN id="token-17-11" pos="word" morph="none" start_char="1530" end_char="1531">on</TOKEN>
+<TOKEN id="token-17-12" pos="word" morph="none" start_char="1533" end_char="1533">a</TOKEN>
+<TOKEN id="token-17-13" pos="word" morph="none" start_char="1535" end_char="1538">very</TOKEN>
+<TOKEN id="token-17-14" pos="word" morph="none" start_char="1540" end_char="1544">short</TOKEN>
+<TOKEN id="token-17-15" pos="word" morph="none" start_char="1546" end_char="1550">leash</TOKEN>
+<TOKEN id="token-17-16" pos="word" morph="none" start_char="1552" end_char="1554">the</TOKEN>
+<TOKEN id="token-17-17" pos="word" morph="none" start_char="1556" end_char="1560">lower</TOKEN>
+<TOKEN id="token-17-18" pos="word" morph="none" start_char="1562" end_char="1565">case</TOKEN>
+<TOKEN id="token-17-19" pos="word" morph="none" start_char="1567" end_char="1575">predators</TOKEN>
+<TOKEN id="token-17-20" pos="word" morph="none" start_char="1577" end_char="1580">will</TOKEN>
+<TOKEN id="token-17-21" pos="word" morph="none" start_char="1582" end_char="1592">predominate</TOKEN>
+<TOKEN id="token-17-22" pos="word" morph="none" start_char="1594" end_char="1596">the</TOKEN>
+<TOKEN id="token-17-23" pos="word" morph="none" start_char="1598" end_char="1602">scene</TOKEN>
+<TOKEN id="token-17-24" pos="punct" morph="none" start_char="1603" end_char="1603">.</TOKEN>
+<TOKEN id="token-17-25" pos="word" morph="none" start_char="1605" end_char="1607">The</TOKEN>
+<TOKEN id="token-17-26" pos="word" morph="none" start_char="1609" end_char="1612">best</TOKEN>
+<TOKEN id="token-17-27" pos="word" morph="none" start_char="1614" end_char="1616">one</TOKEN>
+<TOKEN id="token-17-28" pos="word" morph="none" start_char="1618" end_char="1620">can</TOKEN>
+<TOKEN id="token-17-29" pos="word" morph="none" start_char="1622" end_char="1625">hope</TOKEN>
+<TOKEN id="token-17-30" pos="word" morph="none" start_char="1627" end_char="1629">for</TOKEN>
+<TOKEN id="token-17-31" pos="word" morph="none" start_char="1631" end_char="1632">in</TOKEN>
+<TOKEN id="token-17-32" pos="word" morph="none" start_char="1634" end_char="1637">this</TOKEN>
+<TOKEN id="token-17-33" pos="word" morph="none" start_char="1639" end_char="1642">case</TOKEN>
+<TOKEN id="token-17-34" pos="punct" morph="none" start_char="1643" end_char="1643">,</TOKEN>
+<TOKEN id="token-17-35" pos="word" morph="none" start_char="1645" end_char="1649">given</TOKEN>
+<TOKEN id="token-17-36" pos="word" morph="none" start_char="1651" end_char="1653">the</TOKEN>
+<TOKEN id="token-17-37" pos="word" morph="none" start_char="1655" end_char="1661">freedom</TOKEN>
+<TOKEN id="token-17-38" pos="punct" morph="none" start_char="1662" end_char="1662">,</TOKEN>
+<TOKEN id="token-17-39" pos="word" morph="none" start_char="1664" end_char="1665">is</TOKEN>
+<TOKEN id="token-17-40" pos="word" morph="none" start_char="1667" end_char="1670">they</TOKEN>
+<TOKEN id="token-17-41" pos="word" morph="none" start_char="1672" end_char="1675">will</TOKEN>
+<TOKEN id="token-17-42" pos="word" morph="none" start_char="1677" end_char="1681">start</TOKEN>
+<TOKEN id="token-17-43" pos="word" morph="none" start_char="1683" end_char="1689">killing</TOKEN>
+<TOKEN id="token-17-44" pos="word" morph="none" start_char="1691" end_char="1693">one</TOKEN>
+<TOKEN id="token-17-45" pos="word" morph="none" start_char="1695" end_char="1701">another</TOKEN>
+<TOKEN id="token-17-46" pos="word" morph="none" start_char="1703" end_char="1705">off</TOKEN>
+<TOKEN id="token-17-47" pos="word" morph="none" start_char="1707" end_char="1708">in</TOKEN>
+<TOKEN id="token-17-48" pos="word" morph="none" start_char="1710" end_char="1716">greater</TOKEN>
+<TOKEN id="token-17-49" pos="word" morph="none" start_char="1718" end_char="1724">numbers</TOKEN>
+<TOKEN id="token-17-50" pos="punct" morph="none" start_char="1725" end_char="1725">.</TOKEN>
+<TOKEN id="token-17-51" pos="punct" morph="none" start_char="1727" end_char="1727">&amp;</TOKEN>
+<TOKEN id="token-17-52" pos="word" morph="none" start_char="1728" end_char="1729">lt</TOKEN>
+<TOKEN id="token-17-53" pos="punct" morph="none" start_char="1730" end_char="1730">;</TOKEN>
+<TOKEN id="token-17-54" pos="word" morph="none" start_char="1731" end_char="1733">img</TOKEN>
+<TOKEN id="token-17-55" pos="unknown" morph="none" start_char="1735" end_char="1774">src="./images/smilies/icon/rolleyes.gif"</TOKEN>
+<TOKEN id="token-17-56" pos="unknown" morph="none" start_char="1776" end_char="1787">alt=":roll:"</TOKEN>
+<TOKEN id="token-17-57" pos="unknown" morph="none" start_char="1789" end_char="1802">title="Rolling</TOKEN>
+<TOKEN id="token-17-58" pos="word" morph="none" start_char="1804" end_char="1807">Eyes</TOKEN>
+<TOKEN id="token-17-59" pos="punct" morph="none" start_char="1808" end_char="1809">"&amp;</TOKEN>
+<TOKEN id="token-17-60" pos="word" morph="none" start_char="1810" end_char="1811">gt</TOKEN>
+<TOKEN id="token-17-61" pos="punct" morph="none" start_char="1812" end_char="1812">;</TOKEN>
+</SEG>
+<SEG id="segment-18" start_char="1814" end_char="1820">
+<ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-18-0" pos="unknown" morph="none" start_char="1814" end_char="1820">&lt;/post&gt;</TOKEN>
+</SEG>
+<SEG id="segment-19" start_char="1822" end_char="1884">
+<ORIGINAL_TEXT>&lt;post id="p5" author="sore+old" datetime="2015-05-31T11:38:00"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-19-0" pos="unknown" morph="none" start_char="1822" end_char="1826">&lt;post</TOKEN>
+<TOKEN id="token-19-1" pos="unknown" morph="none" start_char="1828" end_char="1834">id="p5"</TOKEN>
+<TOKEN id="token-19-2" pos="unknown" morph="none" start_char="1836" end_char="1852">author="sore+old"</TOKEN>
+<TOKEN id="token-19-3" pos="unknown" morph="none" start_char="1854" end_char="1884">datetime="2015-05-31T11:38:00"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-20" start_char="1886" end_char="2027">
+<ORIGINAL_TEXT>Unfortunately, as always, the ones getting brutalized are the most vulnerable, poor women and children. Of course, who else do cowards target.</ORIGINAL_TEXT>
+<TOKEN id="token-20-0" pos="word" morph="none" start_char="1886" end_char="1898">Unfortunately</TOKEN>
+<TOKEN id="token-20-1" pos="punct" morph="none" start_char="1899" end_char="1899">,</TOKEN>
+<TOKEN id="token-20-2" pos="word" morph="none" start_char="1901" end_char="1902">as</TOKEN>
+<TOKEN id="token-20-3" pos="word" morph="none" start_char="1904" end_char="1909">always</TOKEN>
+<TOKEN id="token-20-4" pos="punct" morph="none" start_char="1910" end_char="1910">,</TOKEN>
+<TOKEN id="token-20-5" pos="word" morph="none" start_char="1912" end_char="1914">the</TOKEN>
+<TOKEN id="token-20-6" pos="word" morph="none" start_char="1916" end_char="1919">ones</TOKEN>
+<TOKEN id="token-20-7" pos="word" morph="none" start_char="1921" end_char="1927">getting</TOKEN>
+<TOKEN id="token-20-8" pos="word" morph="none" start_char="1929" end_char="1938">brutalized</TOKEN>
+<TOKEN id="token-20-9" pos="word" morph="none" start_char="1940" end_char="1942">are</TOKEN>
+<TOKEN id="token-20-10" pos="word" morph="none" start_char="1944" end_char="1946">the</TOKEN>
+<TOKEN id="token-20-11" pos="word" morph="none" start_char="1948" end_char="1951">most</TOKEN>
+<TOKEN id="token-20-12" pos="word" morph="none" start_char="1953" end_char="1962">vulnerable</TOKEN>
+<TOKEN id="token-20-13" pos="punct" morph="none" start_char="1963" end_char="1963">,</TOKEN>
+<TOKEN id="token-20-14" pos="word" morph="none" start_char="1965" end_char="1968">poor</TOKEN>
+<TOKEN id="token-20-15" pos="word" morph="none" start_char="1970" end_char="1974">women</TOKEN>
+<TOKEN id="token-20-16" pos="word" morph="none" start_char="1976" end_char="1978">and</TOKEN>
+<TOKEN id="token-20-17" pos="word" morph="none" start_char="1980" end_char="1987">children</TOKEN>
+<TOKEN id="token-20-18" pos="punct" morph="none" start_char="1988" end_char="1988">.</TOKEN>
+<TOKEN id="token-20-19" pos="word" morph="none" start_char="1990" end_char="1991">Of</TOKEN>
+<TOKEN id="token-20-20" pos="word" morph="none" start_char="1993" end_char="1998">course</TOKEN>
+<TOKEN id="token-20-21" pos="punct" morph="none" start_char="1999" end_char="1999">,</TOKEN>
+<TOKEN id="token-20-22" pos="word" morph="none" start_char="2001" end_char="2003">who</TOKEN>
+<TOKEN id="token-20-23" pos="word" morph="none" start_char="2005" end_char="2008">else</TOKEN>
+<TOKEN id="token-20-24" pos="word" morph="none" start_char="2010" end_char="2011">do</TOKEN>
+<TOKEN id="token-20-25" pos="word" morph="none" start_char="2013" end_char="2019">cowards</TOKEN>
+<TOKEN id="token-20-26" pos="word" morph="none" start_char="2021" end_char="2026">target</TOKEN>
+<TOKEN id="token-20-27" pos="punct" morph="none" start_char="2027" end_char="2027">.</TOKEN>
+</SEG>
+<SEG id="segment-21" start_char="2029" end_char="2035">
+<ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-21-0" pos="unknown" morph="none" start_char="2029" end_char="2035">&lt;/post&gt;</TOKEN>
+</SEG>
+<SEG id="segment-22" start_char="2037" end_char="2106">
+<ORIGINAL_TEXT>&lt;post id="p6" author="cradleandshoot " datetime="2015-05-31T11:53:00"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-22-0" pos="unknown" morph="none" start_char="2037" end_char="2041">&lt;post</TOKEN>
+<TOKEN id="token-22-1" pos="unknown" morph="none" start_char="2043" end_char="2049">id="p6"</TOKEN>
+<TOKEN id="token-22-2" pos="unknown" morph="none" start_char="2051" end_char="2072">author="cradleandshoot</TOKEN>
+<TOKEN id="token-22-3" pos="unknown" morph="none" start_char="2074" end_char="2074">"</TOKEN>
+<TOKEN id="token-22-4" pos="unknown" morph="none" start_char="2076" end_char="2106">datetime="2015-05-31T11:53:00"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-23" start_char="2108" end_char="2323">
+<ORIGINAL_TEXT>In this case S&amp;amp;O I only hope that bad guys start knocking each other off in greater numbers. &amp;lt;img src="./images/smilies/icon/rolleyes.gif" alt=":roll:" title="Rolling Eyes"&amp;gt; Leave the innocent people alone.</ORIGINAL_TEXT>
+<TOKEN id="token-23-0" pos="word" morph="none" start_char="2108" end_char="2109">In</TOKEN>
+<TOKEN id="token-23-1" pos="word" morph="none" start_char="2111" end_char="2114">this</TOKEN>
+<TOKEN id="token-23-2" pos="word" morph="none" start_char="2116" end_char="2119">case</TOKEN>
+<TOKEN id="token-23-3" pos="unknown" morph="none" start_char="2121" end_char="2127">S&amp;amp;O</TOKEN>
+<TOKEN id="token-23-4" pos="word" morph="none" start_char="2129" end_char="2129">I</TOKEN>
+<TOKEN id="token-23-5" pos="word" morph="none" start_char="2131" end_char="2134">only</TOKEN>
+<TOKEN id="token-23-6" pos="word" morph="none" start_char="2136" end_char="2139">hope</TOKEN>
+<TOKEN id="token-23-7" pos="word" morph="none" start_char="2141" end_char="2144">that</TOKEN>
+<TOKEN id="token-23-8" pos="word" morph="none" start_char="2146" end_char="2148">bad</TOKEN>
+<TOKEN id="token-23-9" pos="word" morph="none" start_char="2150" end_char="2153">guys</TOKEN>
+<TOKEN id="token-23-10" pos="word" morph="none" start_char="2155" end_char="2159">start</TOKEN>
+<TOKEN id="token-23-11" pos="word" morph="none" start_char="2161" end_char="2168">knocking</TOKEN>
+<TOKEN id="token-23-12" pos="word" morph="none" start_char="2170" end_char="2173">each</TOKEN>
+<TOKEN id="token-23-13" pos="word" morph="none" start_char="2175" end_char="2179">other</TOKEN>
+<TOKEN id="token-23-14" pos="word" morph="none" start_char="2181" end_char="2183">off</TOKEN>
+<TOKEN id="token-23-15" pos="word" morph="none" start_char="2185" end_char="2186">in</TOKEN>
+<TOKEN id="token-23-16" pos="word" morph="none" start_char="2188" end_char="2194">greater</TOKEN>
+<TOKEN id="token-23-17" pos="word" morph="none" start_char="2196" end_char="2202">numbers</TOKEN>
+<TOKEN id="token-23-18" pos="punct" morph="none" start_char="2203" end_char="2203">.</TOKEN>
+<TOKEN id="token-23-19" pos="punct" morph="none" start_char="2205" end_char="2205">&amp;</TOKEN>
+<TOKEN id="token-23-20" pos="word" morph="none" start_char="2206" end_char="2207">lt</TOKEN>
+<TOKEN id="token-23-21" pos="punct" morph="none" start_char="2208" end_char="2208">;</TOKEN>
+<TOKEN id="token-23-22" pos="word" morph="none" start_char="2209" end_char="2211">img</TOKEN>
+<TOKEN id="token-23-23" pos="unknown" morph="none" start_char="2213" end_char="2252">src="./images/smilies/icon/rolleyes.gif"</TOKEN>
+<TOKEN id="token-23-24" pos="unknown" morph="none" start_char="2254" end_char="2265">alt=":roll:"</TOKEN>
+<TOKEN id="token-23-25" pos="unknown" morph="none" start_char="2267" end_char="2280">title="Rolling</TOKEN>
+<TOKEN id="token-23-26" pos="word" morph="none" start_char="2282" end_char="2285">Eyes</TOKEN>
+<TOKEN id="token-23-27" pos="punct" morph="none" start_char="2286" end_char="2287">"&amp;</TOKEN>
+<TOKEN id="token-23-28" pos="word" morph="none" start_char="2288" end_char="2289">gt</TOKEN>
+<TOKEN id="token-23-29" pos="punct" morph="none" start_char="2290" end_char="2290">;</TOKEN>
+<TOKEN id="token-23-30" pos="word" morph="none" start_char="2292" end_char="2296">Leave</TOKEN>
+<TOKEN id="token-23-31" pos="word" morph="none" start_char="2298" end_char="2300">the</TOKEN>
+<TOKEN id="token-23-32" pos="word" morph="none" start_char="2302" end_char="2309">innocent</TOKEN>
+<TOKEN id="token-23-33" pos="word" morph="none" start_char="2311" end_char="2316">people</TOKEN>
+<TOKEN id="token-23-34" pos="word" morph="none" start_char="2318" end_char="2322">alone</TOKEN>
+<TOKEN id="token-23-35" pos="punct" morph="none" start_char="2323" end_char="2323">.</TOKEN>
+</SEG>
+<SEG id="segment-24" start_char="2325" end_char="2331">
+<ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-24-0" pos="unknown" morph="none" start_char="2325" end_char="2331">&lt;/post&gt;</TOKEN>
+</SEG>
+<SEG id="segment-25" start_char="2333" end_char="2399">
+<ORIGINAL_TEXT>&lt;post id="p7" author="BeaverCreek " datetime="2015-05-31T19:19:00"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-25-0" pos="unknown" morph="none" start_char="2333" end_char="2337">&lt;post</TOKEN>
+<TOKEN id="token-25-1" pos="unknown" morph="none" start_char="2339" end_char="2345">id="p7"</TOKEN>
+<TOKEN id="token-25-2" pos="unknown" morph="none" start_char="2347" end_char="2365">author="BeaverCreek</TOKEN>
+<TOKEN id="token-25-3" pos="unknown" morph="none" start_char="2367" end_char="2367">"</TOKEN>
+<TOKEN id="token-25-4" pos="unknown" morph="none" start_char="2369" end_char="2399">datetime="2015-05-31T19:19:00"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-26" start_char="2401" end_char="2818">
+<ORIGINAL_TEXT>I thought I'd post a quick Baltimore Police Twitter update: Baltimore reached its 43rd official monthly murder last evening (there are likely more unofficial murders, plus two current, additional victims would normally be counted as murders, but for now are still being kept alive only by the grace of medical science). 44 is the all-time high, back in 1971, when the city was about 40% larger in terms of population. </ORIGINAL_TEXT>
+<TOKEN id="token-26-0" pos="word" morph="none" start_char="2401" end_char="2401">I</TOKEN>
+<TOKEN id="token-26-1" pos="word" morph="none" start_char="2403" end_char="2409">thought</TOKEN>
+<TOKEN id="token-26-2" pos="word" morph="none" start_char="2411" end_char="2411">I</TOKEN>
+<TOKEN id="token-26-3" pos="punct" morph="none" start_char="2412" end_char="2412">'</TOKEN>
+<TOKEN id="token-26-4" pos="word" morph="none" start_char="2413" end_char="2413">d</TOKEN>
+<TOKEN id="token-26-5" pos="word" morph="none" start_char="2415" end_char="2418">post</TOKEN>
+<TOKEN id="token-26-6" pos="word" morph="none" start_char="2420" end_char="2420">a</TOKEN>
+<TOKEN id="token-26-7" pos="word" morph="none" start_char="2422" end_char="2426">quick</TOKEN>
+<TOKEN id="token-26-8" pos="word" morph="none" start_char="2428" end_char="2436">Baltimore</TOKEN>
+<TOKEN id="token-26-9" pos="word" morph="none" start_char="2438" end_char="2443">Police</TOKEN>
+<TOKEN id="token-26-10" pos="word" morph="none" start_char="2445" end_char="2451">Twitter</TOKEN>
+<TOKEN id="token-26-11" pos="word" morph="none" start_char="2453" end_char="2458">update</TOKEN>
+<TOKEN id="token-26-12" pos="punct" morph="none" start_char="2459" end_char="2459">:</TOKEN>
+<TOKEN id="token-26-13" pos="word" morph="none" start_char="2461" end_char="2469">Baltimore</TOKEN>
+<TOKEN id="token-26-14" pos="word" morph="none" start_char="2471" end_char="2477">reached</TOKEN>
+<TOKEN id="token-26-15" pos="word" morph="none" start_char="2479" end_char="2481">its</TOKEN>
+<TOKEN id="token-26-16" pos="word" morph="none" start_char="2483" end_char="2486">43rd</TOKEN>
+<TOKEN id="token-26-17" pos="word" morph="none" start_char="2488" end_char="2495">official</TOKEN>
+<TOKEN id="token-26-18" pos="word" morph="none" start_char="2497" end_char="2503">monthly</TOKEN>
+<TOKEN id="token-26-19" pos="word" morph="none" start_char="2505" end_char="2510">murder</TOKEN>
+<TOKEN id="token-26-20" pos="word" morph="none" start_char="2512" end_char="2515">last</TOKEN>
+<TOKEN id="token-26-21" pos="word" morph="none" start_char="2517" end_char="2523">evening</TOKEN>
+<TOKEN id="token-26-22" pos="punct" morph="none" start_char="2525" end_char="2525">(</TOKEN>
+<TOKEN id="token-26-23" pos="word" morph="none" start_char="2526" end_char="2530">there</TOKEN>
+<TOKEN id="token-26-24" pos="word" morph="none" start_char="2532" end_char="2534">are</TOKEN>
+<TOKEN id="token-26-25" pos="word" morph="none" start_char="2536" end_char="2541">likely</TOKEN>
+<TOKEN id="token-26-26" pos="word" morph="none" start_char="2543" end_char="2546">more</TOKEN>
+<TOKEN id="token-26-27" pos="word" morph="none" start_char="2548" end_char="2557">unofficial</TOKEN>
+<TOKEN id="token-26-28" pos="word" morph="none" start_char="2559" end_char="2565">murders</TOKEN>
+<TOKEN id="token-26-29" pos="punct" morph="none" start_char="2566" end_char="2566">,</TOKEN>
+<TOKEN id="token-26-30" pos="word" morph="none" start_char="2568" end_char="2571">plus</TOKEN>
+<TOKEN id="token-26-31" pos="word" morph="none" start_char="2573" end_char="2575">two</TOKEN>
+<TOKEN id="token-26-32" pos="word" morph="none" start_char="2577" end_char="2583">current</TOKEN>
+<TOKEN id="token-26-33" pos="punct" morph="none" start_char="2584" end_char="2584">,</TOKEN>
+<TOKEN id="token-26-34" pos="word" morph="none" start_char="2586" end_char="2595">additional</TOKEN>
+<TOKEN id="token-26-35" pos="word" morph="none" start_char="2597" end_char="2603">victims</TOKEN>
+<TOKEN id="token-26-36" pos="word" morph="none" start_char="2605" end_char="2609">would</TOKEN>
+<TOKEN id="token-26-37" pos="word" morph="none" start_char="2611" end_char="2618">normally</TOKEN>
+<TOKEN id="token-26-38" pos="word" morph="none" start_char="2620" end_char="2621">be</TOKEN>
+<TOKEN id="token-26-39" pos="word" morph="none" start_char="2623" end_char="2629">counted</TOKEN>
+<TOKEN id="token-26-40" pos="word" morph="none" start_char="2631" end_char="2632">as</TOKEN>
+<TOKEN id="token-26-41" pos="word" morph="none" start_char="2634" end_char="2640">murders</TOKEN>
+<TOKEN id="token-26-42" pos="punct" morph="none" start_char="2641" end_char="2641">,</TOKEN>
+<TOKEN id="token-26-43" pos="word" morph="none" start_char="2643" end_char="2645">but</TOKEN>
+<TOKEN id="token-26-44" pos="word" morph="none" start_char="2647" end_char="2649">for</TOKEN>
+<TOKEN id="token-26-45" pos="word" morph="none" start_char="2651" end_char="2653">now</TOKEN>
+<TOKEN id="token-26-46" pos="word" morph="none" start_char="2655" end_char="2657">are</TOKEN>
+<TOKEN id="token-26-47" pos="word" morph="none" start_char="2659" end_char="2663">still</TOKEN>
+<TOKEN id="token-26-48" pos="word" morph="none" start_char="2665" end_char="2669">being</TOKEN>
+<TOKEN id="token-26-49" pos="word" morph="none" start_char="2671" end_char="2674">kept</TOKEN>
+<TOKEN id="token-26-50" pos="word" morph="none" start_char="2676" end_char="2680">alive</TOKEN>
+<TOKEN id="token-26-51" pos="word" morph="none" start_char="2682" end_char="2685">only</TOKEN>
+<TOKEN id="token-26-52" pos="word" morph="none" start_char="2687" end_char="2688">by</TOKEN>
+<TOKEN id="token-26-53" pos="word" morph="none" start_char="2690" end_char="2692">the</TOKEN>
+<TOKEN id="token-26-54" pos="word" morph="none" start_char="2694" end_char="2698">grace</TOKEN>
+<TOKEN id="token-26-55" pos="word" morph="none" start_char="2700" end_char="2701">of</TOKEN>
+<TOKEN id="token-26-56" pos="word" morph="none" start_char="2703" end_char="2709">medical</TOKEN>
+<TOKEN id="token-26-57" pos="word" morph="none" start_char="2711" end_char="2717">science</TOKEN>
+<TOKEN id="token-26-58" pos="punct" morph="none" start_char="2718" end_char="2719">).</TOKEN>
+<TOKEN id="token-26-59" pos="number" morph="none" start_char="2721" end_char="2722">44</TOKEN>
+<TOKEN id="token-26-60" pos="word" morph="none" start_char="2724" end_char="2725">is</TOKEN>
+<TOKEN id="token-26-61" pos="word" morph="none" start_char="2727" end_char="2729">the</TOKEN>
+<TOKEN id="token-26-62" pos="word" morph="none" start_char="2731" end_char="2733">all</TOKEN>
+<TOKEN id="token-26-63" pos="punct" morph="none" start_char="2734" end_char="2734">-</TOKEN>
+<TOKEN id="token-26-64" pos="word" morph="none" start_char="2735" end_char="2738">time</TOKEN>
+<TOKEN id="token-26-65" pos="word" morph="none" start_char="2740" end_char="2743">high</TOKEN>
+<TOKEN id="token-26-66" pos="punct" morph="none" start_char="2744" end_char="2744">,</TOKEN>
+<TOKEN id="token-26-67" pos="word" morph="none" start_char="2746" end_char="2749">back</TOKEN>
+<TOKEN id="token-26-68" pos="word" morph="none" start_char="2751" end_char="2752">in</TOKEN>
+<TOKEN id="token-26-69" pos="word" morph="none" start_char="2754" end_char="2757">1971</TOKEN>
+<TOKEN id="token-26-70" pos="punct" morph="none" start_char="2758" end_char="2758">,</TOKEN>
+<TOKEN id="token-26-71" pos="word" morph="none" start_char="2760" end_char="2763">when</TOKEN>
+<TOKEN id="token-26-72" pos="word" morph="none" start_char="2765" end_char="2767">the</TOKEN>
+<TOKEN id="token-26-73" pos="word" morph="none" start_char="2769" end_char="2772">city</TOKEN>
+<TOKEN id="token-26-74" pos="word" morph="none" start_char="2774" end_char="2776">was</TOKEN>
+<TOKEN id="token-26-75" pos="word" morph="none" start_char="2778" end_char="2782">about</TOKEN>
+<TOKEN id="token-26-76" pos="word" morph="none" start_char="2784" end_char="2785">40</TOKEN>
+<TOKEN id="token-26-77" pos="punct" morph="none" start_char="2786" end_char="2786">%</TOKEN>
+<TOKEN id="token-26-78" pos="word" morph="none" start_char="2788" end_char="2793">larger</TOKEN>
+<TOKEN id="token-26-79" pos="word" morph="none" start_char="2795" end_char="2796">in</TOKEN>
+<TOKEN id="token-26-80" pos="word" morph="none" start_char="2798" end_char="2802">terms</TOKEN>
+<TOKEN id="token-26-81" pos="word" morph="none" start_char="2804" end_char="2805">of</TOKEN>
+<TOKEN id="token-26-82" pos="word" morph="none" start_char="2807" end_char="2816">population</TOKEN>
+<TOKEN id="token-26-83" pos="punct" morph="none" start_char="2817" end_char="2817">.</TOKEN>
+</SEG>
+<SEG id="segment-27" start_char="2821" end_char="2874">
+<ORIGINAL_TEXT>http://www.wbal.com/article/115325/2/ba ... hly-record</ORIGINAL_TEXT>
+<TOKEN id="token-27-0" pos="url" morph="none" start_char="2821" end_char="2859">http://www.wbal.com/article/115325/2/ba</TOKEN>
+<TOKEN id="token-27-1" pos="unknown" morph="none" start_char="2861" end_char="2863">...</TOKEN>
+<TOKEN id="token-27-2" pos="word" morph="none" start_char="2865" end_char="2867">hly</TOKEN>
+<TOKEN id="token-27-3" pos="punct" morph="none" start_char="2868" end_char="2868">-</TOKEN>
+<TOKEN id="token-27-4" pos="word" morph="none" start_char="2869" end_char="2874">record</TOKEN>
+</SEG>
+<SEG id="segment-28" start_char="2877" end_char="3184">
+<ORIGINAL_TEXT>Although Bill de Blasio is jealous of Mayor Rawlings-Blake's accomplishment and is doing everything in his power to loosen the reins of our street criminal (hello Reverand Al!), the mountain of Baltimore's per capita murder rate would mean we'd need over 6,000 annual murders! I don't think he can get there.</ORIGINAL_TEXT>
+<TOKEN id="token-28-0" pos="word" morph="none" start_char="2877" end_char="2884">Although</TOKEN>
+<TOKEN id="token-28-1" pos="word" morph="none" start_char="2886" end_char="2889">Bill</TOKEN>
+<TOKEN id="token-28-2" pos="word" morph="none" start_char="2891" end_char="2892">de</TOKEN>
+<TOKEN id="token-28-3" pos="word" morph="none" start_char="2894" end_char="2899">Blasio</TOKEN>
+<TOKEN id="token-28-4" pos="word" morph="none" start_char="2901" end_char="2902">is</TOKEN>
+<TOKEN id="token-28-5" pos="word" morph="none" start_char="2904" end_char="2910">jealous</TOKEN>
+<TOKEN id="token-28-6" pos="word" morph="none" start_char="2912" end_char="2913">of</TOKEN>
+<TOKEN id="token-28-7" pos="word" morph="none" start_char="2915" end_char="2919">Mayor</TOKEN>
+<TOKEN id="token-28-8" pos="unknown" morph="none" start_char="2921" end_char="2936">Rawlings-Blake's</TOKEN>
+<TOKEN id="token-28-9" pos="word" morph="none" start_char="2938" end_char="2951">accomplishment</TOKEN>
+<TOKEN id="token-28-10" pos="word" morph="none" start_char="2953" end_char="2955">and</TOKEN>
+<TOKEN id="token-28-11" pos="word" morph="none" start_char="2957" end_char="2958">is</TOKEN>
+<TOKEN id="token-28-12" pos="word" morph="none" start_char="2960" end_char="2964">doing</TOKEN>
+<TOKEN id="token-28-13" pos="word" morph="none" start_char="2966" end_char="2975">everything</TOKEN>
+<TOKEN id="token-28-14" pos="word" morph="none" start_char="2977" end_char="2978">in</TOKEN>
+<TOKEN id="token-28-15" pos="word" morph="none" start_char="2980" end_char="2982">his</TOKEN>
+<TOKEN id="token-28-16" pos="word" morph="none" start_char="2984" end_char="2988">power</TOKEN>
+<TOKEN id="token-28-17" pos="word" morph="none" start_char="2990" end_char="2991">to</TOKEN>
+<TOKEN id="token-28-18" pos="word" morph="none" start_char="2993" end_char="2998">loosen</TOKEN>
+<TOKEN id="token-28-19" pos="word" morph="none" start_char="3000" end_char="3002">the</TOKEN>
+<TOKEN id="token-28-20" pos="word" morph="none" start_char="3004" end_char="3008">reins</TOKEN>
+<TOKEN id="token-28-21" pos="word" morph="none" start_char="3010" end_char="3011">of</TOKEN>
+<TOKEN id="token-28-22" pos="word" morph="none" start_char="3013" end_char="3015">our</TOKEN>
+<TOKEN id="token-28-23" pos="word" morph="none" start_char="3017" end_char="3022">street</TOKEN>
+<TOKEN id="token-28-24" pos="word" morph="none" start_char="3024" end_char="3031">criminal</TOKEN>
+<TOKEN id="token-28-25" pos="punct" morph="none" start_char="3033" end_char="3033">(</TOKEN>
+<TOKEN id="token-28-26" pos="word" morph="none" start_char="3034" end_char="3038">hello</TOKEN>
+<TOKEN id="token-28-27" pos="word" morph="none" start_char="3040" end_char="3047">Reverand</TOKEN>
+<TOKEN id="token-28-28" pos="word" morph="none" start_char="3049" end_char="3050">Al</TOKEN>
+<TOKEN id="token-28-29" pos="punct" morph="none" start_char="3051" end_char="3053">!),</TOKEN>
+<TOKEN id="token-28-30" pos="word" morph="none" start_char="3055" end_char="3057">the</TOKEN>
+<TOKEN id="token-28-31" pos="word" morph="none" start_char="3059" end_char="3066">mountain</TOKEN>
+<TOKEN id="token-28-32" pos="word" morph="none" start_char="3068" end_char="3069">of</TOKEN>
+<TOKEN id="token-28-33" pos="word" morph="none" start_char="3071" end_char="3079">Baltimore</TOKEN>
+<TOKEN id="token-28-34" pos="punct" morph="none" start_char="3080" end_char="3080">'</TOKEN>
+<TOKEN id="token-28-35" pos="word" morph="none" start_char="3081" end_char="3081">s</TOKEN>
+<TOKEN id="token-28-36" pos="word" morph="none" start_char="3083" end_char="3085">per</TOKEN>
+<TOKEN id="token-28-37" pos="word" morph="none" start_char="3087" end_char="3092">capita</TOKEN>
+<TOKEN id="token-28-38" pos="word" morph="none" start_char="3094" end_char="3099">murder</TOKEN>
+<TOKEN id="token-28-39" pos="word" morph="none" start_char="3101" end_char="3104">rate</TOKEN>
+<TOKEN id="token-28-40" pos="word" morph="none" start_char="3106" end_char="3110">would</TOKEN>
+<TOKEN id="token-28-41" pos="word" morph="none" start_char="3112" end_char="3115">mean</TOKEN>
+<TOKEN id="token-28-42" pos="word" morph="none" start_char="3117" end_char="3118">we</TOKEN>
+<TOKEN id="token-28-43" pos="punct" morph="none" start_char="3119" end_char="3119">'</TOKEN>
+<TOKEN id="token-28-44" pos="word" morph="none" start_char="3120" end_char="3120">d</TOKEN>
+<TOKEN id="token-28-45" pos="word" morph="none" start_char="3122" end_char="3125">need</TOKEN>
+<TOKEN id="token-28-46" pos="word" morph="none" start_char="3127" end_char="3130">over</TOKEN>
+<TOKEN id="token-28-47" pos="word" morph="none" start_char="3132" end_char="3132">6</TOKEN>
+<TOKEN id="token-28-48" pos="punct" morph="none" start_char="3133" end_char="3133">,</TOKEN>
+<TOKEN id="token-28-49" pos="word" morph="none" start_char="3134" end_char="3136">000</TOKEN>
+<TOKEN id="token-28-50" pos="word" morph="none" start_char="3138" end_char="3143">annual</TOKEN>
+<TOKEN id="token-28-51" pos="word" morph="none" start_char="3145" end_char="3151">murders</TOKEN>
+<TOKEN id="token-28-52" pos="punct" morph="none" start_char="3152" end_char="3152">!</TOKEN>
+<TOKEN id="token-28-53" pos="word" morph="none" start_char="3154" end_char="3154">I</TOKEN>
+<TOKEN id="token-28-54" pos="word" morph="none" start_char="3156" end_char="3158">don</TOKEN>
+<TOKEN id="token-28-55" pos="punct" morph="none" start_char="3159" end_char="3159">'</TOKEN>
+<TOKEN id="token-28-56" pos="word" morph="none" start_char="3160" end_char="3160">t</TOKEN>
+<TOKEN id="token-28-57" pos="word" morph="none" start_char="3162" end_char="3166">think</TOKEN>
+<TOKEN id="token-28-58" pos="word" morph="none" start_char="3168" end_char="3169">he</TOKEN>
+<TOKEN id="token-28-59" pos="word" morph="none" start_char="3171" end_char="3173">can</TOKEN>
+<TOKEN id="token-28-60" pos="word" morph="none" start_char="3175" end_char="3177">get</TOKEN>
+<TOKEN id="token-28-61" pos="word" morph="none" start_char="3179" end_char="3183">there</TOKEN>
+<TOKEN id="token-28-62" pos="punct" morph="none" start_char="3184" end_char="3184">.</TOKEN>
+</SEG>
+<SEG id="segment-29" start_char="3186" end_char="3192">
+<ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-29-0" pos="unknown" morph="none" start_char="3186" end_char="3192">&lt;/post&gt;</TOKEN>
+</SEG>
+<SEG id="segment-30" start_char="3194" end_char="3258">
+<ORIGINAL_TEXT>&lt;post id="p8" author="Spartan22 " datetime="2015-06-01T13:31:00"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-30-0" pos="unknown" morph="none" start_char="3194" end_char="3198">&lt;post</TOKEN>
+<TOKEN id="token-30-1" pos="unknown" morph="none" start_char="3200" end_char="3206">id="p8"</TOKEN>
+<TOKEN id="token-30-2" pos="unknown" morph="none" start_char="3208" end_char="3224">author="Spartan22</TOKEN>
+<TOKEN id="token-30-3" pos="unknown" morph="none" start_char="3226" end_char="3226">"</TOKEN>
+<TOKEN id="token-30-4" pos="unknown" morph="none" start_char="3228" end_char="3258">datetime="2015-06-01T13:31:00"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-31" start_char="3260" end_char="3391">
+<ORIGINAL_TEXT>at least mayor bill can take solace in knowing Central Park is more dangerous now, under his guidance, than before he took office...</ORIGINAL_TEXT>
+<TOKEN id="token-31-0" pos="word" morph="none" start_char="3260" end_char="3261">at</TOKEN>
+<TOKEN id="token-31-1" pos="word" morph="none" start_char="3263" end_char="3267">least</TOKEN>
+<TOKEN id="token-31-2" pos="word" morph="none" start_char="3269" end_char="3273">mayor</TOKEN>
+<TOKEN id="token-31-3" pos="word" morph="none" start_char="3275" end_char="3278">bill</TOKEN>
+<TOKEN id="token-31-4" pos="word" morph="none" start_char="3280" end_char="3282">can</TOKEN>
+<TOKEN id="token-31-5" pos="word" morph="none" start_char="3284" end_char="3287">take</TOKEN>
+<TOKEN id="token-31-6" pos="word" morph="none" start_char="3289" end_char="3294">solace</TOKEN>
+<TOKEN id="token-31-7" pos="word" morph="none" start_char="3296" end_char="3297">in</TOKEN>
+<TOKEN id="token-31-8" pos="word" morph="none" start_char="3299" end_char="3305">knowing</TOKEN>
+<TOKEN id="token-31-9" pos="word" morph="none" start_char="3307" end_char="3313">Central</TOKEN>
+<TOKEN id="token-31-10" pos="word" morph="none" start_char="3315" end_char="3318">Park</TOKEN>
+<TOKEN id="token-31-11" pos="word" morph="none" start_char="3320" end_char="3321">is</TOKEN>
+<TOKEN id="token-31-12" pos="word" morph="none" start_char="3323" end_char="3326">more</TOKEN>
+<TOKEN id="token-31-13" pos="word" morph="none" start_char="3328" end_char="3336">dangerous</TOKEN>
+<TOKEN id="token-31-14" pos="word" morph="none" start_char="3338" end_char="3340">now</TOKEN>
+<TOKEN id="token-31-15" pos="punct" morph="none" start_char="3341" end_char="3341">,</TOKEN>
+<TOKEN id="token-31-16" pos="word" morph="none" start_char="3343" end_char="3347">under</TOKEN>
+<TOKEN id="token-31-17" pos="word" morph="none" start_char="3349" end_char="3351">his</TOKEN>
+<TOKEN id="token-31-18" pos="word" morph="none" start_char="3353" end_char="3360">guidance</TOKEN>
+<TOKEN id="token-31-19" pos="punct" morph="none" start_char="3361" end_char="3361">,</TOKEN>
+<TOKEN id="token-31-20" pos="word" morph="none" start_char="3363" end_char="3366">than</TOKEN>
+<TOKEN id="token-31-21" pos="word" morph="none" start_char="3368" end_char="3373">before</TOKEN>
+<TOKEN id="token-31-22" pos="word" morph="none" start_char="3375" end_char="3376">he</TOKEN>
+<TOKEN id="token-31-23" pos="word" morph="none" start_char="3378" end_char="3381">took</TOKEN>
+<TOKEN id="token-31-24" pos="word" morph="none" start_char="3383" end_char="3388">office</TOKEN>
+<TOKEN id="token-31-25" pos="punct" morph="none" start_char="3389" end_char="3391">...</TOKEN>
+</SEG>
+<SEG id="segment-32" start_char="3393" end_char="3399">
+<ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-32-0" pos="unknown" morph="none" start_char="3393" end_char="3399">&lt;/post&gt;</TOKEN>
+</SEG>
+<SEG id="segment-33" start_char="3401" end_char="3465">
+<ORIGINAL_TEXT>&lt;post id="p9" author="thatsmell " datetime="2015-06-01T20:30:00"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-33-0" pos="unknown" morph="none" start_char="3401" end_char="3405">&lt;post</TOKEN>
+<TOKEN id="token-33-1" pos="unknown" morph="none" start_char="3407" end_char="3413">id="p9"</TOKEN>
+<TOKEN id="token-33-2" pos="unknown" morph="none" start_char="3415" end_char="3431">author="thatsmell</TOKEN>
+<TOKEN id="token-33-3" pos="unknown" morph="none" start_char="3433" end_char="3433">"</TOKEN>
+<TOKEN id="token-33-4" pos="unknown" morph="none" start_char="3435" end_char="3465">datetime="2015-06-01T20:30:00"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-34" start_char="3467" end_char="3572">
+<ORIGINAL_TEXT>In case you've been waiting anxiously for the report, John Waters finally weighs in on how to fix Balmore:</ORIGINAL_TEXT>
+<TOKEN id="token-34-0" pos="word" morph="none" start_char="3467" end_char="3468">In</TOKEN>
+<TOKEN id="token-34-1" pos="word" morph="none" start_char="3470" end_char="3473">case</TOKEN>
+<TOKEN id="token-34-2" pos="word" morph="none" start_char="3475" end_char="3477">you</TOKEN>
+<TOKEN id="token-34-3" pos="punct" morph="none" start_char="3478" end_char="3478">'</TOKEN>
+<TOKEN id="token-34-4" pos="word" morph="none" start_char="3479" end_char="3480">ve</TOKEN>
+<TOKEN id="token-34-5" pos="word" morph="none" start_char="3482" end_char="3485">been</TOKEN>
+<TOKEN id="token-34-6" pos="word" morph="none" start_char="3487" end_char="3493">waiting</TOKEN>
+<TOKEN id="token-34-7" pos="word" morph="none" start_char="3495" end_char="3503">anxiously</TOKEN>
+<TOKEN id="token-34-8" pos="word" morph="none" start_char="3505" end_char="3507">for</TOKEN>
+<TOKEN id="token-34-9" pos="word" morph="none" start_char="3509" end_char="3511">the</TOKEN>
+<TOKEN id="token-34-10" pos="word" morph="none" start_char="3513" end_char="3518">report</TOKEN>
+<TOKEN id="token-34-11" pos="punct" morph="none" start_char="3519" end_char="3519">,</TOKEN>
+<TOKEN id="token-34-12" pos="word" morph="none" start_char="3521" end_char="3524">John</TOKEN>
+<TOKEN id="token-34-13" pos="word" morph="none" start_char="3526" end_char="3531">Waters</TOKEN>
+<TOKEN id="token-34-14" pos="word" morph="none" start_char="3533" end_char="3539">finally</TOKEN>
+<TOKEN id="token-34-15" pos="word" morph="none" start_char="3541" end_char="3546">weighs</TOKEN>
+<TOKEN id="token-34-16" pos="word" morph="none" start_char="3548" end_char="3549">in</TOKEN>
+<TOKEN id="token-34-17" pos="word" morph="none" start_char="3551" end_char="3552">on</TOKEN>
+<TOKEN id="token-34-18" pos="word" morph="none" start_char="3554" end_char="3556">how</TOKEN>
+<TOKEN id="token-34-19" pos="word" morph="none" start_char="3558" end_char="3559">to</TOKEN>
+<TOKEN id="token-34-20" pos="word" morph="none" start_char="3561" end_char="3563">fix</TOKEN>
+<TOKEN id="token-34-21" pos="word" morph="none" start_char="3565" end_char="3571">Balmore</TOKEN>
+<TOKEN id="token-34-22" pos="punct" morph="none" start_char="3572" end_char="3572">:</TOKEN>
+</SEG>
+<SEG id="segment-35" start_char="3575" end_char="3628">
+<ORIGINAL_TEXT>http://www.baltimorefishbowl.com/storie ... baltimore/</ORIGINAL_TEXT>
+<TOKEN id="token-35-0" pos="url" morph="none" start_char="3575" end_char="3613">http://www.baltimorefishbowl.com/storie</TOKEN>
+<TOKEN id="token-35-1" pos="unknown" morph="none" start_char="3615" end_char="3617">...</TOKEN>
+<TOKEN id="token-35-2" pos="word" morph="none" start_char="3619" end_char="3627">baltimore</TOKEN>
+<TOKEN id="token-35-3" pos="punct" morph="none" start_char="3628" end_char="3628">/</TOKEN>
+</SEG>
+<SEG id="segment-36" start_char="3630" end_char="3636">
+<ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-36-0" pos="unknown" morph="none" start_char="3630" end_char="3636">&lt;/post&gt;</TOKEN>
+</SEG>
+<SEG id="segment-37" start_char="3638" end_char="3702">
+<ORIGINAL_TEXT>&lt;post id="p10" author="Andersen " datetime="2015-06-01T20:38:00"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-37-0" pos="unknown" morph="none" start_char="3638" end_char="3642">&lt;post</TOKEN>
+<TOKEN id="token-37-1" pos="unknown" morph="none" start_char="3644" end_char="3651">id="p10"</TOKEN>
+<TOKEN id="token-37-2" pos="unknown" morph="none" start_char="3653" end_char="3668">author="Andersen</TOKEN>
+<TOKEN id="token-37-3" pos="unknown" morph="none" start_char="3670" end_char="3670">"</TOKEN>
+<TOKEN id="token-37-4" pos="unknown" morph="none" start_char="3672" end_char="3702">datetime="2015-06-01T20:38:00"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-38" start_char="3704" end_char="3798">
+<ORIGINAL_TEXT>John Waters' ideas make as much if not more sense than anything else we've seen on this thread.</ORIGINAL_TEXT>
+<TOKEN id="token-38-0" pos="word" morph="none" start_char="3704" end_char="3707">John</TOKEN>
+<TOKEN id="token-38-1" pos="word" morph="none" start_char="3709" end_char="3714">Waters</TOKEN>
+<TOKEN id="token-38-2" pos="punct" morph="none" start_char="3715" end_char="3715">'</TOKEN>
+<TOKEN id="token-38-3" pos="word" morph="none" start_char="3717" end_char="3721">ideas</TOKEN>
+<TOKEN id="token-38-4" pos="word" morph="none" start_char="3723" end_char="3726">make</TOKEN>
+<TOKEN id="token-38-5" pos="word" morph="none" start_char="3728" end_char="3729">as</TOKEN>
+<TOKEN id="token-38-6" pos="word" morph="none" start_char="3731" end_char="3734">much</TOKEN>
+<TOKEN id="token-38-7" pos="word" morph="none" start_char="3736" end_char="3737">if</TOKEN>
+<TOKEN id="token-38-8" pos="word" morph="none" start_char="3739" end_char="3741">not</TOKEN>
+<TOKEN id="token-38-9" pos="word" morph="none" start_char="3743" end_char="3746">more</TOKEN>
+<TOKEN id="token-38-10" pos="word" morph="none" start_char="3748" end_char="3752">sense</TOKEN>
+<TOKEN id="token-38-11" pos="word" morph="none" start_char="3754" end_char="3757">than</TOKEN>
+<TOKEN id="token-38-12" pos="word" morph="none" start_char="3759" end_char="3766">anything</TOKEN>
+<TOKEN id="token-38-13" pos="word" morph="none" start_char="3768" end_char="3771">else</TOKEN>
+<TOKEN id="token-38-14" pos="word" morph="none" start_char="3773" end_char="3774">we</TOKEN>
+<TOKEN id="token-38-15" pos="punct" morph="none" start_char="3775" end_char="3775">'</TOKEN>
+<TOKEN id="token-38-16" pos="word" morph="none" start_char="3776" end_char="3777">ve</TOKEN>
+<TOKEN id="token-38-17" pos="word" morph="none" start_char="3779" end_char="3782">seen</TOKEN>
+<TOKEN id="token-38-18" pos="word" morph="none" start_char="3784" end_char="3785">on</TOKEN>
+<TOKEN id="token-38-19" pos="word" morph="none" start_char="3787" end_char="3790">this</TOKEN>
+<TOKEN id="token-38-20" pos="word" morph="none" start_char="3792" end_char="3797">thread</TOKEN>
+<TOKEN id="token-38-21" pos="punct" morph="none" start_char="3798" end_char="3798">.</TOKEN>
+</SEG>
+<SEG id="segment-39" start_char="3800" end_char="3806">
+<ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-39-0" pos="unknown" morph="none" start_char="3800" end_char="3806">&lt;/post&gt;</TOKEN>
+</SEG>
+<SEG id="segment-40" start_char="3808" end_char="3873">
+<ORIGINAL_TEXT>&lt;post id="p11" author="thatsmell " datetime="2015-06-01T20:42:00"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-40-0" pos="unknown" morph="none" start_char="3808" end_char="3812">&lt;post</TOKEN>
+<TOKEN id="token-40-1" pos="unknown" morph="none" start_char="3814" end_char="3821">id="p11"</TOKEN>
+<TOKEN id="token-40-2" pos="unknown" morph="none" start_char="3823" end_char="3839">author="thatsmell</TOKEN>
+<TOKEN id="token-40-3" pos="unknown" morph="none" start_char="3841" end_char="3841">"</TOKEN>
+<TOKEN id="token-40-4" pos="unknown" morph="none" start_char="3843" end_char="3873">datetime="2015-06-01T20:42:00"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-41" start_char="3875" end_char="3909">
+<ORIGINAL_TEXT>And are a lot less inflammatory... </ORIGINAL_TEXT>
+<TOKEN id="token-41-0" pos="word" morph="none" start_char="3875" end_char="3877">And</TOKEN>
+<TOKEN id="token-41-1" pos="word" morph="none" start_char="3879" end_char="3881">are</TOKEN>
+<TOKEN id="token-41-2" pos="word" morph="none" start_char="3883" end_char="3883">a</TOKEN>
+<TOKEN id="token-41-3" pos="word" morph="none" start_char="3885" end_char="3887">lot</TOKEN>
+<TOKEN id="token-41-4" pos="word" morph="none" start_char="3889" end_char="3892">less</TOKEN>
+<TOKEN id="token-41-5" pos="word" morph="none" start_char="3894" end_char="3905">inflammatory</TOKEN>
+<TOKEN id="token-41-6" pos="punct" morph="none" start_char="3906" end_char="3908">...</TOKEN>
+</SEG>
+<SEG id="segment-42" start_char="3912" end_char="3987">
+<ORIGINAL_TEXT>&amp;lt;img src="./images/smilies/icon/lol.gif" alt=":lol:" title="Laughing"&amp;gt;</ORIGINAL_TEXT>
+<TOKEN id="token-42-0" pos="punct" morph="none" start_char="3912" end_char="3912">&amp;</TOKEN>
+<TOKEN id="token-42-1" pos="word" morph="none" start_char="3913" end_char="3914">lt</TOKEN>
+<TOKEN id="token-42-2" pos="punct" morph="none" start_char="3915" end_char="3915">;</TOKEN>
+<TOKEN id="token-42-3" pos="word" morph="none" start_char="3916" end_char="3918">img</TOKEN>
+<TOKEN id="token-42-4" pos="unknown" morph="none" start_char="3920" end_char="3954">src="./images/smilies/icon/lol.gif"</TOKEN>
+<TOKEN id="token-42-5" pos="unknown" morph="none" start_char="3956" end_char="3966">alt=":lol:"</TOKEN>
+<TOKEN id="token-42-6" pos="unknown" morph="none" start_char="3968" end_char="3987">title="Laughing"&amp;gt;</TOKEN>
+</SEG>
+<SEG id="segment-43" start_char="3989" end_char="3995">
+<ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-43-0" pos="unknown" morph="none" start_char="3989" end_char="3995">&lt;/post&gt;</TOKEN>
+</SEG>
+<SEG id="segment-44" start_char="3997" end_char="4064">
+<ORIGINAL_TEXT>&lt;post id="p12" author="spintherock9" datetime="2015-06-01T21:38:00"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-44-0" pos="unknown" morph="none" start_char="3997" end_char="4001">&lt;post</TOKEN>
+<TOKEN id="token-44-1" pos="unknown" morph="none" start_char="4003" end_char="4010">id="p12"</TOKEN>
+<TOKEN id="token-44-2" pos="unknown" morph="none" start_char="4012" end_char="4032">author="spintherock9"</TOKEN>
+<TOKEN id="token-44-3" pos="unknown" morph="none" start_char="4034" end_char="4064">datetime="2015-06-01T21:38:00"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-45" start_char="4066" end_char="4102">
+<ORIGINAL_TEXT>&lt;quote orig_author="cradleandshoot "&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-45-0" pos="unknown" morph="none" start_char="4066" end_char="4071">&lt;quote</TOKEN>
+<TOKEN id="token-45-1" pos="unknown" morph="none" start_char="4073" end_char="4099">orig_author="cradleandshoot</TOKEN>
+<TOKEN id="token-45-2" pos="unknown" morph="none" start_char="4101" end_char="4102">"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-46" start_char="4104" end_char="4319">
+<ORIGINAL_TEXT>In this case S&amp;amp;O I only hope that bad guys start knocking each other off in greater numbers. &amp;lt;img src="./images/smilies/icon/rolleyes.gif" alt=":roll:" title="Rolling Eyes"&amp;gt; Leave the innocent people alone.</ORIGINAL_TEXT>
+<TOKEN id="token-46-0" pos="word" morph="none" start_char="4104" end_char="4105">In</TOKEN>
+<TOKEN id="token-46-1" pos="word" morph="none" start_char="4107" end_char="4110">this</TOKEN>
+<TOKEN id="token-46-2" pos="word" morph="none" start_char="4112" end_char="4115">case</TOKEN>
+<TOKEN id="token-46-3" pos="unknown" morph="none" start_char="4117" end_char="4123">S&amp;amp;O</TOKEN>
+<TOKEN id="token-46-4" pos="word" morph="none" start_char="4125" end_char="4125">I</TOKEN>
+<TOKEN id="token-46-5" pos="word" morph="none" start_char="4127" end_char="4130">only</TOKEN>
+<TOKEN id="token-46-6" pos="word" morph="none" start_char="4132" end_char="4135">hope</TOKEN>
+<TOKEN id="token-46-7" pos="word" morph="none" start_char="4137" end_char="4140">that</TOKEN>
+<TOKEN id="token-46-8" pos="word" morph="none" start_char="4142" end_char="4144">bad</TOKEN>
+<TOKEN id="token-46-9" pos="word" morph="none" start_char="4146" end_char="4149">guys</TOKEN>
+<TOKEN id="token-46-10" pos="word" morph="none" start_char="4151" end_char="4155">start</TOKEN>
+<TOKEN id="token-46-11" pos="word" morph="none" start_char="4157" end_char="4164">knocking</TOKEN>
+<TOKEN id="token-46-12" pos="word" morph="none" start_char="4166" end_char="4169">each</TOKEN>
+<TOKEN id="token-46-13" pos="word" morph="none" start_char="4171" end_char="4175">other</TOKEN>
+<TOKEN id="token-46-14" pos="word" morph="none" start_char="4177" end_char="4179">off</TOKEN>
+<TOKEN id="token-46-15" pos="word" morph="none" start_char="4181" end_char="4182">in</TOKEN>
+<TOKEN id="token-46-16" pos="word" morph="none" start_char="4184" end_char="4190">greater</TOKEN>
+<TOKEN id="token-46-17" pos="word" morph="none" start_char="4192" end_char="4198">numbers</TOKEN>
+<TOKEN id="token-46-18" pos="punct" morph="none" start_char="4199" end_char="4199">.</TOKEN>
+<TOKEN id="token-46-19" pos="punct" morph="none" start_char="4201" end_char="4201">&amp;</TOKEN>
+<TOKEN id="token-46-20" pos="word" morph="none" start_char="4202" end_char="4203">lt</TOKEN>
+<TOKEN id="token-46-21" pos="punct" morph="none" start_char="4204" end_char="4204">;</TOKEN>
+<TOKEN id="token-46-22" pos="word" morph="none" start_char="4205" end_char="4207">img</TOKEN>
+<TOKEN id="token-46-23" pos="unknown" morph="none" start_char="4209" end_char="4248">src="./images/smilies/icon/rolleyes.gif"</TOKEN>
+<TOKEN id="token-46-24" pos="unknown" morph="none" start_char="4250" end_char="4261">alt=":roll:"</TOKEN>
+<TOKEN id="token-46-25" pos="unknown" morph="none" start_char="4263" end_char="4276">title="Rolling</TOKEN>
+<TOKEN id="token-46-26" pos="word" morph="none" start_char="4278" end_char="4281">Eyes</TOKEN>
+<TOKEN id="token-46-27" pos="punct" morph="none" start_char="4282" end_char="4283">"&amp;</TOKEN>
+<TOKEN id="token-46-28" pos="word" morph="none" start_char="4284" end_char="4285">gt</TOKEN>
+<TOKEN id="token-46-29" pos="punct" morph="none" start_char="4286" end_char="4286">;</TOKEN>
+<TOKEN id="token-46-30" pos="word" morph="none" start_char="4288" end_char="4292">Leave</TOKEN>
+<TOKEN id="token-46-31" pos="word" morph="none" start_char="4294" end_char="4296">the</TOKEN>
+<TOKEN id="token-46-32" pos="word" morph="none" start_char="4298" end_char="4305">innocent</TOKEN>
+<TOKEN id="token-46-33" pos="word" morph="none" start_char="4307" end_char="4312">people</TOKEN>
+<TOKEN id="token-46-34" pos="word" morph="none" start_char="4314" end_char="4318">alone</TOKEN>
+<TOKEN id="token-46-35" pos="punct" morph="none" start_char="4319" end_char="4319">.</TOKEN>
+</SEG>
+<SEG id="segment-47" start_char="4321" end_char="4328">
+<ORIGINAL_TEXT>&lt;/quote&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-47-0" pos="unknown" morph="none" start_char="4321" end_char="4328">&lt;/quote&gt;</TOKEN>
+</SEG>
+<SEG id="segment-48" start_char="4330" end_char="4824">
+<ORIGINAL_TEXT>The decline in Baltimore population by 300k since 1970 is key part of this new mess that's called Charm City. I'd venture to guess....the working middle class have ditched the area for many reasons, crime being #1. Once you lose the backbone &amp;amp; core of a city, people who care, work here , pay the city taxes &amp;amp; have skin in the game as homeowners....you're left with slackers &amp;amp; the public officials who have done very little but pander to unions &amp;amp; this rabble to insure their own </ORIGINAL_TEXT>
+<TOKEN id="token-48-0" pos="word" morph="none" start_char="4330" end_char="4332">The</TOKEN>
+<TOKEN id="token-48-1" pos="word" morph="none" start_char="4334" end_char="4340">decline</TOKEN>
+<TOKEN id="token-48-2" pos="word" morph="none" start_char="4342" end_char="4343">in</TOKEN>
+<TOKEN id="token-48-3" pos="word" morph="none" start_char="4345" end_char="4353">Baltimore</TOKEN>
+<TOKEN id="token-48-4" pos="word" morph="none" start_char="4355" end_char="4364">population</TOKEN>
+<TOKEN id="token-48-5" pos="word" morph="none" start_char="4366" end_char="4367">by</TOKEN>
+<TOKEN id="token-48-6" pos="word" morph="none" start_char="4369" end_char="4372">300k</TOKEN>
+<TOKEN id="token-48-7" pos="word" morph="none" start_char="4374" end_char="4378">since</TOKEN>
+<TOKEN id="token-48-8" pos="number" morph="none" start_char="4380" end_char="4383">1970</TOKEN>
+<TOKEN id="token-48-9" pos="word" morph="none" start_char="4385" end_char="4386">is</TOKEN>
+<TOKEN id="token-48-10" pos="word" morph="none" start_char="4388" end_char="4390">key</TOKEN>
+<TOKEN id="token-48-11" pos="word" morph="none" start_char="4392" end_char="4395">part</TOKEN>
+<TOKEN id="token-48-12" pos="word" morph="none" start_char="4397" end_char="4398">of</TOKEN>
+<TOKEN id="token-48-13" pos="word" morph="none" start_char="4400" end_char="4403">this</TOKEN>
+<TOKEN id="token-48-14" pos="word" morph="none" start_char="4405" end_char="4407">new</TOKEN>
+<TOKEN id="token-48-15" pos="word" morph="none" start_char="4409" end_char="4412">mess</TOKEN>
+<TOKEN id="token-48-16" pos="word" morph="none" start_char="4414" end_char="4417">that</TOKEN>
+<TOKEN id="token-48-17" pos="punct" morph="none" start_char="4418" end_char="4418">'</TOKEN>
+<TOKEN id="token-48-18" pos="word" morph="none" start_char="4419" end_char="4419">s</TOKEN>
+<TOKEN id="token-48-19" pos="word" morph="none" start_char="4421" end_char="4426">called</TOKEN>
+<TOKEN id="token-48-20" pos="word" morph="none" start_char="4428" end_char="4432">Charm</TOKEN>
+<TOKEN id="token-48-21" pos="word" morph="none" start_char="4434" end_char="4437">City</TOKEN>
+<TOKEN id="token-48-22" pos="punct" morph="none" start_char="4438" end_char="4438">.</TOKEN>
+<TOKEN id="token-48-23" pos="word" morph="none" start_char="4440" end_char="4440">I</TOKEN>
+<TOKEN id="token-48-24" pos="punct" morph="none" start_char="4441" end_char="4441">'</TOKEN>
+<TOKEN id="token-48-25" pos="word" morph="none" start_char="4442" end_char="4442">d</TOKEN>
+<TOKEN id="token-48-26" pos="word" morph="none" start_char="4444" end_char="4450">venture</TOKEN>
+<TOKEN id="token-48-27" pos="word" morph="none" start_char="4452" end_char="4453">to</TOKEN>
+<TOKEN id="token-48-28" pos="word" morph="none" start_char="4455" end_char="4459">guess</TOKEN>
+<TOKEN id="token-48-29" pos="punct" morph="none" start_char="4460" end_char="4463">....</TOKEN>
+<TOKEN id="token-48-30" pos="word" morph="none" start_char="4464" end_char="4466">the</TOKEN>
+<TOKEN id="token-48-31" pos="word" morph="none" start_char="4468" end_char="4474">working</TOKEN>
+<TOKEN id="token-48-32" pos="word" morph="none" start_char="4476" end_char="4481">middle</TOKEN>
+<TOKEN id="token-48-33" pos="word" morph="none" start_char="4483" end_char="4487">class</TOKEN>
+<TOKEN id="token-48-34" pos="word" morph="none" start_char="4489" end_char="4492">have</TOKEN>
+<TOKEN id="token-48-35" pos="word" morph="none" start_char="4494" end_char="4500">ditched</TOKEN>
+<TOKEN id="token-48-36" pos="word" morph="none" start_char="4502" end_char="4504">the</TOKEN>
+<TOKEN id="token-48-37" pos="word" morph="none" start_char="4506" end_char="4509">area</TOKEN>
+<TOKEN id="token-48-38" pos="word" morph="none" start_char="4511" end_char="4513">for</TOKEN>
+<TOKEN id="token-48-39" pos="word" morph="none" start_char="4515" end_char="4518">many</TOKEN>
+<TOKEN id="token-48-40" pos="word" morph="none" start_char="4520" end_char="4526">reasons</TOKEN>
+<TOKEN id="token-48-41" pos="punct" morph="none" start_char="4527" end_char="4527">,</TOKEN>
+<TOKEN id="token-48-42" pos="word" morph="none" start_char="4529" end_char="4533">crime</TOKEN>
+<TOKEN id="token-48-43" pos="word" morph="none" start_char="4535" end_char="4539">being</TOKEN>
+<TOKEN id="token-48-44" pos="twitter" morph="none" start_char="4541" end_char="4543">#1.</TOKEN>
+<TOKEN id="token-48-45" pos="word" morph="none" start_char="4545" end_char="4548">Once</TOKEN>
+<TOKEN id="token-48-46" pos="word" morph="none" start_char="4550" end_char="4552">you</TOKEN>
+<TOKEN id="token-48-47" pos="word" morph="none" start_char="4554" end_char="4557">lose</TOKEN>
+<TOKEN id="token-48-48" pos="word" morph="none" start_char="4559" end_char="4561">the</TOKEN>
+<TOKEN id="token-48-49" pos="word" morph="none" start_char="4563" end_char="4570">backbone</TOKEN>
+<TOKEN id="token-48-50" pos="html_entity" morph="none" start_char="4572" end_char="4576">&amp;amp;</TOKEN>
+<TOKEN id="token-48-51" pos="word" morph="none" start_char="4578" end_char="4581">core</TOKEN>
+<TOKEN id="token-48-52" pos="word" morph="none" start_char="4583" end_char="4584">of</TOKEN>
+<TOKEN id="token-48-53" pos="word" morph="none" start_char="4586" end_char="4586">a</TOKEN>
+<TOKEN id="token-48-54" pos="word" morph="none" start_char="4588" end_char="4591">city</TOKEN>
+<TOKEN id="token-48-55" pos="punct" morph="none" start_char="4592" end_char="4592">,</TOKEN>
+<TOKEN id="token-48-56" pos="word" morph="none" start_char="4594" end_char="4599">people</TOKEN>
+<TOKEN id="token-48-57" pos="word" morph="none" start_char="4601" end_char="4603">who</TOKEN>
+<TOKEN id="token-48-58" pos="word" morph="none" start_char="4605" end_char="4608">care</TOKEN>
+<TOKEN id="token-48-59" pos="punct" morph="none" start_char="4609" end_char="4609">,</TOKEN>
+<TOKEN id="token-48-60" pos="word" morph="none" start_char="4611" end_char="4614">work</TOKEN>
+<TOKEN id="token-48-61" pos="word" morph="none" start_char="4616" end_char="4619">here</TOKEN>
+<TOKEN id="token-48-62" pos="unknown" morph="none" start_char="4621" end_char="4621">,</TOKEN>
+<TOKEN id="token-48-63" pos="word" morph="none" start_char="4623" end_char="4625">pay</TOKEN>
+<TOKEN id="token-48-64" pos="word" morph="none" start_char="4627" end_char="4629">the</TOKEN>
+<TOKEN id="token-48-65" pos="word" morph="none" start_char="4631" end_char="4634">city</TOKEN>
+<TOKEN id="token-48-66" pos="word" morph="none" start_char="4636" end_char="4640">taxes</TOKEN>
+<TOKEN id="token-48-67" pos="html_entity" morph="none" start_char="4642" end_char="4646">&amp;amp;</TOKEN>
+<TOKEN id="token-48-68" pos="word" morph="none" start_char="4648" end_char="4651">have</TOKEN>
+<TOKEN id="token-48-69" pos="word" morph="none" start_char="4653" end_char="4656">skin</TOKEN>
+<TOKEN id="token-48-70" pos="word" morph="none" start_char="4658" end_char="4659">in</TOKEN>
+<TOKEN id="token-48-71" pos="word" morph="none" start_char="4661" end_char="4663">the</TOKEN>
+<TOKEN id="token-48-72" pos="word" morph="none" start_char="4665" end_char="4668">game</TOKEN>
+<TOKEN id="token-48-73" pos="word" morph="none" start_char="4670" end_char="4671">as</TOKEN>
+<TOKEN id="token-48-74" pos="unknown" morph="none" start_char="4673" end_char="4692">homeowners....you're</TOKEN>
+<TOKEN id="token-48-75" pos="word" morph="none" start_char="4694" end_char="4697">left</TOKEN>
+<TOKEN id="token-48-76" pos="word" morph="none" start_char="4699" end_char="4702">with</TOKEN>
+<TOKEN id="token-48-77" pos="word" morph="none" start_char="4704" end_char="4711">slackers</TOKEN>
+<TOKEN id="token-48-78" pos="html_entity" morph="none" start_char="4713" end_char="4717">&amp;amp;</TOKEN>
+<TOKEN id="token-48-79" pos="word" morph="none" start_char="4719" end_char="4721">the</TOKEN>
+<TOKEN id="token-48-80" pos="word" morph="none" start_char="4723" end_char="4728">public</TOKEN>
+<TOKEN id="token-48-81" pos="word" morph="none" start_char="4730" end_char="4738">officials</TOKEN>
+<TOKEN id="token-48-82" pos="word" morph="none" start_char="4740" end_char="4742">who</TOKEN>
+<TOKEN id="token-48-83" pos="word" morph="none" start_char="4744" end_char="4747">have</TOKEN>
+<TOKEN id="token-48-84" pos="word" morph="none" start_char="4749" end_char="4752">done</TOKEN>
+<TOKEN id="token-48-85" pos="word" morph="none" start_char="4754" end_char="4757">very</TOKEN>
+<TOKEN id="token-48-86" pos="word" morph="none" start_char="4759" end_char="4764">little</TOKEN>
+<TOKEN id="token-48-87" pos="word" morph="none" start_char="4766" end_char="4768">but</TOKEN>
+<TOKEN id="token-48-88" pos="word" morph="none" start_char="4770" end_char="4775">pander</TOKEN>
+<TOKEN id="token-48-89" pos="word" morph="none" start_char="4777" end_char="4778">to</TOKEN>
+<TOKEN id="token-48-90" pos="word" morph="none" start_char="4780" end_char="4785">unions</TOKEN>
+<TOKEN id="token-48-91" pos="html_entity" morph="none" start_char="4787" end_char="4791">&amp;amp;</TOKEN>
+<TOKEN id="token-48-92" pos="word" morph="none" start_char="4793" end_char="4796">this</TOKEN>
+<TOKEN id="token-48-93" pos="word" morph="none" start_char="4798" end_char="4803">rabble</TOKEN>
+<TOKEN id="token-48-94" pos="word" morph="none" start_char="4805" end_char="4806">to</TOKEN>
+<TOKEN id="token-48-95" pos="word" morph="none" start_char="4808" end_char="4813">insure</TOKEN>
+<TOKEN id="token-48-96" pos="word" morph="none" start_char="4815" end_char="4819">their</TOKEN>
+<TOKEN id="token-48-97" pos="word" morph="none" start_char="4821" end_char="4823">own</TOKEN>
+</SEG>
+<SEG id="segment-49" start_char="4826" end_char="5049">
+<ORIGINAL_TEXT>political clout. The thriving businesses &amp;amp; good people deserve solid community policing and a mayor &amp;amp; city govt that will support these police officers who are truly the only thing between chaos &amp;amp; a quiet summer.</ORIGINAL_TEXT>
+<TOKEN id="token-49-0" pos="word" morph="none" start_char="4826" end_char="4834">political</TOKEN>
+<TOKEN id="token-49-1" pos="word" morph="none" start_char="4836" end_char="4840">clout</TOKEN>
+<TOKEN id="token-49-2" pos="punct" morph="none" start_char="4841" end_char="4841">.</TOKEN>
+<TOKEN id="token-49-3" pos="word" morph="none" start_char="4843" end_char="4845">The</TOKEN>
+<TOKEN id="token-49-4" pos="word" morph="none" start_char="4847" end_char="4854">thriving</TOKEN>
+<TOKEN id="token-49-5" pos="word" morph="none" start_char="4856" end_char="4865">businesses</TOKEN>
+<TOKEN id="token-49-6" pos="html_entity" morph="none" start_char="4867" end_char="4871">&amp;amp;</TOKEN>
+<TOKEN id="token-49-7" pos="word" morph="none" start_char="4873" end_char="4876">good</TOKEN>
+<TOKEN id="token-49-8" pos="word" morph="none" start_char="4878" end_char="4883">people</TOKEN>
+<TOKEN id="token-49-9" pos="word" morph="none" start_char="4885" end_char="4891">deserve</TOKEN>
+<TOKEN id="token-49-10" pos="word" morph="none" start_char="4893" end_char="4897">solid</TOKEN>
+<TOKEN id="token-49-11" pos="word" morph="none" start_char="4899" end_char="4907">community</TOKEN>
+<TOKEN id="token-49-12" pos="word" morph="none" start_char="4909" end_char="4916">policing</TOKEN>
+<TOKEN id="token-49-13" pos="word" morph="none" start_char="4918" end_char="4920">and</TOKEN>
+<TOKEN id="token-49-14" pos="word" morph="none" start_char="4922" end_char="4922">a</TOKEN>
+<TOKEN id="token-49-15" pos="word" morph="none" start_char="4924" end_char="4928">mayor</TOKEN>
+<TOKEN id="token-49-16" pos="html_entity" morph="none" start_char="4930" end_char="4934">&amp;amp;</TOKEN>
+<TOKEN id="token-49-17" pos="word" morph="none" start_char="4936" end_char="4939">city</TOKEN>
+<TOKEN id="token-49-18" pos="word" morph="none" start_char="4941" end_char="4944">govt</TOKEN>
+<TOKEN id="token-49-19" pos="word" morph="none" start_char="4946" end_char="4949">that</TOKEN>
+<TOKEN id="token-49-20" pos="word" morph="none" start_char="4951" end_char="4954">will</TOKEN>
+<TOKEN id="token-49-21" pos="word" morph="none" start_char="4956" end_char="4962">support</TOKEN>
+<TOKEN id="token-49-22" pos="word" morph="none" start_char="4964" end_char="4968">these</TOKEN>
+<TOKEN id="token-49-23" pos="word" morph="none" start_char="4970" end_char="4975">police</TOKEN>
+<TOKEN id="token-49-24" pos="word" morph="none" start_char="4977" end_char="4984">officers</TOKEN>
+<TOKEN id="token-49-25" pos="word" morph="none" start_char="4986" end_char="4988">who</TOKEN>
+<TOKEN id="token-49-26" pos="word" morph="none" start_char="4990" end_char="4992">are</TOKEN>
+<TOKEN id="token-49-27" pos="word" morph="none" start_char="4994" end_char="4998">truly</TOKEN>
+<TOKEN id="token-49-28" pos="word" morph="none" start_char="5000" end_char="5002">the</TOKEN>
+<TOKEN id="token-49-29" pos="word" morph="none" start_char="5004" end_char="5007">only</TOKEN>
+<TOKEN id="token-49-30" pos="word" morph="none" start_char="5009" end_char="5013">thing</TOKEN>
+<TOKEN id="token-49-31" pos="word" morph="none" start_char="5015" end_char="5021">between</TOKEN>
+<TOKEN id="token-49-32" pos="word" morph="none" start_char="5023" end_char="5027">chaos</TOKEN>
+<TOKEN id="token-49-33" pos="html_entity" morph="none" start_char="5029" end_char="5033">&amp;amp;</TOKEN>
+<TOKEN id="token-49-34" pos="word" morph="none" start_char="5035" end_char="5035">a</TOKEN>
+<TOKEN id="token-49-35" pos="word" morph="none" start_char="5037" end_char="5041">quiet</TOKEN>
+<TOKEN id="token-49-36" pos="word" morph="none" start_char="5043" end_char="5048">summer</TOKEN>
+<TOKEN id="token-49-37" pos="punct" morph="none" start_char="5049" end_char="5049">.</TOKEN>
+</SEG>
+<SEG id="segment-50" start_char="5051" end_char="5057">
+<ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-50-0" pos="unknown" morph="none" start_char="5051" end_char="5057">&lt;/post&gt;</TOKEN>
+</SEG>
+<SEG id="segment-51" start_char="5059" end_char="5129">
+<ORIGINAL_TEXT>&lt;post id="p13" author="cradleandshoot " datetime="2015-06-01T21:56:00"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-51-0" pos="unknown" morph="none" start_char="5059" end_char="5063">&lt;post</TOKEN>
+<TOKEN id="token-51-1" pos="unknown" morph="none" start_char="5065" end_char="5072">id="p13"</TOKEN>
+<TOKEN id="token-51-2" pos="unknown" morph="none" start_char="5074" end_char="5095">author="cradleandshoot</TOKEN>
+<TOKEN id="token-51-3" pos="unknown" morph="none" start_char="5097" end_char="5097">"</TOKEN>
+<TOKEN id="token-51-4" pos="unknown" morph="none" start_char="5099" end_char="5129">datetime="2015-06-01T21:56:00"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-52" start_char="5131" end_char="5691">
+<ORIGINAL_TEXT>I feel what you are telling us spin. The police in Baltimore are policing scared. It would appear they believe their own leadership has thrown them under the bus. While I don't have the pulse on what most of the citizens of Baltimore really feel, the vocal minority is getting the policing they asked for. Pro-active..... reactive you can't have it both ways, but we are getting a clearer picture of what reactive policing gets you. that would be a lot of dead people. &amp;lt;img src="./images/smilies/confusion/shrug.gif" alt=":confusion-shrug:" title="Shrug"&amp;gt;</ORIGINAL_TEXT>
+<TOKEN id="token-52-0" pos="word" morph="none" start_char="5131" end_char="5131">I</TOKEN>
+<TOKEN id="token-52-1" pos="word" morph="none" start_char="5133" end_char="5136">feel</TOKEN>
+<TOKEN id="token-52-2" pos="word" morph="none" start_char="5138" end_char="5141">what</TOKEN>
+<TOKEN id="token-52-3" pos="word" morph="none" start_char="5143" end_char="5145">you</TOKEN>
+<TOKEN id="token-52-4" pos="word" morph="none" start_char="5147" end_char="5149">are</TOKEN>
+<TOKEN id="token-52-5" pos="word" morph="none" start_char="5151" end_char="5157">telling</TOKEN>
+<TOKEN id="token-52-6" pos="word" morph="none" start_char="5159" end_char="5160">us</TOKEN>
+<TOKEN id="token-52-7" pos="word" morph="none" start_char="5162" end_char="5165">spin</TOKEN>
+<TOKEN id="token-52-8" pos="punct" morph="none" start_char="5166" end_char="5166">.</TOKEN>
+<TOKEN id="token-52-9" pos="word" morph="none" start_char="5168" end_char="5170">The</TOKEN>
+<TOKEN id="token-52-10" pos="word" morph="none" start_char="5172" end_char="5177">police</TOKEN>
+<TOKEN id="token-52-11" pos="word" morph="none" start_char="5179" end_char="5180">in</TOKEN>
+<TOKEN id="token-52-12" pos="word" morph="none" start_char="5182" end_char="5190">Baltimore</TOKEN>
+<TOKEN id="token-52-13" pos="word" morph="none" start_char="5192" end_char="5194">are</TOKEN>
+<TOKEN id="token-52-14" pos="word" morph="none" start_char="5196" end_char="5203">policing</TOKEN>
+<TOKEN id="token-52-15" pos="word" morph="none" start_char="5205" end_char="5210">scared</TOKEN>
+<TOKEN id="token-52-16" pos="punct" morph="none" start_char="5211" end_char="5211">.</TOKEN>
+<TOKEN id="token-52-17" pos="word" morph="none" start_char="5213" end_char="5214">It</TOKEN>
+<TOKEN id="token-52-18" pos="word" morph="none" start_char="5216" end_char="5220">would</TOKEN>
+<TOKEN id="token-52-19" pos="word" morph="none" start_char="5222" end_char="5227">appear</TOKEN>
+<TOKEN id="token-52-20" pos="word" morph="none" start_char="5229" end_char="5232">they</TOKEN>
+<TOKEN id="token-52-21" pos="word" morph="none" start_char="5234" end_char="5240">believe</TOKEN>
+<TOKEN id="token-52-22" pos="word" morph="none" start_char="5242" end_char="5246">their</TOKEN>
+<TOKEN id="token-52-23" pos="word" morph="none" start_char="5248" end_char="5250">own</TOKEN>
+<TOKEN id="token-52-24" pos="word" morph="none" start_char="5252" end_char="5261">leadership</TOKEN>
+<TOKEN id="token-52-25" pos="word" morph="none" start_char="5263" end_char="5265">has</TOKEN>
+<TOKEN id="token-52-26" pos="word" morph="none" start_char="5267" end_char="5272">thrown</TOKEN>
+<TOKEN id="token-52-27" pos="word" morph="none" start_char="5274" end_char="5277">them</TOKEN>
+<TOKEN id="token-52-28" pos="word" morph="none" start_char="5279" end_char="5283">under</TOKEN>
+<TOKEN id="token-52-29" pos="word" morph="none" start_char="5285" end_char="5287">the</TOKEN>
+<TOKEN id="token-52-30" pos="word" morph="none" start_char="5289" end_char="5291">bus</TOKEN>
+<TOKEN id="token-52-31" pos="punct" morph="none" start_char="5292" end_char="5292">.</TOKEN>
+<TOKEN id="token-52-32" pos="word" morph="none" start_char="5294" end_char="5298">While</TOKEN>
+<TOKEN id="token-52-33" pos="word" morph="none" start_char="5300" end_char="5300">I</TOKEN>
+<TOKEN id="token-52-34" pos="word" morph="none" start_char="5302" end_char="5304">don</TOKEN>
+<TOKEN id="token-52-35" pos="punct" morph="none" start_char="5305" end_char="5305">'</TOKEN>
+<TOKEN id="token-52-36" pos="word" morph="none" start_char="5306" end_char="5306">t</TOKEN>
+<TOKEN id="token-52-37" pos="word" morph="none" start_char="5308" end_char="5311">have</TOKEN>
+<TOKEN id="token-52-38" pos="word" morph="none" start_char="5313" end_char="5315">the</TOKEN>
+<TOKEN id="token-52-39" pos="word" morph="none" start_char="5317" end_char="5321">pulse</TOKEN>
+<TOKEN id="token-52-40" pos="word" morph="none" start_char="5323" end_char="5324">on</TOKEN>
+<TOKEN id="token-52-41" pos="word" morph="none" start_char="5326" end_char="5329">what</TOKEN>
+<TOKEN id="token-52-42" pos="word" morph="none" start_char="5331" end_char="5334">most</TOKEN>
+<TOKEN id="token-52-43" pos="word" morph="none" start_char="5336" end_char="5337">of</TOKEN>
+<TOKEN id="token-52-44" pos="word" morph="none" start_char="5339" end_char="5341">the</TOKEN>
+<TOKEN id="token-52-45" pos="word" morph="none" start_char="5343" end_char="5350">citizens</TOKEN>
+<TOKEN id="token-52-46" pos="word" morph="none" start_char="5352" end_char="5353">of</TOKEN>
+<TOKEN id="token-52-47" pos="word" morph="none" start_char="5355" end_char="5363">Baltimore</TOKEN>
+<TOKEN id="token-52-48" pos="word" morph="none" start_char="5365" end_char="5370">really</TOKEN>
+<TOKEN id="token-52-49" pos="word" morph="none" start_char="5372" end_char="5375">feel</TOKEN>
+<TOKEN id="token-52-50" pos="punct" morph="none" start_char="5376" end_char="5376">,</TOKEN>
+<TOKEN id="token-52-51" pos="word" morph="none" start_char="5378" end_char="5380">the</TOKEN>
+<TOKEN id="token-52-52" pos="word" morph="none" start_char="5382" end_char="5386">vocal</TOKEN>
+<TOKEN id="token-52-53" pos="word" morph="none" start_char="5388" end_char="5395">minority</TOKEN>
+<TOKEN id="token-52-54" pos="word" morph="none" start_char="5397" end_char="5398">is</TOKEN>
+<TOKEN id="token-52-55" pos="word" morph="none" start_char="5400" end_char="5406">getting</TOKEN>
+<TOKEN id="token-52-56" pos="word" morph="none" start_char="5408" end_char="5410">the</TOKEN>
+<TOKEN id="token-52-57" pos="word" morph="none" start_char="5412" end_char="5419">policing</TOKEN>
+<TOKEN id="token-52-58" pos="word" morph="none" start_char="5421" end_char="5424">they</TOKEN>
+<TOKEN id="token-52-59" pos="word" morph="none" start_char="5426" end_char="5430">asked</TOKEN>
+<TOKEN id="token-52-60" pos="word" morph="none" start_char="5432" end_char="5434">for</TOKEN>
+<TOKEN id="token-52-61" pos="punct" morph="none" start_char="5435" end_char="5435">.</TOKEN>
+<TOKEN id="token-52-62" pos="word" morph="none" start_char="5437" end_char="5439">Pro</TOKEN>
+<TOKEN id="token-52-63" pos="punct" morph="none" start_char="5440" end_char="5440">-</TOKEN>
+<TOKEN id="token-52-64" pos="word" morph="none" start_char="5441" end_char="5446">active</TOKEN>
+<TOKEN id="token-52-65" pos="punct" morph="none" start_char="5447" end_char="5451">.....</TOKEN>
+<TOKEN id="token-52-66" pos="word" morph="none" start_char="5453" end_char="5460">reactive</TOKEN>
+<TOKEN id="token-52-67" pos="word" morph="none" start_char="5462" end_char="5464">you</TOKEN>
+<TOKEN id="token-52-68" pos="word" morph="none" start_char="5466" end_char="5468">can</TOKEN>
+<TOKEN id="token-52-69" pos="punct" morph="none" start_char="5469" end_char="5469">'</TOKEN>
+<TOKEN id="token-52-70" pos="word" morph="none" start_char="5470" end_char="5470">t</TOKEN>
+<TOKEN id="token-52-71" pos="word" morph="none" start_char="5472" end_char="5475">have</TOKEN>
+<TOKEN id="token-52-72" pos="word" morph="none" start_char="5477" end_char="5478">it</TOKEN>
+<TOKEN id="token-52-73" pos="word" morph="none" start_char="5480" end_char="5483">both</TOKEN>
+<TOKEN id="token-52-74" pos="word" morph="none" start_char="5485" end_char="5488">ways</TOKEN>
+<TOKEN id="token-52-75" pos="punct" morph="none" start_char="5489" end_char="5489">,</TOKEN>
+<TOKEN id="token-52-76" pos="word" morph="none" start_char="5491" end_char="5493">but</TOKEN>
+<TOKEN id="token-52-77" pos="word" morph="none" start_char="5495" end_char="5496">we</TOKEN>
+<TOKEN id="token-52-78" pos="word" morph="none" start_char="5498" end_char="5500">are</TOKEN>
+<TOKEN id="token-52-79" pos="word" morph="none" start_char="5502" end_char="5508">getting</TOKEN>
+<TOKEN id="token-52-80" pos="word" morph="none" start_char="5510" end_char="5510">a</TOKEN>
+<TOKEN id="token-52-81" pos="word" morph="none" start_char="5512" end_char="5518">clearer</TOKEN>
+<TOKEN id="token-52-82" pos="word" morph="none" start_char="5520" end_char="5526">picture</TOKEN>
+<TOKEN id="token-52-83" pos="word" morph="none" start_char="5528" end_char="5529">of</TOKEN>
+<TOKEN id="token-52-84" pos="word" morph="none" start_char="5531" end_char="5534">what</TOKEN>
+<TOKEN id="token-52-85" pos="word" morph="none" start_char="5536" end_char="5543">reactive</TOKEN>
+<TOKEN id="token-52-86" pos="word" morph="none" start_char="5545" end_char="5552">policing</TOKEN>
+<TOKEN id="token-52-87" pos="word" morph="none" start_char="5554" end_char="5557">gets</TOKEN>
+<TOKEN id="token-52-88" pos="word" morph="none" start_char="5559" end_char="5561">you</TOKEN>
+<TOKEN id="token-52-89" pos="punct" morph="none" start_char="5562" end_char="5562">.</TOKEN>
+<TOKEN id="token-52-90" pos="word" morph="none" start_char="5564" end_char="5567">that</TOKEN>
+<TOKEN id="token-52-91" pos="word" morph="none" start_char="5569" end_char="5573">would</TOKEN>
+<TOKEN id="token-52-92" pos="word" morph="none" start_char="5575" end_char="5576">be</TOKEN>
+<TOKEN id="token-52-93" pos="word" morph="none" start_char="5578" end_char="5578">a</TOKEN>
+<TOKEN id="token-52-94" pos="word" morph="none" start_char="5580" end_char="5582">lot</TOKEN>
+<TOKEN id="token-52-95" pos="word" morph="none" start_char="5584" end_char="5585">of</TOKEN>
+<TOKEN id="token-52-96" pos="word" morph="none" start_char="5587" end_char="5590">dead</TOKEN>
+<TOKEN id="token-52-97" pos="word" morph="none" start_char="5592" end_char="5597">people</TOKEN>
+<TOKEN id="token-52-98" pos="punct" morph="none" start_char="5598" end_char="5598">.</TOKEN>
+<TOKEN id="token-52-99" pos="punct" morph="none" start_char="5600" end_char="5600">&amp;</TOKEN>
+<TOKEN id="token-52-100" pos="word" morph="none" start_char="5601" end_char="5602">lt</TOKEN>
+<TOKEN id="token-52-101" pos="punct" morph="none" start_char="5603" end_char="5603">;</TOKEN>
+<TOKEN id="token-52-102" pos="word" morph="none" start_char="5604" end_char="5606">img</TOKEN>
+<TOKEN id="token-52-103" pos="unknown" morph="none" start_char="5608" end_char="5649">src="./images/smilies/confusion/shrug.gif"</TOKEN>
+<TOKEN id="token-52-104" pos="unknown" morph="none" start_char="5651" end_char="5673">alt=":confusion-shrug:"</TOKEN>
+<TOKEN id="token-52-105" pos="unknown" morph="none" start_char="5675" end_char="5691">title="Shrug"&amp;gt;</TOKEN>
+</SEG>
+<SEG id="segment-53" start_char="5693" end_char="5699">
+<ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-53-0" pos="unknown" morph="none" start_char="5693" end_char="5699">&lt;/post&gt;</TOKEN>
+</SEG>
+<SEG id="segment-54" start_char="5701" end_char="5767">
+<ORIGINAL_TEXT>&lt;post id="p14" author="BeaverCreek" datetime="2015-06-01T22:18:00"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-54-0" pos="unknown" morph="none" start_char="5701" end_char="5705">&lt;post</TOKEN>
+<TOKEN id="token-54-1" pos="unknown" morph="none" start_char="5707" end_char="5714">id="p14"</TOKEN>
+<TOKEN id="token-54-2" pos="unknown" morph="none" start_char="5716" end_char="5735">author="BeaverCreek"</TOKEN>
+<TOKEN id="token-54-3" pos="unknown" morph="none" start_char="5737" end_char="5767">datetime="2015-06-01T22:18:00"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-55" start_char="5769" end_char="5799">
+<ORIGINAL_TEXT>&lt;quote orig_author="Andersen "&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-55-0" pos="unknown" morph="none" start_char="5769" end_char="5774">&lt;quote</TOKEN>
+<TOKEN id="token-55-1" pos="unknown" morph="none" start_char="5776" end_char="5796">orig_author="Andersen</TOKEN>
+<TOKEN id="token-55-2" pos="unknown" morph="none" start_char="5798" end_char="5799">"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-56" start_char="5801" end_char="5895">
+<ORIGINAL_TEXT>John Waters' ideas make as much if not more sense than anything else we've seen on this thread.</ORIGINAL_TEXT>
+<TOKEN id="token-56-0" pos="word" morph="none" start_char="5801" end_char="5804">John</TOKEN>
+<TOKEN id="token-56-1" pos="word" morph="none" start_char="5806" end_char="5811">Waters</TOKEN>
+<TOKEN id="token-56-2" pos="punct" morph="none" start_char="5812" end_char="5812">'</TOKEN>
+<TOKEN id="token-56-3" pos="word" morph="none" start_char="5814" end_char="5818">ideas</TOKEN>
+<TOKEN id="token-56-4" pos="word" morph="none" start_char="5820" end_char="5823">make</TOKEN>
+<TOKEN id="token-56-5" pos="word" morph="none" start_char="5825" end_char="5826">as</TOKEN>
+<TOKEN id="token-56-6" pos="word" morph="none" start_char="5828" end_char="5831">much</TOKEN>
+<TOKEN id="token-56-7" pos="word" morph="none" start_char="5833" end_char="5834">if</TOKEN>
+<TOKEN id="token-56-8" pos="word" morph="none" start_char="5836" end_char="5838">not</TOKEN>
+<TOKEN id="token-56-9" pos="word" morph="none" start_char="5840" end_char="5843">more</TOKEN>
+<TOKEN id="token-56-10" pos="word" morph="none" start_char="5845" end_char="5849">sense</TOKEN>
+<TOKEN id="token-56-11" pos="word" morph="none" start_char="5851" end_char="5854">than</TOKEN>
+<TOKEN id="token-56-12" pos="word" morph="none" start_char="5856" end_char="5863">anything</TOKEN>
+<TOKEN id="token-56-13" pos="word" morph="none" start_char="5865" end_char="5868">else</TOKEN>
+<TOKEN id="token-56-14" pos="word" morph="none" start_char="5870" end_char="5871">we</TOKEN>
+<TOKEN id="token-56-15" pos="punct" morph="none" start_char="5872" end_char="5872">'</TOKEN>
+<TOKEN id="token-56-16" pos="word" morph="none" start_char="5873" end_char="5874">ve</TOKEN>
+<TOKEN id="token-56-17" pos="word" morph="none" start_char="5876" end_char="5879">seen</TOKEN>
+<TOKEN id="token-56-18" pos="word" morph="none" start_char="5881" end_char="5882">on</TOKEN>
+<TOKEN id="token-56-19" pos="word" morph="none" start_char="5884" end_char="5887">this</TOKEN>
+<TOKEN id="token-56-20" pos="word" morph="none" start_char="5889" end_char="5894">thread</TOKEN>
+<TOKEN id="token-56-21" pos="punct" morph="none" start_char="5895" end_char="5895">.</TOKEN>
+</SEG>
+<SEG id="segment-57" start_char="5897" end_char="5904">
+<ORIGINAL_TEXT>&lt;/quote&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-57-0" pos="unknown" morph="none" start_char="5897" end_char="5904">&lt;/quote&gt;</TOKEN>
+</SEG>
+<SEG id="segment-58" start_char="5906" end_char="5999">
+<ORIGINAL_TEXT>I love these posts! &amp;lt;img src="./images/smilies/eusa/pray.gif" alt=":pray:" title="Pray"&amp;gt;</ORIGINAL_TEXT>
+<TOKEN id="token-58-0" pos="word" morph="none" start_char="5906" end_char="5906">I</TOKEN>
+<TOKEN id="token-58-1" pos="word" morph="none" start_char="5908" end_char="5911">love</TOKEN>
+<TOKEN id="token-58-2" pos="word" morph="none" start_char="5913" end_char="5917">these</TOKEN>
+<TOKEN id="token-58-3" pos="word" morph="none" start_char="5919" end_char="5923">posts</TOKEN>
+<TOKEN id="token-58-4" pos="punct" morph="none" start_char="5924" end_char="5924">!</TOKEN>
+<TOKEN id="token-58-5" pos="punct" morph="none" start_char="5926" end_char="5926">&amp;</TOKEN>
+<TOKEN id="token-58-6" pos="word" morph="none" start_char="5927" end_char="5928">lt</TOKEN>
+<TOKEN id="token-58-7" pos="punct" morph="none" start_char="5929" end_char="5929">;</TOKEN>
+<TOKEN id="token-58-8" pos="word" morph="none" start_char="5930" end_char="5932">img</TOKEN>
+<TOKEN id="token-58-9" pos="unknown" morph="none" start_char="5934" end_char="5969">src="./images/smilies/eusa/pray.gif"</TOKEN>
+<TOKEN id="token-58-10" pos="unknown" morph="none" start_char="5971" end_char="5982">alt=":pray:"</TOKEN>
+<TOKEN id="token-58-11" pos="unknown" morph="none" start_char="5984" end_char="5999">title="Pray"&amp;gt;</TOKEN>
+</SEG>
+<SEG id="segment-59" start_char="6002" end_char="6547">
+<ORIGINAL_TEXT>Waters' ideas remind me of what Nicolae Ceausescu might say, the self-proclaimed Genius of the Carpathians, erstwhile Communist leader of Romania, delusional to the point of not understanding when his own words were perfect satire...kind of like Water's ideas (such as they are). So....would John Waters like to be first in line to offer up his humble abode to a merry band of black crack-dealers for a night, or two? No? What's that you say John, a tad busy that week? &amp;lt;img src="./images/smilies/icon/lol.gif" alt=":lol:" title="Laughing"&amp;gt;</ORIGINAL_TEXT>
+<TOKEN id="token-59-0" pos="word" morph="none" start_char="6002" end_char="6007">Waters</TOKEN>
+<TOKEN id="token-59-1" pos="punct" morph="none" start_char="6008" end_char="6008">'</TOKEN>
+<TOKEN id="token-59-2" pos="word" morph="none" start_char="6010" end_char="6014">ideas</TOKEN>
+<TOKEN id="token-59-3" pos="word" morph="none" start_char="6016" end_char="6021">remind</TOKEN>
+<TOKEN id="token-59-4" pos="word" morph="none" start_char="6023" end_char="6024">me</TOKEN>
+<TOKEN id="token-59-5" pos="word" morph="none" start_char="6026" end_char="6027">of</TOKEN>
+<TOKEN id="token-59-6" pos="word" morph="none" start_char="6029" end_char="6032">what</TOKEN>
+<TOKEN id="token-59-7" pos="word" morph="none" start_char="6034" end_char="6040">Nicolae</TOKEN>
+<TOKEN id="token-59-8" pos="word" morph="none" start_char="6042" end_char="6050">Ceausescu</TOKEN>
+<TOKEN id="token-59-9" pos="word" morph="none" start_char="6052" end_char="6056">might</TOKEN>
+<TOKEN id="token-59-10" pos="word" morph="none" start_char="6058" end_char="6060">say</TOKEN>
+<TOKEN id="token-59-11" pos="punct" morph="none" start_char="6061" end_char="6061">,</TOKEN>
+<TOKEN id="token-59-12" pos="word" morph="none" start_char="6063" end_char="6065">the</TOKEN>
+<TOKEN id="token-59-13" pos="word" morph="none" start_char="6067" end_char="6070">self</TOKEN>
+<TOKEN id="token-59-14" pos="punct" morph="none" start_char="6071" end_char="6071">-</TOKEN>
+<TOKEN id="token-59-15" pos="word" morph="none" start_char="6072" end_char="6081">proclaimed</TOKEN>
+<TOKEN id="token-59-16" pos="word" morph="none" start_char="6083" end_char="6088">Genius</TOKEN>
+<TOKEN id="token-59-17" pos="word" morph="none" start_char="6090" end_char="6091">of</TOKEN>
+<TOKEN id="token-59-18" pos="word" morph="none" start_char="6093" end_char="6095">the</TOKEN>
+<TOKEN id="token-59-19" pos="word" morph="none" start_char="6097" end_char="6107">Carpathians</TOKEN>
+<TOKEN id="token-59-20" pos="punct" morph="none" start_char="6108" end_char="6108">,</TOKEN>
+<TOKEN id="token-59-21" pos="word" morph="none" start_char="6110" end_char="6118">erstwhile</TOKEN>
+<TOKEN id="token-59-22" pos="word" morph="none" start_char="6120" end_char="6128">Communist</TOKEN>
+<TOKEN id="token-59-23" pos="word" morph="none" start_char="6130" end_char="6135">leader</TOKEN>
+<TOKEN id="token-59-24" pos="word" morph="none" start_char="6137" end_char="6138">of</TOKEN>
+<TOKEN id="token-59-25" pos="word" morph="none" start_char="6140" end_char="6146">Romania</TOKEN>
+<TOKEN id="token-59-26" pos="punct" morph="none" start_char="6147" end_char="6147">,</TOKEN>
+<TOKEN id="token-59-27" pos="word" morph="none" start_char="6149" end_char="6158">delusional</TOKEN>
+<TOKEN id="token-59-28" pos="word" morph="none" start_char="6160" end_char="6161">to</TOKEN>
+<TOKEN id="token-59-29" pos="word" morph="none" start_char="6163" end_char="6165">the</TOKEN>
+<TOKEN id="token-59-30" pos="word" morph="none" start_char="6167" end_char="6171">point</TOKEN>
+<TOKEN id="token-59-31" pos="word" morph="none" start_char="6173" end_char="6174">of</TOKEN>
+<TOKEN id="token-59-32" pos="word" morph="none" start_char="6176" end_char="6178">not</TOKEN>
+<TOKEN id="token-59-33" pos="word" morph="none" start_char="6180" end_char="6192">understanding</TOKEN>
+<TOKEN id="token-59-34" pos="word" morph="none" start_char="6194" end_char="6197">when</TOKEN>
+<TOKEN id="token-59-35" pos="word" morph="none" start_char="6199" end_char="6201">his</TOKEN>
+<TOKEN id="token-59-36" pos="word" morph="none" start_char="6203" end_char="6205">own</TOKEN>
+<TOKEN id="token-59-37" pos="word" morph="none" start_char="6207" end_char="6211">words</TOKEN>
+<TOKEN id="token-59-38" pos="word" morph="none" start_char="6213" end_char="6216">were</TOKEN>
+<TOKEN id="token-59-39" pos="word" morph="none" start_char="6218" end_char="6224">perfect</TOKEN>
+<TOKEN id="token-59-40" pos="word" morph="none" start_char="6226" end_char="6231">satire</TOKEN>
+<TOKEN id="token-59-41" pos="punct" morph="none" start_char="6232" end_char="6234">...</TOKEN>
+<TOKEN id="token-59-42" pos="word" morph="none" start_char="6235" end_char="6238">kind</TOKEN>
+<TOKEN id="token-59-43" pos="word" morph="none" start_char="6240" end_char="6241">of</TOKEN>
+<TOKEN id="token-59-44" pos="word" morph="none" start_char="6243" end_char="6246">like</TOKEN>
+<TOKEN id="token-59-45" pos="word" morph="none" start_char="6248" end_char="6252">Water</TOKEN>
+<TOKEN id="token-59-46" pos="punct" morph="none" start_char="6253" end_char="6253">'</TOKEN>
+<TOKEN id="token-59-47" pos="word" morph="none" start_char="6254" end_char="6254">s</TOKEN>
+<TOKEN id="token-59-48" pos="word" morph="none" start_char="6256" end_char="6260">ideas</TOKEN>
+<TOKEN id="token-59-49" pos="punct" morph="none" start_char="6262" end_char="6262">(</TOKEN>
+<TOKEN id="token-59-50" pos="word" morph="none" start_char="6263" end_char="6266">such</TOKEN>
+<TOKEN id="token-59-51" pos="word" morph="none" start_char="6268" end_char="6269">as</TOKEN>
+<TOKEN id="token-59-52" pos="word" morph="none" start_char="6271" end_char="6274">they</TOKEN>
+<TOKEN id="token-59-53" pos="word" morph="none" start_char="6276" end_char="6278">are</TOKEN>
+<TOKEN id="token-59-54" pos="punct" morph="none" start_char="6279" end_char="6280">).</TOKEN>
+<TOKEN id="token-59-55" pos="word" morph="none" start_char="6282" end_char="6283">So</TOKEN>
+<TOKEN id="token-59-56" pos="punct" morph="none" start_char="6284" end_char="6287">....</TOKEN>
+<TOKEN id="token-59-57" pos="word" morph="none" start_char="6288" end_char="6292">would</TOKEN>
+<TOKEN id="token-59-58" pos="word" morph="none" start_char="6294" end_char="6297">John</TOKEN>
+<TOKEN id="token-59-59" pos="word" morph="none" start_char="6299" end_char="6304">Waters</TOKEN>
+<TOKEN id="token-59-60" pos="word" morph="none" start_char="6306" end_char="6309">like</TOKEN>
+<TOKEN id="token-59-61" pos="word" morph="none" start_char="6311" end_char="6312">to</TOKEN>
+<TOKEN id="token-59-62" pos="word" morph="none" start_char="6314" end_char="6315">be</TOKEN>
+<TOKEN id="token-59-63" pos="word" morph="none" start_char="6317" end_char="6321">first</TOKEN>
+<TOKEN id="token-59-64" pos="word" morph="none" start_char="6323" end_char="6324">in</TOKEN>
+<TOKEN id="token-59-65" pos="word" morph="none" start_char="6326" end_char="6329">line</TOKEN>
+<TOKEN id="token-59-66" pos="word" morph="none" start_char="6331" end_char="6332">to</TOKEN>
+<TOKEN id="token-59-67" pos="word" morph="none" start_char="6334" end_char="6338">offer</TOKEN>
+<TOKEN id="token-59-68" pos="word" morph="none" start_char="6340" end_char="6341">up</TOKEN>
+<TOKEN id="token-59-69" pos="word" morph="none" start_char="6343" end_char="6345">his</TOKEN>
+<TOKEN id="token-59-70" pos="word" morph="none" start_char="6347" end_char="6352">humble</TOKEN>
+<TOKEN id="token-59-71" pos="word" morph="none" start_char="6354" end_char="6358">abode</TOKEN>
+<TOKEN id="token-59-72" pos="word" morph="none" start_char="6360" end_char="6361">to</TOKEN>
+<TOKEN id="token-59-73" pos="word" morph="none" start_char="6363" end_char="6363">a</TOKEN>
+<TOKEN id="token-59-74" pos="word" morph="none" start_char="6365" end_char="6369">merry</TOKEN>
+<TOKEN id="token-59-75" pos="word" morph="none" start_char="6371" end_char="6374">band</TOKEN>
+<TOKEN id="token-59-76" pos="word" morph="none" start_char="6376" end_char="6377">of</TOKEN>
+<TOKEN id="token-59-77" pos="word" morph="none" start_char="6379" end_char="6383">black</TOKEN>
+<TOKEN id="token-59-78" pos="word" morph="none" start_char="6385" end_char="6389">crack</TOKEN>
+<TOKEN id="token-59-79" pos="punct" morph="none" start_char="6390" end_char="6390">-</TOKEN>
+<TOKEN id="token-59-80" pos="word" morph="none" start_char="6391" end_char="6397">dealers</TOKEN>
+<TOKEN id="token-59-81" pos="word" morph="none" start_char="6399" end_char="6401">for</TOKEN>
+<TOKEN id="token-59-82" pos="word" morph="none" start_char="6403" end_char="6403">a</TOKEN>
+<TOKEN id="token-59-83" pos="word" morph="none" start_char="6405" end_char="6409">night</TOKEN>
+<TOKEN id="token-59-84" pos="punct" morph="none" start_char="6410" end_char="6410">,</TOKEN>
+<TOKEN id="token-59-85" pos="word" morph="none" start_char="6412" end_char="6413">or</TOKEN>
+<TOKEN id="token-59-86" pos="word" morph="none" start_char="6415" end_char="6417">two</TOKEN>
+<TOKEN id="token-59-87" pos="punct" morph="none" start_char="6418" end_char="6418">?</TOKEN>
+<TOKEN id="token-59-88" pos="word" morph="none" start_char="6420" end_char="6421">No</TOKEN>
+<TOKEN id="token-59-89" pos="punct" morph="none" start_char="6422" end_char="6422">?</TOKEN>
+<TOKEN id="token-59-90" pos="word" morph="none" start_char="6424" end_char="6427">What</TOKEN>
+<TOKEN id="token-59-91" pos="punct" morph="none" start_char="6428" end_char="6428">'</TOKEN>
+<TOKEN id="token-59-92" pos="word" morph="none" start_char="6429" end_char="6429">s</TOKEN>
+<TOKEN id="token-59-93" pos="word" morph="none" start_char="6431" end_char="6434">that</TOKEN>
+<TOKEN id="token-59-94" pos="word" morph="none" start_char="6436" end_char="6438">you</TOKEN>
+<TOKEN id="token-59-95" pos="word" morph="none" start_char="6440" end_char="6442">say</TOKEN>
+<TOKEN id="token-59-96" pos="word" morph="none" start_char="6444" end_char="6447">John</TOKEN>
+<TOKEN id="token-59-97" pos="punct" morph="none" start_char="6448" end_char="6448">,</TOKEN>
+<TOKEN id="token-59-98" pos="word" morph="none" start_char="6450" end_char="6450">a</TOKEN>
+<TOKEN id="token-59-99" pos="word" morph="none" start_char="6452" end_char="6454">tad</TOKEN>
+<TOKEN id="token-59-100" pos="word" morph="none" start_char="6456" end_char="6459">busy</TOKEN>
+<TOKEN id="token-59-101" pos="word" morph="none" start_char="6461" end_char="6464">that</TOKEN>
+<TOKEN id="token-59-102" pos="word" morph="none" start_char="6466" end_char="6469">week</TOKEN>
+<TOKEN id="token-59-103" pos="punct" morph="none" start_char="6470" end_char="6470">?</TOKEN>
+<TOKEN id="token-59-104" pos="punct" morph="none" start_char="6472" end_char="6472">&amp;</TOKEN>
+<TOKEN id="token-59-105" pos="word" morph="none" start_char="6473" end_char="6474">lt</TOKEN>
+<TOKEN id="token-59-106" pos="punct" morph="none" start_char="6475" end_char="6475">;</TOKEN>
+<TOKEN id="token-59-107" pos="word" morph="none" start_char="6476" end_char="6478">img</TOKEN>
+<TOKEN id="token-59-108" pos="unknown" morph="none" start_char="6480" end_char="6514">src="./images/smilies/icon/lol.gif"</TOKEN>
+<TOKEN id="token-59-109" pos="unknown" morph="none" start_char="6516" end_char="6526">alt=":lol:"</TOKEN>
+<TOKEN id="token-59-110" pos="unknown" morph="none" start_char="6528" end_char="6547">title="Laughing"&amp;gt;</TOKEN>
+</SEG>
+<SEG id="segment-60" start_char="6550" end_char="7222">
+<ORIGINAL_TEXT>Old Nicolae had a way of inverting reality (which is easy in a totalitarian state!): he proclaimed Nicu, his aggressively alcoholic, womanizing, barbaric son, to be a "scientist of international reputation" and alleged that he had published several volumes on nuclear physics, proving to Romania once and for all that studying hard the state demanded will get you nowhere unless you got connections. Now, we know that John Waters can say whatever he wants, but he definitely won't be offering his home up to a few gang bangers for that once-a-week sleepover he so sincerely advocates as the cure. &amp;lt;img src="./images/smilies/icon/lol.gif" alt=":lol:" title="Laughing"&amp;gt;</ORIGINAL_TEXT>
+<TOKEN id="token-60-0" pos="word" morph="none" start_char="6550" end_char="6552">Old</TOKEN>
+<TOKEN id="token-60-1" pos="word" morph="none" start_char="6554" end_char="6560">Nicolae</TOKEN>
+<TOKEN id="token-60-2" pos="word" morph="none" start_char="6562" end_char="6564">had</TOKEN>
+<TOKEN id="token-60-3" pos="word" morph="none" start_char="6566" end_char="6566">a</TOKEN>
+<TOKEN id="token-60-4" pos="word" morph="none" start_char="6568" end_char="6570">way</TOKEN>
+<TOKEN id="token-60-5" pos="word" morph="none" start_char="6572" end_char="6573">of</TOKEN>
+<TOKEN id="token-60-6" pos="word" morph="none" start_char="6575" end_char="6583">inverting</TOKEN>
+<TOKEN id="token-60-7" pos="word" morph="none" start_char="6585" end_char="6591">reality</TOKEN>
+<TOKEN id="token-60-8" pos="punct" morph="none" start_char="6593" end_char="6593">(</TOKEN>
+<TOKEN id="token-60-9" pos="word" morph="none" start_char="6594" end_char="6598">which</TOKEN>
+<TOKEN id="token-60-10" pos="word" morph="none" start_char="6600" end_char="6601">is</TOKEN>
+<TOKEN id="token-60-11" pos="word" morph="none" start_char="6603" end_char="6606">easy</TOKEN>
+<TOKEN id="token-60-12" pos="word" morph="none" start_char="6608" end_char="6609">in</TOKEN>
+<TOKEN id="token-60-13" pos="word" morph="none" start_char="6611" end_char="6611">a</TOKEN>
+<TOKEN id="token-60-14" pos="word" morph="none" start_char="6613" end_char="6624">totalitarian</TOKEN>
+<TOKEN id="token-60-15" pos="word" morph="none" start_char="6626" end_char="6630">state</TOKEN>
+<TOKEN id="token-60-16" pos="punct" morph="none" start_char="6631" end_char="6633">!):</TOKEN>
+<TOKEN id="token-60-17" pos="word" morph="none" start_char="6635" end_char="6636">he</TOKEN>
+<TOKEN id="token-60-18" pos="word" morph="none" start_char="6638" end_char="6647">proclaimed</TOKEN>
+<TOKEN id="token-60-19" pos="word" morph="none" start_char="6649" end_char="6652">Nicu</TOKEN>
+<TOKEN id="token-60-20" pos="punct" morph="none" start_char="6653" end_char="6653">,</TOKEN>
+<TOKEN id="token-60-21" pos="word" morph="none" start_char="6655" end_char="6657">his</TOKEN>
+<TOKEN id="token-60-22" pos="word" morph="none" start_char="6659" end_char="6670">aggressively</TOKEN>
+<TOKEN id="token-60-23" pos="word" morph="none" start_char="6672" end_char="6680">alcoholic</TOKEN>
+<TOKEN id="token-60-24" pos="punct" morph="none" start_char="6681" end_char="6681">,</TOKEN>
+<TOKEN id="token-60-25" pos="word" morph="none" start_char="6683" end_char="6692">womanizing</TOKEN>
+<TOKEN id="token-60-26" pos="punct" morph="none" start_char="6693" end_char="6693">,</TOKEN>
+<TOKEN id="token-60-27" pos="word" morph="none" start_char="6695" end_char="6702">barbaric</TOKEN>
+<TOKEN id="token-60-28" pos="word" morph="none" start_char="6704" end_char="6706">son</TOKEN>
+<TOKEN id="token-60-29" pos="punct" morph="none" start_char="6707" end_char="6707">,</TOKEN>
+<TOKEN id="token-60-30" pos="word" morph="none" start_char="6709" end_char="6710">to</TOKEN>
+<TOKEN id="token-60-31" pos="word" morph="none" start_char="6712" end_char="6713">be</TOKEN>
+<TOKEN id="token-60-32" pos="word" morph="none" start_char="6715" end_char="6715">a</TOKEN>
+<TOKEN id="token-60-33" pos="punct" morph="none" start_char="6717" end_char="6717">"</TOKEN>
+<TOKEN id="token-60-34" pos="word" morph="none" start_char="6718" end_char="6726">scientist</TOKEN>
+<TOKEN id="token-60-35" pos="word" morph="none" start_char="6728" end_char="6729">of</TOKEN>
+<TOKEN id="token-60-36" pos="word" morph="none" start_char="6731" end_char="6743">international</TOKEN>
+<TOKEN id="token-60-37" pos="word" morph="none" start_char="6745" end_char="6754">reputation</TOKEN>
+<TOKEN id="token-60-38" pos="punct" morph="none" start_char="6755" end_char="6755">"</TOKEN>
+<TOKEN id="token-60-39" pos="word" morph="none" start_char="6757" end_char="6759">and</TOKEN>
+<TOKEN id="token-60-40" pos="word" morph="none" start_char="6761" end_char="6767">alleged</TOKEN>
+<TOKEN id="token-60-41" pos="word" morph="none" start_char="6769" end_char="6772">that</TOKEN>
+<TOKEN id="token-60-42" pos="word" morph="none" start_char="6774" end_char="6775">he</TOKEN>
+<TOKEN id="token-60-43" pos="word" morph="none" start_char="6777" end_char="6779">had</TOKEN>
+<TOKEN id="token-60-44" pos="word" morph="none" start_char="6781" end_char="6789">published</TOKEN>
+<TOKEN id="token-60-45" pos="word" morph="none" start_char="6791" end_char="6797">several</TOKEN>
+<TOKEN id="token-60-46" pos="word" morph="none" start_char="6799" end_char="6805">volumes</TOKEN>
+<TOKEN id="token-60-47" pos="word" morph="none" start_char="6807" end_char="6808">on</TOKEN>
+<TOKEN id="token-60-48" pos="word" morph="none" start_char="6810" end_char="6816">nuclear</TOKEN>
+<TOKEN id="token-60-49" pos="word" morph="none" start_char="6818" end_char="6824">physics</TOKEN>
+<TOKEN id="token-60-50" pos="punct" morph="none" start_char="6825" end_char="6825">,</TOKEN>
+<TOKEN id="token-60-51" pos="word" morph="none" start_char="6827" end_char="6833">proving</TOKEN>
+<TOKEN id="token-60-52" pos="word" morph="none" start_char="6835" end_char="6836">to</TOKEN>
+<TOKEN id="token-60-53" pos="word" morph="none" start_char="6838" end_char="6844">Romania</TOKEN>
+<TOKEN id="token-60-54" pos="word" morph="none" start_char="6846" end_char="6849">once</TOKEN>
+<TOKEN id="token-60-55" pos="word" morph="none" start_char="6851" end_char="6853">and</TOKEN>
+<TOKEN id="token-60-56" pos="word" morph="none" start_char="6855" end_char="6857">for</TOKEN>
+<TOKEN id="token-60-57" pos="word" morph="none" start_char="6859" end_char="6861">all</TOKEN>
+<TOKEN id="token-60-58" pos="word" morph="none" start_char="6863" end_char="6866">that</TOKEN>
+<TOKEN id="token-60-59" pos="word" morph="none" start_char="6868" end_char="6875">studying</TOKEN>
+<TOKEN id="token-60-60" pos="word" morph="none" start_char="6877" end_char="6880">hard</TOKEN>
+<TOKEN id="token-60-61" pos="word" morph="none" start_char="6882" end_char="6884">the</TOKEN>
+<TOKEN id="token-60-62" pos="word" morph="none" start_char="6886" end_char="6890">state</TOKEN>
+<TOKEN id="token-60-63" pos="word" morph="none" start_char="6892" end_char="6899">demanded</TOKEN>
+<TOKEN id="token-60-64" pos="word" morph="none" start_char="6901" end_char="6904">will</TOKEN>
+<TOKEN id="token-60-65" pos="word" morph="none" start_char="6906" end_char="6908">get</TOKEN>
+<TOKEN id="token-60-66" pos="word" morph="none" start_char="6910" end_char="6912">you</TOKEN>
+<TOKEN id="token-60-67" pos="word" morph="none" start_char="6914" end_char="6920">nowhere</TOKEN>
+<TOKEN id="token-60-68" pos="word" morph="none" start_char="6922" end_char="6927">unless</TOKEN>
+<TOKEN id="token-60-69" pos="word" morph="none" start_char="6929" end_char="6931">you</TOKEN>
+<TOKEN id="token-60-70" pos="word" morph="none" start_char="6933" end_char="6935">got</TOKEN>
+<TOKEN id="token-60-71" pos="word" morph="none" start_char="6937" end_char="6947">connections</TOKEN>
+<TOKEN id="token-60-72" pos="punct" morph="none" start_char="6948" end_char="6948">.</TOKEN>
+<TOKEN id="token-60-73" pos="word" morph="none" start_char="6950" end_char="6952">Now</TOKEN>
+<TOKEN id="token-60-74" pos="punct" morph="none" start_char="6953" end_char="6953">,</TOKEN>
+<TOKEN id="token-60-75" pos="word" morph="none" start_char="6955" end_char="6956">we</TOKEN>
+<TOKEN id="token-60-76" pos="word" morph="none" start_char="6958" end_char="6961">know</TOKEN>
+<TOKEN id="token-60-77" pos="word" morph="none" start_char="6963" end_char="6966">that</TOKEN>
+<TOKEN id="token-60-78" pos="word" morph="none" start_char="6968" end_char="6971">John</TOKEN>
+<TOKEN id="token-60-79" pos="word" morph="none" start_char="6973" end_char="6978">Waters</TOKEN>
+<TOKEN id="token-60-80" pos="word" morph="none" start_char="6980" end_char="6982">can</TOKEN>
+<TOKEN id="token-60-81" pos="word" morph="none" start_char="6984" end_char="6986">say</TOKEN>
+<TOKEN id="token-60-82" pos="word" morph="none" start_char="6988" end_char="6995">whatever</TOKEN>
+<TOKEN id="token-60-83" pos="word" morph="none" start_char="6997" end_char="6998">he</TOKEN>
+<TOKEN id="token-60-84" pos="word" morph="none" start_char="7000" end_char="7004">wants</TOKEN>
+<TOKEN id="token-60-85" pos="punct" morph="none" start_char="7005" end_char="7005">,</TOKEN>
+<TOKEN id="token-60-86" pos="word" morph="none" start_char="7007" end_char="7009">but</TOKEN>
+<TOKEN id="token-60-87" pos="word" morph="none" start_char="7011" end_char="7012">he</TOKEN>
+<TOKEN id="token-60-88" pos="word" morph="none" start_char="7014" end_char="7023">definitely</TOKEN>
+<TOKEN id="token-60-89" pos="word" morph="none" start_char="7025" end_char="7027">won</TOKEN>
+<TOKEN id="token-60-90" pos="punct" morph="none" start_char="7028" end_char="7028">'</TOKEN>
+<TOKEN id="token-60-91" pos="word" morph="none" start_char="7029" end_char="7029">t</TOKEN>
+<TOKEN id="token-60-92" pos="word" morph="none" start_char="7031" end_char="7032">be</TOKEN>
+<TOKEN id="token-60-93" pos="word" morph="none" start_char="7034" end_char="7041">offering</TOKEN>
+<TOKEN id="token-60-94" pos="word" morph="none" start_char="7043" end_char="7045">his</TOKEN>
+<TOKEN id="token-60-95" pos="word" morph="none" start_char="7047" end_char="7050">home</TOKEN>
+<TOKEN id="token-60-96" pos="word" morph="none" start_char="7052" end_char="7053">up</TOKEN>
+<TOKEN id="token-60-97" pos="word" morph="none" start_char="7055" end_char="7056">to</TOKEN>
+<TOKEN id="token-60-98" pos="word" morph="none" start_char="7058" end_char="7058">a</TOKEN>
+<TOKEN id="token-60-99" pos="word" morph="none" start_char="7060" end_char="7062">few</TOKEN>
+<TOKEN id="token-60-100" pos="word" morph="none" start_char="7064" end_char="7067">gang</TOKEN>
+<TOKEN id="token-60-101" pos="word" morph="none" start_char="7069" end_char="7075">bangers</TOKEN>
+<TOKEN id="token-60-102" pos="word" morph="none" start_char="7077" end_char="7079">for</TOKEN>
+<TOKEN id="token-60-103" pos="word" morph="none" start_char="7081" end_char="7084">that</TOKEN>
+<TOKEN id="token-60-104" pos="unknown" morph="none" start_char="7086" end_char="7096">once-a-week</TOKEN>
+<TOKEN id="token-60-105" pos="word" morph="none" start_char="7098" end_char="7106">sleepover</TOKEN>
+<TOKEN id="token-60-106" pos="word" morph="none" start_char="7108" end_char="7109">he</TOKEN>
+<TOKEN id="token-60-107" pos="word" morph="none" start_char="7111" end_char="7112">so</TOKEN>
+<TOKEN id="token-60-108" pos="word" morph="none" start_char="7114" end_char="7122">sincerely</TOKEN>
+<TOKEN id="token-60-109" pos="word" morph="none" start_char="7124" end_char="7132">advocates</TOKEN>
+<TOKEN id="token-60-110" pos="word" morph="none" start_char="7134" end_char="7135">as</TOKEN>
+<TOKEN id="token-60-111" pos="word" morph="none" start_char="7137" end_char="7139">the</TOKEN>
+<TOKEN id="token-60-112" pos="word" morph="none" start_char="7141" end_char="7144">cure</TOKEN>
+<TOKEN id="token-60-113" pos="punct" morph="none" start_char="7145" end_char="7145">.</TOKEN>
+<TOKEN id="token-60-114" pos="punct" morph="none" start_char="7147" end_char="7147">&amp;</TOKEN>
+<TOKEN id="token-60-115" pos="word" morph="none" start_char="7148" end_char="7149">lt</TOKEN>
+<TOKEN id="token-60-116" pos="punct" morph="none" start_char="7150" end_char="7150">;</TOKEN>
+<TOKEN id="token-60-117" pos="word" morph="none" start_char="7151" end_char="7153">img</TOKEN>
+<TOKEN id="token-60-118" pos="unknown" morph="none" start_char="7155" end_char="7189">src="./images/smilies/icon/lol.gif"</TOKEN>
+<TOKEN id="token-60-119" pos="unknown" morph="none" start_char="7191" end_char="7201">alt=":lol:"</TOKEN>
+<TOKEN id="token-60-120" pos="unknown" morph="none" start_char="7203" end_char="7222">title="Laughing"&amp;gt;</TOKEN>
+</SEG>
+<SEG id="segment-61" start_char="7225" end_char="7507">
+<ORIGINAL_TEXT>One thing you can rely upon in this most unreliable universe is the liberal elitist mantra of what is good for thee may not be so good for me. If one is tempted to talk the liberal talk (which seems so easy in this day and age), perhaps it is best to walk the liberal talk first, no?</ORIGINAL_TEXT>
+<TOKEN id="token-61-0" pos="word" morph="none" start_char="7225" end_char="7227">One</TOKEN>
+<TOKEN id="token-61-1" pos="word" morph="none" start_char="7229" end_char="7233">thing</TOKEN>
+<TOKEN id="token-61-2" pos="word" morph="none" start_char="7235" end_char="7237">you</TOKEN>
+<TOKEN id="token-61-3" pos="word" morph="none" start_char="7239" end_char="7241">can</TOKEN>
+<TOKEN id="token-61-4" pos="word" morph="none" start_char="7243" end_char="7246">rely</TOKEN>
+<TOKEN id="token-61-5" pos="word" morph="none" start_char="7248" end_char="7251">upon</TOKEN>
+<TOKEN id="token-61-6" pos="word" morph="none" start_char="7253" end_char="7254">in</TOKEN>
+<TOKEN id="token-61-7" pos="word" morph="none" start_char="7256" end_char="7259">this</TOKEN>
+<TOKEN id="token-61-8" pos="word" morph="none" start_char="7261" end_char="7264">most</TOKEN>
+<TOKEN id="token-61-9" pos="word" morph="none" start_char="7266" end_char="7275">unreliable</TOKEN>
+<TOKEN id="token-61-10" pos="word" morph="none" start_char="7277" end_char="7284">universe</TOKEN>
+<TOKEN id="token-61-11" pos="word" morph="none" start_char="7286" end_char="7287">is</TOKEN>
+<TOKEN id="token-61-12" pos="word" morph="none" start_char="7289" end_char="7291">the</TOKEN>
+<TOKEN id="token-61-13" pos="word" morph="none" start_char="7293" end_char="7299">liberal</TOKEN>
+<TOKEN id="token-61-14" pos="word" morph="none" start_char="7301" end_char="7307">elitist</TOKEN>
+<TOKEN id="token-61-15" pos="word" morph="none" start_char="7309" end_char="7314">mantra</TOKEN>
+<TOKEN id="token-61-16" pos="word" morph="none" start_char="7316" end_char="7317">of</TOKEN>
+<TOKEN id="token-61-17" pos="word" morph="none" start_char="7319" end_char="7322">what</TOKEN>
+<TOKEN id="token-61-18" pos="word" morph="none" start_char="7324" end_char="7325">is</TOKEN>
+<TOKEN id="token-61-19" pos="word" morph="none" start_char="7327" end_char="7330">good</TOKEN>
+<TOKEN id="token-61-20" pos="word" morph="none" start_char="7332" end_char="7334">for</TOKEN>
+<TOKEN id="token-61-21" pos="word" morph="none" start_char="7336" end_char="7339">thee</TOKEN>
+<TOKEN id="token-61-22" pos="word" morph="none" start_char="7341" end_char="7343">may</TOKEN>
+<TOKEN id="token-61-23" pos="word" morph="none" start_char="7345" end_char="7347">not</TOKEN>
+<TOKEN id="token-61-24" pos="word" morph="none" start_char="7349" end_char="7350">be</TOKEN>
+<TOKEN id="token-61-25" pos="word" morph="none" start_char="7352" end_char="7353">so</TOKEN>
+<TOKEN id="token-61-26" pos="word" morph="none" start_char="7355" end_char="7358">good</TOKEN>
+<TOKEN id="token-61-27" pos="word" morph="none" start_char="7360" end_char="7362">for</TOKEN>
+<TOKEN id="token-61-28" pos="word" morph="none" start_char="7364" end_char="7365">me</TOKEN>
+<TOKEN id="token-61-29" pos="punct" morph="none" start_char="7366" end_char="7366">.</TOKEN>
+<TOKEN id="token-61-30" pos="word" morph="none" start_char="7368" end_char="7369">If</TOKEN>
+<TOKEN id="token-61-31" pos="word" morph="none" start_char="7371" end_char="7373">one</TOKEN>
+<TOKEN id="token-61-32" pos="word" morph="none" start_char="7375" end_char="7376">is</TOKEN>
+<TOKEN id="token-61-33" pos="word" morph="none" start_char="7378" end_char="7384">tempted</TOKEN>
+<TOKEN id="token-61-34" pos="word" morph="none" start_char="7386" end_char="7387">to</TOKEN>
+<TOKEN id="token-61-35" pos="word" morph="none" start_char="7389" end_char="7392">talk</TOKEN>
+<TOKEN id="token-61-36" pos="word" morph="none" start_char="7394" end_char="7396">the</TOKEN>
+<TOKEN id="token-61-37" pos="word" morph="none" start_char="7398" end_char="7404">liberal</TOKEN>
+<TOKEN id="token-61-38" pos="word" morph="none" start_char="7406" end_char="7409">talk</TOKEN>
+<TOKEN id="token-61-39" pos="punct" morph="none" start_char="7411" end_char="7411">(</TOKEN>
+<TOKEN id="token-61-40" pos="word" morph="none" start_char="7412" end_char="7416">which</TOKEN>
+<TOKEN id="token-61-41" pos="word" morph="none" start_char="7418" end_char="7422">seems</TOKEN>
+<TOKEN id="token-61-42" pos="word" morph="none" start_char="7424" end_char="7425">so</TOKEN>
+<TOKEN id="token-61-43" pos="word" morph="none" start_char="7427" end_char="7430">easy</TOKEN>
+<TOKEN id="token-61-44" pos="word" morph="none" start_char="7432" end_char="7433">in</TOKEN>
+<TOKEN id="token-61-45" pos="word" morph="none" start_char="7435" end_char="7438">this</TOKEN>
+<TOKEN id="token-61-46" pos="word" morph="none" start_char="7440" end_char="7442">day</TOKEN>
+<TOKEN id="token-61-47" pos="word" morph="none" start_char="7444" end_char="7446">and</TOKEN>
+<TOKEN id="token-61-48" pos="word" morph="none" start_char="7448" end_char="7450">age</TOKEN>
+<TOKEN id="token-61-49" pos="punct" morph="none" start_char="7451" end_char="7452">),</TOKEN>
+<TOKEN id="token-61-50" pos="word" morph="none" start_char="7454" end_char="7460">perhaps</TOKEN>
+<TOKEN id="token-61-51" pos="word" morph="none" start_char="7462" end_char="7463">it</TOKEN>
+<TOKEN id="token-61-52" pos="word" morph="none" start_char="7465" end_char="7466">is</TOKEN>
+<TOKEN id="token-61-53" pos="word" morph="none" start_char="7468" end_char="7471">best</TOKEN>
+<TOKEN id="token-61-54" pos="word" morph="none" start_char="7473" end_char="7474">to</TOKEN>
+<TOKEN id="token-61-55" pos="word" morph="none" start_char="7476" end_char="7479">walk</TOKEN>
+<TOKEN id="token-61-56" pos="word" morph="none" start_char="7481" end_char="7483">the</TOKEN>
+<TOKEN id="token-61-57" pos="word" morph="none" start_char="7485" end_char="7491">liberal</TOKEN>
+<TOKEN id="token-61-58" pos="word" morph="none" start_char="7493" end_char="7496">talk</TOKEN>
+<TOKEN id="token-61-59" pos="word" morph="none" start_char="7498" end_char="7502">first</TOKEN>
+<TOKEN id="token-61-60" pos="punct" morph="none" start_char="7503" end_char="7503">,</TOKEN>
+<TOKEN id="token-61-61" pos="word" morph="none" start_char="7505" end_char="7506">no</TOKEN>
+<TOKEN id="token-61-62" pos="punct" morph="none" start_char="7507" end_char="7507">?</TOKEN>
+</SEG>
+<SEG id="segment-62" start_char="7509" end_char="7515">
+<ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-62-0" pos="unknown" morph="none" start_char="7509" end_char="7515">&lt;/post&gt;</TOKEN>
+</SEG>
+<SEG id="segment-63" start_char="7517" end_char="7583">
+<ORIGINAL_TEXT>&lt;post id="p15" author="BeaverCreek" datetime="2015-06-01T22:30:00"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-63-0" pos="unknown" morph="none" start_char="7517" end_char="7521">&lt;post</TOKEN>
+<TOKEN id="token-63-1" pos="unknown" morph="none" start_char="7523" end_char="7530">id="p15"</TOKEN>
+<TOKEN id="token-63-2" pos="unknown" morph="none" start_char="7532" end_char="7551">author="BeaverCreek"</TOKEN>
+<TOKEN id="token-63-3" pos="unknown" morph="none" start_char="7553" end_char="7583">datetime="2015-06-01T22:30:00"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-64" start_char="7585" end_char="7618">
+<ORIGINAL_TEXT>&lt;quote orig_author="spintherock9"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-64-0" pos="unknown" morph="none" start_char="7585" end_char="7590">&lt;quote</TOKEN>
+<TOKEN id="token-64-1" pos="unknown" morph="none" start_char="7592" end_char="7618">orig_author="spintherock9"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-65" start_char="7620" end_char="7833">
+<ORIGINAL_TEXT>The decline in Baltimore population by 300k since 1970 is key part of this new mess that's called Charm City. I'd venture to guess....the working middle class have ditched the area for many reasons, crime being #1.</ORIGINAL_TEXT>
+<TOKEN id="token-65-0" pos="word" morph="none" start_char="7620" end_char="7622">The</TOKEN>
+<TOKEN id="token-65-1" pos="word" morph="none" start_char="7624" end_char="7630">decline</TOKEN>
+<TOKEN id="token-65-2" pos="word" morph="none" start_char="7632" end_char="7633">in</TOKEN>
+<TOKEN id="token-65-3" pos="word" morph="none" start_char="7635" end_char="7643">Baltimore</TOKEN>
+<TOKEN id="token-65-4" pos="word" morph="none" start_char="7645" end_char="7654">population</TOKEN>
+<TOKEN id="token-65-5" pos="word" morph="none" start_char="7656" end_char="7657">by</TOKEN>
+<TOKEN id="token-65-6" pos="word" morph="none" start_char="7659" end_char="7662">300k</TOKEN>
+<TOKEN id="token-65-7" pos="word" morph="none" start_char="7664" end_char="7668">since</TOKEN>
+<TOKEN id="token-65-8" pos="number" morph="none" start_char="7670" end_char="7673">1970</TOKEN>
+<TOKEN id="token-65-9" pos="word" morph="none" start_char="7675" end_char="7676">is</TOKEN>
+<TOKEN id="token-65-10" pos="word" morph="none" start_char="7678" end_char="7680">key</TOKEN>
+<TOKEN id="token-65-11" pos="word" morph="none" start_char="7682" end_char="7685">part</TOKEN>
+<TOKEN id="token-65-12" pos="word" morph="none" start_char="7687" end_char="7688">of</TOKEN>
+<TOKEN id="token-65-13" pos="word" morph="none" start_char="7690" end_char="7693">this</TOKEN>
+<TOKEN id="token-65-14" pos="word" morph="none" start_char="7695" end_char="7697">new</TOKEN>
+<TOKEN id="token-65-15" pos="word" morph="none" start_char="7699" end_char="7702">mess</TOKEN>
+<TOKEN id="token-65-16" pos="word" morph="none" start_char="7704" end_char="7707">that</TOKEN>
+<TOKEN id="token-65-17" pos="punct" morph="none" start_char="7708" end_char="7708">'</TOKEN>
+<TOKEN id="token-65-18" pos="word" morph="none" start_char="7709" end_char="7709">s</TOKEN>
+<TOKEN id="token-65-19" pos="word" morph="none" start_char="7711" end_char="7716">called</TOKEN>
+<TOKEN id="token-65-20" pos="word" morph="none" start_char="7718" end_char="7722">Charm</TOKEN>
+<TOKEN id="token-65-21" pos="word" morph="none" start_char="7724" end_char="7727">City</TOKEN>
+<TOKEN id="token-65-22" pos="punct" morph="none" start_char="7728" end_char="7728">.</TOKEN>
+<TOKEN id="token-65-23" pos="word" morph="none" start_char="7730" end_char="7730">I</TOKEN>
+<TOKEN id="token-65-24" pos="punct" morph="none" start_char="7731" end_char="7731">'</TOKEN>
+<TOKEN id="token-65-25" pos="word" morph="none" start_char="7732" end_char="7732">d</TOKEN>
+<TOKEN id="token-65-26" pos="word" morph="none" start_char="7734" end_char="7740">venture</TOKEN>
+<TOKEN id="token-65-27" pos="word" morph="none" start_char="7742" end_char="7743">to</TOKEN>
+<TOKEN id="token-65-28" pos="word" morph="none" start_char="7745" end_char="7749">guess</TOKEN>
+<TOKEN id="token-65-29" pos="punct" morph="none" start_char="7750" end_char="7753">....</TOKEN>
+<TOKEN id="token-65-30" pos="word" morph="none" start_char="7754" end_char="7756">the</TOKEN>
+<TOKEN id="token-65-31" pos="word" morph="none" start_char="7758" end_char="7764">working</TOKEN>
+<TOKEN id="token-65-32" pos="word" morph="none" start_char="7766" end_char="7771">middle</TOKEN>
+<TOKEN id="token-65-33" pos="word" morph="none" start_char="7773" end_char="7777">class</TOKEN>
+<TOKEN id="token-65-34" pos="word" morph="none" start_char="7779" end_char="7782">have</TOKEN>
+<TOKEN id="token-65-35" pos="word" morph="none" start_char="7784" end_char="7790">ditched</TOKEN>
+<TOKEN id="token-65-36" pos="word" morph="none" start_char="7792" end_char="7794">the</TOKEN>
+<TOKEN id="token-65-37" pos="word" morph="none" start_char="7796" end_char="7799">area</TOKEN>
+<TOKEN id="token-65-38" pos="word" morph="none" start_char="7801" end_char="7803">for</TOKEN>
+<TOKEN id="token-65-39" pos="word" morph="none" start_char="7805" end_char="7808">many</TOKEN>
+<TOKEN id="token-65-40" pos="word" morph="none" start_char="7810" end_char="7816">reasons</TOKEN>
+<TOKEN id="token-65-41" pos="punct" morph="none" start_char="7817" end_char="7817">,</TOKEN>
+<TOKEN id="token-65-42" pos="word" morph="none" start_char="7819" end_char="7823">crime</TOKEN>
+<TOKEN id="token-65-43" pos="word" morph="none" start_char="7825" end_char="7829">being</TOKEN>
+<TOKEN id="token-65-44" pos="twitter" morph="none" start_char="7831" end_char="7833">#1.</TOKEN>
+</SEG>
+<SEG id="segment-66" start_char="7835" end_char="7842">
+<ORIGINAL_TEXT>&lt;/quote&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-66-0" pos="unknown" morph="none" start_char="7835" end_char="7842">&lt;/quote&gt;</TOKEN>
+</SEG>
+<SEG id="segment-67" start_char="7844" end_char="8296">
+<ORIGINAL_TEXT>Those people emigrated to places where jobs were more plentiful for the skills they offered; as Baltimore became hostile to business via taxes, regulations, and banana republic courts, the smarter working class decamped . The people who stayed were more the dependency class. Politicians, in their infinite cynicism, pandered to the dependency class, by promising more and cutting less than the 'barbaric' Republicans; and hence the vicious wheel spins.</ORIGINAL_TEXT>
+<TOKEN id="token-67-0" pos="word" morph="none" start_char="7844" end_char="7848">Those</TOKEN>
+<TOKEN id="token-67-1" pos="word" morph="none" start_char="7850" end_char="7855">people</TOKEN>
+<TOKEN id="token-67-2" pos="word" morph="none" start_char="7857" end_char="7865">emigrated</TOKEN>
+<TOKEN id="token-67-3" pos="word" morph="none" start_char="7867" end_char="7868">to</TOKEN>
+<TOKEN id="token-67-4" pos="word" morph="none" start_char="7870" end_char="7875">places</TOKEN>
+<TOKEN id="token-67-5" pos="word" morph="none" start_char="7877" end_char="7881">where</TOKEN>
+<TOKEN id="token-67-6" pos="word" morph="none" start_char="7883" end_char="7886">jobs</TOKEN>
+<TOKEN id="token-67-7" pos="word" morph="none" start_char="7888" end_char="7891">were</TOKEN>
+<TOKEN id="token-67-8" pos="word" morph="none" start_char="7893" end_char="7896">more</TOKEN>
+<TOKEN id="token-67-9" pos="word" morph="none" start_char="7898" end_char="7906">plentiful</TOKEN>
+<TOKEN id="token-67-10" pos="word" morph="none" start_char="7908" end_char="7910">for</TOKEN>
+<TOKEN id="token-67-11" pos="word" morph="none" start_char="7912" end_char="7914">the</TOKEN>
+<TOKEN id="token-67-12" pos="word" morph="none" start_char="7916" end_char="7921">skills</TOKEN>
+<TOKEN id="token-67-13" pos="word" morph="none" start_char="7923" end_char="7926">they</TOKEN>
+<TOKEN id="token-67-14" pos="word" morph="none" start_char="7928" end_char="7934">offered</TOKEN>
+<TOKEN id="token-67-15" pos="punct" morph="none" start_char="7935" end_char="7935">;</TOKEN>
+<TOKEN id="token-67-16" pos="word" morph="none" start_char="7937" end_char="7938">as</TOKEN>
+<TOKEN id="token-67-17" pos="word" morph="none" start_char="7940" end_char="7948">Baltimore</TOKEN>
+<TOKEN id="token-67-18" pos="word" morph="none" start_char="7950" end_char="7955">became</TOKEN>
+<TOKEN id="token-67-19" pos="word" morph="none" start_char="7957" end_char="7963">hostile</TOKEN>
+<TOKEN id="token-67-20" pos="word" morph="none" start_char="7965" end_char="7966">to</TOKEN>
+<TOKEN id="token-67-21" pos="word" morph="none" start_char="7968" end_char="7975">business</TOKEN>
+<TOKEN id="token-67-22" pos="word" morph="none" start_char="7977" end_char="7979">via</TOKEN>
+<TOKEN id="token-67-23" pos="word" morph="none" start_char="7981" end_char="7985">taxes</TOKEN>
+<TOKEN id="token-67-24" pos="punct" morph="none" start_char="7986" end_char="7986">,</TOKEN>
+<TOKEN id="token-67-25" pos="word" morph="none" start_char="7988" end_char="7998">regulations</TOKEN>
+<TOKEN id="token-67-26" pos="punct" morph="none" start_char="7999" end_char="7999">,</TOKEN>
+<TOKEN id="token-67-27" pos="word" morph="none" start_char="8001" end_char="8003">and</TOKEN>
+<TOKEN id="token-67-28" pos="word" morph="none" start_char="8005" end_char="8010">banana</TOKEN>
+<TOKEN id="token-67-29" pos="word" morph="none" start_char="8012" end_char="8019">republic</TOKEN>
+<TOKEN id="token-67-30" pos="word" morph="none" start_char="8021" end_char="8026">courts</TOKEN>
+<TOKEN id="token-67-31" pos="punct" morph="none" start_char="8027" end_char="8027">,</TOKEN>
+<TOKEN id="token-67-32" pos="word" morph="none" start_char="8029" end_char="8031">the</TOKEN>
+<TOKEN id="token-67-33" pos="word" morph="none" start_char="8033" end_char="8039">smarter</TOKEN>
+<TOKEN id="token-67-34" pos="word" morph="none" start_char="8041" end_char="8047">working</TOKEN>
+<TOKEN id="token-67-35" pos="word" morph="none" start_char="8049" end_char="8053">class</TOKEN>
+<TOKEN id="token-67-36" pos="word" morph="none" start_char="8055" end_char="8062">decamped</TOKEN>
+<TOKEN id="token-67-37" pos="unknown" morph="none" start_char="8064" end_char="8064">.</TOKEN>
+<TOKEN id="token-67-38" pos="word" morph="none" start_char="8066" end_char="8068">The</TOKEN>
+<TOKEN id="token-67-39" pos="word" morph="none" start_char="8070" end_char="8075">people</TOKEN>
+<TOKEN id="token-67-40" pos="word" morph="none" start_char="8077" end_char="8079">who</TOKEN>
+<TOKEN id="token-67-41" pos="word" morph="none" start_char="8081" end_char="8086">stayed</TOKEN>
+<TOKEN id="token-67-42" pos="word" morph="none" start_char="8088" end_char="8091">were</TOKEN>
+<TOKEN id="token-67-43" pos="word" morph="none" start_char="8093" end_char="8096">more</TOKEN>
+<TOKEN id="token-67-44" pos="word" morph="none" start_char="8098" end_char="8100">the</TOKEN>
+<TOKEN id="token-67-45" pos="word" morph="none" start_char="8102" end_char="8111">dependency</TOKEN>
+<TOKEN id="token-67-46" pos="word" morph="none" start_char="8113" end_char="8117">class</TOKEN>
+<TOKEN id="token-67-47" pos="punct" morph="none" start_char="8118" end_char="8118">.</TOKEN>
+<TOKEN id="token-67-48" pos="word" morph="none" start_char="8120" end_char="8130">Politicians</TOKEN>
+<TOKEN id="token-67-49" pos="punct" morph="none" start_char="8131" end_char="8131">,</TOKEN>
+<TOKEN id="token-67-50" pos="word" morph="none" start_char="8133" end_char="8134">in</TOKEN>
+<TOKEN id="token-67-51" pos="word" morph="none" start_char="8136" end_char="8140">their</TOKEN>
+<TOKEN id="token-67-52" pos="word" morph="none" start_char="8142" end_char="8149">infinite</TOKEN>
+<TOKEN id="token-67-53" pos="word" morph="none" start_char="8151" end_char="8158">cynicism</TOKEN>
+<TOKEN id="token-67-54" pos="punct" morph="none" start_char="8159" end_char="8159">,</TOKEN>
+<TOKEN id="token-67-55" pos="word" morph="none" start_char="8161" end_char="8168">pandered</TOKEN>
+<TOKEN id="token-67-56" pos="word" morph="none" start_char="8170" end_char="8171">to</TOKEN>
+<TOKEN id="token-67-57" pos="word" morph="none" start_char="8173" end_char="8175">the</TOKEN>
+<TOKEN id="token-67-58" pos="word" morph="none" start_char="8177" end_char="8186">dependency</TOKEN>
+<TOKEN id="token-67-59" pos="word" morph="none" start_char="8188" end_char="8192">class</TOKEN>
+<TOKEN id="token-67-60" pos="punct" morph="none" start_char="8193" end_char="8193">,</TOKEN>
+<TOKEN id="token-67-61" pos="word" morph="none" start_char="8195" end_char="8196">by</TOKEN>
+<TOKEN id="token-67-62" pos="word" morph="none" start_char="8198" end_char="8206">promising</TOKEN>
+<TOKEN id="token-67-63" pos="word" morph="none" start_char="8208" end_char="8211">more</TOKEN>
+<TOKEN id="token-67-64" pos="word" morph="none" start_char="8213" end_char="8215">and</TOKEN>
+<TOKEN id="token-67-65" pos="word" morph="none" start_char="8217" end_char="8223">cutting</TOKEN>
+<TOKEN id="token-67-66" pos="word" morph="none" start_char="8225" end_char="8228">less</TOKEN>
+<TOKEN id="token-67-67" pos="word" morph="none" start_char="8230" end_char="8233">than</TOKEN>
+<TOKEN id="token-67-68" pos="word" morph="none" start_char="8235" end_char="8237">the</TOKEN>
+<TOKEN id="token-67-69" pos="punct" morph="none" start_char="8239" end_char="8239">'</TOKEN>
+<TOKEN id="token-67-70" pos="word" morph="none" start_char="8240" end_char="8247">barbaric</TOKEN>
+<TOKEN id="token-67-71" pos="punct" morph="none" start_char="8248" end_char="8248">'</TOKEN>
+<TOKEN id="token-67-72" pos="word" morph="none" start_char="8250" end_char="8260">Republicans</TOKEN>
+<TOKEN id="token-67-73" pos="punct" morph="none" start_char="8261" end_char="8261">;</TOKEN>
+<TOKEN id="token-67-74" pos="word" morph="none" start_char="8263" end_char="8265">and</TOKEN>
+<TOKEN id="token-67-75" pos="word" morph="none" start_char="8267" end_char="8271">hence</TOKEN>
+<TOKEN id="token-67-76" pos="word" morph="none" start_char="8273" end_char="8275">the</TOKEN>
+<TOKEN id="token-67-77" pos="word" morph="none" start_char="8277" end_char="8283">vicious</TOKEN>
+<TOKEN id="token-67-78" pos="word" morph="none" start_char="8285" end_char="8289">wheel</TOKEN>
+<TOKEN id="token-67-79" pos="word" morph="none" start_char="8291" end_char="8295">spins</TOKEN>
+<TOKEN id="token-67-80" pos="punct" morph="none" start_char="8296" end_char="8296">.</TOKEN>
+</SEG>
+<SEG id="segment-68" start_char="8299" end_char="8660">
+<ORIGINAL_TEXT>And yet, Baltimore has amazing businesses still, it's just that the skill sets required to work there are way above the average city resident...hence the modest immigration into the city taking place for companies like Under Armour and Brown Advisory and Signal Hill and Pandora and so forth; they need skilled employees, and will get them one way or the other. </ORIGINAL_TEXT>
+<TOKEN id="token-68-0" pos="word" morph="none" start_char="8299" end_char="8301">And</TOKEN>
+<TOKEN id="token-68-1" pos="word" morph="none" start_char="8303" end_char="8305">yet</TOKEN>
+<TOKEN id="token-68-2" pos="punct" morph="none" start_char="8306" end_char="8306">,</TOKEN>
+<TOKEN id="token-68-3" pos="word" morph="none" start_char="8308" end_char="8316">Baltimore</TOKEN>
+<TOKEN id="token-68-4" pos="word" morph="none" start_char="8318" end_char="8320">has</TOKEN>
+<TOKEN id="token-68-5" pos="word" morph="none" start_char="8322" end_char="8328">amazing</TOKEN>
+<TOKEN id="token-68-6" pos="word" morph="none" start_char="8330" end_char="8339">businesses</TOKEN>
+<TOKEN id="token-68-7" pos="word" morph="none" start_char="8341" end_char="8345">still</TOKEN>
+<TOKEN id="token-68-8" pos="punct" morph="none" start_char="8346" end_char="8346">,</TOKEN>
+<TOKEN id="token-68-9" pos="word" morph="none" start_char="8348" end_char="8349">it</TOKEN>
+<TOKEN id="token-68-10" pos="punct" morph="none" start_char="8350" end_char="8350">'</TOKEN>
+<TOKEN id="token-68-11" pos="word" morph="none" start_char="8351" end_char="8351">s</TOKEN>
+<TOKEN id="token-68-12" pos="word" morph="none" start_char="8353" end_char="8356">just</TOKEN>
+<TOKEN id="token-68-13" pos="word" morph="none" start_char="8358" end_char="8361">that</TOKEN>
+<TOKEN id="token-68-14" pos="word" morph="none" start_char="8363" end_char="8365">the</TOKEN>
+<TOKEN id="token-68-15" pos="word" morph="none" start_char="8367" end_char="8371">skill</TOKEN>
+<TOKEN id="token-68-16" pos="word" morph="none" start_char="8373" end_char="8376">sets</TOKEN>
+<TOKEN id="token-68-17" pos="word" morph="none" start_char="8378" end_char="8385">required</TOKEN>
+<TOKEN id="token-68-18" pos="word" morph="none" start_char="8387" end_char="8388">to</TOKEN>
+<TOKEN id="token-68-19" pos="word" morph="none" start_char="8390" end_char="8393">work</TOKEN>
+<TOKEN id="token-68-20" pos="word" morph="none" start_char="8395" end_char="8399">there</TOKEN>
+<TOKEN id="token-68-21" pos="word" morph="none" start_char="8401" end_char="8403">are</TOKEN>
+<TOKEN id="token-68-22" pos="word" morph="none" start_char="8405" end_char="8407">way</TOKEN>
+<TOKEN id="token-68-23" pos="word" morph="none" start_char="8409" end_char="8413">above</TOKEN>
+<TOKEN id="token-68-24" pos="word" morph="none" start_char="8415" end_char="8417">the</TOKEN>
+<TOKEN id="token-68-25" pos="word" morph="none" start_char="8419" end_char="8425">average</TOKEN>
+<TOKEN id="token-68-26" pos="word" morph="none" start_char="8427" end_char="8430">city</TOKEN>
+<TOKEN id="token-68-27" pos="word" morph="none" start_char="8432" end_char="8439">resident</TOKEN>
+<TOKEN id="token-68-28" pos="punct" morph="none" start_char="8440" end_char="8442">...</TOKEN>
+<TOKEN id="token-68-29" pos="word" morph="none" start_char="8443" end_char="8447">hence</TOKEN>
+<TOKEN id="token-68-30" pos="word" morph="none" start_char="8449" end_char="8451">the</TOKEN>
+<TOKEN id="token-68-31" pos="word" morph="none" start_char="8453" end_char="8458">modest</TOKEN>
+<TOKEN id="token-68-32" pos="word" morph="none" start_char="8460" end_char="8470">immigration</TOKEN>
+<TOKEN id="token-68-33" pos="word" morph="none" start_char="8472" end_char="8475">into</TOKEN>
+<TOKEN id="token-68-34" pos="word" morph="none" start_char="8477" end_char="8479">the</TOKEN>
+<TOKEN id="token-68-35" pos="word" morph="none" start_char="8481" end_char="8484">city</TOKEN>
+<TOKEN id="token-68-36" pos="word" morph="none" start_char="8486" end_char="8491">taking</TOKEN>
+<TOKEN id="token-68-37" pos="word" morph="none" start_char="8493" end_char="8497">place</TOKEN>
+<TOKEN id="token-68-38" pos="word" morph="none" start_char="8499" end_char="8501">for</TOKEN>
+<TOKEN id="token-68-39" pos="word" morph="none" start_char="8503" end_char="8511">companies</TOKEN>
+<TOKEN id="token-68-40" pos="word" morph="none" start_char="8513" end_char="8516">like</TOKEN>
+<TOKEN id="token-68-41" pos="word" morph="none" start_char="8518" end_char="8522">Under</TOKEN>
+<TOKEN id="token-68-42" pos="word" morph="none" start_char="8524" end_char="8529">Armour</TOKEN>
+<TOKEN id="token-68-43" pos="word" morph="none" start_char="8531" end_char="8533">and</TOKEN>
+<TOKEN id="token-68-44" pos="word" morph="none" start_char="8535" end_char="8539">Brown</TOKEN>
+<TOKEN id="token-68-45" pos="word" morph="none" start_char="8541" end_char="8548">Advisory</TOKEN>
+<TOKEN id="token-68-46" pos="word" morph="none" start_char="8550" end_char="8552">and</TOKEN>
+<TOKEN id="token-68-47" pos="word" morph="none" start_char="8554" end_char="8559">Signal</TOKEN>
+<TOKEN id="token-68-48" pos="word" morph="none" start_char="8561" end_char="8564">Hill</TOKEN>
+<TOKEN id="token-68-49" pos="word" morph="none" start_char="8566" end_char="8568">and</TOKEN>
+<TOKEN id="token-68-50" pos="word" morph="none" start_char="8570" end_char="8576">Pandora</TOKEN>
+<TOKEN id="token-68-51" pos="word" morph="none" start_char="8578" end_char="8580">and</TOKEN>
+<TOKEN id="token-68-52" pos="word" morph="none" start_char="8582" end_char="8583">so</TOKEN>
+<TOKEN id="token-68-53" pos="word" morph="none" start_char="8585" end_char="8589">forth</TOKEN>
+<TOKEN id="token-68-54" pos="punct" morph="none" start_char="8590" end_char="8590">;</TOKEN>
+<TOKEN id="token-68-55" pos="word" morph="none" start_char="8592" end_char="8595">they</TOKEN>
+<TOKEN id="token-68-56" pos="word" morph="none" start_char="8597" end_char="8600">need</TOKEN>
+<TOKEN id="token-68-57" pos="word" morph="none" start_char="8602" end_char="8608">skilled</TOKEN>
+<TOKEN id="token-68-58" pos="word" morph="none" start_char="8610" end_char="8618">employees</TOKEN>
+<TOKEN id="token-68-59" pos="punct" morph="none" start_char="8619" end_char="8619">,</TOKEN>
+<TOKEN id="token-68-60" pos="word" morph="none" start_char="8621" end_char="8623">and</TOKEN>
+<TOKEN id="token-68-61" pos="word" morph="none" start_char="8625" end_char="8628">will</TOKEN>
+<TOKEN id="token-68-62" pos="word" morph="none" start_char="8630" end_char="8632">get</TOKEN>
+<TOKEN id="token-68-63" pos="word" morph="none" start_char="8634" end_char="8637">them</TOKEN>
+<TOKEN id="token-68-64" pos="word" morph="none" start_char="8639" end_char="8641">one</TOKEN>
+<TOKEN id="token-68-65" pos="word" morph="none" start_char="8643" end_char="8645">way</TOKEN>
+<TOKEN id="token-68-66" pos="word" morph="none" start_char="8647" end_char="8648">or</TOKEN>
+<TOKEN id="token-68-67" pos="word" morph="none" start_char="8650" end_char="8652">the</TOKEN>
+<TOKEN id="token-68-68" pos="word" morph="none" start_char="8654" end_char="8658">other</TOKEN>
+<TOKEN id="token-68-69" pos="punct" morph="none" start_char="8659" end_char="8659">.</TOKEN>
+</SEG>
+<SEG id="segment-69" start_char="8663" end_char="9165">
+<ORIGINAL_TEXT>While politicians like Rawlinsg Blake and Mosby (who will never readily embrace market-based solutions) rule over this city, the only possible end game is a slow burn of the core legacy 600,000 that remain. Baltimore will see a slow recalibration of racial makeup over time and a slower still net reduction in the number of African-Americans. The city has amazing geography and architecture, with a rich history. That always counts for something in the end. Hope is out there, just a very long way away.</ORIGINAL_TEXT>
+<TOKEN id="token-69-0" pos="word" morph="none" start_char="8663" end_char="8667">While</TOKEN>
+<TOKEN id="token-69-1" pos="word" morph="none" start_char="8669" end_char="8679">politicians</TOKEN>
+<TOKEN id="token-69-2" pos="word" morph="none" start_char="8681" end_char="8684">like</TOKEN>
+<TOKEN id="token-69-3" pos="word" morph="none" start_char="8686" end_char="8693">Rawlinsg</TOKEN>
+<TOKEN id="token-69-4" pos="word" morph="none" start_char="8695" end_char="8699">Blake</TOKEN>
+<TOKEN id="token-69-5" pos="word" morph="none" start_char="8701" end_char="8703">and</TOKEN>
+<TOKEN id="token-69-6" pos="word" morph="none" start_char="8705" end_char="8709">Mosby</TOKEN>
+<TOKEN id="token-69-7" pos="punct" morph="none" start_char="8711" end_char="8711">(</TOKEN>
+<TOKEN id="token-69-8" pos="word" morph="none" start_char="8712" end_char="8714">who</TOKEN>
+<TOKEN id="token-69-9" pos="word" morph="none" start_char="8716" end_char="8719">will</TOKEN>
+<TOKEN id="token-69-10" pos="word" morph="none" start_char="8721" end_char="8725">never</TOKEN>
+<TOKEN id="token-69-11" pos="word" morph="none" start_char="8727" end_char="8733">readily</TOKEN>
+<TOKEN id="token-69-12" pos="word" morph="none" start_char="8735" end_char="8741">embrace</TOKEN>
+<TOKEN id="token-69-13" pos="word" morph="none" start_char="8743" end_char="8748">market</TOKEN>
+<TOKEN id="token-69-14" pos="punct" morph="none" start_char="8749" end_char="8749">-</TOKEN>
+<TOKEN id="token-69-15" pos="word" morph="none" start_char="8750" end_char="8754">based</TOKEN>
+<TOKEN id="token-69-16" pos="word" morph="none" start_char="8756" end_char="8764">solutions</TOKEN>
+<TOKEN id="token-69-17" pos="punct" morph="none" start_char="8765" end_char="8765">)</TOKEN>
+<TOKEN id="token-69-18" pos="word" morph="none" start_char="8767" end_char="8770">rule</TOKEN>
+<TOKEN id="token-69-19" pos="word" morph="none" start_char="8772" end_char="8775">over</TOKEN>
+<TOKEN id="token-69-20" pos="word" morph="none" start_char="8777" end_char="8780">this</TOKEN>
+<TOKEN id="token-69-21" pos="word" morph="none" start_char="8782" end_char="8785">city</TOKEN>
+<TOKEN id="token-69-22" pos="punct" morph="none" start_char="8786" end_char="8786">,</TOKEN>
+<TOKEN id="token-69-23" pos="word" morph="none" start_char="8788" end_char="8790">the</TOKEN>
+<TOKEN id="token-69-24" pos="word" morph="none" start_char="8792" end_char="8795">only</TOKEN>
+<TOKEN id="token-69-25" pos="word" morph="none" start_char="8797" end_char="8804">possible</TOKEN>
+<TOKEN id="token-69-26" pos="word" morph="none" start_char="8806" end_char="8808">end</TOKEN>
+<TOKEN id="token-69-27" pos="word" morph="none" start_char="8810" end_char="8813">game</TOKEN>
+<TOKEN id="token-69-28" pos="word" morph="none" start_char="8815" end_char="8816">is</TOKEN>
+<TOKEN id="token-69-29" pos="word" morph="none" start_char="8818" end_char="8818">a</TOKEN>
+<TOKEN id="token-69-30" pos="word" morph="none" start_char="8820" end_char="8823">slow</TOKEN>
+<TOKEN id="token-69-31" pos="word" morph="none" start_char="8825" end_char="8828">burn</TOKEN>
+<TOKEN id="token-69-32" pos="word" morph="none" start_char="8830" end_char="8831">of</TOKEN>
+<TOKEN id="token-69-33" pos="word" morph="none" start_char="8833" end_char="8835">the</TOKEN>
+<TOKEN id="token-69-34" pos="word" morph="none" start_char="8837" end_char="8840">core</TOKEN>
+<TOKEN id="token-69-35" pos="word" morph="none" start_char="8842" end_char="8847">legacy</TOKEN>
+<TOKEN id="token-69-36" pos="word" morph="none" start_char="8849" end_char="8851">600</TOKEN>
+<TOKEN id="token-69-37" pos="punct" morph="none" start_char="8852" end_char="8852">,</TOKEN>
+<TOKEN id="token-69-38" pos="word" morph="none" start_char="8853" end_char="8855">000</TOKEN>
+<TOKEN id="token-69-39" pos="word" morph="none" start_char="8857" end_char="8860">that</TOKEN>
+<TOKEN id="token-69-40" pos="word" morph="none" start_char="8862" end_char="8867">remain</TOKEN>
+<TOKEN id="token-69-41" pos="punct" morph="none" start_char="8868" end_char="8868">.</TOKEN>
+<TOKEN id="token-69-42" pos="word" morph="none" start_char="8870" end_char="8878">Baltimore</TOKEN>
+<TOKEN id="token-69-43" pos="word" morph="none" start_char="8880" end_char="8883">will</TOKEN>
+<TOKEN id="token-69-44" pos="word" morph="none" start_char="8885" end_char="8887">see</TOKEN>
+<TOKEN id="token-69-45" pos="word" morph="none" start_char="8889" end_char="8889">a</TOKEN>
+<TOKEN id="token-69-46" pos="word" morph="none" start_char="8891" end_char="8894">slow</TOKEN>
+<TOKEN id="token-69-47" pos="word" morph="none" start_char="8896" end_char="8908">recalibration</TOKEN>
+<TOKEN id="token-69-48" pos="word" morph="none" start_char="8910" end_char="8911">of</TOKEN>
+<TOKEN id="token-69-49" pos="word" morph="none" start_char="8913" end_char="8918">racial</TOKEN>
+<TOKEN id="token-69-50" pos="word" morph="none" start_char="8920" end_char="8925">makeup</TOKEN>
+<TOKEN id="token-69-51" pos="word" morph="none" start_char="8927" end_char="8930">over</TOKEN>
+<TOKEN id="token-69-52" pos="word" morph="none" start_char="8932" end_char="8935">time</TOKEN>
+<TOKEN id="token-69-53" pos="word" morph="none" start_char="8937" end_char="8939">and</TOKEN>
+<TOKEN id="token-69-54" pos="word" morph="none" start_char="8941" end_char="8941">a</TOKEN>
+<TOKEN id="token-69-55" pos="word" morph="none" start_char="8943" end_char="8948">slower</TOKEN>
+<TOKEN id="token-69-56" pos="word" morph="none" start_char="8950" end_char="8954">still</TOKEN>
+<TOKEN id="token-69-57" pos="word" morph="none" start_char="8956" end_char="8958">net</TOKEN>
+<TOKEN id="token-69-58" pos="word" morph="none" start_char="8960" end_char="8968">reduction</TOKEN>
+<TOKEN id="token-69-59" pos="word" morph="none" start_char="8970" end_char="8971">in</TOKEN>
+<TOKEN id="token-69-60" pos="word" morph="none" start_char="8973" end_char="8975">the</TOKEN>
+<TOKEN id="token-69-61" pos="word" morph="none" start_char="8977" end_char="8982">number</TOKEN>
+<TOKEN id="token-69-62" pos="word" morph="none" start_char="8984" end_char="8985">of</TOKEN>
+<TOKEN id="token-69-63" pos="word" morph="none" start_char="8987" end_char="8993">African</TOKEN>
+<TOKEN id="token-69-64" pos="punct" morph="none" start_char="8994" end_char="8994">-</TOKEN>
+<TOKEN id="token-69-65" pos="word" morph="none" start_char="8995" end_char="9003">Americans</TOKEN>
+<TOKEN id="token-69-66" pos="punct" morph="none" start_char="9004" end_char="9004">.</TOKEN>
+<TOKEN id="token-69-67" pos="word" morph="none" start_char="9006" end_char="9008">The</TOKEN>
+<TOKEN id="token-69-68" pos="word" morph="none" start_char="9010" end_char="9013">city</TOKEN>
+<TOKEN id="token-69-69" pos="word" morph="none" start_char="9015" end_char="9017">has</TOKEN>
+<TOKEN id="token-69-70" pos="word" morph="none" start_char="9019" end_char="9025">amazing</TOKEN>
+<TOKEN id="token-69-71" pos="word" morph="none" start_char="9027" end_char="9035">geography</TOKEN>
+<TOKEN id="token-69-72" pos="word" morph="none" start_char="9037" end_char="9039">and</TOKEN>
+<TOKEN id="token-69-73" pos="word" morph="none" start_char="9041" end_char="9052">architecture</TOKEN>
+<TOKEN id="token-69-74" pos="punct" morph="none" start_char="9053" end_char="9053">,</TOKEN>
+<TOKEN id="token-69-75" pos="word" morph="none" start_char="9055" end_char="9058">with</TOKEN>
+<TOKEN id="token-69-76" pos="word" morph="none" start_char="9060" end_char="9060">a</TOKEN>
+<TOKEN id="token-69-77" pos="word" morph="none" start_char="9062" end_char="9065">rich</TOKEN>
+<TOKEN id="token-69-78" pos="word" morph="none" start_char="9067" end_char="9073">history</TOKEN>
+<TOKEN id="token-69-79" pos="punct" morph="none" start_char="9074" end_char="9074">.</TOKEN>
+<TOKEN id="token-69-80" pos="word" morph="none" start_char="9076" end_char="9079">That</TOKEN>
+<TOKEN id="token-69-81" pos="word" morph="none" start_char="9081" end_char="9086">always</TOKEN>
+<TOKEN id="token-69-82" pos="word" morph="none" start_char="9088" end_char="9093">counts</TOKEN>
+<TOKEN id="token-69-83" pos="word" morph="none" start_char="9095" end_char="9097">for</TOKEN>
+<TOKEN id="token-69-84" pos="word" morph="none" start_char="9099" end_char="9107">something</TOKEN>
+<TOKEN id="token-69-85" pos="word" morph="none" start_char="9109" end_char="9110">in</TOKEN>
+<TOKEN id="token-69-86" pos="word" morph="none" start_char="9112" end_char="9114">the</TOKEN>
+<TOKEN id="token-69-87" pos="word" morph="none" start_char="9116" end_char="9118">end</TOKEN>
+<TOKEN id="token-69-88" pos="punct" morph="none" start_char="9119" end_char="9119">.</TOKEN>
+<TOKEN id="token-69-89" pos="word" morph="none" start_char="9121" end_char="9124">Hope</TOKEN>
+<TOKEN id="token-69-90" pos="word" morph="none" start_char="9126" end_char="9127">is</TOKEN>
+<TOKEN id="token-69-91" pos="word" morph="none" start_char="9129" end_char="9131">out</TOKEN>
+<TOKEN id="token-69-92" pos="word" morph="none" start_char="9133" end_char="9137">there</TOKEN>
+<TOKEN id="token-69-93" pos="punct" morph="none" start_char="9138" end_char="9138">,</TOKEN>
+<TOKEN id="token-69-94" pos="word" morph="none" start_char="9140" end_char="9143">just</TOKEN>
+<TOKEN id="token-69-95" pos="word" morph="none" start_char="9145" end_char="9145">a</TOKEN>
+<TOKEN id="token-69-96" pos="word" morph="none" start_char="9147" end_char="9150">very</TOKEN>
+<TOKEN id="token-69-97" pos="word" morph="none" start_char="9152" end_char="9155">long</TOKEN>
+<TOKEN id="token-69-98" pos="word" morph="none" start_char="9157" end_char="9159">way</TOKEN>
+<TOKEN id="token-69-99" pos="word" morph="none" start_char="9161" end_char="9164">away</TOKEN>
+<TOKEN id="token-69-100" pos="punct" morph="none" start_char="9165" end_char="9165">.</TOKEN>
+</SEG>
+<SEG id="segment-70" start_char="9167" end_char="9173">
+<ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-70-0" pos="unknown" morph="none" start_char="9167" end_char="9173">&lt;/post&gt;</TOKEN>
+</SEG>
+<SEG id="segment-71" start_char="9175" end_char="9240">
+<ORIGINAL_TEXT>&lt;post id="p16" author="thatsmell " datetime="2015-06-02T01:57:00"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-71-0" pos="unknown" morph="none" start_char="9175" end_char="9179">&lt;post</TOKEN>
+<TOKEN id="token-71-1" pos="unknown" morph="none" start_char="9181" end_char="9188">id="p16"</TOKEN>
+<TOKEN id="token-71-2" pos="unknown" morph="none" start_char="9190" end_char="9206">author="thatsmell</TOKEN>
+<TOKEN id="token-71-3" pos="unknown" morph="none" start_char="9208" end_char="9208">"</TOKEN>
+<TOKEN id="token-71-4" pos="unknown" morph="none" start_char="9210" end_char="9240">datetime="2015-06-02T01:57:00"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-72" start_char="9242" end_char="9279">
+<ORIGINAL_TEXT>It's scary how accurate The Wire is...</ORIGINAL_TEXT>
+<TOKEN id="token-72-0" pos="word" morph="none" start_char="9242" end_char="9243">It</TOKEN>
+<TOKEN id="token-72-1" pos="punct" morph="none" start_char="9244" end_char="9244">'</TOKEN>
+<TOKEN id="token-72-2" pos="word" morph="none" start_char="9245" end_char="9245">s</TOKEN>
+<TOKEN id="token-72-3" pos="word" morph="none" start_char="9247" end_char="9251">scary</TOKEN>
+<TOKEN id="token-72-4" pos="word" morph="none" start_char="9253" end_char="9255">how</TOKEN>
+<TOKEN id="token-72-5" pos="word" morph="none" start_char="9257" end_char="9264">accurate</TOKEN>
+<TOKEN id="token-72-6" pos="word" morph="none" start_char="9266" end_char="9268">The</TOKEN>
+<TOKEN id="token-72-7" pos="word" morph="none" start_char="9270" end_char="9273">Wire</TOKEN>
+<TOKEN id="token-72-8" pos="word" morph="none" start_char="9275" end_char="9276">is</TOKEN>
+<TOKEN id="token-72-9" pos="punct" morph="none" start_char="9277" end_char="9279">...</TOKEN>
+</SEG>
+<SEG id="segment-73" start_char="9281" end_char="9287">
+<ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-73-0" pos="unknown" morph="none" start_char="9281" end_char="9287">&lt;/post&gt;</TOKEN>
+</SEG>
+<SEG id="segment-74" start_char="9289" end_char="9350">
+<ORIGINAL_TEXT>&lt;post id="p17" author="a fan " datetime="2015-06-02T02:05:00"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-74-0" pos="unknown" morph="none" start_char="9289" end_char="9293">&lt;post</TOKEN>
+<TOKEN id="token-74-1" pos="unknown" morph="none" start_char="9295" end_char="9302">id="p17"</TOKEN>
+<TOKEN id="token-74-2" pos="unknown" morph="none" start_char="9304" end_char="9312">author="a</TOKEN>
+<TOKEN id="token-74-3" pos="word" morph="none" start_char="9314" end_char="9316">fan</TOKEN>
+<TOKEN id="token-74-4" pos="unknown" morph="none" start_char="9318" end_char="9318">"</TOKEN>
+<TOKEN id="token-74-5" pos="unknown" morph="none" start_char="9320" end_char="9350">datetime="2015-06-02T02:05:00"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-75" start_char="9352" end_char="9437">
+<ORIGINAL_TEXT>Having watched that show from start to finish, you're really depressing me, thatsmell.</ORIGINAL_TEXT>
+<TOKEN id="token-75-0" pos="word" morph="none" start_char="9352" end_char="9357">Having</TOKEN>
+<TOKEN id="token-75-1" pos="word" morph="none" start_char="9359" end_char="9365">watched</TOKEN>
+<TOKEN id="token-75-2" pos="word" morph="none" start_char="9367" end_char="9370">that</TOKEN>
+<TOKEN id="token-75-3" pos="word" morph="none" start_char="9372" end_char="9375">show</TOKEN>
+<TOKEN id="token-75-4" pos="word" morph="none" start_char="9377" end_char="9380">from</TOKEN>
+<TOKEN id="token-75-5" pos="word" morph="none" start_char="9382" end_char="9386">start</TOKEN>
+<TOKEN id="token-75-6" pos="word" morph="none" start_char="9388" end_char="9389">to</TOKEN>
+<TOKEN id="token-75-7" pos="word" morph="none" start_char="9391" end_char="9396">finish</TOKEN>
+<TOKEN id="token-75-8" pos="punct" morph="none" start_char="9397" end_char="9397">,</TOKEN>
+<TOKEN id="token-75-9" pos="word" morph="none" start_char="9399" end_char="9401">you</TOKEN>
+<TOKEN id="token-75-10" pos="punct" morph="none" start_char="9402" end_char="9402">'</TOKEN>
+<TOKEN id="token-75-11" pos="word" morph="none" start_char="9403" end_char="9404">re</TOKEN>
+<TOKEN id="token-75-12" pos="word" morph="none" start_char="9406" end_char="9411">really</TOKEN>
+<TOKEN id="token-75-13" pos="word" morph="none" start_char="9413" end_char="9422">depressing</TOKEN>
+<TOKEN id="token-75-14" pos="word" morph="none" start_char="9424" end_char="9425">me</TOKEN>
+<TOKEN id="token-75-15" pos="punct" morph="none" start_char="9426" end_char="9426">,</TOKEN>
+<TOKEN id="token-75-16" pos="word" morph="none" start_char="9428" end_char="9436">thatsmell</TOKEN>
+<TOKEN id="token-75-17" pos="punct" morph="none" start_char="9437" end_char="9437">.</TOKEN>
+</SEG>
+<SEG id="segment-76" start_char="9439" end_char="9445">
+<ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-76-0" pos="unknown" morph="none" start_char="9439" end_char="9445">&lt;/post&gt;</TOKEN>
+</SEG>
+<SEG id="segment-77" start_char="9447" end_char="9512">
+<ORIGINAL_TEXT>&lt;post id="p18" author="laxman3221" datetime="2015-06-02T02:16:00"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-77-0" pos="unknown" morph="none" start_char="9447" end_char="9451">&lt;post</TOKEN>
+<TOKEN id="token-77-1" pos="unknown" morph="none" start_char="9453" end_char="9460">id="p18"</TOKEN>
+<TOKEN id="token-77-2" pos="unknown" morph="none" start_char="9462" end_char="9480">author="laxman3221"</TOKEN>
+<TOKEN id="token-77-3" pos="unknown" morph="none" start_char="9482" end_char="9512">datetime="2015-06-02T02:16:00"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-78" start_char="9514" end_char="9622">
+<ORIGINAL_TEXT>My buddy was a DEA agent, he arrested the guy in real life that the character "Proposition Joe" was based on.</ORIGINAL_TEXT>
+<TOKEN id="token-78-0" pos="word" morph="none" start_char="9514" end_char="9515">My</TOKEN>
+<TOKEN id="token-78-1" pos="word" morph="none" start_char="9517" end_char="9521">buddy</TOKEN>
+<TOKEN id="token-78-2" pos="word" morph="none" start_char="9523" end_char="9525">was</TOKEN>
+<TOKEN id="token-78-3" pos="word" morph="none" start_char="9527" end_char="9527">a</TOKEN>
+<TOKEN id="token-78-4" pos="word" morph="none" start_char="9529" end_char="9531">DEA</TOKEN>
+<TOKEN id="token-78-5" pos="word" morph="none" start_char="9533" end_char="9537">agent</TOKEN>
+<TOKEN id="token-78-6" pos="punct" morph="none" start_char="9538" end_char="9538">,</TOKEN>
+<TOKEN id="token-78-7" pos="word" morph="none" start_char="9540" end_char="9541">he</TOKEN>
+<TOKEN id="token-78-8" pos="word" morph="none" start_char="9543" end_char="9550">arrested</TOKEN>
+<TOKEN id="token-78-9" pos="word" morph="none" start_char="9552" end_char="9554">the</TOKEN>
+<TOKEN id="token-78-10" pos="word" morph="none" start_char="9556" end_char="9558">guy</TOKEN>
+<TOKEN id="token-78-11" pos="word" morph="none" start_char="9560" end_char="9561">in</TOKEN>
+<TOKEN id="token-78-12" pos="word" morph="none" start_char="9563" end_char="9566">real</TOKEN>
+<TOKEN id="token-78-13" pos="word" morph="none" start_char="9568" end_char="9571">life</TOKEN>
+<TOKEN id="token-78-14" pos="word" morph="none" start_char="9573" end_char="9576">that</TOKEN>
+<TOKEN id="token-78-15" pos="word" morph="none" start_char="9578" end_char="9580">the</TOKEN>
+<TOKEN id="token-78-16" pos="word" morph="none" start_char="9582" end_char="9590">character</TOKEN>
+<TOKEN id="token-78-17" pos="punct" morph="none" start_char="9592" end_char="9592">"</TOKEN>
+<TOKEN id="token-78-18" pos="word" morph="none" start_char="9593" end_char="9603">Proposition</TOKEN>
+<TOKEN id="token-78-19" pos="word" morph="none" start_char="9605" end_char="9607">Joe</TOKEN>
+<TOKEN id="token-78-20" pos="punct" morph="none" start_char="9608" end_char="9608">"</TOKEN>
+<TOKEN id="token-78-21" pos="word" morph="none" start_char="9610" end_char="9612">was</TOKEN>
+<TOKEN id="token-78-22" pos="word" morph="none" start_char="9614" end_char="9618">based</TOKEN>
+<TOKEN id="token-78-23" pos="word" morph="none" start_char="9620" end_char="9621">on</TOKEN>
+<TOKEN id="token-78-24" pos="punct" morph="none" start_char="9622" end_char="9622">.</TOKEN>
+</SEG>
+<SEG id="segment-79" start_char="9625" end_char="9745">
+<ORIGINAL_TEXT>&amp;lt;img src="http://ia.media-imdb.com/images/M/MV5BMjE1OTUxOTYzMF5BMl5BanBnXkFtZTcwNjYwMTg5OA@@._V1_.jpg" alt="Image"&amp;gt;</ORIGINAL_TEXT>
+<TOKEN id="token-79-0" pos="punct" morph="none" start_char="9625" end_char="9625">&amp;</TOKEN>
+<TOKEN id="token-79-1" pos="word" morph="none" start_char="9626" end_char="9627">lt</TOKEN>
+<TOKEN id="token-79-2" pos="punct" morph="none" start_char="9628" end_char="9628">;</TOKEN>
+<TOKEN id="token-79-3" pos="word" morph="none" start_char="9629" end_char="9631">img</TOKEN>
+<TOKEN id="token-79-4" pos="email" morph="none" start_char="9633" end_char="9729">src="http://ia.media-imdb.com/images/M/MV5BMjE1OTUxOTYzMF5BMl5BanBnXkFtZTcwNjYwMTg5OA@@._V1_.jpg"</TOKEN>
+<TOKEN id="token-79-5" pos="unknown" morph="none" start_char="9731" end_char="9745">alt="Image"&amp;gt;</TOKEN>
+</SEG>
+<SEG id="segment-80" start_char="9748" end_char="9816">
+<ORIGINAL_TEXT>And the story was pretty close to factual according to his stories...</ORIGINAL_TEXT>
+<TOKEN id="token-80-0" pos="word" morph="none" start_char="9748" end_char="9750">And</TOKEN>
+<TOKEN id="token-80-1" pos="word" morph="none" start_char="9752" end_char="9754">the</TOKEN>
+<TOKEN id="token-80-2" pos="word" morph="none" start_char="9756" end_char="9760">story</TOKEN>
+<TOKEN id="token-80-3" pos="word" morph="none" start_char="9762" end_char="9764">was</TOKEN>
+<TOKEN id="token-80-4" pos="word" morph="none" start_char="9766" end_char="9771">pretty</TOKEN>
+<TOKEN id="token-80-5" pos="word" morph="none" start_char="9773" end_char="9777">close</TOKEN>
+<TOKEN id="token-80-6" pos="word" morph="none" start_char="9779" end_char="9780">to</TOKEN>
+<TOKEN id="token-80-7" pos="word" morph="none" start_char="9782" end_char="9788">factual</TOKEN>
+<TOKEN id="token-80-8" pos="word" morph="none" start_char="9790" end_char="9798">according</TOKEN>
+<TOKEN id="token-80-9" pos="word" morph="none" start_char="9800" end_char="9801">to</TOKEN>
+<TOKEN id="token-80-10" pos="word" morph="none" start_char="9803" end_char="9805">his</TOKEN>
+<TOKEN id="token-80-11" pos="word" morph="none" start_char="9807" end_char="9813">stories</TOKEN>
+<TOKEN id="token-80-12" pos="punct" morph="none" start_char="9814" end_char="9816">...</TOKEN>
+</SEG>
+<SEG id="segment-81" start_char="9818" end_char="9824">
+<ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-81-0" pos="unknown" morph="none" start_char="9818" end_char="9824">&lt;/post&gt;</TOKEN>
+</SEG>
+<SEG id="segment-82" start_char="9826" end_char="9887">
+<ORIGINAL_TEXT>&lt;post id="p19" author="a fan " datetime="2015-06-02T03:31:00"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-82-0" pos="unknown" morph="none" start_char="9826" end_char="9830">&lt;post</TOKEN>
+<TOKEN id="token-82-1" pos="unknown" morph="none" start_char="9832" end_char="9839">id="p19"</TOKEN>
+<TOKEN id="token-82-2" pos="unknown" morph="none" start_char="9841" end_char="9849">author="a</TOKEN>
+<TOKEN id="token-82-3" pos="word" morph="none" start_char="9851" end_char="9853">fan</TOKEN>
+<TOKEN id="token-82-4" pos="unknown" morph="none" start_char="9855" end_char="9855">"</TOKEN>
+<TOKEN id="token-82-5" pos="unknown" morph="none" start_char="9857" end_char="9887">datetime="2015-06-02T03:31:00"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-83" start_char="9889" end_char="9892">
+<ORIGINAL_TEXT>Wow.</ORIGINAL_TEXT>
+<TOKEN id="token-83-0" pos="word" morph="none" start_char="9889" end_char="9891">Wow</TOKEN>
+<TOKEN id="token-83-1" pos="punct" morph="none" start_char="9892" end_char="9892">.</TOKEN>
+</SEG>
+<SEG id="segment-84" start_char="9895" end_char="9938">
+<ORIGINAL_TEXT>Truth is stranger than fiction, as they say.</ORIGINAL_TEXT>
+<TOKEN id="token-84-0" pos="word" morph="none" start_char="9895" end_char="9899">Truth</TOKEN>
+<TOKEN id="token-84-1" pos="word" morph="none" start_char="9901" end_char="9902">is</TOKEN>
+<TOKEN id="token-84-2" pos="word" morph="none" start_char="9904" end_char="9911">stranger</TOKEN>
+<TOKEN id="token-84-3" pos="word" morph="none" start_char="9913" end_char="9916">than</TOKEN>
+<TOKEN id="token-84-4" pos="word" morph="none" start_char="9918" end_char="9924">fiction</TOKEN>
+<TOKEN id="token-84-5" pos="punct" morph="none" start_char="9925" end_char="9925">,</TOKEN>
+<TOKEN id="token-84-6" pos="word" morph="none" start_char="9927" end_char="9928">as</TOKEN>
+<TOKEN id="token-84-7" pos="word" morph="none" start_char="9930" end_char="9933">they</TOKEN>
+<TOKEN id="token-84-8" pos="word" morph="none" start_char="9935" end_char="9937">say</TOKEN>
+<TOKEN id="token-84-9" pos="punct" morph="none" start_char="9938" end_char="9938">.</TOKEN>
+</SEG>
+<SEG id="segment-85" start_char="9940" end_char="9946">
+<ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-85-0" pos="unknown" morph="none" start_char="9940" end_char="9946">&lt;/post&gt;</TOKEN>
+</SEG>
+<SEG id="segment-86" start_char="9948" end_char="10013">
+<ORIGINAL_TEXT>&lt;post id="p20" author="thatsmell " datetime="2015-06-02T13:00:00"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-86-0" pos="unknown" morph="none" start_char="9948" end_char="9952">&lt;post</TOKEN>
+<TOKEN id="token-86-1" pos="unknown" morph="none" start_char="9954" end_char="9961">id="p20"</TOKEN>
+<TOKEN id="token-86-2" pos="unknown" morph="none" start_char="9963" end_char="9979">author="thatsmell</TOKEN>
+<TOKEN id="token-86-3" pos="unknown" morph="none" start_char="9981" end_char="9981">"</TOKEN>
+<TOKEN id="token-86-4" pos="unknown" morph="none" start_char="9983" end_char="10013">datetime="2015-06-02T13:00:00"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-87" start_char="10015" end_char="10262">
+<ORIGINAL_TEXT>The truth is always waaay scarier. David Simon and Ed Burns did a ton of interviews and research for The Wire...I believe Simon covered the police beat for the Sun so he was certainly "in the know" when it came to the types of people in the wire...</ORIGINAL_TEXT>
+<TOKEN id="token-87-0" pos="word" morph="none" start_char="10015" end_char="10017">The</TOKEN>
+<TOKEN id="token-87-1" pos="word" morph="none" start_char="10019" end_char="10023">truth</TOKEN>
+<TOKEN id="token-87-2" pos="word" morph="none" start_char="10025" end_char="10026">is</TOKEN>
+<TOKEN id="token-87-3" pos="word" morph="none" start_char="10028" end_char="10033">always</TOKEN>
+<TOKEN id="token-87-4" pos="word" morph="none" start_char="10035" end_char="10039">waaay</TOKEN>
+<TOKEN id="token-87-5" pos="word" morph="none" start_char="10041" end_char="10047">scarier</TOKEN>
+<TOKEN id="token-87-6" pos="punct" morph="none" start_char="10048" end_char="10048">.</TOKEN>
+<TOKEN id="token-87-7" pos="word" morph="none" start_char="10050" end_char="10054">David</TOKEN>
+<TOKEN id="token-87-8" pos="word" morph="none" start_char="10056" end_char="10060">Simon</TOKEN>
+<TOKEN id="token-87-9" pos="word" morph="none" start_char="10062" end_char="10064">and</TOKEN>
+<TOKEN id="token-87-10" pos="word" morph="none" start_char="10066" end_char="10067">Ed</TOKEN>
+<TOKEN id="token-87-11" pos="word" morph="none" start_char="10069" end_char="10073">Burns</TOKEN>
+<TOKEN id="token-87-12" pos="word" morph="none" start_char="10075" end_char="10077">did</TOKEN>
+<TOKEN id="token-87-13" pos="word" morph="none" start_char="10079" end_char="10079">a</TOKEN>
+<TOKEN id="token-87-14" pos="word" morph="none" start_char="10081" end_char="10083">ton</TOKEN>
+<TOKEN id="token-87-15" pos="word" morph="none" start_char="10085" end_char="10086">of</TOKEN>
+<TOKEN id="token-87-16" pos="word" morph="none" start_char="10088" end_char="10097">interviews</TOKEN>
+<TOKEN id="token-87-17" pos="word" morph="none" start_char="10099" end_char="10101">and</TOKEN>
+<TOKEN id="token-87-18" pos="word" morph="none" start_char="10103" end_char="10110">research</TOKEN>
+<TOKEN id="token-87-19" pos="word" morph="none" start_char="10112" end_char="10114">for</TOKEN>
+<TOKEN id="token-87-20" pos="word" morph="none" start_char="10116" end_char="10118">The</TOKEN>
+<TOKEN id="token-87-21" pos="word" morph="none" start_char="10120" end_char="10123">Wire</TOKEN>
+<TOKEN id="token-87-22" pos="punct" morph="none" start_char="10124" end_char="10126">...</TOKEN>
+<TOKEN id="token-87-23" pos="word" morph="none" start_char="10127" end_char="10127">I</TOKEN>
+<TOKEN id="token-87-24" pos="word" morph="none" start_char="10129" end_char="10135">believe</TOKEN>
+<TOKEN id="token-87-25" pos="word" morph="none" start_char="10137" end_char="10141">Simon</TOKEN>
+<TOKEN id="token-87-26" pos="word" morph="none" start_char="10143" end_char="10149">covered</TOKEN>
+<TOKEN id="token-87-27" pos="word" morph="none" start_char="10151" end_char="10153">the</TOKEN>
+<TOKEN id="token-87-28" pos="word" morph="none" start_char="10155" end_char="10160">police</TOKEN>
+<TOKEN id="token-87-29" pos="word" morph="none" start_char="10162" end_char="10165">beat</TOKEN>
+<TOKEN id="token-87-30" pos="word" morph="none" start_char="10167" end_char="10169">for</TOKEN>
+<TOKEN id="token-87-31" pos="word" morph="none" start_char="10171" end_char="10173">the</TOKEN>
+<TOKEN id="token-87-32" pos="word" morph="none" start_char="10175" end_char="10177">Sun</TOKEN>
+<TOKEN id="token-87-33" pos="word" morph="none" start_char="10179" end_char="10180">so</TOKEN>
+<TOKEN id="token-87-34" pos="word" morph="none" start_char="10182" end_char="10183">he</TOKEN>
+<TOKEN id="token-87-35" pos="word" morph="none" start_char="10185" end_char="10187">was</TOKEN>
+<TOKEN id="token-87-36" pos="word" morph="none" start_char="10189" end_char="10197">certainly</TOKEN>
+<TOKEN id="token-87-37" pos="punct" morph="none" start_char="10199" end_char="10199">"</TOKEN>
+<TOKEN id="token-87-38" pos="word" morph="none" start_char="10200" end_char="10201">in</TOKEN>
+<TOKEN id="token-87-39" pos="word" morph="none" start_char="10203" end_char="10205">the</TOKEN>
+<TOKEN id="token-87-40" pos="word" morph="none" start_char="10207" end_char="10210">know</TOKEN>
+<TOKEN id="token-87-41" pos="punct" morph="none" start_char="10211" end_char="10211">"</TOKEN>
+<TOKEN id="token-87-42" pos="word" morph="none" start_char="10213" end_char="10216">when</TOKEN>
+<TOKEN id="token-87-43" pos="word" morph="none" start_char="10218" end_char="10219">it</TOKEN>
+<TOKEN id="token-87-44" pos="word" morph="none" start_char="10221" end_char="10224">came</TOKEN>
+<TOKEN id="token-87-45" pos="word" morph="none" start_char="10226" end_char="10227">to</TOKEN>
+<TOKEN id="token-87-46" pos="word" morph="none" start_char="10229" end_char="10231">the</TOKEN>
+<TOKEN id="token-87-47" pos="word" morph="none" start_char="10233" end_char="10237">types</TOKEN>
+<TOKEN id="token-87-48" pos="word" morph="none" start_char="10239" end_char="10240">of</TOKEN>
+<TOKEN id="token-87-49" pos="word" morph="none" start_char="10242" end_char="10247">people</TOKEN>
+<TOKEN id="token-87-50" pos="word" morph="none" start_char="10249" end_char="10250">in</TOKEN>
+<TOKEN id="token-87-51" pos="word" morph="none" start_char="10252" end_char="10254">the</TOKEN>
+<TOKEN id="token-87-52" pos="word" morph="none" start_char="10256" end_char="10259">wire</TOKEN>
+<TOKEN id="token-87-53" pos="punct" morph="none" start_char="10260" end_char="10262">...</TOKEN>
+</SEG>
+<SEG id="segment-88" start_char="10264" end_char="10270">
+<ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-88-0" pos="unknown" morph="none" start_char="10264" end_char="10270">&lt;/post&gt;</TOKEN>
+</SEG>
+<SEG id="segment-89" start_char="10272" end_char="10277">
+<ORIGINAL_TEXT>&lt;/doc&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-89-0" pos="unknown" morph="none" start_char="10272" end_char="10277">&lt;/doc&gt;</TOKEN>
+</SEG>
+</TEXT>
+</DOC>
+</LCTL_TEXT>

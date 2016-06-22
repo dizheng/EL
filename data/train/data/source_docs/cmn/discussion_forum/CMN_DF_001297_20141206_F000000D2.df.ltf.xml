@@ -1,0 +1,598 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LCTL_TEXT>
+  <DOC id="CMN_DF_001297_20141206_F000000D2.df.xml" tokenization="tokenization_parameters" grammar="none" raw_text_char_length="4426" raw_text_md5="782c2b04a1b60f9255c59387e624d5c4">
+    <TEXT>
+      <SEG id="segment-0" start_char="0" end_char="37">
+        <ORIGINAL_TEXT>&lt;?xml version="1.0" encoding="utf-8"?&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-0-0" pos="unknown" morph="none" start_char="0" end_char="4">&lt;?xml</TOKEN>
+        <TOKEN id="token-0-1" pos="unknown" morph="none" start_char="6" end_char="18">version="1.0"</TOKEN>
+        <TOKEN id="token-0-2" pos="unknown" morph="none" start_char="20" end_char="37">encoding="utf-8"?&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-1" start_char="39" end_char="81">
+        <ORIGINAL_TEXT>&lt;doc id="CMN_DF_001297_20141206_F000000D2"&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-1-0" pos="unknown" morph="none" start_char="39" end_char="42">&lt;doc</TOKEN>
+        <TOKEN id="token-1-1" pos="unknown" morph="none" start_char="44" end_char="81">id="CMN_DF_001297_20141206_F000000D2"&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-2" start_char="83" end_char="92">
+        <ORIGINAL_TEXT>&lt;headline&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-2-0" pos="unknown" morph="none" start_char="83" end_char="92">&lt;headline&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-3" start_char="94" end_char="106">
+        <ORIGINAL_TEXT>「雨傘革命」令粵語獲得新生</ORIGINAL_TEXT>
+        <TOKEN id="token-3-0" pos="punct" morph="none" start_char="94" end_char="94">「</TOKEN>
+        <TOKEN id="token-3-1" pos="word" morph="none" start_char="95" end_char="98">雨傘革命</TOKEN>
+        <TOKEN id="token-3-2" pos="punct" morph="none" start_char="99" end_char="99">」</TOKEN>
+        <TOKEN id="token-3-3" pos="word" morph="none" start_char="100" end_char="106">令粵語獲得新生</TOKEN>
+      </SEG>
+      <SEG id="segment-4" start_char="108" end_char="118">
+        <ORIGINAL_TEXT>&lt;/headline&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-4-0" pos="unknown" morph="none" start_char="108" end_char="118">&lt;/headline&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-5" start_char="120" end_char="180">
+        <ORIGINAL_TEXT>&lt;post id="p1" author="sundae" datetime="2014-12-06T11:50:00"&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-5-0" pos="unknown" morph="none" start_char="120" end_char="124">&lt;post</TOKEN>
+        <TOKEN id="token-5-1" pos="unknown" morph="none" start_char="126" end_char="132">id="p1"</TOKEN>
+        <TOKEN id="token-5-2" pos="unknown" morph="none" start_char="134" end_char="148">author="sundae"</TOKEN>
+        <TOKEN id="token-5-3" pos="unknown" morph="none" start_char="150" end_char="180">datetime="2014-12-06T11:50:00"&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-6" start_char="182" end_char="248">
+        <ORIGINAL_TEXT>http://tw.aboluowang.com/2014/1206/482149.html#sthash.etPH1zYF.dpbs</ORIGINAL_TEXT>
+        <TOKEN id="token-6-0" pos="url" morph="none" start_char="182" end_char="248">http://tw.aboluowang.com/2014/1206/482149.html#sthash.etPH1zYF.dpbs</TOKEN>
+      </SEG>
+      <SEG id="segment-7" start_char="250" end_char="256">
+        <ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-7-0" pos="unknown" morph="none" start_char="250" end_char="256">&lt;/post&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-8" start_char="258" end_char="316">
+        <ORIGINAL_TEXT>&lt;post id="p2" author="护粤人士" datetime="2014-12-07T17:59:00"&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-8-0" pos="unknown" morph="none" start_char="258" end_char="262">&lt;post</TOKEN>
+        <TOKEN id="token-8-1" pos="unknown" morph="none" start_char="264" end_char="270">id="p2"</TOKEN>
+        <TOKEN id="token-8-2" pos="unknown" morph="none" start_char="272" end_char="284">author="护粤人士"</TOKEN>
+        <TOKEN id="token-8-3" pos="unknown" morph="none" start_char="286" end_char="316">datetime="2014-12-07T17:59:00"&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-9" start_char="318" end_char="373">
+        <ORIGINAL_TEXT>http://www.voacantonese.com/medi ... oversy/2547137.html</ORIGINAL_TEXT>
+        <TOKEN id="token-9-0" pos="url" morph="none" start_char="318" end_char="349">http://www.voacantonese.com/medi</TOKEN>
+        <TOKEN id="token-9-1" pos="unknown" morph="none" start_char="351" end_char="353">...</TOKEN>
+        <TOKEN id="token-9-2" pos="unknown" morph="none" start_char="355" end_char="373">oversy/2547137.html</TOKEN>
+      </SEG>
+      <SEG id="segment-10" start_char="375" end_char="381">
+        <ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-10-0" pos="unknown" morph="none" start_char="375" end_char="381">&lt;/post&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-11" start_char="383" end_char="441">
+        <ORIGINAL_TEXT>&lt;post id="p3" author="护粤人士" datetime="2014-12-07T19:06:00"&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-11-0" pos="unknown" morph="none" start_char="383" end_char="387">&lt;post</TOKEN>
+        <TOKEN id="token-11-1" pos="unknown" morph="none" start_char="389" end_char="395">id="p3"</TOKEN>
+        <TOKEN id="token-11-2" pos="unknown" morph="none" start_char="397" end_char="409">author="护粤人士"</TOKEN>
+        <TOKEN id="token-11-3" pos="unknown" morph="none" start_char="411" end_char="441">datetime="2014-12-07T19:06:00"&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-12" start_char="443" end_char="453">
+        <ORIGINAL_TEXT>香港關注「推普廢粵」 </ORIGINAL_TEXT>
+        <TOKEN id="token-12-0" pos="word" morph="none" start_char="443" end_char="446">香港關注</TOKEN>
+        <TOKEN id="token-12-1" pos="punct" morph="none" start_char="447" end_char="447">「</TOKEN>
+        <TOKEN id="token-12-2" pos="word" morph="none" start_char="448" end_char="451">推普廢粵</TOKEN>
+        <TOKEN id="token-12-3" pos="punct" morph="none" start_char="452" end_char="452">」</TOKEN>
+      </SEG>
+      <SEG id="segment-13" start_char="456" end_char="511">
+        <ORIGINAL_TEXT>http://www.voacantonese.com/cont ... oversy/2546984.html</ORIGINAL_TEXT>
+        <TOKEN id="token-13-0" pos="url" morph="none" start_char="456" end_char="487">http://www.voacantonese.com/cont</TOKEN>
+        <TOKEN id="token-13-1" pos="unknown" morph="none" start_char="489" end_char="491">...</TOKEN>
+        <TOKEN id="token-13-2" pos="unknown" morph="none" start_char="493" end_char="511">oversy/2546984.html</TOKEN>
+      </SEG>
+      <SEG id="segment-14" start_char="513" end_char="519">
+        <ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-14-0" pos="unknown" morph="none" start_char="513" end_char="519">&lt;/post&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-15" start_char="521" end_char="581">
+        <ORIGINAL_TEXT>&lt;post id="p4" author="sundae" datetime="2014-12-08T03:36:00"&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-15-0" pos="unknown" morph="none" start_char="521" end_char="525">&lt;post</TOKEN>
+        <TOKEN id="token-15-1" pos="unknown" morph="none" start_char="527" end_char="533">id="p4"</TOKEN>
+        <TOKEN id="token-15-2" pos="unknown" morph="none" start_char="535" end_char="549">author="sundae"</TOKEN>
+        <TOKEN id="token-15-3" pos="unknown" morph="none" start_char="551" end_char="581">datetime="2014-12-08T03:36:00"&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-16" start_char="583" end_char="590">
+        <ORIGINAL_TEXT>(Image) </ORIGINAL_TEXT>
+        <TOKEN id="token-16-0" pos="punct" morph="none" start_char="583" end_char="583">(</TOKEN>
+        <TOKEN id="token-16-1" pos="word" morph="none" start_char="584" end_char="588">Image</TOKEN>
+        <TOKEN id="token-16-2" pos="punct" morph="none" start_char="589" end_char="589">)</TOKEN>
+      </SEG>
+      <SEG id="segment-17" start_char="592" end_char="598">
+        <ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-17-0" pos="unknown" morph="none" start_char="592" end_char="598">&lt;/post&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-18" start_char="600" end_char="657">
+        <ORIGINAL_TEXT>&lt;post id="p5" author="使君子" datetime="2014-12-08T10:32:00"&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-18-0" pos="unknown" morph="none" start_char="600" end_char="604">&lt;post</TOKEN>
+        <TOKEN id="token-18-1" pos="unknown" morph="none" start_char="606" end_char="612">id="p5"</TOKEN>
+        <TOKEN id="token-18-2" pos="unknown" morph="none" start_char="614" end_char="625">author="使君子"</TOKEN>
+        <TOKEN id="token-18-3" pos="unknown" morph="none" start_char="627" end_char="657">datetime="2014-12-08T10:32:00"&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-19" start_char="659" end_char="751">
+        <ORIGINAL_TEXT>学生运动，难成大器。毛早年参与学生运动，无人理佢，系加入共军之後，先有机会發挥其军事才能。任何政权必需有军队支持。孙中山无军队，得个讲字，被各派军阀嘲笑「孙大炮」，被掌军权的蒋介石取代。</ORIGINAL_TEXT>
+        <TOKEN id="token-19-0" pos="unknown" morph="none" start_char="659" end_char="751">学生运动，难成大器。毛早年参与学生运动，无人理佢，系加入共军之後，先有机会發挥其军事才能。任何政权必需有军队支持。孙中山无军队，得个讲字，被各派军阀嘲笑「孙大炮」，被掌军权的蒋介石取代。</TOKEN>
+      </SEG>
+      <SEG id="segment-20" start_char="754" end_char="795">
+        <ORIGINAL_TEXT>黄之锋个样，无乜贵格，无气场，无魄力。除非我粤出番几个希特拉式的强人，否则永远被骑。</ORIGINAL_TEXT>
+        <TOKEN id="token-20-0" pos="unknown" morph="none" start_char="754" end_char="795">黄之锋个样，无乜贵格，无气场，无魄力。除非我粤出番几个希特拉式的强人，否则永远被骑。</TOKEN>
+      </SEG>
+      <SEG id="segment-21" start_char="797" end_char="803">
+        <ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-21-0" pos="unknown" morph="none" start_char="797" end_char="803">&lt;/post&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-22" start_char="805" end_char="865">
+        <ORIGINAL_TEXT>&lt;post id="p6" author="sundae" datetime="2014-12-08T16:46:00"&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-22-0" pos="unknown" morph="none" start_char="805" end_char="809">&lt;post</TOKEN>
+        <TOKEN id="token-22-1" pos="unknown" morph="none" start_char="811" end_char="817">id="p6"</TOKEN>
+        <TOKEN id="token-22-2" pos="unknown" morph="none" start_char="819" end_char="833">author="sundae"</TOKEN>
+        <TOKEN id="token-22-3" pos="unknown" morph="none" start_char="835" end_char="865">datetime="2014-12-08T16:46:00"&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-23" start_char="867" end_char="937">
+        <ORIGINAL_TEXT>而家廣州已經畀 極權專制 + 殖民政策 + 文化滅絕政策 打到趴曬喺地，毫無反抗能力，剩番香港有一絲希望。如果香港都被完全赤化，粵語真系玩完。</ORIGINAL_TEXT>
+        <TOKEN id="token-23-0" pos="word" morph="none" start_char="867" end_char="873">而家廣州已經畀</TOKEN>
+        <TOKEN id="token-23-1" pos="word" morph="none" start_char="875" end_char="878">極權專制</TOKEN>
+        <TOKEN id="token-23-2" pos="unknown" morph="none" start_char="880" end_char="880">+</TOKEN>
+        <TOKEN id="token-23-3" pos="word" morph="none" start_char="882" end_char="885">殖民政策</TOKEN>
+        <TOKEN id="token-23-4" pos="unknown" morph="none" start_char="887" end_char="887">+</TOKEN>
+        <TOKEN id="token-23-5" pos="word" morph="none" start_char="889" end_char="894">文化滅絕政策</TOKEN>
+        <TOKEN id="token-23-6" pos="unknown" morph="none" start_char="896" end_char="937">打到趴曬喺地，毫無反抗能力，剩番香港有一絲希望。如果香港都被完全赤化，粵語真系玩完。</TOKEN>
+      </SEG>
+      <SEG id="segment-24" start_char="939" end_char="945">
+        <ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-24-0" pos="unknown" morph="none" start_char="939" end_char="945">&lt;/post&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-25" start_char="947" end_char="1008">
+        <ORIGINAL_TEXT>&lt;post id="p7" author="robert仔" datetime="2014-12-08T17:22:00"&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-25-0" pos="unknown" morph="none" start_char="947" end_char="951">&lt;post</TOKEN>
+        <TOKEN id="token-25-1" pos="unknown" morph="none" start_char="953" end_char="959">id="p7"</TOKEN>
+        <TOKEN id="token-25-2" pos="unknown" morph="none" start_char="961" end_char="976">author="robert仔"</TOKEN>
+        <TOKEN id="token-25-3" pos="unknown" morph="none" start_char="978" end_char="1008">datetime="2014-12-08T17:22:00"&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-26" start_char="1010" end_char="1046">
+        <ORIGINAL_TEXT>其實當初香港畀英國統治，真系好事黎。如果系畀國民黨統治，肯定又系推普滅粵。</ORIGINAL_TEXT>
+        <TOKEN id="token-26-0" pos="unknown" morph="none" start_char="1010" end_char="1046">其實當初香港畀英國統治，真系好事黎。如果系畀國民黨統治，肯定又系推普滅粵。</TOKEN>
+      </SEG>
+      <SEG id="segment-27" start_char="1049" end_char="1066">
+        <ORIGINAL_TEXT>國共兩黨皆脫胎於五四，都系文化殺手。</ORIGINAL_TEXT>
+        <TOKEN id="token-27-0" pos="word" morph="none" start_char="1049" end_char="1058">國共兩黨皆脫胎於五四</TOKEN>
+        <TOKEN id="token-27-1" pos="punct" morph="none" start_char="1059" end_char="1059">，</TOKEN>
+        <TOKEN id="token-27-2" pos="word" morph="none" start_char="1060" end_char="1065">都系文化殺手</TOKEN>
+        <TOKEN id="token-27-3" pos="punct" morph="none" start_char="1066" end_char="1066">。</TOKEN>
+      </SEG>
+      <SEG id="segment-28" start_char="1068" end_char="1074">
+        <ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-28-0" pos="unknown" morph="none" start_char="1068" end_char="1074">&lt;/post&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-29" start_char="1076" end_char="1137">
+        <ORIGINAL_TEXT>&lt;post id="p8" author="robert仔" datetime="2014-12-08T17:19:00"&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-29-0" pos="unknown" morph="none" start_char="1076" end_char="1080">&lt;post</TOKEN>
+        <TOKEN id="token-29-1" pos="unknown" morph="none" start_char="1082" end_char="1088">id="p8"</TOKEN>
+        <TOKEN id="token-29-2" pos="unknown" morph="none" start_char="1090" end_char="1105">author="robert仔"</TOKEN>
+        <TOKEN id="token-29-3" pos="unknown" morph="none" start_char="1107" end_char="1137">datetime="2014-12-08T17:19:00"&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-30" start_char="1139" end_char="1168">
+        <ORIGINAL_TEXT>粵港都冇本土軍事力量，要擺脫被赤化撈化命運，唯有靠外國勢力：</ORIGINAL_TEXT>
+        <TOKEN id="token-30-0" pos="unknown" morph="none" start_char="1139" end_char="1168">粵港都冇本土軍事力量，要擺脫被赤化撈化命運，唯有靠外國勢力：</TOKEN>
+      </SEG>
+      <SEG id="segment-31" start_char="1171" end_char="1231">
+        <ORIGINAL_TEXT>http://bbs.cantonese.asia/viewthread.php?tid=43268&amp;amp;page=1</ORIGINAL_TEXT>
+        <TOKEN id="token-31-0" pos="url" morph="none" start_char="1171" end_char="1231">http://bbs.cantonese.asia/viewthread.php?tid=43268&amp;amp;page=1</TOKEN>
+      </SEG>
+      <SEG id="segment-32" start_char="1233" end_char="1239">
+        <ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-32-0" pos="unknown" morph="none" start_char="1233" end_char="1239">&lt;/post&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-33" start_char="1241" end_char="1302">
+        <ORIGINAL_TEXT>&lt;post id="p9" author="robert仔" datetime="2014-12-08T17:39:00"&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-33-0" pos="unknown" morph="none" start_char="1241" end_char="1245">&lt;post</TOKEN>
+        <TOKEN id="token-33-1" pos="unknown" morph="none" start_char="1247" end_char="1253">id="p9"</TOKEN>
+        <TOKEN id="token-33-2" pos="unknown" morph="none" start_char="1255" end_char="1270">author="robert仔"</TOKEN>
+        <TOKEN id="token-33-3" pos="unknown" morph="none" start_char="1272" end_char="1302">datetime="2014-12-08T17:39:00"&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-34" start_char="1304" end_char="1406">
+        <ORIGINAL_TEXT>學聯個周永康似乎適合做形象代言多D &amp;lt;img src="static/image/smiley/default/lol.gif" smilieid="12" border="0" alt=""&amp;gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-34-0" pos="word" morph="none" start_char="1304" end_char="1320">學聯個周永康似乎適合做形象代言多D</TOKEN>
+        <TOKEN id="token-34-1" pos="punct" morph="none" start_char="1322" end_char="1322">&amp;</TOKEN>
+        <TOKEN id="token-34-2" pos="word" morph="none" start_char="1323" end_char="1324">lt</TOKEN>
+        <TOKEN id="token-34-3" pos="punct" morph="none" start_char="1325" end_char="1325">;</TOKEN>
+        <TOKEN id="token-34-4" pos="word" morph="none" start_char="1326" end_char="1328">img</TOKEN>
+        <TOKEN id="token-34-5" pos="unknown" morph="none" start_char="1330" end_char="1370">src="static/image/smiley/default/lol.gif"</TOKEN>
+        <TOKEN id="token-34-6" pos="unknown" morph="none" start_char="1372" end_char="1384">smilieid="12"</TOKEN>
+        <TOKEN id="token-34-7" pos="unknown" morph="none" start_char="1386" end_char="1395">border="0"</TOKEN>
+        <TOKEN id="token-34-8" pos="unknown" morph="none" start_char="1397" end_char="1406">alt=""&amp;gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-35" start_char="1409" end_char="1454">
+        <ORIGINAL_TEXT>不過學聯較保守，學民較進取。當日旺角清場之後，學民即刻號召人出來「鳩嗚」，學聯則遲遲未表態。</ORIGINAL_TEXT>
+        <TOKEN id="token-35-0" pos="unknown" morph="none" start_char="1409" end_char="1454">不過學聯較保守，學民較進取。當日旺角清場之後，學民即刻號召人出來「鳩嗚」，學聯則遲遲未表態。</TOKEN>
+      </SEG>
+      <SEG id="segment-36" start_char="1456" end_char="1462">
+        <ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-36-0" pos="unknown" morph="none" start_char="1456" end_char="1462">&lt;/post&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-37" start_char="1464" end_char="1522">
+        <ORIGINAL_TEXT>&lt;post id="p10" author="使君子" datetime="2014-12-08T18:48:00"&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-37-0" pos="unknown" morph="none" start_char="1464" end_char="1468">&lt;post</TOKEN>
+        <TOKEN id="token-37-1" pos="unknown" morph="none" start_char="1470" end_char="1477">id="p10"</TOKEN>
+        <TOKEN id="token-37-2" pos="unknown" morph="none" start_char="1479" end_char="1490">author="使君子"</TOKEN>
+        <TOKEN id="token-37-3" pos="unknown" morph="none" start_char="1492" end_char="1522">datetime="2014-12-08T18:48:00"&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-38" start_char="1525" end_char="1553">
+        <ORIGINAL_TEXT>&lt;quote orig_author="robert仔"&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-38-0" pos="unknown" morph="none" start_char="1525" end_char="1530">&lt;quote</TOKEN>
+        <TOKEN id="token-38-1" pos="unknown" morph="none" start_char="1532" end_char="1553">orig_author="robert仔"&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-39" start_char="1555" end_char="1584">
+        <ORIGINAL_TEXT>粵港都冇本土軍事力量，要擺脫被赤化撈化命運，唯有靠外國勢力：</ORIGINAL_TEXT>
+        <TOKEN id="token-39-0" pos="unknown" morph="none" start_char="1555" end_char="1584">粵港都冇本土軍事力量，要擺脫被赤化撈化命運，唯有靠外國勢力：</TOKEN>
+      </SEG>
+      <SEG id="segment-40" start_char="1586" end_char="1593">
+        <ORIGINAL_TEXT>&lt;/quote&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-40-0" pos="unknown" morph="none" start_char="1586" end_char="1593">&lt;/quote&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-41" start_char="1596" end_char="1664">
+        <ORIGINAL_TEXT>「外国势力」有巨大政治风险，求人不如求己！ 毛虽然靠过苏俄，但在斯大林死後，敢与苏俄公开敌对，这就叫魄力！ 孙中山软脚蟹，不具备这种魄力。</ORIGINAL_TEXT>
+        <TOKEN id="token-41-0" pos="unknown" morph="none" start_char="1596" end_char="1616">「外国势力」有巨大政治风险，求人不如求己！</TOKEN>
+        <TOKEN id="token-41-1" pos="unknown" morph="none" start_char="1618" end_char="1648">毛虽然靠过苏俄，但在斯大林死後，敢与苏俄公开敌对，这就叫魄力！</TOKEN>
+        <TOKEN id="token-41-2" pos="word" morph="none" start_char="1650" end_char="1655">孙中山软脚蟹</TOKEN>
+        <TOKEN id="token-41-3" pos="punct" morph="none" start_char="1656" end_char="1656">，</TOKEN>
+        <TOKEN id="token-41-4" pos="word" morph="none" start_char="1657" end_char="1663">不具备这种魄力</TOKEN>
+        <TOKEN id="token-41-5" pos="punct" morph="none" start_char="1664" end_char="1664">。</TOKEN>
+      </SEG>
+      <SEG id="segment-42" start_char="1667" end_char="1714">
+        <ORIGINAL_TEXT>虽然毛系恶魔，但亦有其可取之处，我最欣赏毛的超强 统御、动员 魄力！ 最希望我粤出一个这样的猛人</ORIGINAL_TEXT>
+        <TOKEN id="token-42-0" pos="unknown" morph="none" start_char="1667" end_char="1690">虽然毛系恶魔，但亦有其可取之处，我最欣赏毛的超强</TOKEN>
+        <TOKEN id="token-42-1" pos="word" morph="none" start_char="1692" end_char="1693">统御</TOKEN>
+        <TOKEN id="token-42-2" pos="punct" morph="none" start_char="1694" end_char="1694">、</TOKEN>
+        <TOKEN id="token-42-3" pos="word" morph="none" start_char="1695" end_char="1696">动员</TOKEN>
+        <TOKEN id="token-42-4" pos="word" morph="none" start_char="1698" end_char="1699">魄力</TOKEN>
+        <TOKEN id="token-42-5" pos="punct" morph="none" start_char="1700" end_char="1700">！</TOKEN>
+        <TOKEN id="token-42-6" pos="word" morph="none" start_char="1702" end_char="1714">最希望我粤出一个这样的猛人</TOKEN>
+      </SEG>
+      <SEG id="segment-43" start_char="1716" end_char="1722">
+        <ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-43-0" pos="unknown" morph="none" start_char="1716" end_char="1722">&lt;/post&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-44" start_char="1724" end_char="1782">
+        <ORIGINAL_TEXT>&lt;post id="p11" author="使君子" datetime="2014-12-08T19:05:00"&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-44-0" pos="unknown" morph="none" start_char="1724" end_char="1728">&lt;post</TOKEN>
+        <TOKEN id="token-44-1" pos="unknown" morph="none" start_char="1730" end_char="1737">id="p11"</TOKEN>
+        <TOKEN id="token-44-2" pos="unknown" morph="none" start_char="1739" end_char="1750">author="使君子"</TOKEN>
+        <TOKEN id="token-44-3" pos="unknown" morph="none" start_char="1752" end_char="1782">datetime="2014-12-08T19:05:00"&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-45" start_char="1785" end_char="1813">
+        <ORIGINAL_TEXT>&lt;quote orig_author="robert仔"&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-45-0" pos="unknown" morph="none" start_char="1785" end_char="1790">&lt;quote</TOKEN>
+        <TOKEN id="token-45-1" pos="unknown" morph="none" start_char="1792" end_char="1813">orig_author="robert仔"&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-46" start_char="1815" end_char="1833">
+        <ORIGINAL_TEXT>如果系畀國民黨統治，肯定又系推普滅粵。</ORIGINAL_TEXT>
+        <TOKEN id="token-46-0" pos="word" morph="none" start_char="1815" end_char="1823">如果系畀國民黨統治</TOKEN>
+        <TOKEN id="token-46-1" pos="punct" morph="none" start_char="1824" end_char="1824">，</TOKEN>
+        <TOKEN id="token-46-2" pos="word" morph="none" start_char="1825" end_char="1832">肯定又系推普滅粵</TOKEN>
+        <TOKEN id="token-46-3" pos="punct" morph="none" start_char="1833" end_char="1833">。</TOKEN>
+      </SEG>
+      <SEG id="segment-47" start_char="1836" end_char="1853">
+        <ORIGINAL_TEXT>國共兩黨皆脫胎於五四，都系文化殺手。</ORIGINAL_TEXT>
+        <TOKEN id="token-47-0" pos="word" morph="none" start_char="1836" end_char="1845">國共兩黨皆脫胎於五四</TOKEN>
+        <TOKEN id="token-47-1" pos="punct" morph="none" start_char="1846" end_char="1846">，</TOKEN>
+        <TOKEN id="token-47-2" pos="word" morph="none" start_char="1847" end_char="1852">都系文化殺手</TOKEN>
+        <TOKEN id="token-47-3" pos="punct" morph="none" start_char="1853" end_char="1853">。</TOKEN>
+      </SEG>
+      <SEG id="segment-48" start_char="1855" end_char="1862">
+        <ORIGINAL_TEXT>&lt;/quote&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-48-0" pos="unknown" morph="none" start_char="1855" end_char="1862">&lt;/quote&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-49" start_char="1865" end_char="1892">
+        <ORIGINAL_TEXT>广州 黄埔军校 是国共两军摇篮，我粤应重提 黄埔精神 ！</ORIGINAL_TEXT>
+        <TOKEN id="token-49-0" pos="word" morph="none" start_char="1865" end_char="1866">广州</TOKEN>
+        <TOKEN id="token-49-1" pos="word" morph="none" start_char="1868" end_char="1871">黄埔军校</TOKEN>
+        <TOKEN id="token-49-2" pos="word" morph="none" start_char="1873" end_char="1879">是国共两军摇篮</TOKEN>
+        <TOKEN id="token-49-3" pos="punct" morph="none" start_char="1880" end_char="1880">，</TOKEN>
+        <TOKEN id="token-49-4" pos="word" morph="none" start_char="1881" end_char="1885">我粤应重提</TOKEN>
+        <TOKEN id="token-49-5" pos="word" morph="none" start_char="1887" end_char="1890">黄埔精神</TOKEN>
+        <TOKEN id="token-49-6" pos="unknown" morph="none" start_char="1892" end_char="1892">！</TOKEN>
+      </SEG>
+      <SEG id="segment-50" start_char="1895" end_char="1961">
+        <ORIGINAL_TEXT>国共两党亦有分派系，比如效忠孙中山的 粤系、粤军，因不服蒋介石，有的转投共军(叶剑英)，有的故意养肥共军、放走共军任其长征(陈济棠)。</ORIGINAL_TEXT>
+        <TOKEN id="token-50-0" pos="word" morph="none" start_char="1895" end_char="1903">国共两党亦有分派系</TOKEN>
+        <TOKEN id="token-50-1" pos="punct" morph="none" start_char="1904" end_char="1904">，</TOKEN>
+        <TOKEN id="token-50-2" pos="word" morph="none" start_char="1905" end_char="1912">比如效忠孙中山的</TOKEN>
+        <TOKEN id="token-50-3" pos="unknown" morph="none" start_char="1914" end_char="1961">粤系、粤军，因不服蒋介石，有的转投共军(叶剑英)，有的故意养肥共军、放走共军任其长征(陈济棠)。</TOKEN>
+      </SEG>
+      <SEG id="segment-51" start_char="1964" end_char="2014">
+        <ORIGINAL_TEXT>1923-33年的粤军人马，「细细粒」，但相当劲抽，中原大战时，号称「最猛」的张学良奉军，被粤军打爆。</ORIGINAL_TEXT>
+        <TOKEN id="token-51-0" pos="unknown" morph="none" start_char="1964" end_char="2014">1923-33年的粤军人马，「细细粒」，但相当劲抽，中原大战时，号称「最猛」的张学良奉军，被粤军打爆。</TOKEN>
+      </SEG>
+      <SEG id="segment-52" start_char="2016" end_char="2022">
+        <ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-52-0" pos="unknown" morph="none" start_char="2016" end_char="2022">&lt;/post&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-53" start_char="2024" end_char="2085">
+        <ORIGINAL_TEXT>&lt;post id="p12" author="sundae" datetime="2014-12-08T20:55:00"&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-53-0" pos="unknown" morph="none" start_char="2024" end_char="2028">&lt;post</TOKEN>
+        <TOKEN id="token-53-1" pos="unknown" morph="none" start_char="2030" end_char="2037">id="p12"</TOKEN>
+        <TOKEN id="token-53-2" pos="unknown" morph="none" start_char="2039" end_char="2053">author="sundae"</TOKEN>
+        <TOKEN id="token-53-3" pos="unknown" morph="none" start_char="2055" end_char="2085">datetime="2014-12-08T20:55:00"&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-54" start_char="2087" end_char="2115">
+        <ORIGINAL_TEXT>靠自己？你而家成立個民兵組織試下？即刻畀人 kum 沉啦~</ORIGINAL_TEXT>
+        <TOKEN id="token-54-0" pos="unknown" morph="none" start_char="2087" end_char="2107">靠自己？你而家成立個民兵組織試下？即刻畀人</TOKEN>
+        <TOKEN id="token-54-1" pos="word" morph="none" start_char="2109" end_char="2111">kum</TOKEN>
+        <TOKEN id="token-54-2" pos="unknown" morph="none" start_char="2113" end_char="2115">沉啦~</TOKEN>
+      </SEG>
+      <SEG id="segment-55" start_char="2118" end_char="2165">
+        <ORIGINAL_TEXT>CCP根本就系蘇共支部，由蘇聯 &amp;amp; 共產國際提供錢、人、物資、武器、技術等等全方位支持。</ORIGINAL_TEXT>
+        <TOKEN id="token-55-0" pos="word" morph="none" start_char="2118" end_char="2128">CCP根本就系蘇共支部</TOKEN>
+        <TOKEN id="token-55-1" pos="punct" morph="none" start_char="2129" end_char="2129">，</TOKEN>
+        <TOKEN id="token-55-2" pos="word" morph="none" start_char="2130" end_char="2132">由蘇聯</TOKEN>
+        <TOKEN id="token-55-3" pos="html_entity" morph="none" start_char="2134" end_char="2138">&amp;amp;</TOKEN>
+        <TOKEN id="token-55-4" pos="unknown" morph="none" start_char="2140" end_char="2165">共產國際提供錢、人、物資、武器、技術等等全方位支持。</TOKEN>
+      </SEG>
+      <SEG id="segment-56" start_char="2168" end_char="2262">
+        <ORIGINAL_TEXT>抗日戰爭之前，CCP數次被老蔣圍剿，幾乎全滅，後來CCP &amp;amp; 蘇共 &amp;amp; 張學良等人聯手策動西安事件，逼老蔣停止剿共、與日本火拼，而共軍則與日軍默契配合，一明一暗共同打擊國軍。</ORIGINAL_TEXT>
+        <TOKEN id="token-56-0" pos="unknown" morph="none" start_char="2168" end_char="2195">抗日戰爭之前，CCP數次被老蔣圍剿，幾乎全滅，後來CCP</TOKEN>
+        <TOKEN id="token-56-1" pos="html_entity" morph="none" start_char="2197" end_char="2201">&amp;amp;</TOKEN>
+        <TOKEN id="token-56-2" pos="word" morph="none" start_char="2203" end_char="2204">蘇共</TOKEN>
+        <TOKEN id="token-56-3" pos="html_entity" morph="none" start_char="2206" end_char="2210">&amp;amp;</TOKEN>
+        <TOKEN id="token-56-4" pos="unknown" morph="none" start_char="2212" end_char="2262">張學良等人聯手策動西安事件，逼老蔣停止剿共、與日本火拼，而共軍則與日軍默契配合，一明一暗共同打擊國軍。</TOKEN>
+      </SEG>
+      <SEG id="segment-57" start_char="2265" end_char="2346">
+        <ORIGINAL_TEXT>周恩來系共產國際培養出來嘅大特務頭子，掌控徧佈全世界嘅巨大間諜網絡。周恩來一出師就進入黃埔軍校任高職，搞到國民黨軍官入邊大把共產黨內線，國民黨對共產黨毫無秘密可言。</ORIGINAL_TEXT>
+        <TOKEN id="token-57-0" pos="unknown" morph="none" start_char="2265" end_char="2346">周恩來系共產國際培養出來嘅大特務頭子，掌控徧佈全世界嘅巨大間諜網絡。周恩來一出師就進入黃埔軍校任高職，搞到國民黨軍官入邊大把共產黨內線，國民黨對共產黨毫無秘密可言。</TOKEN>
+      </SEG>
+      <SEG id="segment-58" start_char="2349" end_char="2396">
+        <ORIGINAL_TEXT>當時共產國際勢力非常龐大，美國國會決策都受共諜影響，連中華民國嘅「國母」宋慶齡都系共產國際嘅人。</ORIGINAL_TEXT>
+        <TOKEN id="token-58-0" pos="unknown" morph="none" start_char="2349" end_char="2396">當時共產國際勢力非常龐大，美國國會決策都受共諜影響，連中華民國嘅「國母」宋慶齡都系共產國際嘅人。</TOKEN>
+      </SEG>
+      <SEG id="segment-59" start_char="2399" end_char="2479">
+        <ORIGINAL_TEXT>國共內戰開始時，共產黨獲得蘇聯提供之軍械、兵工廠、大量投降之日軍（部分為朝鮮人）等，而國民黨則被美國軍事禁運。美國當時的確有部分人相信共產黨會為中國帶來美式民主。</ORIGINAL_TEXT>
+        <TOKEN id="token-59-0" pos="unknown" morph="none" start_char="2399" end_char="2479">國共內戰開始時，共產黨獲得蘇聯提供之軍械、兵工廠、大量投降之日軍（部分為朝鮮人）等，而國民黨則被美國軍事禁運。美國當時的確有部分人相信共產黨會為中國帶來美式民主。</TOKEN>
+      </SEG>
+      <SEG id="segment-60" start_char="2482" end_char="2488">
+        <ORIGINAL_TEXT>(image)</ORIGINAL_TEXT>
+        <TOKEN id="token-60-0" pos="punct" morph="none" start_char="2482" end_char="2482">(</TOKEN>
+        <TOKEN id="token-60-1" pos="word" morph="none" start_char="2483" end_char="2487">image</TOKEN>
+        <TOKEN id="token-60-2" pos="punct" morph="none" start_char="2488" end_char="2488">)</TOKEN>
+      </SEG>
+      <SEG id="segment-61" start_char="2491" end_char="2520">
+        <ORIGINAL_TEXT>所以話，共產黨其實係靠蘇聯+日本+美國嘅力量，做低咗國民黨。</ORIGINAL_TEXT>
+        <TOKEN id="token-61-0" pos="unknown" morph="none" start_char="2491" end_char="2520">所以話，共產黨其實係靠蘇聯+日本+美國嘅力量，做低咗國民黨。</TOKEN>
+      </SEG>
+      <SEG id="segment-62" start_char="2522" end_char="2528">
+        <ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-62-0" pos="unknown" morph="none" start_char="2522" end_char="2528">&lt;/post&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-63" start_char="2530" end_char="2591">
+        <ORIGINAL_TEXT>&lt;post id="p13" author="sundae" datetime="2014-12-08T21:15:00"&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-63-0" pos="unknown" morph="none" start_char="2530" end_char="2534">&lt;post</TOKEN>
+        <TOKEN id="token-63-1" pos="unknown" morph="none" start_char="2536" end_char="2543">id="p13"</TOKEN>
+        <TOKEN id="token-63-2" pos="unknown" morph="none" start_char="2545" end_char="2559">author="sundae"</TOKEN>
+        <TOKEN id="token-63-3" pos="unknown" morph="none" start_char="2561" end_char="2591">datetime="2014-12-08T21:15:00"&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-64" start_char="2593" end_char="2598">
+        <ORIGINAL_TEXT>周恩來之迷：</ORIGINAL_TEXT>
+        <TOKEN id="token-64-0" pos="word" morph="none" start_char="2593" end_char="2597">周恩來之迷</TOKEN>
+        <TOKEN id="token-64-1" pos="punct" morph="none" start_char="2598" end_char="2598">：</TOKEN>
+      </SEG>
+      <SEG id="segment-65" start_char="2601" end_char="2647">
+        <ORIGINAL_TEXT>http://www.aboluowang.com/2014/0803/425301.html</ORIGINAL_TEXT>
+        <TOKEN id="token-65-0" pos="url" morph="none" start_char="2601" end_char="2647">http://www.aboluowang.com/2014/0803/425301.html</TOKEN>
+      </SEG>
+      <SEG id="segment-66" start_char="2650" end_char="2696">
+        <ORIGINAL_TEXT>http://www.aboluowang.com/2014/1111/470492.html</ORIGINAL_TEXT>
+        <TOKEN id="token-66-0" pos="url" morph="none" start_char="2650" end_char="2696">http://www.aboluowang.com/2014/1111/470492.html</TOKEN>
+      </SEG>
+      <SEG id="segment-67" start_char="2699" end_char="2711">
+        <ORIGINAL_TEXT>CCP在國民黨懷抱中坐大：</ORIGINAL_TEXT>
+        <TOKEN id="token-67-0" pos="word" morph="none" start_char="2699" end_char="2710">CCP在國民黨懷抱中坐大</TOKEN>
+        <TOKEN id="token-67-1" pos="punct" morph="none" start_char="2711" end_char="2711">：</TOKEN>
+      </SEG>
+      <SEG id="segment-68" start_char="2714" end_char="2760">
+        <ORIGINAL_TEXT>http://www.aboluowang.com/2014/1124/476810.html</ORIGINAL_TEXT>
+        <TOKEN id="token-68-0" pos="url" morph="none" start_char="2714" end_char="2760">http://www.aboluowang.com/2014/1124/476810.html</TOKEN>
+      </SEG>
+      <SEG id="segment-69" start_char="2762" end_char="2768">
+        <ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-69-0" pos="unknown" morph="none" start_char="2762" end_char="2768">&lt;/post&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-70" start_char="2770" end_char="2831">
+        <ORIGINAL_TEXT>&lt;post id="p14" author="sundae" datetime="2014-12-08T21:12:00"&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-70-0" pos="unknown" morph="none" start_char="2770" end_char="2774">&lt;post</TOKEN>
+        <TOKEN id="token-70-1" pos="unknown" morph="none" start_char="2776" end_char="2783">id="p14"</TOKEN>
+        <TOKEN id="token-70-2" pos="unknown" morph="none" start_char="2785" end_char="2799">author="sundae"</TOKEN>
+        <TOKEN id="token-70-3" pos="unknown" morph="none" start_char="2801" end_char="2831">datetime="2014-12-08T21:12:00"&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-71" start_char="2833" end_char="2835">
+        <ORIGINAL_TEXT>仲有：</ORIGINAL_TEXT>
+        <TOKEN id="token-71-0" pos="word" morph="none" start_char="2833" end_char="2834">仲有</TOKEN>
+        <TOKEN id="token-71-1" pos="punct" morph="none" start_char="2835" end_char="2835">：</TOKEN>
+      </SEG>
+      <SEG id="segment-72" start_char="2838" end_char="2864">
+        <ORIGINAL_TEXT>列寧十月革命，係靠德國秘密資助。（前蘇聯解密文件證實）</ORIGINAL_TEXT>
+        <TOKEN id="token-72-0" pos="unknown" morph="none" start_char="2838" end_char="2864">列寧十月革命，係靠德國秘密資助。（前蘇聯解密文件證實）</TOKEN>
+      </SEG>
+      <SEG id="segment-73" start_char="2867" end_char="2907">
+        <ORIGINAL_TEXT>美國獨立戰爭，係靠法國軍隊幫手。否則，靠美國D早期民兵，根本唔系英國正規軍嘅對手。</ORIGINAL_TEXT>
+        <TOKEN id="token-73-0" pos="unknown" morph="none" start_char="2867" end_char="2907">美國獨立戰爭，係靠法國軍隊幫手。否則，靠美國D早期民兵，根本唔系英國正規軍嘅對手。</TOKEN>
+      </SEG>
+      <SEG id="segment-74" start_char="2909" end_char="2915">
+        <ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-74-0" pos="unknown" morph="none" start_char="2909" end_char="2915">&lt;/post&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-75" start_char="2917" end_char="2975">
+        <ORIGINAL_TEXT>&lt;post id="p15" author="使君子" datetime="2014-12-08T21:16:00"&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-75-0" pos="unknown" morph="none" start_char="2917" end_char="2921">&lt;post</TOKEN>
+        <TOKEN id="token-75-1" pos="unknown" morph="none" start_char="2923" end_char="2930">id="p15"</TOKEN>
+        <TOKEN id="token-75-2" pos="unknown" morph="none" start_char="2932" end_char="2943">author="使君子"</TOKEN>
+        <TOKEN id="token-75-3" pos="unknown" morph="none" start_char="2945" end_char="2975">datetime="2014-12-08T21:16:00"&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-76" start_char="2977" end_char="3004">
+        <ORIGINAL_TEXT>蒋介石自私、阴湿，孙中山交军权比蒋介石，一开始就系大错！</ORIGINAL_TEXT>
+        <TOKEN id="token-76-0" pos="unknown" morph="none" start_char="2977" end_char="3004">蒋介石自私、阴湿，孙中山交军权比蒋介石，一开始就系大错！</TOKEN>
+      </SEG>
+      <SEG id="segment-77" start_char="3007" end_char="3073">
+        <ORIGINAL_TEXT>蒋介石在任甘多年，国民党、民国 政局长期混乱，物质建设，全靠各地军阀，根本吾关蒋介石事。蒋势力只覆盖苏浙一带，无法动员全国开展大生产。</ORIGINAL_TEXT>
+        <TOKEN id="token-77-0" pos="unknown" morph="none" start_char="3007" end_char="3021">蒋介石在任甘多年，国民党、民国</TOKEN>
+        <TOKEN id="token-77-1" pos="unknown" morph="none" start_char="3023" end_char="3073">政局长期混乱，物质建设，全靠各地军阀，根本吾关蒋介石事。蒋势力只覆盖苏浙一带，无法动员全国开展大生产。</TOKEN>
+      </SEG>
+      <SEG id="segment-78" start_char="3076" end_char="3140">
+        <ORIGINAL_TEXT>毛能够迷惑美国人，借力打力，伺机而动，等班友打餐死，自己匿埋做「死剩种」，黄雀在後，一网打尽，系毛最大的本事，粤人要吸取教训学精！</ORIGINAL_TEXT>
+        <TOKEN id="token-78-0" pos="unknown" morph="none" start_char="3076" end_char="3140">毛能够迷惑美国人，借力打力，伺机而动，等班友打餐死，自己匿埋做「死剩种」，黄雀在後，一网打尽，系毛最大的本事，粤人要吸取教训学精！</TOKEN>
+      </SEG>
+      <SEG id="segment-79" start_char="3143" end_char="3193">
+        <ORIGINAL_TEXT>我现在最欣赏一句话：做先知、先行者，未必系好事，「先锋」往往死得早，枉为先烈，有份打江山，无份坐江山！</ORIGINAL_TEXT>
+        <TOKEN id="token-79-0" pos="unknown" morph="none" start_char="3143" end_char="3193">我现在最欣赏一句话：做先知、先行者，未必系好事，「先锋」往往死得早，枉为先烈，有份打江山，无份坐江山！</TOKEN>
+      </SEG>
+      <SEG id="segment-80" start_char="3195" end_char="3201">
+        <ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-80-0" pos="unknown" morph="none" start_char="3195" end_char="3201">&lt;/post&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-81" start_char="3203" end_char="3264">
+        <ORIGINAL_TEXT>&lt;post id="p16" author="sundae" datetime="2014-12-08T21:43:00"&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-81-0" pos="unknown" morph="none" start_char="3203" end_char="3207">&lt;post</TOKEN>
+        <TOKEN id="token-81-1" pos="unknown" morph="none" start_char="3209" end_char="3216">id="p16"</TOKEN>
+        <TOKEN id="token-81-2" pos="unknown" morph="none" start_char="3218" end_char="3232">author="sundae"</TOKEN>
+        <TOKEN id="token-81-3" pos="unknown" morph="none" start_char="3234" end_char="3264">datetime="2014-12-08T21:43:00"&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-82" start_char="3266" end_char="3280">
+        <ORIGINAL_TEXT>咁而家香港做咗先鋒，你又點睇？</ORIGINAL_TEXT>
+        <TOKEN id="token-82-0" pos="word" morph="none" start_char="3266" end_char="3274">咁而家香港做咗先鋒</TOKEN>
+        <TOKEN id="token-82-1" pos="punct" morph="none" start_char="3275" end_char="3275">，</TOKEN>
+        <TOKEN id="token-82-2" pos="word" morph="none" start_char="3276" end_char="3279">你又點睇</TOKEN>
+        <TOKEN id="token-82-3" pos="punct" morph="none" start_char="3280" end_char="3280">？</TOKEN>
+      </SEG>
+      <SEG id="segment-83" start_char="3282" end_char="3288">
+        <ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-83-0" pos="unknown" morph="none" start_char="3282" end_char="3288">&lt;/post&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-84" start_char="3290" end_char="3351">
+        <ORIGINAL_TEXT>&lt;post id="p17" author="sundae" datetime="2014-12-08T21:52:00"&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-84-0" pos="unknown" morph="none" start_char="3290" end_char="3294">&lt;post</TOKEN>
+        <TOKEN id="token-84-1" pos="unknown" morph="none" start_char="3296" end_char="3303">id="p17"</TOKEN>
+        <TOKEN id="token-84-2" pos="unknown" morph="none" start_char="3305" end_char="3319">author="sundae"</TOKEN>
+        <TOKEN id="token-84-3" pos="unknown" morph="none" start_char="3321" end_char="3351">datetime="2014-12-08T21:52:00"&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-85" start_char="3353" end_char="3388">
+        <ORIGINAL_TEXT>毛匿到最後，咁如果日本打贏咗，再聯合德國，消滅埋蘇聯，毛點辦？投靠日本？</ORIGINAL_TEXT>
+        <TOKEN id="token-85-0" pos="unknown" morph="none" start_char="3353" end_char="3388">毛匿到最後，咁如果日本打贏咗，再聯合德國，消滅埋蘇聯，毛點辦？投靠日本？</TOKEN>
+      </SEG>
+      <SEG id="segment-86" start_char="3390" end_char="3396">
+        <ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-86-0" pos="unknown" morph="none" start_char="3390" end_char="3396">&lt;/post&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-87" start_char="3398" end_char="3456">
+        <ORIGINAL_TEXT>&lt;post id="p18" author="使君子" datetime="2014-12-08T22:07:00"&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-87-0" pos="unknown" morph="none" start_char="3398" end_char="3402">&lt;post</TOKEN>
+        <TOKEN id="token-87-1" pos="unknown" morph="none" start_char="3404" end_char="3411">id="p18"</TOKEN>
+        <TOKEN id="token-87-2" pos="unknown" morph="none" start_char="3413" end_char="3424">author="使君子"</TOKEN>
+        <TOKEN id="token-87-3" pos="unknown" morph="none" start_char="3426" end_char="3456">datetime="2014-12-08T22:07:00"&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-88" start_char="3459" end_char="3486">
+        <ORIGINAL_TEXT>&lt;quote orig_author="sundae"&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-88-0" pos="unknown" morph="none" start_char="3459" end_char="3464">&lt;quote</TOKEN>
+        <TOKEN id="token-88-1" pos="unknown" morph="none" start_char="3466" end_char="3486">orig_author="sundae"&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-89" start_char="3488" end_char="3502">
+        <ORIGINAL_TEXT>咁而家香港做咗先鋒，你又點睇？</ORIGINAL_TEXT>
+        <TOKEN id="token-89-0" pos="word" morph="none" start_char="3488" end_char="3496">咁而家香港做咗先鋒</TOKEN>
+        <TOKEN id="token-89-1" pos="punct" morph="none" start_char="3497" end_char="3497">，</TOKEN>
+        <TOKEN id="token-89-2" pos="word" morph="none" start_char="3498" end_char="3501">你又點睇</TOKEN>
+        <TOKEN id="token-89-3" pos="punct" morph="none" start_char="3502" end_char="3502">？</TOKEN>
+      </SEG>
+      <SEG id="segment-90" start_char="3504" end_char="3511">
+        <ORIGINAL_TEXT>&lt;/quote&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-90-0" pos="unknown" morph="none" start_char="3504" end_char="3511">&lt;/quote&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-91" start_char="3514" end_char="3607">
+        <ORIGINAL_TEXT>香港「担遮」运动，涉及共党中南海内部派系的复杂鬥争，这些鬥争自03年7月起就未停过，绝非简单的「外国势力」干涉。香港的黑白两道皆忠于共党，共党要刹住这些小朋友抗议活动，一句话的事，容乜易。</ORIGINAL_TEXT>
+        <TOKEN id="token-91-0" pos="unknown" morph="none" start_char="3514" end_char="3607">香港「担遮」运动，涉及共党中南海内部派系的复杂鬥争，这些鬥争自03年7月起就未停过，绝非简单的「外国势力」干涉。香港的黑白两道皆忠于共党，共党要刹住这些小朋友抗议活动，一句话的事，容乜易。</TOKEN>
+      </SEG>
+      <SEG id="segment-92" start_char="3610" end_char="3689">
+        <ORIGINAL_TEXT>共党第一代元老，系 四川邦、两湖邦、客家邦，江氏上位後，第一代被压制清洗，苏浙上海邦冒出。苏浙人最蛊惑，国共两边通吃，以往粤人在政治权术方面，确实不够上海佬玩。</ORIGINAL_TEXT>
+        <TOKEN id="token-92-0" pos="word" morph="none" start_char="3610" end_char="3616">共党第一代元老</TOKEN>
+        <TOKEN id="token-92-1" pos="punct" morph="none" start_char="3617" end_char="3617">，</TOKEN>
+        <TOKEN id="token-92-2" pos="word" morph="none" start_char="3618" end_char="3618">系</TOKEN>
+        <TOKEN id="token-92-3" pos="unknown" morph="none" start_char="3620" end_char="3689">四川邦、两湖邦、客家邦，江氏上位後，第一代被压制清洗，苏浙上海邦冒出。苏浙人最蛊惑，国共两边通吃，以往粤人在政治权术方面，确实不够上海佬玩。</TOKEN>
+      </SEG>
+      <SEG id="segment-93" start_char="3692" end_char="3781">
+        <ORIGINAL_TEXT>粤人要做大事，必要深得「无间道」精粹；如果本坛有93年打後出世的粤人朋友仔，睇到此贴，请大学毕业前努力 参军、考公务员，努力打入共党权力高层，尤其要努力参军，军队先系共党力量泉源。</ORIGINAL_TEXT>
+        <TOKEN id="token-93-0" pos="unknown" morph="none" start_char="3692" end_char="3742">粤人要做大事，必要深得「无间道」精粹；如果本坛有93年打後出世的粤人朋友仔，睇到此贴，请大学毕业前努力</TOKEN>
+        <TOKEN id="token-93-1" pos="unknown" morph="none" start_char="3744" end_char="3781">参军、考公务员，努力打入共党权力高层，尤其要努力参军，军队先系共党力量泉源。</TOKEN>
+      </SEG>
+      <SEG id="segment-94" start_char="3783" end_char="3789">
+        <ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-94-0" pos="unknown" morph="none" start_char="3783" end_char="3789">&lt;/post&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-95" start_char="3791" end_char="3849">
+        <ORIGINAL_TEXT>&lt;post id="p19" author="使君子" datetime="1111-11-11T22:23:00"&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-95-0" pos="unknown" morph="none" start_char="3791" end_char="3795">&lt;post</TOKEN>
+        <TOKEN id="token-95-1" pos="unknown" morph="none" start_char="3797" end_char="3804">id="p19"</TOKEN>
+        <TOKEN id="token-95-2" pos="unknown" morph="none" start_char="3806" end_char="3817">author="使君子"</TOKEN>
+        <TOKEN id="token-95-3" pos="unknown" morph="none" start_char="3819" end_char="3849">datetime="1111-11-11T22:23:00"&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-96" start_char="3852" end_char="3879">
+        <ORIGINAL_TEXT>&lt;quote orig_author="sundae"&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-96-0" pos="unknown" morph="none" start_char="3852" end_char="3857">&lt;quote</TOKEN>
+        <TOKEN id="token-96-1" pos="unknown" morph="none" start_char="3859" end_char="3879">orig_author="sundae"&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-97" start_char="3881" end_char="3916">
+        <ORIGINAL_TEXT>毛匿到最後，咁如果日本打贏咗，再聯合德國，消滅埋蘇聯，毛點辦？投靠日本？</ORIGINAL_TEXT>
+        <TOKEN id="token-97-0" pos="unknown" morph="none" start_char="3881" end_char="3916">毛匿到最後，咁如果日本打贏咗，再聯合德國，消滅埋蘇聯，毛點辦？投靠日本？</TOKEN>
+      </SEG>
+      <SEG id="segment-98" start_char="3918" end_char="3925">
+        <ORIGINAL_TEXT>&lt;/quote&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-98-0" pos="unknown" morph="none" start_char="3918" end_char="3925">&lt;/quote&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-99" start_char="3928" end_char="3958">
+        <ORIGINAL_TEXT>吾出奇，万一日本打赢，毛做得出。但「万一」概率极低，理由如下：</ORIGINAL_TEXT>
+        <TOKEN id="token-99-0" pos="unknown" morph="none" start_char="3928" end_char="3958">吾出奇，万一日本打赢，毛做得出。但「万一」概率极低，理由如下：</TOKEN>
+      </SEG>
+      <SEG id="segment-100" start_char="3961" end_char="4021">
+        <ORIGINAL_TEXT>1·国民党的军备主要由美国提供，证明美国佬留一手，维持住中日拉锯战状态，尽量无需自己出手，靠国民党「磨」晒日本的有限资源；</ORIGINAL_TEXT>
+        <TOKEN id="token-100-0" pos="unknown" morph="none" start_char="3961" end_char="4021">1·国民党的军备主要由美国提供，证明美国佬留一手，维持住中日拉锯战状态，尽量无需自己出手，靠国民党「磨」晒日本的有限资源；</TOKEN>
+      </SEG>
+      <SEG id="segment-101" start_char="4024" end_char="4116">
+        <ORIGINAL_TEXT>2·苏联的人口同石油资源都远多于德国，斯大林任内更开展凶猛的军工大生产运动，质量再差，数量补救，德国机械技术虽先进，但无法适应苏联的严寒气候，坦克车「趴低」，枪炮哑火，长久系打吾赢苏联。</ORIGINAL_TEXT>
+        <TOKEN id="token-101-0" pos="unknown" morph="none" start_char="4024" end_char="4116">2·苏联的人口同石油资源都远多于德国，斯大林任内更开展凶猛的军工大生产运动，质量再差，数量补救，德国机械技术虽先进，但无法适应苏联的严寒气候，坦克车「趴低」，枪炮哑火，长久系打吾赢苏联。</TOKEN>
+      </SEG>
+      <SEG id="segment-102" start_char="4119" end_char="4166">
+        <ORIGINAL_TEXT>3·苏联当时已强大到连美国都吾敢硬碰，苏联支持共党统治大陆，系大概率事件，美国人很可能早有预料。</ORIGINAL_TEXT>
+        <TOKEN id="token-102-0" pos="unknown" morph="none" start_char="4119" end_char="4166">3·苏联当时已强大到连美国都吾敢硬碰，苏联支持共党统治大陆，系大概率事件，美国人很可能早有预料。</TOKEN>
+      </SEG>
+      <SEG id="segment-103" start_char="4168" end_char="4174">
+        <ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-103-0" pos="unknown" morph="none" start_char="4168" end_char="4174">&lt;/post&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-104" start_char="4176" end_char="4237">
+        <ORIGINAL_TEXT>&lt;post id="p20" author="sundae" datetime="2014-12-09T03:40:00"&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-104-0" pos="unknown" morph="none" start_char="4176" end_char="4180">&lt;post</TOKEN>
+        <TOKEN id="token-104-1" pos="unknown" morph="none" start_char="4182" end_char="4189">id="p20"</TOKEN>
+        <TOKEN id="token-104-2" pos="unknown" morph="none" start_char="4191" end_char="4205">author="sundae"</TOKEN>
+        <TOKEN id="token-104-3" pos="unknown" morph="none" start_char="4207" end_char="4237">datetime="2014-12-09T03:40:00"&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-105" start_char="4239" end_char="4293">
+        <ORIGINAL_TEXT>二戰後美蘇瓜分勢力範圍，成塊東亞大陸畀曬蘇聯搞共產陣營，換取西歐不被赤化，所以國民黨保唔住大陸，衹有退守台灣。</ORIGINAL_TEXT>
+        <TOKEN id="token-105-0" pos="unknown" morph="none" start_char="4239" end_char="4293">二戰後美蘇瓜分勢力範圍，成塊東亞大陸畀曬蘇聯搞共產陣營，換取西歐不被赤化，所以國民黨保唔住大陸，衹有退守台灣。</TOKEN>
+      </SEG>
+      <SEG id="segment-106" start_char="4296" end_char="4344">
+        <ORIGINAL_TEXT>原先美國連台灣都唔想理，但後來蘇聯主動發起韓戰，美國見唔系路，即刻派第七艦隊守台灣，保住第一島鏈。</ORIGINAL_TEXT>
+        <TOKEN id="token-106-0" pos="unknown" morph="none" start_char="4296" end_char="4344">原先美國連台灣都唔想理，但後來蘇聯主動發起韓戰，美國見唔系路，即刻派第七艦隊守台灣，保住第一島鏈。</TOKEN>
+      </SEG>
+      <SEG id="segment-107" start_char="4347" end_char="4409">
+        <ORIGINAL_TEXT>八九 Six Four 喺中國冇成功，但引起東歐共產陣營連串倒臺，中國又一次犧牲自己，成全人哋。於是至今中國仍在共產魔爪之下。</ORIGINAL_TEXT>
+        <TOKEN id="token-107-0" pos="word" morph="none" start_char="4347" end_char="4348">八九</TOKEN>
+        <TOKEN id="token-107-1" pos="word" morph="none" start_char="4350" end_char="4352">Six</TOKEN>
+        <TOKEN id="token-107-2" pos="word" morph="none" start_char="4354" end_char="4357">Four</TOKEN>
+        <TOKEN id="token-107-3" pos="unknown" morph="none" start_char="4359" end_char="4409">喺中國冇成功，但引起東歐共產陣營連串倒臺，中國又一次犧牲自己，成全人哋。於是至今中國仍在共產魔爪之下。</TOKEN>
+      </SEG>
+      <SEG id="segment-108" start_char="4411" end_char="4417">
+        <ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-108-0" pos="unknown" morph="none" start_char="4411" end_char="4417">&lt;/post&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-109" start_char="4419" end_char="4424">
+        <ORIGINAL_TEXT>&lt;/doc&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-109-0" pos="unknown" morph="none" start_char="4419" end_char="4424">&lt;/doc&gt;</TOKEN>
+      </SEG>
+    </TEXT>
+  </DOC>
+</LCTL_TEXT>

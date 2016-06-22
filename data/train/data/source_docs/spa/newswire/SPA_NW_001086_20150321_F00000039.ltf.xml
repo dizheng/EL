@@ -1,0 +1,754 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LCTL_TEXT>
+  <DOC id="SPA_NW_001086_20150321_F00000039.xml" tokenization="tokenization_parameters" grammar="none" raw_text_char_length="3021" raw_text_md5="379a4ab53fce5da94b47f8ee9ceb4cf6">
+    <TEXT>
+      <SEG id="segment-0" start_char="0" end_char="37">
+        <ORIGINAL_TEXT>&lt;?xml version="1.0" encoding="utf-8"?&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-0-0" pos="unknown" morph="none" start_char="0" end_char="4">&lt;?xml</TOKEN>
+        <TOKEN id="token-0-1" pos="unknown" morph="none" start_char="6" end_char="18">version="1.0"</TOKEN>
+        <TOKEN id="token-0-2" pos="unknown" morph="none" start_char="20" end_char="37">encoding="utf-8"?&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-1" start_char="39" end_char="81">
+        <ORIGINAL_TEXT>&lt;DOC id="SPA_NW_001086_20150321_F00000039"&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-1-0" pos="unknown" morph="none" start_char="39" end_char="42">&lt;DOC</TOKEN>
+        <TOKEN id="token-1-1" pos="unknown" morph="none" start_char="44" end_char="81">id="SPA_NW_001086_20150321_F00000039"&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-2" start_char="83" end_char="232">
+        <ORIGINAL_TEXT>&lt;SOURCE&gt;http://www.diariolibre.com/latinoamerica/2015/03/21/i1064761_maduro-espera-entregar-obama-millones-firmas-contra-orden-ejecutiva.html&lt;/SOURCE&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-2-0" pos="unknown" morph="none" start_char="83" end_char="232">&lt;SOURCE&gt;http://www.diariolibre.com/latinoamerica/2015/03/21/i1064761_maduro-espera-entregar-obama-millones-firmas-contra-orden-ejecutiva.html&lt;/SOURCE&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-3" start_char="234" end_char="275">
+        <ORIGINAL_TEXT>&lt;DATE_TIME&gt;2015-03-21T00:00:00&lt;/DATE_TIME&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-3-0" pos="unknown" morph="none" start_char="234" end_char="275">&lt;DATE_TIME&gt;2015-03-21T00:00:00&lt;/DATE_TIME&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-4" start_char="277" end_char="286">
+        <ORIGINAL_TEXT>&lt;HEADLINE&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-4-0" pos="unknown" morph="none" start_char="277" end_char="286">&lt;HEADLINE&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-5" start_char="288" end_char="362">
+        <ORIGINAL_TEXT>Maduro espera entregar a Obama 10 millones de firmas contra orden ejecutiva</ORIGINAL_TEXT>
+        <TOKEN id="token-5-0" pos="word" morph="none" start_char="288" end_char="293">Maduro</TOKEN>
+        <TOKEN id="token-5-1" pos="word" morph="none" start_char="295" end_char="300">espera</TOKEN>
+        <TOKEN id="token-5-2" pos="word" morph="none" start_char="302" end_char="309">entregar</TOKEN>
+        <TOKEN id="token-5-3" pos="word" morph="none" start_char="311" end_char="311">a</TOKEN>
+        <TOKEN id="token-5-4" pos="word" morph="none" start_char="313" end_char="317">Obama</TOKEN>
+        <TOKEN id="token-5-5" pos="number" morph="none" start_char="319" end_char="320">10</TOKEN>
+        <TOKEN id="token-5-6" pos="word" morph="none" start_char="322" end_char="329">millones</TOKEN>
+        <TOKEN id="token-5-7" pos="word" morph="none" start_char="331" end_char="332">de</TOKEN>
+        <TOKEN id="token-5-8" pos="word" morph="none" start_char="334" end_char="339">firmas</TOKEN>
+        <TOKEN id="token-5-9" pos="word" morph="none" start_char="341" end_char="346">contra</TOKEN>
+        <TOKEN id="token-5-10" pos="word" morph="none" start_char="348" end_char="352">orden</TOKEN>
+        <TOKEN id="token-5-11" pos="word" morph="none" start_char="354" end_char="362">ejecutiva</TOKEN>
+      </SEG>
+      <SEG id="segment-6" start_char="364" end_char="374">
+        <ORIGINAL_TEXT>&lt;/HEADLINE&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-6-0" pos="unknown" morph="none" start_char="364" end_char="374">&lt;/HEADLINE&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-7" start_char="376" end_char="381">
+        <ORIGINAL_TEXT>&lt;TEXT&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-7-0" pos="unknown" morph="none" start_char="376" end_char="381">&lt;TEXT&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-8" start_char="383" end_char="385">
+        <ORIGINAL_TEXT>&lt;P&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-8-0" pos="unknown" morph="none" start_char="383" end_char="385">&lt;P&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-9" start_char="387" end_char="461">
+        <ORIGINAL_TEXT>El presidente de Venezuela, Nicolás Maduro, dijo hoy que espera entregar en</ORIGINAL_TEXT>
+        <TOKEN id="token-9-0" pos="word" morph="none" start_char="387" end_char="388">El</TOKEN>
+        <TOKEN id="token-9-1" pos="word" morph="none" start_char="390" end_char="399">presidente</TOKEN>
+        <TOKEN id="token-9-2" pos="word" morph="none" start_char="401" end_char="402">de</TOKEN>
+        <TOKEN id="token-9-3" pos="word" morph="none" start_char="404" end_char="412">Venezuela</TOKEN>
+        <TOKEN id="token-9-4" pos="punct" morph="none" start_char="413" end_char="413">,</TOKEN>
+        <TOKEN id="token-9-5" pos="word" morph="none" start_char="415" end_char="421">Nicolás</TOKEN>
+        <TOKEN id="token-9-6" pos="word" morph="none" start_char="423" end_char="428">Maduro</TOKEN>
+        <TOKEN id="token-9-7" pos="punct" morph="none" start_char="429" end_char="429">,</TOKEN>
+        <TOKEN id="token-9-8" pos="word" morph="none" start_char="431" end_char="434">dijo</TOKEN>
+        <TOKEN id="token-9-9" pos="word" morph="none" start_char="436" end_char="438">hoy</TOKEN>
+        <TOKEN id="token-9-10" pos="word" morph="none" start_char="440" end_char="442">que</TOKEN>
+        <TOKEN id="token-9-11" pos="word" morph="none" start_char="444" end_char="449">espera</TOKEN>
+        <TOKEN id="token-9-12" pos="word" morph="none" start_char="451" end_char="458">entregar</TOKEN>
+        <TOKEN id="token-9-13" pos="word" morph="none" start_char="460" end_char="461">en</TOKEN>
+      </SEG>
+      <SEG id="segment-10" start_char="463" end_char="536">
+        <ORIGINAL_TEXT>la Cumbre de las Américas en Panamá al mandatario de EE.UU., Barack Obama,</ORIGINAL_TEXT>
+        <TOKEN id="token-10-0" pos="word" morph="none" start_char="463" end_char="464">la</TOKEN>
+        <TOKEN id="token-10-1" pos="word" morph="none" start_char="466" end_char="471">Cumbre</TOKEN>
+        <TOKEN id="token-10-2" pos="word" morph="none" start_char="473" end_char="474">de</TOKEN>
+        <TOKEN id="token-10-3" pos="word" morph="none" start_char="476" end_char="478">las</TOKEN>
+        <TOKEN id="token-10-4" pos="word" morph="none" start_char="480" end_char="487">Américas</TOKEN>
+        <TOKEN id="token-10-5" pos="word" morph="none" start_char="489" end_char="490">en</TOKEN>
+        <TOKEN id="token-10-6" pos="word" morph="none" start_char="492" end_char="497">Panamá</TOKEN>
+        <TOKEN id="token-10-7" pos="word" morph="none" start_char="499" end_char="500">al</TOKEN>
+        <TOKEN id="token-10-8" pos="word" morph="none" start_char="502" end_char="511">mandatario</TOKEN>
+        <TOKEN id="token-10-9" pos="word" morph="none" start_char="513" end_char="514">de</TOKEN>
+        <TOKEN id="token-10-10" pos="word" morph="none" start_char="516" end_char="517">EE</TOKEN>
+        <TOKEN id="token-10-11" pos="punct" morph="none" start_char="518" end_char="518">.</TOKEN>
+        <TOKEN id="token-10-12" pos="word" morph="none" start_char="519" end_char="520">UU</TOKEN>
+        <TOKEN id="token-10-13" pos="punct" morph="none" start_char="521" end_char="522">.,</TOKEN>
+        <TOKEN id="token-10-14" pos="word" morph="none" start_char="524" end_char="529">Barack</TOKEN>
+        <TOKEN id="token-10-15" pos="word" morph="none" start_char="531" end_char="535">Obama</TOKEN>
+        <TOKEN id="token-10-16" pos="punct" morph="none" start_char="536" end_char="536">,</TOKEN>
+      </SEG>
+      <SEG id="segment-11" start_char="538" end_char="613">
+        <ORIGINAL_TEXT>las 10 millones de firmas que se están recogiendo para exigir que derogue la</ORIGINAL_TEXT>
+        <TOKEN id="token-11-0" pos="word" morph="none" start_char="538" end_char="540">las</TOKEN>
+        <TOKEN id="token-11-1" pos="number" morph="none" start_char="542" end_char="543">10</TOKEN>
+        <TOKEN id="token-11-2" pos="word" morph="none" start_char="545" end_char="552">millones</TOKEN>
+        <TOKEN id="token-11-3" pos="word" morph="none" start_char="554" end_char="555">de</TOKEN>
+        <TOKEN id="token-11-4" pos="word" morph="none" start_char="557" end_char="562">firmas</TOKEN>
+        <TOKEN id="token-11-5" pos="word" morph="none" start_char="564" end_char="566">que</TOKEN>
+        <TOKEN id="token-11-6" pos="word" morph="none" start_char="568" end_char="569">se</TOKEN>
+        <TOKEN id="token-11-7" pos="word" morph="none" start_char="571" end_char="575">están</TOKEN>
+        <TOKEN id="token-11-8" pos="word" morph="none" start_char="577" end_char="586">recogiendo</TOKEN>
+        <TOKEN id="token-11-9" pos="word" morph="none" start_char="588" end_char="591">para</TOKEN>
+        <TOKEN id="token-11-10" pos="word" morph="none" start_char="593" end_char="598">exigir</TOKEN>
+        <TOKEN id="token-11-11" pos="word" morph="none" start_char="600" end_char="602">que</TOKEN>
+        <TOKEN id="token-11-12" pos="word" morph="none" start_char="604" end_char="610">derogue</TOKEN>
+        <TOKEN id="token-11-13" pos="word" morph="none" start_char="612" end_char="613">la</TOKEN>
+      </SEG>
+      <SEG id="segment-12" start_char="615" end_char="683">
+        <ORIGINAL_TEXT>orden ejecutiva que tilda al país caribeño como una "amenaza" para el</ORIGINAL_TEXT>
+        <TOKEN id="token-12-0" pos="word" morph="none" start_char="615" end_char="619">orden</TOKEN>
+        <TOKEN id="token-12-1" pos="word" morph="none" start_char="621" end_char="629">ejecutiva</TOKEN>
+        <TOKEN id="token-12-2" pos="word" morph="none" start_char="631" end_char="633">que</TOKEN>
+        <TOKEN id="token-12-3" pos="word" morph="none" start_char="635" end_char="639">tilda</TOKEN>
+        <TOKEN id="token-12-4" pos="word" morph="none" start_char="641" end_char="642">al</TOKEN>
+        <TOKEN id="token-12-5" pos="word" morph="none" start_char="644" end_char="647">país</TOKEN>
+        <TOKEN id="token-12-6" pos="word" morph="none" start_char="649" end_char="656">caribeño</TOKEN>
+        <TOKEN id="token-12-7" pos="word" morph="none" start_char="658" end_char="661">como</TOKEN>
+        <TOKEN id="token-12-8" pos="word" morph="none" start_char="663" end_char="665">una</TOKEN>
+        <TOKEN id="token-12-9" pos="punct" morph="none" start_char="667" end_char="667">"</TOKEN>
+        <TOKEN id="token-12-10" pos="word" morph="none" start_char="668" end_char="674">amenaza</TOKEN>
+        <TOKEN id="token-12-11" pos="punct" morph="none" start_char="675" end_char="675">"</TOKEN>
+        <TOKEN id="token-12-12" pos="word" morph="none" start_char="677" end_char="680">para</TOKEN>
+        <TOKEN id="token-12-13" pos="word" morph="none" start_char="682" end_char="683">el</TOKEN>
+      </SEG>
+      <SEG id="segment-13" start_char="685" end_char="710">
+        <ORIGINAL_TEXT>territorio estadounidense.</ORIGINAL_TEXT>
+        <TOKEN id="token-13-0" pos="word" morph="none" start_char="685" end_char="694">territorio</TOKEN>
+        <TOKEN id="token-13-1" pos="word" morph="none" start_char="696" end_char="709">estadounidense</TOKEN>
+        <TOKEN id="token-13-2" pos="punct" morph="none" start_char="710" end_char="710">.</TOKEN>
+      </SEG>
+      <SEG id="segment-14" start_char="712" end_char="715">
+        <ORIGINAL_TEXT>&lt;/P&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-14-0" pos="unknown" morph="none" start_char="712" end_char="715">&lt;/P&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-15" start_char="717" end_char="719">
+        <ORIGINAL_TEXT>&lt;P&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-15-0" pos="unknown" morph="none" start_char="717" end_char="719">&lt;P&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-16" start_char="721" end_char="796">
+        <ORIGINAL_TEXT>"Yo quiero que el 9 y el 10 de abril ya tengamos los 10 millones de firmas y</ORIGINAL_TEXT>
+        <TOKEN id="token-16-0" pos="punct" morph="none" start_char="721" end_char="721">"</TOKEN>
+        <TOKEN id="token-16-1" pos="word" morph="none" start_char="722" end_char="723">Yo</TOKEN>
+        <TOKEN id="token-16-2" pos="word" morph="none" start_char="725" end_char="730">quiero</TOKEN>
+        <TOKEN id="token-16-3" pos="word" morph="none" start_char="732" end_char="734">que</TOKEN>
+        <TOKEN id="token-16-4" pos="word" morph="none" start_char="736" end_char="737">el</TOKEN>
+        <TOKEN id="token-16-5" pos="number" morph="none" start_char="739" end_char="739">9</TOKEN>
+        <TOKEN id="token-16-6" pos="word" morph="none" start_char="741" end_char="741">y</TOKEN>
+        <TOKEN id="token-16-7" pos="word" morph="none" start_char="743" end_char="744">el</TOKEN>
+        <TOKEN id="token-16-8" pos="number" morph="none" start_char="746" end_char="747">10</TOKEN>
+        <TOKEN id="token-16-9" pos="word" morph="none" start_char="749" end_char="750">de</TOKEN>
+        <TOKEN id="token-16-10" pos="word" morph="none" start_char="752" end_char="756">abril</TOKEN>
+        <TOKEN id="token-16-11" pos="word" morph="none" start_char="758" end_char="759">ya</TOKEN>
+        <TOKEN id="token-16-12" pos="word" morph="none" start_char="761" end_char="768">tengamos</TOKEN>
+        <TOKEN id="token-16-13" pos="word" morph="none" start_char="770" end_char="772">los</TOKEN>
+        <TOKEN id="token-16-14" pos="number" morph="none" start_char="774" end_char="775">10</TOKEN>
+        <TOKEN id="token-16-15" pos="word" morph="none" start_char="777" end_char="784">millones</TOKEN>
+        <TOKEN id="token-16-16" pos="word" morph="none" start_char="786" end_char="787">de</TOKEN>
+        <TOKEN id="token-16-17" pos="word" morph="none" start_char="789" end_char="794">firmas</TOKEN>
+        <TOKEN id="token-16-18" pos="word" morph="none" start_char="796" end_char="796">y</TOKEN>
+      </SEG>
+      <SEG id="segment-17" start_char="798" end_char="871">
+        <ORIGINAL_TEXT>cuando yo vea la presidente Obama y le dé la mano (...) le diga: Venezuela</ORIGINAL_TEXT>
+        <TOKEN id="token-17-0" pos="word" morph="none" start_char="798" end_char="803">cuando</TOKEN>
+        <TOKEN id="token-17-1" pos="word" morph="none" start_char="805" end_char="806">yo</TOKEN>
+        <TOKEN id="token-17-2" pos="word" morph="none" start_char="808" end_char="810">vea</TOKEN>
+        <TOKEN id="token-17-3" pos="word" morph="none" start_char="812" end_char="813">la</TOKEN>
+        <TOKEN id="token-17-4" pos="word" morph="none" start_char="815" end_char="824">presidente</TOKEN>
+        <TOKEN id="token-17-5" pos="word" morph="none" start_char="826" end_char="830">Obama</TOKEN>
+        <TOKEN id="token-17-6" pos="word" morph="none" start_char="832" end_char="832">y</TOKEN>
+        <TOKEN id="token-17-7" pos="word" morph="none" start_char="834" end_char="835">le</TOKEN>
+        <TOKEN id="token-17-8" pos="word" morph="none" start_char="837" end_char="838">dé</TOKEN>
+        <TOKEN id="token-17-9" pos="word" morph="none" start_char="840" end_char="841">la</TOKEN>
+        <TOKEN id="token-17-10" pos="word" morph="none" start_char="843" end_char="846">mano</TOKEN>
+        <TOKEN id="token-17-11" pos="unknown" morph="none" start_char="848" end_char="852">(...)</TOKEN>
+        <TOKEN id="token-17-12" pos="word" morph="none" start_char="854" end_char="855">le</TOKEN>
+        <TOKEN id="token-17-13" pos="word" morph="none" start_char="857" end_char="860">diga</TOKEN>
+        <TOKEN id="token-17-14" pos="punct" morph="none" start_char="861" end_char="861">:</TOKEN>
+        <TOKEN id="token-17-15" pos="word" morph="none" start_char="863" end_char="871">Venezuela</TOKEN>
+      </SEG>
+      <SEG id="segment-18" start_char="873" end_char="945">
+        <ORIGINAL_TEXT>entera exige que se derogue este decreto imperial que nos amenaza", pidió</ORIGINAL_TEXT>
+        <TOKEN id="token-18-0" pos="word" morph="none" start_char="873" end_char="878">entera</TOKEN>
+        <TOKEN id="token-18-1" pos="word" morph="none" start_char="880" end_char="884">exige</TOKEN>
+        <TOKEN id="token-18-2" pos="word" morph="none" start_char="886" end_char="888">que</TOKEN>
+        <TOKEN id="token-18-3" pos="word" morph="none" start_char="890" end_char="891">se</TOKEN>
+        <TOKEN id="token-18-4" pos="word" morph="none" start_char="893" end_char="899">derogue</TOKEN>
+        <TOKEN id="token-18-5" pos="word" morph="none" start_char="901" end_char="904">este</TOKEN>
+        <TOKEN id="token-18-6" pos="word" morph="none" start_char="906" end_char="912">decreto</TOKEN>
+        <TOKEN id="token-18-7" pos="word" morph="none" start_char="914" end_char="921">imperial</TOKEN>
+        <TOKEN id="token-18-8" pos="word" morph="none" start_char="923" end_char="925">que</TOKEN>
+        <TOKEN id="token-18-9" pos="word" morph="none" start_char="927" end_char="929">nos</TOKEN>
+        <TOKEN id="token-18-10" pos="word" morph="none" start_char="931" end_char="937">amenaza</TOKEN>
+        <TOKEN id="token-18-11" pos="punct" morph="none" start_char="938" end_char="939">",</TOKEN>
+        <TOKEN id="token-18-12" pos="word" morph="none" start_char="941" end_char="945">pidió</TOKEN>
+      </SEG>
+      <SEG id="segment-19" start_char="947" end_char="1024">
+        <ORIGINAL_TEXT>Maduro a sus conciudadanos y a "todos los pueblos hermanos del mundo", durante</ORIGINAL_TEXT>
+        <TOKEN id="token-19-0" pos="word" morph="none" start_char="947" end_char="952">Maduro</TOKEN>
+        <TOKEN id="token-19-1" pos="word" morph="none" start_char="954" end_char="954">a</TOKEN>
+        <TOKEN id="token-19-2" pos="word" morph="none" start_char="956" end_char="958">sus</TOKEN>
+        <TOKEN id="token-19-3" pos="word" morph="none" start_char="960" end_char="972">conciudadanos</TOKEN>
+        <TOKEN id="token-19-4" pos="word" morph="none" start_char="974" end_char="974">y</TOKEN>
+        <TOKEN id="token-19-5" pos="word" morph="none" start_char="976" end_char="976">a</TOKEN>
+        <TOKEN id="token-19-6" pos="punct" morph="none" start_char="978" end_char="978">"</TOKEN>
+        <TOKEN id="token-19-7" pos="word" morph="none" start_char="979" end_char="983">todos</TOKEN>
+        <TOKEN id="token-19-8" pos="word" morph="none" start_char="985" end_char="987">los</TOKEN>
+        <TOKEN id="token-19-9" pos="word" morph="none" start_char="989" end_char="995">pueblos</TOKEN>
+        <TOKEN id="token-19-10" pos="word" morph="none" start_char="997" end_char="1004">hermanos</TOKEN>
+        <TOKEN id="token-19-11" pos="word" morph="none" start_char="1006" end_char="1008">del</TOKEN>
+        <TOKEN id="token-19-12" pos="word" morph="none" start_char="1010" end_char="1014">mundo</TOKEN>
+        <TOKEN id="token-19-13" pos="punct" morph="none" start_char="1015" end_char="1016">",</TOKEN>
+        <TOKEN id="token-19-14" pos="word" morph="none" start_char="1018" end_char="1024">durante</TOKEN>
+      </SEG>
+      <SEG id="segment-20" start_char="1026" end_char="1053">
+        <ORIGINAL_TEXT>un acto cultural en Caracas.</ORIGINAL_TEXT>
+        <TOKEN id="token-20-0" pos="word" morph="none" start_char="1026" end_char="1027">un</TOKEN>
+        <TOKEN id="token-20-1" pos="word" morph="none" start_char="1029" end_char="1032">acto</TOKEN>
+        <TOKEN id="token-20-2" pos="word" morph="none" start_char="1034" end_char="1041">cultural</TOKEN>
+        <TOKEN id="token-20-3" pos="word" morph="none" start_char="1043" end_char="1044">en</TOKEN>
+        <TOKEN id="token-20-4" pos="word" morph="none" start_char="1046" end_char="1052">Caracas</TOKEN>
+        <TOKEN id="token-20-5" pos="punct" morph="none" start_char="1053" end_char="1053">.</TOKEN>
+      </SEG>
+      <SEG id="segment-21" start_char="1055" end_char="1058">
+        <ORIGINAL_TEXT>&lt;/P&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-21-0" pos="unknown" morph="none" start_char="1055" end_char="1058">&lt;/P&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-22" start_char="1060" end_char="1062">
+        <ORIGINAL_TEXT>&lt;P&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-22-0" pos="unknown" morph="none" start_char="1060" end_char="1062">&lt;P&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-23" start_char="1064" end_char="1138">
+        <ORIGINAL_TEXT>Este jueves el Gobierno venezolano comenzó una campaña mundial bajo el lema</ORIGINAL_TEXT>
+        <TOKEN id="token-23-0" pos="word" morph="none" start_char="1064" end_char="1067">Este</TOKEN>
+        <TOKEN id="token-23-1" pos="word" morph="none" start_char="1069" end_char="1074">jueves</TOKEN>
+        <TOKEN id="token-23-2" pos="word" morph="none" start_char="1076" end_char="1077">el</TOKEN>
+        <TOKEN id="token-23-3" pos="word" morph="none" start_char="1079" end_char="1086">Gobierno</TOKEN>
+        <TOKEN id="token-23-4" pos="word" morph="none" start_char="1088" end_char="1097">venezolano</TOKEN>
+        <TOKEN id="token-23-5" pos="word" morph="none" start_char="1099" end_char="1105">comenzó</TOKEN>
+        <TOKEN id="token-23-6" pos="word" morph="none" start_char="1107" end_char="1109">una</TOKEN>
+        <TOKEN id="token-23-7" pos="word" morph="none" start_char="1111" end_char="1117">campaña</TOKEN>
+        <TOKEN id="token-23-8" pos="word" morph="none" start_char="1119" end_char="1125">mundial</TOKEN>
+        <TOKEN id="token-23-9" pos="word" morph="none" start_char="1127" end_char="1130">bajo</TOKEN>
+        <TOKEN id="token-23-10" pos="word" morph="none" start_char="1132" end_char="1133">el</TOKEN>
+        <TOKEN id="token-23-11" pos="word" morph="none" start_char="1135" end_char="1138">lema</TOKEN>
+      </SEG>
+      <SEG id="segment-24" start_char="1140" end_char="1214">
+        <ORIGINAL_TEXT>"Obama deroga el decreto ya" en la que pide al presidente estadounidense la</ORIGINAL_TEXT>
+        <TOKEN id="token-24-0" pos="punct" morph="none" start_char="1140" end_char="1140">"</TOKEN>
+        <TOKEN id="token-24-1" pos="word" morph="none" start_char="1141" end_char="1145">Obama</TOKEN>
+        <TOKEN id="token-24-2" pos="word" morph="none" start_char="1147" end_char="1152">deroga</TOKEN>
+        <TOKEN id="token-24-3" pos="word" morph="none" start_char="1154" end_char="1155">el</TOKEN>
+        <TOKEN id="token-24-4" pos="word" morph="none" start_char="1157" end_char="1163">decreto</TOKEN>
+        <TOKEN id="token-24-5" pos="word" morph="none" start_char="1165" end_char="1166">ya</TOKEN>
+        <TOKEN id="token-24-6" pos="punct" morph="none" start_char="1167" end_char="1167">"</TOKEN>
+        <TOKEN id="token-24-7" pos="word" morph="none" start_char="1169" end_char="1170">en</TOKEN>
+        <TOKEN id="token-24-8" pos="word" morph="none" start_char="1172" end_char="1173">la</TOKEN>
+        <TOKEN id="token-24-9" pos="word" morph="none" start_char="1175" end_char="1177">que</TOKEN>
+        <TOKEN id="token-24-10" pos="word" morph="none" start_char="1179" end_char="1182">pide</TOKEN>
+        <TOKEN id="token-24-11" pos="word" morph="none" start_char="1184" end_char="1185">al</TOKEN>
+        <TOKEN id="token-24-12" pos="word" morph="none" start_char="1187" end_char="1196">presidente</TOKEN>
+        <TOKEN id="token-24-13" pos="word" morph="none" start_char="1198" end_char="1211">estadounidense</TOKEN>
+        <TOKEN id="token-24-14" pos="word" morph="none" start_char="1213" end_char="1214">la</TOKEN>
+      </SEG>
+      <SEG id="segment-25" start_char="1216" end_char="1289">
+        <ORIGINAL_TEXT>derogación de la ley aprobada a principios de mes y por la que declaró una</ORIGINAL_TEXT>
+        <TOKEN id="token-25-0" pos="word" morph="none" start_char="1216" end_char="1225">derogación</TOKEN>
+        <TOKEN id="token-25-1" pos="word" morph="none" start_char="1227" end_char="1228">de</TOKEN>
+        <TOKEN id="token-25-2" pos="word" morph="none" start_char="1230" end_char="1231">la</TOKEN>
+        <TOKEN id="token-25-3" pos="word" morph="none" start_char="1233" end_char="1235">ley</TOKEN>
+        <TOKEN id="token-25-4" pos="word" morph="none" start_char="1237" end_char="1244">aprobada</TOKEN>
+        <TOKEN id="token-25-5" pos="word" morph="none" start_char="1246" end_char="1246">a</TOKEN>
+        <TOKEN id="token-25-6" pos="word" morph="none" start_char="1248" end_char="1257">principios</TOKEN>
+        <TOKEN id="token-25-7" pos="word" morph="none" start_char="1259" end_char="1260">de</TOKEN>
+        <TOKEN id="token-25-8" pos="word" morph="none" start_char="1262" end_char="1264">mes</TOKEN>
+        <TOKEN id="token-25-9" pos="word" morph="none" start_char="1266" end_char="1266">y</TOKEN>
+        <TOKEN id="token-25-10" pos="word" morph="none" start_char="1268" end_char="1270">por</TOKEN>
+        <TOKEN id="token-25-11" pos="word" morph="none" start_char="1272" end_char="1273">la</TOKEN>
+        <TOKEN id="token-25-12" pos="word" morph="none" start_char="1275" end_char="1277">que</TOKEN>
+        <TOKEN id="token-25-13" pos="word" morph="none" start_char="1279" end_char="1285">declaró</TOKEN>
+        <TOKEN id="token-25-14" pos="word" morph="none" start_char="1287" end_char="1289">una</TOKEN>
+      </SEG>
+      <SEG id="segment-26" start_char="1291" end_char="1368">
+        <ORIGINAL_TEXT>"emergencia nacional" por la "amenaza inusual y extraordinaria" que representa</ORIGINAL_TEXT>
+        <TOKEN id="token-26-0" pos="punct" morph="none" start_char="1291" end_char="1291">"</TOKEN>
+        <TOKEN id="token-26-1" pos="word" morph="none" start_char="1292" end_char="1301">emergencia</TOKEN>
+        <TOKEN id="token-26-2" pos="word" morph="none" start_char="1303" end_char="1310">nacional</TOKEN>
+        <TOKEN id="token-26-3" pos="punct" morph="none" start_char="1311" end_char="1311">"</TOKEN>
+        <TOKEN id="token-26-4" pos="word" morph="none" start_char="1313" end_char="1315">por</TOKEN>
+        <TOKEN id="token-26-5" pos="word" morph="none" start_char="1317" end_char="1318">la</TOKEN>
+        <TOKEN id="token-26-6" pos="punct" morph="none" start_char="1320" end_char="1320">"</TOKEN>
+        <TOKEN id="token-26-7" pos="word" morph="none" start_char="1321" end_char="1327">amenaza</TOKEN>
+        <TOKEN id="token-26-8" pos="word" morph="none" start_char="1329" end_char="1335">inusual</TOKEN>
+        <TOKEN id="token-26-9" pos="word" morph="none" start_char="1337" end_char="1337">y</TOKEN>
+        <TOKEN id="token-26-10" pos="word" morph="none" start_char="1339" end_char="1352">extraordinaria</TOKEN>
+        <TOKEN id="token-26-11" pos="punct" morph="none" start_char="1353" end_char="1353">"</TOKEN>
+        <TOKEN id="token-26-12" pos="word" morph="none" start_char="1355" end_char="1357">que</TOKEN>
+        <TOKEN id="token-26-13" pos="word" morph="none" start_char="1359" end_char="1368">representa</TOKEN>
+      </SEG>
+      <SEG id="segment-27" start_char="1370" end_char="1390">
+        <ORIGINAL_TEXT>Venezuela para EE.UU.</ORIGINAL_TEXT>
+        <TOKEN id="token-27-0" pos="word" morph="none" start_char="1370" end_char="1378">Venezuela</TOKEN>
+        <TOKEN id="token-27-1" pos="word" morph="none" start_char="1380" end_char="1383">para</TOKEN>
+        <TOKEN id="token-27-2" pos="word" morph="none" start_char="1385" end_char="1386">EE</TOKEN>
+        <TOKEN id="token-27-3" pos="punct" morph="none" start_char="1387" end_char="1387">.</TOKEN>
+        <TOKEN id="token-27-4" pos="word" morph="none" start_char="1388" end_char="1389">UU</TOKEN>
+        <TOKEN id="token-27-5" pos="punct" morph="none" start_char="1390" end_char="1390">.</TOKEN>
+      </SEG>
+      <SEG id="segment-28" start_char="1392" end_char="1395">
+        <ORIGINAL_TEXT>&lt;/P&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-28-0" pos="unknown" morph="none" start_char="1392" end_char="1395">&lt;/P&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-29" start_char="1397" end_char="1399">
+        <ORIGINAL_TEXT>&lt;P&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-29-0" pos="unknown" morph="none" start_char="1397" end_char="1399">&lt;P&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-30" start_char="1401" end_char="1472">
+        <ORIGINAL_TEXT>Esta campaña se centra en recolectar 10 millones de firmas en diferentes</ORIGINAL_TEXT>
+        <TOKEN id="token-30-0" pos="word" morph="none" start_char="1401" end_char="1404">Esta</TOKEN>
+        <TOKEN id="token-30-1" pos="word" morph="none" start_char="1406" end_char="1412">campaña</TOKEN>
+        <TOKEN id="token-30-2" pos="word" morph="none" start_char="1414" end_char="1415">se</TOKEN>
+        <TOKEN id="token-30-3" pos="word" morph="none" start_char="1417" end_char="1422">centra</TOKEN>
+        <TOKEN id="token-30-4" pos="word" morph="none" start_char="1424" end_char="1425">en</TOKEN>
+        <TOKEN id="token-30-5" pos="word" morph="none" start_char="1427" end_char="1436">recolectar</TOKEN>
+        <TOKEN id="token-30-6" pos="number" morph="none" start_char="1438" end_char="1439">10</TOKEN>
+        <TOKEN id="token-30-7" pos="word" morph="none" start_char="1441" end_char="1448">millones</TOKEN>
+        <TOKEN id="token-30-8" pos="word" morph="none" start_char="1450" end_char="1451">de</TOKEN>
+        <TOKEN id="token-30-9" pos="word" morph="none" start_char="1453" end_char="1458">firmas</TOKEN>
+        <TOKEN id="token-30-10" pos="word" morph="none" start_char="1460" end_char="1461">en</TOKEN>
+        <TOKEN id="token-30-11" pos="word" morph="none" start_char="1463" end_char="1472">diferentes</TOKEN>
+      </SEG>
+      <SEG id="segment-31" start_char="1474" end_char="1537">
+        <ORIGINAL_TEXT>puntos de la geografía venezolana así como a través de la página</ORIGINAL_TEXT>
+        <TOKEN id="token-31-0" pos="word" morph="none" start_char="1474" end_char="1479">puntos</TOKEN>
+        <TOKEN id="token-31-1" pos="word" morph="none" start_char="1481" end_char="1482">de</TOKEN>
+        <TOKEN id="token-31-2" pos="word" morph="none" start_char="1484" end_char="1485">la</TOKEN>
+        <TOKEN id="token-31-3" pos="word" morph="none" start_char="1487" end_char="1495">geografía</TOKEN>
+        <TOKEN id="token-31-4" pos="word" morph="none" start_char="1497" end_char="1506">venezolana</TOKEN>
+        <TOKEN id="token-31-5" pos="word" morph="none" start_char="1508" end_char="1510">así</TOKEN>
+        <TOKEN id="token-31-6" pos="word" morph="none" start_char="1512" end_char="1515">como</TOKEN>
+        <TOKEN id="token-31-7" pos="word" morph="none" start_char="1517" end_char="1517">a</TOKEN>
+        <TOKEN id="token-31-8" pos="word" morph="none" start_char="1519" end_char="1524">través</TOKEN>
+        <TOKEN id="token-31-9" pos="word" morph="none" start_char="1526" end_char="1527">de</TOKEN>
+        <TOKEN id="token-31-10" pos="word" morph="none" start_char="1529" end_char="1530">la</TOKEN>
+        <TOKEN id="token-31-11" pos="word" morph="none" start_char="1532" end_char="1537">página</TOKEN>
+      </SEG>
+      <SEG id="segment-32" start_char="1539" end_char="1616">
+        <ORIGINAL_TEXT>www.obamaderogaeldecretoya.org.ve contra un decreto calificado por Maduro hace</ORIGINAL_TEXT>
+        <TOKEN id="token-32-0" pos="url" morph="none" start_char="1539" end_char="1571">www.obamaderogaeldecretoya.org.ve</TOKEN>
+        <TOKEN id="token-32-1" pos="word" morph="none" start_char="1573" end_char="1578">contra</TOKEN>
+        <TOKEN id="token-32-2" pos="word" morph="none" start_char="1580" end_char="1581">un</TOKEN>
+        <TOKEN id="token-32-3" pos="word" morph="none" start_char="1583" end_char="1589">decreto</TOKEN>
+        <TOKEN id="token-32-4" pos="word" morph="none" start_char="1591" end_char="1600">calificado</TOKEN>
+        <TOKEN id="token-32-5" pos="word" morph="none" start_char="1602" end_char="1604">por</TOKEN>
+        <TOKEN id="token-32-6" pos="word" morph="none" start_char="1606" end_char="1611">Maduro</TOKEN>
+        <TOKEN id="token-32-7" pos="word" morph="none" start_char="1613" end_char="1616">hace</TOKEN>
+      </SEG>
+      <SEG id="segment-33" start_char="1618" end_char="1690">
+        <ORIGINAL_TEXT>unos días como "el paso más agresivo, injusto y nefasto que jamás se haya</ORIGINAL_TEXT>
+        <TOKEN id="token-33-0" pos="word" morph="none" start_char="1618" end_char="1621">unos</TOKEN>
+        <TOKEN id="token-33-1" pos="word" morph="none" start_char="1623" end_char="1626">días</TOKEN>
+        <TOKEN id="token-33-2" pos="word" morph="none" start_char="1628" end_char="1631">como</TOKEN>
+        <TOKEN id="token-33-3" pos="punct" morph="none" start_char="1633" end_char="1633">"</TOKEN>
+        <TOKEN id="token-33-4" pos="word" morph="none" start_char="1634" end_char="1635">el</TOKEN>
+        <TOKEN id="token-33-5" pos="word" morph="none" start_char="1637" end_char="1640">paso</TOKEN>
+        <TOKEN id="token-33-6" pos="word" morph="none" start_char="1642" end_char="1644">más</TOKEN>
+        <TOKEN id="token-33-7" pos="word" morph="none" start_char="1646" end_char="1653">agresivo</TOKEN>
+        <TOKEN id="token-33-8" pos="punct" morph="none" start_char="1654" end_char="1654">,</TOKEN>
+        <TOKEN id="token-33-9" pos="word" morph="none" start_char="1656" end_char="1662">injusto</TOKEN>
+        <TOKEN id="token-33-10" pos="word" morph="none" start_char="1664" end_char="1664">y</TOKEN>
+        <TOKEN id="token-33-11" pos="word" morph="none" start_char="1666" end_char="1672">nefasto</TOKEN>
+        <TOKEN id="token-33-12" pos="word" morph="none" start_char="1674" end_char="1676">que</TOKEN>
+        <TOKEN id="token-33-13" pos="word" morph="none" start_char="1678" end_char="1682">jamás</TOKEN>
+        <TOKEN id="token-33-14" pos="word" morph="none" start_char="1684" end_char="1685">se</TOKEN>
+        <TOKEN id="token-33-15" pos="word" morph="none" start_char="1687" end_char="1690">haya</TOKEN>
+      </SEG>
+      <SEG id="segment-34" start_char="1692" end_char="1714">
+        <ORIGINAL_TEXT>dado contra Venezuela".</ORIGINAL_TEXT>
+        <TOKEN id="token-34-0" pos="word" morph="none" start_char="1692" end_char="1695">dado</TOKEN>
+        <TOKEN id="token-34-1" pos="word" morph="none" start_char="1697" end_char="1702">contra</TOKEN>
+        <TOKEN id="token-34-2" pos="word" morph="none" start_char="1704" end_char="1712">Venezuela</TOKEN>
+        <TOKEN id="token-34-3" pos="punct" morph="none" start_char="1713" end_char="1714">".</TOKEN>
+      </SEG>
+      <SEG id="segment-35" start_char="1716" end_char="1719">
+        <ORIGINAL_TEXT>&lt;/P&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-35-0" pos="unknown" morph="none" start_char="1716" end_char="1719">&lt;/P&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-36" start_char="1721" end_char="1723">
+        <ORIGINAL_TEXT>&lt;P&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-36-0" pos="unknown" morph="none" start_char="1721" end_char="1723">&lt;P&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-37" start_char="1725" end_char="1796">
+        <ORIGINAL_TEXT>El jefe del Ejecutivo venezolano aseguró hoy que el país petrolero tiene</ORIGINAL_TEXT>
+        <TOKEN id="token-37-0" pos="word" morph="none" start_char="1725" end_char="1726">El</TOKEN>
+        <TOKEN id="token-37-1" pos="word" morph="none" start_char="1728" end_char="1731">jefe</TOKEN>
+        <TOKEN id="token-37-2" pos="word" morph="none" start_char="1733" end_char="1735">del</TOKEN>
+        <TOKEN id="token-37-3" pos="word" morph="none" start_char="1737" end_char="1745">Ejecutivo</TOKEN>
+        <TOKEN id="token-37-4" pos="word" morph="none" start_char="1747" end_char="1756">venezolano</TOKEN>
+        <TOKEN id="token-37-5" pos="word" morph="none" start_char="1758" end_char="1764">aseguró</TOKEN>
+        <TOKEN id="token-37-6" pos="word" morph="none" start_char="1766" end_char="1768">hoy</TOKEN>
+        <TOKEN id="token-37-7" pos="word" morph="none" start_char="1770" end_char="1772">que</TOKEN>
+        <TOKEN id="token-37-8" pos="word" morph="none" start_char="1774" end_char="1775">el</TOKEN>
+        <TOKEN id="token-37-9" pos="word" morph="none" start_char="1777" end_char="1780">país</TOKEN>
+        <TOKEN id="token-37-10" pos="word" morph="none" start_char="1782" end_char="1790">petrolero</TOKEN>
+        <TOKEN id="token-37-11" pos="word" morph="none" start_char="1792" end_char="1796">tiene</TOKEN>
+      </SEG>
+      <SEG id="segment-38" start_char="1798" end_char="1872">
+        <ORIGINAL_TEXT>"todo el apoyo de América Latina y el Caribe" y que "algo en el corazón" le</ORIGINAL_TEXT>
+        <TOKEN id="token-38-0" pos="punct" morph="none" start_char="1798" end_char="1798">"</TOKEN>
+        <TOKEN id="token-38-1" pos="word" morph="none" start_char="1799" end_char="1802">todo</TOKEN>
+        <TOKEN id="token-38-2" pos="word" morph="none" start_char="1804" end_char="1805">el</TOKEN>
+        <TOKEN id="token-38-3" pos="word" morph="none" start_char="1807" end_char="1811">apoyo</TOKEN>
+        <TOKEN id="token-38-4" pos="word" morph="none" start_char="1813" end_char="1814">de</TOKEN>
+        <TOKEN id="token-38-5" pos="word" morph="none" start_char="1816" end_char="1822">América</TOKEN>
+        <TOKEN id="token-38-6" pos="word" morph="none" start_char="1824" end_char="1829">Latina</TOKEN>
+        <TOKEN id="token-38-7" pos="word" morph="none" start_char="1831" end_char="1831">y</TOKEN>
+        <TOKEN id="token-38-8" pos="word" morph="none" start_char="1833" end_char="1834">el</TOKEN>
+        <TOKEN id="token-38-9" pos="word" morph="none" start_char="1836" end_char="1841">Caribe</TOKEN>
+        <TOKEN id="token-38-10" pos="punct" morph="none" start_char="1842" end_char="1842">"</TOKEN>
+        <TOKEN id="token-38-11" pos="word" morph="none" start_char="1844" end_char="1844">y</TOKEN>
+        <TOKEN id="token-38-12" pos="word" morph="none" start_char="1846" end_char="1848">que</TOKEN>
+        <TOKEN id="token-38-13" pos="punct" morph="none" start_char="1850" end_char="1850">"</TOKEN>
+        <TOKEN id="token-38-14" pos="word" morph="none" start_char="1851" end_char="1854">algo</TOKEN>
+        <TOKEN id="token-38-15" pos="word" morph="none" start_char="1856" end_char="1857">en</TOKEN>
+        <TOKEN id="token-38-16" pos="word" morph="none" start_char="1859" end_char="1860">el</TOKEN>
+        <TOKEN id="token-38-17" pos="word" morph="none" start_char="1862" end_char="1868">corazón</TOKEN>
+        <TOKEN id="token-38-18" pos="punct" morph="none" start_char="1869" end_char="1869">"</TOKEN>
+        <TOKEN id="token-38-19" pos="word" morph="none" start_char="1871" end_char="1872">le</TOKEN>
+      </SEG>
+      <SEG id="segment-39" start_char="1874" end_char="1947">
+        <ORIGINAL_TEXT>dice que se alcanzará ese número de firmas antes de encontrarse durante la</ORIGINAL_TEXT>
+        <TOKEN id="token-39-0" pos="word" morph="none" start_char="1874" end_char="1877">dice</TOKEN>
+        <TOKEN id="token-39-1" pos="word" morph="none" start_char="1879" end_char="1881">que</TOKEN>
+        <TOKEN id="token-39-2" pos="word" morph="none" start_char="1883" end_char="1884">se</TOKEN>
+        <TOKEN id="token-39-3" pos="word" morph="none" start_char="1886" end_char="1894">alcanzará</TOKEN>
+        <TOKEN id="token-39-4" pos="word" morph="none" start_char="1896" end_char="1898">ese</TOKEN>
+        <TOKEN id="token-39-5" pos="word" morph="none" start_char="1900" end_char="1905">número</TOKEN>
+        <TOKEN id="token-39-6" pos="word" morph="none" start_char="1907" end_char="1908">de</TOKEN>
+        <TOKEN id="token-39-7" pos="word" morph="none" start_char="1910" end_char="1915">firmas</TOKEN>
+        <TOKEN id="token-39-8" pos="word" morph="none" start_char="1917" end_char="1921">antes</TOKEN>
+        <TOKEN id="token-39-9" pos="word" morph="none" start_char="1923" end_char="1924">de</TOKEN>
+        <TOKEN id="token-39-10" pos="word" morph="none" start_char="1926" end_char="1936">encontrarse</TOKEN>
+        <TOKEN id="token-39-11" pos="word" morph="none" start_char="1938" end_char="1944">durante</TOKEN>
+        <TOKEN id="token-39-12" pos="word" morph="none" start_char="1946" end_char="1947">la</TOKEN>
+      </SEG>
+      <SEG id="segment-40" start_char="1949" end_char="2016">
+        <ORIGINAL_TEXT>Cumbre de la Américas que tendrá lugar en Panamá el 10 y 11 de abril</ORIGINAL_TEXT>
+        <TOKEN id="token-40-0" pos="word" morph="none" start_char="1949" end_char="1954">Cumbre</TOKEN>
+        <TOKEN id="token-40-1" pos="word" morph="none" start_char="1956" end_char="1957">de</TOKEN>
+        <TOKEN id="token-40-2" pos="word" morph="none" start_char="1959" end_char="1960">la</TOKEN>
+        <TOKEN id="token-40-3" pos="word" morph="none" start_char="1962" end_char="1969">Américas</TOKEN>
+        <TOKEN id="token-40-4" pos="word" morph="none" start_char="1971" end_char="1973">que</TOKEN>
+        <TOKEN id="token-40-5" pos="word" morph="none" start_char="1975" end_char="1980">tendrá</TOKEN>
+        <TOKEN id="token-40-6" pos="word" morph="none" start_char="1982" end_char="1986">lugar</TOKEN>
+        <TOKEN id="token-40-7" pos="word" morph="none" start_char="1988" end_char="1989">en</TOKEN>
+        <TOKEN id="token-40-8" pos="word" morph="none" start_char="1991" end_char="1996">Panamá</TOKEN>
+        <TOKEN id="token-40-9" pos="word" morph="none" start_char="1998" end_char="1999">el</TOKEN>
+        <TOKEN id="token-40-10" pos="number" morph="none" start_char="2001" end_char="2002">10</TOKEN>
+        <TOKEN id="token-40-11" pos="word" morph="none" start_char="2004" end_char="2004">y</TOKEN>
+        <TOKEN id="token-40-12" pos="number" morph="none" start_char="2006" end_char="2007">11</TOKEN>
+        <TOKEN id="token-40-13" pos="word" morph="none" start_char="2009" end_char="2010">de</TOKEN>
+        <TOKEN id="token-40-14" pos="word" morph="none" start_char="2012" end_char="2016">abril</TOKEN>
+      </SEG>
+      <SEG id="segment-41" start_char="2018" end_char="2058">
+        <ORIGINAL_TEXT>próximo con el presidente estadounidense.</ORIGINAL_TEXT>
+        <TOKEN id="token-41-0" pos="word" morph="none" start_char="2018" end_char="2024">próximo</TOKEN>
+        <TOKEN id="token-41-1" pos="word" morph="none" start_char="2026" end_char="2028">con</TOKEN>
+        <TOKEN id="token-41-2" pos="word" morph="none" start_char="2030" end_char="2031">el</TOKEN>
+        <TOKEN id="token-41-3" pos="word" morph="none" start_char="2033" end_char="2042">presidente</TOKEN>
+        <TOKEN id="token-41-4" pos="word" morph="none" start_char="2044" end_char="2057">estadounidense</TOKEN>
+        <TOKEN id="token-41-5" pos="punct" morph="none" start_char="2058" end_char="2058">.</TOKEN>
+      </SEG>
+      <SEG id="segment-42" start_char="2060" end_char="2063">
+        <ORIGINAL_TEXT>&lt;/P&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-42-0" pos="unknown" morph="none" start_char="2060" end_char="2063">&lt;/P&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-43" start_char="2065" end_char="2067">
+        <ORIGINAL_TEXT>&lt;P&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-43-0" pos="unknown" morph="none" start_char="2065" end_char="2067">&lt;P&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-44" start_char="2069" end_char="2142">
+        <ORIGINAL_TEXT>"Yo ya siento y presiento que van a ser mucho más de 10 millones. Si Obama</ORIGINAL_TEXT>
+        <TOKEN id="token-44-0" pos="punct" morph="none" start_char="2069" end_char="2069">"</TOKEN>
+        <TOKEN id="token-44-1" pos="word" morph="none" start_char="2070" end_char="2071">Yo</TOKEN>
+        <TOKEN id="token-44-2" pos="word" morph="none" start_char="2073" end_char="2074">ya</TOKEN>
+        <TOKEN id="token-44-3" pos="word" morph="none" start_char="2076" end_char="2081">siento</TOKEN>
+        <TOKEN id="token-44-4" pos="word" morph="none" start_char="2083" end_char="2083">y</TOKEN>
+        <TOKEN id="token-44-5" pos="word" morph="none" start_char="2085" end_char="2093">presiento</TOKEN>
+        <TOKEN id="token-44-6" pos="word" morph="none" start_char="2095" end_char="2097">que</TOKEN>
+        <TOKEN id="token-44-7" pos="word" morph="none" start_char="2099" end_char="2101">van</TOKEN>
+        <TOKEN id="token-44-8" pos="word" morph="none" start_char="2103" end_char="2103">a</TOKEN>
+        <TOKEN id="token-44-9" pos="word" morph="none" start_char="2105" end_char="2107">ser</TOKEN>
+        <TOKEN id="token-44-10" pos="word" morph="none" start_char="2109" end_char="2113">mucho</TOKEN>
+        <TOKEN id="token-44-11" pos="word" morph="none" start_char="2115" end_char="2117">más</TOKEN>
+        <TOKEN id="token-44-12" pos="word" morph="none" start_char="2119" end_char="2120">de</TOKEN>
+        <TOKEN id="token-44-13" pos="number" morph="none" start_char="2122" end_char="2123">10</TOKEN>
+        <TOKEN id="token-44-14" pos="word" morph="none" start_char="2125" end_char="2132">millones</TOKEN>
+        <TOKEN id="token-44-15" pos="punct" morph="none" start_char="2133" end_char="2133">.</TOKEN>
+        <TOKEN id="token-44-16" pos="word" morph="none" start_char="2135" end_char="2136">Si</TOKEN>
+        <TOKEN id="token-44-17" pos="word" morph="none" start_char="2138" end_char="2142">Obama</TOKEN>
+      </SEG>
+      <SEG id="segment-45" start_char="2144" end_char="2214">
+        <ORIGINAL_TEXT>sigue viendo la fortaleza de la unión del pueblo venezolano, si América</ORIGINAL_TEXT>
+        <TOKEN id="token-45-0" pos="word" morph="none" start_char="2144" end_char="2148">sigue</TOKEN>
+        <TOKEN id="token-45-1" pos="word" morph="none" start_char="2150" end_char="2155">viendo</TOKEN>
+        <TOKEN id="token-45-2" pos="word" morph="none" start_char="2157" end_char="2158">la</TOKEN>
+        <TOKEN id="token-45-3" pos="word" morph="none" start_char="2160" end_char="2168">fortaleza</TOKEN>
+        <TOKEN id="token-45-4" pos="word" morph="none" start_char="2170" end_char="2171">de</TOKEN>
+        <TOKEN id="token-45-5" pos="word" morph="none" start_char="2173" end_char="2174">la</TOKEN>
+        <TOKEN id="token-45-6" pos="word" morph="none" start_char="2176" end_char="2180">unión</TOKEN>
+        <TOKEN id="token-45-7" pos="word" morph="none" start_char="2182" end_char="2184">del</TOKEN>
+        <TOKEN id="token-45-8" pos="word" morph="none" start_char="2186" end_char="2191">pueblo</TOKEN>
+        <TOKEN id="token-45-9" pos="word" morph="none" start_char="2193" end_char="2202">venezolano</TOKEN>
+        <TOKEN id="token-45-10" pos="punct" morph="none" start_char="2203" end_char="2203">,</TOKEN>
+        <TOKEN id="token-45-11" pos="word" morph="none" start_char="2205" end_char="2206">si</TOKEN>
+        <TOKEN id="token-45-12" pos="word" morph="none" start_char="2208" end_char="2214">América</TOKEN>
+      </SEG>
+      <SEG id="segment-46" start_char="2216" end_char="2284">
+        <ORIGINAL_TEXT>Latina nos sigue apoyando con la fortaleza con que nos está apoyando,</ORIGINAL_TEXT>
+        <TOKEN id="token-46-0" pos="word" morph="none" start_char="2216" end_char="2221">Latina</TOKEN>
+        <TOKEN id="token-46-1" pos="word" morph="none" start_char="2223" end_char="2225">nos</TOKEN>
+        <TOKEN id="token-46-2" pos="word" morph="none" start_char="2227" end_char="2231">sigue</TOKEN>
+        <TOKEN id="token-46-3" pos="word" morph="none" start_char="2233" end_char="2240">apoyando</TOKEN>
+        <TOKEN id="token-46-4" pos="word" morph="none" start_char="2242" end_char="2244">con</TOKEN>
+        <TOKEN id="token-46-5" pos="word" morph="none" start_char="2246" end_char="2247">la</TOKEN>
+        <TOKEN id="token-46-6" pos="word" morph="none" start_char="2249" end_char="2257">fortaleza</TOKEN>
+        <TOKEN id="token-46-7" pos="word" morph="none" start_char="2259" end_char="2261">con</TOKEN>
+        <TOKEN id="token-46-8" pos="word" morph="none" start_char="2263" end_char="2265">que</TOKEN>
+        <TOKEN id="token-46-9" pos="word" morph="none" start_char="2267" end_char="2269">nos</TOKEN>
+        <TOKEN id="token-46-10" pos="word" morph="none" start_char="2271" end_char="2274">está</TOKEN>
+        <TOKEN id="token-46-11" pos="word" morph="none" start_char="2276" end_char="2283">apoyando</TOKEN>
+        <TOKEN id="token-46-12" pos="punct" morph="none" start_char="2284" end_char="2284">,</TOKEN>
+      </SEG>
+      <SEG id="segment-47" start_char="2286" end_char="2338">
+        <ORIGINAL_TEXT>nosotros vamos a lograr que se nos respete", aseguró.</ORIGINAL_TEXT>
+        <TOKEN id="token-47-0" pos="word" morph="none" start_char="2286" end_char="2293">nosotros</TOKEN>
+        <TOKEN id="token-47-1" pos="word" morph="none" start_char="2295" end_char="2299">vamos</TOKEN>
+        <TOKEN id="token-47-2" pos="word" morph="none" start_char="2301" end_char="2301">a</TOKEN>
+        <TOKEN id="token-47-3" pos="word" morph="none" start_char="2303" end_char="2308">lograr</TOKEN>
+        <TOKEN id="token-47-4" pos="word" morph="none" start_char="2310" end_char="2312">que</TOKEN>
+        <TOKEN id="token-47-5" pos="word" morph="none" start_char="2314" end_char="2315">se</TOKEN>
+        <TOKEN id="token-47-6" pos="word" morph="none" start_char="2317" end_char="2319">nos</TOKEN>
+        <TOKEN id="token-47-7" pos="word" morph="none" start_char="2321" end_char="2327">respete</TOKEN>
+        <TOKEN id="token-47-8" pos="punct" morph="none" start_char="2328" end_char="2329">",</TOKEN>
+        <TOKEN id="token-47-9" pos="word" morph="none" start_char="2331" end_char="2337">aseguró</TOKEN>
+        <TOKEN id="token-47-10" pos="punct" morph="none" start_char="2338" end_char="2338">.</TOKEN>
+      </SEG>
+      <SEG id="segment-48" start_char="2340" end_char="2343">
+        <ORIGINAL_TEXT>&lt;/P&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-48-0" pos="unknown" morph="none" start_char="2340" end_char="2343">&lt;/P&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-49" start_char="2345" end_char="2347">
+        <ORIGINAL_TEXT>&lt;P&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-49-0" pos="unknown" morph="none" start_char="2345" end_char="2347">&lt;P&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-50" start_char="2349" end_char="2387">
+        <ORIGINAL_TEXT>"A Venezuela no la toca nadie", añadió.</ORIGINAL_TEXT>
+        <TOKEN id="token-50-0" pos="punct" morph="none" start_char="2349" end_char="2349">"</TOKEN>
+        <TOKEN id="token-50-1" pos="word" morph="none" start_char="2350" end_char="2350">A</TOKEN>
+        <TOKEN id="token-50-2" pos="word" morph="none" start_char="2352" end_char="2360">Venezuela</TOKEN>
+        <TOKEN id="token-50-3" pos="word" morph="none" start_char="2362" end_char="2363">no</TOKEN>
+        <TOKEN id="token-50-4" pos="word" morph="none" start_char="2365" end_char="2366">la</TOKEN>
+        <TOKEN id="token-50-5" pos="word" morph="none" start_char="2368" end_char="2371">toca</TOKEN>
+        <TOKEN id="token-50-6" pos="word" morph="none" start_char="2373" end_char="2377">nadie</TOKEN>
+        <TOKEN id="token-50-7" pos="punct" morph="none" start_char="2378" end_char="2379">",</TOKEN>
+        <TOKEN id="token-50-8" pos="word" morph="none" start_char="2381" end_char="2386">añadió</TOKEN>
+        <TOKEN id="token-50-9" pos="punct" morph="none" start_char="2387" end_char="2387">.</TOKEN>
+      </SEG>
+      <SEG id="segment-51" start_char="2389" end_char="2392">
+        <ORIGINAL_TEXT>&lt;/P&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-51-0" pos="unknown" morph="none" start_char="2389" end_char="2392">&lt;/P&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-52" start_char="2394" end_char="2396">
+        <ORIGINAL_TEXT>&lt;P&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-52-0" pos="unknown" morph="none" start_char="2394" end_char="2396">&lt;P&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-53" start_char="2398" end_char="2473">
+        <ORIGINAL_TEXT>Además de las firmas, el Gobierno venezolano convocó una serie de marchas en</ORIGINAL_TEXT>
+        <TOKEN id="token-53-0" pos="word" morph="none" start_char="2398" end_char="2403">Además</TOKEN>
+        <TOKEN id="token-53-1" pos="word" morph="none" start_char="2405" end_char="2406">de</TOKEN>
+        <TOKEN id="token-53-2" pos="word" morph="none" start_char="2408" end_char="2410">las</TOKEN>
+        <TOKEN id="token-53-3" pos="word" morph="none" start_char="2412" end_char="2417">firmas</TOKEN>
+        <TOKEN id="token-53-4" pos="punct" morph="none" start_char="2418" end_char="2418">,</TOKEN>
+        <TOKEN id="token-53-5" pos="word" morph="none" start_char="2420" end_char="2421">el</TOKEN>
+        <TOKEN id="token-53-6" pos="word" morph="none" start_char="2423" end_char="2430">Gobierno</TOKEN>
+        <TOKEN id="token-53-7" pos="word" morph="none" start_char="2432" end_char="2441">venezolano</TOKEN>
+        <TOKEN id="token-53-8" pos="word" morph="none" start_char="2443" end_char="2449">convocó</TOKEN>
+        <TOKEN id="token-53-9" pos="word" morph="none" start_char="2451" end_char="2453">una</TOKEN>
+        <TOKEN id="token-53-10" pos="word" morph="none" start_char="2455" end_char="2459">serie</TOKEN>
+        <TOKEN id="token-53-11" pos="word" morph="none" start_char="2461" end_char="2462">de</TOKEN>
+        <TOKEN id="token-53-12" pos="word" morph="none" start_char="2464" end_char="2470">marchas</TOKEN>
+        <TOKEN id="token-53-13" pos="word" morph="none" start_char="2472" end_char="2473">en</TOKEN>
+      </SEG>
+      <SEG id="segment-54" start_char="2475" end_char="2544">
+        <ORIGINAL_TEXT>los últimos días en contra de esta decisión de EE.UU. y llamó hoy a un</ORIGINAL_TEXT>
+        <TOKEN id="token-54-0" pos="word" morph="none" start_char="2475" end_char="2477">los</TOKEN>
+        <TOKEN id="token-54-1" pos="word" morph="none" start_char="2479" end_char="2485">últimos</TOKEN>
+        <TOKEN id="token-54-2" pos="word" morph="none" start_char="2487" end_char="2490">días</TOKEN>
+        <TOKEN id="token-54-3" pos="word" morph="none" start_char="2492" end_char="2493">en</TOKEN>
+        <TOKEN id="token-54-4" pos="word" morph="none" start_char="2495" end_char="2500">contra</TOKEN>
+        <TOKEN id="token-54-5" pos="word" morph="none" start_char="2502" end_char="2503">de</TOKEN>
+        <TOKEN id="token-54-6" pos="word" morph="none" start_char="2505" end_char="2508">esta</TOKEN>
+        <TOKEN id="token-54-7" pos="word" morph="none" start_char="2510" end_char="2517">decisión</TOKEN>
+        <TOKEN id="token-54-8" pos="word" morph="none" start_char="2519" end_char="2520">de</TOKEN>
+        <TOKEN id="token-54-9" pos="word" morph="none" start_char="2522" end_char="2523">EE</TOKEN>
+        <TOKEN id="token-54-10" pos="punct" morph="none" start_char="2524" end_char="2524">.</TOKEN>
+        <TOKEN id="token-54-11" pos="word" morph="none" start_char="2525" end_char="2526">UU</TOKEN>
+        <TOKEN id="token-54-12" pos="punct" morph="none" start_char="2527" end_char="2527">.</TOKEN>
+        <TOKEN id="token-54-13" pos="word" morph="none" start_char="2529" end_char="2529">y</TOKEN>
+        <TOKEN id="token-54-14" pos="word" morph="none" start_char="2531" end_char="2535">llamó</TOKEN>
+        <TOKEN id="token-54-15" pos="word" morph="none" start_char="2537" end_char="2539">hoy</TOKEN>
+        <TOKEN id="token-54-16" pos="word" morph="none" start_char="2541" end_char="2541">a</TOKEN>
+        <TOKEN id="token-54-17" pos="word" morph="none" start_char="2543" end_char="2544">un</TOKEN>
+      </SEG>
+      <SEG id="segment-55" start_char="2546" end_char="2563">
+        <ORIGINAL_TEXT>"tuitazo mundial".</ORIGINAL_TEXT>
+        <TOKEN id="token-55-0" pos="punct" morph="none" start_char="2546" end_char="2546">"</TOKEN>
+        <TOKEN id="token-55-1" pos="word" morph="none" start_char="2547" end_char="2553">tuitazo</TOKEN>
+        <TOKEN id="token-55-2" pos="word" morph="none" start_char="2555" end_char="2561">mundial</TOKEN>
+        <TOKEN id="token-55-3" pos="punct" morph="none" start_char="2562" end_char="2563">".</TOKEN>
+      </SEG>
+      <SEG id="segment-56" start_char="2565" end_char="2568">
+        <ORIGINAL_TEXT>&lt;/P&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-56-0" pos="unknown" morph="none" start_char="2565" end_char="2568">&lt;/P&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-57" start_char="2570" end_char="2572">
+        <ORIGINAL_TEXT>&lt;P&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-57-0" pos="unknown" morph="none" start_char="2570" end_char="2572">&lt;P&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-58" start_char="2574" end_char="2645">
+        <ORIGINAL_TEXT>El jefe de la campaña, el oficialista Jorge Rodríguez, informó hoy a las</ORIGINAL_TEXT>
+        <TOKEN id="token-58-0" pos="word" morph="none" start_char="2574" end_char="2575">El</TOKEN>
+        <TOKEN id="token-58-1" pos="word" morph="none" start_char="2577" end_char="2580">jefe</TOKEN>
+        <TOKEN id="token-58-2" pos="word" morph="none" start_char="2582" end_char="2583">de</TOKEN>
+        <TOKEN id="token-58-3" pos="word" morph="none" start_char="2585" end_char="2586">la</TOKEN>
+        <TOKEN id="token-58-4" pos="word" morph="none" start_char="2588" end_char="2594">campaña</TOKEN>
+        <TOKEN id="token-58-5" pos="punct" morph="none" start_char="2595" end_char="2595">,</TOKEN>
+        <TOKEN id="token-58-6" pos="word" morph="none" start_char="2597" end_char="2598">el</TOKEN>
+        <TOKEN id="token-58-7" pos="word" morph="none" start_char="2600" end_char="2610">oficialista</TOKEN>
+        <TOKEN id="token-58-8" pos="word" morph="none" start_char="2612" end_char="2616">Jorge</TOKEN>
+        <TOKEN id="token-58-9" pos="word" morph="none" start_char="2618" end_char="2626">Rodríguez</TOKEN>
+        <TOKEN id="token-58-10" pos="punct" morph="none" start_char="2627" end_char="2627">,</TOKEN>
+        <TOKEN id="token-58-11" pos="word" morph="none" start_char="2629" end_char="2635">informó</TOKEN>
+        <TOKEN id="token-58-12" pos="word" morph="none" start_char="2637" end_char="2639">hoy</TOKEN>
+        <TOKEN id="token-58-13" pos="word" morph="none" start_char="2641" end_char="2641">a</TOKEN>
+        <TOKEN id="token-58-14" pos="word" morph="none" start_char="2643" end_char="2645">las</TOKEN>
+      </SEG>
+      <SEG id="segment-59" start_char="2647" end_char="2720">
+        <ORIGINAL_TEXT>12.30 hora local (17.00 GMT) que hasta ese momento se habían contabilizado</ORIGINAL_TEXT>
+        <TOKEN id="token-59-0" pos="number" morph="none" start_char="2647" end_char="2651">12.30</TOKEN>
+        <TOKEN id="token-59-1" pos="word" morph="none" start_char="2653" end_char="2656">hora</TOKEN>
+        <TOKEN id="token-59-2" pos="word" morph="none" start_char="2658" end_char="2662">local</TOKEN>
+        <TOKEN id="token-59-3" pos="punct" morph="none" start_char="2664" end_char="2664">(</TOKEN>
+        <TOKEN id="token-59-4" pos="word" morph="none" start_char="2665" end_char="2666">17</TOKEN>
+        <TOKEN id="token-59-5" pos="punct" morph="none" start_char="2667" end_char="2667">.</TOKEN>
+        <TOKEN id="token-59-6" pos="word" morph="none" start_char="2668" end_char="2669">00</TOKEN>
+        <TOKEN id="token-59-7" pos="word" morph="none" start_char="2671" end_char="2673">GMT</TOKEN>
+        <TOKEN id="token-59-8" pos="punct" morph="none" start_char="2674" end_char="2674">)</TOKEN>
+        <TOKEN id="token-59-9" pos="word" morph="none" start_char="2676" end_char="2678">que</TOKEN>
+        <TOKEN id="token-59-10" pos="word" morph="none" start_char="2680" end_char="2684">hasta</TOKEN>
+        <TOKEN id="token-59-11" pos="word" morph="none" start_char="2686" end_char="2688">ese</TOKEN>
+        <TOKEN id="token-59-12" pos="word" morph="none" start_char="2690" end_char="2696">momento</TOKEN>
+        <TOKEN id="token-59-13" pos="word" morph="none" start_char="2698" end_char="2699">se</TOKEN>
+        <TOKEN id="token-59-14" pos="word" morph="none" start_char="2701" end_char="2706">habían</TOKEN>
+        <TOKEN id="token-59-15" pos="word" morph="none" start_char="2708" end_char="2720">contabilizado</TOKEN>
+      </SEG>
+      <SEG id="segment-60" start_char="2722" end_char="2797">
+        <ORIGINAL_TEXT>"1.801.935 tuits nivel mundial", en apoyo a la solicitud de derogación de la</ORIGINAL_TEXT>
+        <TOKEN id="token-60-0" pos="unknown" morph="none" start_char="2722" end_char="2731">"1.801.935</TOKEN>
+        <TOKEN id="token-60-1" pos="word" morph="none" start_char="2733" end_char="2737">tuits</TOKEN>
+        <TOKEN id="token-60-2" pos="word" morph="none" start_char="2739" end_char="2743">nivel</TOKEN>
+        <TOKEN id="token-60-3" pos="word" morph="none" start_char="2745" end_char="2751">mundial</TOKEN>
+        <TOKEN id="token-60-4" pos="punct" morph="none" start_char="2752" end_char="2753">",</TOKEN>
+        <TOKEN id="token-60-5" pos="word" morph="none" start_char="2755" end_char="2756">en</TOKEN>
+        <TOKEN id="token-60-6" pos="word" morph="none" start_char="2758" end_char="2762">apoyo</TOKEN>
+        <TOKEN id="token-60-7" pos="word" morph="none" start_char="2764" end_char="2764">a</TOKEN>
+        <TOKEN id="token-60-8" pos="word" morph="none" start_char="2766" end_char="2767">la</TOKEN>
+        <TOKEN id="token-60-9" pos="word" morph="none" start_char="2769" end_char="2777">solicitud</TOKEN>
+        <TOKEN id="token-60-10" pos="word" morph="none" start_char="2779" end_char="2780">de</TOKEN>
+        <TOKEN id="token-60-11" pos="word" morph="none" start_char="2782" end_char="2791">derogación</TOKEN>
+        <TOKEN id="token-60-12" pos="word" morph="none" start_char="2793" end_char="2794">de</TOKEN>
+        <TOKEN id="token-60-13" pos="word" morph="none" start_char="2796" end_char="2797">la</TOKEN>
+      </SEG>
+      <SEG id="segment-61" start_char="2799" end_char="2814">
+        <ORIGINAL_TEXT>orden ejecutiva.</ORIGINAL_TEXT>
+        <TOKEN id="token-61-0" pos="word" morph="none" start_char="2799" end_char="2803">orden</TOKEN>
+        <TOKEN id="token-61-1" pos="word" morph="none" start_char="2805" end_char="2813">ejecutiva</TOKEN>
+        <TOKEN id="token-61-2" pos="punct" morph="none" start_char="2814" end_char="2814">.</TOKEN>
+      </SEG>
+      <SEG id="segment-62" start_char="2816" end_char="2819">
+        <ORIGINAL_TEXT>&lt;/P&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-62-0" pos="unknown" morph="none" start_char="2816" end_char="2819">&lt;/P&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-63" start_char="2821" end_char="2823">
+        <ORIGINAL_TEXT>&lt;P&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-63-0" pos="unknown" morph="none" start_char="2821" end_char="2823">&lt;P&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-64" start_char="2825" end_char="2892">
+        <ORIGINAL_TEXT>Esta orden ejecutiva aprobada por Obama es el último episodio en una</ORIGINAL_TEXT>
+        <TOKEN id="token-64-0" pos="word" morph="none" start_char="2825" end_char="2828">Esta</TOKEN>
+        <TOKEN id="token-64-1" pos="word" morph="none" start_char="2830" end_char="2834">orden</TOKEN>
+        <TOKEN id="token-64-2" pos="word" morph="none" start_char="2836" end_char="2844">ejecutiva</TOKEN>
+        <TOKEN id="token-64-3" pos="word" morph="none" start_char="2846" end_char="2853">aprobada</TOKEN>
+        <TOKEN id="token-64-4" pos="word" morph="none" start_char="2855" end_char="2857">por</TOKEN>
+        <TOKEN id="token-64-5" pos="word" morph="none" start_char="2859" end_char="2863">Obama</TOKEN>
+        <TOKEN id="token-64-6" pos="word" morph="none" start_char="2865" end_char="2866">es</TOKEN>
+        <TOKEN id="token-64-7" pos="word" morph="none" start_char="2868" end_char="2869">el</TOKEN>
+        <TOKEN id="token-64-8" pos="word" morph="none" start_char="2871" end_char="2876">último</TOKEN>
+        <TOKEN id="token-64-9" pos="word" morph="none" start_char="2878" end_char="2885">episodio</TOKEN>
+        <TOKEN id="token-64-10" pos="word" morph="none" start_char="2887" end_char="2888">en</TOKEN>
+        <TOKEN id="token-64-11" pos="word" morph="none" start_char="2890" end_char="2892">una</TOKEN>
+      </SEG>
+      <SEG id="segment-65" start_char="2894" end_char="2969">
+        <ORIGINAL_TEXT>relación entre EE.UU. y Venezuela marcada por los altibajos tras la retirada</ORIGINAL_TEXT>
+        <TOKEN id="token-65-0" pos="word" morph="none" start_char="2894" end_char="2901">relación</TOKEN>
+        <TOKEN id="token-65-1" pos="word" morph="none" start_char="2903" end_char="2907">entre</TOKEN>
+        <TOKEN id="token-65-2" pos="word" morph="none" start_char="2909" end_char="2910">EE</TOKEN>
+        <TOKEN id="token-65-3" pos="punct" morph="none" start_char="2911" end_char="2911">.</TOKEN>
+        <TOKEN id="token-65-4" pos="word" morph="none" start_char="2912" end_char="2913">UU</TOKEN>
+        <TOKEN id="token-65-5" pos="punct" morph="none" start_char="2914" end_char="2914">.</TOKEN>
+        <TOKEN id="token-65-6" pos="word" morph="none" start_char="2916" end_char="2916">y</TOKEN>
+        <TOKEN id="token-65-7" pos="word" morph="none" start_char="2918" end_char="2926">Venezuela</TOKEN>
+        <TOKEN id="token-65-8" pos="word" morph="none" start_char="2928" end_char="2934">marcada</TOKEN>
+        <TOKEN id="token-65-9" pos="word" morph="none" start_char="2936" end_char="2938">por</TOKEN>
+        <TOKEN id="token-65-10" pos="word" morph="none" start_char="2940" end_char="2942">los</TOKEN>
+        <TOKEN id="token-65-11" pos="word" morph="none" start_char="2944" end_char="2952">altibajos</TOKEN>
+        <TOKEN id="token-65-12" pos="word" morph="none" start_char="2954" end_char="2957">tras</TOKEN>
+        <TOKEN id="token-65-13" pos="word" morph="none" start_char="2959" end_char="2960">la</TOKEN>
+        <TOKEN id="token-65-14" pos="word" morph="none" start_char="2962" end_char="2969">retirada</TOKEN>
+      </SEG>
+      <SEG id="segment-66" start_char="2971" end_char="2999">
+        <ORIGINAL_TEXT>mutua de embajadores en 2010.</ORIGINAL_TEXT>
+        <TOKEN id="token-66-0" pos="word" morph="none" start_char="2971" end_char="2975">mutua</TOKEN>
+        <TOKEN id="token-66-1" pos="word" morph="none" start_char="2977" end_char="2978">de</TOKEN>
+        <TOKEN id="token-66-2" pos="word" morph="none" start_char="2980" end_char="2990">embajadores</TOKEN>
+        <TOKEN id="token-66-3" pos="word" morph="none" start_char="2992" end_char="2993">en</TOKEN>
+        <TOKEN id="token-66-4" pos="word" morph="none" start_char="2995" end_char="2998">2010</TOKEN>
+        <TOKEN id="token-66-5" pos="punct" morph="none" start_char="2999" end_char="2999">.</TOKEN>
+      </SEG>
+      <SEG id="segment-67" start_char="3001" end_char="3004">
+        <ORIGINAL_TEXT>&lt;/P&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-67-0" pos="unknown" morph="none" start_char="3001" end_char="3004">&lt;/P&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-68" start_char="3006" end_char="3012">
+        <ORIGINAL_TEXT>&lt;/TEXT&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-68-0" pos="unknown" morph="none" start_char="3006" end_char="3012">&lt;/TEXT&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-69" start_char="3014" end_char="3019">
+        <ORIGINAL_TEXT>&lt;/DOC&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-69-0" pos="unknown" morph="none" start_char="3014" end_char="3019">&lt;/DOC&gt;</TOKEN>
+      </SEG>
+    </TEXT>
+  </DOC>
+</LCTL_TEXT>

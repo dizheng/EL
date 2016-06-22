@@ -1,0 +1,684 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LCTL_TEXT>
+  <DOC id="SPA_NW_001113_20141223_F00000048.xml" tokenization="tokenization_parameters" grammar="none" raw_text_char_length="2580" raw_text_md5="b665ce8743fde352b37697c2554d488f">
+    <TEXT>
+      <SEG id="segment-0" start_char="0" end_char="37">
+        <ORIGINAL_TEXT>&lt;?xml version="1.0" encoding="utf-8"?&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-0-0" pos="unknown" morph="none" start_char="0" end_char="4">&lt;?xml</TOKEN>
+        <TOKEN id="token-0-1" pos="unknown" morph="none" start_char="6" end_char="18">version="1.0"</TOKEN>
+        <TOKEN id="token-0-2" pos="unknown" morph="none" start_char="20" end_char="37">encoding="utf-8"?&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-1" start_char="39" end_char="81">
+        <ORIGINAL_TEXT>&lt;DOC id="SPA_NW_001113_20141223_F00000048"&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-1-0" pos="unknown" morph="none" start_char="39" end_char="42">&lt;DOC</TOKEN>
+        <TOKEN id="token-1-1" pos="unknown" morph="none" start_char="44" end_char="81">id="SPA_NW_001113_20141223_F00000048"&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-2" start_char="83" end_char="143">
+        <ORIGINAL_TEXT>&lt;SOURCE&gt;http://www.montevideo.com.uy/auc.aspx?256722&lt;/SOURCE&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-2-0" pos="unknown" morph="none" start_char="83" end_char="143">&lt;SOURCE&gt;http://www.montevideo.com.uy/auc.aspx?256722&lt;/SOURCE&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-3" start_char="145" end_char="186">
+        <ORIGINAL_TEXT>&lt;DATE_TIME&gt;2014-12-23T00:00:00&lt;/DATE_TIME&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-3-0" pos="unknown" morph="none" start_char="145" end_char="186">&lt;DATE_TIME&gt;2014-12-23T00:00:00&lt;/DATE_TIME&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-4" start_char="188" end_char="197">
+        <ORIGINAL_TEXT>&lt;HEADLINE&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-4-0" pos="unknown" morph="none" start_char="188" end_char="197">&lt;HEADLINE&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-5" start_char="199" end_char="208">
+        <ORIGINAL_TEXT>Más tiempo</ORIGINAL_TEXT>
+        <TOKEN id="token-5-0" pos="word" morph="none" start_char="199" end_char="201">Más</TOKEN>
+        <TOKEN id="token-5-1" pos="word" morph="none" start_char="203" end_char="208">tiempo</TOKEN>
+      </SEG>
+      <SEG id="segment-6" start_char="210" end_char="220">
+        <ORIGINAL_TEXT>&lt;/HEADLINE&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-6-0" pos="unknown" morph="none" start_char="210" end_char="220">&lt;/HEADLINE&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-7" start_char="222" end_char="227">
+        <ORIGINAL_TEXT>&lt;TEXT&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-7-0" pos="unknown" morph="none" start_char="222" end_char="227">&lt;TEXT&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-8" start_char="229" end_char="231">
+        <ORIGINAL_TEXT>&lt;P&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-8-0" pos="unknown" morph="none" start_char="229" end_char="231">&lt;P&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-9" start_char="233" end_char="302">
+        <ORIGINAL_TEXT>Dzhokhar Tsarnaev, acusado del atentado en el maratón de Boston, pidió</ORIGINAL_TEXT>
+        <TOKEN id="token-9-0" pos="word" morph="none" start_char="233" end_char="240">Dzhokhar</TOKEN>
+        <TOKEN id="token-9-1" pos="word" morph="none" start_char="242" end_char="249">Tsarnaev</TOKEN>
+        <TOKEN id="token-9-2" pos="punct" morph="none" start_char="250" end_char="250">,</TOKEN>
+        <TOKEN id="token-9-3" pos="word" morph="none" start_char="252" end_char="258">acusado</TOKEN>
+        <TOKEN id="token-9-4" pos="word" morph="none" start_char="260" end_char="262">del</TOKEN>
+        <TOKEN id="token-9-5" pos="word" morph="none" start_char="264" end_char="271">atentado</TOKEN>
+        <TOKEN id="token-9-6" pos="word" morph="none" start_char="273" end_char="274">en</TOKEN>
+        <TOKEN id="token-9-7" pos="word" morph="none" start_char="276" end_char="277">el</TOKEN>
+        <TOKEN id="token-9-8" pos="word" morph="none" start_char="279" end_char="285">maratón</TOKEN>
+        <TOKEN id="token-9-9" pos="word" morph="none" start_char="287" end_char="288">de</TOKEN>
+        <TOKEN id="token-9-10" pos="word" morph="none" start_char="290" end_char="295">Boston</TOKEN>
+        <TOKEN id="token-9-11" pos="punct" morph="none" start_char="296" end_char="296">,</TOKEN>
+        <TOKEN id="token-9-12" pos="word" morph="none" start_char="298" end_char="302">pidió</TOKEN>
+      </SEG>
+      <SEG id="segment-10" start_char="304" end_char="381">
+        <ORIGINAL_TEXT>aplazar hasta setiembre el juicio por terrorismo, previsto para el 5 de enero.</ORIGINAL_TEXT>
+        <TOKEN id="token-10-0" pos="word" morph="none" start_char="304" end_char="310">aplazar</TOKEN>
+        <TOKEN id="token-10-1" pos="word" morph="none" start_char="312" end_char="316">hasta</TOKEN>
+        <TOKEN id="token-10-2" pos="word" morph="none" start_char="318" end_char="326">setiembre</TOKEN>
+        <TOKEN id="token-10-3" pos="word" morph="none" start_char="328" end_char="329">el</TOKEN>
+        <TOKEN id="token-10-4" pos="word" morph="none" start_char="331" end_char="336">juicio</TOKEN>
+        <TOKEN id="token-10-5" pos="word" morph="none" start_char="338" end_char="340">por</TOKEN>
+        <TOKEN id="token-10-6" pos="word" morph="none" start_char="342" end_char="351">terrorismo</TOKEN>
+        <TOKEN id="token-10-7" pos="punct" morph="none" start_char="352" end_char="352">,</TOKEN>
+        <TOKEN id="token-10-8" pos="word" morph="none" start_char="354" end_char="361">previsto</TOKEN>
+        <TOKEN id="token-10-9" pos="word" morph="none" start_char="363" end_char="366">para</TOKEN>
+        <TOKEN id="token-10-10" pos="word" morph="none" start_char="368" end_char="369">el</TOKEN>
+        <TOKEN id="token-10-11" pos="number" morph="none" start_char="371" end_char="371">5</TOKEN>
+        <TOKEN id="token-10-12" pos="word" morph="none" start_char="373" end_char="374">de</TOKEN>
+        <TOKEN id="token-10-13" pos="word" morph="none" start_char="376" end_char="380">enero</TOKEN>
+        <TOKEN id="token-10-14" pos="punct" morph="none" start_char="381" end_char="381">.</TOKEN>
+      </SEG>
+      <SEG id="segment-11" start_char="383" end_char="386">
+        <ORIGINAL_TEXT>&lt;/P&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-11-0" pos="unknown" morph="none" start_char="383" end_char="386">&lt;/P&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-12" start_char="388" end_char="390">
+        <ORIGINAL_TEXT>&lt;P&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-12-0" pos="unknown" morph="none" start_char="388" end_char="390">&lt;P&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-13" start_char="392" end_char="468">
+        <ORIGINAL_TEXT>El abogado de Dzhokhar Tsarnaev, acusado del atentado con bomba en el maratón</ORIGINAL_TEXT>
+        <TOKEN id="token-13-0" pos="word" morph="none" start_char="392" end_char="393">El</TOKEN>
+        <TOKEN id="token-13-1" pos="word" morph="none" start_char="395" end_char="401">abogado</TOKEN>
+        <TOKEN id="token-13-2" pos="word" morph="none" start_char="403" end_char="404">de</TOKEN>
+        <TOKEN id="token-13-3" pos="word" morph="none" start_char="406" end_char="413">Dzhokhar</TOKEN>
+        <TOKEN id="token-13-4" pos="word" morph="none" start_char="415" end_char="422">Tsarnaev</TOKEN>
+        <TOKEN id="token-13-5" pos="punct" morph="none" start_char="423" end_char="423">,</TOKEN>
+        <TOKEN id="token-13-6" pos="word" morph="none" start_char="425" end_char="431">acusado</TOKEN>
+        <TOKEN id="token-13-7" pos="word" morph="none" start_char="433" end_char="435">del</TOKEN>
+        <TOKEN id="token-13-8" pos="word" morph="none" start_char="437" end_char="444">atentado</TOKEN>
+        <TOKEN id="token-13-9" pos="word" morph="none" start_char="446" end_char="448">con</TOKEN>
+        <TOKEN id="token-13-10" pos="word" morph="none" start_char="450" end_char="454">bomba</TOKEN>
+        <TOKEN id="token-13-11" pos="word" morph="none" start_char="456" end_char="457">en</TOKEN>
+        <TOKEN id="token-13-12" pos="word" morph="none" start_char="459" end_char="460">el</TOKEN>
+        <TOKEN id="token-13-13" pos="word" morph="none" start_char="462" end_char="468">maratón</TOKEN>
+      </SEG>
+      <SEG id="segment-14" start_char="470" end_char="537">
+        <ORIGINAL_TEXT>de Boston, solicitó este martes un nuevo aplazamiento del juicio por</ORIGINAL_TEXT>
+        <TOKEN id="token-14-0" pos="word" morph="none" start_char="470" end_char="471">de</TOKEN>
+        <TOKEN id="token-14-1" pos="word" morph="none" start_char="473" end_char="478">Boston</TOKEN>
+        <TOKEN id="token-14-2" pos="punct" morph="none" start_char="479" end_char="479">,</TOKEN>
+        <TOKEN id="token-14-3" pos="word" morph="none" start_char="481" end_char="488">solicitó</TOKEN>
+        <TOKEN id="token-14-4" pos="word" morph="none" start_char="490" end_char="493">este</TOKEN>
+        <TOKEN id="token-14-5" pos="word" morph="none" start_char="495" end_char="500">martes</TOKEN>
+        <TOKEN id="token-14-6" pos="word" morph="none" start_char="502" end_char="503">un</TOKEN>
+        <TOKEN id="token-14-7" pos="word" morph="none" start_char="505" end_char="509">nuevo</TOKEN>
+        <TOKEN id="token-14-8" pos="word" morph="none" start_char="511" end_char="522">aplazamiento</TOKEN>
+        <TOKEN id="token-14-9" pos="word" morph="none" start_char="524" end_char="526">del</TOKEN>
+        <TOKEN id="token-14-10" pos="word" morph="none" start_char="528" end_char="533">juicio</TOKEN>
+        <TOKEN id="token-14-11" pos="word" morph="none" start_char="535" end_char="537">por</TOKEN>
+      </SEG>
+      <SEG id="segment-15" start_char="539" end_char="616">
+        <ORIGINAL_TEXT>terrorismo contra su cliente, inicialmente previsto para el 5 de enero tras la</ORIGINAL_TEXT>
+        <TOKEN id="token-15-0" pos="word" morph="none" start_char="539" end_char="548">terrorismo</TOKEN>
+        <TOKEN id="token-15-1" pos="word" morph="none" start_char="550" end_char="555">contra</TOKEN>
+        <TOKEN id="token-15-2" pos="word" morph="none" start_char="557" end_char="558">su</TOKEN>
+        <TOKEN id="token-15-3" pos="word" morph="none" start_char="560" end_char="566">cliente</TOKEN>
+        <TOKEN id="token-15-4" pos="punct" morph="none" start_char="567" end_char="567">,</TOKEN>
+        <TOKEN id="token-15-5" pos="word" morph="none" start_char="569" end_char="580">inicialmente</TOKEN>
+        <TOKEN id="token-15-6" pos="word" morph="none" start_char="582" end_char="589">previsto</TOKEN>
+        <TOKEN id="token-15-7" pos="word" morph="none" start_char="591" end_char="594">para</TOKEN>
+        <TOKEN id="token-15-8" pos="word" morph="none" start_char="596" end_char="597">el</TOKEN>
+        <TOKEN id="token-15-9" pos="number" morph="none" start_char="599" end_char="599">5</TOKEN>
+        <TOKEN id="token-15-10" pos="word" morph="none" start_char="601" end_char="602">de</TOKEN>
+        <TOKEN id="token-15-11" pos="word" morph="none" start_char="604" end_char="608">enero</TOKEN>
+        <TOKEN id="token-15-12" pos="word" morph="none" start_char="610" end_char="613">tras</TOKEN>
+        <TOKEN id="token-15-13" pos="word" morph="none" start_char="615" end_char="616">la</TOKEN>
+      </SEG>
+      <SEG id="segment-16" start_char="618" end_char="637">
+        <ORIGINAL_TEXT>elección del jurado.</ORIGINAL_TEXT>
+        <TOKEN id="token-16-0" pos="word" morph="none" start_char="618" end_char="625">elección</TOKEN>
+        <TOKEN id="token-16-1" pos="word" morph="none" start_char="627" end_char="629">del</TOKEN>
+        <TOKEN id="token-16-2" pos="word" morph="none" start_char="631" end_char="636">jurado</TOKEN>
+        <TOKEN id="token-16-3" pos="punct" morph="none" start_char="637" end_char="637">.</TOKEN>
+      </SEG>
+      <SEG id="segment-17" start_char="639" end_char="642">
+        <ORIGINAL_TEXT>&lt;/P&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-17-0" pos="unknown" morph="none" start_char="639" end_char="642">&lt;/P&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-18" start_char="644" end_char="646">
+        <ORIGINAL_TEXT>&lt;P&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-18-0" pos="unknown" morph="none" start_char="644" end_char="646">&lt;P&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-19" start_char="648" end_char="721">
+        <ORIGINAL_TEXT>Los defensores de Tsarnaev pidieron que el juicio comience en setiembre de</ORIGINAL_TEXT>
+        <TOKEN id="token-19-0" pos="word" morph="none" start_char="648" end_char="650">Los</TOKEN>
+        <TOKEN id="token-19-1" pos="word" morph="none" start_char="652" end_char="661">defensores</TOKEN>
+        <TOKEN id="token-19-2" pos="word" morph="none" start_char="663" end_char="664">de</TOKEN>
+        <TOKEN id="token-19-3" pos="word" morph="none" start_char="666" end_char="673">Tsarnaev</TOKEN>
+        <TOKEN id="token-19-4" pos="word" morph="none" start_char="675" end_char="682">pidieron</TOKEN>
+        <TOKEN id="token-19-5" pos="word" morph="none" start_char="684" end_char="686">que</TOKEN>
+        <TOKEN id="token-19-6" pos="word" morph="none" start_char="688" end_char="689">el</TOKEN>
+        <TOKEN id="token-19-7" pos="word" morph="none" start_char="691" end_char="696">juicio</TOKEN>
+        <TOKEN id="token-19-8" pos="word" morph="none" start_char="698" end_char="705">comience</TOKEN>
+        <TOKEN id="token-19-9" pos="word" morph="none" start_char="707" end_char="708">en</TOKEN>
+        <TOKEN id="token-19-10" pos="word" morph="none" start_char="710" end_char="718">setiembre</TOKEN>
+        <TOKEN id="token-19-11" pos="word" morph="none" start_char="720" end_char="721">de</TOKEN>
+      </SEG>
+      <SEG id="segment-20" start_char="723" end_char="795">
+        <ORIGINAL_TEXT>2015, según documentos presentados a la corte dos semanas antes de que el</ORIGINAL_TEXT>
+        <TOKEN id="token-20-0" pos="word" morph="none" start_char="723" end_char="726">2015</TOKEN>
+        <TOKEN id="token-20-1" pos="punct" morph="none" start_char="727" end_char="727">,</TOKEN>
+        <TOKEN id="token-20-2" pos="word" morph="none" start_char="729" end_char="733">según</TOKEN>
+        <TOKEN id="token-20-3" pos="word" morph="none" start_char="735" end_char="744">documentos</TOKEN>
+        <TOKEN id="token-20-4" pos="word" morph="none" start_char="746" end_char="756">presentados</TOKEN>
+        <TOKEN id="token-20-5" pos="word" morph="none" start_char="758" end_char="758">a</TOKEN>
+        <TOKEN id="token-20-6" pos="word" morph="none" start_char="760" end_char="761">la</TOKEN>
+        <TOKEN id="token-20-7" pos="word" morph="none" start_char="763" end_char="767">corte</TOKEN>
+        <TOKEN id="token-20-8" pos="word" morph="none" start_char="769" end_char="771">dos</TOKEN>
+        <TOKEN id="token-20-9" pos="word" morph="none" start_char="773" end_char="779">semanas</TOKEN>
+        <TOKEN id="token-20-10" pos="word" morph="none" start_char="781" end_char="785">antes</TOKEN>
+        <TOKEN id="token-20-11" pos="word" morph="none" start_char="787" end_char="788">de</TOKEN>
+        <TOKEN id="token-20-12" pos="word" morph="none" start_char="790" end_char="792">que</TOKEN>
+        <TOKEN id="token-20-13" pos="word" morph="none" start_char="794" end_char="795">el</TOKEN>
+      </SEG>
+      <SEG id="segment-21" start_char="797" end_char="825">
+        <ORIGINAL_TEXT>jurado empiece a ser elegido.</ORIGINAL_TEXT>
+        <TOKEN id="token-21-0" pos="word" morph="none" start_char="797" end_char="802">jurado</TOKEN>
+        <TOKEN id="token-21-1" pos="word" morph="none" start_char="804" end_char="810">empiece</TOKEN>
+        <TOKEN id="token-21-2" pos="word" morph="none" start_char="812" end_char="812">a</TOKEN>
+        <TOKEN id="token-21-3" pos="word" morph="none" start_char="814" end_char="816">ser</TOKEN>
+        <TOKEN id="token-21-4" pos="word" morph="none" start_char="818" end_char="824">elegido</TOKEN>
+        <TOKEN id="token-21-5" pos="punct" morph="none" start_char="825" end_char="825">.</TOKEN>
+      </SEG>
+      <SEG id="segment-22" start_char="827" end_char="830">
+        <ORIGINAL_TEXT>&lt;/P&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-22-0" pos="unknown" morph="none" start_char="827" end_char="830">&lt;/P&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-23" start_char="832" end_char="834">
+        <ORIGINAL_TEXT>&lt;P&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-23-0" pos="unknown" morph="none" start_char="832" end_char="834">&lt;P&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-24" start_char="836" end_char="903">
+        <ORIGINAL_TEXT>Tsarnaev, de 21 años, podría ser condenado a la pena de muerte si es</ORIGINAL_TEXT>
+        <TOKEN id="token-24-0" pos="word" morph="none" start_char="836" end_char="843">Tsarnaev</TOKEN>
+        <TOKEN id="token-24-1" pos="punct" morph="none" start_char="844" end_char="844">,</TOKEN>
+        <TOKEN id="token-24-2" pos="word" morph="none" start_char="846" end_char="847">de</TOKEN>
+        <TOKEN id="token-24-3" pos="number" morph="none" start_char="849" end_char="850">21</TOKEN>
+        <TOKEN id="token-24-4" pos="word" morph="none" start_char="852" end_char="855">años</TOKEN>
+        <TOKEN id="token-24-5" pos="punct" morph="none" start_char="856" end_char="856">,</TOKEN>
+        <TOKEN id="token-24-6" pos="word" morph="none" start_char="858" end_char="863">podría</TOKEN>
+        <TOKEN id="token-24-7" pos="word" morph="none" start_char="865" end_char="867">ser</TOKEN>
+        <TOKEN id="token-24-8" pos="word" morph="none" start_char="869" end_char="877">condenado</TOKEN>
+        <TOKEN id="token-24-9" pos="word" morph="none" start_char="879" end_char="879">a</TOKEN>
+        <TOKEN id="token-24-10" pos="word" morph="none" start_char="881" end_char="882">la</TOKEN>
+        <TOKEN id="token-24-11" pos="word" morph="none" start_char="884" end_char="887">pena</TOKEN>
+        <TOKEN id="token-24-12" pos="word" morph="none" start_char="889" end_char="890">de</TOKEN>
+        <TOKEN id="token-24-13" pos="word" morph="none" start_char="892" end_char="897">muerte</TOKEN>
+        <TOKEN id="token-24-14" pos="word" morph="none" start_char="899" end_char="900">si</TOKEN>
+        <TOKEN id="token-24-15" pos="word" morph="none" start_char="902" end_char="903">es</TOKEN>
+      </SEG>
+      <SEG id="segment-25" start_char="905" end_char="976">
+        <ORIGINAL_TEXT>declarado culpable del atentado el 15 de abril de 2013 durante el famoso</ORIGINAL_TEXT>
+        <TOKEN id="token-25-0" pos="word" morph="none" start_char="905" end_char="913">declarado</TOKEN>
+        <TOKEN id="token-25-1" pos="word" morph="none" start_char="915" end_char="922">culpable</TOKEN>
+        <TOKEN id="token-25-2" pos="word" morph="none" start_char="924" end_char="926">del</TOKEN>
+        <TOKEN id="token-25-3" pos="word" morph="none" start_char="928" end_char="935">atentado</TOKEN>
+        <TOKEN id="token-25-4" pos="word" morph="none" start_char="937" end_char="938">el</TOKEN>
+        <TOKEN id="token-25-5" pos="number" morph="none" start_char="940" end_char="941">15</TOKEN>
+        <TOKEN id="token-25-6" pos="word" morph="none" start_char="943" end_char="944">de</TOKEN>
+        <TOKEN id="token-25-7" pos="word" morph="none" start_char="946" end_char="950">abril</TOKEN>
+        <TOKEN id="token-25-8" pos="word" morph="none" start_char="952" end_char="953">de</TOKEN>
+        <TOKEN id="token-25-9" pos="number" morph="none" start_char="955" end_char="958">2013</TOKEN>
+        <TOKEN id="token-25-10" pos="word" morph="none" start_char="960" end_char="966">durante</TOKEN>
+        <TOKEN id="token-25-11" pos="word" morph="none" start_char="968" end_char="969">el</TOKEN>
+        <TOKEN id="token-25-12" pos="word" morph="none" start_char="971" end_char="976">famoso</TOKEN>
+      </SEG>
+      <SEG id="segment-26" start_char="978" end_char="1032">
+        <ORIGINAL_TEXT>maratón de Boston, que dejó tres muertos y 264 heridos.</ORIGINAL_TEXT>
+        <TOKEN id="token-26-0" pos="word" morph="none" start_char="978" end_char="984">maratón</TOKEN>
+        <TOKEN id="token-26-1" pos="word" morph="none" start_char="986" end_char="987">de</TOKEN>
+        <TOKEN id="token-26-2" pos="word" morph="none" start_char="989" end_char="994">Boston</TOKEN>
+        <TOKEN id="token-26-3" pos="punct" morph="none" start_char="995" end_char="995">,</TOKEN>
+        <TOKEN id="token-26-4" pos="word" morph="none" start_char="997" end_char="999">que</TOKEN>
+        <TOKEN id="token-26-5" pos="word" morph="none" start_char="1001" end_char="1004">dejó</TOKEN>
+        <TOKEN id="token-26-6" pos="word" morph="none" start_char="1006" end_char="1009">tres</TOKEN>
+        <TOKEN id="token-26-7" pos="word" morph="none" start_char="1011" end_char="1017">muertos</TOKEN>
+        <TOKEN id="token-26-8" pos="word" morph="none" start_char="1019" end_char="1019">y</TOKEN>
+        <TOKEN id="token-26-9" pos="number" morph="none" start_char="1021" end_char="1023">264</TOKEN>
+        <TOKEN id="token-26-10" pos="word" morph="none" start_char="1025" end_char="1031">heridos</TOKEN>
+        <TOKEN id="token-26-11" pos="punct" morph="none" start_char="1032" end_char="1032">.</TOKEN>
+      </SEG>
+      <SEG id="segment-27" start_char="1034" end_char="1037">
+        <ORIGINAL_TEXT>&lt;/P&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-27-0" pos="unknown" morph="none" start_char="1034" end_char="1037">&lt;/P&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-28" start_char="1039" end_char="1041">
+        <ORIGINAL_TEXT>&lt;P&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-28-0" pos="unknown" morph="none" start_char="1039" end_char="1041">&lt;P&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-29" start_char="1043" end_char="1115">
+        <ORIGINAL_TEXT>Este fue el peor incidente de este tipo en suelo estadounidense desde los</ORIGINAL_TEXT>
+        <TOKEN id="token-29-0" pos="word" morph="none" start_char="1043" end_char="1046">Este</TOKEN>
+        <TOKEN id="token-29-1" pos="word" morph="none" start_char="1048" end_char="1050">fue</TOKEN>
+        <TOKEN id="token-29-2" pos="word" morph="none" start_char="1052" end_char="1053">el</TOKEN>
+        <TOKEN id="token-29-3" pos="word" morph="none" start_char="1055" end_char="1058">peor</TOKEN>
+        <TOKEN id="token-29-4" pos="word" morph="none" start_char="1060" end_char="1068">incidente</TOKEN>
+        <TOKEN id="token-29-5" pos="word" morph="none" start_char="1070" end_char="1071">de</TOKEN>
+        <TOKEN id="token-29-6" pos="word" morph="none" start_char="1073" end_char="1076">este</TOKEN>
+        <TOKEN id="token-29-7" pos="word" morph="none" start_char="1078" end_char="1081">tipo</TOKEN>
+        <TOKEN id="token-29-8" pos="word" morph="none" start_char="1083" end_char="1084">en</TOKEN>
+        <TOKEN id="token-29-9" pos="word" morph="none" start_char="1086" end_char="1090">suelo</TOKEN>
+        <TOKEN id="token-29-10" pos="word" morph="none" start_char="1092" end_char="1105">estadounidense</TOKEN>
+        <TOKEN id="token-29-11" pos="word" morph="none" start_char="1107" end_char="1111">desde</TOKEN>
+        <TOKEN id="token-29-12" pos="word" morph="none" start_char="1113" end_char="1115">los</TOKEN>
+      </SEG>
+      <SEG id="segment-30" start_char="1117" end_char="1155">
+        <ORIGINAL_TEXT>atentados del 11 de septiembre de 2001.</ORIGINAL_TEXT>
+        <TOKEN id="token-30-0" pos="word" morph="none" start_char="1117" end_char="1125">atentados</TOKEN>
+        <TOKEN id="token-30-1" pos="word" morph="none" start_char="1127" end_char="1129">del</TOKEN>
+        <TOKEN id="token-30-2" pos="number" morph="none" start_char="1131" end_char="1132">11</TOKEN>
+        <TOKEN id="token-30-3" pos="word" morph="none" start_char="1134" end_char="1135">de</TOKEN>
+        <TOKEN id="token-30-4" pos="word" morph="none" start_char="1137" end_char="1146">septiembre</TOKEN>
+        <TOKEN id="token-30-5" pos="word" morph="none" start_char="1148" end_char="1149">de</TOKEN>
+        <TOKEN id="token-30-6" pos="word" morph="none" start_char="1151" end_char="1154">2001</TOKEN>
+        <TOKEN id="token-30-7" pos="punct" morph="none" start_char="1155" end_char="1155">.</TOKEN>
+      </SEG>
+      <SEG id="segment-31" start_char="1157" end_char="1160">
+        <ORIGINAL_TEXT>&lt;/P&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-31-0" pos="unknown" morph="none" start_char="1157" end_char="1160">&lt;/P&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-32" start_char="1162" end_char="1164">
+        <ORIGINAL_TEXT>&lt;P&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-32-0" pos="unknown" morph="none" start_char="1162" end_char="1164">&lt;P&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-33" start_char="1166" end_char="1238">
+        <ORIGINAL_TEXT>La defensa del joven alegó que revisa un extenso reporte de los fiscales,</ORIGINAL_TEXT>
+        <TOKEN id="token-33-0" pos="word" morph="none" start_char="1166" end_char="1167">La</TOKEN>
+        <TOKEN id="token-33-1" pos="word" morph="none" start_char="1169" end_char="1175">defensa</TOKEN>
+        <TOKEN id="token-33-2" pos="word" morph="none" start_char="1177" end_char="1179">del</TOKEN>
+        <TOKEN id="token-33-3" pos="word" morph="none" start_char="1181" end_char="1185">joven</TOKEN>
+        <TOKEN id="token-33-4" pos="word" morph="none" start_char="1187" end_char="1191">alegó</TOKEN>
+        <TOKEN id="token-33-5" pos="word" morph="none" start_char="1193" end_char="1195">que</TOKEN>
+        <TOKEN id="token-33-6" pos="word" morph="none" start_char="1197" end_char="1202">revisa</TOKEN>
+        <TOKEN id="token-33-7" pos="word" morph="none" start_char="1204" end_char="1205">un</TOKEN>
+        <TOKEN id="token-33-8" pos="word" morph="none" start_char="1207" end_char="1213">extenso</TOKEN>
+        <TOKEN id="token-33-9" pos="word" morph="none" start_char="1215" end_char="1221">reporte</TOKEN>
+        <TOKEN id="token-33-10" pos="word" morph="none" start_char="1223" end_char="1224">de</TOKEN>
+        <TOKEN id="token-33-11" pos="word" morph="none" start_char="1226" end_char="1228">los</TOKEN>
+        <TOKEN id="token-33-12" pos="word" morph="none" start_char="1230" end_char="1237">fiscales</TOKEN>
+        <TOKEN id="token-33-13" pos="punct" morph="none" start_char="1238" end_char="1238">,</TOKEN>
+      </SEG>
+      <SEG id="segment-34" start_char="1240" end_char="1311">
+        <ORIGINAL_TEXT>encontrando dificultades para investigar sus antecedentes, y teme que el</ORIGINAL_TEXT>
+        <TOKEN id="token-34-0" pos="word" morph="none" start_char="1240" end_char="1250">encontrando</TOKEN>
+        <TOKEN id="token-34-1" pos="word" morph="none" start_char="1252" end_char="1263">dificultades</TOKEN>
+        <TOKEN id="token-34-2" pos="word" morph="none" start_char="1265" end_char="1268">para</TOKEN>
+        <TOKEN id="token-34-3" pos="word" morph="none" start_char="1270" end_char="1279">investigar</TOKEN>
+        <TOKEN id="token-34-4" pos="word" morph="none" start_char="1281" end_char="1283">sus</TOKEN>
+        <TOKEN id="token-34-5" pos="word" morph="none" start_char="1285" end_char="1296">antecedentes</TOKEN>
+        <TOKEN id="token-34-6" pos="punct" morph="none" start_char="1297" end_char="1297">,</TOKEN>
+        <TOKEN id="token-34-7" pos="word" morph="none" start_char="1299" end_char="1299">y</TOKEN>
+        <TOKEN id="token-34-8" pos="word" morph="none" start_char="1301" end_char="1304">teme</TOKEN>
+        <TOKEN id="token-34-9" pos="word" morph="none" start_char="1306" end_char="1308">que</TOKEN>
+        <TOKEN id="token-34-10" pos="word" morph="none" start_char="1310" end_char="1311">el</TOKEN>
+      </SEG>
+      <SEG id="segment-35" start_char="1313" end_char="1381">
+        <ORIGINAL_TEXT>jurado delibere cuando se cumpla el segundo aniversario del atentado.</ORIGINAL_TEXT>
+        <TOKEN id="token-35-0" pos="word" morph="none" start_char="1313" end_char="1318">jurado</TOKEN>
+        <TOKEN id="token-35-1" pos="word" morph="none" start_char="1320" end_char="1327">delibere</TOKEN>
+        <TOKEN id="token-35-2" pos="word" morph="none" start_char="1329" end_char="1334">cuando</TOKEN>
+        <TOKEN id="token-35-3" pos="word" morph="none" start_char="1336" end_char="1337">se</TOKEN>
+        <TOKEN id="token-35-4" pos="word" morph="none" start_char="1339" end_char="1344">cumpla</TOKEN>
+        <TOKEN id="token-35-5" pos="word" morph="none" start_char="1346" end_char="1347">el</TOKEN>
+        <TOKEN id="token-35-6" pos="word" morph="none" start_char="1349" end_char="1355">segundo</TOKEN>
+        <TOKEN id="token-35-7" pos="word" morph="none" start_char="1357" end_char="1367">aniversario</TOKEN>
+        <TOKEN id="token-35-8" pos="word" morph="none" start_char="1369" end_char="1371">del</TOKEN>
+        <TOKEN id="token-35-9" pos="word" morph="none" start_char="1373" end_char="1380">atentado</TOKEN>
+        <TOKEN id="token-35-10" pos="punct" morph="none" start_char="1381" end_char="1381">.</TOKEN>
+      </SEG>
+      <SEG id="segment-36" start_char="1383" end_char="1386">
+        <ORIGINAL_TEXT>&lt;/P&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-36-0" pos="unknown" morph="none" start_char="1383" end_char="1386">&lt;/P&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-37" start_char="1388" end_char="1390">
+        <ORIGINAL_TEXT>&lt;P&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-37-0" pos="unknown" morph="none" start_char="1388" end_char="1390">&lt;P&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-38" start_char="1392" end_char="1464">
+        <ORIGINAL_TEXT>"Para comenzar, el juicio está programado para el 5 de enero, que amenaza</ORIGINAL_TEXT>
+        <TOKEN id="token-38-0" pos="punct" morph="none" start_char="1392" end_char="1392">"</TOKEN>
+        <TOKEN id="token-38-1" pos="word" morph="none" start_char="1393" end_char="1396">Para</TOKEN>
+        <TOKEN id="token-38-2" pos="word" morph="none" start_char="1398" end_char="1405">comenzar</TOKEN>
+        <TOKEN id="token-38-3" pos="punct" morph="none" start_char="1406" end_char="1406">,</TOKEN>
+        <TOKEN id="token-38-4" pos="word" morph="none" start_char="1408" end_char="1409">el</TOKEN>
+        <TOKEN id="token-38-5" pos="word" morph="none" start_char="1411" end_char="1416">juicio</TOKEN>
+        <TOKEN id="token-38-6" pos="word" morph="none" start_char="1418" end_char="1421">está</TOKEN>
+        <TOKEN id="token-38-7" pos="word" morph="none" start_char="1423" end_char="1432">programado</TOKEN>
+        <TOKEN id="token-38-8" pos="word" morph="none" start_char="1434" end_char="1437">para</TOKEN>
+        <TOKEN id="token-38-9" pos="word" morph="none" start_char="1439" end_char="1440">el</TOKEN>
+        <TOKEN id="token-38-10" pos="number" morph="none" start_char="1442" end_char="1442">5</TOKEN>
+        <TOKEN id="token-38-11" pos="word" morph="none" start_char="1444" end_char="1445">de</TOKEN>
+        <TOKEN id="token-38-12" pos="word" morph="none" start_char="1447" end_char="1451">enero</TOKEN>
+        <TOKEN id="token-38-13" pos="punct" morph="none" start_char="1452" end_char="1452">,</TOKEN>
+        <TOKEN id="token-38-14" pos="word" morph="none" start_char="1454" end_char="1456">que</TOKEN>
+        <TOKEN id="token-38-15" pos="word" morph="none" start_char="1458" end_char="1464">amenaza</TOKEN>
+      </SEG>
+      <SEG id="segment-39" start_char="1466" end_char="1535">
+        <ORIGINAL_TEXT>tanto la equidad como la finalidad de los procedimientos", aseguraron.</ORIGINAL_TEXT>
+        <TOKEN id="token-39-0" pos="word" morph="none" start_char="1466" end_char="1470">tanto</TOKEN>
+        <TOKEN id="token-39-1" pos="word" morph="none" start_char="1472" end_char="1473">la</TOKEN>
+        <TOKEN id="token-39-2" pos="word" morph="none" start_char="1475" end_char="1481">equidad</TOKEN>
+        <TOKEN id="token-39-3" pos="word" morph="none" start_char="1483" end_char="1486">como</TOKEN>
+        <TOKEN id="token-39-4" pos="word" morph="none" start_char="1488" end_char="1489">la</TOKEN>
+        <TOKEN id="token-39-5" pos="word" morph="none" start_char="1491" end_char="1499">finalidad</TOKEN>
+        <TOKEN id="token-39-6" pos="word" morph="none" start_char="1501" end_char="1502">de</TOKEN>
+        <TOKEN id="token-39-7" pos="word" morph="none" start_char="1504" end_char="1506">los</TOKEN>
+        <TOKEN id="token-39-8" pos="word" morph="none" start_char="1508" end_char="1521">procedimientos</TOKEN>
+        <TOKEN id="token-39-9" pos="punct" morph="none" start_char="1522" end_char="1523">",</TOKEN>
+        <TOKEN id="token-39-10" pos="word" morph="none" start_char="1525" end_char="1534">aseguraron</TOKEN>
+        <TOKEN id="token-39-11" pos="punct" morph="none" start_char="1535" end_char="1535">.</TOKEN>
+      </SEG>
+      <SEG id="segment-40" start_char="1537" end_char="1540">
+        <ORIGINAL_TEXT>&lt;/P&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-40-0" pos="unknown" morph="none" start_char="1537" end_char="1540">&lt;/P&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-41" start_char="1542" end_char="1544">
+        <ORIGINAL_TEXT>&lt;P&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-41-0" pos="unknown" morph="none" start_char="1542" end_char="1544">&lt;P&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-42" start_char="1546" end_char="1611">
+        <ORIGINAL_TEXT>"Un juicio en setiembre de 2015 sería más realista y justo dada la</ORIGINAL_TEXT>
+        <TOKEN id="token-42-0" pos="punct" morph="none" start_char="1546" end_char="1546">"</TOKEN>
+        <TOKEN id="token-42-1" pos="word" morph="none" start_char="1547" end_char="1548">Un</TOKEN>
+        <TOKEN id="token-42-2" pos="word" morph="none" start_char="1550" end_char="1555">juicio</TOKEN>
+        <TOKEN id="token-42-3" pos="word" morph="none" start_char="1557" end_char="1558">en</TOKEN>
+        <TOKEN id="token-42-4" pos="word" morph="none" start_char="1560" end_char="1568">setiembre</TOKEN>
+        <TOKEN id="token-42-5" pos="word" morph="none" start_char="1570" end_char="1571">de</TOKEN>
+        <TOKEN id="token-42-6" pos="number" morph="none" start_char="1573" end_char="1576">2015</TOKEN>
+        <TOKEN id="token-42-7" pos="word" morph="none" start_char="1578" end_char="1582">sería</TOKEN>
+        <TOKEN id="token-42-8" pos="word" morph="none" start_char="1584" end_char="1586">más</TOKEN>
+        <TOKEN id="token-42-9" pos="word" morph="none" start_char="1588" end_char="1595">realista</TOKEN>
+        <TOKEN id="token-42-10" pos="word" morph="none" start_char="1597" end_char="1597">y</TOKEN>
+        <TOKEN id="token-42-11" pos="word" morph="none" start_char="1599" end_char="1603">justo</TOKEN>
+        <TOKEN id="token-42-12" pos="word" morph="none" start_char="1605" end_char="1608">dada</TOKEN>
+        <TOKEN id="token-42-13" pos="word" morph="none" start_char="1610" end_char="1611">la</TOKEN>
+      </SEG>
+      <SEG id="segment-43" start_char="1613" end_char="1683">
+        <ORIGINAL_TEXT>extraordinaria complejidad y las dimensiones internacionales del caso",</ORIGINAL_TEXT>
+        <TOKEN id="token-43-0" pos="word" morph="none" start_char="1613" end_char="1626">extraordinaria</TOKEN>
+        <TOKEN id="token-43-1" pos="word" morph="none" start_char="1628" end_char="1638">complejidad</TOKEN>
+        <TOKEN id="token-43-2" pos="word" morph="none" start_char="1640" end_char="1640">y</TOKEN>
+        <TOKEN id="token-43-3" pos="word" morph="none" start_char="1642" end_char="1644">las</TOKEN>
+        <TOKEN id="token-43-4" pos="word" morph="none" start_char="1646" end_char="1656">dimensiones</TOKEN>
+        <TOKEN id="token-43-5" pos="word" morph="none" start_char="1658" end_char="1672">internacionales</TOKEN>
+        <TOKEN id="token-43-6" pos="word" morph="none" start_char="1674" end_char="1676">del</TOKEN>
+        <TOKEN id="token-43-7" pos="word" morph="none" start_char="1678" end_char="1681">caso</TOKEN>
+        <TOKEN id="token-43-8" pos="punct" morph="none" start_char="1682" end_char="1683">",</TOKEN>
+      </SEG>
+      <SEG id="segment-44" start_char="1685" end_char="1691">
+        <ORIGINAL_TEXT>añadió.</ORIGINAL_TEXT>
+        <TOKEN id="token-44-0" pos="word" morph="none" start_char="1685" end_char="1690">añadió</TOKEN>
+        <TOKEN id="token-44-1" pos="punct" morph="none" start_char="1691" end_char="1691">.</TOKEN>
+      </SEG>
+      <SEG id="segment-45" start_char="1693" end_char="1696">
+        <ORIGINAL_TEXT>&lt;/P&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-45-0" pos="unknown" morph="none" start_char="1693" end_char="1696">&lt;/P&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-46" start_char="1698" end_char="1700">
+        <ORIGINAL_TEXT>&lt;P&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-46-0" pos="unknown" morph="none" start_char="1698" end_char="1700">&lt;P&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-47" start_char="1702" end_char="1777">
+        <ORIGINAL_TEXT>El juez George O'Toole aplazó antes el juicio, cuya fecha de inicio era el 3</ORIGINAL_TEXT>
+        <TOKEN id="token-47-0" pos="word" morph="none" start_char="1702" end_char="1703">El</TOKEN>
+        <TOKEN id="token-47-1" pos="word" morph="none" start_char="1705" end_char="1708">juez</TOKEN>
+        <TOKEN id="token-47-2" pos="word" morph="none" start_char="1710" end_char="1715">George</TOKEN>
+        <TOKEN id="token-47-3" pos="word" morph="none" start_char="1717" end_char="1717">O</TOKEN>
+        <TOKEN id="token-47-4" pos="punct" morph="none" start_char="1718" end_char="1718">'</TOKEN>
+        <TOKEN id="token-47-5" pos="word" morph="none" start_char="1719" end_char="1723">Toole</TOKEN>
+        <TOKEN id="token-47-6" pos="word" morph="none" start_char="1725" end_char="1730">aplazó</TOKEN>
+        <TOKEN id="token-47-7" pos="word" morph="none" start_char="1732" end_char="1736">antes</TOKEN>
+        <TOKEN id="token-47-8" pos="word" morph="none" start_char="1738" end_char="1739">el</TOKEN>
+        <TOKEN id="token-47-9" pos="word" morph="none" start_char="1741" end_char="1746">juicio</TOKEN>
+        <TOKEN id="token-47-10" pos="punct" morph="none" start_char="1747" end_char="1747">,</TOKEN>
+        <TOKEN id="token-47-11" pos="word" morph="none" start_char="1749" end_char="1752">cuya</TOKEN>
+        <TOKEN id="token-47-12" pos="word" morph="none" start_char="1754" end_char="1758">fecha</TOKEN>
+        <TOKEN id="token-47-13" pos="word" morph="none" start_char="1760" end_char="1761">de</TOKEN>
+        <TOKEN id="token-47-14" pos="word" morph="none" start_char="1763" end_char="1768">inicio</TOKEN>
+        <TOKEN id="token-47-15" pos="word" morph="none" start_char="1770" end_char="1772">era</TOKEN>
+        <TOKEN id="token-47-16" pos="word" morph="none" start_char="1774" end_char="1775">el</TOKEN>
+        <TOKEN id="token-47-17" pos="number" morph="none" start_char="1777" end_char="1777">3</TOKEN>
+      </SEG>
+      <SEG id="segment-48" start_char="1779" end_char="1791">
+        <ORIGINAL_TEXT>de noviembre.</ORIGINAL_TEXT>
+        <TOKEN id="token-48-0" pos="word" morph="none" start_char="1779" end_char="1780">de</TOKEN>
+        <TOKEN id="token-48-1" pos="word" morph="none" start_char="1782" end_char="1790">noviembre</TOKEN>
+        <TOKEN id="token-48-2" pos="punct" morph="none" start_char="1791" end_char="1791">.</TOKEN>
+      </SEG>
+      <SEG id="segment-49" start_char="1793" end_char="1796">
+        <ORIGINAL_TEXT>&lt;/P&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-49-0" pos="unknown" morph="none" start_char="1793" end_char="1796">&lt;/P&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-50" start_char="1798" end_char="1800">
+        <ORIGINAL_TEXT>&lt;P&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-50-0" pos="unknown" morph="none" start_char="1798" end_char="1800">&lt;P&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-51" start_char="1802" end_char="1875">
+        <ORIGINAL_TEXT>Hace una semana, Tsarnaev apareció en público por primera vez en 17 meses,</ORIGINAL_TEXT>
+        <TOKEN id="token-51-0" pos="word" morph="none" start_char="1802" end_char="1805">Hace</TOKEN>
+        <TOKEN id="token-51-1" pos="word" morph="none" start_char="1807" end_char="1809">una</TOKEN>
+        <TOKEN id="token-51-2" pos="word" morph="none" start_char="1811" end_char="1816">semana</TOKEN>
+        <TOKEN id="token-51-3" pos="punct" morph="none" start_char="1817" end_char="1817">,</TOKEN>
+        <TOKEN id="token-51-4" pos="word" morph="none" start_char="1819" end_char="1826">Tsarnaev</TOKEN>
+        <TOKEN id="token-51-5" pos="word" morph="none" start_char="1828" end_char="1835">apareció</TOKEN>
+        <TOKEN id="token-51-6" pos="word" morph="none" start_char="1837" end_char="1838">en</TOKEN>
+        <TOKEN id="token-51-7" pos="word" morph="none" start_char="1840" end_char="1846">público</TOKEN>
+        <TOKEN id="token-51-8" pos="word" morph="none" start_char="1848" end_char="1850">por</TOKEN>
+        <TOKEN id="token-51-9" pos="word" morph="none" start_char="1852" end_char="1858">primera</TOKEN>
+        <TOKEN id="token-51-10" pos="word" morph="none" start_char="1860" end_char="1862">vez</TOKEN>
+        <TOKEN id="token-51-11" pos="word" morph="none" start_char="1864" end_char="1865">en</TOKEN>
+        <TOKEN id="token-51-12" pos="number" morph="none" start_char="1867" end_char="1868">17</TOKEN>
+        <TOKEN id="token-51-13" pos="word" morph="none" start_char="1870" end_char="1874">meses</TOKEN>
+        <TOKEN id="token-51-14" pos="punct" morph="none" start_char="1875" end_char="1875">,</TOKEN>
+      </SEG>
+      <SEG id="segment-52" start_char="1877" end_char="1950">
+        <ORIGINAL_TEXT>en una breve audiencia en la que se declaró no culpable de 30 cargos en su</ORIGINAL_TEXT>
+        <TOKEN id="token-52-0" pos="word" morph="none" start_char="1877" end_char="1878">en</TOKEN>
+        <TOKEN id="token-52-1" pos="word" morph="none" start_char="1880" end_char="1882">una</TOKEN>
+        <TOKEN id="token-52-2" pos="word" morph="none" start_char="1884" end_char="1888">breve</TOKEN>
+        <TOKEN id="token-52-3" pos="word" morph="none" start_char="1890" end_char="1898">audiencia</TOKEN>
+        <TOKEN id="token-52-4" pos="word" morph="none" start_char="1900" end_char="1901">en</TOKEN>
+        <TOKEN id="token-52-5" pos="word" morph="none" start_char="1903" end_char="1904">la</TOKEN>
+        <TOKEN id="token-52-6" pos="word" morph="none" start_char="1906" end_char="1908">que</TOKEN>
+        <TOKEN id="token-52-7" pos="word" morph="none" start_char="1910" end_char="1911">se</TOKEN>
+        <TOKEN id="token-52-8" pos="word" morph="none" start_char="1913" end_char="1919">declaró</TOKEN>
+        <TOKEN id="token-52-9" pos="word" morph="none" start_char="1921" end_char="1922">no</TOKEN>
+        <TOKEN id="token-52-10" pos="word" morph="none" start_char="1924" end_char="1931">culpable</TOKEN>
+        <TOKEN id="token-52-11" pos="word" morph="none" start_char="1933" end_char="1934">de</TOKEN>
+        <TOKEN id="token-52-12" pos="number" morph="none" start_char="1936" end_char="1937">30</TOKEN>
+        <TOKEN id="token-52-13" pos="word" morph="none" start_char="1939" end_char="1944">cargos</TOKEN>
+        <TOKEN id="token-52-14" pos="word" morph="none" start_char="1946" end_char="1947">en</TOKEN>
+        <TOKEN id="token-52-15" pos="word" morph="none" start_char="1949" end_char="1950">su</TOKEN>
+      </SEG>
+      <SEG id="segment-53" start_char="1952" end_char="1958">
+        <ORIGINAL_TEXT>contra.</ORIGINAL_TEXT>
+        <TOKEN id="token-53-0" pos="word" morph="none" start_char="1952" end_char="1957">contra</TOKEN>
+        <TOKEN id="token-53-1" pos="punct" morph="none" start_char="1958" end_char="1958">.</TOKEN>
+      </SEG>
+      <SEG id="segment-54" start_char="1960" end_char="1963">
+        <ORIGINAL_TEXT>&lt;/P&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-54-0" pos="unknown" morph="none" start_char="1960" end_char="1963">&lt;/P&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-55" start_char="1965" end_char="1967">
+        <ORIGINAL_TEXT>&lt;P&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-55-0" pos="unknown" morph="none" start_char="1965" end_char="1967">&lt;P&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-56" start_char="1969" end_char="2040">
+        <ORIGINAL_TEXT>El joven, un musulmán con ascendencia chechena, está acusado de llevar a</ORIGINAL_TEXT>
+        <TOKEN id="token-56-0" pos="word" morph="none" start_char="1969" end_char="1970">El</TOKEN>
+        <TOKEN id="token-56-1" pos="word" morph="none" start_char="1972" end_char="1976">joven</TOKEN>
+        <TOKEN id="token-56-2" pos="punct" morph="none" start_char="1977" end_char="1977">,</TOKEN>
+        <TOKEN id="token-56-3" pos="word" morph="none" start_char="1979" end_char="1980">un</TOKEN>
+        <TOKEN id="token-56-4" pos="word" morph="none" start_char="1982" end_char="1989">musulmán</TOKEN>
+        <TOKEN id="token-56-5" pos="word" morph="none" start_char="1991" end_char="1993">con</TOKEN>
+        <TOKEN id="token-56-6" pos="word" morph="none" start_char="1995" end_char="2005">ascendencia</TOKEN>
+        <TOKEN id="token-56-7" pos="word" morph="none" start_char="2007" end_char="2014">chechena</TOKEN>
+        <TOKEN id="token-56-8" pos="punct" morph="none" start_char="2015" end_char="2015">,</TOKEN>
+        <TOKEN id="token-56-9" pos="word" morph="none" start_char="2017" end_char="2020">está</TOKEN>
+        <TOKEN id="token-56-10" pos="word" morph="none" start_char="2022" end_char="2028">acusado</TOKEN>
+        <TOKEN id="token-56-11" pos="word" morph="none" start_char="2030" end_char="2031">de</TOKEN>
+        <TOKEN id="token-56-12" pos="word" morph="none" start_char="2033" end_char="2038">llevar</TOKEN>
+        <TOKEN id="token-56-13" pos="word" morph="none" start_char="2040" end_char="2040">a</TOKEN>
+      </SEG>
+      <SEG id="segment-57" start_char="2042" end_char="2116">
+        <ORIGINAL_TEXT>cabo los ataques con su hermano, Tamerlan, quien murió en un tiroteo con la</ORIGINAL_TEXT>
+        <TOKEN id="token-57-0" pos="word" morph="none" start_char="2042" end_char="2045">cabo</TOKEN>
+        <TOKEN id="token-57-1" pos="word" morph="none" start_char="2047" end_char="2049">los</TOKEN>
+        <TOKEN id="token-57-2" pos="word" morph="none" start_char="2051" end_char="2057">ataques</TOKEN>
+        <TOKEN id="token-57-3" pos="word" morph="none" start_char="2059" end_char="2061">con</TOKEN>
+        <TOKEN id="token-57-4" pos="word" morph="none" start_char="2063" end_char="2064">su</TOKEN>
+        <TOKEN id="token-57-5" pos="word" morph="none" start_char="2066" end_char="2072">hermano</TOKEN>
+        <TOKEN id="token-57-6" pos="punct" morph="none" start_char="2073" end_char="2073">,</TOKEN>
+        <TOKEN id="token-57-7" pos="word" morph="none" start_char="2075" end_char="2082">Tamerlan</TOKEN>
+        <TOKEN id="token-57-8" pos="punct" morph="none" start_char="2083" end_char="2083">,</TOKEN>
+        <TOKEN id="token-57-9" pos="word" morph="none" start_char="2085" end_char="2089">quien</TOKEN>
+        <TOKEN id="token-57-10" pos="word" morph="none" start_char="2091" end_char="2095">murió</TOKEN>
+        <TOKEN id="token-57-11" pos="word" morph="none" start_char="2097" end_char="2098">en</TOKEN>
+        <TOKEN id="token-57-12" pos="word" morph="none" start_char="2100" end_char="2101">un</TOKEN>
+        <TOKEN id="token-57-13" pos="word" morph="none" start_char="2103" end_char="2109">tiroteo</TOKEN>
+        <TOKEN id="token-57-14" pos="word" morph="none" start_char="2111" end_char="2113">con</TOKEN>
+        <TOKEN id="token-57-15" pos="word" morph="none" start_char="2115" end_char="2116">la</TOKEN>
+      </SEG>
+      <SEG id="segment-58" start_char="2118" end_char="2125">
+        <ORIGINAL_TEXT>policía.</ORIGINAL_TEXT>
+        <TOKEN id="token-58-0" pos="word" morph="none" start_char="2118" end_char="2124">policía</TOKEN>
+        <TOKEN id="token-58-1" pos="punct" morph="none" start_char="2125" end_char="2125">.</TOKEN>
+      </SEG>
+      <SEG id="segment-59" start_char="2127" end_char="2130">
+        <ORIGINAL_TEXT>&lt;/P&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-59-0" pos="unknown" morph="none" start_char="2127" end_char="2130">&lt;/P&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-60" start_char="2132" end_char="2134">
+        <ORIGINAL_TEXT>&lt;P&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-60-0" pos="unknown" morph="none" start_char="2132" end_char="2134">&lt;P&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-61" start_char="2136" end_char="2210">
+        <ORIGINAL_TEXT>Los atentados revivieron los temores de terrorismo en Estados Unidos más de</ORIGINAL_TEXT>
+        <TOKEN id="token-61-0" pos="word" morph="none" start_char="2136" end_char="2138">Los</TOKEN>
+        <TOKEN id="token-61-1" pos="word" morph="none" start_char="2140" end_char="2148">atentados</TOKEN>
+        <TOKEN id="token-61-2" pos="word" morph="none" start_char="2150" end_char="2159">revivieron</TOKEN>
+        <TOKEN id="token-61-3" pos="word" morph="none" start_char="2161" end_char="2163">los</TOKEN>
+        <TOKEN id="token-61-4" pos="word" morph="none" start_char="2165" end_char="2171">temores</TOKEN>
+        <TOKEN id="token-61-5" pos="word" morph="none" start_char="2173" end_char="2174">de</TOKEN>
+        <TOKEN id="token-61-6" pos="word" morph="none" start_char="2176" end_char="2185">terrorismo</TOKEN>
+        <TOKEN id="token-61-7" pos="word" morph="none" start_char="2187" end_char="2188">en</TOKEN>
+        <TOKEN id="token-61-8" pos="word" morph="none" start_char="2190" end_char="2196">Estados</TOKEN>
+        <TOKEN id="token-61-9" pos="word" morph="none" start_char="2198" end_char="2203">Unidos</TOKEN>
+        <TOKEN id="token-61-10" pos="word" morph="none" start_char="2205" end_char="2207">más</TOKEN>
+        <TOKEN id="token-61-11" pos="word" morph="none" start_char="2209" end_char="2210">de</TOKEN>
+      </SEG>
+      <SEG id="segment-62" start_char="2212" end_char="2259">
+        <ORIGINAL_TEXT>una década después de los atentados de Al Qaida.</ORIGINAL_TEXT>
+        <TOKEN id="token-62-0" pos="word" morph="none" start_char="2212" end_char="2214">una</TOKEN>
+        <TOKEN id="token-62-1" pos="word" morph="none" start_char="2216" end_char="2221">década</TOKEN>
+        <TOKEN id="token-62-2" pos="word" morph="none" start_char="2223" end_char="2229">después</TOKEN>
+        <TOKEN id="token-62-3" pos="word" morph="none" start_char="2231" end_char="2232">de</TOKEN>
+        <TOKEN id="token-62-4" pos="word" morph="none" start_char="2234" end_char="2236">los</TOKEN>
+        <TOKEN id="token-62-5" pos="word" morph="none" start_char="2238" end_char="2246">atentados</TOKEN>
+        <TOKEN id="token-62-6" pos="word" morph="none" start_char="2248" end_char="2249">de</TOKEN>
+        <TOKEN id="token-62-7" pos="word" morph="none" start_char="2251" end_char="2252">Al</TOKEN>
+        <TOKEN id="token-62-8" pos="word" morph="none" start_char="2254" end_char="2258">Qaida</TOKEN>
+        <TOKEN id="token-62-9" pos="punct" morph="none" start_char="2259" end_char="2259">.</TOKEN>
+      </SEG>
+      <SEG id="segment-63" start_char="2261" end_char="2264">
+        <ORIGINAL_TEXT>&lt;/P&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-63-0" pos="unknown" morph="none" start_char="2261" end_char="2264">&lt;/P&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-64" start_char="2266" end_char="2268">
+        <ORIGINAL_TEXT>&lt;P&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-64-0" pos="unknown" morph="none" start_char="2266" end_char="2268">&lt;P&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-65" start_char="2270" end_char="2341">
+        <ORIGINAL_TEXT>Tsarnaev emigró con su familia a Estados Unidos en 2002 y se nacionalizó</ORIGINAL_TEXT>
+        <TOKEN id="token-65-0" pos="word" morph="none" start_char="2270" end_char="2277">Tsarnaev</TOKEN>
+        <TOKEN id="token-65-1" pos="word" morph="none" start_char="2279" end_char="2284">emigró</TOKEN>
+        <TOKEN id="token-65-2" pos="word" morph="none" start_char="2286" end_char="2288">con</TOKEN>
+        <TOKEN id="token-65-3" pos="word" morph="none" start_char="2290" end_char="2291">su</TOKEN>
+        <TOKEN id="token-65-4" pos="word" morph="none" start_char="2293" end_char="2299">familia</TOKEN>
+        <TOKEN id="token-65-5" pos="word" morph="none" start_char="2301" end_char="2301">a</TOKEN>
+        <TOKEN id="token-65-6" pos="word" morph="none" start_char="2303" end_char="2309">Estados</TOKEN>
+        <TOKEN id="token-65-7" pos="word" morph="none" start_char="2311" end_char="2316">Unidos</TOKEN>
+        <TOKEN id="token-65-8" pos="word" morph="none" start_char="2318" end_char="2319">en</TOKEN>
+        <TOKEN id="token-65-9" pos="number" morph="none" start_char="2321" end_char="2324">2002</TOKEN>
+        <TOKEN id="token-65-10" pos="word" morph="none" start_char="2326" end_char="2326">y</TOKEN>
+        <TOKEN id="token-65-11" pos="word" morph="none" start_char="2328" end_char="2329">se</TOKEN>
+        <TOKEN id="token-65-12" pos="word" morph="none" start_char="2331" end_char="2341">nacionalizó</TOKEN>
+      </SEG>
+      <SEG id="segment-66" start_char="2343" end_char="2365">
+        <ORIGINAL_TEXT>estadounidense en 2012.</ORIGINAL_TEXT>
+        <TOKEN id="token-66-0" pos="word" morph="none" start_char="2343" end_char="2356">estadounidense</TOKEN>
+        <TOKEN id="token-66-1" pos="word" morph="none" start_char="2358" end_char="2359">en</TOKEN>
+        <TOKEN id="token-66-2" pos="word" morph="none" start_char="2361" end_char="2364">2012</TOKEN>
+        <TOKEN id="token-66-3" pos="punct" morph="none" start_char="2365" end_char="2365">.</TOKEN>
+      </SEG>
+      <SEG id="segment-67" start_char="2367" end_char="2370">
+        <ORIGINAL_TEXT>&lt;/P&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-67-0" pos="unknown" morph="none" start_char="2367" end_char="2370">&lt;/P&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-68" start_char="2372" end_char="2374">
+        <ORIGINAL_TEXT>&lt;P&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-68-0" pos="unknown" morph="none" start_char="2372" end_char="2374">&lt;P&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-69" start_char="2376" end_char="2451">
+        <ORIGINAL_TEXT>Tres amigos de Tsarnaev enfrentarán duras sentencias de entre 7 y 25 años de</ORIGINAL_TEXT>
+        <TOKEN id="token-69-0" pos="word" morph="none" start_char="2376" end_char="2379">Tres</TOKEN>
+        <TOKEN id="token-69-1" pos="word" morph="none" start_char="2381" end_char="2386">amigos</TOKEN>
+        <TOKEN id="token-69-2" pos="word" morph="none" start_char="2388" end_char="2389">de</TOKEN>
+        <TOKEN id="token-69-3" pos="word" morph="none" start_char="2391" end_char="2398">Tsarnaev</TOKEN>
+        <TOKEN id="token-69-4" pos="word" morph="none" start_char="2400" end_char="2410">enfrentarán</TOKEN>
+        <TOKEN id="token-69-5" pos="word" morph="none" start_char="2412" end_char="2416">duras</TOKEN>
+        <TOKEN id="token-69-6" pos="word" morph="none" start_char="2418" end_char="2427">sentencias</TOKEN>
+        <TOKEN id="token-69-7" pos="word" morph="none" start_char="2429" end_char="2430">de</TOKEN>
+        <TOKEN id="token-69-8" pos="word" morph="none" start_char="2432" end_char="2436">entre</TOKEN>
+        <TOKEN id="token-69-9" pos="number" morph="none" start_char="2438" end_char="2438">7</TOKEN>
+        <TOKEN id="token-69-10" pos="word" morph="none" start_char="2440" end_char="2440">y</TOKEN>
+        <TOKEN id="token-69-11" pos="number" morph="none" start_char="2442" end_char="2443">25</TOKEN>
+        <TOKEN id="token-69-12" pos="word" morph="none" start_char="2445" end_char="2448">años</TOKEN>
+        <TOKEN id="token-69-13" pos="word" morph="none" start_char="2450" end_char="2451">de</TOKEN>
+      </SEG>
+      <SEG id="segment-70" start_char="2453" end_char="2519">
+        <ORIGINAL_TEXT>prisión tras ser hallados o declararse culpables de obstaculizar la</ORIGINAL_TEXT>
+        <TOKEN id="token-70-0" pos="word" morph="none" start_char="2453" end_char="2459">prisión</TOKEN>
+        <TOKEN id="token-70-1" pos="word" morph="none" start_char="2461" end_char="2464">tras</TOKEN>
+        <TOKEN id="token-70-2" pos="word" morph="none" start_char="2466" end_char="2468">ser</TOKEN>
+        <TOKEN id="token-70-3" pos="word" morph="none" start_char="2470" end_char="2477">hallados</TOKEN>
+        <TOKEN id="token-70-4" pos="word" morph="none" start_char="2479" end_char="2479">o</TOKEN>
+        <TOKEN id="token-70-5" pos="word" morph="none" start_char="2481" end_char="2490">declararse</TOKEN>
+        <TOKEN id="token-70-6" pos="word" morph="none" start_char="2492" end_char="2500">culpables</TOKEN>
+        <TOKEN id="token-70-7" pos="word" morph="none" start_char="2502" end_char="2503">de</TOKEN>
+        <TOKEN id="token-70-8" pos="word" morph="none" start_char="2505" end_char="2516">obstaculizar</TOKEN>
+        <TOKEN id="token-70-9" pos="word" morph="none" start_char="2518" end_char="2519">la</TOKEN>
+      </SEG>
+      <SEG id="segment-71" start_char="2521" end_char="2558">
+        <ORIGINAL_TEXT>investigación posterior a los ataques.</ORIGINAL_TEXT>
+        <TOKEN id="token-71-0" pos="word" morph="none" start_char="2521" end_char="2533">investigación</TOKEN>
+        <TOKEN id="token-71-1" pos="word" morph="none" start_char="2535" end_char="2543">posterior</TOKEN>
+        <TOKEN id="token-71-2" pos="word" morph="none" start_char="2545" end_char="2545">a</TOKEN>
+        <TOKEN id="token-71-3" pos="word" morph="none" start_char="2547" end_char="2549">los</TOKEN>
+        <TOKEN id="token-71-4" pos="word" morph="none" start_char="2551" end_char="2557">ataques</TOKEN>
+        <TOKEN id="token-71-5" pos="punct" morph="none" start_char="2558" end_char="2558">.</TOKEN>
+      </SEG>
+      <SEG id="segment-72" start_char="2560" end_char="2563">
+        <ORIGINAL_TEXT>&lt;/P&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-72-0" pos="unknown" morph="none" start_char="2560" end_char="2563">&lt;/P&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-73" start_char="2565" end_char="2571">
+        <ORIGINAL_TEXT>&lt;/TEXT&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-73-0" pos="unknown" morph="none" start_char="2565" end_char="2571">&lt;/TEXT&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-74" start_char="2573" end_char="2578">
+        <ORIGINAL_TEXT>&lt;/DOC&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-74-0" pos="unknown" morph="none" start_char="2573" end_char="2578">&lt;/DOC&gt;</TOKEN>
+      </SEG>
+    </TEXT>
+  </DOC>
+</LCTL_TEXT>

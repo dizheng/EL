@@ -1,0 +1,857 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE LCTL_TEXT SYSTEM "ltf.v1.5.dtd">
+<LCTL_TEXT>
+<DOC id="SPA_NW_001461_20150630_F0010004N.nw.xml" tokenization="tokenization_parameters" grammar="none" raw_text_char_length="3667" raw_text_md5="567978ddc41c514af50139ca10f76c43">
+<TEXT>
+<SEG id="segment-0" start_char="0" end_char="37">
+<ORIGINAL_TEXT>&lt;?xml version="1.0" encoding="utf-8"?&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-0-0" pos="unknown" morph="none" start_char="0" end_char="4">&lt;?xml</TOKEN>
+<TOKEN id="token-0-1" pos="unknown" morph="none" start_char="6" end_char="18">version="1.0"</TOKEN>
+<TOKEN id="token-0-2" pos="unknown" morph="none" start_char="20" end_char="37">encoding="utf-8"?&gt;</TOKEN>
+</SEG>
+<SEG id="segment-1" start_char="39" end_char="81">
+<ORIGINAL_TEXT>&lt;DOC id="SPA_NW_001461_20150630_F0010004N"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-1-0" pos="unknown" morph="none" start_char="39" end_char="42">&lt;DOC</TOKEN>
+<TOKEN id="token-1-1" pos="unknown" morph="none" start_char="44" end_char="81">id="SPA_NW_001461_20150630_F0010004N"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-2" start_char="83" end_char="220">
+<ORIGINAL_TEXT>&lt;SOURCE&gt;http://es.brasil247.com/es/247/brasil_global/5788/Junto-a-Obama-Dilma-respondi%C3%B3-sobre-espionaje-Lava-Jato-y-JJOO.htm&lt;/SOURCE&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-2-0" pos="unknown" morph="none" start_char="83" end_char="220">&lt;SOURCE&gt;http://es.brasil247.com/es/247/brasil_global/5788/Junto-a-Obama-Dilma-respondi%C3%B3-sobre-espionaje-Lava-Jato-y-JJOO.htm&lt;/SOURCE&gt;</TOKEN>
+</SEG>
+<SEG id="segment-3" start_char="222" end_char="263">
+<ORIGINAL_TEXT>&lt;DATE_TIME&gt;2015-06-30T00:00:00&lt;/DATE_TIME&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-3-0" pos="unknown" morph="none" start_char="222" end_char="263">&lt;DATE_TIME&gt;2015-06-30T00:00:00&lt;/DATE_TIME&gt;</TOKEN>
+</SEG>
+<SEG id="segment-4" start_char="265" end_char="274">
+<ORIGINAL_TEXT>&lt;HEADLINE&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-4-0" pos="unknown" morph="none" start_char="265" end_char="274">&lt;HEADLINE&gt;</TOKEN>
+</SEG>
+<SEG id="segment-5" start_char="276" end_char="339">
+<ORIGINAL_TEXT>JUNTO A OBAMA, DILMA RESPONDIÓ SOBRE ESPIONAJE, LAVA JATO Y JJOO</ORIGINAL_TEXT>
+<TOKEN id="token-5-0" pos="word" morph="none" start_char="276" end_char="280">JUNTO</TOKEN>
+<TOKEN id="token-5-1" pos="word" morph="none" start_char="282" end_char="282">A</TOKEN>
+<TOKEN id="token-5-2" pos="word" morph="none" start_char="284" end_char="288">OBAMA</TOKEN>
+<TOKEN id="token-5-3" pos="punct" morph="none" start_char="289" end_char="289">,</TOKEN>
+<TOKEN id="token-5-4" pos="word" morph="none" start_char="291" end_char="295">DILMA</TOKEN>
+<TOKEN id="token-5-5" pos="word" morph="none" start_char="297" end_char="305">RESPONDIÓ</TOKEN>
+<TOKEN id="token-5-6" pos="word" morph="none" start_char="307" end_char="311">SOBRE</TOKEN>
+<TOKEN id="token-5-7" pos="word" morph="none" start_char="313" end_char="321">ESPIONAJE</TOKEN>
+<TOKEN id="token-5-8" pos="punct" morph="none" start_char="322" end_char="322">,</TOKEN>
+<TOKEN id="token-5-9" pos="word" morph="none" start_char="324" end_char="327">LAVA</TOKEN>
+<TOKEN id="token-5-10" pos="word" morph="none" start_char="329" end_char="332">JATO</TOKEN>
+<TOKEN id="token-5-11" pos="word" morph="none" start_char="334" end_char="334">Y</TOKEN>
+<TOKEN id="token-5-12" pos="word" morph="none" start_char="336" end_char="339">JJOO</TOKEN>
+</SEG>
+<SEG id="segment-6" start_char="341" end_char="351">
+<ORIGINAL_TEXT>&lt;/HEADLINE&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-6-0" pos="unknown" morph="none" start_char="341" end_char="351">&lt;/HEADLINE&gt;</TOKEN>
+</SEG>
+<SEG id="segment-7" start_char="353" end_char="358">
+<ORIGINAL_TEXT>&lt;TEXT&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-7-0" pos="unknown" morph="none" start_char="353" end_char="358">&lt;TEXT&gt;</TOKEN>
+</SEG>
+<SEG id="segment-8" start_char="360" end_char="362">
+<ORIGINAL_TEXT>&lt;P&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-8-0" pos="unknown" morph="none" start_char="360" end_char="362">&lt;P&gt;</TOKEN>
+</SEG>
+<SEG id="segment-9" start_char="364" end_char="441">
+<ORIGINAL_TEXT>Asuntos como la superada crisis por el espionaje que la agencia estadounidense</ORIGINAL_TEXT>
+<TOKEN id="token-9-0" pos="word" morph="none" start_char="364" end_char="370">Asuntos</TOKEN>
+<TOKEN id="token-9-1" pos="word" morph="none" start_char="372" end_char="375">como</TOKEN>
+<TOKEN id="token-9-2" pos="word" morph="none" start_char="377" end_char="378">la</TOKEN>
+<TOKEN id="token-9-3" pos="word" morph="none" start_char="380" end_char="387">superada</TOKEN>
+<TOKEN id="token-9-4" pos="word" morph="none" start_char="389" end_char="394">crisis</TOKEN>
+<TOKEN id="token-9-5" pos="word" morph="none" start_char="396" end_char="398">por</TOKEN>
+<TOKEN id="token-9-6" pos="word" morph="none" start_char="400" end_char="401">el</TOKEN>
+<TOKEN id="token-9-7" pos="word" morph="none" start_char="403" end_char="411">espionaje</TOKEN>
+<TOKEN id="token-9-8" pos="word" morph="none" start_char="413" end_char="415">que</TOKEN>
+<TOKEN id="token-9-9" pos="word" morph="none" start_char="417" end_char="418">la</TOKEN>
+<TOKEN id="token-9-10" pos="word" morph="none" start_char="420" end_char="426">agencia</TOKEN>
+<TOKEN id="token-9-11" pos="word" morph="none" start_char="428" end_char="441">estadounidense</TOKEN>
+</SEG>
+<SEG id="segment-10" start_char="443" end_char="517">
+<ORIGINAL_TEXT>NSA realizó a altas autoridades brasileñas, entre ellas la presidenta Dilma</ORIGINAL_TEXT>
+<TOKEN id="token-10-0" pos="word" morph="none" start_char="443" end_char="445">NSA</TOKEN>
+<TOKEN id="token-10-1" pos="word" morph="none" start_char="447" end_char="453">realizó</TOKEN>
+<TOKEN id="token-10-2" pos="word" morph="none" start_char="455" end_char="455">a</TOKEN>
+<TOKEN id="token-10-3" pos="word" morph="none" start_char="457" end_char="461">altas</TOKEN>
+<TOKEN id="token-10-4" pos="word" morph="none" start_char="463" end_char="473">autoridades</TOKEN>
+<TOKEN id="token-10-5" pos="word" morph="none" start_char="475" end_char="484">brasileñas</TOKEN>
+<TOKEN id="token-10-6" pos="punct" morph="none" start_char="485" end_char="485">,</TOKEN>
+<TOKEN id="token-10-7" pos="word" morph="none" start_char="487" end_char="491">entre</TOKEN>
+<TOKEN id="token-10-8" pos="word" morph="none" start_char="493" end_char="497">ellas</TOKEN>
+<TOKEN id="token-10-9" pos="word" morph="none" start_char="499" end_char="500">la</TOKEN>
+<TOKEN id="token-10-10" pos="word" morph="none" start_char="502" end_char="511">presidenta</TOKEN>
+<TOKEN id="token-10-11" pos="word" morph="none" start_char="513" end_char="517">Dilma</TOKEN>
+</SEG>
+<SEG id="segment-11" start_char="519" end_char="595">
+<ORIGINAL_TEXT>Rousseff, y las turbulencias políticas que enfrenta Brasilia por denuncias en</ORIGINAL_TEXT>
+<TOKEN id="token-11-0" pos="word" morph="none" start_char="519" end_char="526">Rousseff</TOKEN>
+<TOKEN id="token-11-1" pos="punct" morph="none" start_char="527" end_char="527">,</TOKEN>
+<TOKEN id="token-11-2" pos="word" morph="none" start_char="529" end_char="529">y</TOKEN>
+<TOKEN id="token-11-3" pos="word" morph="none" start_char="531" end_char="533">las</TOKEN>
+<TOKEN id="token-11-4" pos="word" morph="none" start_char="535" end_char="546">turbulencias</TOKEN>
+<TOKEN id="token-11-5" pos="word" morph="none" start_char="548" end_char="556">políticas</TOKEN>
+<TOKEN id="token-11-6" pos="word" morph="none" start_char="558" end_char="560">que</TOKEN>
+<TOKEN id="token-11-7" pos="word" morph="none" start_char="562" end_char="569">enfrenta</TOKEN>
+<TOKEN id="token-11-8" pos="word" morph="none" start_char="571" end_char="578">Brasilia</TOKEN>
+<TOKEN id="token-11-9" pos="word" morph="none" start_char="580" end_char="582">por</TOKEN>
+<TOKEN id="token-11-10" pos="word" morph="none" start_char="584" end_char="592">denuncias</TOKEN>
+<TOKEN id="token-11-11" pos="word" morph="none" start_char="594" end_char="595">en</TOKEN>
+</SEG>
+<SEG id="segment-12" start_char="597" end_char="674">
+<ORIGINAL_TEXT>el ámbito de la operación Lava Jato, estuvieron presentes en la conferencia de</ORIGINAL_TEXT>
+<TOKEN id="token-12-0" pos="word" morph="none" start_char="597" end_char="598">el</TOKEN>
+<TOKEN id="token-12-1" pos="word" morph="none" start_char="600" end_char="605">ámbito</TOKEN>
+<TOKEN id="token-12-2" pos="word" morph="none" start_char="607" end_char="608">de</TOKEN>
+<TOKEN id="token-12-3" pos="word" morph="none" start_char="610" end_char="611">la</TOKEN>
+<TOKEN id="token-12-4" pos="word" morph="none" start_char="613" end_char="621">operación</TOKEN>
+<TOKEN id="token-12-5" pos="word" morph="none" start_char="623" end_char="626">Lava</TOKEN>
+<TOKEN id="token-12-6" pos="word" morph="none" start_char="628" end_char="631">Jato</TOKEN>
+<TOKEN id="token-12-7" pos="punct" morph="none" start_char="632" end_char="632">,</TOKEN>
+<TOKEN id="token-12-8" pos="word" morph="none" start_char="634" end_char="643">estuvieron</TOKEN>
+<TOKEN id="token-12-9" pos="word" morph="none" start_char="645" end_char="653">presentes</TOKEN>
+<TOKEN id="token-12-10" pos="word" morph="none" start_char="655" end_char="656">en</TOKEN>
+<TOKEN id="token-12-11" pos="word" morph="none" start_char="658" end_char="659">la</TOKEN>
+<TOKEN id="token-12-12" pos="word" morph="none" start_char="661" end_char="671">conferencia</TOKEN>
+<TOKEN id="token-12-13" pos="word" morph="none" start_char="673" end_char="674">de</TOKEN>
+</SEG>
+<SEG id="segment-13" start_char="676" end_char="745">
+<ORIGINAL_TEXT>prensa que los mandatarios de Estados Unidos y de Brasil ofrecieron el</ORIGINAL_TEXT>
+<TOKEN id="token-13-0" pos="word" morph="none" start_char="676" end_char="681">prensa</TOKEN>
+<TOKEN id="token-13-1" pos="word" morph="none" start_char="683" end_char="685">que</TOKEN>
+<TOKEN id="token-13-2" pos="word" morph="none" start_char="687" end_char="689">los</TOKEN>
+<TOKEN id="token-13-3" pos="word" morph="none" start_char="691" end_char="701">mandatarios</TOKEN>
+<TOKEN id="token-13-4" pos="word" morph="none" start_char="703" end_char="704">de</TOKEN>
+<TOKEN id="token-13-5" pos="word" morph="none" start_char="706" end_char="712">Estados</TOKEN>
+<TOKEN id="token-13-6" pos="word" morph="none" start_char="714" end_char="719">Unidos</TOKEN>
+<TOKEN id="token-13-7" pos="word" morph="none" start_char="721" end_char="721">y</TOKEN>
+<TOKEN id="token-13-8" pos="word" morph="none" start_char="723" end_char="724">de</TOKEN>
+<TOKEN id="token-13-9" pos="word" morph="none" start_char="726" end_char="731">Brasil</TOKEN>
+<TOKEN id="token-13-10" pos="word" morph="none" start_char="733" end_char="742">ofrecieron</TOKEN>
+<TOKEN id="token-13-11" pos="word" morph="none" start_char="744" end_char="745">el</TOKEN>
+</SEG>
+<SEG id="segment-14" start_char="747" end_char="824">
+<ORIGINAL_TEXT>miércoles en la Casa Blanca. Dilma criticó lo que consideró como "filtraciones</ORIGINAL_TEXT>
+<TOKEN id="token-14-0" pos="word" morph="none" start_char="747" end_char="755">miércoles</TOKEN>
+<TOKEN id="token-14-1" pos="word" morph="none" start_char="757" end_char="758">en</TOKEN>
+<TOKEN id="token-14-2" pos="word" morph="none" start_char="760" end_char="761">la</TOKEN>
+<TOKEN id="token-14-3" pos="word" morph="none" start_char="763" end_char="766">Casa</TOKEN>
+<TOKEN id="token-14-4" pos="word" morph="none" start_char="768" end_char="773">Blanca</TOKEN>
+<TOKEN id="token-14-5" pos="punct" morph="none" start_char="774" end_char="774">.</TOKEN>
+<TOKEN id="token-14-6" pos="word" morph="none" start_char="776" end_char="780">Dilma</TOKEN>
+<TOKEN id="token-14-7" pos="word" morph="none" start_char="782" end_char="788">criticó</TOKEN>
+<TOKEN id="token-14-8" pos="word" morph="none" start_char="790" end_char="791">lo</TOKEN>
+<TOKEN id="token-14-9" pos="word" morph="none" start_char="793" end_char="795">que</TOKEN>
+<TOKEN id="token-14-10" pos="word" morph="none" start_char="797" end_char="805">consideró</TOKEN>
+<TOKEN id="token-14-11" pos="word" morph="none" start_char="807" end_char="810">como</TOKEN>
+<TOKEN id="token-14-12" pos="punct" morph="none" start_char="812" end_char="812">"</TOKEN>
+<TOKEN id="token-14-13" pos="word" morph="none" start_char="813" end_char="824">filtraciones</TOKEN>
+</SEG>
+<SEG id="segment-15" start_char="826" end_char="898">
+<ORIGINAL_TEXT>selectivas" de las declaraciones un empresario bajo la figura de delación</ORIGINAL_TEXT>
+<TOKEN id="token-15-0" pos="word" morph="none" start_char="826" end_char="835">selectivas</TOKEN>
+<TOKEN id="token-15-1" pos="punct" morph="none" start_char="836" end_char="836">"</TOKEN>
+<TOKEN id="token-15-2" pos="word" morph="none" start_char="838" end_char="839">de</TOKEN>
+<TOKEN id="token-15-3" pos="word" morph="none" start_char="841" end_char="843">las</TOKEN>
+<TOKEN id="token-15-4" pos="word" morph="none" start_char="845" end_char="857">declaraciones</TOKEN>
+<TOKEN id="token-15-5" pos="word" morph="none" start_char="859" end_char="860">un</TOKEN>
+<TOKEN id="token-15-6" pos="word" morph="none" start_char="862" end_char="871">empresario</TOKEN>
+<TOKEN id="token-15-7" pos="word" morph="none" start_char="873" end_char="876">bajo</TOKEN>
+<TOKEN id="token-15-8" pos="word" morph="none" start_char="878" end_char="879">la</TOKEN>
+<TOKEN id="token-15-9" pos="word" morph="none" start_char="881" end_char="886">figura</TOKEN>
+<TOKEN id="token-15-10" pos="word" morph="none" start_char="888" end_char="889">de</TOKEN>
+<TOKEN id="token-15-11" pos="word" morph="none" start_char="891" end_char="898">delación</TOKEN>
+</SEG>
+<SEG id="segment-16" start_char="900" end_char="973">
+<ORIGINAL_TEXT>premiada y aseguró que no despide ni nombra ministros según lo que diga la</ORIGINAL_TEXT>
+<TOKEN id="token-16-0" pos="word" morph="none" start_char="900" end_char="907">premiada</TOKEN>
+<TOKEN id="token-16-1" pos="word" morph="none" start_char="909" end_char="909">y</TOKEN>
+<TOKEN id="token-16-2" pos="word" morph="none" start_char="911" end_char="917">aseguró</TOKEN>
+<TOKEN id="token-16-3" pos="word" morph="none" start_char="919" end_char="921">que</TOKEN>
+<TOKEN id="token-16-4" pos="word" morph="none" start_char="923" end_char="924">no</TOKEN>
+<TOKEN id="token-16-5" pos="word" morph="none" start_char="926" end_char="932">despide</TOKEN>
+<TOKEN id="token-16-6" pos="word" morph="none" start_char="934" end_char="935">ni</TOKEN>
+<TOKEN id="token-16-7" pos="word" morph="none" start_char="937" end_char="942">nombra</TOKEN>
+<TOKEN id="token-16-8" pos="word" morph="none" start_char="944" end_char="952">ministros</TOKEN>
+<TOKEN id="token-16-9" pos="word" morph="none" start_char="954" end_char="958">según</TOKEN>
+<TOKEN id="token-16-10" pos="word" morph="none" start_char="960" end_char="961">lo</TOKEN>
+<TOKEN id="token-16-11" pos="word" morph="none" start_char="963" end_char="965">que</TOKEN>
+<TOKEN id="token-16-12" pos="word" morph="none" start_char="967" end_char="970">diga</TOKEN>
+<TOKEN id="token-16-13" pos="word" morph="none" start_char="972" end_char="973">la</TOKEN>
+</SEG>
+<SEG id="segment-17" start_char="975" end_char="1048">
+<ORIGINAL_TEXT>prensa. La mandataria respondió también a preguntas sobre la seguridad que</ORIGINAL_TEXT>
+<TOKEN id="token-17-0" pos="word" morph="none" start_char="975" end_char="980">prensa</TOKEN>
+<TOKEN id="token-17-1" pos="punct" morph="none" start_char="981" end_char="981">.</TOKEN>
+<TOKEN id="token-17-2" pos="word" morph="none" start_char="983" end_char="984">La</TOKEN>
+<TOKEN id="token-17-3" pos="word" morph="none" start_char="986" end_char="995">mandataria</TOKEN>
+<TOKEN id="token-17-4" pos="word" morph="none" start_char="997" end_char="1005">respondió</TOKEN>
+<TOKEN id="token-17-5" pos="word" morph="none" start_char="1007" end_char="1013">también</TOKEN>
+<TOKEN id="token-17-6" pos="word" morph="none" start_char="1015" end_char="1015">a</TOKEN>
+<TOKEN id="token-17-7" pos="word" morph="none" start_char="1017" end_char="1025">preguntas</TOKEN>
+<TOKEN id="token-17-8" pos="word" morph="none" start_char="1027" end_char="1031">sobre</TOKEN>
+<TOKEN id="token-17-9" pos="word" morph="none" start_char="1033" end_char="1034">la</TOKEN>
+<TOKEN id="token-17-10" pos="word" morph="none" start_char="1036" end_char="1044">seguridad</TOKEN>
+<TOKEN id="token-17-11" pos="word" morph="none" start_char="1046" end_char="1048">que</TOKEN>
+</SEG>
+<SEG id="segment-18" start_char="1050" end_char="1124">
+<ORIGINAL_TEXT>Brasil brindará en los Juegos Olímpicos del 2016, en Río de Janeiro, a cuya</ORIGINAL_TEXT>
+<TOKEN id="token-18-0" pos="word" morph="none" start_char="1050" end_char="1055">Brasil</TOKEN>
+<TOKEN id="token-18-1" pos="word" morph="none" start_char="1057" end_char="1064">brindará</TOKEN>
+<TOKEN id="token-18-2" pos="word" morph="none" start_char="1066" end_char="1067">en</TOKEN>
+<TOKEN id="token-18-3" pos="word" morph="none" start_char="1069" end_char="1071">los</TOKEN>
+<TOKEN id="token-18-4" pos="word" morph="none" start_char="1073" end_char="1078">Juegos</TOKEN>
+<TOKEN id="token-18-5" pos="word" morph="none" start_char="1080" end_char="1088">Olímpicos</TOKEN>
+<TOKEN id="token-18-6" pos="word" morph="none" start_char="1090" end_char="1092">del</TOKEN>
+<TOKEN id="token-18-7" pos="word" morph="none" start_char="1094" end_char="1097">2016</TOKEN>
+<TOKEN id="token-18-8" pos="punct" morph="none" start_char="1098" end_char="1098">,</TOKEN>
+<TOKEN id="token-18-9" pos="word" morph="none" start_char="1100" end_char="1101">en</TOKEN>
+<TOKEN id="token-18-10" pos="word" morph="none" start_char="1103" end_char="1105">Río</TOKEN>
+<TOKEN id="token-18-11" pos="word" morph="none" start_char="1107" end_char="1108">de</TOKEN>
+<TOKEN id="token-18-12" pos="word" morph="none" start_char="1110" end_char="1116">Janeiro</TOKEN>
+<TOKEN id="token-18-13" pos="punct" morph="none" start_char="1117" end_char="1117">,</TOKEN>
+<TOKEN id="token-18-14" pos="word" morph="none" start_char="1119" end_char="1119">a</TOKEN>
+<TOKEN id="token-18-15" pos="word" morph="none" start_char="1121" end_char="1124">cuya</TOKEN>
+</SEG>
+<SEG id="segment-19" start_char="1126" end_char="1200">
+<ORIGINAL_TEXT>ceremonia inaugural fue invitado Obama, y sobre el caso de espionaje que la</ORIGINAL_TEXT>
+<TOKEN id="token-19-0" pos="word" morph="none" start_char="1126" end_char="1134">ceremonia</TOKEN>
+<TOKEN id="token-19-1" pos="word" morph="none" start_char="1136" end_char="1144">inaugural</TOKEN>
+<TOKEN id="token-19-2" pos="word" morph="none" start_char="1146" end_char="1148">fue</TOKEN>
+<TOKEN id="token-19-3" pos="word" morph="none" start_char="1150" end_char="1157">invitado</TOKEN>
+<TOKEN id="token-19-4" pos="word" morph="none" start_char="1159" end_char="1163">Obama</TOKEN>
+<TOKEN id="token-19-5" pos="punct" morph="none" start_char="1164" end_char="1164">,</TOKEN>
+<TOKEN id="token-19-6" pos="word" morph="none" start_char="1166" end_char="1166">y</TOKEN>
+<TOKEN id="token-19-7" pos="word" morph="none" start_char="1168" end_char="1172">sobre</TOKEN>
+<TOKEN id="token-19-8" pos="word" morph="none" start_char="1174" end_char="1175">el</TOKEN>
+<TOKEN id="token-19-9" pos="word" morph="none" start_char="1177" end_char="1180">caso</TOKEN>
+<TOKEN id="token-19-10" pos="word" morph="none" start_char="1182" end_char="1183">de</TOKEN>
+<TOKEN id="token-19-11" pos="word" morph="none" start_char="1185" end_char="1193">espionaje</TOKEN>
+<TOKEN id="token-19-12" pos="word" morph="none" start_char="1195" end_char="1197">que</TOKEN>
+<TOKEN id="token-19-13" pos="word" morph="none" start_char="1199" end_char="1200">la</TOKEN>
+</SEG>
+<SEG id="segment-20" start_char="1202" end_char="1254">
+<ORIGINAL_TEXT>llevó a suspender en el 2013 una visita a Washington.</ORIGINAL_TEXT>
+<TOKEN id="token-20-0" pos="word" morph="none" start_char="1202" end_char="1206">llevó</TOKEN>
+<TOKEN id="token-20-1" pos="word" morph="none" start_char="1208" end_char="1208">a</TOKEN>
+<TOKEN id="token-20-2" pos="word" morph="none" start_char="1210" end_char="1218">suspender</TOKEN>
+<TOKEN id="token-20-3" pos="word" morph="none" start_char="1220" end_char="1221">en</TOKEN>
+<TOKEN id="token-20-4" pos="word" morph="none" start_char="1223" end_char="1224">el</TOKEN>
+<TOKEN id="token-20-5" pos="number" morph="none" start_char="1226" end_char="1229">2013</TOKEN>
+<TOKEN id="token-20-6" pos="word" morph="none" start_char="1231" end_char="1233">una</TOKEN>
+<TOKEN id="token-20-7" pos="word" morph="none" start_char="1235" end_char="1240">visita</TOKEN>
+<TOKEN id="token-20-8" pos="word" morph="none" start_char="1242" end_char="1242">a</TOKEN>
+<TOKEN id="token-20-9" pos="word" morph="none" start_char="1244" end_char="1253">Washington</TOKEN>
+<TOKEN id="token-20-10" pos="punct" morph="none" start_char="1254" end_char="1254">.</TOKEN>
+</SEG>
+<SEG id="segment-21" start_char="1256" end_char="1259">
+<ORIGINAL_TEXT>&lt;/P&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-21-0" pos="unknown" morph="none" start_char="1256" end_char="1259">&lt;/P&gt;</TOKEN>
+</SEG>
+<SEG id="segment-22" start_char="1261" end_char="1263">
+<ORIGINAL_TEXT>&lt;P&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-22-0" pos="unknown" morph="none" start_char="1261" end_char="1263">&lt;P&gt;</TOKEN>
+</SEG>
+<SEG id="segment-23" start_char="1265" end_char="1333">
+<ORIGINAL_TEXT>247 - Asuntos como la superada crisis por el espionaje que la agencia</ORIGINAL_TEXT>
+<TOKEN id="token-23-0" pos="number" morph="none" start_char="1265" end_char="1267">247</TOKEN>
+<TOKEN id="token-23-1" pos="unknown" morph="none" start_char="1269" end_char="1269">-</TOKEN>
+<TOKEN id="token-23-2" pos="word" morph="none" start_char="1271" end_char="1277">Asuntos</TOKEN>
+<TOKEN id="token-23-3" pos="word" morph="none" start_char="1279" end_char="1282">como</TOKEN>
+<TOKEN id="token-23-4" pos="word" morph="none" start_char="1284" end_char="1285">la</TOKEN>
+<TOKEN id="token-23-5" pos="word" morph="none" start_char="1287" end_char="1294">superada</TOKEN>
+<TOKEN id="token-23-6" pos="word" morph="none" start_char="1296" end_char="1301">crisis</TOKEN>
+<TOKEN id="token-23-7" pos="word" morph="none" start_char="1303" end_char="1305">por</TOKEN>
+<TOKEN id="token-23-8" pos="word" morph="none" start_char="1307" end_char="1308">el</TOKEN>
+<TOKEN id="token-23-9" pos="word" morph="none" start_char="1310" end_char="1318">espionaje</TOKEN>
+<TOKEN id="token-23-10" pos="word" morph="none" start_char="1320" end_char="1322">que</TOKEN>
+<TOKEN id="token-23-11" pos="word" morph="none" start_char="1324" end_char="1325">la</TOKEN>
+<TOKEN id="token-23-12" pos="word" morph="none" start_char="1327" end_char="1333">agencia</TOKEN>
+</SEG>
+<SEG id="segment-24" start_char="1335" end_char="1407">
+<ORIGINAL_TEXT>estadounidense NSA realizó a altas autoridades brasileñas, entre ellas la</ORIGINAL_TEXT>
+<TOKEN id="token-24-0" pos="word" morph="none" start_char="1335" end_char="1348">estadounidense</TOKEN>
+<TOKEN id="token-24-1" pos="word" morph="none" start_char="1350" end_char="1352">NSA</TOKEN>
+<TOKEN id="token-24-2" pos="word" morph="none" start_char="1354" end_char="1360">realizó</TOKEN>
+<TOKEN id="token-24-3" pos="word" morph="none" start_char="1362" end_char="1362">a</TOKEN>
+<TOKEN id="token-24-4" pos="word" morph="none" start_char="1364" end_char="1368">altas</TOKEN>
+<TOKEN id="token-24-5" pos="word" morph="none" start_char="1370" end_char="1380">autoridades</TOKEN>
+<TOKEN id="token-24-6" pos="word" morph="none" start_char="1382" end_char="1391">brasileñas</TOKEN>
+<TOKEN id="token-24-7" pos="punct" morph="none" start_char="1392" end_char="1392">,</TOKEN>
+<TOKEN id="token-24-8" pos="word" morph="none" start_char="1394" end_char="1398">entre</TOKEN>
+<TOKEN id="token-24-9" pos="word" morph="none" start_char="1400" end_char="1404">ellas</TOKEN>
+<TOKEN id="token-24-10" pos="word" morph="none" start_char="1406" end_char="1407">la</TOKEN>
+</SEG>
+<SEG id="segment-25" start_char="1409" end_char="1485">
+<ORIGINAL_TEXT>presidenta Dilma Rousseff, y las turbulencias políticas que enfrenta Brasilia</ORIGINAL_TEXT>
+<TOKEN id="token-25-0" pos="word" morph="none" start_char="1409" end_char="1418">presidenta</TOKEN>
+<TOKEN id="token-25-1" pos="word" morph="none" start_char="1420" end_char="1424">Dilma</TOKEN>
+<TOKEN id="token-25-2" pos="word" morph="none" start_char="1426" end_char="1433">Rousseff</TOKEN>
+<TOKEN id="token-25-3" pos="punct" morph="none" start_char="1434" end_char="1434">,</TOKEN>
+<TOKEN id="token-25-4" pos="word" morph="none" start_char="1436" end_char="1436">y</TOKEN>
+<TOKEN id="token-25-5" pos="word" morph="none" start_char="1438" end_char="1440">las</TOKEN>
+<TOKEN id="token-25-6" pos="word" morph="none" start_char="1442" end_char="1453">turbulencias</TOKEN>
+<TOKEN id="token-25-7" pos="word" morph="none" start_char="1455" end_char="1463">políticas</TOKEN>
+<TOKEN id="token-25-8" pos="word" morph="none" start_char="1465" end_char="1467">que</TOKEN>
+<TOKEN id="token-25-9" pos="word" morph="none" start_char="1469" end_char="1476">enfrenta</TOKEN>
+<TOKEN id="token-25-10" pos="word" morph="none" start_char="1478" end_char="1485">Brasilia</TOKEN>
+</SEG>
+<SEG id="segment-26" start_char="1487" end_char="1563">
+<ORIGINAL_TEXT>por denuncias en el ámbito de la operación Lava Jato, estuvieron presentes en</ORIGINAL_TEXT>
+<TOKEN id="token-26-0" pos="word" morph="none" start_char="1487" end_char="1489">por</TOKEN>
+<TOKEN id="token-26-1" pos="word" morph="none" start_char="1491" end_char="1499">denuncias</TOKEN>
+<TOKEN id="token-26-2" pos="word" morph="none" start_char="1501" end_char="1502">en</TOKEN>
+<TOKEN id="token-26-3" pos="word" morph="none" start_char="1504" end_char="1505">el</TOKEN>
+<TOKEN id="token-26-4" pos="word" morph="none" start_char="1507" end_char="1512">ámbito</TOKEN>
+<TOKEN id="token-26-5" pos="word" morph="none" start_char="1514" end_char="1515">de</TOKEN>
+<TOKEN id="token-26-6" pos="word" morph="none" start_char="1517" end_char="1518">la</TOKEN>
+<TOKEN id="token-26-7" pos="word" morph="none" start_char="1520" end_char="1528">operación</TOKEN>
+<TOKEN id="token-26-8" pos="word" morph="none" start_char="1530" end_char="1533">Lava</TOKEN>
+<TOKEN id="token-26-9" pos="word" morph="none" start_char="1535" end_char="1538">Jato</TOKEN>
+<TOKEN id="token-26-10" pos="punct" morph="none" start_char="1539" end_char="1539">,</TOKEN>
+<TOKEN id="token-26-11" pos="word" morph="none" start_char="1541" end_char="1550">estuvieron</TOKEN>
+<TOKEN id="token-26-12" pos="word" morph="none" start_char="1552" end_char="1560">presentes</TOKEN>
+<TOKEN id="token-26-13" pos="word" morph="none" start_char="1562" end_char="1563">en</TOKEN>
+</SEG>
+<SEG id="segment-27" start_char="1565" end_char="1638">
+<ORIGINAL_TEXT>la conferencia de prensa que los mandatarios de Estados Unidos y de Brasil</ORIGINAL_TEXT>
+<TOKEN id="token-27-0" pos="word" morph="none" start_char="1565" end_char="1566">la</TOKEN>
+<TOKEN id="token-27-1" pos="word" morph="none" start_char="1568" end_char="1578">conferencia</TOKEN>
+<TOKEN id="token-27-2" pos="word" morph="none" start_char="1580" end_char="1581">de</TOKEN>
+<TOKEN id="token-27-3" pos="word" morph="none" start_char="1583" end_char="1588">prensa</TOKEN>
+<TOKEN id="token-27-4" pos="word" morph="none" start_char="1590" end_char="1592">que</TOKEN>
+<TOKEN id="token-27-5" pos="word" morph="none" start_char="1594" end_char="1596">los</TOKEN>
+<TOKEN id="token-27-6" pos="word" morph="none" start_char="1598" end_char="1608">mandatarios</TOKEN>
+<TOKEN id="token-27-7" pos="word" morph="none" start_char="1610" end_char="1611">de</TOKEN>
+<TOKEN id="token-27-8" pos="word" morph="none" start_char="1613" end_char="1619">Estados</TOKEN>
+<TOKEN id="token-27-9" pos="word" morph="none" start_char="1621" end_char="1626">Unidos</TOKEN>
+<TOKEN id="token-27-10" pos="word" morph="none" start_char="1628" end_char="1628">y</TOKEN>
+<TOKEN id="token-27-11" pos="word" morph="none" start_char="1630" end_char="1631">de</TOKEN>
+<TOKEN id="token-27-12" pos="word" morph="none" start_char="1633" end_char="1638">Brasil</TOKEN>
+</SEG>
+<SEG id="segment-28" start_char="1640" end_char="1678">
+<ORIGINAL_TEXT>ofrecieron el martes en la Casa Blanca.</ORIGINAL_TEXT>
+<TOKEN id="token-28-0" pos="word" morph="none" start_char="1640" end_char="1649">ofrecieron</TOKEN>
+<TOKEN id="token-28-1" pos="word" morph="none" start_char="1651" end_char="1652">el</TOKEN>
+<TOKEN id="token-28-2" pos="word" morph="none" start_char="1654" end_char="1659">martes</TOKEN>
+<TOKEN id="token-28-3" pos="word" morph="none" start_char="1661" end_char="1662">en</TOKEN>
+<TOKEN id="token-28-4" pos="word" morph="none" start_char="1664" end_char="1665">la</TOKEN>
+<TOKEN id="token-28-5" pos="word" morph="none" start_char="1667" end_char="1670">Casa</TOKEN>
+<TOKEN id="token-28-6" pos="word" morph="none" start_char="1672" end_char="1677">Blanca</TOKEN>
+<TOKEN id="token-28-7" pos="punct" morph="none" start_char="1678" end_char="1678">.</TOKEN>
+</SEG>
+<SEG id="segment-29" start_char="1680" end_char="1683">
+<ORIGINAL_TEXT>&lt;/P&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-29-0" pos="unknown" morph="none" start_char="1680" end_char="1683">&lt;/P&gt;</TOKEN>
+</SEG>
+<SEG id="segment-30" start_char="1685" end_char="1687">
+<ORIGINAL_TEXT>&lt;P&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-30-0" pos="unknown" morph="none" start_char="1685" end_char="1687">&lt;P&gt;</TOKEN>
+</SEG>
+<SEG id="segment-31" start_char="1689" end_char="1765">
+<ORIGINAL_TEXT>-Presidenta, ¿Usted va a mantener a los ministros Aloizio Mercadante y Edinho</ORIGINAL_TEXT>
+<TOKEN id="token-31-0" pos="punct" morph="none" start_char="1689" end_char="1689">-</TOKEN>
+<TOKEN id="token-31-1" pos="word" morph="none" start_char="1690" end_char="1699">Presidenta</TOKEN>
+<TOKEN id="token-31-2" pos="punct" morph="none" start_char="1700" end_char="1700">,</TOKEN>
+<TOKEN id="token-31-3" pos="punct" morph="none" start_char="1702" end_char="1702">¿</TOKEN>
+<TOKEN id="token-31-4" pos="word" morph="none" start_char="1703" end_char="1707">Usted</TOKEN>
+<TOKEN id="token-31-5" pos="word" morph="none" start_char="1709" end_char="1710">va</TOKEN>
+<TOKEN id="token-31-6" pos="word" morph="none" start_char="1712" end_char="1712">a</TOKEN>
+<TOKEN id="token-31-7" pos="word" morph="none" start_char="1714" end_char="1721">mantener</TOKEN>
+<TOKEN id="token-31-8" pos="word" morph="none" start_char="1723" end_char="1723">a</TOKEN>
+<TOKEN id="token-31-9" pos="word" morph="none" start_char="1725" end_char="1727">los</TOKEN>
+<TOKEN id="token-31-10" pos="word" morph="none" start_char="1729" end_char="1737">ministros</TOKEN>
+<TOKEN id="token-31-11" pos="word" morph="none" start_char="1739" end_char="1745">Aloizio</TOKEN>
+<TOKEN id="token-31-12" pos="word" morph="none" start_char="1747" end_char="1756">Mercadante</TOKEN>
+<TOKEN id="token-31-13" pos="word" morph="none" start_char="1758" end_char="1758">y</TOKEN>
+<TOKEN id="token-31-14" pos="word" morph="none" start_char="1760" end_char="1765">Edinho</TOKEN>
+</SEG>
+<SEG id="segment-32" start_char="1767" end_char="1841">
+<ORIGINAL_TEXT>Silva en el gobierno?-, preguntó a la mandataria el corresponsal en Estados</ORIGINAL_TEXT>
+<TOKEN id="token-32-0" pos="word" morph="none" start_char="1767" end_char="1771">Silva</TOKEN>
+<TOKEN id="token-32-1" pos="word" morph="none" start_char="1773" end_char="1774">en</TOKEN>
+<TOKEN id="token-32-2" pos="word" morph="none" start_char="1776" end_char="1777">el</TOKEN>
+<TOKEN id="token-32-3" pos="word" morph="none" start_char="1779" end_char="1786">gobierno</TOKEN>
+<TOKEN id="token-32-4" pos="punct" morph="none" start_char="1787" end_char="1789">?-,</TOKEN>
+<TOKEN id="token-32-5" pos="word" morph="none" start_char="1791" end_char="1798">preguntó</TOKEN>
+<TOKEN id="token-32-6" pos="word" morph="none" start_char="1800" end_char="1800">a</TOKEN>
+<TOKEN id="token-32-7" pos="word" morph="none" start_char="1802" end_char="1803">la</TOKEN>
+<TOKEN id="token-32-8" pos="word" morph="none" start_char="1805" end_char="1814">mandataria</TOKEN>
+<TOKEN id="token-32-9" pos="word" morph="none" start_char="1816" end_char="1817">el</TOKEN>
+<TOKEN id="token-32-10" pos="word" morph="none" start_char="1819" end_char="1830">corresponsal</TOKEN>
+<TOKEN id="token-32-11" pos="word" morph="none" start_char="1832" end_char="1833">en</TOKEN>
+<TOKEN id="token-32-12" pos="word" morph="none" start_char="1835" end_char="1841">Estados</TOKEN>
+</SEG>
+<SEG id="segment-33" start_char="1843" end_char="1888">
+<ORIGINAL_TEXT>Unidos de Folha de S.Paulo, Raúl Justes Lores.</ORIGINAL_TEXT>
+<TOKEN id="token-33-0" pos="word" morph="none" start_char="1843" end_char="1848">Unidos</TOKEN>
+<TOKEN id="token-33-1" pos="word" morph="none" start_char="1850" end_char="1851">de</TOKEN>
+<TOKEN id="token-33-2" pos="word" morph="none" start_char="1853" end_char="1857">Folha</TOKEN>
+<TOKEN id="token-33-3" pos="word" morph="none" start_char="1859" end_char="1860">de</TOKEN>
+<TOKEN id="token-33-4" pos="word" morph="none" start_char="1862" end_char="1862">S</TOKEN>
+<TOKEN id="token-33-5" pos="punct" morph="none" start_char="1863" end_char="1863">.</TOKEN>
+<TOKEN id="token-33-6" pos="word" morph="none" start_char="1864" end_char="1868">Paulo</TOKEN>
+<TOKEN id="token-33-7" pos="punct" morph="none" start_char="1869" end_char="1869">,</TOKEN>
+<TOKEN id="token-33-8" pos="word" morph="none" start_char="1871" end_char="1874">Raúl</TOKEN>
+<TOKEN id="token-33-9" pos="word" morph="none" start_char="1876" end_char="1881">Justes</TOKEN>
+<TOKEN id="token-33-10" pos="word" morph="none" start_char="1883" end_char="1887">Lores</TOKEN>
+<TOKEN id="token-33-11" pos="punct" morph="none" start_char="1888" end_char="1888">.</TOKEN>
+</SEG>
+<SEG id="segment-34" start_char="1890" end_char="1893">
+<ORIGINAL_TEXT>&lt;/P&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-34-0" pos="unknown" morph="none" start_char="1890" end_char="1893">&lt;/P&gt;</TOKEN>
+</SEG>
+<SEG id="segment-35" start_char="1895" end_char="1897">
+<ORIGINAL_TEXT>&lt;P&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-35-0" pos="unknown" morph="none" start_char="1895" end_char="1897">&lt;P&gt;</TOKEN>
+</SEG>
+<SEG id="segment-36" start_char="1899" end_char="1969">
+<ORIGINAL_TEXT>Mercadante, ministro jefe de la Casa Civil, y Edinho Silva, ministro de</ORIGINAL_TEXT>
+<TOKEN id="token-36-0" pos="word" morph="none" start_char="1899" end_char="1908">Mercadante</TOKEN>
+<TOKEN id="token-36-1" pos="punct" morph="none" start_char="1909" end_char="1909">,</TOKEN>
+<TOKEN id="token-36-2" pos="word" morph="none" start_char="1911" end_char="1918">ministro</TOKEN>
+<TOKEN id="token-36-3" pos="word" morph="none" start_char="1920" end_char="1923">jefe</TOKEN>
+<TOKEN id="token-36-4" pos="word" morph="none" start_char="1925" end_char="1926">de</TOKEN>
+<TOKEN id="token-36-5" pos="word" morph="none" start_char="1928" end_char="1929">la</TOKEN>
+<TOKEN id="token-36-6" pos="word" morph="none" start_char="1931" end_char="1934">Casa</TOKEN>
+<TOKEN id="token-36-7" pos="word" morph="none" start_char="1936" end_char="1940">Civil</TOKEN>
+<TOKEN id="token-36-8" pos="punct" morph="none" start_char="1941" end_char="1941">,</TOKEN>
+<TOKEN id="token-36-9" pos="word" morph="none" start_char="1943" end_char="1943">y</TOKEN>
+<TOKEN id="token-36-10" pos="word" morph="none" start_char="1945" end_char="1950">Edinho</TOKEN>
+<TOKEN id="token-36-11" pos="word" morph="none" start_char="1952" end_char="1956">Silva</TOKEN>
+<TOKEN id="token-36-12" pos="punct" morph="none" start_char="1957" end_char="1957">,</TOKEN>
+<TOKEN id="token-36-13" pos="word" morph="none" start_char="1959" end_char="1966">ministro</TOKEN>
+<TOKEN id="token-36-14" pos="word" morph="none" start_char="1968" end_char="1969">de</TOKEN>
+</SEG>
+<SEG id="segment-37" start_char="1971" end_char="2049">
+<ORIGINAL_TEXT>Comunicación y tesorero de la campaña por la reelección de Dilma el año pasado,</ORIGINAL_TEXT>
+<TOKEN id="token-37-0" pos="word" morph="none" start_char="1971" end_char="1982">Comunicación</TOKEN>
+<TOKEN id="token-37-1" pos="word" morph="none" start_char="1984" end_char="1984">y</TOKEN>
+<TOKEN id="token-37-2" pos="word" morph="none" start_char="1986" end_char="1993">tesorero</TOKEN>
+<TOKEN id="token-37-3" pos="word" morph="none" start_char="1995" end_char="1996">de</TOKEN>
+<TOKEN id="token-37-4" pos="word" morph="none" start_char="1998" end_char="1999">la</TOKEN>
+<TOKEN id="token-37-5" pos="word" morph="none" start_char="2001" end_char="2007">campaña</TOKEN>
+<TOKEN id="token-37-6" pos="word" morph="none" start_char="2009" end_char="2011">por</TOKEN>
+<TOKEN id="token-37-7" pos="word" morph="none" start_char="2013" end_char="2014">la</TOKEN>
+<TOKEN id="token-37-8" pos="word" morph="none" start_char="2016" end_char="2025">reelección</TOKEN>
+<TOKEN id="token-37-9" pos="word" morph="none" start_char="2027" end_char="2028">de</TOKEN>
+<TOKEN id="token-37-10" pos="word" morph="none" start_char="2030" end_char="2034">Dilma</TOKEN>
+<TOKEN id="token-37-11" pos="word" morph="none" start_char="2036" end_char="2037">el</TOKEN>
+<TOKEN id="token-37-12" pos="word" morph="none" start_char="2039" end_char="2041">año</TOKEN>
+<TOKEN id="token-37-13" pos="word" morph="none" start_char="2043" end_char="2048">pasado</TOKEN>
+<TOKEN id="token-37-14" pos="punct" morph="none" start_char="2049" end_char="2049">,</TOKEN>
+</SEG>
+<SEG id="segment-38" start_char="2051" end_char="2125">
+<ORIGINAL_TEXT>fueron citados por el delator Ricardo Pessoa, dueño de la constructora UTC,</ORIGINAL_TEXT>
+<TOKEN id="token-38-0" pos="word" morph="none" start_char="2051" end_char="2056">fueron</TOKEN>
+<TOKEN id="token-38-1" pos="word" morph="none" start_char="2058" end_char="2064">citados</TOKEN>
+<TOKEN id="token-38-2" pos="word" morph="none" start_char="2066" end_char="2068">por</TOKEN>
+<TOKEN id="token-38-3" pos="word" morph="none" start_char="2070" end_char="2071">el</TOKEN>
+<TOKEN id="token-38-4" pos="word" morph="none" start_char="2073" end_char="2079">delator</TOKEN>
+<TOKEN id="token-38-5" pos="word" morph="none" start_char="2081" end_char="2087">Ricardo</TOKEN>
+<TOKEN id="token-38-6" pos="word" morph="none" start_char="2089" end_char="2094">Pessoa</TOKEN>
+<TOKEN id="token-38-7" pos="punct" morph="none" start_char="2095" end_char="2095">,</TOKEN>
+<TOKEN id="token-38-8" pos="word" morph="none" start_char="2097" end_char="2101">dueño</TOKEN>
+<TOKEN id="token-38-9" pos="word" morph="none" start_char="2103" end_char="2104">de</TOKEN>
+<TOKEN id="token-38-10" pos="word" morph="none" start_char="2106" end_char="2107">la</TOKEN>
+<TOKEN id="token-38-11" pos="word" morph="none" start_char="2109" end_char="2120">constructora</TOKEN>
+<TOKEN id="token-38-12" pos="word" morph="none" start_char="2122" end_char="2124">UTC</TOKEN>
+<TOKEN id="token-38-13" pos="punct" morph="none" start_char="2125" end_char="2125">,</TOKEN>
+</SEG>
+<SEG id="segment-39" start_char="2127" end_char="2203">
+<ORIGINAL_TEXT>como beneficiarios de donaciones para financiar campañas. Un detalle: Pessoa,</ORIGINAL_TEXT>
+<TOKEN id="token-39-0" pos="word" morph="none" start_char="2127" end_char="2130">como</TOKEN>
+<TOKEN id="token-39-1" pos="word" morph="none" start_char="2132" end_char="2144">beneficiarios</TOKEN>
+<TOKEN id="token-39-2" pos="word" morph="none" start_char="2146" end_char="2147">de</TOKEN>
+<TOKEN id="token-39-3" pos="word" morph="none" start_char="2149" end_char="2158">donaciones</TOKEN>
+<TOKEN id="token-39-4" pos="word" morph="none" start_char="2160" end_char="2163">para</TOKEN>
+<TOKEN id="token-39-5" pos="word" morph="none" start_char="2165" end_char="2173">financiar</TOKEN>
+<TOKEN id="token-39-6" pos="word" morph="none" start_char="2175" end_char="2182">campañas</TOKEN>
+<TOKEN id="token-39-7" pos="punct" morph="none" start_char="2183" end_char="2183">.</TOKEN>
+<TOKEN id="token-39-8" pos="word" morph="none" start_char="2185" end_char="2186">Un</TOKEN>
+<TOKEN id="token-39-9" pos="word" morph="none" start_char="2188" end_char="2194">detalle</TOKEN>
+<TOKEN id="token-39-10" pos="punct" morph="none" start_char="2195" end_char="2195">:</TOKEN>
+<TOKEN id="token-39-11" pos="word" morph="none" start_char="2197" end_char="2202">Pessoa</TOKEN>
+<TOKEN id="token-39-12" pos="punct" morph="none" start_char="2203" end_char="2203">,</TOKEN>
+</SEG>
+<SEG id="segment-40" start_char="2205" end_char="2282">
+<ORIGINAL_TEXT>en transacciones legales y registradas, también donó a la campaña del opositor</ORIGINAL_TEXT>
+<TOKEN id="token-40-0" pos="word" morph="none" start_char="2205" end_char="2206">en</TOKEN>
+<TOKEN id="token-40-1" pos="word" morph="none" start_char="2208" end_char="2220">transacciones</TOKEN>
+<TOKEN id="token-40-2" pos="word" morph="none" start_char="2222" end_char="2228">legales</TOKEN>
+<TOKEN id="token-40-3" pos="word" morph="none" start_char="2230" end_char="2230">y</TOKEN>
+<TOKEN id="token-40-4" pos="word" morph="none" start_char="2232" end_char="2242">registradas</TOKEN>
+<TOKEN id="token-40-5" pos="punct" morph="none" start_char="2243" end_char="2243">,</TOKEN>
+<TOKEN id="token-40-6" pos="word" morph="none" start_char="2245" end_char="2251">también</TOKEN>
+<TOKEN id="token-40-7" pos="word" morph="none" start_char="2253" end_char="2256">donó</TOKEN>
+<TOKEN id="token-40-8" pos="word" morph="none" start_char="2258" end_char="2258">a</TOKEN>
+<TOKEN id="token-40-9" pos="word" morph="none" start_char="2260" end_char="2261">la</TOKEN>
+<TOKEN id="token-40-10" pos="word" morph="none" start_char="2263" end_char="2269">campaña</TOKEN>
+<TOKEN id="token-40-11" pos="word" morph="none" start_char="2271" end_char="2273">del</TOKEN>
+<TOKEN id="token-40-12" pos="word" morph="none" start_char="2275" end_char="2282">opositor</TOKEN>
+</SEG>
+<SEG id="segment-41" start_char="2284" end_char="2295">
+<ORIGINAL_TEXT>Aécio Neves.</ORIGINAL_TEXT>
+<TOKEN id="token-41-0" pos="word" morph="none" start_char="2284" end_char="2288">Aécio</TOKEN>
+<TOKEN id="token-41-1" pos="word" morph="none" start_char="2290" end_char="2294">Neves</TOKEN>
+<TOKEN id="token-41-2" pos="punct" morph="none" start_char="2295" end_char="2295">.</TOKEN>
+</SEG>
+<SEG id="segment-42" start_char="2297" end_char="2300">
+<ORIGINAL_TEXT>&lt;/P&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-42-0" pos="unknown" morph="none" start_char="2297" end_char="2300">&lt;/P&gt;</TOKEN>
+</SEG>
+<SEG id="segment-43" start_char="2302" end_char="2304">
+<ORIGINAL_TEXT>&lt;P&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-43-0" pos="unknown" morph="none" start_char="2302" end_char="2304">&lt;P&gt;</TOKEN>
+</SEG>
+<SEG id="segment-44" start_char="2306" end_char="2381">
+<ORIGINAL_TEXT>Por eso, la presidenta brasileña criticó lo que consideró como "filtraciones</ORIGINAL_TEXT>
+<TOKEN id="token-44-0" pos="word" morph="none" start_char="2306" end_char="2308">Por</TOKEN>
+<TOKEN id="token-44-1" pos="word" morph="none" start_char="2310" end_char="2312">eso</TOKEN>
+<TOKEN id="token-44-2" pos="punct" morph="none" start_char="2313" end_char="2313">,</TOKEN>
+<TOKEN id="token-44-3" pos="word" morph="none" start_char="2315" end_char="2316">la</TOKEN>
+<TOKEN id="token-44-4" pos="word" morph="none" start_char="2318" end_char="2327">presidenta</TOKEN>
+<TOKEN id="token-44-5" pos="word" morph="none" start_char="2329" end_char="2337">brasileña</TOKEN>
+<TOKEN id="token-44-6" pos="word" morph="none" start_char="2339" end_char="2345">criticó</TOKEN>
+<TOKEN id="token-44-7" pos="word" morph="none" start_char="2347" end_char="2348">lo</TOKEN>
+<TOKEN id="token-44-8" pos="word" morph="none" start_char="2350" end_char="2352">que</TOKEN>
+<TOKEN id="token-44-9" pos="word" morph="none" start_char="2354" end_char="2362">consideró</TOKEN>
+<TOKEN id="token-44-10" pos="word" morph="none" start_char="2364" end_char="2367">como</TOKEN>
+<TOKEN id="token-44-11" pos="punct" morph="none" start_char="2369" end_char="2369">"</TOKEN>
+<TOKEN id="token-44-12" pos="word" morph="none" start_char="2370" end_char="2381">filtraciones</TOKEN>
+</SEG>
+<SEG id="segment-45" start_char="2383" end_char="2461">
+<ORIGINAL_TEXT>selectivas" de las declaraciones del delator, quien está detenido en Brasilia y</ORIGINAL_TEXT>
+<TOKEN id="token-45-0" pos="word" morph="none" start_char="2383" end_char="2392">selectivas</TOKEN>
+<TOKEN id="token-45-1" pos="punct" morph="none" start_char="2393" end_char="2393">"</TOKEN>
+<TOKEN id="token-45-2" pos="word" morph="none" start_char="2395" end_char="2396">de</TOKEN>
+<TOKEN id="token-45-3" pos="word" morph="none" start_char="2398" end_char="2400">las</TOKEN>
+<TOKEN id="token-45-4" pos="word" morph="none" start_char="2402" end_char="2414">declaraciones</TOKEN>
+<TOKEN id="token-45-5" pos="word" morph="none" start_char="2416" end_char="2418">del</TOKEN>
+<TOKEN id="token-45-6" pos="word" morph="none" start_char="2420" end_char="2426">delator</TOKEN>
+<TOKEN id="token-45-7" pos="punct" morph="none" start_char="2427" end_char="2427">,</TOKEN>
+<TOKEN id="token-45-8" pos="word" morph="none" start_char="2429" end_char="2433">quien</TOKEN>
+<TOKEN id="token-45-9" pos="word" morph="none" start_char="2435" end_char="2438">está</TOKEN>
+<TOKEN id="token-45-10" pos="word" morph="none" start_char="2440" end_char="2447">detenido</TOKEN>
+<TOKEN id="token-45-11" pos="word" morph="none" start_char="2449" end_char="2450">en</TOKEN>
+<TOKEN id="token-45-12" pos="word" morph="none" start_char="2452" end_char="2459">Brasilia</TOKEN>
+<TOKEN id="token-45-13" pos="word" morph="none" start_char="2461" end_char="2461">y</TOKEN>
+</SEG>
+<SEG id="segment-46" start_char="2463" end_char="2541">
+<ORIGINAL_TEXT>se acogió a la figura legal de la delación premiada para ser beneficiado por la</ORIGINAL_TEXT>
+<TOKEN id="token-46-0" pos="word" morph="none" start_char="2463" end_char="2464">se</TOKEN>
+<TOKEN id="token-46-1" pos="word" morph="none" start_char="2466" end_char="2471">acogió</TOKEN>
+<TOKEN id="token-46-2" pos="word" morph="none" start_char="2473" end_char="2473">a</TOKEN>
+<TOKEN id="token-46-3" pos="word" morph="none" start_char="2475" end_char="2476">la</TOKEN>
+<TOKEN id="token-46-4" pos="word" morph="none" start_char="2478" end_char="2483">figura</TOKEN>
+<TOKEN id="token-46-5" pos="word" morph="none" start_char="2485" end_char="2489">legal</TOKEN>
+<TOKEN id="token-46-6" pos="word" morph="none" start_char="2491" end_char="2492">de</TOKEN>
+<TOKEN id="token-46-7" pos="word" morph="none" start_char="2494" end_char="2495">la</TOKEN>
+<TOKEN id="token-46-8" pos="word" morph="none" start_char="2497" end_char="2504">delación</TOKEN>
+<TOKEN id="token-46-9" pos="word" morph="none" start_char="2506" end_char="2513">premiada</TOKEN>
+<TOKEN id="token-46-10" pos="word" morph="none" start_char="2515" end_char="2518">para</TOKEN>
+<TOKEN id="token-46-11" pos="word" morph="none" start_char="2520" end_char="2522">ser</TOKEN>
+<TOKEN id="token-46-12" pos="word" morph="none" start_char="2524" end_char="2534">beneficiado</TOKEN>
+<TOKEN id="token-46-13" pos="word" morph="none" start_char="2536" end_char="2538">por</TOKEN>
+<TOKEN id="token-46-14" pos="word" morph="none" start_char="2540" end_char="2541">la</TOKEN>
+</SEG>
+<SEG id="segment-47" start_char="2543" end_char="2551">
+<ORIGINAL_TEXT>justicia.</ORIGINAL_TEXT>
+<TOKEN id="token-47-0" pos="word" morph="none" start_char="2543" end_char="2550">justicia</TOKEN>
+<TOKEN id="token-47-1" pos="punct" morph="none" start_char="2551" end_char="2551">.</TOKEN>
+</SEG>
+<SEG id="segment-48" start_char="2553" end_char="2556">
+<ORIGINAL_TEXT>&lt;/P&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-48-0" pos="unknown" morph="none" start_char="2553" end_char="2556">&lt;/P&gt;</TOKEN>
+</SEG>
+<SEG id="segment-49" start_char="2558" end_char="2560">
+<ORIGINAL_TEXT>&lt;P&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-49-0" pos="unknown" morph="none" start_char="2558" end_char="2560">&lt;P&gt;</TOKEN>
+</SEG>
+<SEG id="segment-50" start_char="2562" end_char="2638">
+<ORIGINAL_TEXT>"Extrañamente hay una filtración selectiva (...) Pueden hablar lo que quieran</ORIGINAL_TEXT>
+<TOKEN id="token-50-0" pos="punct" morph="none" start_char="2562" end_char="2562">"</TOKEN>
+<TOKEN id="token-50-1" pos="word" morph="none" start_char="2563" end_char="2574">Extrañamente</TOKEN>
+<TOKEN id="token-50-2" pos="word" morph="none" start_char="2576" end_char="2578">hay</TOKEN>
+<TOKEN id="token-50-3" pos="word" morph="none" start_char="2580" end_char="2582">una</TOKEN>
+<TOKEN id="token-50-4" pos="word" morph="none" start_char="2584" end_char="2593">filtración</TOKEN>
+<TOKEN id="token-50-5" pos="word" morph="none" start_char="2595" end_char="2603">selectiva</TOKEN>
+<TOKEN id="token-50-6" pos="unknown" morph="none" start_char="2605" end_char="2609">(...)</TOKEN>
+<TOKEN id="token-50-7" pos="word" morph="none" start_char="2611" end_char="2616">Pueden</TOKEN>
+<TOKEN id="token-50-8" pos="word" morph="none" start_char="2618" end_char="2623">hablar</TOKEN>
+<TOKEN id="token-50-9" pos="word" morph="none" start_char="2625" end_char="2626">lo</TOKEN>
+<TOKEN id="token-50-10" pos="word" morph="none" start_char="2628" end_char="2630">que</TOKEN>
+<TOKEN id="token-50-11" pos="word" morph="none" start_char="2632" end_char="2638">quieran</TOKEN>
+</SEG>
+<SEG id="segment-51" start_char="2640" end_char="2717">
+<ORIGINAL_TEXT>porque aquellos que son mencionados no tienen cómo defenderse, porque no saben</ORIGINAL_TEXT>
+<TOKEN id="token-51-0" pos="word" morph="none" start_char="2640" end_char="2645">porque</TOKEN>
+<TOKEN id="token-51-1" pos="word" morph="none" start_char="2647" end_char="2654">aquellos</TOKEN>
+<TOKEN id="token-51-2" pos="word" morph="none" start_char="2656" end_char="2658">que</TOKEN>
+<TOKEN id="token-51-3" pos="word" morph="none" start_char="2660" end_char="2662">son</TOKEN>
+<TOKEN id="token-51-4" pos="word" morph="none" start_char="2664" end_char="2674">mencionados</TOKEN>
+<TOKEN id="token-51-5" pos="word" morph="none" start_char="2676" end_char="2677">no</TOKEN>
+<TOKEN id="token-51-6" pos="word" morph="none" start_char="2679" end_char="2684">tienen</TOKEN>
+<TOKEN id="token-51-7" pos="word" morph="none" start_char="2686" end_char="2689">cómo</TOKEN>
+<TOKEN id="token-51-8" pos="word" morph="none" start_char="2691" end_char="2700">defenderse</TOKEN>
+<TOKEN id="token-51-9" pos="punct" morph="none" start_char="2701" end_char="2701">,</TOKEN>
+<TOKEN id="token-51-10" pos="word" morph="none" start_char="2703" end_char="2708">porque</TOKEN>
+<TOKEN id="token-51-11" pos="word" morph="none" start_char="2710" end_char="2711">no</TOKEN>
+<TOKEN id="token-51-12" pos="word" morph="none" start_char="2713" end_char="2717">saben</TOKEN>
+</SEG>
+<SEG id="segment-52" start_char="2719" end_char="2772">
+<ORIGINAL_TEXT>de lo que son acusados", dijo Dilma, al lado de Obama.</ORIGINAL_TEXT>
+<TOKEN id="token-52-0" pos="word" morph="none" start_char="2719" end_char="2720">de</TOKEN>
+<TOKEN id="token-52-1" pos="word" morph="none" start_char="2722" end_char="2723">lo</TOKEN>
+<TOKEN id="token-52-2" pos="word" morph="none" start_char="2725" end_char="2727">que</TOKEN>
+<TOKEN id="token-52-3" pos="word" morph="none" start_char="2729" end_char="2731">son</TOKEN>
+<TOKEN id="token-52-4" pos="word" morph="none" start_char="2733" end_char="2740">acusados</TOKEN>
+<TOKEN id="token-52-5" pos="punct" morph="none" start_char="2741" end_char="2742">",</TOKEN>
+<TOKEN id="token-52-6" pos="word" morph="none" start_char="2744" end_char="2747">dijo</TOKEN>
+<TOKEN id="token-52-7" pos="word" morph="none" start_char="2749" end_char="2753">Dilma</TOKEN>
+<TOKEN id="token-52-8" pos="punct" morph="none" start_char="2754" end_char="2754">,</TOKEN>
+<TOKEN id="token-52-9" pos="word" morph="none" start_char="2756" end_char="2757">al</TOKEN>
+<TOKEN id="token-52-10" pos="word" morph="none" start_char="2759" end_char="2762">lado</TOKEN>
+<TOKEN id="token-52-11" pos="word" morph="none" start_char="2764" end_char="2765">de</TOKEN>
+<TOKEN id="token-52-12" pos="word" morph="none" start_char="2767" end_char="2771">Obama</TOKEN>
+<TOKEN id="token-52-13" pos="punct" morph="none" start_char="2772" end_char="2772">.</TOKEN>
+</SEG>
+<SEG id="segment-53" start_char="2774" end_char="2777">
+<ORIGINAL_TEXT>&lt;/P&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-53-0" pos="unknown" morph="none" start_char="2774" end_char="2777">&lt;/P&gt;</TOKEN>
+</SEG>
+<SEG id="segment-54" start_char="2779" end_char="2781">
+<ORIGINAL_TEXT>&lt;P&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-54-0" pos="unknown" morph="none" start_char="2779" end_char="2781">&lt;P&gt;</TOKEN>
+</SEG>
+<SEG id="segment-55" start_char="2783" end_char="2856">
+<ORIGINAL_TEXT>"Nunca despedí a un ministro, o acepté que la prensa nombrara o despidiera</ORIGINAL_TEXT>
+<TOKEN id="token-55-0" pos="punct" morph="none" start_char="2783" end_char="2783">"</TOKEN>
+<TOKEN id="token-55-1" pos="word" morph="none" start_char="2784" end_char="2788">Nunca</TOKEN>
+<TOKEN id="token-55-2" pos="word" morph="none" start_char="2790" end_char="2796">despedí</TOKEN>
+<TOKEN id="token-55-3" pos="word" morph="none" start_char="2798" end_char="2798">a</TOKEN>
+<TOKEN id="token-55-4" pos="word" morph="none" start_char="2800" end_char="2801">un</TOKEN>
+<TOKEN id="token-55-5" pos="word" morph="none" start_char="2803" end_char="2810">ministro</TOKEN>
+<TOKEN id="token-55-6" pos="punct" morph="none" start_char="2811" end_char="2811">,</TOKEN>
+<TOKEN id="token-55-7" pos="word" morph="none" start_char="2813" end_char="2813">o</TOKEN>
+<TOKEN id="token-55-8" pos="word" morph="none" start_char="2815" end_char="2820">acepté</TOKEN>
+<TOKEN id="token-55-9" pos="word" morph="none" start_char="2822" end_char="2824">que</TOKEN>
+<TOKEN id="token-55-10" pos="word" morph="none" start_char="2826" end_char="2827">la</TOKEN>
+<TOKEN id="token-55-11" pos="word" morph="none" start_char="2829" end_char="2834">prensa</TOKEN>
+<TOKEN id="token-55-12" pos="word" morph="none" start_char="2836" end_char="2843">nombrara</TOKEN>
+<TOKEN id="token-55-13" pos="word" morph="none" start_char="2845" end_char="2845">o</TOKEN>
+<TOKEN id="token-55-14" pos="word" morph="none" start_char="2847" end_char="2856">despidiera</TOKEN>
+</SEG>
+<SEG id="segment-56" start_char="2858" end_char="2934">
+<ORIGINAL_TEXT>ministros. Y siendo así, voy a esperar toda la divulgación de los hechos para</ORIGINAL_TEXT>
+<TOKEN id="token-56-0" pos="word" morph="none" start_char="2858" end_char="2866">ministros</TOKEN>
+<TOKEN id="token-56-1" pos="punct" morph="none" start_char="2867" end_char="2867">.</TOKEN>
+<TOKEN id="token-56-2" pos="word" morph="none" start_char="2869" end_char="2869">Y</TOKEN>
+<TOKEN id="token-56-3" pos="word" morph="none" start_char="2871" end_char="2876">siendo</TOKEN>
+<TOKEN id="token-56-4" pos="word" morph="none" start_char="2878" end_char="2880">así</TOKEN>
+<TOKEN id="token-56-5" pos="punct" morph="none" start_char="2881" end_char="2881">,</TOKEN>
+<TOKEN id="token-56-6" pos="word" morph="none" start_char="2883" end_char="2885">voy</TOKEN>
+<TOKEN id="token-56-7" pos="word" morph="none" start_char="2887" end_char="2887">a</TOKEN>
+<TOKEN id="token-56-8" pos="word" morph="none" start_char="2889" end_char="2895">esperar</TOKEN>
+<TOKEN id="token-56-9" pos="word" morph="none" start_char="2897" end_char="2900">toda</TOKEN>
+<TOKEN id="token-56-10" pos="word" morph="none" start_char="2902" end_char="2903">la</TOKEN>
+<TOKEN id="token-56-11" pos="word" morph="none" start_char="2905" end_char="2915">divulgación</TOKEN>
+<TOKEN id="token-56-12" pos="word" morph="none" start_char="2917" end_char="2918">de</TOKEN>
+<TOKEN id="token-56-13" pos="word" morph="none" start_char="2920" end_char="2922">los</TOKEN>
+<TOKEN id="token-56-14" pos="word" morph="none" start_char="2924" end_char="2929">hechos</TOKEN>
+<TOKEN id="token-56-15" pos="word" morph="none" start_char="2931" end_char="2934">para</TOKEN>
+</SEG>
+<SEG id="segment-57" start_char="2936" end_char="3010">
+<ORIGINAL_TEXT>evaluar la situación", agregó la jefa de Estado, recordando que el gobierno</ORIGINAL_TEXT>
+<TOKEN id="token-57-0" pos="word" morph="none" start_char="2936" end_char="2942">evaluar</TOKEN>
+<TOKEN id="token-57-1" pos="word" morph="none" start_char="2944" end_char="2945">la</TOKEN>
+<TOKEN id="token-57-2" pos="word" morph="none" start_char="2947" end_char="2955">situación</TOKEN>
+<TOKEN id="token-57-3" pos="punct" morph="none" start_char="2956" end_char="2957">",</TOKEN>
+<TOKEN id="token-57-4" pos="word" morph="none" start_char="2959" end_char="2964">agregó</TOKEN>
+<TOKEN id="token-57-5" pos="word" morph="none" start_char="2966" end_char="2967">la</TOKEN>
+<TOKEN id="token-57-6" pos="word" morph="none" start_char="2969" end_char="2972">jefa</TOKEN>
+<TOKEN id="token-57-7" pos="word" morph="none" start_char="2974" end_char="2975">de</TOKEN>
+<TOKEN id="token-57-8" pos="word" morph="none" start_char="2977" end_char="2982">Estado</TOKEN>
+<TOKEN id="token-57-9" pos="punct" morph="none" start_char="2983" end_char="2983">,</TOKEN>
+<TOKEN id="token-57-10" pos="word" morph="none" start_char="2985" end_char="2994">recordando</TOKEN>
+<TOKEN id="token-57-11" pos="word" morph="none" start_char="2996" end_char="2998">que</TOKEN>
+<TOKEN id="token-57-12" pos="word" morph="none" start_char="3000" end_char="3001">el</TOKEN>
+<TOKEN id="token-57-13" pos="word" morph="none" start_char="3003" end_char="3010">gobierno</TOKEN>
+</SEG>
+<SEG id="segment-58" start_char="3012" end_char="3071">
+<ORIGINAL_TEXT>brasileño no ha tenido acceso a las declaraciones de Pessoa.</ORIGINAL_TEXT>
+<TOKEN id="token-58-0" pos="word" morph="none" start_char="3012" end_char="3020">brasileño</TOKEN>
+<TOKEN id="token-58-1" pos="word" morph="none" start_char="3022" end_char="3023">no</TOKEN>
+<TOKEN id="token-58-2" pos="word" morph="none" start_char="3025" end_char="3026">ha</TOKEN>
+<TOKEN id="token-58-3" pos="word" morph="none" start_char="3028" end_char="3033">tenido</TOKEN>
+<TOKEN id="token-58-4" pos="word" morph="none" start_char="3035" end_char="3040">acceso</TOKEN>
+<TOKEN id="token-58-5" pos="word" morph="none" start_char="3042" end_char="3042">a</TOKEN>
+<TOKEN id="token-58-6" pos="word" morph="none" start_char="3044" end_char="3046">las</TOKEN>
+<TOKEN id="token-58-7" pos="word" morph="none" start_char="3048" end_char="3060">declaraciones</TOKEN>
+<TOKEN id="token-58-8" pos="word" morph="none" start_char="3062" end_char="3063">de</TOKEN>
+<TOKEN id="token-58-9" pos="word" morph="none" start_char="3065" end_char="3070">Pessoa</TOKEN>
+<TOKEN id="token-58-10" pos="punct" morph="none" start_char="3071" end_char="3071">.</TOKEN>
+</SEG>
+<SEG id="segment-59" start_char="3073" end_char="3076">
+<ORIGINAL_TEXT>&lt;/P&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-59-0" pos="unknown" morph="none" start_char="3073" end_char="3076">&lt;/P&gt;</TOKEN>
+</SEG>
+<SEG id="segment-60" start_char="3078" end_char="3080">
+<ORIGINAL_TEXT>&lt;P&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-60-0" pos="unknown" morph="none" start_char="3078" end_char="3080">&lt;P&gt;</TOKEN>
+</SEG>
+<SEG id="segment-61" start_char="3082" end_char="3154">
+<ORIGINAL_TEXT>La mandataria respondió también a preguntas sobre la seguridad que Brasil</ORIGINAL_TEXT>
+<TOKEN id="token-61-0" pos="word" morph="none" start_char="3082" end_char="3083">La</TOKEN>
+<TOKEN id="token-61-1" pos="word" morph="none" start_char="3085" end_char="3094">mandataria</TOKEN>
+<TOKEN id="token-61-2" pos="word" morph="none" start_char="3096" end_char="3104">respondió</TOKEN>
+<TOKEN id="token-61-3" pos="word" morph="none" start_char="3106" end_char="3112">también</TOKEN>
+<TOKEN id="token-61-4" pos="word" morph="none" start_char="3114" end_char="3114">a</TOKEN>
+<TOKEN id="token-61-5" pos="word" morph="none" start_char="3116" end_char="3124">preguntas</TOKEN>
+<TOKEN id="token-61-6" pos="word" morph="none" start_char="3126" end_char="3130">sobre</TOKEN>
+<TOKEN id="token-61-7" pos="word" morph="none" start_char="3132" end_char="3133">la</TOKEN>
+<TOKEN id="token-61-8" pos="word" morph="none" start_char="3135" end_char="3143">seguridad</TOKEN>
+<TOKEN id="token-61-9" pos="word" morph="none" start_char="3145" end_char="3147">que</TOKEN>
+<TOKEN id="token-61-10" pos="word" morph="none" start_char="3149" end_char="3154">Brasil</TOKEN>
+</SEG>
+<SEG id="segment-62" start_char="3156" end_char="3233">
+<ORIGINAL_TEXT>brindará en los Juegos Olímpicos del 2016, en Río de Janeiro, a cuya ceremonia</ORIGINAL_TEXT>
+<TOKEN id="token-62-0" pos="word" morph="none" start_char="3156" end_char="3163">brindará</TOKEN>
+<TOKEN id="token-62-1" pos="word" morph="none" start_char="3165" end_char="3166">en</TOKEN>
+<TOKEN id="token-62-2" pos="word" morph="none" start_char="3168" end_char="3170">los</TOKEN>
+<TOKEN id="token-62-3" pos="word" morph="none" start_char="3172" end_char="3177">Juegos</TOKEN>
+<TOKEN id="token-62-4" pos="word" morph="none" start_char="3179" end_char="3187">Olímpicos</TOKEN>
+<TOKEN id="token-62-5" pos="word" morph="none" start_char="3189" end_char="3191">del</TOKEN>
+<TOKEN id="token-62-6" pos="word" morph="none" start_char="3193" end_char="3196">2016</TOKEN>
+<TOKEN id="token-62-7" pos="punct" morph="none" start_char="3197" end_char="3197">,</TOKEN>
+<TOKEN id="token-62-8" pos="word" morph="none" start_char="3199" end_char="3200">en</TOKEN>
+<TOKEN id="token-62-9" pos="word" morph="none" start_char="3202" end_char="3204">Río</TOKEN>
+<TOKEN id="token-62-10" pos="word" morph="none" start_char="3206" end_char="3207">de</TOKEN>
+<TOKEN id="token-62-11" pos="word" morph="none" start_char="3209" end_char="3215">Janeiro</TOKEN>
+<TOKEN id="token-62-12" pos="punct" morph="none" start_char="3216" end_char="3216">,</TOKEN>
+<TOKEN id="token-62-13" pos="word" morph="none" start_char="3218" end_char="3218">a</TOKEN>
+<TOKEN id="token-62-14" pos="word" morph="none" start_char="3220" end_char="3223">cuya</TOKEN>
+<TOKEN id="token-62-15" pos="word" morph="none" start_char="3225" end_char="3233">ceremonia</TOKEN>
+</SEG>
+<SEG id="segment-63" start_char="3235" end_char="3307">
+<ORIGINAL_TEXT>inaugural fue invitado Obama, y sobre el caso de espionaje que la llevó a</ORIGINAL_TEXT>
+<TOKEN id="token-63-0" pos="word" morph="none" start_char="3235" end_char="3243">inaugural</TOKEN>
+<TOKEN id="token-63-1" pos="word" morph="none" start_char="3245" end_char="3247">fue</TOKEN>
+<TOKEN id="token-63-2" pos="word" morph="none" start_char="3249" end_char="3256">invitado</TOKEN>
+<TOKEN id="token-63-3" pos="word" morph="none" start_char="3258" end_char="3262">Obama</TOKEN>
+<TOKEN id="token-63-4" pos="punct" morph="none" start_char="3263" end_char="3263">,</TOKEN>
+<TOKEN id="token-63-5" pos="word" morph="none" start_char="3265" end_char="3265">y</TOKEN>
+<TOKEN id="token-63-6" pos="word" morph="none" start_char="3267" end_char="3271">sobre</TOKEN>
+<TOKEN id="token-63-7" pos="word" morph="none" start_char="3273" end_char="3274">el</TOKEN>
+<TOKEN id="token-63-8" pos="word" morph="none" start_char="3276" end_char="3279">caso</TOKEN>
+<TOKEN id="token-63-9" pos="word" morph="none" start_char="3281" end_char="3282">de</TOKEN>
+<TOKEN id="token-63-10" pos="word" morph="none" start_char="3284" end_char="3292">espionaje</TOKEN>
+<TOKEN id="token-63-11" pos="word" morph="none" start_char="3294" end_char="3296">que</TOKEN>
+<TOKEN id="token-63-12" pos="word" morph="none" start_char="3298" end_char="3299">la</TOKEN>
+<TOKEN id="token-63-13" pos="word" morph="none" start_char="3301" end_char="3305">llevó</TOKEN>
+<TOKEN id="token-63-14" pos="word" morph="none" start_char="3307" end_char="3307">a</TOKEN>
+</SEG>
+<SEG id="segment-64" start_char="3309" end_char="3353">
+<ORIGINAL_TEXT>suspender en el 2013 una visita a Washington.</ORIGINAL_TEXT>
+<TOKEN id="token-64-0" pos="word" morph="none" start_char="3309" end_char="3317">suspender</TOKEN>
+<TOKEN id="token-64-1" pos="word" morph="none" start_char="3319" end_char="3320">en</TOKEN>
+<TOKEN id="token-64-2" pos="word" morph="none" start_char="3322" end_char="3323">el</TOKEN>
+<TOKEN id="token-64-3" pos="number" morph="none" start_char="3325" end_char="3328">2013</TOKEN>
+<TOKEN id="token-64-4" pos="word" morph="none" start_char="3330" end_char="3332">una</TOKEN>
+<TOKEN id="token-64-5" pos="word" morph="none" start_char="3334" end_char="3339">visita</TOKEN>
+<TOKEN id="token-64-6" pos="word" morph="none" start_char="3341" end_char="3341">a</TOKEN>
+<TOKEN id="token-64-7" pos="word" morph="none" start_char="3343" end_char="3352">Washington</TOKEN>
+<TOKEN id="token-64-8" pos="punct" morph="none" start_char="3353" end_char="3353">.</TOKEN>
+</SEG>
+<SEG id="segment-65" start_char="3355" end_char="3358">
+<ORIGINAL_TEXT>&lt;/P&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-65-0" pos="unknown" morph="none" start_char="3355" end_char="3358">&lt;/P&gt;</TOKEN>
+</SEG>
+<SEG id="segment-66" start_char="3360" end_char="3362">
+<ORIGINAL_TEXT>&lt;P&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-66-0" pos="unknown" morph="none" start_char="3360" end_char="3362">&lt;P&gt;</TOKEN>
+</SEG>
+<SEG id="segment-67" start_char="3364" end_char="3441">
+<ORIGINAL_TEXT>"Desde ese momento hasta ahora algunas cosas cambiaron. Y el cambio se debe al</ORIGINAL_TEXT>
+<TOKEN id="token-67-0" pos="punct" morph="none" start_char="3364" end_char="3364">"</TOKEN>
+<TOKEN id="token-67-1" pos="word" morph="none" start_char="3365" end_char="3369">Desde</TOKEN>
+<TOKEN id="token-67-2" pos="word" morph="none" start_char="3371" end_char="3373">ese</TOKEN>
+<TOKEN id="token-67-3" pos="word" morph="none" start_char="3375" end_char="3381">momento</TOKEN>
+<TOKEN id="token-67-4" pos="word" morph="none" start_char="3383" end_char="3387">hasta</TOKEN>
+<TOKEN id="token-67-5" pos="word" morph="none" start_char="3389" end_char="3393">ahora</TOKEN>
+<TOKEN id="token-67-6" pos="word" morph="none" start_char="3395" end_char="3401">algunas</TOKEN>
+<TOKEN id="token-67-7" pos="word" morph="none" start_char="3403" end_char="3407">cosas</TOKEN>
+<TOKEN id="token-67-8" pos="word" morph="none" start_char="3409" end_char="3417">cambiaron</TOKEN>
+<TOKEN id="token-67-9" pos="punct" morph="none" start_char="3418" end_char="3418">.</TOKEN>
+<TOKEN id="token-67-10" pos="word" morph="none" start_char="3420" end_char="3420">Y</TOKEN>
+<TOKEN id="token-67-11" pos="word" morph="none" start_char="3422" end_char="3423">el</TOKEN>
+<TOKEN id="token-67-12" pos="word" morph="none" start_char="3425" end_char="3430">cambio</TOKEN>
+<TOKEN id="token-67-13" pos="word" morph="none" start_char="3432" end_char="3433">se</TOKEN>
+<TOKEN id="token-67-14" pos="word" morph="none" start_char="3435" end_char="3438">debe</TOKEN>
+<TOKEN id="token-67-15" pos="word" morph="none" start_char="3440" end_char="3441">al</TOKEN>
+</SEG>
+<SEG id="segment-68" start_char="3443" end_char="3521">
+<ORIGINAL_TEXT>hecho de que el presidente Obama y el gobierno de Estados Unidos han declarado,</ORIGINAL_TEXT>
+<TOKEN id="token-68-0" pos="word" morph="none" start_char="3443" end_char="3447">hecho</TOKEN>
+<TOKEN id="token-68-1" pos="word" morph="none" start_char="3449" end_char="3450">de</TOKEN>
+<TOKEN id="token-68-2" pos="word" morph="none" start_char="3452" end_char="3454">que</TOKEN>
+<TOKEN id="token-68-3" pos="word" morph="none" start_char="3456" end_char="3457">el</TOKEN>
+<TOKEN id="token-68-4" pos="word" morph="none" start_char="3459" end_char="3468">presidente</TOKEN>
+<TOKEN id="token-68-5" pos="word" morph="none" start_char="3470" end_char="3474">Obama</TOKEN>
+<TOKEN id="token-68-6" pos="word" morph="none" start_char="3476" end_char="3476">y</TOKEN>
+<TOKEN id="token-68-7" pos="word" morph="none" start_char="3478" end_char="3479">el</TOKEN>
+<TOKEN id="token-68-8" pos="word" morph="none" start_char="3481" end_char="3488">gobierno</TOKEN>
+<TOKEN id="token-68-9" pos="word" morph="none" start_char="3490" end_char="3491">de</TOKEN>
+<TOKEN id="token-68-10" pos="word" morph="none" start_char="3493" end_char="3499">Estados</TOKEN>
+<TOKEN id="token-68-11" pos="word" morph="none" start_char="3501" end_char="3506">Unidos</TOKEN>
+<TOKEN id="token-68-12" pos="word" morph="none" start_char="3508" end_char="3510">han</TOKEN>
+<TOKEN id="token-68-13" pos="word" morph="none" start_char="3512" end_char="3520">declarado</TOKEN>
+<TOKEN id="token-68-14" pos="punct" morph="none" start_char="3521" end_char="3521">,</TOKEN>
+</SEG>
+<SEG id="segment-69" start_char="3523" end_char="3600">
+<ORIGINAL_TEXT>en varias oportunidades, que no harán más actos de intrusión en países amigos.</ORIGINAL_TEXT>
+<TOKEN id="token-69-0" pos="word" morph="none" start_char="3523" end_char="3524">en</TOKEN>
+<TOKEN id="token-69-1" pos="word" morph="none" start_char="3526" end_char="3531">varias</TOKEN>
+<TOKEN id="token-69-2" pos="word" morph="none" start_char="3533" end_char="3545">oportunidades</TOKEN>
+<TOKEN id="token-69-3" pos="punct" morph="none" start_char="3546" end_char="3546">,</TOKEN>
+<TOKEN id="token-69-4" pos="word" morph="none" start_char="3548" end_char="3550">que</TOKEN>
+<TOKEN id="token-69-5" pos="word" morph="none" start_char="3552" end_char="3553">no</TOKEN>
+<TOKEN id="token-69-6" pos="word" morph="none" start_char="3555" end_char="3559">harán</TOKEN>
+<TOKEN id="token-69-7" pos="word" morph="none" start_char="3561" end_char="3563">más</TOKEN>
+<TOKEN id="token-69-8" pos="word" morph="none" start_char="3565" end_char="3569">actos</TOKEN>
+<TOKEN id="token-69-9" pos="word" morph="none" start_char="3571" end_char="3572">de</TOKEN>
+<TOKEN id="token-69-10" pos="word" morph="none" start_char="3574" end_char="3582">intrusión</TOKEN>
+<TOKEN id="token-69-11" pos="word" morph="none" start_char="3584" end_char="3585">en</TOKEN>
+<TOKEN id="token-69-12" pos="word" morph="none" start_char="3587" end_char="3592">países</TOKEN>
+<TOKEN id="token-69-13" pos="word" morph="none" start_char="3594" end_char="3599">amigos</TOKEN>
+<TOKEN id="token-69-14" pos="punct" morph="none" start_char="3600" end_char="3600">.</TOKEN>
+</SEG>
+<SEG id="segment-70" start_char="3602" end_char="3645">
+<ORIGINAL_TEXT>Yo creo en el presidente Obama", dijo Dilma.</ORIGINAL_TEXT>
+<TOKEN id="token-70-0" pos="word" morph="none" start_char="3602" end_char="3603">Yo</TOKEN>
+<TOKEN id="token-70-1" pos="word" morph="none" start_char="3605" end_char="3608">creo</TOKEN>
+<TOKEN id="token-70-2" pos="word" morph="none" start_char="3610" end_char="3611">en</TOKEN>
+<TOKEN id="token-70-3" pos="word" morph="none" start_char="3613" end_char="3614">el</TOKEN>
+<TOKEN id="token-70-4" pos="word" morph="none" start_char="3616" end_char="3625">presidente</TOKEN>
+<TOKEN id="token-70-5" pos="word" morph="none" start_char="3627" end_char="3631">Obama</TOKEN>
+<TOKEN id="token-70-6" pos="punct" morph="none" start_char="3632" end_char="3633">",</TOKEN>
+<TOKEN id="token-70-7" pos="word" morph="none" start_char="3635" end_char="3638">dijo</TOKEN>
+<TOKEN id="token-70-8" pos="word" morph="none" start_char="3640" end_char="3644">Dilma</TOKEN>
+<TOKEN id="token-70-9" pos="punct" morph="none" start_char="3645" end_char="3645">.</TOKEN>
+</SEG>
+<SEG id="segment-71" start_char="3647" end_char="3650">
+<ORIGINAL_TEXT>&lt;/P&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-71-0" pos="unknown" morph="none" start_char="3647" end_char="3650">&lt;/P&gt;</TOKEN>
+</SEG>
+<SEG id="segment-72" start_char="3652" end_char="3658">
+<ORIGINAL_TEXT>&lt;/TEXT&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-72-0" pos="unknown" morph="none" start_char="3652" end_char="3658">&lt;/TEXT&gt;</TOKEN>
+</SEG>
+<SEG id="segment-73" start_char="3660" end_char="3665">
+<ORIGINAL_TEXT>&lt;/DOC&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-73-0" pos="unknown" morph="none" start_char="3660" end_char="3665">&lt;/DOC&gt;</TOKEN>
+</SEG>
+</TEXT>
+</DOC>
+</LCTL_TEXT>

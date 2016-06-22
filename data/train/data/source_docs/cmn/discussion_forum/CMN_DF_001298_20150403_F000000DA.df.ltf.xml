@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LCTL_TEXT>
+  <DOC id="CMN_DF_001298_20150403_F000000DA.df.xml" tokenization="tokenization_parameters" grammar="none" raw_text_char_length="566" raw_text_md5="4951208811a239f17c589877a2fcd423">
+    <TEXT>
+      <SEG id="segment-0" start_char="0" end_char="37">
+        <ORIGINAL_TEXT>&lt;?xml version="1.0" encoding="utf-8"?&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-0-0" pos="unknown" morph="none" start_char="0" end_char="4">&lt;?xml</TOKEN>
+        <TOKEN id="token-0-1" pos="unknown" morph="none" start_char="6" end_char="18">version="1.0"</TOKEN>
+        <TOKEN id="token-0-2" pos="unknown" morph="none" start_char="20" end_char="37">encoding="utf-8"?&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-1" start_char="39" end_char="81">
+        <ORIGINAL_TEXT>&lt;doc id="CMN_DF_001298_20150403_F000000DA"&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-1-0" pos="unknown" morph="none" start_char="39" end_char="42">&lt;doc</TOKEN>
+        <TOKEN id="token-1-1" pos="unknown" morph="none" start_char="44" end_char="81">id="CMN_DF_001298_20150403_F000000DA"&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-2" start_char="83" end_char="92">
+        <ORIGINAL_TEXT>&lt;headline&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-2-0" pos="unknown" morph="none" start_char="83" end_char="92">&lt;headline&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-3" start_char="94" end_char="118">
+        <ORIGINAL_TEXT>肯尼亚大学遭索马里青年党恐怖袭击 147死179伤</ORIGINAL_TEXT>
+        <TOKEN id="token-3-0" pos="word" morph="none" start_char="94" end_char="109">肯尼亚大学遭索马里青年党恐怖袭击</TOKEN>
+        <TOKEN id="token-3-1" pos="word" morph="none" start_char="111" end_char="118">147死179伤</TOKEN>
+      </SEG>
+      <SEG id="segment-4" start_char="120" end_char="130">
+        <ORIGINAL_TEXT>&lt;/headline&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-4-0" pos="unknown" morph="none" start_char="120" end_char="130">&lt;/headline&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-5" start_char="132" end_char="202">
+        <ORIGINAL_TEXT>&lt;post id="p1" author="ym_0531@126.com " datetime="2015-04-03T10:37:00"&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-5-0" pos="unknown" morph="none" start_char="132" end_char="136">&lt;post</TOKEN>
+        <TOKEN id="token-5-1" pos="unknown" morph="none" start_char="138" end_char="144">id="p1"</TOKEN>
+        <TOKEN id="token-5-2" pos="email" morph="none" start_char="146" end_char="168">author="ym_0531@126.com</TOKEN>
+        <TOKEN id="token-5-3" pos="unknown" morph="none" start_char="170" end_char="170">"</TOKEN>
+        <TOKEN id="token-5-4" pos="unknown" morph="none" start_char="172" end_char="202">datetime="2015-04-03T10:37:00"&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-6" start_char="204" end_char="221">
+        <ORIGINAL_TEXT>肯尼亚，多好的一个旅游地方啊。。。。</ORIGINAL_TEXT>
+        <TOKEN id="token-6-0" pos="word" morph="none" start_char="204" end_char="206">肯尼亚</TOKEN>
+        <TOKEN id="token-6-1" pos="punct" morph="none" start_char="207" end_char="207">，</TOKEN>
+        <TOKEN id="token-6-2" pos="word" morph="none" start_char="208" end_char="217">多好的一个旅游地方啊</TOKEN>
+        <TOKEN id="token-6-3" pos="punct" morph="none" start_char="218" end_char="221">。。。。</TOKEN>
+      </SEG>
+      <SEG id="segment-7" start_char="223" end_char="229">
+        <ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-7-0" pos="unknown" morph="none" start_char="223" end_char="229">&lt;/post&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-8" start_char="231" end_char="295">
+        <ORIGINAL_TEXT>&lt;post id="p2" author="kinzhang7 " datetime="2015-04-03T16:06:00"&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-8-0" pos="unknown" morph="none" start_char="231" end_char="235">&lt;post</TOKEN>
+        <TOKEN id="token-8-1" pos="unknown" morph="none" start_char="237" end_char="243">id="p2"</TOKEN>
+        <TOKEN id="token-8-2" pos="unknown" morph="none" start_char="245" end_char="261">author="kinzhang7</TOKEN>
+        <TOKEN id="token-8-3" pos="unknown" morph="none" start_char="263" end_char="263">"</TOKEN>
+        <TOKEN id="token-8-4" pos="unknown" morph="none" start_char="265" end_char="295">datetime="2015-04-03T16:06:00"&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-9" start_char="297" end_char="310">
+        <ORIGINAL_TEXT>也看了新闻了，又是索马里干的</ORIGINAL_TEXT>
+        <TOKEN id="token-9-0" pos="word" morph="none" start_char="297" end_char="302">也看了新闻了</TOKEN>
+        <TOKEN id="token-9-1" pos="punct" morph="none" start_char="303" end_char="303">，</TOKEN>
+        <TOKEN id="token-9-2" pos="word" morph="none" start_char="304" end_char="310">又是索马里干的</TOKEN>
+      </SEG>
+      <SEG id="segment-10" start_char="312" end_char="318">
+        <ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-10-0" pos="unknown" morph="none" start_char="312" end_char="318">&lt;/post&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-11" start_char="320" end_char="379">
+        <ORIGINAL_TEXT>&lt;post id="p3" author="帝景天城 " datetime="2015-06-15T10:18:00"&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-11-0" pos="unknown" morph="none" start_char="320" end_char="324">&lt;post</TOKEN>
+        <TOKEN id="token-11-1" pos="unknown" morph="none" start_char="326" end_char="332">id="p3"</TOKEN>
+        <TOKEN id="token-11-2" pos="unknown" morph="none" start_char="334" end_char="345">author="帝景天城</TOKEN>
+        <TOKEN id="token-11-3" pos="unknown" morph="none" start_char="347" end_char="347">"</TOKEN>
+        <TOKEN id="token-11-4" pos="unknown" morph="none" start_char="349" end_char="379">datetime="2015-06-15T10:18:00"&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-12" start_char="381" end_char="395">
+        <ORIGINAL_TEXT>近期准备去那边看开要多加小心了</ORIGINAL_TEXT>
+        <TOKEN id="token-12-0" pos="word" morph="none" start_char="381" end_char="395">近期准备去那边看开要多加小心了</TOKEN>
+      </SEG>
+      <SEG id="segment-13" start_char="397" end_char="403">
+        <ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-13-0" pos="unknown" morph="none" start_char="397" end_char="403">&lt;/post&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-14" start_char="405" end_char="468">
+        <ORIGINAL_TEXT>&lt;post id="p4" author="jeno1910 " datetime="2015-06-18T12:23:00"&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-14-0" pos="unknown" morph="none" start_char="405" end_char="409">&lt;post</TOKEN>
+        <TOKEN id="token-14-1" pos="unknown" morph="none" start_char="411" end_char="417">id="p4"</TOKEN>
+        <TOKEN id="token-14-2" pos="unknown" morph="none" start_char="419" end_char="434">author="jeno1910</TOKEN>
+        <TOKEN id="token-14-3" pos="unknown" morph="none" start_char="436" end_char="436">"</TOKEN>
+        <TOKEN id="token-14-4" pos="unknown" morph="none" start_char="438" end_char="468">datetime="2015-06-18T12:23:00"&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-15" start_char="470" end_char="549">
+        <ORIGINAL_TEXT>感谢&amp;lt;img src="images/smilies/handshake.gif" smilieid="17" border="0" alt=""&amp;gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-15-0" pos="unknown" morph="none" start_char="470" end_char="478">感谢&amp;lt;img</TOKEN>
+        <TOKEN id="token-15-1" pos="unknown" morph="none" start_char="480" end_char="513">src="images/smilies/handshake.gif"</TOKEN>
+        <TOKEN id="token-15-2" pos="unknown" morph="none" start_char="515" end_char="527">smilieid="17"</TOKEN>
+        <TOKEN id="token-15-3" pos="unknown" morph="none" start_char="529" end_char="538">border="0"</TOKEN>
+        <TOKEN id="token-15-4" pos="unknown" morph="none" start_char="540" end_char="549">alt=""&amp;gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-16" start_char="551" end_char="557">
+        <ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-16-0" pos="unknown" morph="none" start_char="551" end_char="557">&lt;/post&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-17" start_char="559" end_char="564">
+        <ORIGINAL_TEXT>&lt;/doc&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-17-0" pos="unknown" morph="none" start_char="559" end_char="564">&lt;/doc&gt;</TOKEN>
+      </SEG>
+    </TEXT>
+  </DOC>
+</LCTL_TEXT>

@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE LCTL_TEXT SYSTEM "ltf.v1.5.dtd">
+<LCTL_TEXT>
+<DOC id="SPA_DF_000404_20150628_F001000C3.df.xml" tokenization="tokenization_parameters" grammar="none" raw_text_char_length="1157" raw_text_md5="d32722513e9183ce3a86200bb0851a0a">
+<TEXT>
+<SEG id="segment-0" start_char="0" end_char="37">
+<ORIGINAL_TEXT>&lt;?xml version="1.0" encoding="utf-8"?&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-0-0" pos="unknown" morph="none" start_char="0" end_char="4">&lt;?xml</TOKEN>
+<TOKEN id="token-0-1" pos="unknown" morph="none" start_char="6" end_char="18">version="1.0"</TOKEN>
+<TOKEN id="token-0-2" pos="unknown" morph="none" start_char="20" end_char="37">encoding="utf-8"?&gt;</TOKEN>
+</SEG>
+<SEG id="segment-1" start_char="39" end_char="81">
+<ORIGINAL_TEXT>&lt;doc id="SPA_DF_000404_20150628_F001000C3"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-1-0" pos="unknown" morph="none" start_char="39" end_char="42">&lt;doc</TOKEN>
+<TOKEN id="token-1-1" pos="unknown" morph="none" start_char="44" end_char="81">id="SPA_DF_000404_20150628_F001000C3"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-2" start_char="83" end_char="92">
+<ORIGINAL_TEXT>&lt;headline&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-2-0" pos="unknown" morph="none" start_char="83" end_char="92">&lt;headline&gt;</TOKEN>
+</SEG>
+<SEG id="segment-3" start_char="94" end_char="145">
+<ORIGINAL_TEXT>Me pueden dar información de la bandera confederada.</ORIGINAL_TEXT>
+<TOKEN id="token-3-0" pos="word" morph="none" start_char="94" end_char="95">Me</TOKEN>
+<TOKEN id="token-3-1" pos="word" morph="none" start_char="97" end_char="102">pueden</TOKEN>
+<TOKEN id="token-3-2" pos="word" morph="none" start_char="104" end_char="106">dar</TOKEN>
+<TOKEN id="token-3-3" pos="word" morph="none" start_char="108" end_char="118">información</TOKEN>
+<TOKEN id="token-3-4" pos="word" morph="none" start_char="120" end_char="121">de</TOKEN>
+<TOKEN id="token-3-5" pos="word" morph="none" start_char="123" end_char="124">la</TOKEN>
+<TOKEN id="token-3-6" pos="word" morph="none" start_char="126" end_char="132">bandera</TOKEN>
+<TOKEN id="token-3-7" pos="word" morph="none" start_char="134" end_char="144">confederada</TOKEN>
+<TOKEN id="token-3-8" pos="punct" morph="none" start_char="145" end_char="145">.</TOKEN>
+</SEG>
+<SEG id="segment-4" start_char="147" end_char="157">
+<ORIGINAL_TEXT>&lt;/headline&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-4-0" pos="unknown" morph="none" start_char="147" end_char="157">&lt;/headline&gt;</TOKEN>
+</SEG>
+<SEG id="segment-5" start_char="159" end_char="227">
+<ORIGINAL_TEXT>&lt;post id="p1" author="goldenstateboy" datetime="2015-06-28T12:48:00"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-5-0" pos="unknown" morph="none" start_char="159" end_char="163">&lt;post</TOKEN>
+<TOKEN id="token-5-1" pos="unknown" morph="none" start_char="165" end_char="171">id="p1"</TOKEN>
+<TOKEN id="token-5-2" pos="unknown" morph="none" start_char="173" end_char="195">author="goldenstateboy"</TOKEN>
+<TOKEN id="token-5-3" pos="unknown" morph="none" start_char="197" end_char="227">datetime="2015-06-28T12:48:00"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-6" start_char="229" end_char="292">
+<ORIGINAL_TEXT>Queda alguna duda q el chemita es un miserable clon hdlgp ?&amp;#13;</ORIGINAL_TEXT>
+<TOKEN id="token-6-0" pos="word" morph="none" start_char="229" end_char="233">Queda</TOKEN>
+<TOKEN id="token-6-1" pos="word" morph="none" start_char="235" end_char="240">alguna</TOKEN>
+<TOKEN id="token-6-2" pos="word" morph="none" start_char="242" end_char="245">duda</TOKEN>
+<TOKEN id="token-6-3" pos="word" morph="none" start_char="247" end_char="247">q</TOKEN>
+<TOKEN id="token-6-4" pos="word" morph="none" start_char="249" end_char="250">el</TOKEN>
+<TOKEN id="token-6-5" pos="word" morph="none" start_char="252" end_char="258">chemita</TOKEN>
+<TOKEN id="token-6-6" pos="word" morph="none" start_char="260" end_char="261">es</TOKEN>
+<TOKEN id="token-6-7" pos="word" morph="none" start_char="263" end_char="264">un</TOKEN>
+<TOKEN id="token-6-8" pos="word" morph="none" start_char="266" end_char="274">miserable</TOKEN>
+<TOKEN id="token-6-9" pos="word" morph="none" start_char="276" end_char="279">clon</TOKEN>
+<TOKEN id="token-6-10" pos="word" morph="none" start_char="281" end_char="285">hdlgp</TOKEN>
+<TOKEN id="token-6-11" pos="punct" morph="none" start_char="287" end_char="289">?&amp;#</TOKEN>
+<TOKEN id="token-6-12" pos="word" morph="none" start_char="290" end_char="291">13</TOKEN>
+<TOKEN id="token-6-13" pos="punct" morph="none" start_char="292" end_char="292">;</TOKEN>
+</SEG>
+<SEG id="segment-7" start_char="294" end_char="298">
+<ORIGINAL_TEXT>&amp;#13;</ORIGINAL_TEXT>
+<TOKEN id="token-7-0" pos="punct" morph="none" start_char="294" end_char="295">&amp;#</TOKEN>
+<TOKEN id="token-7-1" pos="word" morph="none" start_char="296" end_char="297">13</TOKEN>
+<TOKEN id="token-7-2" pos="punct" morph="none" start_char="298" end_char="298">;</TOKEN>
+</SEG>
+<SEG id="segment-8" start_char="300" end_char="347">
+<ORIGINAL_TEXT>Por esta razon es q siempre pedimos las partidas</ORIGINAL_TEXT>
+<TOKEN id="token-8-0" pos="word" morph="none" start_char="300" end_char="302">Por</TOKEN>
+<TOKEN id="token-8-1" pos="word" morph="none" start_char="304" end_char="307">esta</TOKEN>
+<TOKEN id="token-8-2" pos="word" morph="none" start_char="309" end_char="313">razon</TOKEN>
+<TOKEN id="token-8-3" pos="word" morph="none" start_char="315" end_char="316">es</TOKEN>
+<TOKEN id="token-8-4" pos="word" morph="none" start_char="318" end_char="318">q</TOKEN>
+<TOKEN id="token-8-5" pos="word" morph="none" start_char="320" end_char="326">siempre</TOKEN>
+<TOKEN id="token-8-6" pos="word" morph="none" start_char="328" end_char="334">pedimos</TOKEN>
+<TOKEN id="token-8-7" pos="word" morph="none" start_char="336" end_char="338">las</TOKEN>
+<TOKEN id="token-8-8" pos="word" morph="none" start_char="340" end_char="347">partidas</TOKEN>
+</SEG>
+<SEG id="segment-9" start_char="349" end_char="355">
+<ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-9-0" pos="unknown" morph="none" start_char="349" end_char="355">&lt;/post&gt;</TOKEN>
+</SEG>
+<SEG id="segment-10" start_char="357" end_char="419">
+<ORIGINAL_TEXT>&lt;post id="p2" author="chemmita" datetime="2015-06-28T12:52:00"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-10-0" pos="unknown" morph="none" start_char="357" end_char="361">&lt;post</TOKEN>
+<TOKEN id="token-10-1" pos="unknown" morph="none" start_char="363" end_char="369">id="p2"</TOKEN>
+<TOKEN id="token-10-2" pos="unknown" morph="none" start_char="371" end_char="387">author="chemmita"</TOKEN>
+<TOKEN id="token-10-3" pos="unknown" morph="none" start_char="389" end_char="419">datetime="2015-06-28T12:52:00"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-11" start_char="421" end_char="456">
+<ORIGINAL_TEXT>&lt;quote orig_author="goldenstateboy"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-11-0" pos="unknown" morph="none" start_char="421" end_char="426">&lt;quote</TOKEN>
+<TOKEN id="token-11-1" pos="unknown" morph="none" start_char="428" end_char="456">orig_author="goldenstateboy"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-12" start_char="458" end_char="521">
+<ORIGINAL_TEXT>Queda alguna duda q el chemita es un miserable clon hdlgp ?&amp;#13;</ORIGINAL_TEXT>
+<TOKEN id="token-12-0" pos="word" morph="none" start_char="458" end_char="462">Queda</TOKEN>
+<TOKEN id="token-12-1" pos="word" morph="none" start_char="464" end_char="469">alguna</TOKEN>
+<TOKEN id="token-12-2" pos="word" morph="none" start_char="471" end_char="474">duda</TOKEN>
+<TOKEN id="token-12-3" pos="word" morph="none" start_char="476" end_char="476">q</TOKEN>
+<TOKEN id="token-12-4" pos="word" morph="none" start_char="478" end_char="479">el</TOKEN>
+<TOKEN id="token-12-5" pos="word" morph="none" start_char="481" end_char="487">chemita</TOKEN>
+<TOKEN id="token-12-6" pos="word" morph="none" start_char="489" end_char="490">es</TOKEN>
+<TOKEN id="token-12-7" pos="word" morph="none" start_char="492" end_char="493">un</TOKEN>
+<TOKEN id="token-12-8" pos="word" morph="none" start_char="495" end_char="503">miserable</TOKEN>
+<TOKEN id="token-12-9" pos="word" morph="none" start_char="505" end_char="508">clon</TOKEN>
+<TOKEN id="token-12-10" pos="word" morph="none" start_char="510" end_char="514">hdlgp</TOKEN>
+<TOKEN id="token-12-11" pos="punct" morph="none" start_char="516" end_char="518">?&amp;#</TOKEN>
+<TOKEN id="token-12-12" pos="word" morph="none" start_char="519" end_char="520">13</TOKEN>
+<TOKEN id="token-12-13" pos="punct" morph="none" start_char="521" end_char="521">;</TOKEN>
+</SEG>
+<SEG id="segment-13" start_char="523" end_char="527">
+<ORIGINAL_TEXT>&amp;#13;</ORIGINAL_TEXT>
+<TOKEN id="token-13-0" pos="punct" morph="none" start_char="523" end_char="524">&amp;#</TOKEN>
+<TOKEN id="token-13-1" pos="word" morph="none" start_char="525" end_char="526">13</TOKEN>
+<TOKEN id="token-13-2" pos="punct" morph="none" start_char="527" end_char="527">;</TOKEN>
+</SEG>
+<SEG id="segment-14" start_char="529" end_char="576">
+<ORIGINAL_TEXT>Por esta razon es q siempre pedimos las partidas</ORIGINAL_TEXT>
+<TOKEN id="token-14-0" pos="word" morph="none" start_char="529" end_char="531">Por</TOKEN>
+<TOKEN id="token-14-1" pos="word" morph="none" start_char="533" end_char="536">esta</TOKEN>
+<TOKEN id="token-14-2" pos="word" morph="none" start_char="538" end_char="542">razon</TOKEN>
+<TOKEN id="token-14-3" pos="word" morph="none" start_char="544" end_char="545">es</TOKEN>
+<TOKEN id="token-14-4" pos="word" morph="none" start_char="547" end_char="547">q</TOKEN>
+<TOKEN id="token-14-5" pos="word" morph="none" start_char="549" end_char="555">siempre</TOKEN>
+<TOKEN id="token-14-6" pos="word" morph="none" start_char="557" end_char="563">pedimos</TOKEN>
+<TOKEN id="token-14-7" pos="word" morph="none" start_char="565" end_char="567">las</TOKEN>
+<TOKEN id="token-14-8" pos="word" morph="none" start_char="569" end_char="576">partidas</TOKEN>
+</SEG>
+<SEG id="segment-15" start_char="578" end_char="585">
+<ORIGINAL_TEXT>&lt;/quote&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-15-0" pos="unknown" morph="none" start_char="578" end_char="585">&lt;/quote&gt;</TOKEN>
+</SEG>
+<SEG id="segment-16" start_char="587" end_char="676">
+<ORIGINAL_TEXT>solo me quedan 20 minutos después salgo pitado de aquí ya llego la manager del McDonald's.</ORIGINAL_TEXT>
+<TOKEN id="token-16-0" pos="word" morph="none" start_char="587" end_char="590">solo</TOKEN>
+<TOKEN id="token-16-1" pos="word" morph="none" start_char="592" end_char="593">me</TOKEN>
+<TOKEN id="token-16-2" pos="word" morph="none" start_char="595" end_char="600">quedan</TOKEN>
+<TOKEN id="token-16-3" pos="number" morph="none" start_char="602" end_char="603">20</TOKEN>
+<TOKEN id="token-16-4" pos="word" morph="none" start_char="605" end_char="611">minutos</TOKEN>
+<TOKEN id="token-16-5" pos="word" morph="none" start_char="613" end_char="619">después</TOKEN>
+<TOKEN id="token-16-6" pos="word" morph="none" start_char="621" end_char="625">salgo</TOKEN>
+<TOKEN id="token-16-7" pos="word" morph="none" start_char="627" end_char="632">pitado</TOKEN>
+<TOKEN id="token-16-8" pos="word" morph="none" start_char="634" end_char="635">de</TOKEN>
+<TOKEN id="token-16-9" pos="word" morph="none" start_char="637" end_char="640">aquí</TOKEN>
+<TOKEN id="token-16-10" pos="word" morph="none" start_char="642" end_char="643">ya</TOKEN>
+<TOKEN id="token-16-11" pos="word" morph="none" start_char="645" end_char="649">llego</TOKEN>
+<TOKEN id="token-16-12" pos="word" morph="none" start_char="651" end_char="652">la</TOKEN>
+<TOKEN id="token-16-13" pos="word" morph="none" start_char="654" end_char="660">manager</TOKEN>
+<TOKEN id="token-16-14" pos="word" morph="none" start_char="662" end_char="664">del</TOKEN>
+<TOKEN id="token-16-15" pos="word" morph="none" start_char="666" end_char="673">McDonald</TOKEN>
+<TOKEN id="token-16-16" pos="punct" morph="none" start_char="674" end_char="674">'</TOKEN>
+<TOKEN id="token-16-17" pos="word" morph="none" start_char="675" end_char="675">s</TOKEN>
+<TOKEN id="token-16-18" pos="punct" morph="none" start_char="676" end_char="676">.</TOKEN>
+</SEG>
+<SEG id="segment-17" start_char="678" end_char="684">
+<ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-17-0" pos="unknown" morph="none" start_char="678" end_char="684">&lt;/post&gt;</TOKEN>
+</SEG>
+<SEG id="segment-18" start_char="686" end_char="754">
+<ORIGINAL_TEXT>&lt;post id="p3" author="goldenstateboy" datetime="2015-06-28T12:53:00"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-18-0" pos="unknown" morph="none" start_char="686" end_char="690">&lt;post</TOKEN>
+<TOKEN id="token-18-1" pos="unknown" morph="none" start_char="692" end_char="698">id="p3"</TOKEN>
+<TOKEN id="token-18-2" pos="unknown" morph="none" start_char="700" end_char="722">author="goldenstateboy"</TOKEN>
+<TOKEN id="token-18-3" pos="unknown" morph="none" start_char="724" end_char="754">datetime="2015-06-28T12:53:00"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-19" start_char="756" end_char="776">
+<ORIGINAL_TEXT>Come mįérdã hijuepútā</ORIGINAL_TEXT>
+<TOKEN id="token-19-0" pos="word" morph="none" start_char="756" end_char="759">Come</TOKEN>
+<TOKEN id="token-19-1" pos="word" morph="none" start_char="761" end_char="766">mįérdã</TOKEN>
+<TOKEN id="token-19-2" pos="word" morph="none" start_char="768" end_char="776">hijuepútā</TOKEN>
+</SEG>
+<SEG id="segment-20" start_char="778" end_char="784">
+<ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-20-0" pos="unknown" morph="none" start_char="778" end_char="784">&lt;/post&gt;</TOKEN>
+</SEG>
+<SEG id="segment-21" start_char="786" end_char="854">
+<ORIGINAL_TEXT>&lt;post id="p4" author="descorchadorv2" datetime="2015-06-28T13:50:00"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-21-0" pos="unknown" morph="none" start_char="786" end_char="790">&lt;post</TOKEN>
+<TOKEN id="token-21-1" pos="unknown" morph="none" start_char="792" end_char="798">id="p4"</TOKEN>
+<TOKEN id="token-21-2" pos="unknown" morph="none" start_char="800" end_char="822">author="descorchadorv2"</TOKEN>
+<TOKEN id="token-21-3" pos="unknown" morph="none" start_char="824" end_char="854">datetime="2015-06-28T13:50:00"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-22" start_char="856" end_char="1140">
+<ORIGINAL_TEXT>&amp;lt;img class="emoticon emoticon-Jajaja lia-deferred-image" id="Jajaja" src="http://univision.i.lithium.com/html/images/emoticons/jajaja.gif" alt="Jajaja" title="Jajaja" data-deferredsrc="http://univision.i.lithium.com/html/images/emoticons/jajaja.gif" data-lia-image-resize-id="0"&amp;gt;</ORIGINAL_TEXT>
+<TOKEN id="token-22-0" pos="punct" morph="none" start_char="856" end_char="856">&amp;</TOKEN>
+<TOKEN id="token-22-1" pos="word" morph="none" start_char="857" end_char="858">lt</TOKEN>
+<TOKEN id="token-22-2" pos="punct" morph="none" start_char="859" end_char="859">;</TOKEN>
+<TOKEN id="token-22-3" pos="word" morph="none" start_char="860" end_char="862">img</TOKEN>
+<TOKEN id="token-22-4" pos="unknown" morph="none" start_char="864" end_char="878">class="emoticon</TOKEN>
+<TOKEN id="token-22-5" pos="word" morph="none" start_char="880" end_char="887">emoticon</TOKEN>
+<TOKEN id="token-22-6" pos="punct" morph="none" start_char="888" end_char="888">-</TOKEN>
+<TOKEN id="token-22-7" pos="word" morph="none" start_char="889" end_char="894">Jajaja</TOKEN>
+<TOKEN id="token-22-8" pos="unknown" morph="none" start_char="896" end_char="914">lia-deferred-image"</TOKEN>
+<TOKEN id="token-22-9" pos="unknown" morph="none" start_char="916" end_char="926">id="Jajaja"</TOKEN>
+<TOKEN id="token-22-10" pos="unknown" morph="none" start_char="928" end_char="996">src="http://univision.i.lithium.com/html/images/emoticons/jajaja.gif"</TOKEN>
+<TOKEN id="token-22-11" pos="unknown" morph="none" start_char="998" end_char="1009">alt="Jajaja"</TOKEN>
+<TOKEN id="token-22-12" pos="unknown" morph="none" start_char="1011" end_char="1024">title="Jajaja"</TOKEN>
+<TOKEN id="token-22-13" pos="unknown" morph="none" start_char="1026" end_char="1107">data-deferredsrc="http://univision.i.lithium.com/html/images/emoticons/jajaja.gif"</TOKEN>
+<TOKEN id="token-22-14" pos="unknown" morph="none" start_char="1109" end_char="1140">data-lia-image-resize-id="0"&amp;gt;</TOKEN>
+</SEG>
+<SEG id="segment-23" start_char="1142" end_char="1148">
+<ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-23-0" pos="unknown" morph="none" start_char="1142" end_char="1148">&lt;/post&gt;</TOKEN>
+</SEG>
+<SEG id="segment-24" start_char="1150" end_char="1155">
+<ORIGINAL_TEXT>&lt;/doc&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-24-0" pos="unknown" morph="none" start_char="1150" end_char="1155">&lt;/doc&gt;</TOKEN>
+</SEG>
+</TEXT>
+</DOC>
+</LCTL_TEXT>

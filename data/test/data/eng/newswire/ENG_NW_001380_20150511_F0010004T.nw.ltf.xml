@@ -1,0 +1,555 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE LCTL_TEXT SYSTEM "ltf.v1.5.dtd">
+<LCTL_TEXT>
+<DOC id="ENG_NW_001380_20150511_F0010004T.nw.xml" tokenization="tokenization_parameters" grammar="none" raw_text_char_length="2340" raw_text_md5="6e0d25d4f971c1c470b4bf89ca73a1f3">
+<TEXT>
+<SEG id="segment-0" start_char="0" end_char="37">
+<ORIGINAL_TEXT>&lt;?xml version="1.0" encoding="utf-8"?&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-0-0" pos="unknown" morph="none" start_char="0" end_char="4">&lt;?xml</TOKEN>
+<TOKEN id="token-0-1" pos="unknown" morph="none" start_char="6" end_char="18">version="1.0"</TOKEN>
+<TOKEN id="token-0-2" pos="unknown" morph="none" start_char="20" end_char="37">encoding="utf-8"?&gt;</TOKEN>
+</SEG>
+<SEG id="segment-1" start_char="39" end_char="81">
+<ORIGINAL_TEXT>&lt;DOC id="ENG_NW_001380_20150511_F0010004T"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-1-0" pos="unknown" morph="none" start_char="39" end_char="42">&lt;DOC</TOKEN>
+<TOKEN id="token-1-1" pos="unknown" morph="none" start_char="44" end_char="81">id="ENG_NW_001380_20150511_F0010004T"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-2" start_char="83" end_char="181">
+<ORIGINAL_TEXT>&lt;SOURCE&gt;http://cyceon.com/2015/05/11/international-aid-for-nepal-estimated-at-175-million/&lt;/SOURCE&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-2-0" pos="unknown" morph="none" start_char="83" end_char="181">&lt;SOURCE&gt;http://cyceon.com/2015/05/11/international-aid-for-nepal-estimated-at-175-million/&lt;/SOURCE&gt;</TOKEN>
+</SEG>
+<SEG id="segment-3" start_char="183" end_char="224">
+<ORIGINAL_TEXT>&lt;DATE_TIME&gt;2015-05-11T00:00:00&lt;/DATE_TIME&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-3-0" pos="unknown" morph="none" start_char="183" end_char="224">&lt;DATE_TIME&gt;2015-05-11T00:00:00&lt;/DATE_TIME&gt;</TOKEN>
+</SEG>
+<SEG id="segment-4" start_char="226" end_char="235">
+<ORIGINAL_TEXT>&lt;HEADLINE&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-4-0" pos="unknown" morph="none" start_char="226" end_char="235">&lt;HEADLINE&gt;</TOKEN>
+</SEG>
+<SEG id="segment-5" start_char="237" end_char="289">
+<ORIGINAL_TEXT>International aid for Nepal estimated at $175 million</ORIGINAL_TEXT>
+<TOKEN id="token-5-0" pos="word" morph="none" start_char="237" end_char="249">International</TOKEN>
+<TOKEN id="token-5-1" pos="word" morph="none" start_char="251" end_char="253">aid</TOKEN>
+<TOKEN id="token-5-2" pos="word" morph="none" start_char="255" end_char="257">for</TOKEN>
+<TOKEN id="token-5-3" pos="word" morph="none" start_char="259" end_char="263">Nepal</TOKEN>
+<TOKEN id="token-5-4" pos="word" morph="none" start_char="265" end_char="273">estimated</TOKEN>
+<TOKEN id="token-5-5" pos="word" morph="none" start_char="275" end_char="276">at</TOKEN>
+<TOKEN id="token-5-6" pos="unknown" morph="none" start_char="278" end_char="281">$175</TOKEN>
+<TOKEN id="token-5-7" pos="word" morph="none" start_char="283" end_char="289">million</TOKEN>
+</SEG>
+<SEG id="segment-6" start_char="291" end_char="301">
+<ORIGINAL_TEXT>&lt;/HEADLINE&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-6-0" pos="unknown" morph="none" start_char="291" end_char="301">&lt;/HEADLINE&gt;</TOKEN>
+</SEG>
+<SEG id="segment-7" start_char="303" end_char="308">
+<ORIGINAL_TEXT>&lt;TEXT&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-7-0" pos="unknown" morph="none" start_char="303" end_char="308">&lt;TEXT&gt;</TOKEN>
+</SEG>
+<SEG id="segment-8" start_char="310" end_char="312">
+<ORIGINAL_TEXT>&lt;P&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-8-0" pos="unknown" morph="none" start_char="310" end_char="312">&lt;P&gt;</TOKEN>
+</SEG>
+<SEG id="segment-9" start_char="314" end_char="392">
+<ORIGINAL_TEXT>On April 25, 2015, a 7.8 magnitude earthquake, approximately 50 miles northwest</ORIGINAL_TEXT>
+<TOKEN id="token-9-0" pos="word" morph="none" start_char="314" end_char="315">On</TOKEN>
+<TOKEN id="token-9-1" pos="word" morph="none" start_char="317" end_char="321">April</TOKEN>
+<TOKEN id="token-9-2" pos="word" morph="none" start_char="323" end_char="324">25</TOKEN>
+<TOKEN id="token-9-3" pos="punct" morph="none" start_char="325" end_char="325">,</TOKEN>
+<TOKEN id="token-9-4" pos="word" morph="none" start_char="327" end_char="330">2015</TOKEN>
+<TOKEN id="token-9-5" pos="punct" morph="none" start_char="331" end_char="331">,</TOKEN>
+<TOKEN id="token-9-6" pos="word" morph="none" start_char="333" end_char="333">a</TOKEN>
+<TOKEN id="token-9-7" pos="number" morph="none" start_char="335" end_char="337">7.8</TOKEN>
+<TOKEN id="token-9-8" pos="word" morph="none" start_char="339" end_char="347">magnitude</TOKEN>
+<TOKEN id="token-9-9" pos="word" morph="none" start_char="349" end_char="358">earthquake</TOKEN>
+<TOKEN id="token-9-10" pos="punct" morph="none" start_char="359" end_char="359">,</TOKEN>
+<TOKEN id="token-9-11" pos="word" morph="none" start_char="361" end_char="373">approximately</TOKEN>
+<TOKEN id="token-9-12" pos="number" morph="none" start_char="375" end_char="376">50</TOKEN>
+<TOKEN id="token-9-13" pos="word" morph="none" start_char="378" end_char="382">miles</TOKEN>
+<TOKEN id="token-9-14" pos="word" morph="none" start_char="384" end_char="392">northwest</TOKEN>
+</SEG>
+<SEG id="segment-10" start_char="394" end_char="472">
+<ORIGINAL_TEXT>of Kathmandu, the capital city of Nepal, killed more than 8,100 people, injured</ORIGINAL_TEXT>
+<TOKEN id="token-10-0" pos="word" morph="none" start_char="394" end_char="395">of</TOKEN>
+<TOKEN id="token-10-1" pos="word" morph="none" start_char="397" end_char="405">Kathmandu</TOKEN>
+<TOKEN id="token-10-2" pos="punct" morph="none" start_char="406" end_char="406">,</TOKEN>
+<TOKEN id="token-10-3" pos="word" morph="none" start_char="408" end_char="410">the</TOKEN>
+<TOKEN id="token-10-4" pos="word" morph="none" start_char="412" end_char="418">capital</TOKEN>
+<TOKEN id="token-10-5" pos="word" morph="none" start_char="420" end_char="423">city</TOKEN>
+<TOKEN id="token-10-6" pos="word" morph="none" start_char="425" end_char="426">of</TOKEN>
+<TOKEN id="token-10-7" pos="word" morph="none" start_char="428" end_char="432">Nepal</TOKEN>
+<TOKEN id="token-10-8" pos="punct" morph="none" start_char="433" end_char="433">,</TOKEN>
+<TOKEN id="token-10-9" pos="word" morph="none" start_char="435" end_char="440">killed</TOKEN>
+<TOKEN id="token-10-10" pos="word" morph="none" start_char="442" end_char="445">more</TOKEN>
+<TOKEN id="token-10-11" pos="word" morph="none" start_char="447" end_char="450">than</TOKEN>
+<TOKEN id="token-10-12" pos="word" morph="none" start_char="452" end_char="452">8</TOKEN>
+<TOKEN id="token-10-13" pos="punct" morph="none" start_char="453" end_char="453">,</TOKEN>
+<TOKEN id="token-10-14" pos="word" morph="none" start_char="454" end_char="456">100</TOKEN>
+<TOKEN id="token-10-15" pos="word" morph="none" start_char="458" end_char="463">people</TOKEN>
+<TOKEN id="token-10-16" pos="punct" morph="none" start_char="464" end_char="464">,</TOKEN>
+<TOKEN id="token-10-17" pos="word" morph="none" start_char="466" end_char="472">injured</TOKEN>
+</SEG>
+<SEG id="segment-11" start_char="474" end_char="546">
+<ORIGINAL_TEXT>more than 19,000, destroyed 70,000 homes and damaged another 530,000, the</ORIGINAL_TEXT>
+<TOKEN id="token-11-0" pos="word" morph="none" start_char="474" end_char="477">more</TOKEN>
+<TOKEN id="token-11-1" pos="word" morph="none" start_char="479" end_char="482">than</TOKEN>
+<TOKEN id="token-11-2" pos="word" morph="none" start_char="484" end_char="485">19</TOKEN>
+<TOKEN id="token-11-3" pos="punct" morph="none" start_char="486" end_char="486">,</TOKEN>
+<TOKEN id="token-11-4" pos="word" morph="none" start_char="487" end_char="489">000</TOKEN>
+<TOKEN id="token-11-5" pos="punct" morph="none" start_char="490" end_char="490">,</TOKEN>
+<TOKEN id="token-11-6" pos="word" morph="none" start_char="492" end_char="500">destroyed</TOKEN>
+<TOKEN id="token-11-7" pos="word" morph="none" start_char="502" end_char="503">70</TOKEN>
+<TOKEN id="token-11-8" pos="punct" morph="none" start_char="504" end_char="504">,</TOKEN>
+<TOKEN id="token-11-9" pos="word" morph="none" start_char="505" end_char="507">000</TOKEN>
+<TOKEN id="token-11-10" pos="word" morph="none" start_char="509" end_char="513">homes</TOKEN>
+<TOKEN id="token-11-11" pos="word" morph="none" start_char="515" end_char="517">and</TOKEN>
+<TOKEN id="token-11-12" pos="word" morph="none" start_char="519" end_char="525">damaged</TOKEN>
+<TOKEN id="token-11-13" pos="word" morph="none" start_char="527" end_char="533">another</TOKEN>
+<TOKEN id="token-11-14" pos="word" morph="none" start_char="535" end_char="537">530</TOKEN>
+<TOKEN id="token-11-15" pos="punct" morph="none" start_char="538" end_char="538">,</TOKEN>
+<TOKEN id="token-11-16" pos="word" morph="none" start_char="539" end_char="541">000</TOKEN>
+<TOKEN id="token-11-17" pos="punct" morph="none" start_char="542" end_char="542">,</TOKEN>
+<TOKEN id="token-11-18" pos="word" morph="none" start_char="544" end_char="546">the</TOKEN>
+</SEG>
+<SEG id="segment-12" start_char="548" end_char="564">
+<ORIGINAL_TEXT>latest data said.</ORIGINAL_TEXT>
+<TOKEN id="token-12-0" pos="word" morph="none" start_char="548" end_char="553">latest</TOKEN>
+<TOKEN id="token-12-1" pos="word" morph="none" start_char="555" end_char="558">data</TOKEN>
+<TOKEN id="token-12-2" pos="word" morph="none" start_char="560" end_char="563">said</TOKEN>
+<TOKEN id="token-12-3" pos="punct" morph="none" start_char="564" end_char="564">.</TOKEN>
+</SEG>
+<SEG id="segment-13" start_char="566" end_char="569">
+<ORIGINAL_TEXT>&lt;/P&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-13-0" pos="unknown" morph="none" start_char="566" end_char="569">&lt;/P&gt;</TOKEN>
+</SEG>
+<SEG id="segment-14" start_char="571" end_char="573">
+<ORIGINAL_TEXT>&lt;P&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-14-0" pos="unknown" morph="none" start_char="571" end_char="573">&lt;P&gt;</TOKEN>
+</SEG>
+<SEG id="segment-15" start_char="575" end_char="650">
+<ORIGINAL_TEXT>“We have a short window to reach people in need,” Jamie McGoldrick, a UN top</ORIGINAL_TEXT>
+<TOKEN id="token-15-0" pos="punct" morph="none" start_char="575" end_char="575">“</TOKEN>
+<TOKEN id="token-15-1" pos="word" morph="none" start_char="576" end_char="577">We</TOKEN>
+<TOKEN id="token-15-2" pos="word" morph="none" start_char="579" end_char="582">have</TOKEN>
+<TOKEN id="token-15-3" pos="word" morph="none" start_char="584" end_char="584">a</TOKEN>
+<TOKEN id="token-15-4" pos="word" morph="none" start_char="586" end_char="590">short</TOKEN>
+<TOKEN id="token-15-5" pos="word" morph="none" start_char="592" end_char="597">window</TOKEN>
+<TOKEN id="token-15-6" pos="word" morph="none" start_char="599" end_char="600">to</TOKEN>
+<TOKEN id="token-15-7" pos="word" morph="none" start_char="602" end_char="606">reach</TOKEN>
+<TOKEN id="token-15-8" pos="word" morph="none" start_char="608" end_char="613">people</TOKEN>
+<TOKEN id="token-15-9" pos="word" morph="none" start_char="615" end_char="616">in</TOKEN>
+<TOKEN id="token-15-10" pos="word" morph="none" start_char="618" end_char="621">need</TOKEN>
+<TOKEN id="token-15-11" pos="punct" morph="none" start_char="622" end_char="623">,”</TOKEN>
+<TOKEN id="token-15-12" pos="word" morph="none" start_char="625" end_char="629">Jamie</TOKEN>
+<TOKEN id="token-15-13" pos="word" morph="none" start_char="631" end_char="640">McGoldrick</TOKEN>
+<TOKEN id="token-15-14" pos="punct" morph="none" start_char="641" end_char="641">,</TOKEN>
+<TOKEN id="token-15-15" pos="word" morph="none" start_char="643" end_char="643">a</TOKEN>
+<TOKEN id="token-15-16" pos="word" morph="none" start_char="645" end_char="646">UN</TOKEN>
+<TOKEN id="token-15-17" pos="word" morph="none" start_char="648" end_char="650">top</TOKEN>
+</SEG>
+<SEG id="segment-16" start_char="652" end_char="727">
+<ORIGINAL_TEXT>relief official underlined on May 9, 2015.  One of Asia’s poorest countries,</ORIGINAL_TEXT>
+<TOKEN id="token-16-0" pos="word" morph="none" start_char="652" end_char="657">relief</TOKEN>
+<TOKEN id="token-16-1" pos="word" morph="none" start_char="659" end_char="666">official</TOKEN>
+<TOKEN id="token-16-2" pos="word" morph="none" start_char="668" end_char="677">underlined</TOKEN>
+<TOKEN id="token-16-3" pos="word" morph="none" start_char="679" end_char="680">on</TOKEN>
+<TOKEN id="token-16-4" pos="word" morph="none" start_char="682" end_char="684">May</TOKEN>
+<TOKEN id="token-16-5" pos="word" morph="none" start_char="686" end_char="686">9</TOKEN>
+<TOKEN id="token-16-6" pos="punct" morph="none" start_char="687" end_char="687">,</TOKEN>
+<TOKEN id="token-16-7" pos="word" morph="none" start_char="689" end_char="692">2015</TOKEN>
+<TOKEN id="token-16-8" pos="punct" morph="none" start_char="693" end_char="693">.</TOKEN>
+<TOKEN id="token-16-9" pos="word" morph="none" start_char="696" end_char="698">One</TOKEN>
+<TOKEN id="token-16-10" pos="word" morph="none" start_char="700" end_char="701">of</TOKEN>
+<TOKEN id="token-16-11" pos="word" morph="none" start_char="703" end_char="706">Asia</TOKEN>
+<TOKEN id="token-16-12" pos="punct" morph="none" start_char="707" end_char="707">’</TOKEN>
+<TOKEN id="token-16-13" pos="word" morph="none" start_char="708" end_char="708">s</TOKEN>
+<TOKEN id="token-16-14" pos="word" morph="none" start_char="710" end_char="716">poorest</TOKEN>
+<TOKEN id="token-16-15" pos="word" morph="none" start_char="718" end_char="726">countries</TOKEN>
+<TOKEN id="token-16-16" pos="punct" morph="none" start_char="727" end_char="727">,</TOKEN>
+</SEG>
+<SEG id="segment-17" start_char="729" end_char="803">
+<ORIGINAL_TEXT>Nepal could be facing $5-$7 billion of rebuilding cost that is to say about</ORIGINAL_TEXT>
+<TOKEN id="token-17-0" pos="word" morph="none" start_char="729" end_char="733">Nepal</TOKEN>
+<TOKEN id="token-17-1" pos="word" morph="none" start_char="735" end_char="739">could</TOKEN>
+<TOKEN id="token-17-2" pos="word" morph="none" start_char="741" end_char="742">be</TOKEN>
+<TOKEN id="token-17-3" pos="word" morph="none" start_char="744" end_char="749">facing</TOKEN>
+<TOKEN id="token-17-4" pos="unknown" morph="none" start_char="751" end_char="755">$5-$7</TOKEN>
+<TOKEN id="token-17-5" pos="word" morph="none" start_char="757" end_char="763">billion</TOKEN>
+<TOKEN id="token-17-6" pos="word" morph="none" start_char="765" end_char="766">of</TOKEN>
+<TOKEN id="token-17-7" pos="word" morph="none" start_char="768" end_char="777">rebuilding</TOKEN>
+<TOKEN id="token-17-8" pos="word" morph="none" start_char="779" end_char="782">cost</TOKEN>
+<TOKEN id="token-17-9" pos="word" morph="none" start_char="784" end_char="787">that</TOKEN>
+<TOKEN id="token-17-10" pos="word" morph="none" start_char="789" end_char="790">is</TOKEN>
+<TOKEN id="token-17-11" pos="word" morph="none" start_char="792" end_char="793">to</TOKEN>
+<TOKEN id="token-17-12" pos="word" morph="none" start_char="795" end_char="797">say</TOKEN>
+<TOKEN id="token-17-13" pos="word" morph="none" start_char="799" end_char="803">about</TOKEN>
+</SEG>
+<SEG id="segment-18" start_char="805" end_char="877">
+<ORIGINAL_TEXT>20-25 percent of its national GDP. According to a preliminary estimate by</ORIGINAL_TEXT>
+<TOKEN id="token-18-0" pos="number" morph="none" start_char="805" end_char="806">20</TOKEN>
+<TOKEN id="token-18-1" pos="punct" morph="none" start_char="807" end_char="807">-</TOKEN>
+<TOKEN id="token-18-2" pos="word" morph="none" start_char="808" end_char="809">25</TOKEN>
+<TOKEN id="token-18-3" pos="word" morph="none" start_char="811" end_char="817">percent</TOKEN>
+<TOKEN id="token-18-4" pos="word" morph="none" start_char="819" end_char="820">of</TOKEN>
+<TOKEN id="token-18-5" pos="word" morph="none" start_char="822" end_char="824">its</TOKEN>
+<TOKEN id="token-18-6" pos="word" morph="none" start_char="826" end_char="833">national</TOKEN>
+<TOKEN id="token-18-7" pos="word" morph="none" start_char="835" end_char="837">GDP</TOKEN>
+<TOKEN id="token-18-8" pos="punct" morph="none" start_char="838" end_char="838">.</TOKEN>
+<TOKEN id="token-18-9" pos="word" morph="none" start_char="840" end_char="848">According</TOKEN>
+<TOKEN id="token-18-10" pos="word" morph="none" start_char="850" end_char="851">to</TOKEN>
+<TOKEN id="token-18-11" pos="word" morph="none" start_char="853" end_char="853">a</TOKEN>
+<TOKEN id="token-18-12" pos="word" morph="none" start_char="855" end_char="865">preliminary</TOKEN>
+<TOKEN id="token-18-13" pos="word" morph="none" start_char="867" end_char="874">estimate</TOKEN>
+<TOKEN id="token-18-14" pos="word" morph="none" start_char="876" end_char="877">by</TOKEN>
+</SEG>
+<SEG id="segment-19" start_char="879" end_char="949">
+<ORIGINAL_TEXT>Cyceon based on official data, the international financial aid to Nepal</ORIGINAL_TEXT>
+<TOKEN id="token-19-0" pos="word" morph="none" start_char="879" end_char="884">Cyceon</TOKEN>
+<TOKEN id="token-19-1" pos="word" morph="none" start_char="886" end_char="890">based</TOKEN>
+<TOKEN id="token-19-2" pos="word" morph="none" start_char="892" end_char="893">on</TOKEN>
+<TOKEN id="token-19-3" pos="word" morph="none" start_char="895" end_char="902">official</TOKEN>
+<TOKEN id="token-19-4" pos="word" morph="none" start_char="904" end_char="907">data</TOKEN>
+<TOKEN id="token-19-5" pos="punct" morph="none" start_char="908" end_char="908">,</TOKEN>
+<TOKEN id="token-19-6" pos="word" morph="none" start_char="910" end_char="912">the</TOKEN>
+<TOKEN id="token-19-7" pos="word" morph="none" start_char="914" end_char="926">international</TOKEN>
+<TOKEN id="token-19-8" pos="word" morph="none" start_char="928" end_char="936">financial</TOKEN>
+<TOKEN id="token-19-9" pos="word" morph="none" start_char="938" end_char="940">aid</TOKEN>
+<TOKEN id="token-19-10" pos="word" morph="none" start_char="942" end_char="943">to</TOKEN>
+<TOKEN id="token-19-11" pos="word" morph="none" start_char="945" end_char="949">Nepal</TOKEN>
+</SEG>
+<SEG id="segment-20" start_char="951" end_char="1026">
+<ORIGINAL_TEXT>amounted to between $175 and $210 million with the governments of Australia,</ORIGINAL_TEXT>
+<TOKEN id="token-20-0" pos="word" morph="none" start_char="951" end_char="958">amounted</TOKEN>
+<TOKEN id="token-20-1" pos="word" morph="none" start_char="960" end_char="961">to</TOKEN>
+<TOKEN id="token-20-2" pos="word" morph="none" start_char="963" end_char="969">between</TOKEN>
+<TOKEN id="token-20-3" pos="unknown" morph="none" start_char="971" end_char="974">$175</TOKEN>
+<TOKEN id="token-20-4" pos="word" morph="none" start_char="976" end_char="978">and</TOKEN>
+<TOKEN id="token-20-5" pos="unknown" morph="none" start_char="980" end_char="983">$210</TOKEN>
+<TOKEN id="token-20-6" pos="word" morph="none" start_char="985" end_char="991">million</TOKEN>
+<TOKEN id="token-20-7" pos="word" morph="none" start_char="993" end_char="996">with</TOKEN>
+<TOKEN id="token-20-8" pos="word" morph="none" start_char="998" end_char="1000">the</TOKEN>
+<TOKEN id="token-20-9" pos="word" morph="none" start_char="1002" end_char="1012">governments</TOKEN>
+<TOKEN id="token-20-10" pos="word" morph="none" start_char="1014" end_char="1015">of</TOKEN>
+<TOKEN id="token-20-11" pos="word" morph="none" start_char="1017" end_char="1025">Australia</TOKEN>
+<TOKEN id="token-20-12" pos="punct" morph="none" start_char="1026" end_char="1026">,</TOKEN>
+</SEG>
+<SEG id="segment-21" start_char="1028" end_char="1105">
+<ORIGINAL_TEXT>Japan, Norway and Switzerland as the top donors so far. “This is more than the</ORIGINAL_TEXT>
+<TOKEN id="token-21-0" pos="word" morph="none" start_char="1028" end_char="1032">Japan</TOKEN>
+<TOKEN id="token-21-1" pos="punct" morph="none" start_char="1033" end_char="1033">,</TOKEN>
+<TOKEN id="token-21-2" pos="word" morph="none" start_char="1035" end_char="1040">Norway</TOKEN>
+<TOKEN id="token-21-3" pos="word" morph="none" start_char="1042" end_char="1044">and</TOKEN>
+<TOKEN id="token-21-4" pos="word" morph="none" start_char="1046" end_char="1056">Switzerland</TOKEN>
+<TOKEN id="token-21-5" pos="word" morph="none" start_char="1058" end_char="1059">as</TOKEN>
+<TOKEN id="token-21-6" pos="word" morph="none" start_char="1061" end_char="1063">the</TOKEN>
+<TOKEN id="token-21-7" pos="word" morph="none" start_char="1065" end_char="1067">top</TOKEN>
+<TOKEN id="token-21-8" pos="word" morph="none" start_char="1069" end_char="1074">donors</TOKEN>
+<TOKEN id="token-21-9" pos="word" morph="none" start_char="1076" end_char="1077">so</TOKEN>
+<TOKEN id="token-21-10" pos="word" morph="none" start_char="1079" end_char="1081">far</TOKEN>
+<TOKEN id="token-21-11" pos="punct" morph="none" start_char="1082" end_char="1082">.</TOKEN>
+<TOKEN id="token-21-12" pos="punct" morph="none" start_char="1084" end_char="1084">“</TOKEN>
+<TOKEN id="token-21-13" pos="word" morph="none" start_char="1085" end_char="1088">This</TOKEN>
+<TOKEN id="token-21-14" pos="word" morph="none" start_char="1090" end_char="1091">is</TOKEN>
+<TOKEN id="token-21-15" pos="word" morph="none" start_char="1093" end_char="1096">more</TOKEN>
+<TOKEN id="token-21-16" pos="word" morph="none" start_char="1098" end_char="1101">than</TOKEN>
+<TOKEN id="token-21-17" pos="word" morph="none" start_char="1103" end_char="1105">the</TOKEN>
+</SEG>
+<SEG id="segment-22" start_char="1107" end_char="1184">
+<ORIGINAL_TEXT>emergency needs of the UN’s World Fund Program (WFP) in the country, but we’re</ORIGINAL_TEXT>
+<TOKEN id="token-22-0" pos="word" morph="none" start_char="1107" end_char="1115">emergency</TOKEN>
+<TOKEN id="token-22-1" pos="word" morph="none" start_char="1117" end_char="1121">needs</TOKEN>
+<TOKEN id="token-22-2" pos="word" morph="none" start_char="1123" end_char="1124">of</TOKEN>
+<TOKEN id="token-22-3" pos="word" morph="none" start_char="1126" end_char="1128">the</TOKEN>
+<TOKEN id="token-22-4" pos="word" morph="none" start_char="1130" end_char="1131">UN</TOKEN>
+<TOKEN id="token-22-5" pos="punct" morph="none" start_char="1132" end_char="1132">’</TOKEN>
+<TOKEN id="token-22-6" pos="word" morph="none" start_char="1133" end_char="1133">s</TOKEN>
+<TOKEN id="token-22-7" pos="word" morph="none" start_char="1135" end_char="1139">World</TOKEN>
+<TOKEN id="token-22-8" pos="word" morph="none" start_char="1141" end_char="1144">Fund</TOKEN>
+<TOKEN id="token-22-9" pos="word" morph="none" start_char="1146" end_char="1152">Program</TOKEN>
+<TOKEN id="token-22-10" pos="punct" morph="none" start_char="1154" end_char="1154">(</TOKEN>
+<TOKEN id="token-22-11" pos="word" morph="none" start_char="1155" end_char="1157">WFP</TOKEN>
+<TOKEN id="token-22-12" pos="punct" morph="none" start_char="1158" end_char="1158">)</TOKEN>
+<TOKEN id="token-22-13" pos="word" morph="none" start_char="1160" end_char="1161">in</TOKEN>
+<TOKEN id="token-22-14" pos="word" morph="none" start_char="1163" end_char="1165">the</TOKEN>
+<TOKEN id="token-22-15" pos="word" morph="none" start_char="1167" end_char="1173">country</TOKEN>
+<TOKEN id="token-22-16" pos="punct" morph="none" start_char="1174" end_char="1174">,</TOKEN>
+<TOKEN id="token-22-17" pos="word" morph="none" start_char="1176" end_char="1178">but</TOKEN>
+<TOKEN id="token-22-18" pos="word" morph="none" start_char="1180" end_char="1181">we</TOKEN>
+<TOKEN id="token-22-19" pos="punct" morph="none" start_char="1182" end_char="1182">’</TOKEN>
+<TOKEN id="token-22-20" pos="word" morph="none" start_char="1183" end_char="1184">re</TOKEN>
+</SEG>
+<SEG id="segment-23" start_char="1186" end_char="1241">
+<ORIGINAL_TEXT>just talking about food here,” a Cyceon analyst noticed.</ORIGINAL_TEXT>
+<TOKEN id="token-23-0" pos="word" morph="none" start_char="1186" end_char="1189">just</TOKEN>
+<TOKEN id="token-23-1" pos="word" morph="none" start_char="1191" end_char="1197">talking</TOKEN>
+<TOKEN id="token-23-2" pos="word" morph="none" start_char="1199" end_char="1203">about</TOKEN>
+<TOKEN id="token-23-3" pos="word" morph="none" start_char="1205" end_char="1208">food</TOKEN>
+<TOKEN id="token-23-4" pos="word" morph="none" start_char="1210" end_char="1213">here</TOKEN>
+<TOKEN id="token-23-5" pos="punct" morph="none" start_char="1214" end_char="1215">,”</TOKEN>
+<TOKEN id="token-23-6" pos="word" morph="none" start_char="1217" end_char="1217">a</TOKEN>
+<TOKEN id="token-23-7" pos="word" morph="none" start_char="1219" end_char="1224">Cyceon</TOKEN>
+<TOKEN id="token-23-8" pos="word" morph="none" start_char="1226" end_char="1232">analyst</TOKEN>
+<TOKEN id="token-23-9" pos="word" morph="none" start_char="1234" end_char="1240">noticed</TOKEN>
+<TOKEN id="token-23-10" pos="punct" morph="none" start_char="1241" end_char="1241">.</TOKEN>
+</SEG>
+<SEG id="segment-24" start_char="1243" end_char="1246">
+<ORIGINAL_TEXT>&lt;/P&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-24-0" pos="unknown" morph="none" start_char="1243" end_char="1246">&lt;/P&gt;</TOKEN>
+</SEG>
+<SEG id="segment-25" start_char="1248" end_char="1250">
+<ORIGINAL_TEXT>&lt;P&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-25-0" pos="unknown" morph="none" start_char="1248" end_char="1250">&lt;P&gt;</TOKEN>
+</SEG>
+<SEG id="segment-26" start_char="1252" end_char="1325">
+<ORIGINAL_TEXT>Also, the estimate didn’t take into account the human contribution by most</ORIGINAL_TEXT>
+<TOKEN id="token-26-0" pos="word" morph="none" start_char="1252" end_char="1255">Also</TOKEN>
+<TOKEN id="token-26-1" pos="punct" morph="none" start_char="1256" end_char="1256">,</TOKEN>
+<TOKEN id="token-26-2" pos="word" morph="none" start_char="1258" end_char="1260">the</TOKEN>
+<TOKEN id="token-26-3" pos="word" morph="none" start_char="1262" end_char="1269">estimate</TOKEN>
+<TOKEN id="token-26-4" pos="word" morph="none" start_char="1271" end_char="1274">didn</TOKEN>
+<TOKEN id="token-26-5" pos="punct" morph="none" start_char="1275" end_char="1275">’</TOKEN>
+<TOKEN id="token-26-6" pos="word" morph="none" start_char="1276" end_char="1276">t</TOKEN>
+<TOKEN id="token-26-7" pos="word" morph="none" start_char="1278" end_char="1281">take</TOKEN>
+<TOKEN id="token-26-8" pos="word" morph="none" start_char="1283" end_char="1286">into</TOKEN>
+<TOKEN id="token-26-9" pos="word" morph="none" start_char="1288" end_char="1294">account</TOKEN>
+<TOKEN id="token-26-10" pos="word" morph="none" start_char="1296" end_char="1298">the</TOKEN>
+<TOKEN id="token-26-11" pos="word" morph="none" start_char="1300" end_char="1304">human</TOKEN>
+<TOKEN id="token-26-12" pos="word" morph="none" start_char="1306" end_char="1317">contribution</TOKEN>
+<TOKEN id="token-26-13" pos="word" morph="none" start_char="1319" end_char="1320">by</TOKEN>
+<TOKEN id="token-26-14" pos="word" morph="none" start_char="1322" end_char="1325">most</TOKEN>
+</SEG>
+<SEG id="segment-27" start_char="1327" end_char="1400">
+<ORIGINAL_TEXT>involved countries having sent personnel on the ground like Canada, China,</ORIGINAL_TEXT>
+<TOKEN id="token-27-0" pos="word" morph="none" start_char="1327" end_char="1334">involved</TOKEN>
+<TOKEN id="token-27-1" pos="word" morph="none" start_char="1336" end_char="1344">countries</TOKEN>
+<TOKEN id="token-27-2" pos="word" morph="none" start_char="1346" end_char="1351">having</TOKEN>
+<TOKEN id="token-27-3" pos="word" morph="none" start_char="1353" end_char="1356">sent</TOKEN>
+<TOKEN id="token-27-4" pos="word" morph="none" start_char="1358" end_char="1366">personnel</TOKEN>
+<TOKEN id="token-27-5" pos="word" morph="none" start_char="1368" end_char="1369">on</TOKEN>
+<TOKEN id="token-27-6" pos="word" morph="none" start_char="1371" end_char="1373">the</TOKEN>
+<TOKEN id="token-27-7" pos="word" morph="none" start_char="1375" end_char="1380">ground</TOKEN>
+<TOKEN id="token-27-8" pos="word" morph="none" start_char="1382" end_char="1385">like</TOKEN>
+<TOKEN id="token-27-9" pos="word" morph="none" start_char="1387" end_char="1392">Canada</TOKEN>
+<TOKEN id="token-27-10" pos="punct" morph="none" start_char="1393" end_char="1393">,</TOKEN>
+<TOKEN id="token-27-11" pos="word" morph="none" start_char="1395" end_char="1399">China</TOKEN>
+<TOKEN id="token-27-12" pos="punct" morph="none" start_char="1400" end_char="1400">,</TOKEN>
+</SEG>
+<SEG id="segment-28" start_char="1402" end_char="1474">
+<ORIGINAL_TEXT>Germany and India. However, WFP’s emergency operations are only 4 percent</ORIGINAL_TEXT>
+<TOKEN id="token-28-0" pos="word" morph="none" start_char="1402" end_char="1408">Germany</TOKEN>
+<TOKEN id="token-28-1" pos="word" morph="none" start_char="1410" end_char="1412">and</TOKEN>
+<TOKEN id="token-28-2" pos="word" morph="none" start_char="1414" end_char="1418">India</TOKEN>
+<TOKEN id="token-28-3" pos="punct" morph="none" start_char="1419" end_char="1419">.</TOKEN>
+<TOKEN id="token-28-4" pos="word" morph="none" start_char="1421" end_char="1427">However</TOKEN>
+<TOKEN id="token-28-5" pos="punct" morph="none" start_char="1428" end_char="1428">,</TOKEN>
+<TOKEN id="token-28-6" pos="word" morph="none" start_char="1430" end_char="1432">WFP</TOKEN>
+<TOKEN id="token-28-7" pos="punct" morph="none" start_char="1433" end_char="1433">’</TOKEN>
+<TOKEN id="token-28-8" pos="word" morph="none" start_char="1434" end_char="1434">s</TOKEN>
+<TOKEN id="token-28-9" pos="word" morph="none" start_char="1436" end_char="1444">emergency</TOKEN>
+<TOKEN id="token-28-10" pos="word" morph="none" start_char="1446" end_char="1455">operations</TOKEN>
+<TOKEN id="token-28-11" pos="word" morph="none" start_char="1457" end_char="1459">are</TOKEN>
+<TOKEN id="token-28-12" pos="word" morph="none" start_char="1461" end_char="1464">only</TOKEN>
+<TOKEN id="token-28-13" pos="number" morph="none" start_char="1466" end_char="1466">4</TOKEN>
+<TOKEN id="token-28-14" pos="word" morph="none" start_char="1468" end_char="1474">percent</TOKEN>
+</SEG>
+<SEG id="segment-29" start_char="1476" end_char="1553">
+<ORIGINAL_TEXT>funded, Richard Ragan, who is coordinating WFP’s relief operation, warned. WFP</ORIGINAL_TEXT>
+<TOKEN id="token-29-0" pos="word" morph="none" start_char="1476" end_char="1481">funded</TOKEN>
+<TOKEN id="token-29-1" pos="punct" morph="none" start_char="1482" end_char="1482">,</TOKEN>
+<TOKEN id="token-29-2" pos="word" morph="none" start_char="1484" end_char="1490">Richard</TOKEN>
+<TOKEN id="token-29-3" pos="word" morph="none" start_char="1492" end_char="1496">Ragan</TOKEN>
+<TOKEN id="token-29-4" pos="punct" morph="none" start_char="1497" end_char="1497">,</TOKEN>
+<TOKEN id="token-29-5" pos="word" morph="none" start_char="1499" end_char="1501">who</TOKEN>
+<TOKEN id="token-29-6" pos="word" morph="none" start_char="1503" end_char="1504">is</TOKEN>
+<TOKEN id="token-29-7" pos="word" morph="none" start_char="1506" end_char="1517">coordinating</TOKEN>
+<TOKEN id="token-29-8" pos="word" morph="none" start_char="1519" end_char="1521">WFP</TOKEN>
+<TOKEN id="token-29-9" pos="punct" morph="none" start_char="1522" end_char="1522">’</TOKEN>
+<TOKEN id="token-29-10" pos="word" morph="none" start_char="1523" end_char="1523">s</TOKEN>
+<TOKEN id="token-29-11" pos="word" morph="none" start_char="1525" end_char="1530">relief</TOKEN>
+<TOKEN id="token-29-12" pos="word" morph="none" start_char="1532" end_char="1540">operation</TOKEN>
+<TOKEN id="token-29-13" pos="punct" morph="none" start_char="1541" end_char="1541">,</TOKEN>
+<TOKEN id="token-29-14" pos="word" morph="none" start_char="1543" end_char="1548">warned</TOKEN>
+<TOKEN id="token-29-15" pos="punct" morph="none" start_char="1549" end_char="1549">.</TOKEN>
+<TOKEN id="token-29-16" pos="word" morph="none" start_char="1551" end_char="1553">WFP</TOKEN>
+</SEG>
+<SEG id="segment-30" start_char="1555" end_char="1633">
+<ORIGINAL_TEXT>has appealed for $116.5 million to provide food for 1.4 million people over the</ORIGINAL_TEXT>
+<TOKEN id="token-30-0" pos="word" morph="none" start_char="1555" end_char="1557">has</TOKEN>
+<TOKEN id="token-30-1" pos="word" morph="none" start_char="1559" end_char="1566">appealed</TOKEN>
+<TOKEN id="token-30-2" pos="word" morph="none" start_char="1568" end_char="1570">for</TOKEN>
+<TOKEN id="token-30-3" pos="unknown" morph="none" start_char="1572" end_char="1577">$116.5</TOKEN>
+<TOKEN id="token-30-4" pos="word" morph="none" start_char="1579" end_char="1585">million</TOKEN>
+<TOKEN id="token-30-5" pos="word" morph="none" start_char="1587" end_char="1588">to</TOKEN>
+<TOKEN id="token-30-6" pos="word" morph="none" start_char="1590" end_char="1596">provide</TOKEN>
+<TOKEN id="token-30-7" pos="word" morph="none" start_char="1598" end_char="1601">food</TOKEN>
+<TOKEN id="token-30-8" pos="word" morph="none" start_char="1603" end_char="1605">for</TOKEN>
+<TOKEN id="token-30-9" pos="number" morph="none" start_char="1607" end_char="1609">1.4</TOKEN>
+<TOKEN id="token-30-10" pos="word" morph="none" start_char="1611" end_char="1617">million</TOKEN>
+<TOKEN id="token-30-11" pos="word" morph="none" start_char="1619" end_char="1624">people</TOKEN>
+<TOKEN id="token-30-12" pos="word" morph="none" start_char="1626" end_char="1629">over</TOKEN>
+<TOKEN id="token-30-13" pos="word" morph="none" start_char="1631" end_char="1633">the</TOKEN>
+</SEG>
+<SEG id="segment-31" start_char="1635" end_char="1648">
+<ORIGINAL_TEXT>next 3 months.</ORIGINAL_TEXT>
+<TOKEN id="token-31-0" pos="word" morph="none" start_char="1635" end_char="1638">next</TOKEN>
+<TOKEN id="token-31-1" pos="number" morph="none" start_char="1640" end_char="1640">3</TOKEN>
+<TOKEN id="token-31-2" pos="word" morph="none" start_char="1642" end_char="1647">months</TOKEN>
+<TOKEN id="token-31-3" pos="punct" morph="none" start_char="1648" end_char="1648">.</TOKEN>
+</SEG>
+<SEG id="segment-32" start_char="1650" end_char="1653">
+<ORIGINAL_TEXT>&lt;/P&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-32-0" pos="unknown" morph="none" start_char="1650" end_char="1653">&lt;/P&gt;</TOKEN>
+</SEG>
+<SEG id="segment-33" start_char="1655" end_char="1657">
+<ORIGINAL_TEXT>&lt;P&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-33-0" pos="unknown" morph="none" start_char="1655" end_char="1657">&lt;P&gt;</TOKEN>
+</SEG>
+<SEG id="segment-34" start_char="1659" end_char="1734">
+<ORIGINAL_TEXT>From Switzerland, the World Health Organization (WHO) has allotted over $1.1</ORIGINAL_TEXT>
+<TOKEN id="token-34-0" pos="word" morph="none" start_char="1659" end_char="1662">From</TOKEN>
+<TOKEN id="token-34-1" pos="word" morph="none" start_char="1664" end_char="1674">Switzerland</TOKEN>
+<TOKEN id="token-34-2" pos="punct" morph="none" start_char="1675" end_char="1675">,</TOKEN>
+<TOKEN id="token-34-3" pos="word" morph="none" start_char="1677" end_char="1679">the</TOKEN>
+<TOKEN id="token-34-4" pos="word" morph="none" start_char="1681" end_char="1685">World</TOKEN>
+<TOKEN id="token-34-5" pos="word" morph="none" start_char="1687" end_char="1692">Health</TOKEN>
+<TOKEN id="token-34-6" pos="word" morph="none" start_char="1694" end_char="1705">Organization</TOKEN>
+<TOKEN id="token-34-7" pos="punct" morph="none" start_char="1707" end_char="1707">(</TOKEN>
+<TOKEN id="token-34-8" pos="word" morph="none" start_char="1708" end_char="1710">WHO</TOKEN>
+<TOKEN id="token-34-9" pos="punct" morph="none" start_char="1711" end_char="1711">)</TOKEN>
+<TOKEN id="token-34-10" pos="word" morph="none" start_char="1713" end_char="1715">has</TOKEN>
+<TOKEN id="token-34-11" pos="word" morph="none" start_char="1717" end_char="1724">allotted</TOKEN>
+<TOKEN id="token-34-12" pos="word" morph="none" start_char="1726" end_char="1729">over</TOKEN>
+<TOKEN id="token-34-13" pos="unknown" morph="none" start_char="1731" end_char="1734">$1.1</TOKEN>
+</SEG>
+<SEG id="segment-35" start_char="1736" end_char="1814">
+<ORIGINAL_TEXT>million for the emergency operations in Nepal. The Asian Development Bank (ADB)</ORIGINAL_TEXT>
+<TOKEN id="token-35-0" pos="word" morph="none" start_char="1736" end_char="1742">million</TOKEN>
+<TOKEN id="token-35-1" pos="word" morph="none" start_char="1744" end_char="1746">for</TOKEN>
+<TOKEN id="token-35-2" pos="word" morph="none" start_char="1748" end_char="1750">the</TOKEN>
+<TOKEN id="token-35-3" pos="word" morph="none" start_char="1752" end_char="1760">emergency</TOKEN>
+<TOKEN id="token-35-4" pos="word" morph="none" start_char="1762" end_char="1771">operations</TOKEN>
+<TOKEN id="token-35-5" pos="word" morph="none" start_char="1773" end_char="1774">in</TOKEN>
+<TOKEN id="token-35-6" pos="word" morph="none" start_char="1776" end_char="1780">Nepal</TOKEN>
+<TOKEN id="token-35-7" pos="punct" morph="none" start_char="1781" end_char="1781">.</TOKEN>
+<TOKEN id="token-35-8" pos="word" morph="none" start_char="1783" end_char="1785">The</TOKEN>
+<TOKEN id="token-35-9" pos="word" morph="none" start_char="1787" end_char="1791">Asian</TOKEN>
+<TOKEN id="token-35-10" pos="word" morph="none" start_char="1793" end_char="1803">Development</TOKEN>
+<TOKEN id="token-35-11" pos="word" morph="none" start_char="1805" end_char="1808">Bank</TOKEN>
+<TOKEN id="token-35-12" pos="punct" morph="none" start_char="1810" end_char="1810">(</TOKEN>
+<TOKEN id="token-35-13" pos="word" morph="none" start_char="1811" end_char="1813">ADB</TOKEN>
+<TOKEN id="token-35-14" pos="punct" morph="none" start_char="1814" end_char="1814">)</TOKEN>
+</SEG>
+<SEG id="segment-36" start_char="1816" end_char="1891">
+<ORIGINAL_TEXT>for its part has already released a $3 million grant to support humanitarian</ORIGINAL_TEXT>
+<TOKEN id="token-36-0" pos="word" morph="none" start_char="1816" end_char="1818">for</TOKEN>
+<TOKEN id="token-36-1" pos="word" morph="none" start_char="1820" end_char="1822">its</TOKEN>
+<TOKEN id="token-36-2" pos="word" morph="none" start_char="1824" end_char="1827">part</TOKEN>
+<TOKEN id="token-36-3" pos="word" morph="none" start_char="1829" end_char="1831">has</TOKEN>
+<TOKEN id="token-36-4" pos="word" morph="none" start_char="1833" end_char="1839">already</TOKEN>
+<TOKEN id="token-36-5" pos="word" morph="none" start_char="1841" end_char="1848">released</TOKEN>
+<TOKEN id="token-36-6" pos="word" morph="none" start_char="1850" end_char="1850">a</TOKEN>
+<TOKEN id="token-36-7" pos="unknown" morph="none" start_char="1852" end_char="1853">$3</TOKEN>
+<TOKEN id="token-36-8" pos="word" morph="none" start_char="1855" end_char="1861">million</TOKEN>
+<TOKEN id="token-36-9" pos="word" morph="none" start_char="1863" end_char="1867">grant</TOKEN>
+<TOKEN id="token-36-10" pos="word" morph="none" start_char="1869" end_char="1870">to</TOKEN>
+<TOKEN id="token-36-11" pos="word" morph="none" start_char="1872" end_char="1878">support</TOKEN>
+<TOKEN id="token-36-12" pos="word" morph="none" start_char="1880" end_char="1891">humanitarian</TOKEN>
+</SEG>
+<SEG id="segment-37" start_char="1893" end_char="1967">
+<ORIGINAL_TEXT>efforts and announced that it will provide up to $200 million of additional</ORIGINAL_TEXT>
+<TOKEN id="token-37-0" pos="word" morph="none" start_char="1893" end_char="1899">efforts</TOKEN>
+<TOKEN id="token-37-1" pos="word" morph="none" start_char="1901" end_char="1903">and</TOKEN>
+<TOKEN id="token-37-2" pos="word" morph="none" start_char="1905" end_char="1913">announced</TOKEN>
+<TOKEN id="token-37-3" pos="word" morph="none" start_char="1915" end_char="1918">that</TOKEN>
+<TOKEN id="token-37-4" pos="word" morph="none" start_char="1920" end_char="1921">it</TOKEN>
+<TOKEN id="token-37-5" pos="word" morph="none" start_char="1923" end_char="1926">will</TOKEN>
+<TOKEN id="token-37-6" pos="word" morph="none" start_char="1928" end_char="1934">provide</TOKEN>
+<TOKEN id="token-37-7" pos="word" morph="none" start_char="1936" end_char="1937">up</TOKEN>
+<TOKEN id="token-37-8" pos="word" morph="none" start_char="1939" end_char="1940">to</TOKEN>
+<TOKEN id="token-37-9" pos="unknown" morph="none" start_char="1942" end_char="1945">$200</TOKEN>
+<TOKEN id="token-37-10" pos="word" morph="none" start_char="1947" end_char="1953">million</TOKEN>
+<TOKEN id="token-37-11" pos="word" morph="none" start_char="1955" end_char="1956">of</TOKEN>
+<TOKEN id="token-37-12" pos="word" morph="none" start_char="1958" end_char="1967">additional</TOKEN>
+</SEG>
+<SEG id="segment-38" start_char="1969" end_char="2043">
+<ORIGINAL_TEXT>resources for reconstruction, and a further $300 million could be used from</ORIGINAL_TEXT>
+<TOKEN id="token-38-0" pos="word" morph="none" start_char="1969" end_char="1977">resources</TOKEN>
+<TOKEN id="token-38-1" pos="word" morph="none" start_char="1979" end_char="1981">for</TOKEN>
+<TOKEN id="token-38-2" pos="word" morph="none" start_char="1983" end_char="1996">reconstruction</TOKEN>
+<TOKEN id="token-38-3" pos="punct" morph="none" start_char="1997" end_char="1997">,</TOKEN>
+<TOKEN id="token-38-4" pos="word" morph="none" start_char="1999" end_char="2001">and</TOKEN>
+<TOKEN id="token-38-5" pos="word" morph="none" start_char="2003" end_char="2003">a</TOKEN>
+<TOKEN id="token-38-6" pos="word" morph="none" start_char="2005" end_char="2011">further</TOKEN>
+<TOKEN id="token-38-7" pos="unknown" morph="none" start_char="2013" end_char="2016">$300</TOKEN>
+<TOKEN id="token-38-8" pos="word" morph="none" start_char="2018" end_char="2024">million</TOKEN>
+<TOKEN id="token-38-9" pos="word" morph="none" start_char="2026" end_char="2030">could</TOKEN>
+<TOKEN id="token-38-10" pos="word" morph="none" start_char="2032" end_char="2033">be</TOKEN>
+<TOKEN id="token-38-11" pos="word" morph="none" start_char="2035" end_char="2038">used</TOKEN>
+<TOKEN id="token-38-12" pos="word" morph="none" start_char="2040" end_char="2043">from</TOKEN>
+</SEG>
+<SEG id="segment-39" start_char="2045" end_char="2119">
+<ORIGINAL_TEXT>existing ADB projects in Nepal. Although significant and in spite of strong</ORIGINAL_TEXT>
+<TOKEN id="token-39-0" pos="word" morph="none" start_char="2045" end_char="2052">existing</TOKEN>
+<TOKEN id="token-39-1" pos="word" morph="none" start_char="2054" end_char="2056">ADB</TOKEN>
+<TOKEN id="token-39-2" pos="word" morph="none" start_char="2058" end_char="2065">projects</TOKEN>
+<TOKEN id="token-39-3" pos="word" morph="none" start_char="2067" end_char="2068">in</TOKEN>
+<TOKEN id="token-39-4" pos="word" morph="none" start_char="2070" end_char="2074">Nepal</TOKEN>
+<TOKEN id="token-39-5" pos="punct" morph="none" start_char="2075" end_char="2075">.</TOKEN>
+<TOKEN id="token-39-6" pos="word" morph="none" start_char="2077" end_char="2084">Although</TOKEN>
+<TOKEN id="token-39-7" pos="word" morph="none" start_char="2086" end_char="2096">significant</TOKEN>
+<TOKEN id="token-39-8" pos="word" morph="none" start_char="2098" end_char="2100">and</TOKEN>
+<TOKEN id="token-39-9" pos="word" morph="none" start_char="2102" end_char="2103">in</TOKEN>
+<TOKEN id="token-39-10" pos="word" morph="none" start_char="2105" end_char="2109">spite</TOKEN>
+<TOKEN id="token-39-11" pos="word" morph="none" start_char="2111" end_char="2112">of</TOKEN>
+<TOKEN id="token-39-12" pos="word" morph="none" start_char="2114" end_char="2119">strong</TOKEN>
+</SEG>
+<SEG id="segment-40" start_char="2121" end_char="2196">
+<ORIGINAL_TEXT>attention worldwide, the international community’s financial contribution to</ORIGINAL_TEXT>
+<TOKEN id="token-40-0" pos="word" morph="none" start_char="2121" end_char="2129">attention</TOKEN>
+<TOKEN id="token-40-1" pos="word" morph="none" start_char="2131" end_char="2139">worldwide</TOKEN>
+<TOKEN id="token-40-2" pos="punct" morph="none" start_char="2140" end_char="2140">,</TOKEN>
+<TOKEN id="token-40-3" pos="word" morph="none" start_char="2142" end_char="2144">the</TOKEN>
+<TOKEN id="token-40-4" pos="word" morph="none" start_char="2146" end_char="2158">international</TOKEN>
+<TOKEN id="token-40-5" pos="word" morph="none" start_char="2160" end_char="2168">community</TOKEN>
+<TOKEN id="token-40-6" pos="punct" morph="none" start_char="2169" end_char="2169">’</TOKEN>
+<TOKEN id="token-40-7" pos="word" morph="none" start_char="2170" end_char="2170">s</TOKEN>
+<TOKEN id="token-40-8" pos="word" morph="none" start_char="2172" end_char="2180">financial</TOKEN>
+<TOKEN id="token-40-9" pos="word" morph="none" start_char="2182" end_char="2193">contribution</TOKEN>
+<TOKEN id="token-40-10" pos="word" morph="none" start_char="2195" end_char="2196">to</TOKEN>
+</SEG>
+<SEG id="segment-41" start_char="2198" end_char="2273">
+<ORIGINAL_TEXT>ongoing humanitarian and future reconstruction operations in Nepal presently</ORIGINAL_TEXT>
+<TOKEN id="token-41-0" pos="word" morph="none" start_char="2198" end_char="2204">ongoing</TOKEN>
+<TOKEN id="token-41-1" pos="word" morph="none" start_char="2206" end_char="2217">humanitarian</TOKEN>
+<TOKEN id="token-41-2" pos="word" morph="none" start_char="2219" end_char="2221">and</TOKEN>
+<TOKEN id="token-41-3" pos="word" morph="none" start_char="2223" end_char="2228">future</TOKEN>
+<TOKEN id="token-41-4" pos="word" morph="none" start_char="2230" end_char="2243">reconstruction</TOKEN>
+<TOKEN id="token-41-5" pos="word" morph="none" start_char="2245" end_char="2254">operations</TOKEN>
+<TOKEN id="token-41-6" pos="word" morph="none" start_char="2256" end_char="2257">in</TOKEN>
+<TOKEN id="token-41-7" pos="word" morph="none" start_char="2259" end_char="2263">Nepal</TOKEN>
+<TOKEN id="token-41-8" pos="word" morph="none" start_char="2265" end_char="2273">presently</TOKEN>
+</SEG>
+<SEG id="segment-42" start_char="2275" end_char="2318">
+<ORIGINAL_TEXT>seems insufficient to address the situation.</ORIGINAL_TEXT>
+<TOKEN id="token-42-0" pos="word" morph="none" start_char="2275" end_char="2279">seems</TOKEN>
+<TOKEN id="token-42-1" pos="word" morph="none" start_char="2281" end_char="2292">insufficient</TOKEN>
+<TOKEN id="token-42-2" pos="word" morph="none" start_char="2294" end_char="2295">to</TOKEN>
+<TOKEN id="token-42-3" pos="word" morph="none" start_char="2297" end_char="2303">address</TOKEN>
+<TOKEN id="token-42-4" pos="word" morph="none" start_char="2305" end_char="2307">the</TOKEN>
+<TOKEN id="token-42-5" pos="word" morph="none" start_char="2309" end_char="2317">situation</TOKEN>
+<TOKEN id="token-42-6" pos="punct" morph="none" start_char="2318" end_char="2318">.</TOKEN>
+</SEG>
+<SEG id="segment-43" start_char="2320" end_char="2323">
+<ORIGINAL_TEXT>&lt;/P&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-43-0" pos="unknown" morph="none" start_char="2320" end_char="2323">&lt;/P&gt;</TOKEN>
+</SEG>
+<SEG id="segment-44" start_char="2325" end_char="2331">
+<ORIGINAL_TEXT>&lt;/TEXT&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-44-0" pos="unknown" morph="none" start_char="2325" end_char="2331">&lt;/TEXT&gt;</TOKEN>
+</SEG>
+<SEG id="segment-45" start_char="2333" end_char="2338">
+<ORIGINAL_TEXT>&lt;/DOC&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-45-0" pos="unknown" morph="none" start_char="2333" end_char="2338">&lt;/DOC&gt;</TOKEN>
+</SEG>
+</TEXT>
+</DOC>
+</LCTL_TEXT>

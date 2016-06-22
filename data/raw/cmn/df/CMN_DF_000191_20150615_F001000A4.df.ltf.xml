@@ -1,0 +1,574 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE LCTL_TEXT SYSTEM "ltf.v1.5.dtd">
+<LCTL_TEXT>
+<DOC id="CMN_DF_000191_20150615_F001000A4.df.xml" tokenization="tokenization_parameters" grammar="none" raw_text_char_length="3548" raw_text_md5="634c0c94e141d1a98f94cb2a6940fce6">
+<TEXT>
+<SEG id="segment-0" start_char="0" end_char="37">
+<ORIGINAL_TEXT>&lt;?xml version="1.0" encoding="utf-8"?&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-0-0" pos="unknown" morph="none" start_char="0" end_char="4">&lt;?xml</TOKEN>
+<TOKEN id="token-0-1" pos="unknown" morph="none" start_char="6" end_char="18">version="1.0"</TOKEN>
+<TOKEN id="token-0-2" pos="unknown" morph="none" start_char="20" end_char="37">encoding="utf-8"?&gt;</TOKEN>
+</SEG>
+<SEG id="segment-1" start_char="39" end_char="81">
+<ORIGINAL_TEXT>&lt;doc id="CMN_DF_000191_20150615_F001000A4"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-1-0" pos="unknown" morph="none" start_char="39" end_char="42">&lt;doc</TOKEN>
+<TOKEN id="token-1-1" pos="unknown" morph="none" start_char="44" end_char="81">id="CMN_DF_000191_20150615_F001000A4"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-2" start_char="83" end_char="92">
+<ORIGINAL_TEXT>&lt;headline&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-2-0" pos="unknown" morph="none" start_char="83" end_char="92">&lt;headline&gt;</TOKEN>
+</SEG>
+<SEG id="segment-3" start_char="94" end_char="115">
+<ORIGINAL_TEXT>英媒称中俄已破解斯诺登文件 英国急撤海外间谍</ORIGINAL_TEXT>
+<TOKEN id="token-3-0" pos="word" morph="none" start_char="94" end_char="106">英媒称中俄已破解斯诺登文件</TOKEN>
+<TOKEN id="token-3-1" pos="word" morph="none" start_char="108" end_char="115">英国急撤海外间谍</TOKEN>
+</SEG>
+<SEG id="segment-4" start_char="117" end_char="127">
+<ORIGINAL_TEXT>&lt;/headline&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-4-0" pos="unknown" morph="none" start_char="117" end_char="127">&lt;/headline&gt;</TOKEN>
+</SEG>
+<SEG id="segment-5" start_char="129" end_char="193">
+<ORIGINAL_TEXT>&lt;post id="p1" author="daviet1999" datetime="2015-06-15T12:40:33"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-5-0" pos="unknown" morph="none" start_char="129" end_char="133">&lt;post</TOKEN>
+<TOKEN id="token-5-1" pos="unknown" morph="none" start_char="135" end_char="141">id="p1"</TOKEN>
+<TOKEN id="token-5-2" pos="unknown" morph="none" start_char="143" end_char="161">author="daviet1999"</TOKEN>
+<TOKEN id="token-5-3" pos="unknown" morph="none" start_char="163" end_char="193">datetime="2015-06-15T12:40:33"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-6" start_char="195" end_char="419">
+<ORIGINAL_TEXT>http://news.lyd.com.cn/system/2015/06/15/010402995.shtml &amp;lt;img  src="http://img5.itiexue.net/2035/20353253.jpg" border="0" onload="bbimg(this)" border="0" alt="英媒称中俄已破解斯诺登文件 英国急撤海外间谍" title="英媒称中俄已破解斯诺登文件 英国急撤海外间谍（图1）"/&amp;gt;</ORIGINAL_TEXT>
+<TOKEN id="token-6-0" pos="url" morph="none" start_char="195" end_char="250">http://news.lyd.com.cn/system/2015/06/15/010402995.shtml</TOKEN>
+<TOKEN id="token-6-1" pos="punct" morph="none" start_char="252" end_char="252">&amp;</TOKEN>
+<TOKEN id="token-6-2" pos="word" morph="none" start_char="253" end_char="254">lt</TOKEN>
+<TOKEN id="token-6-3" pos="punct" morph="none" start_char="255" end_char="255">;</TOKEN>
+<TOKEN id="token-6-4" pos="word" morph="none" start_char="256" end_char="258">img</TOKEN>
+<TOKEN id="token-6-5" pos="unknown" morph="none" start_char="261" end_char="307">src="http://img5.itiexue.net/2035/20353253.jpg"</TOKEN>
+<TOKEN id="token-6-6" pos="unknown" morph="none" start_char="309" end_char="318">border="0"</TOKEN>
+<TOKEN id="token-6-7" pos="unknown" morph="none" start_char="320" end_char="339">onload="bbimg(this)"</TOKEN>
+<TOKEN id="token-6-8" pos="unknown" morph="none" start_char="341" end_char="350">border="0"</TOKEN>
+<TOKEN id="token-6-9" pos="unknown" morph="none" start_char="352" end_char="369">alt="英媒称中俄已破解斯诺登文件</TOKEN>
+<TOKEN id="token-6-10" pos="word" morph="none" start_char="371" end_char="378">英国急撤海外间谍</TOKEN>
+<TOKEN id="token-6-11" pos="punct" morph="none" start_char="379" end_char="379">"</TOKEN>
+<TOKEN id="token-6-12" pos="unknown" morph="none" start_char="381" end_char="400">title="英媒称中俄已破解斯诺登文件</TOKEN>
+<TOKEN id="token-6-13" pos="unknown" morph="none" start_char="402" end_char="419">英国急撤海外间谍（图1）"/&amp;gt;</TOKEN>
+</SEG>
+<SEG id="segment-7" start_char="421" end_char="427">
+<ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-7-0" pos="unknown" morph="none" start_char="421" end_char="427">&lt;/post&gt;</TOKEN>
+</SEG>
+<SEG id="segment-8" start_char="429" end_char="488">
+<ORIGINAL_TEXT>&lt;post id="p2" author="灭日先锋军" datetime="2015-06-15T22:08:36"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-8-0" pos="unknown" morph="none" start_char="429" end_char="433">&lt;post</TOKEN>
+<TOKEN id="token-8-1" pos="unknown" morph="none" start_char="435" end_char="441">id="p2"</TOKEN>
+<TOKEN id="token-8-2" pos="unknown" morph="none" start_char="443" end_char="456">author="灭日先锋军"</TOKEN>
+<TOKEN id="token-8-3" pos="unknown" morph="none" start_char="458" end_char="488">datetime="2015-06-15T22:08:36"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-9" start_char="490" end_char="492">
+<ORIGINAL_TEXT>→_→</ORIGINAL_TEXT>
+<TOKEN id="token-9-0" pos="unknown" morph="none" start_char="490" end_char="492">→_→</TOKEN>
+</SEG>
+<SEG id="segment-10" start_char="494" end_char="500">
+<ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-10-0" pos="unknown" morph="none" start_char="494" end_char="500">&lt;/post&gt;</TOKEN>
+</SEG>
+<SEG id="segment-11" start_char="502" end_char="560">
+<ORIGINAL_TEXT>&lt;post id="p3" author="星野星辉" datetime="2015-06-15T22:21:53"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-11-0" pos="unknown" morph="none" start_char="502" end_char="506">&lt;post</TOKEN>
+<TOKEN id="token-11-1" pos="unknown" morph="none" start_char="508" end_char="514">id="p3"</TOKEN>
+<TOKEN id="token-11-2" pos="unknown" morph="none" start_char="516" end_char="528">author="星野星辉"</TOKEN>
+<TOKEN id="token-11-3" pos="unknown" morph="none" start_char="530" end_char="560">datetime="2015-06-15T22:21:53"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-12" start_char="562" end_char="596">
+<ORIGINAL_TEXT>扯！撤谍这破事你媒体是怎么知道的？美国佬会告诉你被盗机密文件的内容么？</ORIGINAL_TEXT>
+<TOKEN id="token-12-0" pos="unknown" morph="none" start_char="562" end_char="596">扯！撤谍这破事你媒体是怎么知道的？美国佬会告诉你被盗机密文件的内容么？</TOKEN>
+</SEG>
+<SEG id="segment-13" start_char="598" end_char="604">
+<ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-13-0" pos="unknown" morph="none" start_char="598" end_char="604">&lt;/post&gt;</TOKEN>
+</SEG>
+<SEG id="segment-14" start_char="606" end_char="665">
+<ORIGINAL_TEXT>&lt;post id="p4" author="启8114" datetime="2015-06-15T22:22:51"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-14-0" pos="unknown" morph="none" start_char="606" end_char="610">&lt;post</TOKEN>
+<TOKEN id="token-14-1" pos="unknown" morph="none" start_char="612" end_char="618">id="p4"</TOKEN>
+<TOKEN id="token-14-2" pos="unknown" morph="none" start_char="620" end_char="633">author="启8114"</TOKEN>
+<TOKEN id="token-14-3" pos="unknown" morph="none" start_char="635" end_char="665">datetime="2015-06-15T22:22:51"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-15" start_char="667" end_char="691">
+<ORIGINAL_TEXT>&lt;quote orig_author="N/A"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-15-0" pos="unknown" morph="none" start_char="667" end_char="672">&lt;quote</TOKEN>
+<TOKEN id="token-15-1" pos="unknown" morph="none" start_char="674" end_char="691">orig_author="N/A"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-16" start_char="693" end_char="723">
+<ORIGINAL_TEXT>N/A (Original post was deleted)</ORIGINAL_TEXT>
+<TOKEN id="token-16-0" pos="word" morph="none" start_char="693" end_char="693">N</TOKEN>
+<TOKEN id="token-16-1" pos="punct" morph="none" start_char="694" end_char="694">/</TOKEN>
+<TOKEN id="token-16-2" pos="word" morph="none" start_char="695" end_char="695">A</TOKEN>
+<TOKEN id="token-16-3" pos="punct" morph="none" start_char="697" end_char="697">(</TOKEN>
+<TOKEN id="token-16-4" pos="word" morph="none" start_char="698" end_char="705">Original</TOKEN>
+<TOKEN id="token-16-5" pos="word" morph="none" start_char="707" end_char="710">post</TOKEN>
+<TOKEN id="token-16-6" pos="word" morph="none" start_char="712" end_char="714">was</TOKEN>
+<TOKEN id="token-16-7" pos="word" morph="none" start_char="716" end_char="722">deleted</TOKEN>
+<TOKEN id="token-16-8" pos="punct" morph="none" start_char="723" end_char="723">)</TOKEN>
+</SEG>
+<SEG id="segment-17" start_char="725" end_char="732">
+<ORIGINAL_TEXT>&lt;/quote&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-17-0" pos="unknown" morph="none" start_char="725" end_char="732">&lt;/quote&gt;</TOKEN>
+</SEG>
+<SEG id="segment-18" start_char="734" end_char="750">
+<ORIGINAL_TEXT>刚想发表一下感言。怎么就是三楼了。</ORIGINAL_TEXT>
+<TOKEN id="token-18-0" pos="word" morph="none" start_char="734" end_char="741">刚想发表一下感言</TOKEN>
+<TOKEN id="token-18-1" pos="punct" morph="none" start_char="742" end_char="742">。</TOKEN>
+<TOKEN id="token-18-2" pos="word" morph="none" start_char="743" end_char="749">怎么就是三楼了</TOKEN>
+<TOKEN id="token-18-3" pos="punct" morph="none" start_char="750" end_char="750">。</TOKEN>
+</SEG>
+<SEG id="segment-19" start_char="752" end_char="758">
+<ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-19-0" pos="unknown" morph="none" start_char="752" end_char="758">&lt;/post&gt;</TOKEN>
+</SEG>
+<SEG id="segment-20" start_char="760" end_char="818">
+<ORIGINAL_TEXT>&lt;post id="p5" author="二爷是我" datetime="2015-06-15T23:11:53"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-20-0" pos="unknown" morph="none" start_char="760" end_char="764">&lt;post</TOKEN>
+<TOKEN id="token-20-1" pos="unknown" morph="none" start_char="766" end_char="772">id="p5"</TOKEN>
+<TOKEN id="token-20-2" pos="unknown" morph="none" start_char="774" end_char="786">author="二爷是我"</TOKEN>
+<TOKEN id="token-20-3" pos="unknown" morph="none" start_char="788" end_char="818">datetime="2015-06-15T23:11:53"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-21" start_char="820" end_char="846">
+<ORIGINAL_TEXT>&lt;quote orig_author="启8114"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-21-0" pos="unknown" morph="none" start_char="820" end_char="825">&lt;quote</TOKEN>
+<TOKEN id="token-21-1" pos="unknown" morph="none" start_char="827" end_char="846">orig_author="启8114"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-22" start_char="848" end_char="872">
+<ORIGINAL_TEXT>&lt;quote orig_author="N/A"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-22-0" pos="unknown" morph="none" start_char="848" end_char="853">&lt;quote</TOKEN>
+<TOKEN id="token-22-1" pos="unknown" morph="none" start_char="855" end_char="872">orig_author="N/A"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-23" start_char="874" end_char="904">
+<ORIGINAL_TEXT>N/A (Original post was deleted)</ORIGINAL_TEXT>
+<TOKEN id="token-23-0" pos="word" morph="none" start_char="874" end_char="874">N</TOKEN>
+<TOKEN id="token-23-1" pos="punct" morph="none" start_char="875" end_char="875">/</TOKEN>
+<TOKEN id="token-23-2" pos="word" morph="none" start_char="876" end_char="876">A</TOKEN>
+<TOKEN id="token-23-3" pos="punct" morph="none" start_char="878" end_char="878">(</TOKEN>
+<TOKEN id="token-23-4" pos="word" morph="none" start_char="879" end_char="886">Original</TOKEN>
+<TOKEN id="token-23-5" pos="word" morph="none" start_char="888" end_char="891">post</TOKEN>
+<TOKEN id="token-23-6" pos="word" morph="none" start_char="893" end_char="895">was</TOKEN>
+<TOKEN id="token-23-7" pos="word" morph="none" start_char="897" end_char="903">deleted</TOKEN>
+<TOKEN id="token-23-8" pos="punct" morph="none" start_char="904" end_char="904">)</TOKEN>
+</SEG>
+<SEG id="segment-24" start_char="906" end_char="913">
+<ORIGINAL_TEXT>&lt;/quote&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-24-0" pos="unknown" morph="none" start_char="906" end_char="913">&lt;/quote&gt;</TOKEN>
+</SEG>
+<SEG id="segment-25" start_char="915" end_char="931">
+<ORIGINAL_TEXT>刚想发表一下感言。怎么就是三楼了。</ORIGINAL_TEXT>
+<TOKEN id="token-25-0" pos="word" morph="none" start_char="915" end_char="922">刚想发表一下感言</TOKEN>
+<TOKEN id="token-25-1" pos="punct" morph="none" start_char="923" end_char="923">。</TOKEN>
+<TOKEN id="token-25-2" pos="word" morph="none" start_char="924" end_char="930">怎么就是三楼了</TOKEN>
+<TOKEN id="token-25-3" pos="punct" morph="none" start_char="931" end_char="931">。</TOKEN>
+</SEG>
+<SEG id="segment-26" start_char="933" end_char="940">
+<ORIGINAL_TEXT>&lt;/quote&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-26-0" pos="unknown" morph="none" start_char="933" end_char="940">&lt;/quote&gt;</TOKEN>
+</SEG>
+<SEG id="segment-27" start_char="942" end_char="945">
+<ORIGINAL_TEXT>换个网吧</ORIGINAL_TEXT>
+<TOKEN id="token-27-0" pos="word" morph="none" start_char="942" end_char="945">换个网吧</TOKEN>
+</SEG>
+<SEG id="segment-28" start_char="947" end_char="953">
+<ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-28-0" pos="unknown" morph="none" start_char="947" end_char="953">&lt;/post&gt;</TOKEN>
+</SEG>
+<SEG id="segment-29" start_char="955" end_char="1018">
+<ORIGINAL_TEXT>&lt;post id="p6" author="fairfrank" datetime="2015-06-15T23:44:55"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-29-0" pos="unknown" morph="none" start_char="955" end_char="959">&lt;post</TOKEN>
+<TOKEN id="token-29-1" pos="unknown" morph="none" start_char="961" end_char="967">id="p6"</TOKEN>
+<TOKEN id="token-29-2" pos="unknown" morph="none" start_char="969" end_char="986">author="fairfrank"</TOKEN>
+<TOKEN id="token-29-3" pos="unknown" morph="none" start_char="988" end_char="1018">datetime="2015-06-15T23:44:55"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-30" start_char="1020" end_char="1045">
+<ORIGINAL_TEXT>&lt;quote orig_author="星野星辉"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-30-0" pos="unknown" morph="none" start_char="1020" end_char="1025">&lt;quote</TOKEN>
+<TOKEN id="token-30-1" pos="unknown" morph="none" start_char="1027" end_char="1045">orig_author="星野星辉"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-31" start_char="1047" end_char="1081">
+<ORIGINAL_TEXT>扯！撤谍这破事你媒体是怎么知道的？美国佬会告诉你被盗机密文件的内容么？</ORIGINAL_TEXT>
+<TOKEN id="token-31-0" pos="unknown" morph="none" start_char="1047" end_char="1081">扯！撤谍这破事你媒体是怎么知道的？美国佬会告诉你被盗机密文件的内容么？</TOKEN>
+</SEG>
+<SEG id="segment-32" start_char="1083" end_char="1090">
+<ORIGINAL_TEXT>&lt;/quote&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-32-0" pos="unknown" morph="none" start_char="1083" end_char="1090">&lt;/quote&gt;</TOKEN>
+</SEG>
+<SEG id="segment-33" start_char="1092" end_char="1155">
+<ORIGINAL_TEXT>西方媒体可是神通广大，莱温斯基色事都能挖到，特工回撤只需要打电话问一下用来遮掩的企业就知道了，而很多情报人员靠媒体买信息活着呢。</ORIGINAL_TEXT>
+<TOKEN id="token-33-0" pos="unknown" morph="none" start_char="1092" end_char="1155">西方媒体可是神通广大，莱温斯基色事都能挖到，特工回撤只需要打电话问一下用来遮掩的企业就知道了，而很多情报人员靠媒体买信息活着呢。</TOKEN>
+</SEG>
+<SEG id="segment-34" start_char="1157" end_char="1163">
+<ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-34-0" pos="unknown" morph="none" start_char="1157" end_char="1163">&lt;/post&gt;</TOKEN>
+</SEG>
+<SEG id="segment-35" start_char="1165" end_char="1228">
+<ORIGINAL_TEXT>&lt;post id="p7" author="757043616" datetime="2015-06-16T02:56:38"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-35-0" pos="unknown" morph="none" start_char="1165" end_char="1169">&lt;post</TOKEN>
+<TOKEN id="token-35-1" pos="unknown" morph="none" start_char="1171" end_char="1177">id="p7"</TOKEN>
+<TOKEN id="token-35-2" pos="unknown" morph="none" start_char="1179" end_char="1196">author="757043616"</TOKEN>
+<TOKEN id="token-35-3" pos="unknown" morph="none" start_char="1198" end_char="1228">datetime="2015-06-16T02:56:38"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-36" start_char="1230" end_char="1237">
+<ORIGINAL_TEXT>间谍啊，我也想当</ORIGINAL_TEXT>
+<TOKEN id="token-36-0" pos="word" morph="none" start_char="1230" end_char="1232">间谍啊</TOKEN>
+<TOKEN id="token-36-1" pos="punct" morph="none" start_char="1233" end_char="1233">，</TOKEN>
+<TOKEN id="token-36-2" pos="word" morph="none" start_char="1234" end_char="1237">我也想当</TOKEN>
+</SEG>
+<SEG id="segment-37" start_char="1239" end_char="1245">
+<ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-37-0" pos="unknown" morph="none" start_char="1239" end_char="1245">&lt;/post&gt;</TOKEN>
+</SEG>
+<SEG id="segment-38" start_char="1247" end_char="1305">
+<ORIGINAL_TEXT>&lt;post id="p8" author="开心颜笑" datetime="2015-06-16T02:59:26"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-38-0" pos="unknown" morph="none" start_char="1247" end_char="1251">&lt;post</TOKEN>
+<TOKEN id="token-38-1" pos="unknown" morph="none" start_char="1253" end_char="1259">id="p8"</TOKEN>
+<TOKEN id="token-38-2" pos="unknown" morph="none" start_char="1261" end_char="1273">author="开心颜笑"</TOKEN>
+<TOKEN id="token-38-3" pos="unknown" morph="none" start_char="1275" end_char="1305">datetime="2015-06-16T02:59:26"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-39" start_char="1307" end_char="1333">
+<ORIGINAL_TEXT>&lt;quote orig_author="启8114"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-39-0" pos="unknown" morph="none" start_char="1307" end_char="1312">&lt;quote</TOKEN>
+<TOKEN id="token-39-1" pos="unknown" morph="none" start_char="1314" end_char="1333">orig_author="启8114"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-40" start_char="1335" end_char="1359">
+<ORIGINAL_TEXT>&lt;quote orig_author="N/A"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-40-0" pos="unknown" morph="none" start_char="1335" end_char="1340">&lt;quote</TOKEN>
+<TOKEN id="token-40-1" pos="unknown" morph="none" start_char="1342" end_char="1359">orig_author="N/A"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-41" start_char="1361" end_char="1391">
+<ORIGINAL_TEXT>N/A (Original post was deleted)</ORIGINAL_TEXT>
+<TOKEN id="token-41-0" pos="word" morph="none" start_char="1361" end_char="1361">N</TOKEN>
+<TOKEN id="token-41-1" pos="punct" morph="none" start_char="1362" end_char="1362">/</TOKEN>
+<TOKEN id="token-41-2" pos="word" morph="none" start_char="1363" end_char="1363">A</TOKEN>
+<TOKEN id="token-41-3" pos="punct" morph="none" start_char="1365" end_char="1365">(</TOKEN>
+<TOKEN id="token-41-4" pos="word" morph="none" start_char="1366" end_char="1373">Original</TOKEN>
+<TOKEN id="token-41-5" pos="word" morph="none" start_char="1375" end_char="1378">post</TOKEN>
+<TOKEN id="token-41-6" pos="word" morph="none" start_char="1380" end_char="1382">was</TOKEN>
+<TOKEN id="token-41-7" pos="word" morph="none" start_char="1384" end_char="1390">deleted</TOKEN>
+<TOKEN id="token-41-8" pos="punct" morph="none" start_char="1391" end_char="1391">)</TOKEN>
+</SEG>
+<SEG id="segment-42" start_char="1393" end_char="1400">
+<ORIGINAL_TEXT>&lt;/quote&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-42-0" pos="unknown" morph="none" start_char="1393" end_char="1400">&lt;/quote&gt;</TOKEN>
+</SEG>
+<SEG id="segment-43" start_char="1402" end_char="1418">
+<ORIGINAL_TEXT>刚想发表一下感言。怎么就是三楼了。</ORIGINAL_TEXT>
+<TOKEN id="token-43-0" pos="word" morph="none" start_char="1402" end_char="1409">刚想发表一下感言</TOKEN>
+<TOKEN id="token-43-1" pos="punct" morph="none" start_char="1410" end_char="1410">。</TOKEN>
+<TOKEN id="token-43-2" pos="word" morph="none" start_char="1411" end_char="1417">怎么就是三楼了</TOKEN>
+<TOKEN id="token-43-3" pos="punct" morph="none" start_char="1418" end_char="1418">。</TOKEN>
+</SEG>
+<SEG id="segment-44" start_char="1420" end_char="1427">
+<ORIGINAL_TEXT>&lt;/quote&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-44-0" pos="unknown" morph="none" start_char="1420" end_char="1427">&lt;/quote&gt;</TOKEN>
+</SEG>
+<SEG id="segment-45" start_char="1429" end_char="1431">
+<ORIGINAL_TEXT>三楼？</ORIGINAL_TEXT>
+<TOKEN id="token-45-0" pos="word" morph="none" start_char="1429" end_char="1430">三楼</TOKEN>
+<TOKEN id="token-45-1" pos="punct" morph="none" start_char="1431" end_char="1431">？</TOKEN>
+</SEG>
+<SEG id="segment-46" start_char="1433" end_char="1439">
+<ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-46-0" pos="unknown" morph="none" start_char="1433" end_char="1439">&lt;/post&gt;</TOKEN>
+</SEG>
+<SEG id="segment-47" start_char="1441" end_char="1501">
+<ORIGINAL_TEXT>&lt;post id="p9" author="当我身着军装" datetime="2015-06-16T09:36:16"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-47-0" pos="unknown" morph="none" start_char="1441" end_char="1445">&lt;post</TOKEN>
+<TOKEN id="token-47-1" pos="unknown" morph="none" start_char="1447" end_char="1453">id="p9"</TOKEN>
+<TOKEN id="token-47-2" pos="unknown" morph="none" start_char="1455" end_char="1469">author="当我身着军装"</TOKEN>
+<TOKEN id="token-47-3" pos="unknown" morph="none" start_char="1471" end_char="1501">datetime="2015-06-16T09:36:16"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-48" start_char="1503" end_char="1528">
+<ORIGINAL_TEXT>&lt;quote orig_author="开心颜笑"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-48-0" pos="unknown" morph="none" start_char="1503" end_char="1508">&lt;quote</TOKEN>
+<TOKEN id="token-48-1" pos="unknown" morph="none" start_char="1510" end_char="1528">orig_author="开心颜笑"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-49" start_char="1530" end_char="1556">
+<ORIGINAL_TEXT>&lt;quote orig_author="启8114"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-49-0" pos="unknown" morph="none" start_char="1530" end_char="1535">&lt;quote</TOKEN>
+<TOKEN id="token-49-1" pos="unknown" morph="none" start_char="1537" end_char="1556">orig_author="启8114"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-50" start_char="1558" end_char="1582">
+<ORIGINAL_TEXT>&lt;quote orig_author="N/A"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-50-0" pos="unknown" morph="none" start_char="1558" end_char="1563">&lt;quote</TOKEN>
+<TOKEN id="token-50-1" pos="unknown" morph="none" start_char="1565" end_char="1582">orig_author="N/A"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-51" start_char="1584" end_char="1614">
+<ORIGINAL_TEXT>N/A (Original post was deleted)</ORIGINAL_TEXT>
+<TOKEN id="token-51-0" pos="word" morph="none" start_char="1584" end_char="1584">N</TOKEN>
+<TOKEN id="token-51-1" pos="punct" morph="none" start_char="1585" end_char="1585">/</TOKEN>
+<TOKEN id="token-51-2" pos="word" morph="none" start_char="1586" end_char="1586">A</TOKEN>
+<TOKEN id="token-51-3" pos="punct" morph="none" start_char="1588" end_char="1588">(</TOKEN>
+<TOKEN id="token-51-4" pos="word" morph="none" start_char="1589" end_char="1596">Original</TOKEN>
+<TOKEN id="token-51-5" pos="word" morph="none" start_char="1598" end_char="1601">post</TOKEN>
+<TOKEN id="token-51-6" pos="word" morph="none" start_char="1603" end_char="1605">was</TOKEN>
+<TOKEN id="token-51-7" pos="word" morph="none" start_char="1607" end_char="1613">deleted</TOKEN>
+<TOKEN id="token-51-8" pos="punct" morph="none" start_char="1614" end_char="1614">)</TOKEN>
+</SEG>
+<SEG id="segment-52" start_char="1616" end_char="1623">
+<ORIGINAL_TEXT>&lt;/quote&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-52-0" pos="unknown" morph="none" start_char="1616" end_char="1623">&lt;/quote&gt;</TOKEN>
+</SEG>
+<SEG id="segment-53" start_char="1625" end_char="1641">
+<ORIGINAL_TEXT>刚想发表一下感言。怎么就是三楼了。</ORIGINAL_TEXT>
+<TOKEN id="token-53-0" pos="word" morph="none" start_char="1625" end_char="1632">刚想发表一下感言</TOKEN>
+<TOKEN id="token-53-1" pos="punct" morph="none" start_char="1633" end_char="1633">。</TOKEN>
+<TOKEN id="token-53-2" pos="word" morph="none" start_char="1634" end_char="1640">怎么就是三楼了</TOKEN>
+<TOKEN id="token-53-3" pos="punct" morph="none" start_char="1641" end_char="1641">。</TOKEN>
+</SEG>
+<SEG id="segment-54" start_char="1643" end_char="1650">
+<ORIGINAL_TEXT>&lt;/quote&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-54-0" pos="unknown" morph="none" start_char="1643" end_char="1650">&lt;/quote&gt;</TOKEN>
+</SEG>
+<SEG id="segment-55" start_char="1652" end_char="1654">
+<ORIGINAL_TEXT>三楼？</ORIGINAL_TEXT>
+<TOKEN id="token-55-0" pos="word" morph="none" start_char="1652" end_char="1653">三楼</TOKEN>
+<TOKEN id="token-55-1" pos="punct" morph="none" start_char="1654" end_char="1654">？</TOKEN>
+</SEG>
+<SEG id="segment-56" start_char="1656" end_char="1663">
+<ORIGINAL_TEXT>&lt;/quote&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-56-0" pos="unknown" morph="none" start_char="1656" end_char="1663">&lt;/quote&gt;</TOKEN>
+</SEG>
+<SEG id="segment-57" start_char="1665" end_char="1667">
+<ORIGINAL_TEXT>你确定</ORIGINAL_TEXT>
+<TOKEN id="token-57-0" pos="word" morph="none" start_char="1665" end_char="1667">你确定</TOKEN>
+</SEG>
+<SEG id="segment-58" start_char="1669" end_char="1675">
+<ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-58-0" pos="unknown" morph="none" start_char="1669" end_char="1675">&lt;/post&gt;</TOKEN>
+</SEG>
+<SEG id="segment-59" start_char="1677" end_char="1745">
+<ORIGINAL_TEXT>&lt;post id="p10" author="yangming65668" datetime="2015-06-16T10:38:40"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-59-0" pos="unknown" morph="none" start_char="1677" end_char="1681">&lt;post</TOKEN>
+<TOKEN id="token-59-1" pos="unknown" morph="none" start_char="1683" end_char="1690">id="p10"</TOKEN>
+<TOKEN id="token-59-2" pos="unknown" morph="none" start_char="1692" end_char="1713">author="yangming65668"</TOKEN>
+<TOKEN id="token-59-3" pos="unknown" morph="none" start_char="1715" end_char="1745">datetime="2015-06-16T10:38:40"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-60" start_char="1747" end_char="1769">
+<ORIGINAL_TEXT>什么年代了，专业一点好吧，间谍没有暗杀一说了。</ORIGINAL_TEXT>
+<TOKEN id="token-60-0" pos="unknown" morph="none" start_char="1747" end_char="1769">什么年代了，专业一点好吧，间谍没有暗杀一说了。</TOKEN>
+</SEG>
+<SEG id="segment-61" start_char="1771" end_char="1777">
+<ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-61-0" pos="unknown" morph="none" start_char="1771" end_char="1777">&lt;/post&gt;</TOKEN>
+</SEG>
+<SEG id="segment-62" start_char="1779" end_char="1843">
+<ORIGINAL_TEXT>&lt;post id="p11" author="雪舞皋兰&amp;#13;" datetime="2015-06-16T13:09:21"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-62-0" pos="unknown" morph="none" start_char="1779" end_char="1783">&lt;post</TOKEN>
+<TOKEN id="token-62-1" pos="unknown" morph="none" start_char="1785" end_char="1792">id="p11"</TOKEN>
+<TOKEN id="token-62-2" pos="unknown" morph="none" start_char="1794" end_char="1811">author="雪舞皋兰&amp;#13;"</TOKEN>
+<TOKEN id="token-62-3" pos="unknown" morph="none" start_char="1813" end_char="1843">datetime="2015-06-16T13:09:21"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-63" start_char="1845" end_char="1867">
+<ORIGINAL_TEXT>170万份？冰山一角而已。多大的事。&amp;#13;</ORIGINAL_TEXT>
+<TOKEN id="token-63-0" pos="unknown" morph="none" start_char="1845" end_char="1867">170万份？冰山一角而已。多大的事。&amp;#13;</TOKEN>
+</SEG>
+<SEG id="segment-64" start_char="1869" end_char="1882">
+<ORIGINAL_TEXT>问题是美国应对世界有个交代！</ORIGINAL_TEXT>
+<TOKEN id="token-64-0" pos="word" morph="none" start_char="1869" end_char="1881">问题是美国应对世界有个交代</TOKEN>
+<TOKEN id="token-64-1" pos="punct" morph="none" start_char="1882" end_char="1882">！</TOKEN>
+</SEG>
+<SEG id="segment-65" start_char="1884" end_char="1890">
+<ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-65-0" pos="unknown" morph="none" start_char="1884" end_char="1890">&lt;/post&gt;</TOKEN>
+</SEG>
+<SEG id="segment-66" start_char="1892" end_char="1959">
+<ORIGINAL_TEXT>&lt;post id="p12" author="dydydy010101" datetime="2015-06-16T14:26:48"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-66-0" pos="unknown" morph="none" start_char="1892" end_char="1896">&lt;post</TOKEN>
+<TOKEN id="token-66-1" pos="unknown" morph="none" start_char="1898" end_char="1905">id="p12"</TOKEN>
+<TOKEN id="token-66-2" pos="unknown" morph="none" start_char="1907" end_char="1927">author="dydydy010101"</TOKEN>
+<TOKEN id="token-66-3" pos="unknown" morph="none" start_char="1929" end_char="1959">datetime="2015-06-16T14:26:48"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-67" start_char="1961" end_char="1991">
+<ORIGINAL_TEXT>&lt;quote orig_author="雪舞皋兰&amp;#13;"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-67-0" pos="unknown" morph="none" start_char="1961" end_char="1966">&lt;quote</TOKEN>
+<TOKEN id="token-67-1" pos="unknown" morph="none" start_char="1968" end_char="1991">orig_author="雪舞皋兰&amp;#13;"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-68" start_char="1993" end_char="2015">
+<ORIGINAL_TEXT>170万份？冰山一角而已。多大的事。&amp;#13;</ORIGINAL_TEXT>
+<TOKEN id="token-68-0" pos="unknown" morph="none" start_char="1993" end_char="2015">170万份？冰山一角而已。多大的事。&amp;#13;</TOKEN>
+</SEG>
+<SEG id="segment-69" start_char="2017" end_char="2030">
+<ORIGINAL_TEXT>问题是美国应对世界有个交代！</ORIGINAL_TEXT>
+<TOKEN id="token-69-0" pos="word" morph="none" start_char="2017" end_char="2029">问题是美国应对世界有个交代</TOKEN>
+<TOKEN id="token-69-1" pos="punct" morph="none" start_char="2030" end_char="2030">！</TOKEN>
+</SEG>
+<SEG id="segment-70" start_char="2032" end_char="2039">
+<ORIGINAL_TEXT>&lt;/quote&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-70-0" pos="unknown" morph="none" start_char="2032" end_char="2039">&lt;/quote&gt;</TOKEN>
+</SEG>
+<SEG id="segment-71" start_char="2041" end_char="2081">
+<ORIGINAL_TEXT>美国政府所做的一切都是正确的，都是为了全世界、全人类----------&amp;#13;</ORIGINAL_TEXT>
+<TOKEN id="token-71-0" pos="unknown" morph="none" start_char="2041" end_char="2081">美国政府所做的一切都是正确的，都是为了全世界、全人类----------&amp;#13;</TOKEN>
+</SEG>
+<SEG id="segment-72" start_char="2083" end_char="2116">
+<ORIGINAL_TEXT>1、白人警察枪杀黑人-----为了保护有钱人和白人的安全；&amp;#13;</ORIGINAL_TEXT>
+<TOKEN id="token-72-0" pos="unknown" morph="none" start_char="2083" end_char="2116">1、白人警察枪杀黑人-----为了保护有钱人和白人的安全；&amp;#13;</TOKEN>
+</SEG>
+<SEG id="segment-73" start_char="2118" end_char="2173">
+<ORIGINAL_TEXT>2、抹黑中国，支持港独、台独、藏独、疆独------可能美国政府觉得除美国以外的人，都该有独立的权力；&amp;#13;</ORIGINAL_TEXT>
+<TOKEN id="token-73-0" pos="unknown" morph="none" start_char="2118" end_char="2173">2、抹黑中国，支持港独、台独、藏独、疆独------可能美国政府觉得除美国以外的人，都该有独立的权力；&amp;#13;</TOKEN>
+</SEG>
+<SEG id="segment-74" start_char="2175" end_char="2243">
+<ORIGINAL_TEXT>3、为了他国人民的自由民主-----不惜军事入侵伊拉克、阿富汗，利比亚-----终于让这些国家的人民过上了如今幸福的生活。。。。&amp;#13;</ORIGINAL_TEXT>
+<TOKEN id="token-74-0" pos="unknown" morph="none" start_char="2175" end_char="2243">3、为了他国人民的自由民主-----不惜军事入侵伊拉克、阿富汗，利比亚-----终于让这些国家的人民过上了如今幸福的生活。。。。&amp;#13;</TOKEN>
+</SEG>
+<SEG id="segment-75" start_char="2245" end_char="2279">
+<ORIGINAL_TEXT>4、颠覆叙利亚政府-----培养了连小孩妇女都杀的“自由军”&amp;#13;</ORIGINAL_TEXT>
+<TOKEN id="token-75-0" pos="unknown" morph="none" start_char="2245" end_char="2279">4、颠覆叙利亚政府-----培养了连小孩妇女都杀的“自由军”&amp;#13;</TOKEN>
+</SEG>
+<SEG id="segment-76" start_char="2281" end_char="2319">
+<ORIGINAL_TEXT>5、支持乌克兰人民推翻前总统------看----现在的乌克兰多么的民主！！！</ORIGINAL_TEXT>
+<TOKEN id="token-76-0" pos="unknown" morph="none" start_char="2281" end_char="2319">5、支持乌克兰人民推翻前总统------看----现在的乌克兰多么的民主！！！</TOKEN>
+</SEG>
+<SEG id="segment-77" start_char="2321" end_char="2327">
+<ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-77-0" pos="unknown" morph="none" start_char="2321" end_char="2327">&lt;/post&gt;</TOKEN>
+</SEG>
+<SEG id="segment-78" start_char="2329" end_char="2401">
+<ORIGINAL_TEXT>&lt;post id="p13" author="小白小黑和小黄&amp;#13;&amp;#10;" datetime="2015-06-16T14:36:58"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-78-0" pos="unknown" morph="none" start_char="2329" end_char="2333">&lt;post</TOKEN>
+<TOKEN id="token-78-1" pos="unknown" morph="none" start_char="2335" end_char="2342">id="p13"</TOKEN>
+<TOKEN id="token-78-2" pos="unknown" morph="none" start_char="2344" end_char="2369">author="小白小黑和小黄&amp;#13;&amp;#10;"</TOKEN>
+<TOKEN id="token-78-3" pos="unknown" morph="none" start_char="2371" end_char="2401">datetime="2015-06-16T14:36:58"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-79" start_char="2403" end_char="2436">
+<ORIGINAL_TEXT>&lt;quote orig_author="dydydy010101"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-79-0" pos="unknown" morph="none" start_char="2403" end_char="2408">&lt;quote</TOKEN>
+<TOKEN id="token-79-1" pos="unknown" morph="none" start_char="2410" end_char="2436">orig_author="dydydy010101"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-80" start_char="2438" end_char="2468">
+<ORIGINAL_TEXT>&lt;quote orig_author="雪舞皋兰&amp;#13;"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-80-0" pos="unknown" morph="none" start_char="2438" end_char="2443">&lt;quote</TOKEN>
+<TOKEN id="token-80-1" pos="unknown" morph="none" start_char="2445" end_char="2468">orig_author="雪舞皋兰&amp;#13;"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-81" start_char="2470" end_char="2492">
+<ORIGINAL_TEXT>170万份？冰山一角而已。多大的事。&amp;#13;</ORIGINAL_TEXT>
+<TOKEN id="token-81-0" pos="unknown" morph="none" start_char="2470" end_char="2492">170万份？冰山一角而已。多大的事。&amp;#13;</TOKEN>
+</SEG>
+<SEG id="segment-82" start_char="2494" end_char="2507">
+<ORIGINAL_TEXT>问题是美国应对世界有个交代！</ORIGINAL_TEXT>
+<TOKEN id="token-82-0" pos="word" morph="none" start_char="2494" end_char="2506">问题是美国应对世界有个交代</TOKEN>
+<TOKEN id="token-82-1" pos="punct" morph="none" start_char="2507" end_char="2507">！</TOKEN>
+</SEG>
+<SEG id="segment-83" start_char="2509" end_char="2516">
+<ORIGINAL_TEXT>&lt;/quote&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-83-0" pos="unknown" morph="none" start_char="2509" end_char="2516">&lt;/quote&gt;</TOKEN>
+</SEG>
+<SEG id="segment-84" start_char="2518" end_char="2558">
+<ORIGINAL_TEXT>美国政府所做的一切都是正确的，都是为了全世界、全人类----------&amp;#13;</ORIGINAL_TEXT>
+<TOKEN id="token-84-0" pos="unknown" morph="none" start_char="2518" end_char="2558">美国政府所做的一切都是正确的，都是为了全世界、全人类----------&amp;#13;</TOKEN>
+</SEG>
+<SEG id="segment-85" start_char="2560" end_char="2593">
+<ORIGINAL_TEXT>1、白人警察枪杀黑人-----为了保护有钱人和白人的安全；&amp;#13;</ORIGINAL_TEXT>
+<TOKEN id="token-85-0" pos="unknown" morph="none" start_char="2560" end_char="2593">1、白人警察枪杀黑人-----为了保护有钱人和白人的安全；&amp;#13;</TOKEN>
+</SEG>
+<SEG id="segment-86" start_char="2595" end_char="2650">
+<ORIGINAL_TEXT>2、抹黑中国，支持港独、台独、藏独、疆独------可能美国政府觉得除美国以外的人，都该有独立的权力；&amp;#13;</ORIGINAL_TEXT>
+<TOKEN id="token-86-0" pos="unknown" morph="none" start_char="2595" end_char="2650">2、抹黑中国，支持港独、台独、藏独、疆独------可能美国政府觉得除美国以外的人，都该有独立的权力；&amp;#13;</TOKEN>
+</SEG>
+<SEG id="segment-87" start_char="2652" end_char="2720">
+<ORIGINAL_TEXT>3、为了他国人民的自由民主-----不惜军事入侵伊拉克、阿富汗，利比亚-----终于让这些国家的人民过上了如今幸福的生活。。。。&amp;#13;</ORIGINAL_TEXT>
+<TOKEN id="token-87-0" pos="unknown" morph="none" start_char="2652" end_char="2720">3、为了他国人民的自由民主-----不惜军事入侵伊拉克、阿富汗，利比亚-----终于让这些国家的人民过上了如今幸福的生活。。。。&amp;#13;</TOKEN>
+</SEG>
+<SEG id="segment-88" start_char="2722" end_char="2756">
+<ORIGINAL_TEXT>4、颠覆叙利亚政府-----培养了连小孩妇女都杀的“自由军”&amp;#13;</ORIGINAL_TEXT>
+<TOKEN id="token-88-0" pos="unknown" morph="none" start_char="2722" end_char="2756">4、颠覆叙利亚政府-----培养了连小孩妇女都杀的“自由军”&amp;#13;</TOKEN>
+</SEG>
+<SEG id="segment-89" start_char="2758" end_char="2796">
+<ORIGINAL_TEXT>5、支持乌克兰人民推翻前总统------看----现在的乌克兰多么的民主！！！</ORIGINAL_TEXT>
+<TOKEN id="token-89-0" pos="unknown" morph="none" start_char="2758" end_char="2796">5、支持乌克兰人民推翻前总统------看----现在的乌克兰多么的民主！！！</TOKEN>
+</SEG>
+<SEG id="segment-90" start_char="2798" end_char="2805">
+<ORIGINAL_TEXT>&lt;/quote&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-90-0" pos="unknown" morph="none" start_char="2798" end_char="2805">&lt;/quote&gt;</TOKEN>
+</SEG>
+<SEG id="segment-91" start_char="2807" end_char="2838">
+<ORIGINAL_TEXT>所以完全支持认为皿煮国家好，想移民的人快点移民走的越快越好，不送</ORIGINAL_TEXT>
+<TOKEN id="token-91-0" pos="unknown" morph="none" start_char="2807" end_char="2838">所以完全支持认为皿煮国家好，想移民的人快点移民走的越快越好，不送</TOKEN>
+</SEG>
+<SEG id="segment-92" start_char="2840" end_char="2846">
+<ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-92-0" pos="unknown" morph="none" start_char="2840" end_char="2846">&lt;/post&gt;</TOKEN>
+</SEG>
+<SEG id="segment-93" start_char="2848" end_char="2912">
+<ORIGINAL_TEXT>&lt;post id="p14" author="人间狐狸&amp;#13;" datetime="2015-06-16T14:53:15"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-93-0" pos="unknown" morph="none" start_char="2848" end_char="2852">&lt;post</TOKEN>
+<TOKEN id="token-93-1" pos="unknown" morph="none" start_char="2854" end_char="2861">id="p14"</TOKEN>
+<TOKEN id="token-93-2" pos="unknown" morph="none" start_char="2863" end_char="2880">author="人间狐狸&amp;#13;"</TOKEN>
+<TOKEN id="token-93-3" pos="unknown" morph="none" start_char="2882" end_char="2912">datetime="2015-06-16T14:53:15"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-94" start_char="2914" end_char="2948">
+<ORIGINAL_TEXT>&lt;quote orig_author="yangming65668"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-94-0" pos="unknown" morph="none" start_char="2914" end_char="2919">&lt;quote</TOKEN>
+<TOKEN id="token-94-1" pos="unknown" morph="none" start_char="2921" end_char="2948">orig_author="yangming65668"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-95" start_char="2950" end_char="2972">
+<ORIGINAL_TEXT>什么年代了，专业一点好吧，间谍没有暗杀一说了。</ORIGINAL_TEXT>
+<TOKEN id="token-95-0" pos="unknown" morph="none" start_char="2950" end_char="2972">什么年代了，专业一点好吧，间谍没有暗杀一说了。</TOKEN>
+</SEG>
+<SEG id="segment-96" start_char="2974" end_char="2981">
+<ORIGINAL_TEXT>&lt;/quote&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-96-0" pos="unknown" morph="none" start_char="2974" end_char="2981">&lt;/quote&gt;</TOKEN>
+</SEG>
+<SEG id="segment-97" start_char="2983" end_char="3017">
+<ORIGINAL_TEXT>这个还是有的，只是不到万不得已的时候是不会这样的！！！！！这一点你懂的</ORIGINAL_TEXT>
+<TOKEN id="token-97-0" pos="unknown" morph="none" start_char="2983" end_char="3017">这个还是有的，只是不到万不得已的时候是不会这样的！！！！！这一点你懂的</TOKEN>
+</SEG>
+<SEG id="segment-98" start_char="3019" end_char="3025">
+<ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-98-0" pos="unknown" morph="none" start_char="3019" end_char="3025">&lt;/post&gt;</TOKEN>
+</SEG>
+<SEG id="segment-99" start_char="3027" end_char="3096">
+<ORIGINAL_TEXT>&lt;post id="p15" author="中巴友谊万岁123&amp;#13;" datetime="2015-06-16T17:46:19"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-99-0" pos="unknown" morph="none" start_char="3027" end_char="3031">&lt;post</TOKEN>
+<TOKEN id="token-99-1" pos="unknown" morph="none" start_char="3033" end_char="3040">id="p15"</TOKEN>
+<TOKEN id="token-99-2" pos="unknown" morph="none" start_char="3042" end_char="3064">author="中巴友谊万岁123&amp;#13;"</TOKEN>
+<TOKEN id="token-99-3" pos="unknown" morph="none" start_char="3066" end_char="3096">datetime="2015-06-16T17:46:19"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-100" start_char="3098" end_char="3176">
+<ORIGINAL_TEXT>无耻逻辑。间谍是什么呢？间谍是国际上没有任何法律能保护的人员。只要抓到间谍，确认是间谍，那么国家就可以用任何手段对付。包括酷刑，枪毙。没有任何法律能保障间谍。</ORIGINAL_TEXT>
+<TOKEN id="token-100-0" pos="unknown" morph="none" start_char="3098" end_char="3176">无耻逻辑。间谍是什么呢？间谍是国际上没有任何法律能保护的人员。只要抓到间谍，确认是间谍，那么国家就可以用任何手段对付。包括酷刑，枪毙。没有任何法律能保障间谍。</TOKEN>
+</SEG>
+<SEG id="segment-101" start_char="3178" end_char="3184">
+<ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-101-0" pos="unknown" morph="none" start_char="3178" end_char="3184">&lt;/post&gt;</TOKEN>
+</SEG>
+<SEG id="segment-102" start_char="3186" end_char="3255">
+<ORIGINAL_TEXT>&lt;post id="p16" author="中巴友谊万岁123&amp;#13;" datetime="2015-06-16T17:53:28"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-102-0" pos="unknown" morph="none" start_char="3186" end_char="3190">&lt;post</TOKEN>
+<TOKEN id="token-102-1" pos="unknown" morph="none" start_char="3192" end_char="3199">id="p16"</TOKEN>
+<TOKEN id="token-102-2" pos="unknown" morph="none" start_char="3201" end_char="3223">author="中巴友谊万岁123&amp;#13;"</TOKEN>
+<TOKEN id="token-102-3" pos="unknown" morph="none" start_char="3225" end_char="3255">datetime="2015-06-16T17:53:28"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-103" start_char="3257" end_char="3292">
+<ORIGINAL_TEXT>&lt;quote orig_author="中巴友谊万岁123&amp;#13;"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-103-0" pos="unknown" morph="none" start_char="3257" end_char="3262">&lt;quote</TOKEN>
+<TOKEN id="token-103-1" pos="unknown" morph="none" start_char="3264" end_char="3292">orig_author="中巴友谊万岁123&amp;#13;"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-104" start_char="3294" end_char="3372">
+<ORIGINAL_TEXT>无耻逻辑。间谍是什么呢？间谍是国际上没有任何法律能保护的人员。只要抓到间谍，确认是间谍，那么国家就可以用任何手段对付。包括酷刑，枪毙。没有任何法律能保障间谍。</ORIGINAL_TEXT>
+<TOKEN id="token-104-0" pos="unknown" morph="none" start_char="3294" end_char="3372">无耻逻辑。间谍是什么呢？间谍是国际上没有任何法律能保护的人员。只要抓到间谍，确认是间谍，那么国家就可以用任何手段对付。包括酷刑，枪毙。没有任何法律能保障间谍。</TOKEN>
+</SEG>
+<SEG id="segment-105" start_char="3374" end_char="3381">
+<ORIGINAL_TEXT>&lt;/quote&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-105-0" pos="unknown" morph="none" start_char="3374" end_char="3381">&lt;/quote&gt;</TOKEN>
+</SEG>
+<SEG id="segment-106" start_char="3383" end_char="3531">
+<ORIGINAL_TEXT>间谍，国与国之间是会交换间谍。美俄就常干这事。但是交换的间谍都是无足轻重的人员。都不是关键人员。这么说吧，交换的间谍都是，潜伏不久没有掌握什么关键信息的人员，放在监狱里面浪费粮食的，不如拿出来把自己人换回来。因为自己人至少可以放到其他地方做别的工作。俄罗斯那个很出名的女间谍查普曼就是这类废柴间谍。</ORIGINAL_TEXT>
+<TOKEN id="token-106-0" pos="unknown" morph="none" start_char="3383" end_char="3531">间谍，国与国之间是会交换间谍。美俄就常干这事。但是交换的间谍都是无足轻重的人员。都不是关键人员。这么说吧，交换的间谍都是，潜伏不久没有掌握什么关键信息的人员，放在监狱里面浪费粮食的，不如拿出来把自己人换回来。因为自己人至少可以放到其他地方做别的工作。俄罗斯那个很出名的女间谍查普曼就是这类废柴间谍。</TOKEN>
+</SEG>
+<SEG id="segment-107" start_char="3533" end_char="3539">
+<ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-107-0" pos="unknown" morph="none" start_char="3533" end_char="3539">&lt;/post&gt;</TOKEN>
+</SEG>
+<SEG id="segment-108" start_char="3541" end_char="3546">
+<ORIGINAL_TEXT>&lt;/doc&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-108-0" pos="unknown" morph="none" start_char="3541" end_char="3546">&lt;/doc&gt;</TOKEN>
+</SEG>
+</TEXT>
+</DOC>
+</LCTL_TEXT>

@@ -1,0 +1,430 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LCTL_TEXT>
+  <DOC id="SPA_NW_001124_20140611_F0000004M.xml" tokenization="tokenization_parameters" grammar="none" raw_text_char_length="1780" raw_text_md5="a316ed2f089125676ae2b281110c79f6">
+    <TEXT>
+      <SEG id="segment-0" start_char="0" end_char="37">
+        <ORIGINAL_TEXT>&lt;?xml version="1.0" encoding="utf-8"?&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-0-0" pos="unknown" morph="none" start_char="0" end_char="4">&lt;?xml</TOKEN>
+        <TOKEN id="token-0-1" pos="unknown" morph="none" start_char="6" end_char="18">version="1.0"</TOKEN>
+        <TOKEN id="token-0-2" pos="unknown" morph="none" start_char="20" end_char="37">encoding="utf-8"?&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-1" start_char="39" end_char="81">
+        <ORIGINAL_TEXT>&lt;DOC id="SPA_NW_001124_20140611_F0000004M"&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-1-0" pos="unknown" morph="none" start_char="39" end_char="42">&lt;DOC</TOKEN>
+        <TOKEN id="token-1-1" pos="unknown" morph="none" start_char="44" end_char="81">id="SPA_NW_001124_20140611_F0000004M"&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-2" start_char="83" end_char="204">
+        <ORIGINAL_TEXT>&lt;SOURCE&gt;http://www.telesurtv.net/news/ISIS-Los-terroristas-mas-ricos-atacaron-de-nuevo-en-Irak-20140611-0041.html&lt;/SOURCE&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-2-0" pos="unknown" morph="none" start_char="83" end_char="204">&lt;SOURCE&gt;http://www.telesurtv.net/news/ISIS-Los-terroristas-mas-ricos-atacaron-de-nuevo-en-Irak-20140611-0041.html&lt;/SOURCE&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-3" start_char="206" end_char="247">
+        <ORIGINAL_TEXT>&lt;DATE_TIME&gt;2014-06-11T00:00:00&lt;/DATE_TIME&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-3-0" pos="unknown" morph="none" start_char="206" end_char="247">&lt;DATE_TIME&gt;2014-06-11T00:00:00&lt;/DATE_TIME&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-4" start_char="249" end_char="258">
+        <ORIGINAL_TEXT>&lt;HEADLINE&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-4-0" pos="unknown" morph="none" start_char="249" end_char="258">&lt;HEADLINE&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-5" start_char="260" end_char="316">
+        <ORIGINAL_TEXT>ISIS: Los terroristas más ricos atacaron de nuevo en Irak</ORIGINAL_TEXT>
+        <TOKEN id="token-5-0" pos="word" morph="none" start_char="260" end_char="263">ISIS</TOKEN>
+        <TOKEN id="token-5-1" pos="punct" morph="none" start_char="264" end_char="264">:</TOKEN>
+        <TOKEN id="token-5-2" pos="word" morph="none" start_char="266" end_char="268">Los</TOKEN>
+        <TOKEN id="token-5-3" pos="word" morph="none" start_char="270" end_char="280">terroristas</TOKEN>
+        <TOKEN id="token-5-4" pos="word" morph="none" start_char="282" end_char="284">más</TOKEN>
+        <TOKEN id="token-5-5" pos="word" morph="none" start_char="286" end_char="290">ricos</TOKEN>
+        <TOKEN id="token-5-6" pos="word" morph="none" start_char="292" end_char="299">atacaron</TOKEN>
+        <TOKEN id="token-5-7" pos="word" morph="none" start_char="301" end_char="302">de</TOKEN>
+        <TOKEN id="token-5-8" pos="word" morph="none" start_char="304" end_char="308">nuevo</TOKEN>
+        <TOKEN id="token-5-9" pos="word" morph="none" start_char="310" end_char="311">en</TOKEN>
+        <TOKEN id="token-5-10" pos="word" morph="none" start_char="313" end_char="316">Irak</TOKEN>
+      </SEG>
+      <SEG id="segment-6" start_char="318" end_char="328">
+        <ORIGINAL_TEXT>&lt;/HEADLINE&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-6-0" pos="unknown" morph="none" start_char="318" end_char="328">&lt;/HEADLINE&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-7" start_char="330" end_char="335">
+        <ORIGINAL_TEXT>&lt;TEXT&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-7-0" pos="unknown" morph="none" start_char="330" end_char="335">&lt;TEXT&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-8" start_char="337" end_char="339">
+        <ORIGINAL_TEXT>&lt;P&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-8-0" pos="unknown" morph="none" start_char="337" end_char="339">&lt;P&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-9" start_char="341" end_char="415">
+        <ORIGINAL_TEXT>El grupo radical Estado Islámico de Irak y el Levante (ISIS, según su sigla</ORIGINAL_TEXT>
+        <TOKEN id="token-9-0" pos="word" morph="none" start_char="341" end_char="342">El</TOKEN>
+        <TOKEN id="token-9-1" pos="word" morph="none" start_char="344" end_char="348">grupo</TOKEN>
+        <TOKEN id="token-9-2" pos="word" morph="none" start_char="350" end_char="356">radical</TOKEN>
+        <TOKEN id="token-9-3" pos="word" morph="none" start_char="358" end_char="363">Estado</TOKEN>
+        <TOKEN id="token-9-4" pos="word" morph="none" start_char="365" end_char="372">Islámico</TOKEN>
+        <TOKEN id="token-9-5" pos="word" morph="none" start_char="374" end_char="375">de</TOKEN>
+        <TOKEN id="token-9-6" pos="word" morph="none" start_char="377" end_char="380">Irak</TOKEN>
+        <TOKEN id="token-9-7" pos="word" morph="none" start_char="382" end_char="382">y</TOKEN>
+        <TOKEN id="token-9-8" pos="word" morph="none" start_char="384" end_char="385">el</TOKEN>
+        <TOKEN id="token-9-9" pos="word" morph="none" start_char="387" end_char="393">Levante</TOKEN>
+        <TOKEN id="token-9-10" pos="punct" morph="none" start_char="395" end_char="395">(</TOKEN>
+        <TOKEN id="token-9-11" pos="word" morph="none" start_char="396" end_char="399">ISIS</TOKEN>
+        <TOKEN id="token-9-12" pos="punct" morph="none" start_char="400" end_char="400">,</TOKEN>
+        <TOKEN id="token-9-13" pos="word" morph="none" start_char="402" end_char="406">según</TOKEN>
+        <TOKEN id="token-9-14" pos="word" morph="none" start_char="408" end_char="409">su</TOKEN>
+        <TOKEN id="token-9-15" pos="word" morph="none" start_char="411" end_char="415">sigla</TOKEN>
+      </SEG>
+      <SEG id="segment-10" start_char="417" end_char="487">
+        <ORIGINAL_TEXT>en inglés) son la organización terrorista más rica del mundo y cada vez</ORIGINAL_TEXT>
+        <TOKEN id="token-10-0" pos="word" morph="none" start_char="417" end_char="418">en</TOKEN>
+        <TOKEN id="token-10-1" pos="word" morph="none" start_char="420" end_char="425">inglés</TOKEN>
+        <TOKEN id="token-10-2" pos="punct" morph="none" start_char="426" end_char="426">)</TOKEN>
+        <TOKEN id="token-10-3" pos="word" morph="none" start_char="428" end_char="430">son</TOKEN>
+        <TOKEN id="token-10-4" pos="word" morph="none" start_char="432" end_char="433">la</TOKEN>
+        <TOKEN id="token-10-5" pos="word" morph="none" start_char="435" end_char="446">organización</TOKEN>
+        <TOKEN id="token-10-6" pos="word" morph="none" start_char="448" end_char="457">terrorista</TOKEN>
+        <TOKEN id="token-10-7" pos="word" morph="none" start_char="459" end_char="461">más</TOKEN>
+        <TOKEN id="token-10-8" pos="word" morph="none" start_char="463" end_char="466">rica</TOKEN>
+        <TOKEN id="token-10-9" pos="word" morph="none" start_char="468" end_char="470">del</TOKEN>
+        <TOKEN id="token-10-10" pos="word" morph="none" start_char="472" end_char="476">mundo</TOKEN>
+        <TOKEN id="token-10-11" pos="word" morph="none" start_char="478" end_char="478">y</TOKEN>
+        <TOKEN id="token-10-12" pos="word" morph="none" start_char="480" end_char="483">cada</TOKEN>
+        <TOKEN id="token-10-13" pos="word" morph="none" start_char="485" end_char="487">vez</TOKEN>
+      </SEG>
+      <SEG id="segment-11" start_char="489" end_char="565">
+        <ORIGINAL_TEXT>más poderosos, para demostrarlo lanzaron un ataque contra la ciudad de Tikrit</ORIGINAL_TEXT>
+        <TOKEN id="token-11-0" pos="word" morph="none" start_char="489" end_char="491">más</TOKEN>
+        <TOKEN id="token-11-1" pos="word" morph="none" start_char="493" end_char="501">poderosos</TOKEN>
+        <TOKEN id="token-11-2" pos="punct" morph="none" start_char="502" end_char="502">,</TOKEN>
+        <TOKEN id="token-11-3" pos="word" morph="none" start_char="504" end_char="507">para</TOKEN>
+        <TOKEN id="token-11-4" pos="word" morph="none" start_char="509" end_char="519">demostrarlo</TOKEN>
+        <TOKEN id="token-11-5" pos="word" morph="none" start_char="521" end_char="528">lanzaron</TOKEN>
+        <TOKEN id="token-11-6" pos="word" morph="none" start_char="530" end_char="531">un</TOKEN>
+        <TOKEN id="token-11-7" pos="word" morph="none" start_char="533" end_char="538">ataque</TOKEN>
+        <TOKEN id="token-11-8" pos="word" morph="none" start_char="540" end_char="545">contra</TOKEN>
+        <TOKEN id="token-11-9" pos="word" morph="none" start_char="547" end_char="548">la</TOKEN>
+        <TOKEN id="token-11-10" pos="word" morph="none" start_char="550" end_char="555">ciudad</TOKEN>
+        <TOKEN id="token-11-11" pos="word" morph="none" start_char="557" end_char="558">de</TOKEN>
+        <TOKEN id="token-11-12" pos="word" morph="none" start_char="560" end_char="565">Tikrit</TOKEN>
+      </SEG>
+      <SEG id="segment-12" start_char="567" end_char="642">
+        <ORIGINAL_TEXT>en Irak, conocida por ser el lugar donde nació el depuesto y fallecido líder</ORIGINAL_TEXT>
+        <TOKEN id="token-12-0" pos="word" morph="none" start_char="567" end_char="568">en</TOKEN>
+        <TOKEN id="token-12-1" pos="word" morph="none" start_char="570" end_char="573">Irak</TOKEN>
+        <TOKEN id="token-12-2" pos="punct" morph="none" start_char="574" end_char="574">,</TOKEN>
+        <TOKEN id="token-12-3" pos="word" morph="none" start_char="576" end_char="583">conocida</TOKEN>
+        <TOKEN id="token-12-4" pos="word" morph="none" start_char="585" end_char="587">por</TOKEN>
+        <TOKEN id="token-12-5" pos="word" morph="none" start_char="589" end_char="591">ser</TOKEN>
+        <TOKEN id="token-12-6" pos="word" morph="none" start_char="593" end_char="594">el</TOKEN>
+        <TOKEN id="token-12-7" pos="word" morph="none" start_char="596" end_char="600">lugar</TOKEN>
+        <TOKEN id="token-12-8" pos="word" morph="none" start_char="602" end_char="606">donde</TOKEN>
+        <TOKEN id="token-12-9" pos="word" morph="none" start_char="608" end_char="612">nació</TOKEN>
+        <TOKEN id="token-12-10" pos="word" morph="none" start_char="614" end_char="615">el</TOKEN>
+        <TOKEN id="token-12-11" pos="word" morph="none" start_char="617" end_char="624">depuesto</TOKEN>
+        <TOKEN id="token-12-12" pos="word" morph="none" start_char="626" end_char="626">y</TOKEN>
+        <TOKEN id="token-12-13" pos="word" morph="none" start_char="628" end_char="636">fallecido</TOKEN>
+        <TOKEN id="token-12-14" pos="word" morph="none" start_char="638" end_char="642">líder</TOKEN>
+      </SEG>
+      <SEG id="segment-13" start_char="644" end_char="665">
+        <ORIGINAL_TEXT>iraquí, Sadam Hussein.</ORIGINAL_TEXT>
+        <TOKEN id="token-13-0" pos="word" morph="none" start_char="644" end_char="649">iraquí</TOKEN>
+        <TOKEN id="token-13-1" pos="punct" morph="none" start_char="650" end_char="650">,</TOKEN>
+        <TOKEN id="token-13-2" pos="word" morph="none" start_char="652" end_char="656">Sadam</TOKEN>
+        <TOKEN id="token-13-3" pos="word" morph="none" start_char="658" end_char="664">Hussein</TOKEN>
+        <TOKEN id="token-13-4" pos="punct" morph="none" start_char="665" end_char="665">.</TOKEN>
+      </SEG>
+      <SEG id="segment-14" start_char="667" end_char="670">
+        <ORIGINAL_TEXT>&lt;/P&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-14-0" pos="unknown" morph="none" start_char="667" end_char="670">&lt;/P&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-15" start_char="672" end_char="674">
+        <ORIGINAL_TEXT>&lt;P&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-15-0" pos="unknown" morph="none" start_char="672" end_char="674">&lt;P&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-16" start_char="676" end_char="748">
+        <ORIGINAL_TEXT>Los terroristas tomaron el control de Tikrit después de enfrentarse a las</ORIGINAL_TEXT>
+        <TOKEN id="token-16-0" pos="word" morph="none" start_char="676" end_char="678">Los</TOKEN>
+        <TOKEN id="token-16-1" pos="word" morph="none" start_char="680" end_char="690">terroristas</TOKEN>
+        <TOKEN id="token-16-2" pos="word" morph="none" start_char="692" end_char="698">tomaron</TOKEN>
+        <TOKEN id="token-16-3" pos="word" morph="none" start_char="700" end_char="701">el</TOKEN>
+        <TOKEN id="token-16-4" pos="word" morph="none" start_char="703" end_char="709">control</TOKEN>
+        <TOKEN id="token-16-5" pos="word" morph="none" start_char="711" end_char="712">de</TOKEN>
+        <TOKEN id="token-16-6" pos="word" morph="none" start_char="714" end_char="719">Tikrit</TOKEN>
+        <TOKEN id="token-16-7" pos="word" morph="none" start_char="721" end_char="727">después</TOKEN>
+        <TOKEN id="token-16-8" pos="word" morph="none" start_char="729" end_char="730">de</TOKEN>
+        <TOKEN id="token-16-9" pos="word" morph="none" start_char="732" end_char="742">enfrentarse</TOKEN>
+        <TOKEN id="token-16-10" pos="word" morph="none" start_char="744" end_char="744">a</TOKEN>
+        <TOKEN id="token-16-11" pos="word" morph="none" start_char="746" end_char="748">las</TOKEN>
+      </SEG>
+      <SEG id="segment-17" start_char="750" end_char="823">
+        <ORIGINAL_TEXT>Fuerzas Armadas iraquíes, que se retiraron de la ciudad situada a unos 160</ORIGINAL_TEXT>
+        <TOKEN id="token-17-0" pos="word" morph="none" start_char="750" end_char="756">Fuerzas</TOKEN>
+        <TOKEN id="token-17-1" pos="word" morph="none" start_char="758" end_char="764">Armadas</TOKEN>
+        <TOKEN id="token-17-2" pos="word" morph="none" start_char="766" end_char="773">iraquíes</TOKEN>
+        <TOKEN id="token-17-3" pos="punct" morph="none" start_char="774" end_char="774">,</TOKEN>
+        <TOKEN id="token-17-4" pos="word" morph="none" start_char="776" end_char="778">que</TOKEN>
+        <TOKEN id="token-17-5" pos="word" morph="none" start_char="780" end_char="781">se</TOKEN>
+        <TOKEN id="token-17-6" pos="word" morph="none" start_char="783" end_char="791">retiraron</TOKEN>
+        <TOKEN id="token-17-7" pos="word" morph="none" start_char="793" end_char="794">de</TOKEN>
+        <TOKEN id="token-17-8" pos="word" morph="none" start_char="796" end_char="797">la</TOKEN>
+        <TOKEN id="token-17-9" pos="word" morph="none" start_char="799" end_char="804">ciudad</TOKEN>
+        <TOKEN id="token-17-10" pos="word" morph="none" start_char="806" end_char="812">situada</TOKEN>
+        <TOKEN id="token-17-11" pos="word" morph="none" start_char="814" end_char="814">a</TOKEN>
+        <TOKEN id="token-17-12" pos="word" morph="none" start_char="816" end_char="819">unos</TOKEN>
+        <TOKEN id="token-17-13" pos="number" morph="none" start_char="821" end_char="823">160</TOKEN>
+      </SEG>
+      <SEG id="segment-18" start_char="825" end_char="867">
+        <ORIGINAL_TEXT>kilómetros al noroeste de Bagdad (capital).</ORIGINAL_TEXT>
+        <TOKEN id="token-18-0" pos="word" morph="none" start_char="825" end_char="834">kilómetros</TOKEN>
+        <TOKEN id="token-18-1" pos="word" morph="none" start_char="836" end_char="837">al</TOKEN>
+        <TOKEN id="token-18-2" pos="word" morph="none" start_char="839" end_char="846">noroeste</TOKEN>
+        <TOKEN id="token-18-3" pos="word" morph="none" start_char="848" end_char="849">de</TOKEN>
+        <TOKEN id="token-18-4" pos="word" morph="none" start_char="851" end_char="856">Bagdad</TOKEN>
+        <TOKEN id="token-18-5" pos="punct" morph="none" start_char="858" end_char="858">(</TOKEN>
+        <TOKEN id="token-18-6" pos="word" morph="none" start_char="859" end_char="865">capital</TOKEN>
+        <TOKEN id="token-18-7" pos="punct" morph="none" start_char="866" end_char="867">).</TOKEN>
+      </SEG>
+      <SEG id="segment-19" start_char="869" end_char="872">
+        <ORIGINAL_TEXT>&lt;/P&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-19-0" pos="unknown" morph="none" start_char="869" end_char="872">&lt;/P&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-20" start_char="874" end_char="876">
+        <ORIGINAL_TEXT>&lt;P&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-20-0" pos="unknown" morph="none" start_char="874" end_char="876">&lt;P&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-21" start_char="878" end_char="950">
+        <ORIGINAL_TEXT>Tras la crisis provocada por el grupo terrorista que azota a Irak, más de</ORIGINAL_TEXT>
+        <TOKEN id="token-21-0" pos="word" morph="none" start_char="878" end_char="881">Tras</TOKEN>
+        <TOKEN id="token-21-1" pos="word" morph="none" start_char="883" end_char="884">la</TOKEN>
+        <TOKEN id="token-21-2" pos="word" morph="none" start_char="886" end_char="891">crisis</TOKEN>
+        <TOKEN id="token-21-3" pos="word" morph="none" start_char="893" end_char="901">provocada</TOKEN>
+        <TOKEN id="token-21-4" pos="word" morph="none" start_char="903" end_char="905">por</TOKEN>
+        <TOKEN id="token-21-5" pos="word" morph="none" start_char="907" end_char="908">el</TOKEN>
+        <TOKEN id="token-21-6" pos="word" morph="none" start_char="910" end_char="914">grupo</TOKEN>
+        <TOKEN id="token-21-7" pos="word" morph="none" start_char="916" end_char="925">terrorista</TOKEN>
+        <TOKEN id="token-21-8" pos="word" morph="none" start_char="927" end_char="929">que</TOKEN>
+        <TOKEN id="token-21-9" pos="word" morph="none" start_char="931" end_char="935">azota</TOKEN>
+        <TOKEN id="token-21-10" pos="word" morph="none" start_char="937" end_char="937">a</TOKEN>
+        <TOKEN id="token-21-11" pos="word" morph="none" start_char="939" end_char="942">Irak</TOKEN>
+        <TOKEN id="token-21-12" pos="punct" morph="none" start_char="943" end_char="943">,</TOKEN>
+        <TOKEN id="token-21-13" pos="word" morph="none" start_char="945" end_char="947">más</TOKEN>
+        <TOKEN id="token-21-14" pos="word" morph="none" start_char="949" end_char="950">de</TOKEN>
+      </SEG>
+      <SEG id="segment-22" start_char="952" end_char="1024">
+        <ORIGINAL_TEXT>medio millón de personas debió huir de Mosul (norte). En ese contexto, el</ORIGINAL_TEXT>
+        <TOKEN id="token-22-0" pos="word" morph="none" start_char="952" end_char="956">medio</TOKEN>
+        <TOKEN id="token-22-1" pos="word" morph="none" start_char="958" end_char="963">millón</TOKEN>
+        <TOKEN id="token-22-2" pos="word" morph="none" start_char="965" end_char="966">de</TOKEN>
+        <TOKEN id="token-22-3" pos="word" morph="none" start_char="968" end_char="975">personas</TOKEN>
+        <TOKEN id="token-22-4" pos="word" morph="none" start_char="977" end_char="981">debió</TOKEN>
+        <TOKEN id="token-22-5" pos="word" morph="none" start_char="983" end_char="986">huir</TOKEN>
+        <TOKEN id="token-22-6" pos="word" morph="none" start_char="988" end_char="989">de</TOKEN>
+        <TOKEN id="token-22-7" pos="word" morph="none" start_char="991" end_char="995">Mosul</TOKEN>
+        <TOKEN id="token-22-8" pos="punct" morph="none" start_char="997" end_char="997">(</TOKEN>
+        <TOKEN id="token-22-9" pos="word" morph="none" start_char="998" end_char="1002">norte</TOKEN>
+        <TOKEN id="token-22-10" pos="punct" morph="none" start_char="1003" end_char="1004">).</TOKEN>
+        <TOKEN id="token-22-11" pos="word" morph="none" start_char="1006" end_char="1007">En</TOKEN>
+        <TOKEN id="token-22-12" pos="word" morph="none" start_char="1009" end_char="1011">ese</TOKEN>
+        <TOKEN id="token-22-13" pos="word" morph="none" start_char="1013" end_char="1020">contexto</TOKEN>
+        <TOKEN id="token-22-14" pos="punct" morph="none" start_char="1021" end_char="1021">,</TOKEN>
+        <TOKEN id="token-22-15" pos="word" morph="none" start_char="1023" end_char="1024">el</TOKEN>
+      </SEG>
+      <SEG id="segment-23" start_char="1026" end_char="1093">
+        <ORIGINAL_TEXT>gobierno le pidió al Parlamento que decrete el estado de emergencia.</ORIGINAL_TEXT>
+        <TOKEN id="token-23-0" pos="word" morph="none" start_char="1026" end_char="1033">gobierno</TOKEN>
+        <TOKEN id="token-23-1" pos="word" morph="none" start_char="1035" end_char="1036">le</TOKEN>
+        <TOKEN id="token-23-2" pos="word" morph="none" start_char="1038" end_char="1042">pidió</TOKEN>
+        <TOKEN id="token-23-3" pos="word" morph="none" start_char="1044" end_char="1045">al</TOKEN>
+        <TOKEN id="token-23-4" pos="word" morph="none" start_char="1047" end_char="1056">Parlamento</TOKEN>
+        <TOKEN id="token-23-5" pos="word" morph="none" start_char="1058" end_char="1060">que</TOKEN>
+        <TOKEN id="token-23-6" pos="word" morph="none" start_char="1062" end_char="1068">decrete</TOKEN>
+        <TOKEN id="token-23-7" pos="word" morph="none" start_char="1070" end_char="1071">el</TOKEN>
+        <TOKEN id="token-23-8" pos="word" morph="none" start_char="1073" end_char="1078">estado</TOKEN>
+        <TOKEN id="token-23-9" pos="word" morph="none" start_char="1080" end_char="1081">de</TOKEN>
+        <TOKEN id="token-23-10" pos="word" morph="none" start_char="1083" end_char="1092">emergencia</TOKEN>
+        <TOKEN id="token-23-11" pos="punct" morph="none" start_char="1093" end_char="1093">.</TOKEN>
+      </SEG>
+      <SEG id="segment-24" start_char="1095" end_char="1098">
+        <ORIGINAL_TEXT>&lt;/P&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-24-0" pos="unknown" morph="none" start_char="1095" end_char="1098">&lt;/P&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-25" start_char="1100" end_char="1102">
+        <ORIGINAL_TEXT>&lt;P&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-25-0" pos="unknown" morph="none" start_char="1100" end_char="1102">&lt;P&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-26" start_char="1104" end_char="1180">
+        <ORIGINAL_TEXT>El poder de ISIS no se limita al terrorismo, sino que amasan una gran fortuna</ORIGINAL_TEXT>
+        <TOKEN id="token-26-0" pos="word" morph="none" start_char="1104" end_char="1105">El</TOKEN>
+        <TOKEN id="token-26-1" pos="word" morph="none" start_char="1107" end_char="1111">poder</TOKEN>
+        <TOKEN id="token-26-2" pos="word" morph="none" start_char="1113" end_char="1114">de</TOKEN>
+        <TOKEN id="token-26-3" pos="word" morph="none" start_char="1116" end_char="1119">ISIS</TOKEN>
+        <TOKEN id="token-26-4" pos="word" morph="none" start_char="1121" end_char="1122">no</TOKEN>
+        <TOKEN id="token-26-5" pos="word" morph="none" start_char="1124" end_char="1125">se</TOKEN>
+        <TOKEN id="token-26-6" pos="word" morph="none" start_char="1127" end_char="1132">limita</TOKEN>
+        <TOKEN id="token-26-7" pos="word" morph="none" start_char="1134" end_char="1135">al</TOKEN>
+        <TOKEN id="token-26-8" pos="word" morph="none" start_char="1137" end_char="1146">terrorismo</TOKEN>
+        <TOKEN id="token-26-9" pos="punct" morph="none" start_char="1147" end_char="1147">,</TOKEN>
+        <TOKEN id="token-26-10" pos="word" morph="none" start_char="1149" end_char="1152">sino</TOKEN>
+        <TOKEN id="token-26-11" pos="word" morph="none" start_char="1154" end_char="1156">que</TOKEN>
+        <TOKEN id="token-26-12" pos="word" morph="none" start_char="1158" end_char="1163">amasan</TOKEN>
+        <TOKEN id="token-26-13" pos="word" morph="none" start_char="1165" end_char="1167">una</TOKEN>
+        <TOKEN id="token-26-14" pos="word" morph="none" start_char="1169" end_char="1172">gran</TOKEN>
+        <TOKEN id="token-26-15" pos="word" morph="none" start_char="1174" end_char="1180">fortuna</TOKEN>
+      </SEG>
+      <SEG id="segment-27" start_char="1182" end_char="1254">
+        <ORIGINAL_TEXT>en lo económico. Han robado enormes cantidades de dinero en efectivo, así</ORIGINAL_TEXT>
+        <TOKEN id="token-27-0" pos="word" morph="none" start_char="1182" end_char="1183">en</TOKEN>
+        <TOKEN id="token-27-1" pos="word" morph="none" start_char="1185" end_char="1186">lo</TOKEN>
+        <TOKEN id="token-27-2" pos="word" morph="none" start_char="1188" end_char="1196">económico</TOKEN>
+        <TOKEN id="token-27-3" pos="punct" morph="none" start_char="1197" end_char="1197">.</TOKEN>
+        <TOKEN id="token-27-4" pos="word" morph="none" start_char="1199" end_char="1201">Han</TOKEN>
+        <TOKEN id="token-27-5" pos="word" morph="none" start_char="1203" end_char="1208">robado</TOKEN>
+        <TOKEN id="token-27-6" pos="word" morph="none" start_char="1210" end_char="1216">enormes</TOKEN>
+        <TOKEN id="token-27-7" pos="word" morph="none" start_char="1218" end_char="1227">cantidades</TOKEN>
+        <TOKEN id="token-27-8" pos="word" morph="none" start_char="1229" end_char="1230">de</TOKEN>
+        <TOKEN id="token-27-9" pos="word" morph="none" start_char="1232" end_char="1237">dinero</TOKEN>
+        <TOKEN id="token-27-10" pos="word" morph="none" start_char="1239" end_char="1240">en</TOKEN>
+        <TOKEN id="token-27-11" pos="word" morph="none" start_char="1242" end_char="1249">efectivo</TOKEN>
+        <TOKEN id="token-27-12" pos="punct" morph="none" start_char="1250" end_char="1250">,</TOKEN>
+        <TOKEN id="token-27-13" pos="word" morph="none" start_char="1252" end_char="1254">así</TOKEN>
+      </SEG>
+      <SEG id="segment-28" start_char="1256" end_char="1329">
+        <ORIGINAL_TEXT>como lingotes de oro: 500 millones de dinares (429 millones de dólares) en</ORIGINAL_TEXT>
+        <TOKEN id="token-28-0" pos="word" morph="none" start_char="1256" end_char="1259">como</TOKEN>
+        <TOKEN id="token-28-1" pos="word" morph="none" start_char="1261" end_char="1268">lingotes</TOKEN>
+        <TOKEN id="token-28-2" pos="word" morph="none" start_char="1270" end_char="1271">de</TOKEN>
+        <TOKEN id="token-28-3" pos="word" morph="none" start_char="1273" end_char="1275">oro</TOKEN>
+        <TOKEN id="token-28-4" pos="punct" morph="none" start_char="1276" end_char="1276">:</TOKEN>
+        <TOKEN id="token-28-5" pos="number" morph="none" start_char="1278" end_char="1280">500</TOKEN>
+        <TOKEN id="token-28-6" pos="word" morph="none" start_char="1282" end_char="1289">millones</TOKEN>
+        <TOKEN id="token-28-7" pos="word" morph="none" start_char="1291" end_char="1292">de</TOKEN>
+        <TOKEN id="token-28-8" pos="word" morph="none" start_char="1294" end_char="1300">dinares</TOKEN>
+        <TOKEN id="token-28-9" pos="punct" morph="none" start_char="1302" end_char="1302">(</TOKEN>
+        <TOKEN id="token-28-10" pos="word" morph="none" start_char="1303" end_char="1305">429</TOKEN>
+        <TOKEN id="token-28-11" pos="word" morph="none" start_char="1307" end_char="1314">millones</TOKEN>
+        <TOKEN id="token-28-12" pos="word" morph="none" start_char="1316" end_char="1317">de</TOKEN>
+        <TOKEN id="token-28-13" pos="word" morph="none" start_char="1319" end_char="1325">dólares</TOKEN>
+        <TOKEN id="token-28-14" pos="punct" morph="none" start_char="1326" end_char="1326">)</TOKEN>
+        <TOKEN id="token-28-15" pos="word" morph="none" start_char="1328" end_char="1329">en</TOKEN>
+      </SEG>
+      <SEG id="segment-29" start_char="1331" end_char="1403">
+        <ORIGINAL_TEXT>total. Son igual de ricos que naciones pequeñas como Tonga, Kiribati, las</ORIGINAL_TEXT>
+        <TOKEN id="token-29-0" pos="word" morph="none" start_char="1331" end_char="1335">total</TOKEN>
+        <TOKEN id="token-29-1" pos="punct" morph="none" start_char="1336" end_char="1336">.</TOKEN>
+        <TOKEN id="token-29-2" pos="word" morph="none" start_char="1338" end_char="1340">Son</TOKEN>
+        <TOKEN id="token-29-3" pos="word" morph="none" start_char="1342" end_char="1346">igual</TOKEN>
+        <TOKEN id="token-29-4" pos="word" morph="none" start_char="1348" end_char="1349">de</TOKEN>
+        <TOKEN id="token-29-5" pos="word" morph="none" start_char="1351" end_char="1355">ricos</TOKEN>
+        <TOKEN id="token-29-6" pos="word" morph="none" start_char="1357" end_char="1359">que</TOKEN>
+        <TOKEN id="token-29-7" pos="word" morph="none" start_char="1361" end_char="1368">naciones</TOKEN>
+        <TOKEN id="token-29-8" pos="word" morph="none" start_char="1370" end_char="1377">pequeñas</TOKEN>
+        <TOKEN id="token-29-9" pos="word" morph="none" start_char="1379" end_char="1382">como</TOKEN>
+        <TOKEN id="token-29-10" pos="word" morph="none" start_char="1384" end_char="1388">Tonga</TOKEN>
+        <TOKEN id="token-29-11" pos="punct" morph="none" start_char="1389" end_char="1389">,</TOKEN>
+        <TOKEN id="token-29-12" pos="word" morph="none" start_char="1391" end_char="1398">Kiribati</TOKEN>
+        <TOKEN id="token-29-13" pos="punct" morph="none" start_char="1399" end_char="1399">,</TOKEN>
+        <TOKEN id="token-29-14" pos="word" morph="none" start_char="1401" end_char="1403">las</TOKEN>
+      </SEG>
+      <SEG id="segment-30" start_char="1405" end_char="1468">
+        <ORIGINAL_TEXT>Islas Marshall: cuyo PIB fue de 187 millones de dólares en 2012.</ORIGINAL_TEXT>
+        <TOKEN id="token-30-0" pos="word" morph="none" start_char="1405" end_char="1409">Islas</TOKEN>
+        <TOKEN id="token-30-1" pos="word" morph="none" start_char="1411" end_char="1418">Marshall</TOKEN>
+        <TOKEN id="token-30-2" pos="punct" morph="none" start_char="1419" end_char="1419">:</TOKEN>
+        <TOKEN id="token-30-3" pos="word" morph="none" start_char="1421" end_char="1424">cuyo</TOKEN>
+        <TOKEN id="token-30-4" pos="word" morph="none" start_char="1426" end_char="1428">PIB</TOKEN>
+        <TOKEN id="token-30-5" pos="word" morph="none" start_char="1430" end_char="1432">fue</TOKEN>
+        <TOKEN id="token-30-6" pos="word" morph="none" start_char="1434" end_char="1435">de</TOKEN>
+        <TOKEN id="token-30-7" pos="number" morph="none" start_char="1437" end_char="1439">187</TOKEN>
+        <TOKEN id="token-30-8" pos="word" morph="none" start_char="1441" end_char="1448">millones</TOKEN>
+        <TOKEN id="token-30-9" pos="word" morph="none" start_char="1450" end_char="1451">de</TOKEN>
+        <TOKEN id="token-30-10" pos="word" morph="none" start_char="1453" end_char="1459">dólares</TOKEN>
+        <TOKEN id="token-30-11" pos="word" morph="none" start_char="1461" end_char="1462">en</TOKEN>
+        <TOKEN id="token-30-12" pos="word" morph="none" start_char="1464" end_char="1467">2012</TOKEN>
+        <TOKEN id="token-30-13" pos="punct" morph="none" start_char="1468" end_char="1468">.</TOKEN>
+      </SEG>
+      <SEG id="segment-31" start_char="1470" end_char="1473">
+        <ORIGINAL_TEXT>&lt;/P&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-31-0" pos="unknown" morph="none" start_char="1470" end_char="1473">&lt;/P&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-32" start_char="1475" end_char="1477">
+        <ORIGINAL_TEXT>&lt;P&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-32-0" pos="unknown" morph="none" start_char="1475" end_char="1477">&lt;P&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-33" start_char="1479" end_char="1552">
+        <ORIGINAL_TEXT>Cuando se formó en abril de 2013, el grupo yihadista dejó en evidencia que</ORIGINAL_TEXT>
+        <TOKEN id="token-33-0" pos="word" morph="none" start_char="1479" end_char="1484">Cuando</TOKEN>
+        <TOKEN id="token-33-1" pos="word" morph="none" start_char="1486" end_char="1487">se</TOKEN>
+        <TOKEN id="token-33-2" pos="word" morph="none" start_char="1489" end_char="1493">formó</TOKEN>
+        <TOKEN id="token-33-3" pos="word" morph="none" start_char="1495" end_char="1496">en</TOKEN>
+        <TOKEN id="token-33-4" pos="word" morph="none" start_char="1498" end_char="1502">abril</TOKEN>
+        <TOKEN id="token-33-5" pos="word" morph="none" start_char="1504" end_char="1505">de</TOKEN>
+        <TOKEN id="token-33-6" pos="word" morph="none" start_char="1507" end_char="1510">2013</TOKEN>
+        <TOKEN id="token-33-7" pos="punct" morph="none" start_char="1511" end_char="1511">,</TOKEN>
+        <TOKEN id="token-33-8" pos="word" morph="none" start_char="1513" end_char="1514">el</TOKEN>
+        <TOKEN id="token-33-9" pos="word" morph="none" start_char="1516" end_char="1520">grupo</TOKEN>
+        <TOKEN id="token-33-10" pos="word" morph="none" start_char="1522" end_char="1530">yihadista</TOKEN>
+        <TOKEN id="token-33-11" pos="word" morph="none" start_char="1532" end_char="1535">dejó</TOKEN>
+        <TOKEN id="token-33-12" pos="word" morph="none" start_char="1537" end_char="1538">en</TOKEN>
+        <TOKEN id="token-33-13" pos="word" morph="none" start_char="1540" end_char="1548">evidencia</TOKEN>
+        <TOKEN id="token-33-14" pos="word" morph="none" start_char="1550" end_char="1552">que</TOKEN>
+      </SEG>
+      <SEG id="segment-34" start_char="1554" end_char="1627">
+        <ORIGINAL_TEXT>su objetivo es crear un Estado islámico con territorio en Irak y Siria, de</ORIGINAL_TEXT>
+        <TOKEN id="token-34-0" pos="word" morph="none" start_char="1554" end_char="1555">su</TOKEN>
+        <TOKEN id="token-34-1" pos="word" morph="none" start_char="1557" end_char="1564">objetivo</TOKEN>
+        <TOKEN id="token-34-2" pos="word" morph="none" start_char="1566" end_char="1567">es</TOKEN>
+        <TOKEN id="token-34-3" pos="word" morph="none" start_char="1569" end_char="1573">crear</TOKEN>
+        <TOKEN id="token-34-4" pos="word" morph="none" start_char="1575" end_char="1576">un</TOKEN>
+        <TOKEN id="token-34-5" pos="word" morph="none" start_char="1578" end_char="1583">Estado</TOKEN>
+        <TOKEN id="token-34-6" pos="word" morph="none" start_char="1585" end_char="1592">islámico</TOKEN>
+        <TOKEN id="token-34-7" pos="word" morph="none" start_char="1594" end_char="1596">con</TOKEN>
+        <TOKEN id="token-34-8" pos="word" morph="none" start_char="1598" end_char="1607">territorio</TOKEN>
+        <TOKEN id="token-34-9" pos="word" morph="none" start_char="1609" end_char="1610">en</TOKEN>
+        <TOKEN id="token-34-10" pos="word" morph="none" start_char="1612" end_char="1615">Irak</TOKEN>
+        <TOKEN id="token-34-11" pos="word" morph="none" start_char="1617" end_char="1617">y</TOKEN>
+        <TOKEN id="token-34-12" pos="word" morph="none" start_char="1619" end_char="1623">Siria</TOKEN>
+        <TOKEN id="token-34-13" pos="punct" morph="none" start_char="1624" end_char="1624">,</TOKEN>
+        <TOKEN id="token-34-14" pos="word" morph="none" start_char="1626" end_char="1627">de</TOKEN>
+      </SEG>
+      <SEG id="segment-35" start_char="1629" end_char="1702">
+        <ORIGINAL_TEXT>ahí su nombre. En los últimos meses de ese año, perpetraron varios ataques</ORIGINAL_TEXT>
+        <TOKEN id="token-35-0" pos="word" morph="none" start_char="1629" end_char="1631">ahí</TOKEN>
+        <TOKEN id="token-35-1" pos="word" morph="none" start_char="1633" end_char="1634">su</TOKEN>
+        <TOKEN id="token-35-2" pos="word" morph="none" start_char="1636" end_char="1641">nombre</TOKEN>
+        <TOKEN id="token-35-3" pos="punct" morph="none" start_char="1642" end_char="1642">.</TOKEN>
+        <TOKEN id="token-35-4" pos="word" morph="none" start_char="1644" end_char="1645">En</TOKEN>
+        <TOKEN id="token-35-5" pos="word" morph="none" start_char="1647" end_char="1649">los</TOKEN>
+        <TOKEN id="token-35-6" pos="word" morph="none" start_char="1651" end_char="1657">últimos</TOKEN>
+        <TOKEN id="token-35-7" pos="word" morph="none" start_char="1659" end_char="1663">meses</TOKEN>
+        <TOKEN id="token-35-8" pos="word" morph="none" start_char="1665" end_char="1666">de</TOKEN>
+        <TOKEN id="token-35-9" pos="word" morph="none" start_char="1668" end_char="1670">ese</TOKEN>
+        <TOKEN id="token-35-10" pos="word" morph="none" start_char="1672" end_char="1674">año</TOKEN>
+        <TOKEN id="token-35-11" pos="punct" morph="none" start_char="1675" end_char="1675">,</TOKEN>
+        <TOKEN id="token-35-12" pos="word" morph="none" start_char="1677" end_char="1687">perpetraron</TOKEN>
+        <TOKEN id="token-35-13" pos="word" morph="none" start_char="1689" end_char="1694">varios</TOKEN>
+        <TOKEN id="token-35-14" pos="word" morph="none" start_char="1696" end_char="1702">ataques</TOKEN>
+      </SEG>
+      <SEG id="segment-36" start_char="1704" end_char="1758">
+        <ORIGINAL_TEXT>con bombas en Bagdad, dejando centenares de fallecidos.</ORIGINAL_TEXT>
+        <TOKEN id="token-36-0" pos="word" morph="none" start_char="1704" end_char="1706">con</TOKEN>
+        <TOKEN id="token-36-1" pos="word" morph="none" start_char="1708" end_char="1713">bombas</TOKEN>
+        <TOKEN id="token-36-2" pos="word" morph="none" start_char="1715" end_char="1716">en</TOKEN>
+        <TOKEN id="token-36-3" pos="word" morph="none" start_char="1718" end_char="1723">Bagdad</TOKEN>
+        <TOKEN id="token-36-4" pos="punct" morph="none" start_char="1724" end_char="1724">,</TOKEN>
+        <TOKEN id="token-36-5" pos="word" morph="none" start_char="1726" end_char="1732">dejando</TOKEN>
+        <TOKEN id="token-36-6" pos="word" morph="none" start_char="1734" end_char="1743">centenares</TOKEN>
+        <TOKEN id="token-36-7" pos="word" morph="none" start_char="1745" end_char="1746">de</TOKEN>
+        <TOKEN id="token-36-8" pos="word" morph="none" start_char="1748" end_char="1757">fallecidos</TOKEN>
+        <TOKEN id="token-36-9" pos="punct" morph="none" start_char="1758" end_char="1758">.</TOKEN>
+      </SEG>
+      <SEG id="segment-37" start_char="1760" end_char="1763">
+        <ORIGINAL_TEXT>&lt;/P&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-37-0" pos="unknown" morph="none" start_char="1760" end_char="1763">&lt;/P&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-38" start_char="1765" end_char="1771">
+        <ORIGINAL_TEXT>&lt;/TEXT&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-38-0" pos="unknown" morph="none" start_char="1765" end_char="1771">&lt;/TEXT&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-39" start_char="1773" end_char="1778">
+        <ORIGINAL_TEXT>&lt;/DOC&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-39-0" pos="unknown" morph="none" start_char="1773" end_char="1778">&lt;/DOC&gt;</TOKEN>
+      </SEG>
+    </TEXT>
+  </DOC>
+</LCTL_TEXT>

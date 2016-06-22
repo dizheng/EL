@@ -1,0 +1,369 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LCTL_TEXT>
+  <DOC id="SPA_NW_001071_20150311_F0000002M.xml" tokenization="tokenization_parameters" grammar="none" raw_text_char_length="1615" raw_text_md5="b86a21eba6fe326786008775cfe50c71">
+    <TEXT>
+      <SEG id="segment-0" start_char="0" end_char="37">
+        <ORIGINAL_TEXT>&lt;?xml version="1.0" encoding="utf-8"?&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-0-0" pos="unknown" morph="none" start_char="0" end_char="4">&lt;?xml</TOKEN>
+        <TOKEN id="token-0-1" pos="unknown" morph="none" start_char="6" end_char="18">version="1.0"</TOKEN>
+        <TOKEN id="token-0-2" pos="unknown" morph="none" start_char="20" end_char="37">encoding="utf-8"?&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-1" start_char="39" end_char="81">
+        <ORIGINAL_TEXT>&lt;DOC id="SPA_NW_001071_20150311_F0000002M"&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-1-0" pos="unknown" morph="none" start_char="39" end_char="42">&lt;DOC</TOKEN>
+        <TOKEN id="token-1-1" pos="unknown" morph="none" start_char="44" end_char="81">id="SPA_NW_001071_20150311_F0000002M"&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-2" start_char="83" end_char="164">
+        <ORIGINAL_TEXT>&lt;SOURCE&gt;http://miamidespierta.com/polemica-por-correo-de-hillary-clinton/&lt;/SOURCE&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-2-0" pos="unknown" morph="none" start_char="83" end_char="164">&lt;SOURCE&gt;http://miamidespierta.com/polemica-por-correo-de-hillary-clinton/&lt;/SOURCE&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-3" start_char="166" end_char="207">
+        <ORIGINAL_TEXT>&lt;DATE_TIME&gt;2015-03-11T00:00:00&lt;/DATE_TIME&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-3-0" pos="unknown" morph="none" start_char="166" end_char="207">&lt;DATE_TIME&gt;2015-03-11T00:00:00&lt;/DATE_TIME&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-4" start_char="209" end_char="218">
+        <ORIGINAL_TEXT>&lt;HEADLINE&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-4-0" pos="unknown" morph="none" start_char="209" end_char="218">&lt;HEADLINE&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-5" start_char="220" end_char="257">
+        <ORIGINAL_TEXT>Polémica por correo de Hillary Clinton</ORIGINAL_TEXT>
+        <TOKEN id="token-5-0" pos="word" morph="none" start_char="220" end_char="227">Polémica</TOKEN>
+        <TOKEN id="token-5-1" pos="word" morph="none" start_char="229" end_char="231">por</TOKEN>
+        <TOKEN id="token-5-2" pos="word" morph="none" start_char="233" end_char="238">correo</TOKEN>
+        <TOKEN id="token-5-3" pos="word" morph="none" start_char="240" end_char="241">de</TOKEN>
+        <TOKEN id="token-5-4" pos="word" morph="none" start_char="243" end_char="249">Hillary</TOKEN>
+        <TOKEN id="token-5-5" pos="word" morph="none" start_char="251" end_char="257">Clinton</TOKEN>
+      </SEG>
+      <SEG id="segment-6" start_char="259" end_char="269">
+        <ORIGINAL_TEXT>&lt;/HEADLINE&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-6-0" pos="unknown" morph="none" start_char="259" end_char="269">&lt;/HEADLINE&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-7" start_char="271" end_char="276">
+        <ORIGINAL_TEXT>&lt;TEXT&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-7-0" pos="unknown" morph="none" start_char="271" end_char="276">&lt;TEXT&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-8" start_char="278" end_char="280">
+        <ORIGINAL_TEXT>&lt;P&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-8-0" pos="unknown" morph="none" start_char="278" end_char="280">&lt;P&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-9" start_char="282" end_char="355">
+        <ORIGINAL_TEXT>La ex secretaria de Estado estadounidense Hillary Clinton ha afirmado este</ORIGINAL_TEXT>
+        <TOKEN id="token-9-0" pos="word" morph="none" start_char="282" end_char="283">La</TOKEN>
+        <TOKEN id="token-9-1" pos="word" morph="none" start_char="285" end_char="286">ex</TOKEN>
+        <TOKEN id="token-9-2" pos="word" morph="none" start_char="288" end_char="297">secretaria</TOKEN>
+        <TOKEN id="token-9-3" pos="word" morph="none" start_char="299" end_char="300">de</TOKEN>
+        <TOKEN id="token-9-4" pos="word" morph="none" start_char="302" end_char="307">Estado</TOKEN>
+        <TOKEN id="token-9-5" pos="word" morph="none" start_char="309" end_char="322">estadounidense</TOKEN>
+        <TOKEN id="token-9-6" pos="word" morph="none" start_char="324" end_char="330">Hillary</TOKEN>
+        <TOKEN id="token-9-7" pos="word" morph="none" start_char="332" end_char="338">Clinton</TOKEN>
+        <TOKEN id="token-9-8" pos="word" morph="none" start_char="340" end_char="341">ha</TOKEN>
+        <TOKEN id="token-9-9" pos="word" morph="none" start_char="343" end_char="350">afirmado</TOKEN>
+        <TOKEN id="token-9-10" pos="word" morph="none" start_char="352" end_char="355">este</TOKEN>
+      </SEG>
+      <SEG id="segment-10" start_char="357" end_char="424">
+        <ORIGINAL_TEXT>martes que consideró “conveniente” usar una cuenta privada de correo</ORIGINAL_TEXT>
+        <TOKEN id="token-10-0" pos="word" morph="none" start_char="357" end_char="362">martes</TOKEN>
+        <TOKEN id="token-10-1" pos="word" morph="none" start_char="364" end_char="366">que</TOKEN>
+        <TOKEN id="token-10-2" pos="word" morph="none" start_char="368" end_char="376">consideró</TOKEN>
+        <TOKEN id="token-10-3" pos="punct" morph="none" start_char="378" end_char="378">“</TOKEN>
+        <TOKEN id="token-10-4" pos="word" morph="none" start_char="379" end_char="389">conveniente</TOKEN>
+        <TOKEN id="token-10-5" pos="punct" morph="none" start_char="390" end_char="390">”</TOKEN>
+        <TOKEN id="token-10-6" pos="word" morph="none" start_char="392" end_char="395">usar</TOKEN>
+        <TOKEN id="token-10-7" pos="word" morph="none" start_char="397" end_char="399">una</TOKEN>
+        <TOKEN id="token-10-8" pos="word" morph="none" start_char="401" end_char="406">cuenta</TOKEN>
+        <TOKEN id="token-10-9" pos="word" morph="none" start_char="408" end_char="414">privada</TOKEN>
+        <TOKEN id="token-10-10" pos="word" morph="none" start_char="416" end_char="417">de</TOKEN>
+        <TOKEN id="token-10-11" pos="word" morph="none" start_char="419" end_char="424">correo</TOKEN>
+      </SEG>
+      <SEG id="segment-11" start_char="426" end_char="497">
+        <ORIGINAL_TEXT>electrónico porque se lo permitió el Departamento de Estado y le pareció</ORIGINAL_TEXT>
+        <TOKEN id="token-11-0" pos="word" morph="none" start_char="426" end_char="436">electrónico</TOKEN>
+        <TOKEN id="token-11-1" pos="word" morph="none" start_char="438" end_char="443">porque</TOKEN>
+        <TOKEN id="token-11-2" pos="word" morph="none" start_char="445" end_char="446">se</TOKEN>
+        <TOKEN id="token-11-3" pos="word" morph="none" start_char="448" end_char="449">lo</TOKEN>
+        <TOKEN id="token-11-4" pos="word" morph="none" start_char="451" end_char="458">permitió</TOKEN>
+        <TOKEN id="token-11-5" pos="word" morph="none" start_char="460" end_char="461">el</TOKEN>
+        <TOKEN id="token-11-6" pos="word" morph="none" start_char="463" end_char="474">Departamento</TOKEN>
+        <TOKEN id="token-11-7" pos="word" morph="none" start_char="476" end_char="477">de</TOKEN>
+        <TOKEN id="token-11-8" pos="word" morph="none" start_char="479" end_char="484">Estado</TOKEN>
+        <TOKEN id="token-11-9" pos="word" morph="none" start_char="486" end_char="486">y</TOKEN>
+        <TOKEN id="token-11-10" pos="word" morph="none" start_char="488" end_char="489">le</TOKEN>
+        <TOKEN id="token-11-11" pos="word" morph="none" start_char="491" end_char="497">pareció</TOKEN>
+      </SEG>
+      <SEG id="segment-12" start_char="499" end_char="564">
+        <ORIGINAL_TEXT>“más fácil”. Hillary Clinton usó su cuenta de correo personal para</ORIGINAL_TEXT>
+        <TOKEN id="token-12-0" pos="punct" morph="none" start_char="499" end_char="499">“</TOKEN>
+        <TOKEN id="token-12-1" pos="word" morph="none" start_char="500" end_char="502">más</TOKEN>
+        <TOKEN id="token-12-2" pos="word" morph="none" start_char="504" end_char="508">fácil</TOKEN>
+        <TOKEN id="token-12-3" pos="punct" morph="none" start_char="509" end_char="510">”.</TOKEN>
+        <TOKEN id="token-12-4" pos="word" morph="none" start_char="512" end_char="518">Hillary</TOKEN>
+        <TOKEN id="token-12-5" pos="word" morph="none" start_char="520" end_char="526">Clinton</TOKEN>
+        <TOKEN id="token-12-6" pos="word" morph="none" start_char="528" end_char="530">usó</TOKEN>
+        <TOKEN id="token-12-7" pos="word" morph="none" start_char="532" end_char="533">su</TOKEN>
+        <TOKEN id="token-12-8" pos="word" morph="none" start_char="535" end_char="540">cuenta</TOKEN>
+        <TOKEN id="token-12-9" pos="word" morph="none" start_char="542" end_char="543">de</TOKEN>
+        <TOKEN id="token-12-10" pos="word" morph="none" start_char="545" end_char="550">correo</TOKEN>
+        <TOKEN id="token-12-11" pos="word" morph="none" start_char="552" end_char="559">personal</TOKEN>
+        <TOKEN id="token-12-12" pos="word" morph="none" start_char="561" end_char="564">para</TOKEN>
+      </SEG>
+      <SEG id="segment-13" start_char="566" end_char="633">
+        <ORIGINAL_TEXT>enviar mensajes gubernamentales Ha insistido en que no borró ‘ningún</ORIGINAL_TEXT>
+        <TOKEN id="token-13-0" pos="word" morph="none" start_char="566" end_char="571">enviar</TOKEN>
+        <TOKEN id="token-13-1" pos="word" morph="none" start_char="573" end_char="580">mensajes</TOKEN>
+        <TOKEN id="token-13-2" pos="word" morph="none" start_char="582" end_char="596">gubernamentales</TOKEN>
+        <TOKEN id="token-13-3" pos="word" morph="none" start_char="598" end_char="599">Ha</TOKEN>
+        <TOKEN id="token-13-4" pos="word" morph="none" start_char="601" end_char="609">insistido</TOKEN>
+        <TOKEN id="token-13-5" pos="word" morph="none" start_char="611" end_char="612">en</TOKEN>
+        <TOKEN id="token-13-6" pos="word" morph="none" start_char="614" end_char="616">que</TOKEN>
+        <TOKEN id="token-13-7" pos="word" morph="none" start_char="618" end_char="619">no</TOKEN>
+        <TOKEN id="token-13-8" pos="word" morph="none" start_char="621" end_char="625">borró</TOKEN>
+        <TOKEN id="token-13-9" pos="punct" morph="none" start_char="627" end_char="627">‘</TOKEN>
+        <TOKEN id="token-13-10" pos="word" morph="none" start_char="628" end_char="633">ningún</TOKEN>
+      </SEG>
+      <SEG id="segment-14" start_char="635" end_char="688">
+        <ORIGINAL_TEXT>correo relacionado con el trabajo’ antes de remitirlo.</ORIGINAL_TEXT>
+        <TOKEN id="token-14-0" pos="word" morph="none" start_char="635" end_char="640">correo</TOKEN>
+        <TOKEN id="token-14-1" pos="word" morph="none" start_char="642" end_char="652">relacionado</TOKEN>
+        <TOKEN id="token-14-2" pos="word" morph="none" start_char="654" end_char="656">con</TOKEN>
+        <TOKEN id="token-14-3" pos="word" morph="none" start_char="658" end_char="659">el</TOKEN>
+        <TOKEN id="token-14-4" pos="word" morph="none" start_char="661" end_char="667">trabajo</TOKEN>
+        <TOKEN id="token-14-5" pos="punct" morph="none" start_char="668" end_char="668">’</TOKEN>
+        <TOKEN id="token-14-6" pos="word" morph="none" start_char="670" end_char="674">antes</TOKEN>
+        <TOKEN id="token-14-7" pos="word" morph="none" start_char="676" end_char="677">de</TOKEN>
+        <TOKEN id="token-14-8" pos="word" morph="none" start_char="679" end_char="687">remitirlo</TOKEN>
+        <TOKEN id="token-14-9" pos="punct" morph="none" start_char="688" end_char="688">.</TOKEN>
+      </SEG>
+      <SEG id="segment-15" start_char="690" end_char="693">
+        <ORIGINAL_TEXT>&lt;/P&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-15-0" pos="unknown" morph="none" start_char="690" end_char="693">&lt;/P&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-16" start_char="695" end_char="697">
+        <ORIGINAL_TEXT>&lt;P&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-16-0" pos="unknown" morph="none" start_char="695" end_char="697">&lt;P&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-17" start_char="699" end_char="763">
+        <ORIGINAL_TEXT>La polémica viene porque el Departamento de Estado pidió a los ex</ORIGINAL_TEXT>
+        <TOKEN id="token-17-0" pos="word" morph="none" start_char="699" end_char="700">La</TOKEN>
+        <TOKEN id="token-17-1" pos="word" morph="none" start_char="702" end_char="709">polémica</TOKEN>
+        <TOKEN id="token-17-2" pos="word" morph="none" start_char="711" end_char="715">viene</TOKEN>
+        <TOKEN id="token-17-3" pos="word" morph="none" start_char="717" end_char="722">porque</TOKEN>
+        <TOKEN id="token-17-4" pos="word" morph="none" start_char="724" end_char="725">el</TOKEN>
+        <TOKEN id="token-17-5" pos="word" morph="none" start_char="727" end_char="738">Departamento</TOKEN>
+        <TOKEN id="token-17-6" pos="word" morph="none" start_char="740" end_char="741">de</TOKEN>
+        <TOKEN id="token-17-7" pos="word" morph="none" start_char="743" end_char="748">Estado</TOKEN>
+        <TOKEN id="token-17-8" pos="word" morph="none" start_char="750" end_char="754">pidió</TOKEN>
+        <TOKEN id="token-17-9" pos="word" morph="none" start_char="756" end_char="756">a</TOKEN>
+        <TOKEN id="token-17-10" pos="word" morph="none" start_char="758" end_char="760">los</TOKEN>
+        <TOKEN id="token-17-11" pos="word" morph="none" start_char="762" end_char="763">ex</TOKEN>
+      </SEG>
+      <SEG id="segment-18" start_char="765" end_char="835">
+        <ORIGINAL_TEXT>secretarios de estado, “no sólo a mí”, como ha recalcado desde Naciones</ORIGINAL_TEXT>
+        <TOKEN id="token-18-0" pos="word" morph="none" start_char="765" end_char="775">secretarios</TOKEN>
+        <TOKEN id="token-18-1" pos="word" morph="none" start_char="777" end_char="778">de</TOKEN>
+        <TOKEN id="token-18-2" pos="word" morph="none" start_char="780" end_char="785">estado</TOKEN>
+        <TOKEN id="token-18-3" pos="punct" morph="none" start_char="786" end_char="786">,</TOKEN>
+        <TOKEN id="token-18-4" pos="punct" morph="none" start_char="788" end_char="788">“</TOKEN>
+        <TOKEN id="token-18-5" pos="word" morph="none" start_char="789" end_char="790">no</TOKEN>
+        <TOKEN id="token-18-6" pos="word" morph="none" start_char="792" end_char="795">sólo</TOKEN>
+        <TOKEN id="token-18-7" pos="word" morph="none" start_char="797" end_char="797">a</TOKEN>
+        <TOKEN id="token-18-8" pos="word" morph="none" start_char="799" end_char="800">mí</TOKEN>
+        <TOKEN id="token-18-9" pos="punct" morph="none" start_char="801" end_char="802">”,</TOKEN>
+        <TOKEN id="token-18-10" pos="word" morph="none" start_char="804" end_char="807">como</TOKEN>
+        <TOKEN id="token-18-11" pos="word" morph="none" start_char="809" end_char="810">ha</TOKEN>
+        <TOKEN id="token-18-12" pos="word" morph="none" start_char="812" end_char="820">recalcado</TOKEN>
+        <TOKEN id="token-18-13" pos="word" morph="none" start_char="822" end_char="826">desde</TOKEN>
+        <TOKEN id="token-18-14" pos="word" morph="none" start_char="828" end_char="835">Naciones</TOKEN>
+      </SEG>
+      <SEG id="segment-19" start_char="837" end_char="914">
+        <ORIGINAL_TEXT>Unidas la propia Hillary, que remitieran todas las comunicaciones que tuvieran</ORIGINAL_TEXT>
+        <TOKEN id="token-19-0" pos="word" morph="none" start_char="837" end_char="842">Unidas</TOKEN>
+        <TOKEN id="token-19-1" pos="word" morph="none" start_char="844" end_char="845">la</TOKEN>
+        <TOKEN id="token-19-2" pos="word" morph="none" start_char="847" end_char="852">propia</TOKEN>
+        <TOKEN id="token-19-3" pos="word" morph="none" start_char="854" end_char="860">Hillary</TOKEN>
+        <TOKEN id="token-19-4" pos="punct" morph="none" start_char="861" end_char="861">,</TOKEN>
+        <TOKEN id="token-19-5" pos="word" morph="none" start_char="863" end_char="865">que</TOKEN>
+        <TOKEN id="token-19-6" pos="word" morph="none" start_char="867" end_char="876">remitieran</TOKEN>
+        <TOKEN id="token-19-7" pos="word" morph="none" start_char="878" end_char="882">todas</TOKEN>
+        <TOKEN id="token-19-8" pos="word" morph="none" start_char="884" end_char="886">las</TOKEN>
+        <TOKEN id="token-19-9" pos="word" morph="none" start_char="888" end_char="901">comunicaciones</TOKEN>
+        <TOKEN id="token-19-10" pos="word" morph="none" start_char="903" end_char="905">que</TOKEN>
+        <TOKEN id="token-19-11" pos="word" morph="none" start_char="907" end_char="914">tuvieran</TOKEN>
+      </SEG>
+      <SEG id="segment-20" start_char="916" end_char="989">
+        <ORIGINAL_TEXT>que ver con su trabajo. Clinton, al usar su cuenta personal, envió los que</ORIGINAL_TEXT>
+        <TOKEN id="token-20-0" pos="word" morph="none" start_char="916" end_char="918">que</TOKEN>
+        <TOKEN id="token-20-1" pos="word" morph="none" start_char="920" end_char="922">ver</TOKEN>
+        <TOKEN id="token-20-2" pos="word" morph="none" start_char="924" end_char="926">con</TOKEN>
+        <TOKEN id="token-20-3" pos="word" morph="none" start_char="928" end_char="929">su</TOKEN>
+        <TOKEN id="token-20-4" pos="word" morph="none" start_char="931" end_char="937">trabajo</TOKEN>
+        <TOKEN id="token-20-5" pos="punct" morph="none" start_char="938" end_char="938">.</TOKEN>
+        <TOKEN id="token-20-6" pos="word" morph="none" start_char="940" end_char="946">Clinton</TOKEN>
+        <TOKEN id="token-20-7" pos="punct" morph="none" start_char="947" end_char="947">,</TOKEN>
+        <TOKEN id="token-20-8" pos="word" morph="none" start_char="949" end_char="950">al</TOKEN>
+        <TOKEN id="token-20-9" pos="word" morph="none" start_char="952" end_char="955">usar</TOKEN>
+        <TOKEN id="token-20-10" pos="word" morph="none" start_char="957" end_char="958">su</TOKEN>
+        <TOKEN id="token-20-11" pos="word" morph="none" start_char="960" end_char="965">cuenta</TOKEN>
+        <TOKEN id="token-20-12" pos="word" morph="none" start_char="967" end_char="974">personal</TOKEN>
+        <TOKEN id="token-20-13" pos="punct" morph="none" start_char="975" end_char="975">,</TOKEN>
+        <TOKEN id="token-20-14" pos="word" morph="none" start_char="977" end_char="981">envió</TOKEN>
+        <TOKEN id="token-20-15" pos="word" morph="none" start_char="983" end_char="985">los</TOKEN>
+        <TOKEN id="token-20-16" pos="word" morph="none" start_char="987" end_char="989">que</TOKEN>
+      </SEG>
+      <SEG id="segment-21" start_char="991" end_char="1061">
+        <ORIGINAL_TEXT>consideró de carácter laboral, eliminando los de índole privada por “no</ORIGINAL_TEXT>
+        <TOKEN id="token-21-0" pos="word" morph="none" start_char="991" end_char="999">consideró</TOKEN>
+        <TOKEN id="token-21-1" pos="word" morph="none" start_char="1001" end_char="1002">de</TOKEN>
+        <TOKEN id="token-21-2" pos="word" morph="none" start_char="1004" end_char="1011">carácter</TOKEN>
+        <TOKEN id="token-21-3" pos="word" morph="none" start_char="1013" end_char="1019">laboral</TOKEN>
+        <TOKEN id="token-21-4" pos="punct" morph="none" start_char="1020" end_char="1020">,</TOKEN>
+        <TOKEN id="token-21-5" pos="word" morph="none" start_char="1022" end_char="1031">eliminando</TOKEN>
+        <TOKEN id="token-21-6" pos="word" morph="none" start_char="1033" end_char="1035">los</TOKEN>
+        <TOKEN id="token-21-7" pos="word" morph="none" start_char="1037" end_char="1038">de</TOKEN>
+        <TOKEN id="token-21-8" pos="word" morph="none" start_char="1040" end_char="1045">índole</TOKEN>
+        <TOKEN id="token-21-9" pos="word" morph="none" start_char="1047" end_char="1053">privada</TOKEN>
+        <TOKEN id="token-21-10" pos="word" morph="none" start_char="1055" end_char="1057">por</TOKEN>
+        <TOKEN id="token-21-11" pos="punct" morph="none" start_char="1059" end_char="1059">“</TOKEN>
+        <TOKEN id="token-21-12" pos="word" morph="none" start_char="1060" end_char="1061">no</TOKEN>
+      </SEG>
+      <SEG id="segment-22" start_char="1063" end_char="1133">
+        <ORIGINAL_TEXT>ver ninguna razón para guardar” las comunicaciones personales que mandó</ORIGINAL_TEXT>
+        <TOKEN id="token-22-0" pos="word" morph="none" start_char="1063" end_char="1065">ver</TOKEN>
+        <TOKEN id="token-22-1" pos="word" morph="none" start_char="1067" end_char="1073">ninguna</TOKEN>
+        <TOKEN id="token-22-2" pos="word" morph="none" start_char="1075" end_char="1079">razón</TOKEN>
+        <TOKEN id="token-22-3" pos="word" morph="none" start_char="1081" end_char="1084">para</TOKEN>
+        <TOKEN id="token-22-4" pos="word" morph="none" start_char="1086" end_char="1092">guardar</TOKEN>
+        <TOKEN id="token-22-5" pos="punct" morph="none" start_char="1093" end_char="1093">”</TOKEN>
+        <TOKEN id="token-22-6" pos="word" morph="none" start_char="1095" end_char="1097">las</TOKEN>
+        <TOKEN id="token-22-7" pos="word" morph="none" start_char="1099" end_char="1112">comunicaciones</TOKEN>
+        <TOKEN id="token-22-8" pos="word" morph="none" start_char="1114" end_char="1123">personales</TOKEN>
+        <TOKEN id="token-22-9" pos="word" morph="none" start_char="1125" end_char="1127">que</TOKEN>
+        <TOKEN id="token-22-10" pos="word" morph="none" start_char="1129" end_char="1133">mandó</TOKEN>
+      </SEG>
+      <SEG id="segment-23" start_char="1135" end_char="1186">
+        <ORIGINAL_TEXT>durante su etapa en el Gobierno, según ha explicado.</ORIGINAL_TEXT>
+        <TOKEN id="token-23-0" pos="word" morph="none" start_char="1135" end_char="1141">durante</TOKEN>
+        <TOKEN id="token-23-1" pos="word" morph="none" start_char="1143" end_char="1144">su</TOKEN>
+        <TOKEN id="token-23-2" pos="word" morph="none" start_char="1146" end_char="1150">etapa</TOKEN>
+        <TOKEN id="token-23-3" pos="word" morph="none" start_char="1152" end_char="1153">en</TOKEN>
+        <TOKEN id="token-23-4" pos="word" morph="none" start_char="1155" end_char="1156">el</TOKEN>
+        <TOKEN id="token-23-5" pos="word" morph="none" start_char="1158" end_char="1165">Gobierno</TOKEN>
+        <TOKEN id="token-23-6" pos="punct" morph="none" start_char="1166" end_char="1166">,</TOKEN>
+        <TOKEN id="token-23-7" pos="word" morph="none" start_char="1168" end_char="1172">según</TOKEN>
+        <TOKEN id="token-23-8" pos="word" morph="none" start_char="1174" end_char="1175">ha</TOKEN>
+        <TOKEN id="token-23-9" pos="word" morph="none" start_char="1177" end_char="1185">explicado</TOKEN>
+        <TOKEN id="token-23-10" pos="punct" morph="none" start_char="1186" end_char="1186">.</TOKEN>
+      </SEG>
+      <SEG id="segment-24" start_char="1188" end_char="1191">
+        <ORIGINAL_TEXT>&lt;/P&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-24-0" pos="unknown" morph="none" start_char="1188" end_char="1191">&lt;/P&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-25" start_char="1193" end_char="1195">
+        <ORIGINAL_TEXT>&lt;P&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-25-0" pos="unknown" morph="none" start_char="1193" end_char="1195">&lt;P&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-26" start_char="1197" end_char="1267">
+        <ORIGINAL_TEXT>La duda surgió al no poder conocer si esos mensajes que borró contenían</ORIGINAL_TEXT>
+        <TOKEN id="token-26-0" pos="word" morph="none" start_char="1197" end_char="1198">La</TOKEN>
+        <TOKEN id="token-26-1" pos="word" morph="none" start_char="1200" end_char="1203">duda</TOKEN>
+        <TOKEN id="token-26-2" pos="word" morph="none" start_char="1205" end_char="1210">surgió</TOKEN>
+        <TOKEN id="token-26-3" pos="word" morph="none" start_char="1212" end_char="1213">al</TOKEN>
+        <TOKEN id="token-26-4" pos="word" morph="none" start_char="1215" end_char="1216">no</TOKEN>
+        <TOKEN id="token-26-5" pos="word" morph="none" start_char="1218" end_char="1222">poder</TOKEN>
+        <TOKEN id="token-26-6" pos="word" morph="none" start_char="1224" end_char="1230">conocer</TOKEN>
+        <TOKEN id="token-26-7" pos="word" morph="none" start_char="1232" end_char="1233">si</TOKEN>
+        <TOKEN id="token-26-8" pos="word" morph="none" start_char="1235" end_char="1238">esos</TOKEN>
+        <TOKEN id="token-26-9" pos="word" morph="none" start_char="1240" end_char="1247">mensajes</TOKEN>
+        <TOKEN id="token-26-10" pos="word" morph="none" start_char="1249" end_char="1251">que</TOKEN>
+        <TOKEN id="token-26-11" pos="word" morph="none" start_char="1253" end_char="1257">borró</TOKEN>
+        <TOKEN id="token-26-12" pos="word" morph="none" start_char="1259" end_char="1267">contenían</TOKEN>
+      </SEG>
+      <SEG id="segment-27" start_char="1269" end_char="1342">
+        <ORIGINAL_TEXT>información gubernamental, y por ello ha sido preguntada la ex secretaria.</ORIGINAL_TEXT>
+        <TOKEN id="token-27-0" pos="word" morph="none" start_char="1269" end_char="1279">información</TOKEN>
+        <TOKEN id="token-27-1" pos="word" morph="none" start_char="1281" end_char="1293">gubernamental</TOKEN>
+        <TOKEN id="token-27-2" pos="punct" morph="none" start_char="1294" end_char="1294">,</TOKEN>
+        <TOKEN id="token-27-3" pos="word" morph="none" start_char="1296" end_char="1296">y</TOKEN>
+        <TOKEN id="token-27-4" pos="word" morph="none" start_char="1298" end_char="1300">por</TOKEN>
+        <TOKEN id="token-27-5" pos="word" morph="none" start_char="1302" end_char="1305">ello</TOKEN>
+        <TOKEN id="token-27-6" pos="word" morph="none" start_char="1307" end_char="1308">ha</TOKEN>
+        <TOKEN id="token-27-7" pos="word" morph="none" start_char="1310" end_char="1313">sido</TOKEN>
+        <TOKEN id="token-27-8" pos="word" morph="none" start_char="1315" end_char="1324">preguntada</TOKEN>
+        <TOKEN id="token-27-9" pos="word" morph="none" start_char="1326" end_char="1327">la</TOKEN>
+        <TOKEN id="token-27-10" pos="word" morph="none" start_char="1329" end_char="1330">ex</TOKEN>
+        <TOKEN id="token-27-11" pos="word" morph="none" start_char="1332" end_char="1341">secretaria</TOKEN>
+        <TOKEN id="token-27-12" pos="punct" morph="none" start_char="1342" end_char="1342">.</TOKEN>
+      </SEG>
+      <SEG id="segment-28" start_char="1344" end_char="1417">
+        <ORIGINAL_TEXT>Clinton ha subrayado que no borró “ningún email relacionado con el trabajo</ORIGINAL_TEXT>
+        <TOKEN id="token-28-0" pos="word" morph="none" start_char="1344" end_char="1350">Clinton</TOKEN>
+        <TOKEN id="token-28-1" pos="word" morph="none" start_char="1352" end_char="1353">ha</TOKEN>
+        <TOKEN id="token-28-2" pos="word" morph="none" start_char="1355" end_char="1363">subrayado</TOKEN>
+        <TOKEN id="token-28-3" pos="word" morph="none" start_char="1365" end_char="1367">que</TOKEN>
+        <TOKEN id="token-28-4" pos="word" morph="none" start_char="1369" end_char="1370">no</TOKEN>
+        <TOKEN id="token-28-5" pos="word" morph="none" start_char="1372" end_char="1376">borró</TOKEN>
+        <TOKEN id="token-28-6" pos="punct" morph="none" start_char="1378" end_char="1378">“</TOKEN>
+        <TOKEN id="token-28-7" pos="word" morph="none" start_char="1379" end_char="1384">ningún</TOKEN>
+        <TOKEN id="token-28-8" pos="word" morph="none" start_char="1386" end_char="1390">email</TOKEN>
+        <TOKEN id="token-28-9" pos="word" morph="none" start_char="1392" end_char="1402">relacionado</TOKEN>
+        <TOKEN id="token-28-10" pos="word" morph="none" start_char="1404" end_char="1406">con</TOKEN>
+        <TOKEN id="token-28-11" pos="word" morph="none" start_char="1408" end_char="1409">el</TOKEN>
+        <TOKEN id="token-28-12" pos="word" morph="none" start_char="1411" end_char="1417">trabajo</TOKEN>
+      </SEG>
+      <SEG id="segment-29" start_char="1419" end_char="1488">
+        <ORIGINAL_TEXT>antes de entregarlos al Departamento de Estado” y ha explicado que las</ORIGINAL_TEXT>
+        <TOKEN id="token-29-0" pos="word" morph="none" start_char="1419" end_char="1423">antes</TOKEN>
+        <TOKEN id="token-29-1" pos="word" morph="none" start_char="1425" end_char="1426">de</TOKEN>
+        <TOKEN id="token-29-2" pos="word" morph="none" start_char="1428" end_char="1438">entregarlos</TOKEN>
+        <TOKEN id="token-29-3" pos="word" morph="none" start_char="1440" end_char="1441">al</TOKEN>
+        <TOKEN id="token-29-4" pos="word" morph="none" start_char="1443" end_char="1454">Departamento</TOKEN>
+        <TOKEN id="token-29-5" pos="word" morph="none" start_char="1456" end_char="1457">de</TOKEN>
+        <TOKEN id="token-29-6" pos="word" morph="none" start_char="1459" end_char="1464">Estado</TOKEN>
+        <TOKEN id="token-29-7" pos="punct" morph="none" start_char="1465" end_char="1465">”</TOKEN>
+        <TOKEN id="token-29-8" pos="word" morph="none" start_char="1467" end_char="1467">y</TOKEN>
+        <TOKEN id="token-29-9" pos="word" morph="none" start_char="1469" end_char="1470">ha</TOKEN>
+        <TOKEN id="token-29-10" pos="word" morph="none" start_char="1472" end_char="1480">explicado</TOKEN>
+        <TOKEN id="token-29-11" pos="word" morph="none" start_char="1482" end_char="1484">que</TOKEN>
+        <TOKEN id="token-29-12" pos="word" morph="none" start_char="1486" end_char="1488">las</TOKEN>
+      </SEG>
+      <SEG id="segment-30" start_char="1490" end_char="1557">
+        <ORIGINAL_TEXT>comunicaciones que remitió a este organismo “eran unas 30.000″ y que</ORIGINAL_TEXT>
+        <TOKEN id="token-30-0" pos="word" morph="none" start_char="1490" end_char="1503">comunicaciones</TOKEN>
+        <TOKEN id="token-30-1" pos="word" morph="none" start_char="1505" end_char="1507">que</TOKEN>
+        <TOKEN id="token-30-2" pos="word" morph="none" start_char="1509" end_char="1515">remitió</TOKEN>
+        <TOKEN id="token-30-3" pos="word" morph="none" start_char="1517" end_char="1517">a</TOKEN>
+        <TOKEN id="token-30-4" pos="word" morph="none" start_char="1519" end_char="1522">este</TOKEN>
+        <TOKEN id="token-30-5" pos="word" morph="none" start_char="1524" end_char="1532">organismo</TOKEN>
+        <TOKEN id="token-30-6" pos="punct" morph="none" start_char="1534" end_char="1534">“</TOKEN>
+        <TOKEN id="token-30-7" pos="word" morph="none" start_char="1535" end_char="1538">eran</TOKEN>
+        <TOKEN id="token-30-8" pos="word" morph="none" start_char="1540" end_char="1543">unas</TOKEN>
+        <TOKEN id="token-30-9" pos="word" morph="none" start_char="1545" end_char="1546">30</TOKEN>
+        <TOKEN id="token-30-10" pos="punct" morph="none" start_char="1547" end_char="1547">.</TOKEN>
+        <TOKEN id="token-30-11" pos="word" morph="none" start_char="1548" end_char="1550">000</TOKEN>
+        <TOKEN id="token-30-12" pos="punct" morph="none" start_char="1551" end_char="1551">″</TOKEN>
+        <TOKEN id="token-30-13" pos="word" morph="none" start_char="1553" end_char="1553">y</TOKEN>
+        <TOKEN id="token-30-14" pos="word" morph="none" start_char="1555" end_char="1557">que</TOKEN>
+      </SEG>
+      <SEG id="segment-31" start_char="1559" end_char="1593">
+        <ORIGINAL_TEXT>“ocupaban 50.000 páginas impresas”.</ORIGINAL_TEXT>
+        <TOKEN id="token-31-0" pos="punct" morph="none" start_char="1559" end_char="1559">“</TOKEN>
+        <TOKEN id="token-31-1" pos="word" morph="none" start_char="1560" end_char="1567">ocupaban</TOKEN>
+        <TOKEN id="token-31-2" pos="number" morph="none" start_char="1569" end_char="1574">50.000</TOKEN>
+        <TOKEN id="token-31-3" pos="word" morph="none" start_char="1576" end_char="1582">páginas</TOKEN>
+        <TOKEN id="token-31-4" pos="word" morph="none" start_char="1584" end_char="1591">impresas</TOKEN>
+        <TOKEN id="token-31-5" pos="punct" morph="none" start_char="1592" end_char="1593">”.</TOKEN>
+      </SEG>
+      <SEG id="segment-32" start_char="1595" end_char="1598">
+        <ORIGINAL_TEXT>&lt;/P&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-32-0" pos="unknown" morph="none" start_char="1595" end_char="1598">&lt;/P&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-33" start_char="1600" end_char="1606">
+        <ORIGINAL_TEXT>&lt;/TEXT&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-33-0" pos="unknown" morph="none" start_char="1600" end_char="1606">&lt;/TEXT&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-34" start_char="1608" end_char="1613">
+        <ORIGINAL_TEXT>&lt;/DOC&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-34-0" pos="unknown" morph="none" start_char="1608" end_char="1613">&lt;/DOC&gt;</TOKEN>
+      </SEG>
+    </TEXT>
+  </DOC>
+</LCTL_TEXT>

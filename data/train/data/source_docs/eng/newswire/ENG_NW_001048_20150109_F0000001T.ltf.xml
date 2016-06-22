@@ -1,0 +1,746 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LCTL_TEXT>
+  <DOC id="ENG_NW_001048_20150109_F0000001T.xml" tokenization="tokenization_parameters" grammar="none" raw_text_char_length="2914" raw_text_md5="1864b7deaca7505260bd66360c9c186c">
+    <TEXT>
+      <SEG id="segment-0" start_char="0" end_char="37">
+        <ORIGINAL_TEXT>&lt;?xml version="1.0" encoding="utf-8"?&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-0-0" pos="unknown" morph="none" start_char="0" end_char="4">&lt;?xml</TOKEN>
+        <TOKEN id="token-0-1" pos="unknown" morph="none" start_char="6" end_char="18">version="1.0"</TOKEN>
+        <TOKEN id="token-0-2" pos="unknown" morph="none" start_char="20" end_char="37">encoding="utf-8"?&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-1" start_char="39" end_char="81">
+        <ORIGINAL_TEXT>&lt;DOC id="ENG_NW_001048_20150109_F0000001T"&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-1-0" pos="unknown" morph="none" start_char="39" end_char="42">&lt;DOC</TOKEN>
+        <TOKEN id="token-1-1" pos="unknown" morph="none" start_char="44" end_char="81">id="ENG_NW_001048_20150109_F0000001T"&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-2" start_char="83" end_char="272">
+        <ORIGINAL_TEXT>&lt;SOURCE&gt;http://www.telegraph.co.uk/news/worldnews/africaandindianocean/southafrica/11335588/Carl-Pistorius-brother-of-jailed-Paralympian-Oscar-to-be-charged-over-motorway-crash.html&lt;/SOURCE&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-2-0" pos="unknown" morph="none" start_char="83" end_char="272">&lt;SOURCE&gt;http://www.telegraph.co.uk/news/worldnews/africaandindianocean/southafrica/11335588/Carl-Pistorius-brother-of-jailed-Paralympian-Oscar-to-be-charged-over-motorway-crash.html&lt;/SOURCE&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-3" start_char="274" end_char="315">
+        <ORIGINAL_TEXT>&lt;DATE_TIME&gt;2015-01-09T00:00:00&lt;/DATE_TIME&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-3-0" pos="unknown" morph="none" start_char="274" end_char="315">&lt;DATE_TIME&gt;2015-01-09T00:00:00&lt;/DATE_TIME&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-4" start_char="317" end_char="326">
+        <ORIGINAL_TEXT>&lt;HEADLINE&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-4-0" pos="unknown" morph="none" start_char="317" end_char="326">&lt;HEADLINE&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-5" start_char="328" end_char="413">
+        <ORIGINAL_TEXT>Carl Pistorius, brother of jailed Paralympian Oscar, to be charged over motorway crash</ORIGINAL_TEXT>
+        <TOKEN id="token-5-0" pos="word" morph="none" start_char="328" end_char="331">Carl</TOKEN>
+        <TOKEN id="token-5-1" pos="word" morph="none" start_char="333" end_char="341">Pistorius</TOKEN>
+        <TOKEN id="token-5-2" pos="punct" morph="none" start_char="342" end_char="342">,</TOKEN>
+        <TOKEN id="token-5-3" pos="word" morph="none" start_char="344" end_char="350">brother</TOKEN>
+        <TOKEN id="token-5-4" pos="word" morph="none" start_char="352" end_char="353">of</TOKEN>
+        <TOKEN id="token-5-5" pos="word" morph="none" start_char="355" end_char="360">jailed</TOKEN>
+        <TOKEN id="token-5-6" pos="word" morph="none" start_char="362" end_char="372">Paralympian</TOKEN>
+        <TOKEN id="token-5-7" pos="word" morph="none" start_char="374" end_char="378">Oscar</TOKEN>
+        <TOKEN id="token-5-8" pos="punct" morph="none" start_char="379" end_char="379">,</TOKEN>
+        <TOKEN id="token-5-9" pos="word" morph="none" start_char="381" end_char="382">to</TOKEN>
+        <TOKEN id="token-5-10" pos="word" morph="none" start_char="384" end_char="385">be</TOKEN>
+        <TOKEN id="token-5-11" pos="word" morph="none" start_char="387" end_char="393">charged</TOKEN>
+        <TOKEN id="token-5-12" pos="word" morph="none" start_char="395" end_char="398">over</TOKEN>
+        <TOKEN id="token-5-13" pos="word" morph="none" start_char="400" end_char="407">motorway</TOKEN>
+        <TOKEN id="token-5-14" pos="word" morph="none" start_char="409" end_char="413">crash</TOKEN>
+      </SEG>
+      <SEG id="segment-6" start_char="415" end_char="425">
+        <ORIGINAL_TEXT>&lt;/HEADLINE&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-6-0" pos="unknown" morph="none" start_char="415" end_char="425">&lt;/HEADLINE&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-7" start_char="427" end_char="432">
+        <ORIGINAL_TEXT>&lt;TEXT&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-7-0" pos="unknown" morph="none" start_char="427" end_char="432">&lt;TEXT&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-8" start_char="434" end_char="436">
+        <ORIGINAL_TEXT>&lt;P&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-8-0" pos="unknown" morph="none" start_char="434" end_char="436">&lt;P&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-9" start_char="438" end_char="509">
+        <ORIGINAL_TEXT>Mr Pistorius was left in intensive car after the head-on accident, which</ORIGINAL_TEXT>
+        <TOKEN id="token-9-0" pos="word" morph="none" start_char="438" end_char="439">Mr</TOKEN>
+        <TOKEN id="token-9-1" pos="word" morph="none" start_char="441" end_char="449">Pistorius</TOKEN>
+        <TOKEN id="token-9-2" pos="word" morph="none" start_char="451" end_char="453">was</TOKEN>
+        <TOKEN id="token-9-3" pos="word" morph="none" start_char="455" end_char="458">left</TOKEN>
+        <TOKEN id="token-9-4" pos="word" morph="none" start_char="460" end_char="461">in</TOKEN>
+        <TOKEN id="token-9-5" pos="word" morph="none" start_char="463" end_char="471">intensive</TOKEN>
+        <TOKEN id="token-9-6" pos="word" morph="none" start_char="473" end_char="475">car</TOKEN>
+        <TOKEN id="token-9-7" pos="word" morph="none" start_char="477" end_char="481">after</TOKEN>
+        <TOKEN id="token-9-8" pos="word" morph="none" start_char="483" end_char="485">the</TOKEN>
+        <TOKEN id="token-9-9" pos="word" morph="none" start_char="487" end_char="490">head</TOKEN>
+        <TOKEN id="token-9-10" pos="punct" morph="none" start_char="491" end_char="491">-</TOKEN>
+        <TOKEN id="token-9-11" pos="word" morph="none" start_char="492" end_char="493">on</TOKEN>
+        <TOKEN id="token-9-12" pos="word" morph="none" start_char="495" end_char="502">accident</TOKEN>
+        <TOKEN id="token-9-13" pos="punct" morph="none" start_char="503" end_char="503">,</TOKEN>
+        <TOKEN id="token-9-14" pos="word" morph="none" start_char="505" end_char="509">which</TOKEN>
+      </SEG>
+      <SEG id="segment-10" start_char="511" end_char="580">
+        <ORIGINAL_TEXT>happened on one of the country’s main motorways towards the end of his</ORIGINAL_TEXT>
+        <TOKEN id="token-10-0" pos="word" morph="none" start_char="511" end_char="518">happened</TOKEN>
+        <TOKEN id="token-10-1" pos="word" morph="none" start_char="520" end_char="521">on</TOKEN>
+        <TOKEN id="token-10-2" pos="word" morph="none" start_char="523" end_char="525">one</TOKEN>
+        <TOKEN id="token-10-3" pos="word" morph="none" start_char="527" end_char="528">of</TOKEN>
+        <TOKEN id="token-10-4" pos="word" morph="none" start_char="530" end_char="532">the</TOKEN>
+        <TOKEN id="token-10-5" pos="word" morph="none" start_char="534" end_char="540">country</TOKEN>
+        <TOKEN id="token-10-6" pos="punct" morph="none" start_char="541" end_char="541">’</TOKEN>
+        <TOKEN id="token-10-7" pos="word" morph="none" start_char="542" end_char="542">s</TOKEN>
+        <TOKEN id="token-10-8" pos="word" morph="none" start_char="544" end_char="547">main</TOKEN>
+        <TOKEN id="token-10-9" pos="word" morph="none" start_char="549" end_char="557">motorways</TOKEN>
+        <TOKEN id="token-10-10" pos="word" morph="none" start_char="559" end_char="565">towards</TOKEN>
+        <TOKEN id="token-10-11" pos="word" morph="none" start_char="567" end_char="569">the</TOKEN>
+        <TOKEN id="token-10-12" pos="word" morph="none" start_char="571" end_char="573">end</TOKEN>
+        <TOKEN id="token-10-13" pos="word" morph="none" start_char="575" end_char="576">of</TOKEN>
+        <TOKEN id="token-10-14" pos="word" morph="none" start_char="578" end_char="580">his</TOKEN>
+      </SEG>
+      <SEG id="segment-11" start_char="582" end_char="624">
+        <ORIGINAL_TEXT>brother’s trial for killing Reeva Steenkamp</ORIGINAL_TEXT>
+        <TOKEN id="token-11-0" pos="word" morph="none" start_char="582" end_char="588">brother</TOKEN>
+        <TOKEN id="token-11-1" pos="punct" morph="none" start_char="589" end_char="589">’</TOKEN>
+        <TOKEN id="token-11-2" pos="word" morph="none" start_char="590" end_char="590">s</TOKEN>
+        <TOKEN id="token-11-3" pos="word" morph="none" start_char="592" end_char="596">trial</TOKEN>
+        <TOKEN id="token-11-4" pos="word" morph="none" start_char="598" end_char="600">for</TOKEN>
+        <TOKEN id="token-11-5" pos="word" morph="none" start_char="602" end_char="608">killing</TOKEN>
+        <TOKEN id="token-11-6" pos="word" morph="none" start_char="610" end_char="614">Reeva</TOKEN>
+        <TOKEN id="token-11-7" pos="word" morph="none" start_char="616" end_char="624">Steenkamp</TOKEN>
+      </SEG>
+      <SEG id="segment-12" start_char="626" end_char="629">
+        <ORIGINAL_TEXT>&lt;/P&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-12-0" pos="unknown" morph="none" start_char="626" end_char="629">&lt;/P&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-13" start_char="631" end_char="633">
+        <ORIGINAL_TEXT>&lt;P&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-13-0" pos="unknown" morph="none" start_char="631" end_char="633">&lt;P&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-14" start_char="635" end_char="712">
+        <ORIGINAL_TEXT>Carl Pistorius, the brother of the athlete Oscar Pistorius who was jailed last</ORIGINAL_TEXT>
+        <TOKEN id="token-14-0" pos="word" morph="none" start_char="635" end_char="638">Carl</TOKEN>
+        <TOKEN id="token-14-1" pos="word" morph="none" start_char="640" end_char="648">Pistorius</TOKEN>
+        <TOKEN id="token-14-2" pos="punct" morph="none" start_char="649" end_char="649">,</TOKEN>
+        <TOKEN id="token-14-3" pos="word" morph="none" start_char="651" end_char="653">the</TOKEN>
+        <TOKEN id="token-14-4" pos="word" morph="none" start_char="655" end_char="661">brother</TOKEN>
+        <TOKEN id="token-14-5" pos="word" morph="none" start_char="663" end_char="664">of</TOKEN>
+        <TOKEN id="token-14-6" pos="word" morph="none" start_char="666" end_char="668">the</TOKEN>
+        <TOKEN id="token-14-7" pos="word" morph="none" start_char="670" end_char="676">athlete</TOKEN>
+        <TOKEN id="token-14-8" pos="word" morph="none" start_char="678" end_char="682">Oscar</TOKEN>
+        <TOKEN id="token-14-9" pos="word" morph="none" start_char="684" end_char="692">Pistorius</TOKEN>
+        <TOKEN id="token-14-10" pos="word" morph="none" start_char="694" end_char="696">who</TOKEN>
+        <TOKEN id="token-14-11" pos="word" morph="none" start_char="698" end_char="700">was</TOKEN>
+        <TOKEN id="token-14-12" pos="word" morph="none" start_char="702" end_char="707">jailed</TOKEN>
+        <TOKEN id="token-14-13" pos="word" morph="none" start_char="709" end_char="712">last</TOKEN>
+      </SEG>
+      <SEG id="segment-15" start_char="714" end_char="788">
+        <ORIGINAL_TEXT>year for killing girlfriend Reeva Steenkamp, is to be charged with reckless</ORIGINAL_TEXT>
+        <TOKEN id="token-15-0" pos="word" morph="none" start_char="714" end_char="717">year</TOKEN>
+        <TOKEN id="token-15-1" pos="word" morph="none" start_char="719" end_char="721">for</TOKEN>
+        <TOKEN id="token-15-2" pos="word" morph="none" start_char="723" end_char="729">killing</TOKEN>
+        <TOKEN id="token-15-3" pos="word" morph="none" start_char="731" end_char="740">girlfriend</TOKEN>
+        <TOKEN id="token-15-4" pos="word" morph="none" start_char="742" end_char="746">Reeva</TOKEN>
+        <TOKEN id="token-15-5" pos="word" morph="none" start_char="748" end_char="756">Steenkamp</TOKEN>
+        <TOKEN id="token-15-6" pos="punct" morph="none" start_char="757" end_char="757">,</TOKEN>
+        <TOKEN id="token-15-7" pos="word" morph="none" start_char="759" end_char="760">is</TOKEN>
+        <TOKEN id="token-15-8" pos="word" morph="none" start_char="762" end_char="763">to</TOKEN>
+        <TOKEN id="token-15-9" pos="word" morph="none" start_char="765" end_char="766">be</TOKEN>
+        <TOKEN id="token-15-10" pos="word" morph="none" start_char="768" end_char="774">charged</TOKEN>
+        <TOKEN id="token-15-11" pos="word" morph="none" start_char="776" end_char="779">with</TOKEN>
+        <TOKEN id="token-15-12" pos="word" morph="none" start_char="781" end_char="788">reckless</TOKEN>
+      </SEG>
+      <SEG id="segment-16" start_char="790" end_char="811">
+        <ORIGINAL_TEXT>and negligent driving.</ORIGINAL_TEXT>
+        <TOKEN id="token-16-0" pos="word" morph="none" start_char="790" end_char="792">and</TOKEN>
+        <TOKEN id="token-16-1" pos="word" morph="none" start_char="794" end_char="802">negligent</TOKEN>
+        <TOKEN id="token-16-2" pos="word" morph="none" start_char="804" end_char="810">driving</TOKEN>
+        <TOKEN id="token-16-3" pos="punct" morph="none" start_char="811" end_char="811">.</TOKEN>
+      </SEG>
+      <SEG id="segment-17" start_char="813" end_char="816">
+        <ORIGINAL_TEXT>&lt;/P&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-17-0" pos="unknown" morph="none" start_char="813" end_char="816">&lt;/P&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-18" start_char="818" end_char="820">
+        <ORIGINAL_TEXT>&lt;P&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-18-0" pos="unknown" morph="none" start_char="818" end_char="820">&lt;P&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-19" start_char="822" end_char="892">
+        <ORIGINAL_TEXT>South Africa’s National Prosecuting Authority confirmed it had served a</ORIGINAL_TEXT>
+        <TOKEN id="token-19-0" pos="word" morph="none" start_char="822" end_char="826">South</TOKEN>
+        <TOKEN id="token-19-1" pos="word" morph="none" start_char="828" end_char="833">Africa</TOKEN>
+        <TOKEN id="token-19-2" pos="punct" morph="none" start_char="834" end_char="834">’</TOKEN>
+        <TOKEN id="token-19-3" pos="word" morph="none" start_char="835" end_char="835">s</TOKEN>
+        <TOKEN id="token-19-4" pos="word" morph="none" start_char="837" end_char="844">National</TOKEN>
+        <TOKEN id="token-19-5" pos="word" morph="none" start_char="846" end_char="856">Prosecuting</TOKEN>
+        <TOKEN id="token-19-6" pos="word" morph="none" start_char="858" end_char="866">Authority</TOKEN>
+        <TOKEN id="token-19-7" pos="word" morph="none" start_char="868" end_char="876">confirmed</TOKEN>
+        <TOKEN id="token-19-8" pos="word" morph="none" start_char="878" end_char="879">it</TOKEN>
+        <TOKEN id="token-19-9" pos="word" morph="none" start_char="881" end_char="883">had</TOKEN>
+        <TOKEN id="token-19-10" pos="word" morph="none" start_char="885" end_char="890">served</TOKEN>
+        <TOKEN id="token-19-11" pos="word" morph="none" start_char="892" end_char="892">a</TOKEN>
+      </SEG>
+      <SEG id="segment-20" start_char="894" end_char="967">
+        <ORIGINAL_TEXT>summons on Mr Pistorius to appear before a court to face the charge in the</ORIGINAL_TEXT>
+        <TOKEN id="token-20-0" pos="word" morph="none" start_char="894" end_char="900">summons</TOKEN>
+        <TOKEN id="token-20-1" pos="word" morph="none" start_char="902" end_char="903">on</TOKEN>
+        <TOKEN id="token-20-2" pos="word" morph="none" start_char="905" end_char="906">Mr</TOKEN>
+        <TOKEN id="token-20-3" pos="word" morph="none" start_char="908" end_char="916">Pistorius</TOKEN>
+        <TOKEN id="token-20-4" pos="word" morph="none" start_char="918" end_char="919">to</TOKEN>
+        <TOKEN id="token-20-5" pos="word" morph="none" start_char="921" end_char="926">appear</TOKEN>
+        <TOKEN id="token-20-6" pos="word" morph="none" start_char="928" end_char="933">before</TOKEN>
+        <TOKEN id="token-20-7" pos="word" morph="none" start_char="935" end_char="935">a</TOKEN>
+        <TOKEN id="token-20-8" pos="word" morph="none" start_char="937" end_char="941">court</TOKEN>
+        <TOKEN id="token-20-9" pos="word" morph="none" start_char="943" end_char="944">to</TOKEN>
+        <TOKEN id="token-20-10" pos="word" morph="none" start_char="946" end_char="949">face</TOKEN>
+        <TOKEN id="token-20-11" pos="word" morph="none" start_char="951" end_char="953">the</TOKEN>
+        <TOKEN id="token-20-12" pos="word" morph="none" start_char="955" end_char="960">charge</TOKEN>
+        <TOKEN id="token-20-13" pos="word" morph="none" start_char="962" end_char="963">in</TOKEN>
+        <TOKEN id="token-20-14" pos="word" morph="none" start_char="965" end_char="967">the</TOKEN>
+      </SEG>
+      <SEG id="segment-21" start_char="969" end_char="981">
+        <ORIGINAL_TEXT>coming weeks.</ORIGINAL_TEXT>
+        <TOKEN id="token-21-0" pos="word" morph="none" start_char="969" end_char="974">coming</TOKEN>
+        <TOKEN id="token-21-1" pos="word" morph="none" start_char="976" end_char="980">weeks</TOKEN>
+        <TOKEN id="token-21-2" pos="punct" morph="none" start_char="981" end_char="981">.</TOKEN>
+      </SEG>
+      <SEG id="segment-22" start_char="983" end_char="986">
+        <ORIGINAL_TEXT>&lt;/P&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-22-0" pos="unknown" morph="none" start_char="983" end_char="986">&lt;/P&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-23" start_char="988" end_char="990">
+        <ORIGINAL_TEXT>&lt;P&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-23-0" pos="unknown" morph="none" start_char="988" end_char="990">&lt;P&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-24" start_char="992" end_char="1065">
+        <ORIGINAL_TEXT>He is to be charged after a motorway car crash in August which left him in</ORIGINAL_TEXT>
+        <TOKEN id="token-24-0" pos="word" morph="none" start_char="992" end_char="993">He</TOKEN>
+        <TOKEN id="token-24-1" pos="word" morph="none" start_char="995" end_char="996">is</TOKEN>
+        <TOKEN id="token-24-2" pos="word" morph="none" start_char="998" end_char="999">to</TOKEN>
+        <TOKEN id="token-24-3" pos="word" morph="none" start_char="1001" end_char="1002">be</TOKEN>
+        <TOKEN id="token-24-4" pos="word" morph="none" start_char="1004" end_char="1010">charged</TOKEN>
+        <TOKEN id="token-24-5" pos="word" morph="none" start_char="1012" end_char="1016">after</TOKEN>
+        <TOKEN id="token-24-6" pos="word" morph="none" start_char="1018" end_char="1018">a</TOKEN>
+        <TOKEN id="token-24-7" pos="word" morph="none" start_char="1020" end_char="1027">motorway</TOKEN>
+        <TOKEN id="token-24-8" pos="word" morph="none" start_char="1029" end_char="1031">car</TOKEN>
+        <TOKEN id="token-24-9" pos="word" morph="none" start_char="1033" end_char="1037">crash</TOKEN>
+        <TOKEN id="token-24-10" pos="word" morph="none" start_char="1039" end_char="1040">in</TOKEN>
+        <TOKEN id="token-24-11" pos="word" morph="none" start_char="1042" end_char="1047">August</TOKEN>
+        <TOKEN id="token-24-12" pos="word" morph="none" start_char="1049" end_char="1053">which</TOKEN>
+        <TOKEN id="token-24-13" pos="word" morph="none" start_char="1055" end_char="1058">left</TOKEN>
+        <TOKEN id="token-24-14" pos="word" morph="none" start_char="1060" end_char="1062">him</TOKEN>
+        <TOKEN id="token-24-15" pos="word" morph="none" start_char="1064" end_char="1065">in</TOKEN>
+      </SEG>
+      <SEG id="segment-25" start_char="1067" end_char="1081">
+        <ORIGINAL_TEXT>intensive care.</ORIGINAL_TEXT>
+        <TOKEN id="token-25-0" pos="word" morph="none" start_char="1067" end_char="1075">intensive</TOKEN>
+        <TOKEN id="token-25-1" pos="word" morph="none" start_char="1077" end_char="1080">care</TOKEN>
+        <TOKEN id="token-25-2" pos="punct" morph="none" start_char="1081" end_char="1081">.</TOKEN>
+      </SEG>
+      <SEG id="segment-26" start_char="1083" end_char="1086">
+        <ORIGINAL_TEXT>&lt;/P&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-26-0" pos="unknown" morph="none" start_char="1083" end_char="1086">&lt;/P&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-27" start_char="1088" end_char="1090">
+        <ORIGINAL_TEXT>&lt;P&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-27-0" pos="unknown" morph="none" start_char="1088" end_char="1090">&lt;P&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-28" start_char="1092" end_char="1166">
+        <ORIGINAL_TEXT>Mr Pistorius was trapped in his car and suffered several ruptured organs as</ORIGINAL_TEXT>
+        <TOKEN id="token-28-0" pos="word" morph="none" start_char="1092" end_char="1093">Mr</TOKEN>
+        <TOKEN id="token-28-1" pos="word" morph="none" start_char="1095" end_char="1103">Pistorius</TOKEN>
+        <TOKEN id="token-28-2" pos="word" morph="none" start_char="1105" end_char="1107">was</TOKEN>
+        <TOKEN id="token-28-3" pos="word" morph="none" start_char="1109" end_char="1115">trapped</TOKEN>
+        <TOKEN id="token-28-4" pos="word" morph="none" start_char="1117" end_char="1118">in</TOKEN>
+        <TOKEN id="token-28-5" pos="word" morph="none" start_char="1120" end_char="1122">his</TOKEN>
+        <TOKEN id="token-28-6" pos="word" morph="none" start_char="1124" end_char="1126">car</TOKEN>
+        <TOKEN id="token-28-7" pos="word" morph="none" start_char="1128" end_char="1130">and</TOKEN>
+        <TOKEN id="token-28-8" pos="word" morph="none" start_char="1132" end_char="1139">suffered</TOKEN>
+        <TOKEN id="token-28-9" pos="word" morph="none" start_char="1141" end_char="1147">several</TOKEN>
+        <TOKEN id="token-28-10" pos="word" morph="none" start_char="1149" end_char="1156">ruptured</TOKEN>
+        <TOKEN id="token-28-11" pos="word" morph="none" start_char="1158" end_char="1163">organs</TOKEN>
+        <TOKEN id="token-28-12" pos="word" morph="none" start_char="1165" end_char="1166">as</TOKEN>
+      </SEG>
+      <SEG id="segment-29" start_char="1168" end_char="1239">
+        <ORIGINAL_TEXT>well as severe leg injuries after the head-on collision at around 8pm on</ORIGINAL_TEXT>
+        <TOKEN id="token-29-0" pos="word" morph="none" start_char="1168" end_char="1171">well</TOKEN>
+        <TOKEN id="token-29-1" pos="word" morph="none" start_char="1173" end_char="1174">as</TOKEN>
+        <TOKEN id="token-29-2" pos="word" morph="none" start_char="1176" end_char="1181">severe</TOKEN>
+        <TOKEN id="token-29-3" pos="word" morph="none" start_char="1183" end_char="1185">leg</TOKEN>
+        <TOKEN id="token-29-4" pos="word" morph="none" start_char="1187" end_char="1194">injuries</TOKEN>
+        <TOKEN id="token-29-5" pos="word" morph="none" start_char="1196" end_char="1200">after</TOKEN>
+        <TOKEN id="token-29-6" pos="word" morph="none" start_char="1202" end_char="1204">the</TOKEN>
+        <TOKEN id="token-29-7" pos="word" morph="none" start_char="1206" end_char="1209">head</TOKEN>
+        <TOKEN id="token-29-8" pos="punct" morph="none" start_char="1210" end_char="1210">-</TOKEN>
+        <TOKEN id="token-29-9" pos="word" morph="none" start_char="1211" end_char="1212">on</TOKEN>
+        <TOKEN id="token-29-10" pos="word" morph="none" start_char="1214" end_char="1222">collision</TOKEN>
+        <TOKEN id="token-29-11" pos="word" morph="none" start_char="1224" end_char="1225">at</TOKEN>
+        <TOKEN id="token-29-12" pos="word" morph="none" start_char="1227" end_char="1232">around</TOKEN>
+        <TOKEN id="token-29-13" pos="word" morph="none" start_char="1234" end_char="1236">8pm</TOKEN>
+        <TOKEN id="token-29-14" pos="word" morph="none" start_char="1238" end_char="1239">on</TOKEN>
+      </SEG>
+      <SEG id="segment-30" start_char="1241" end_char="1314">
+        <ORIGINAL_TEXT>Friday August 1 last year. He attended his brother’s high-profile trial in</ORIGINAL_TEXT>
+        <TOKEN id="token-30-0" pos="word" morph="none" start_char="1241" end_char="1246">Friday</TOKEN>
+        <TOKEN id="token-30-1" pos="word" morph="none" start_char="1248" end_char="1253">August</TOKEN>
+        <TOKEN id="token-30-2" pos="number" morph="none" start_char="1255" end_char="1255">1</TOKEN>
+        <TOKEN id="token-30-3" pos="word" morph="none" start_char="1257" end_char="1260">last</TOKEN>
+        <TOKEN id="token-30-4" pos="word" morph="none" start_char="1262" end_char="1265">year</TOKEN>
+        <TOKEN id="token-30-5" pos="punct" morph="none" start_char="1266" end_char="1266">.</TOKEN>
+        <TOKEN id="token-30-6" pos="word" morph="none" start_char="1268" end_char="1269">He</TOKEN>
+        <TOKEN id="token-30-7" pos="word" morph="none" start_char="1271" end_char="1278">attended</TOKEN>
+        <TOKEN id="token-30-8" pos="word" morph="none" start_char="1280" end_char="1282">his</TOKEN>
+        <TOKEN id="token-30-9" pos="word" morph="none" start_char="1284" end_char="1290">brother</TOKEN>
+        <TOKEN id="token-30-10" pos="punct" morph="none" start_char="1291" end_char="1291">’</TOKEN>
+        <TOKEN id="token-30-11" pos="word" morph="none" start_char="1292" end_char="1292">s</TOKEN>
+        <TOKEN id="token-30-12" pos="word" morph="none" start_char="1294" end_char="1297">high</TOKEN>
+        <TOKEN id="token-30-13" pos="punct" morph="none" start_char="1298" end_char="1298">-</TOKEN>
+        <TOKEN id="token-30-14" pos="word" morph="none" start_char="1299" end_char="1305">profile</TOKEN>
+        <TOKEN id="token-30-15" pos="word" morph="none" start_char="1307" end_char="1311">trial</TOKEN>
+        <TOKEN id="token-30-16" pos="word" morph="none" start_char="1313" end_char="1314">in</TOKEN>
+      </SEG>
+      <SEG id="segment-31" start_char="1316" end_char="1355">
+        <ORIGINAL_TEXT>Pretoria in a wheelchair and leg braces.</ORIGINAL_TEXT>
+        <TOKEN id="token-31-0" pos="word" morph="none" start_char="1316" end_char="1323">Pretoria</TOKEN>
+        <TOKEN id="token-31-1" pos="word" morph="none" start_char="1325" end_char="1326">in</TOKEN>
+        <TOKEN id="token-31-2" pos="word" morph="none" start_char="1328" end_char="1328">a</TOKEN>
+        <TOKEN id="token-31-3" pos="word" morph="none" start_char="1330" end_char="1339">wheelchair</TOKEN>
+        <TOKEN id="token-31-4" pos="word" morph="none" start_char="1341" end_char="1343">and</TOKEN>
+        <TOKEN id="token-31-5" pos="word" morph="none" start_char="1345" end_char="1347">leg</TOKEN>
+        <TOKEN id="token-31-6" pos="word" morph="none" start_char="1349" end_char="1354">braces</TOKEN>
+        <TOKEN id="token-31-7" pos="punct" morph="none" start_char="1355" end_char="1355">.</TOKEN>
+      </SEG>
+      <SEG id="segment-32" start_char="1357" end_char="1360">
+        <ORIGINAL_TEXT>&lt;/P&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-32-0" pos="unknown" morph="none" start_char="1357" end_char="1360">&lt;/P&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-33" start_char="1362" end_char="1364">
+        <ORIGINAL_TEXT>&lt;P&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-33-0" pos="unknown" morph="none" start_char="1362" end_char="1364">&lt;P&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-34" start_char="1366" end_char="1443">
+        <ORIGINAL_TEXT>The crash was the second in which Mr Pistorius has been involved and for which</ORIGINAL_TEXT>
+        <TOKEN id="token-34-0" pos="word" morph="none" start_char="1366" end_char="1368">The</TOKEN>
+        <TOKEN id="token-34-1" pos="word" morph="none" start_char="1370" end_char="1374">crash</TOKEN>
+        <TOKEN id="token-34-2" pos="word" morph="none" start_char="1376" end_char="1378">was</TOKEN>
+        <TOKEN id="token-34-3" pos="word" morph="none" start_char="1380" end_char="1382">the</TOKEN>
+        <TOKEN id="token-34-4" pos="word" morph="none" start_char="1384" end_char="1389">second</TOKEN>
+        <TOKEN id="token-34-5" pos="word" morph="none" start_char="1391" end_char="1392">in</TOKEN>
+        <TOKEN id="token-34-6" pos="word" morph="none" start_char="1394" end_char="1398">which</TOKEN>
+        <TOKEN id="token-34-7" pos="word" morph="none" start_char="1400" end_char="1401">Mr</TOKEN>
+        <TOKEN id="token-34-8" pos="word" morph="none" start_char="1403" end_char="1411">Pistorius</TOKEN>
+        <TOKEN id="token-34-9" pos="word" morph="none" start_char="1413" end_char="1415">has</TOKEN>
+        <TOKEN id="token-34-10" pos="word" morph="none" start_char="1417" end_char="1420">been</TOKEN>
+        <TOKEN id="token-34-11" pos="word" morph="none" start_char="1422" end_char="1429">involved</TOKEN>
+        <TOKEN id="token-34-12" pos="word" morph="none" start_char="1431" end_char="1433">and</TOKEN>
+        <TOKEN id="token-34-13" pos="word" morph="none" start_char="1435" end_char="1437">for</TOKEN>
+        <TOKEN id="token-34-14" pos="word" morph="none" start_char="1439" end_char="1443">which</TOKEN>
+      </SEG>
+      <SEG id="segment-35" start_char="1445" end_char="1514">
+        <ORIGINAL_TEXT>he has faced charges. In May last year, he was acquitted of a culpable</ORIGINAL_TEXT>
+        <TOKEN id="token-35-0" pos="word" morph="none" start_char="1445" end_char="1446">he</TOKEN>
+        <TOKEN id="token-35-1" pos="word" morph="none" start_char="1448" end_char="1450">has</TOKEN>
+        <TOKEN id="token-35-2" pos="word" morph="none" start_char="1452" end_char="1456">faced</TOKEN>
+        <TOKEN id="token-35-3" pos="word" morph="none" start_char="1458" end_char="1464">charges</TOKEN>
+        <TOKEN id="token-35-4" pos="punct" morph="none" start_char="1465" end_char="1465">.</TOKEN>
+        <TOKEN id="token-35-5" pos="word" morph="none" start_char="1467" end_char="1468">In</TOKEN>
+        <TOKEN id="token-35-6" pos="word" morph="none" start_char="1470" end_char="1472">May</TOKEN>
+        <TOKEN id="token-35-7" pos="word" morph="none" start_char="1474" end_char="1477">last</TOKEN>
+        <TOKEN id="token-35-8" pos="word" morph="none" start_char="1479" end_char="1482">year</TOKEN>
+        <TOKEN id="token-35-9" pos="punct" morph="none" start_char="1483" end_char="1483">,</TOKEN>
+        <TOKEN id="token-35-10" pos="word" morph="none" start_char="1485" end_char="1486">he</TOKEN>
+        <TOKEN id="token-35-11" pos="word" morph="none" start_char="1488" end_char="1490">was</TOKEN>
+        <TOKEN id="token-35-12" pos="word" morph="none" start_char="1492" end_char="1500">acquitted</TOKEN>
+        <TOKEN id="token-35-13" pos="word" morph="none" start_char="1502" end_char="1503">of</TOKEN>
+        <TOKEN id="token-35-14" pos="word" morph="none" start_char="1505" end_char="1505">a</TOKEN>
+        <TOKEN id="token-35-15" pos="word" morph="none" start_char="1507" end_char="1514">culpable</TOKEN>
+      </SEG>
+      <SEG id="segment-36" start_char="1516" end_char="1564">
+        <ORIGINAL_TEXT>homicide charge over the death of a motorcyclist.</ORIGINAL_TEXT>
+        <TOKEN id="token-36-0" pos="word" morph="none" start_char="1516" end_char="1523">homicide</TOKEN>
+        <TOKEN id="token-36-1" pos="word" morph="none" start_char="1525" end_char="1530">charge</TOKEN>
+        <TOKEN id="token-36-2" pos="word" morph="none" start_char="1532" end_char="1535">over</TOKEN>
+        <TOKEN id="token-36-3" pos="word" morph="none" start_char="1537" end_char="1539">the</TOKEN>
+        <TOKEN id="token-36-4" pos="word" morph="none" start_char="1541" end_char="1545">death</TOKEN>
+        <TOKEN id="token-36-5" pos="word" morph="none" start_char="1547" end_char="1548">of</TOKEN>
+        <TOKEN id="token-36-6" pos="word" morph="none" start_char="1550" end_char="1550">a</TOKEN>
+        <TOKEN id="token-36-7" pos="word" morph="none" start_char="1552" end_char="1563">motorcyclist</TOKEN>
+        <TOKEN id="token-36-8" pos="punct" morph="none" start_char="1564" end_char="1564">.</TOKEN>
+      </SEG>
+      <SEG id="segment-37" start_char="1566" end_char="1569">
+        <ORIGINAL_TEXT>&lt;/P&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-37-0" pos="unknown" morph="none" start_char="1566" end_char="1569">&lt;/P&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-38" start_char="1571" end_char="1573">
+        <ORIGINAL_TEXT>&lt;P&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-38-0" pos="unknown" morph="none" start_char="1571" end_char="1573">&lt;P&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-39" start_char="1575" end_char="1647">
+        <ORIGINAL_TEXT>The latest crash involved two cars, Mr Pistorius’s Toyota Corolla and the</ORIGINAL_TEXT>
+        <TOKEN id="token-39-0" pos="word" morph="none" start_char="1575" end_char="1577">The</TOKEN>
+        <TOKEN id="token-39-1" pos="word" morph="none" start_char="1579" end_char="1584">latest</TOKEN>
+        <TOKEN id="token-39-2" pos="word" morph="none" start_char="1586" end_char="1590">crash</TOKEN>
+        <TOKEN id="token-39-3" pos="word" morph="none" start_char="1592" end_char="1599">involved</TOKEN>
+        <TOKEN id="token-39-4" pos="word" morph="none" start_char="1601" end_char="1603">two</TOKEN>
+        <TOKEN id="token-39-5" pos="word" morph="none" start_char="1605" end_char="1608">cars</TOKEN>
+        <TOKEN id="token-39-6" pos="punct" morph="none" start_char="1609" end_char="1609">,</TOKEN>
+        <TOKEN id="token-39-7" pos="word" morph="none" start_char="1611" end_char="1612">Mr</TOKEN>
+        <TOKEN id="token-39-8" pos="word" morph="none" start_char="1614" end_char="1622">Pistorius</TOKEN>
+        <TOKEN id="token-39-9" pos="punct" morph="none" start_char="1623" end_char="1623">’</TOKEN>
+        <TOKEN id="token-39-10" pos="word" morph="none" start_char="1624" end_char="1624">s</TOKEN>
+        <TOKEN id="token-39-11" pos="word" morph="none" start_char="1626" end_char="1631">Toyota</TOKEN>
+        <TOKEN id="token-39-12" pos="word" morph="none" start_char="1633" end_char="1639">Corolla</TOKEN>
+        <TOKEN id="token-39-13" pos="word" morph="none" start_char="1641" end_char="1643">and</TOKEN>
+        <TOKEN id="token-39-14" pos="word" morph="none" start_char="1645" end_char="1647">the</TOKEN>
+      </SEG>
+      <SEG id="segment-40" start_char="1649" end_char="1720">
+        <ORIGINAL_TEXT>other driver’s Hyundai, and happened on the N1 motorway around two hours</ORIGINAL_TEXT>
+        <TOKEN id="token-40-0" pos="word" morph="none" start_char="1649" end_char="1653">other</TOKEN>
+        <TOKEN id="token-40-1" pos="word" morph="none" start_char="1655" end_char="1660">driver</TOKEN>
+        <TOKEN id="token-40-2" pos="punct" morph="none" start_char="1661" end_char="1661">’</TOKEN>
+        <TOKEN id="token-40-3" pos="word" morph="none" start_char="1662" end_char="1662">s</TOKEN>
+        <TOKEN id="token-40-4" pos="word" morph="none" start_char="1664" end_char="1670">Hyundai</TOKEN>
+        <TOKEN id="token-40-5" pos="punct" morph="none" start_char="1671" end_char="1671">,</TOKEN>
+        <TOKEN id="token-40-6" pos="word" morph="none" start_char="1673" end_char="1675">and</TOKEN>
+        <TOKEN id="token-40-7" pos="word" morph="none" start_char="1677" end_char="1684">happened</TOKEN>
+        <TOKEN id="token-40-8" pos="word" morph="none" start_char="1686" end_char="1687">on</TOKEN>
+        <TOKEN id="token-40-9" pos="word" morph="none" start_char="1689" end_char="1691">the</TOKEN>
+        <TOKEN id="token-40-10" pos="word" morph="none" start_char="1693" end_char="1694">N1</TOKEN>
+        <TOKEN id="token-40-11" pos="word" morph="none" start_char="1696" end_char="1703">motorway</TOKEN>
+        <TOKEN id="token-40-12" pos="word" morph="none" start_char="1705" end_char="1710">around</TOKEN>
+        <TOKEN id="token-40-13" pos="word" morph="none" start_char="1712" end_char="1714">two</TOKEN>
+        <TOKEN id="token-40-14" pos="word" morph="none" start_char="1716" end_char="1720">hours</TOKEN>
+      </SEG>
+      <SEG id="segment-41" start_char="1722" end_char="1780">
+        <ORIGINAL_TEXT>north of Pretoria as he drove home from a business meeting.</ORIGINAL_TEXT>
+        <TOKEN id="token-41-0" pos="word" morph="none" start_char="1722" end_char="1726">north</TOKEN>
+        <TOKEN id="token-41-1" pos="word" morph="none" start_char="1728" end_char="1729">of</TOKEN>
+        <TOKEN id="token-41-2" pos="word" morph="none" start_char="1731" end_char="1738">Pretoria</TOKEN>
+        <TOKEN id="token-41-3" pos="word" morph="none" start_char="1740" end_char="1741">as</TOKEN>
+        <TOKEN id="token-41-4" pos="word" morph="none" start_char="1743" end_char="1744">he</TOKEN>
+        <TOKEN id="token-41-5" pos="word" morph="none" start_char="1746" end_char="1750">drove</TOKEN>
+        <TOKEN id="token-41-6" pos="word" morph="none" start_char="1752" end_char="1755">home</TOKEN>
+        <TOKEN id="token-41-7" pos="word" morph="none" start_char="1757" end_char="1760">from</TOKEN>
+        <TOKEN id="token-41-8" pos="word" morph="none" start_char="1762" end_char="1762">a</TOKEN>
+        <TOKEN id="token-41-9" pos="word" morph="none" start_char="1764" end_char="1771">business</TOKEN>
+        <TOKEN id="token-41-10" pos="word" morph="none" start_char="1773" end_char="1779">meeting</TOKEN>
+        <TOKEN id="token-41-11" pos="punct" morph="none" start_char="1780" end_char="1780">.</TOKEN>
+      </SEG>
+      <SEG id="segment-42" start_char="1782" end_char="1785">
+        <ORIGINAL_TEXT>&lt;/P&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-42-0" pos="unknown" morph="none" start_char="1782" end_char="1785">&lt;/P&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-43" start_char="1787" end_char="1789">
+        <ORIGINAL_TEXT>&lt;P&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-43-0" pos="unknown" morph="none" start_char="1787" end_char="1789">&lt;P&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-44" start_char="1791" end_char="1861">
+        <ORIGINAL_TEXT>Mr Pistorius’s family said it was caused by the other motorist, who was</ORIGINAL_TEXT>
+        <TOKEN id="token-44-0" pos="word" morph="none" start_char="1791" end_char="1792">Mr</TOKEN>
+        <TOKEN id="token-44-1" pos="word" morph="none" start_char="1794" end_char="1802">Pistorius</TOKEN>
+        <TOKEN id="token-44-2" pos="punct" morph="none" start_char="1803" end_char="1803">’</TOKEN>
+        <TOKEN id="token-44-3" pos="word" morph="none" start_char="1804" end_char="1804">s</TOKEN>
+        <TOKEN id="token-44-4" pos="word" morph="none" start_char="1806" end_char="1811">family</TOKEN>
+        <TOKEN id="token-44-5" pos="word" morph="none" start_char="1813" end_char="1816">said</TOKEN>
+        <TOKEN id="token-44-6" pos="word" morph="none" start_char="1818" end_char="1819">it</TOKEN>
+        <TOKEN id="token-44-7" pos="word" morph="none" start_char="1821" end_char="1823">was</TOKEN>
+        <TOKEN id="token-44-8" pos="word" morph="none" start_char="1825" end_char="1830">caused</TOKEN>
+        <TOKEN id="token-44-9" pos="word" morph="none" start_char="1832" end_char="1833">by</TOKEN>
+        <TOKEN id="token-44-10" pos="word" morph="none" start_char="1835" end_char="1837">the</TOKEN>
+        <TOKEN id="token-44-11" pos="word" morph="none" start_char="1839" end_char="1843">other</TOKEN>
+        <TOKEN id="token-44-12" pos="word" morph="none" start_char="1845" end_char="1852">motorist</TOKEN>
+        <TOKEN id="token-44-13" pos="punct" morph="none" start_char="1853" end_char="1853">,</TOKEN>
+        <TOKEN id="token-44-14" pos="word" morph="none" start_char="1855" end_char="1857">who</TOKEN>
+        <TOKEN id="token-44-15" pos="word" morph="none" start_char="1859" end_char="1861">was</TOKEN>
+      </SEG>
+      <SEG id="segment-45" start_char="1863" end_char="1929">
+        <ORIGINAL_TEXT>stuck in traffic in the opposite lane, pulling out in front of him.</ORIGINAL_TEXT>
+        <TOKEN id="token-45-0" pos="word" morph="none" start_char="1863" end_char="1867">stuck</TOKEN>
+        <TOKEN id="token-45-1" pos="word" morph="none" start_char="1869" end_char="1870">in</TOKEN>
+        <TOKEN id="token-45-2" pos="word" morph="none" start_char="1872" end_char="1878">traffic</TOKEN>
+        <TOKEN id="token-45-3" pos="word" morph="none" start_char="1880" end_char="1881">in</TOKEN>
+        <TOKEN id="token-45-4" pos="word" morph="none" start_char="1883" end_char="1885">the</TOKEN>
+        <TOKEN id="token-45-5" pos="word" morph="none" start_char="1887" end_char="1894">opposite</TOKEN>
+        <TOKEN id="token-45-6" pos="word" morph="none" start_char="1896" end_char="1899">lane</TOKEN>
+        <TOKEN id="token-45-7" pos="punct" morph="none" start_char="1900" end_char="1900">,</TOKEN>
+        <TOKEN id="token-45-8" pos="word" morph="none" start_char="1902" end_char="1908">pulling</TOKEN>
+        <TOKEN id="token-45-9" pos="word" morph="none" start_char="1910" end_char="1912">out</TOKEN>
+        <TOKEN id="token-45-10" pos="word" morph="none" start_char="1914" end_char="1915">in</TOKEN>
+        <TOKEN id="token-45-11" pos="word" morph="none" start_char="1917" end_char="1921">front</TOKEN>
+        <TOKEN id="token-45-12" pos="word" morph="none" start_char="1923" end_char="1924">of</TOKEN>
+        <TOKEN id="token-45-13" pos="word" morph="none" start_char="1926" end_char="1928">him</TOKEN>
+        <TOKEN id="token-45-14" pos="punct" morph="none" start_char="1929" end_char="1929">.</TOKEN>
+      </SEG>
+      <SEG id="segment-46" start_char="1931" end_char="1934">
+        <ORIGINAL_TEXT>&lt;/P&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-46-0" pos="unknown" morph="none" start_char="1931" end_char="1934">&lt;/P&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-47" start_char="1936" end_char="1938">
+        <ORIGINAL_TEXT>&lt;P&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-47-0" pos="unknown" morph="none" start_char="1936" end_char="1938">&lt;P&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-48" start_char="1940" end_char="2015">
+        <ORIGINAL_TEXT>The South African Police Service and the National Prosecuting Authority this</ORIGINAL_TEXT>
+        <TOKEN id="token-48-0" pos="word" morph="none" start_char="1940" end_char="1942">The</TOKEN>
+        <TOKEN id="token-48-1" pos="word" morph="none" start_char="1944" end_char="1948">South</TOKEN>
+        <TOKEN id="token-48-2" pos="word" morph="none" start_char="1950" end_char="1956">African</TOKEN>
+        <TOKEN id="token-48-3" pos="word" morph="none" start_char="1958" end_char="1963">Police</TOKEN>
+        <TOKEN id="token-48-4" pos="word" morph="none" start_char="1965" end_char="1971">Service</TOKEN>
+        <TOKEN id="token-48-5" pos="word" morph="none" start_char="1973" end_char="1975">and</TOKEN>
+        <TOKEN id="token-48-6" pos="word" morph="none" start_char="1977" end_char="1979">the</TOKEN>
+        <TOKEN id="token-48-7" pos="word" morph="none" start_char="1981" end_char="1988">National</TOKEN>
+        <TOKEN id="token-48-8" pos="word" morph="none" start_char="1990" end_char="2000">Prosecuting</TOKEN>
+        <TOKEN id="token-48-9" pos="word" morph="none" start_char="2002" end_char="2010">Authority</TOKEN>
+        <TOKEN id="token-48-10" pos="word" morph="none" start_char="2012" end_char="2015">this</TOKEN>
+      </SEG>
+      <SEG id="segment-49" start_char="2017" end_char="2094">
+        <ORIGINAL_TEXT>week announced that Mr Pistorius, but not the other motorist, would be charged</ORIGINAL_TEXT>
+        <TOKEN id="token-49-0" pos="word" morph="none" start_char="2017" end_char="2020">week</TOKEN>
+        <TOKEN id="token-49-1" pos="word" morph="none" start_char="2022" end_char="2030">announced</TOKEN>
+        <TOKEN id="token-49-2" pos="word" morph="none" start_char="2032" end_char="2035">that</TOKEN>
+        <TOKEN id="token-49-3" pos="word" morph="none" start_char="2037" end_char="2038">Mr</TOKEN>
+        <TOKEN id="token-49-4" pos="word" morph="none" start_char="2040" end_char="2048">Pistorius</TOKEN>
+        <TOKEN id="token-49-5" pos="punct" morph="none" start_char="2049" end_char="2049">,</TOKEN>
+        <TOKEN id="token-49-6" pos="word" morph="none" start_char="2051" end_char="2053">but</TOKEN>
+        <TOKEN id="token-49-7" pos="word" morph="none" start_char="2055" end_char="2057">not</TOKEN>
+        <TOKEN id="token-49-8" pos="word" morph="none" start_char="2059" end_char="2061">the</TOKEN>
+        <TOKEN id="token-49-9" pos="word" morph="none" start_char="2063" end_char="2067">other</TOKEN>
+        <TOKEN id="token-49-10" pos="word" morph="none" start_char="2069" end_char="2076">motorist</TOKEN>
+        <TOKEN id="token-49-11" pos="punct" morph="none" start_char="2077" end_char="2077">,</TOKEN>
+        <TOKEN id="token-49-12" pos="word" morph="none" start_char="2079" end_char="2083">would</TOKEN>
+        <TOKEN id="token-49-13" pos="word" morph="none" start_char="2085" end_char="2086">be</TOKEN>
+        <TOKEN id="token-49-14" pos="word" morph="none" start_char="2088" end_char="2094">charged</TOKEN>
+      </SEG>
+      <SEG id="segment-50" start_char="2096" end_char="2131">
+        <ORIGINAL_TEXT>with reckless and negligent driving.</ORIGINAL_TEXT>
+        <TOKEN id="token-50-0" pos="word" morph="none" start_char="2096" end_char="2099">with</TOKEN>
+        <TOKEN id="token-50-1" pos="word" morph="none" start_char="2101" end_char="2108">reckless</TOKEN>
+        <TOKEN id="token-50-2" pos="word" morph="none" start_char="2110" end_char="2112">and</TOKEN>
+        <TOKEN id="token-50-3" pos="word" morph="none" start_char="2114" end_char="2122">negligent</TOKEN>
+        <TOKEN id="token-50-4" pos="word" morph="none" start_char="2124" end_char="2130">driving</TOKEN>
+        <TOKEN id="token-50-5" pos="punct" morph="none" start_char="2131" end_char="2131">.</TOKEN>
+      </SEG>
+      <SEG id="segment-51" start_char="2133" end_char="2136">
+        <ORIGINAL_TEXT>&lt;/P&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-51-0" pos="unknown" morph="none" start_char="2133" end_char="2136">&lt;/P&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-52" start_char="2138" end_char="2140">
+        <ORIGINAL_TEXT>&lt;P&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-52-0" pos="unknown" morph="none" start_char="2138" end_char="2140">&lt;P&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-53" start_char="2142" end_char="2219">
+        <ORIGINAL_TEXT>Colonel Ronel Otto, of the SAPS Limpopo, said Mr Pistorius had ignored several</ORIGINAL_TEXT>
+        <TOKEN id="token-53-0" pos="word" morph="none" start_char="2142" end_char="2148">Colonel</TOKEN>
+        <TOKEN id="token-53-1" pos="word" morph="none" start_char="2150" end_char="2154">Ronel</TOKEN>
+        <TOKEN id="token-53-2" pos="word" morph="none" start_char="2156" end_char="2159">Otto</TOKEN>
+        <TOKEN id="token-53-3" pos="punct" morph="none" start_char="2160" end_char="2160">,</TOKEN>
+        <TOKEN id="token-53-4" pos="word" morph="none" start_char="2162" end_char="2163">of</TOKEN>
+        <TOKEN id="token-53-5" pos="word" morph="none" start_char="2165" end_char="2167">the</TOKEN>
+        <TOKEN id="token-53-6" pos="word" morph="none" start_char="2169" end_char="2172">SAPS</TOKEN>
+        <TOKEN id="token-53-7" pos="word" morph="none" start_char="2174" end_char="2180">Limpopo</TOKEN>
+        <TOKEN id="token-53-8" pos="punct" morph="none" start_char="2181" end_char="2181">,</TOKEN>
+        <TOKEN id="token-53-9" pos="word" morph="none" start_char="2183" end_char="2186">said</TOKEN>
+        <TOKEN id="token-53-10" pos="word" morph="none" start_char="2188" end_char="2189">Mr</TOKEN>
+        <TOKEN id="token-53-11" pos="word" morph="none" start_char="2191" end_char="2199">Pistorius</TOKEN>
+        <TOKEN id="token-53-12" pos="word" morph="none" start_char="2201" end_char="2203">had</TOKEN>
+        <TOKEN id="token-53-13" pos="word" morph="none" start_char="2205" end_char="2211">ignored</TOKEN>
+        <TOKEN id="token-53-14" pos="word" morph="none" start_char="2213" end_char="2219">several</TOKEN>
+      </SEG>
+      <SEG id="segment-54" start_char="2221" end_char="2290">
+        <ORIGINAL_TEXT>attempts by the investigating officer to take his statement about what</ORIGINAL_TEXT>
+        <TOKEN id="token-54-0" pos="word" morph="none" start_char="2221" end_char="2228">attempts</TOKEN>
+        <TOKEN id="token-54-1" pos="word" morph="none" start_char="2230" end_char="2231">by</TOKEN>
+        <TOKEN id="token-54-2" pos="word" morph="none" start_char="2233" end_char="2235">the</TOKEN>
+        <TOKEN id="token-54-3" pos="word" morph="none" start_char="2237" end_char="2249">investigating</TOKEN>
+        <TOKEN id="token-54-4" pos="word" morph="none" start_char="2251" end_char="2257">officer</TOKEN>
+        <TOKEN id="token-54-5" pos="word" morph="none" start_char="2259" end_char="2260">to</TOKEN>
+        <TOKEN id="token-54-6" pos="word" morph="none" start_char="2262" end_char="2265">take</TOKEN>
+        <TOKEN id="token-54-7" pos="word" morph="none" start_char="2267" end_char="2269">his</TOKEN>
+        <TOKEN id="token-54-8" pos="word" morph="none" start_char="2271" end_char="2279">statement</TOKEN>
+        <TOKEN id="token-54-9" pos="word" morph="none" start_char="2281" end_char="2285">about</TOKEN>
+        <TOKEN id="token-54-10" pos="word" morph="none" start_char="2287" end_char="2290">what</TOKEN>
+      </SEG>
+      <SEG id="segment-55" start_char="2292" end_char="2300">
+        <ORIGINAL_TEXT>happened.</ORIGINAL_TEXT>
+        <TOKEN id="token-55-0" pos="word" morph="none" start_char="2292" end_char="2299">happened</TOKEN>
+        <TOKEN id="token-55-1" pos="punct" morph="none" start_char="2300" end_char="2300">.</TOKEN>
+      </SEG>
+      <SEG id="segment-56" start_char="2302" end_char="2305">
+        <ORIGINAL_TEXT>&lt;/P&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-56-0" pos="unknown" morph="none" start_char="2302" end_char="2305">&lt;/P&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-57" start_char="2307" end_char="2309">
+        <ORIGINAL_TEXT>&lt;P&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-57-0" pos="unknown" morph="none" start_char="2307" end_char="2309">&lt;P&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-58" start_char="2311" end_char="2381">
+        <ORIGINAL_TEXT>“One of the biggest reasons he is being charged is because he failed to</ORIGINAL_TEXT>
+        <TOKEN id="token-58-0" pos="punct" morph="none" start_char="2311" end_char="2311">“</TOKEN>
+        <TOKEN id="token-58-1" pos="word" morph="none" start_char="2312" end_char="2314">One</TOKEN>
+        <TOKEN id="token-58-2" pos="word" morph="none" start_char="2316" end_char="2317">of</TOKEN>
+        <TOKEN id="token-58-3" pos="word" morph="none" start_char="2319" end_char="2321">the</TOKEN>
+        <TOKEN id="token-58-4" pos="word" morph="none" start_char="2323" end_char="2329">biggest</TOKEN>
+        <TOKEN id="token-58-5" pos="word" morph="none" start_char="2331" end_char="2337">reasons</TOKEN>
+        <TOKEN id="token-58-6" pos="word" morph="none" start_char="2339" end_char="2340">he</TOKEN>
+        <TOKEN id="token-58-7" pos="word" morph="none" start_char="2342" end_char="2343">is</TOKEN>
+        <TOKEN id="token-58-8" pos="word" morph="none" start_char="2345" end_char="2349">being</TOKEN>
+        <TOKEN id="token-58-9" pos="word" morph="none" start_char="2351" end_char="2357">charged</TOKEN>
+        <TOKEN id="token-58-10" pos="word" morph="none" start_char="2359" end_char="2360">is</TOKEN>
+        <TOKEN id="token-58-11" pos="word" morph="none" start_char="2362" end_char="2368">because</TOKEN>
+        <TOKEN id="token-58-12" pos="word" morph="none" start_char="2370" end_char="2371">he</TOKEN>
+        <TOKEN id="token-58-13" pos="word" morph="none" start_char="2373" end_char="2378">failed</TOKEN>
+        <TOKEN id="token-58-14" pos="word" morph="none" start_char="2380" end_char="2381">to</TOKEN>
+      </SEG>
+      <SEG id="segment-59" start_char="2383" end_char="2434">
+        <ORIGINAL_TEXT>co-operate with the police investigation,” she said.</ORIGINAL_TEXT>
+        <TOKEN id="token-59-0" pos="word" morph="none" start_char="2383" end_char="2384">co</TOKEN>
+        <TOKEN id="token-59-1" pos="punct" morph="none" start_char="2385" end_char="2385">-</TOKEN>
+        <TOKEN id="token-59-2" pos="word" morph="none" start_char="2386" end_char="2392">operate</TOKEN>
+        <TOKEN id="token-59-3" pos="word" morph="none" start_char="2394" end_char="2397">with</TOKEN>
+        <TOKEN id="token-59-4" pos="word" morph="none" start_char="2399" end_char="2401">the</TOKEN>
+        <TOKEN id="token-59-5" pos="word" morph="none" start_char="2403" end_char="2408">police</TOKEN>
+        <TOKEN id="token-59-6" pos="word" morph="none" start_char="2410" end_char="2422">investigation</TOKEN>
+        <TOKEN id="token-59-7" pos="punct" morph="none" start_char="2423" end_char="2424">,”</TOKEN>
+        <TOKEN id="token-59-8" pos="word" morph="none" start_char="2426" end_char="2428">she</TOKEN>
+        <TOKEN id="token-59-9" pos="word" morph="none" start_char="2430" end_char="2433">said</TOKEN>
+        <TOKEN id="token-59-10" pos="punct" morph="none" start_char="2434" end_char="2434">.</TOKEN>
+      </SEG>
+      <SEG id="segment-60" start_char="2436" end_char="2439">
+        <ORIGINAL_TEXT>&lt;/P&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-60-0" pos="unknown" morph="none" start_char="2436" end_char="2439">&lt;/P&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-61" start_char="2441" end_char="2443">
+        <ORIGINAL_TEXT>&lt;P&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-61-0" pos="unknown" morph="none" start_char="2441" end_char="2443">&lt;P&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-62" start_char="2445" end_char="2517">
+        <ORIGINAL_TEXT>Nathi Mncube, spokesman for South Africa’s National Prosecuting Authority</ORIGINAL_TEXT>
+        <TOKEN id="token-62-0" pos="word" morph="none" start_char="2445" end_char="2449">Nathi</TOKEN>
+        <TOKEN id="token-62-1" pos="word" morph="none" start_char="2451" end_char="2456">Mncube</TOKEN>
+        <TOKEN id="token-62-2" pos="punct" morph="none" start_char="2457" end_char="2457">,</TOKEN>
+        <TOKEN id="token-62-3" pos="word" morph="none" start_char="2459" end_char="2467">spokesman</TOKEN>
+        <TOKEN id="token-62-4" pos="word" morph="none" start_char="2469" end_char="2471">for</TOKEN>
+        <TOKEN id="token-62-5" pos="word" morph="none" start_char="2473" end_char="2477">South</TOKEN>
+        <TOKEN id="token-62-6" pos="word" morph="none" start_char="2479" end_char="2484">Africa</TOKEN>
+        <TOKEN id="token-62-7" pos="punct" morph="none" start_char="2485" end_char="2485">’</TOKEN>
+        <TOKEN id="token-62-8" pos="word" morph="none" start_char="2486" end_char="2486">s</TOKEN>
+        <TOKEN id="token-62-9" pos="word" morph="none" start_char="2488" end_char="2495">National</TOKEN>
+        <TOKEN id="token-62-10" pos="word" morph="none" start_char="2497" end_char="2507">Prosecuting</TOKEN>
+        <TOKEN id="token-62-11" pos="word" morph="none" start_char="2509" end_char="2517">Authority</TOKEN>
+      </SEG>
+      <SEG id="segment-63" start_char="2519" end_char="2543">
+        <ORIGINAL_TEXT>denied this was the case.</ORIGINAL_TEXT>
+        <TOKEN id="token-63-0" pos="word" morph="none" start_char="2519" end_char="2524">denied</TOKEN>
+        <TOKEN id="token-63-1" pos="word" morph="none" start_char="2526" end_char="2529">this</TOKEN>
+        <TOKEN id="token-63-2" pos="word" morph="none" start_char="2531" end_char="2533">was</TOKEN>
+        <TOKEN id="token-63-3" pos="word" morph="none" start_char="2535" end_char="2537">the</TOKEN>
+        <TOKEN id="token-63-4" pos="word" morph="none" start_char="2539" end_char="2542">case</TOKEN>
+        <TOKEN id="token-63-5" pos="punct" morph="none" start_char="2543" end_char="2543">.</TOKEN>
+      </SEG>
+      <SEG id="segment-64" start_char="2545" end_char="2548">
+        <ORIGINAL_TEXT>&lt;/P&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-64-0" pos="unknown" morph="none" start_char="2545" end_char="2548">&lt;/P&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-65" start_char="2550" end_char="2552">
+        <ORIGINAL_TEXT>&lt;P&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-65-0" pos="unknown" morph="none" start_char="2550" end_char="2552">&lt;P&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-66" start_char="2554" end_char="2627">
+        <ORIGINAL_TEXT>“He has the right to remain silent, there must be evidence to bring such a</ORIGINAL_TEXT>
+        <TOKEN id="token-66-0" pos="punct" morph="none" start_char="2554" end_char="2554">“</TOKEN>
+        <TOKEN id="token-66-1" pos="word" morph="none" start_char="2555" end_char="2556">He</TOKEN>
+        <TOKEN id="token-66-2" pos="word" morph="none" start_char="2558" end_char="2560">has</TOKEN>
+        <TOKEN id="token-66-3" pos="word" morph="none" start_char="2562" end_char="2564">the</TOKEN>
+        <TOKEN id="token-66-4" pos="word" morph="none" start_char="2566" end_char="2570">right</TOKEN>
+        <TOKEN id="token-66-5" pos="word" morph="none" start_char="2572" end_char="2573">to</TOKEN>
+        <TOKEN id="token-66-6" pos="word" morph="none" start_char="2575" end_char="2580">remain</TOKEN>
+        <TOKEN id="token-66-7" pos="word" morph="none" start_char="2582" end_char="2587">silent</TOKEN>
+        <TOKEN id="token-66-8" pos="punct" morph="none" start_char="2588" end_char="2588">,</TOKEN>
+        <TOKEN id="token-66-9" pos="word" morph="none" start_char="2590" end_char="2594">there</TOKEN>
+        <TOKEN id="token-66-10" pos="word" morph="none" start_char="2596" end_char="2599">must</TOKEN>
+        <TOKEN id="token-66-11" pos="word" morph="none" start_char="2601" end_char="2602">be</TOKEN>
+        <TOKEN id="token-66-12" pos="word" morph="none" start_char="2604" end_char="2611">evidence</TOKEN>
+        <TOKEN id="token-66-13" pos="word" morph="none" start_char="2613" end_char="2614">to</TOKEN>
+        <TOKEN id="token-66-14" pos="word" morph="none" start_char="2616" end_char="2620">bring</TOKEN>
+        <TOKEN id="token-66-15" pos="word" morph="none" start_char="2622" end_char="2625">such</TOKEN>
+        <TOKEN id="token-66-16" pos="word" morph="none" start_char="2627" end_char="2627">a</TOKEN>
+      </SEG>
+      <SEG id="segment-67" start_char="2629" end_char="2645">
+        <ORIGINAL_TEXT>charge,” he said.</ORIGINAL_TEXT>
+        <TOKEN id="token-67-0" pos="word" morph="none" start_char="2629" end_char="2634">charge</TOKEN>
+        <TOKEN id="token-67-1" pos="punct" morph="none" start_char="2635" end_char="2636">,”</TOKEN>
+        <TOKEN id="token-67-2" pos="word" morph="none" start_char="2638" end_char="2639">he</TOKEN>
+        <TOKEN id="token-67-3" pos="word" morph="none" start_char="2641" end_char="2644">said</TOKEN>
+        <TOKEN id="token-67-4" pos="punct" morph="none" start_char="2645" end_char="2645">.</TOKEN>
+      </SEG>
+      <SEG id="segment-68" start_char="2647" end_char="2650">
+        <ORIGINAL_TEXT>&lt;/P&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-68-0" pos="unknown" morph="none" start_char="2647" end_char="2650">&lt;/P&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-69" start_char="2652" end_char="2654">
+        <ORIGINAL_TEXT>&lt;P&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-69-0" pos="unknown" morph="none" start_char="2652" end_char="2654">&lt;P&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-70" start_char="2656" end_char="2726">
+        <ORIGINAL_TEXT>He rejected suggestions on social media that South Africa’s prosecuting</ORIGINAL_TEXT>
+        <TOKEN id="token-70-0" pos="word" morph="none" start_char="2656" end_char="2657">He</TOKEN>
+        <TOKEN id="token-70-1" pos="word" morph="none" start_char="2659" end_char="2666">rejected</TOKEN>
+        <TOKEN id="token-70-2" pos="word" morph="none" start_char="2668" end_char="2678">suggestions</TOKEN>
+        <TOKEN id="token-70-3" pos="word" morph="none" start_char="2680" end_char="2681">on</TOKEN>
+        <TOKEN id="token-70-4" pos="word" morph="none" start_char="2683" end_char="2688">social</TOKEN>
+        <TOKEN id="token-70-5" pos="word" morph="none" start_char="2690" end_char="2694">media</TOKEN>
+        <TOKEN id="token-70-6" pos="word" morph="none" start_char="2696" end_char="2699">that</TOKEN>
+        <TOKEN id="token-70-7" pos="word" morph="none" start_char="2701" end_char="2705">South</TOKEN>
+        <TOKEN id="token-70-8" pos="word" morph="none" start_char="2707" end_char="2712">Africa</TOKEN>
+        <TOKEN id="token-70-9" pos="punct" morph="none" start_char="2713" end_char="2713">’</TOKEN>
+        <TOKEN id="token-70-10" pos="word" morph="none" start_char="2714" end_char="2714">s</TOKEN>
+        <TOKEN id="token-70-11" pos="word" morph="none" start_char="2716" end_char="2726">prosecuting</TOKEN>
+      </SEG>
+      <SEG id="segment-71" start_char="2728" end_char="2799">
+        <ORIGINAL_TEXT>authority – which has appealed against a judge’s decision not to convict</ORIGINAL_TEXT>
+        <TOKEN id="token-71-0" pos="word" morph="none" start_char="2728" end_char="2736">authority</TOKEN>
+        <TOKEN id="token-71-1" pos="unknown" morph="none" start_char="2738" end_char="2738">–</TOKEN>
+        <TOKEN id="token-71-2" pos="word" morph="none" start_char="2740" end_char="2744">which</TOKEN>
+        <TOKEN id="token-71-3" pos="word" morph="none" start_char="2746" end_char="2748">has</TOKEN>
+        <TOKEN id="token-71-4" pos="word" morph="none" start_char="2750" end_char="2757">appealed</TOKEN>
+        <TOKEN id="token-71-5" pos="word" morph="none" start_char="2759" end_char="2765">against</TOKEN>
+        <TOKEN id="token-71-6" pos="word" morph="none" start_char="2767" end_char="2767">a</TOKEN>
+        <TOKEN id="token-71-7" pos="word" morph="none" start_char="2769" end_char="2773">judge</TOKEN>
+        <TOKEN id="token-71-8" pos="punct" morph="none" start_char="2774" end_char="2774">’</TOKEN>
+        <TOKEN id="token-71-9" pos="word" morph="none" start_char="2775" end_char="2775">s</TOKEN>
+        <TOKEN id="token-71-10" pos="word" morph="none" start_char="2777" end_char="2784">decision</TOKEN>
+        <TOKEN id="token-71-11" pos="word" morph="none" start_char="2786" end_char="2788">not</TOKEN>
+        <TOKEN id="token-71-12" pos="word" morph="none" start_char="2790" end_char="2791">to</TOKEN>
+        <TOKEN id="token-71-13" pos="word" morph="none" start_char="2793" end_char="2799">convict</TOKEN>
+      </SEG>
+      <SEG id="segment-72" start_char="2801" end_char="2872">
+        <ORIGINAL_TEXT>Oscar Pistorius for murdering Miss Steenkamp – was pursuing a “vendetta”</ORIGINAL_TEXT>
+        <TOKEN id="token-72-0" pos="word" morph="none" start_char="2801" end_char="2805">Oscar</TOKEN>
+        <TOKEN id="token-72-1" pos="word" morph="none" start_char="2807" end_char="2815">Pistorius</TOKEN>
+        <TOKEN id="token-72-2" pos="word" morph="none" start_char="2817" end_char="2819">for</TOKEN>
+        <TOKEN id="token-72-3" pos="word" morph="none" start_char="2821" end_char="2829">murdering</TOKEN>
+        <TOKEN id="token-72-4" pos="word" morph="none" start_char="2831" end_char="2834">Miss</TOKEN>
+        <TOKEN id="token-72-5" pos="word" morph="none" start_char="2836" end_char="2844">Steenkamp</TOKEN>
+        <TOKEN id="token-72-6" pos="unknown" morph="none" start_char="2846" end_char="2846">–</TOKEN>
+        <TOKEN id="token-72-7" pos="word" morph="none" start_char="2848" end_char="2850">was</TOKEN>
+        <TOKEN id="token-72-8" pos="word" morph="none" start_char="2852" end_char="2859">pursuing</TOKEN>
+        <TOKEN id="token-72-9" pos="word" morph="none" start_char="2861" end_char="2861">a</TOKEN>
+        <TOKEN id="token-72-10" pos="punct" morph="none" start_char="2863" end_char="2863">“</TOKEN>
+        <TOKEN id="token-72-11" pos="word" morph="none" start_char="2864" end_char="2871">vendetta</TOKEN>
+        <TOKEN id="token-72-12" pos="punct" morph="none" start_char="2872" end_char="2872">”</TOKEN>
+      </SEG>
+      <SEG id="segment-73" start_char="2874" end_char="2892">
+        <ORIGINAL_TEXT>against the family.</ORIGINAL_TEXT>
+        <TOKEN id="token-73-0" pos="word" morph="none" start_char="2874" end_char="2880">against</TOKEN>
+        <TOKEN id="token-73-1" pos="word" morph="none" start_char="2882" end_char="2884">the</TOKEN>
+        <TOKEN id="token-73-2" pos="word" morph="none" start_char="2886" end_char="2891">family</TOKEN>
+        <TOKEN id="token-73-3" pos="punct" morph="none" start_char="2892" end_char="2892">.</TOKEN>
+      </SEG>
+      <SEG id="segment-74" start_char="2894" end_char="2897">
+        <ORIGINAL_TEXT>&lt;/P&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-74-0" pos="unknown" morph="none" start_char="2894" end_char="2897">&lt;/P&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-75" start_char="2899" end_char="2905">
+        <ORIGINAL_TEXT>&lt;/TEXT&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-75-0" pos="unknown" morph="none" start_char="2899" end_char="2905">&lt;/TEXT&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-76" start_char="2907" end_char="2912">
+        <ORIGINAL_TEXT>&lt;/DOC&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-76-0" pos="unknown" morph="none" start_char="2907" end_char="2912">&lt;/DOC&gt;</TOKEN>
+      </SEG>
+    </TEXT>
+  </DOC>
+</LCTL_TEXT>

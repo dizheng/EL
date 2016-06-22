@@ -1,0 +1,974 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LCTL_TEXT>
+  <DOC id="ENG_NW_001001_20150404_F00000000.xml" tokenization="tokenization_parameters" grammar="none" raw_text_char_length="3601" raw_text_md5="b0a443d9d6d50c2da59f1f3a53b7864b">
+    <TEXT>
+      <SEG id="segment-0" start_char="0" end_char="37">
+        <ORIGINAL_TEXT>&lt;?xml version="1.0" encoding="utf-8"?&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-0-0" pos="unknown" morph="none" start_char="0" end_char="4">&lt;?xml</TOKEN>
+        <TOKEN id="token-0-1" pos="unknown" morph="none" start_char="6" end_char="18">version="1.0"</TOKEN>
+        <TOKEN id="token-0-2" pos="unknown" morph="none" start_char="20" end_char="37">encoding="utf-8"?&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-1" start_char="39" end_char="81">
+        <ORIGINAL_TEXT>&lt;DOC id="ENG_NW_001001_20150404_F00000000"&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-1-0" pos="unknown" morph="none" start_char="39" end_char="42">&lt;DOC</TOKEN>
+        <TOKEN id="token-1-1" pos="unknown" morph="none" start_char="44" end_char="81">id="ENG_NW_001001_20150404_F00000000"&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-2" start_char="83" end_char="145">
+        <ORIGINAL_TEXT>&lt;SOURCE&gt;http://allafrica.com/stories/201504040609.html&lt;/SOURCE&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-2-0" pos="unknown" morph="none" start_char="83" end_char="145">&lt;SOURCE&gt;http://allafrica.com/stories/201504040609.html&lt;/SOURCE&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-3" start_char="147" end_char="188">
+        <ORIGINAL_TEXT>&lt;DATE_TIME&gt;2015-04-04T00:00:00&lt;/DATE_TIME&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-3-0" pos="unknown" morph="none" start_char="147" end_char="188">&lt;DATE_TIME&gt;2015-04-04T00:00:00&lt;/DATE_TIME&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-4" start_char="190" end_char="199">
+        <ORIGINAL_TEXT>&lt;HEADLINE&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-4-0" pos="unknown" morph="none" start_char="190" end_char="199">&lt;HEADLINE&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-5" start_char="201" end_char="260">
+        <ORIGINAL_TEXT>Kenyan President Vows Harsh Action, Declares Mourning Period</ORIGINAL_TEXT>
+        <TOKEN id="token-5-0" pos="word" morph="none" start_char="201" end_char="206">Kenyan</TOKEN>
+        <TOKEN id="token-5-1" pos="word" morph="none" start_char="208" end_char="216">President</TOKEN>
+        <TOKEN id="token-5-2" pos="word" morph="none" start_char="218" end_char="221">Vows</TOKEN>
+        <TOKEN id="token-5-3" pos="word" morph="none" start_char="223" end_char="227">Harsh</TOKEN>
+        <TOKEN id="token-5-4" pos="word" morph="none" start_char="229" end_char="234">Action</TOKEN>
+        <TOKEN id="token-5-5" pos="punct" morph="none" start_char="235" end_char="235">,</TOKEN>
+        <TOKEN id="token-5-6" pos="word" morph="none" start_char="237" end_char="244">Declares</TOKEN>
+        <TOKEN id="token-5-7" pos="word" morph="none" start_char="246" end_char="253">Mourning</TOKEN>
+        <TOKEN id="token-5-8" pos="word" morph="none" start_char="255" end_char="260">Period</TOKEN>
+      </SEG>
+      <SEG id="segment-6" start_char="262" end_char="272">
+        <ORIGINAL_TEXT>&lt;/HEADLINE&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-6-0" pos="unknown" morph="none" start_char="262" end_char="272">&lt;/HEADLINE&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-7" start_char="274" end_char="279">
+        <ORIGINAL_TEXT>&lt;TEXT&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-7-0" pos="unknown" morph="none" start_char="274" end_char="279">&lt;TEXT&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-8" start_char="281" end_char="283">
+        <ORIGINAL_TEXT>&lt;P&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-8-0" pos="unknown" morph="none" start_char="281" end_char="283">&lt;P&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-9" start_char="285" end_char="355">
+        <ORIGINAL_TEXT>President Uhuru Kenyatta has announced three days of national mourning,</ORIGINAL_TEXT>
+        <TOKEN id="token-9-0" pos="word" morph="none" start_char="285" end_char="293">President</TOKEN>
+        <TOKEN id="token-9-1" pos="word" morph="none" start_char="295" end_char="299">Uhuru</TOKEN>
+        <TOKEN id="token-9-2" pos="word" morph="none" start_char="301" end_char="308">Kenyatta</TOKEN>
+        <TOKEN id="token-9-3" pos="word" morph="none" start_char="310" end_char="312">has</TOKEN>
+        <TOKEN id="token-9-4" pos="word" morph="none" start_char="314" end_char="322">announced</TOKEN>
+        <TOKEN id="token-9-5" pos="word" morph="none" start_char="324" end_char="328">three</TOKEN>
+        <TOKEN id="token-9-6" pos="word" morph="none" start_char="330" end_char="333">days</TOKEN>
+        <TOKEN id="token-9-7" pos="word" morph="none" start_char="335" end_char="336">of</TOKEN>
+        <TOKEN id="token-9-8" pos="word" morph="none" start_char="338" end_char="345">national</TOKEN>
+        <TOKEN id="token-9-9" pos="word" morph="none" start_char="347" end_char="354">mourning</TOKEN>
+        <TOKEN id="token-9-10" pos="punct" morph="none" start_char="355" end_char="355">,</TOKEN>
+      </SEG>
+      <SEG id="segment-10" start_char="357" end_char="434">
+        <ORIGINAL_TEXT>following the deaths of almost 150 people in one of the worst massacres in the</ORIGINAL_TEXT>
+        <TOKEN id="token-10-0" pos="word" morph="none" start_char="357" end_char="365">following</TOKEN>
+        <TOKEN id="token-10-1" pos="word" morph="none" start_char="367" end_char="369">the</TOKEN>
+        <TOKEN id="token-10-2" pos="word" morph="none" start_char="371" end_char="376">deaths</TOKEN>
+        <TOKEN id="token-10-3" pos="word" morph="none" start_char="378" end_char="379">of</TOKEN>
+        <TOKEN id="token-10-4" pos="word" morph="none" start_char="381" end_char="386">almost</TOKEN>
+        <TOKEN id="token-10-5" pos="number" morph="none" start_char="388" end_char="390">150</TOKEN>
+        <TOKEN id="token-10-6" pos="word" morph="none" start_char="392" end_char="397">people</TOKEN>
+        <TOKEN id="token-10-7" pos="word" morph="none" start_char="399" end_char="400">in</TOKEN>
+        <TOKEN id="token-10-8" pos="word" morph="none" start_char="402" end_char="404">one</TOKEN>
+        <TOKEN id="token-10-9" pos="word" morph="none" start_char="406" end_char="407">of</TOKEN>
+        <TOKEN id="token-10-10" pos="word" morph="none" start_char="409" end_char="411">the</TOKEN>
+        <TOKEN id="token-10-11" pos="word" morph="none" start_char="413" end_char="417">worst</TOKEN>
+        <TOKEN id="token-10-12" pos="word" morph="none" start_char="419" end_char="427">massacres</TOKEN>
+        <TOKEN id="token-10-13" pos="word" morph="none" start_char="429" end_char="430">in</TOKEN>
+        <TOKEN id="token-10-14" pos="word" morph="none" start_char="432" end_char="434">the</TOKEN>
+      </SEG>
+      <SEG id="segment-11" start_char="436" end_char="504">
+        <ORIGINAL_TEXT>country's history. Kenyatta promised to "fight terrorism to the end."</ORIGINAL_TEXT>
+        <TOKEN id="token-11-0" pos="word" morph="none" start_char="436" end_char="442">country</TOKEN>
+        <TOKEN id="token-11-1" pos="punct" morph="none" start_char="443" end_char="443">'</TOKEN>
+        <TOKEN id="token-11-2" pos="word" morph="none" start_char="444" end_char="444">s</TOKEN>
+        <TOKEN id="token-11-3" pos="word" morph="none" start_char="446" end_char="452">history</TOKEN>
+        <TOKEN id="token-11-4" pos="punct" morph="none" start_char="453" end_char="453">.</TOKEN>
+        <TOKEN id="token-11-5" pos="word" morph="none" start_char="455" end_char="462">Kenyatta</TOKEN>
+        <TOKEN id="token-11-6" pos="word" morph="none" start_char="464" end_char="471">promised</TOKEN>
+        <TOKEN id="token-11-7" pos="word" morph="none" start_char="473" end_char="474">to</TOKEN>
+        <TOKEN id="token-11-8" pos="punct" morph="none" start_char="476" end_char="476">"</TOKEN>
+        <TOKEN id="token-11-9" pos="word" morph="none" start_char="477" end_char="481">fight</TOKEN>
+        <TOKEN id="token-11-10" pos="word" morph="none" start_char="483" end_char="491">terrorism</TOKEN>
+        <TOKEN id="token-11-11" pos="word" morph="none" start_char="493" end_char="494">to</TOKEN>
+        <TOKEN id="token-11-12" pos="word" morph="none" start_char="496" end_char="498">the</TOKEN>
+        <TOKEN id="token-11-13" pos="word" morph="none" start_char="500" end_char="502">end</TOKEN>
+        <TOKEN id="token-11-14" pos="punct" morph="none" start_char="503" end_char="504">."</TOKEN>
+      </SEG>
+      <SEG id="segment-12" start_char="506" end_char="509">
+        <ORIGINAL_TEXT>&lt;/P&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-12-0" pos="unknown" morph="none" start_char="506" end_char="509">&lt;/P&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-13" start_char="511" end_char="513">
+        <ORIGINAL_TEXT>&lt;P&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-13-0" pos="unknown" morph="none" start_char="511" end_char="513">&lt;P&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-14" start_char="515" end_char="589">
+        <ORIGINAL_TEXT>In his first televised address since the attack ended on Thursday, Kenyatta</ORIGINAL_TEXT>
+        <TOKEN id="token-14-0" pos="word" morph="none" start_char="515" end_char="516">In</TOKEN>
+        <TOKEN id="token-14-1" pos="word" morph="none" start_char="518" end_char="520">his</TOKEN>
+        <TOKEN id="token-14-2" pos="word" morph="none" start_char="522" end_char="526">first</TOKEN>
+        <TOKEN id="token-14-3" pos="word" morph="none" start_char="528" end_char="536">televised</TOKEN>
+        <TOKEN id="token-14-4" pos="word" morph="none" start_char="538" end_char="544">address</TOKEN>
+        <TOKEN id="token-14-5" pos="word" morph="none" start_char="546" end_char="550">since</TOKEN>
+        <TOKEN id="token-14-6" pos="word" morph="none" start_char="552" end_char="554">the</TOKEN>
+        <TOKEN id="token-14-7" pos="word" morph="none" start_char="556" end_char="561">attack</TOKEN>
+        <TOKEN id="token-14-8" pos="word" morph="none" start_char="563" end_char="567">ended</TOKEN>
+        <TOKEN id="token-14-9" pos="word" morph="none" start_char="569" end_char="570">on</TOKEN>
+        <TOKEN id="token-14-10" pos="word" morph="none" start_char="572" end_char="579">Thursday</TOKEN>
+        <TOKEN id="token-14-11" pos="punct" morph="none" start_char="580" end_char="580">,</TOKEN>
+        <TOKEN id="token-14-12" pos="word" morph="none" start_char="582" end_char="589">Kenyatta</TOKEN>
+      </SEG>
+      <SEG id="segment-15" start_char="591" end_char="668">
+        <ORIGINAL_TEXT>condemned the "barbaric slaughter" and asked help from the Muslim community in</ORIGINAL_TEXT>
+        <TOKEN id="token-15-0" pos="word" morph="none" start_char="591" end_char="599">condemned</TOKEN>
+        <TOKEN id="token-15-1" pos="word" morph="none" start_char="601" end_char="603">the</TOKEN>
+        <TOKEN id="token-15-2" pos="punct" morph="none" start_char="605" end_char="605">"</TOKEN>
+        <TOKEN id="token-15-3" pos="word" morph="none" start_char="606" end_char="613">barbaric</TOKEN>
+        <TOKEN id="token-15-4" pos="word" morph="none" start_char="615" end_char="623">slaughter</TOKEN>
+        <TOKEN id="token-15-5" pos="punct" morph="none" start_char="624" end_char="624">"</TOKEN>
+        <TOKEN id="token-15-6" pos="word" morph="none" start_char="626" end_char="628">and</TOKEN>
+        <TOKEN id="token-15-7" pos="word" morph="none" start_char="630" end_char="634">asked</TOKEN>
+        <TOKEN id="token-15-8" pos="word" morph="none" start_char="636" end_char="639">help</TOKEN>
+        <TOKEN id="token-15-9" pos="word" morph="none" start_char="641" end_char="644">from</TOKEN>
+        <TOKEN id="token-15-10" pos="word" morph="none" start_char="646" end_char="648">the</TOKEN>
+        <TOKEN id="token-15-11" pos="word" morph="none" start_char="650" end_char="655">Muslim</TOKEN>
+        <TOKEN id="token-15-12" pos="word" morph="none" start_char="657" end_char="665">community</TOKEN>
+        <TOKEN id="token-15-13" pos="word" morph="none" start_char="667" end_char="668">in</TOKEN>
+      </SEG>
+      <SEG id="segment-16" start_char="670" end_char="698">
+        <ORIGINAL_TEXT>rooting out radical elements.</ORIGINAL_TEXT>
+        <TOKEN id="token-16-0" pos="word" morph="none" start_char="670" end_char="676">rooting</TOKEN>
+        <TOKEN id="token-16-1" pos="word" morph="none" start_char="678" end_char="680">out</TOKEN>
+        <TOKEN id="token-16-2" pos="word" morph="none" start_char="682" end_char="688">radical</TOKEN>
+        <TOKEN id="token-16-3" pos="word" morph="none" start_char="690" end_char="697">elements</TOKEN>
+        <TOKEN id="token-16-4" pos="punct" morph="none" start_char="698" end_char="698">.</TOKEN>
+      </SEG>
+      <SEG id="segment-17" start_char="700" end_char="703">
+        <ORIGINAL_TEXT>&lt;/P&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-17-0" pos="unknown" morph="none" start_char="700" end_char="703">&lt;/P&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-18" start_char="705" end_char="707">
+        <ORIGINAL_TEXT>&lt;P&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-18-0" pos="unknown" morph="none" start_char="705" end_char="707">&lt;P&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-19" start_char="709" end_char="783">
+        <ORIGINAL_TEXT>"My administration shall respond in the severest way possible to the attack</ORIGINAL_TEXT>
+        <TOKEN id="token-19-0" pos="punct" morph="none" start_char="709" end_char="709">"</TOKEN>
+        <TOKEN id="token-19-1" pos="word" morph="none" start_char="710" end_char="711">My</TOKEN>
+        <TOKEN id="token-19-2" pos="word" morph="none" start_char="713" end_char="726">administration</TOKEN>
+        <TOKEN id="token-19-3" pos="word" morph="none" start_char="728" end_char="732">shall</TOKEN>
+        <TOKEN id="token-19-4" pos="word" morph="none" start_char="734" end_char="740">respond</TOKEN>
+        <TOKEN id="token-19-5" pos="word" morph="none" start_char="742" end_char="743">in</TOKEN>
+        <TOKEN id="token-19-6" pos="word" morph="none" start_char="745" end_char="747">the</TOKEN>
+        <TOKEN id="token-19-7" pos="word" morph="none" start_char="749" end_char="756">severest</TOKEN>
+        <TOKEN id="token-19-8" pos="word" morph="none" start_char="758" end_char="760">way</TOKEN>
+        <TOKEN id="token-19-9" pos="word" morph="none" start_char="762" end_char="769">possible</TOKEN>
+        <TOKEN id="token-19-10" pos="word" morph="none" start_char="771" end_char="772">to</TOKEN>
+        <TOKEN id="token-19-11" pos="word" morph="none" start_char="774" end_char="776">the</TOKEN>
+        <TOKEN id="token-19-12" pos="word" morph="none" start_char="778" end_char="783">attack</TOKEN>
+      </SEG>
+      <SEG id="segment-20" start_char="785" end_char="861">
+        <ORIGINAL_TEXT>and any other attack to us," Kenyan president said, speaking from the capital</ORIGINAL_TEXT>
+        <TOKEN id="token-20-0" pos="word" morph="none" start_char="785" end_char="787">and</TOKEN>
+        <TOKEN id="token-20-1" pos="word" morph="none" start_char="789" end_char="791">any</TOKEN>
+        <TOKEN id="token-20-2" pos="word" morph="none" start_char="793" end_char="797">other</TOKEN>
+        <TOKEN id="token-20-3" pos="word" morph="none" start_char="799" end_char="804">attack</TOKEN>
+        <TOKEN id="token-20-4" pos="word" morph="none" start_char="806" end_char="807">to</TOKEN>
+        <TOKEN id="token-20-5" pos="word" morph="none" start_char="809" end_char="810">us</TOKEN>
+        <TOKEN id="token-20-6" pos="punct" morph="none" start_char="811" end_char="812">,"</TOKEN>
+        <TOKEN id="token-20-7" pos="word" morph="none" start_char="814" end_char="819">Kenyan</TOKEN>
+        <TOKEN id="token-20-8" pos="word" morph="none" start_char="821" end_char="829">president</TOKEN>
+        <TOKEN id="token-20-9" pos="word" morph="none" start_char="831" end_char="834">said</TOKEN>
+        <TOKEN id="token-20-10" pos="punct" morph="none" start_char="835" end_char="835">,</TOKEN>
+        <TOKEN id="token-20-11" pos="word" morph="none" start_char="837" end_char="844">speaking</TOKEN>
+        <TOKEN id="token-20-12" pos="word" morph="none" start_char="846" end_char="849">from</TOKEN>
+        <TOKEN id="token-20-13" pos="word" morph="none" start_char="851" end_char="853">the</TOKEN>
+        <TOKEN id="token-20-14" pos="word" morph="none" start_char="855" end_char="861">capital</TOKEN>
+      </SEG>
+      <SEG id="segment-21" start_char="863" end_char="934">
+        <ORIGINAL_TEXT>Nairobi on Saturday. "Thursday wounded Kenya, Thursday wounded families,</ORIGINAL_TEXT>
+        <TOKEN id="token-21-0" pos="word" morph="none" start_char="863" end_char="869">Nairobi</TOKEN>
+        <TOKEN id="token-21-1" pos="word" morph="none" start_char="871" end_char="872">on</TOKEN>
+        <TOKEN id="token-21-2" pos="word" morph="none" start_char="874" end_char="881">Saturday</TOKEN>
+        <TOKEN id="token-21-3" pos="punct" morph="none" start_char="882" end_char="882">.</TOKEN>
+        <TOKEN id="token-21-4" pos="punct" morph="none" start_char="884" end_char="884">"</TOKEN>
+        <TOKEN id="token-21-5" pos="word" morph="none" start_char="885" end_char="892">Thursday</TOKEN>
+        <TOKEN id="token-21-6" pos="word" morph="none" start_char="894" end_char="900">wounded</TOKEN>
+        <TOKEN id="token-21-7" pos="word" morph="none" start_char="902" end_char="906">Kenya</TOKEN>
+        <TOKEN id="token-21-8" pos="punct" morph="none" start_char="907" end_char="907">,</TOKEN>
+        <TOKEN id="token-21-9" pos="word" morph="none" start_char="909" end_char="916">Thursday</TOKEN>
+        <TOKEN id="token-21-10" pos="word" morph="none" start_char="918" end_char="924">wounded</TOKEN>
+        <TOKEN id="token-21-11" pos="word" morph="none" start_char="926" end_char="933">families</TOKEN>
+        <TOKEN id="token-21-12" pos="punct" morph="none" start_char="934" end_char="934">,</TOKEN>
+      </SEG>
+      <SEG id="segment-22" start_char="936" end_char="989">
+        <ORIGINAL_TEXT>friends and communities of the victims of the attack."</ORIGINAL_TEXT>
+        <TOKEN id="token-22-0" pos="word" morph="none" start_char="936" end_char="942">friends</TOKEN>
+        <TOKEN id="token-22-1" pos="word" morph="none" start_char="944" end_char="946">and</TOKEN>
+        <TOKEN id="token-22-2" pos="word" morph="none" start_char="948" end_char="958">communities</TOKEN>
+        <TOKEN id="token-22-3" pos="word" morph="none" start_char="960" end_char="961">of</TOKEN>
+        <TOKEN id="token-22-4" pos="word" morph="none" start_char="963" end_char="965">the</TOKEN>
+        <TOKEN id="token-22-5" pos="word" morph="none" start_char="967" end_char="973">victims</TOKEN>
+        <TOKEN id="token-22-6" pos="word" morph="none" start_char="975" end_char="976">of</TOKEN>
+        <TOKEN id="token-22-7" pos="word" morph="none" start_char="978" end_char="980">the</TOKEN>
+        <TOKEN id="token-22-8" pos="word" morph="none" start_char="982" end_char="987">attack</TOKEN>
+        <TOKEN id="token-22-9" pos="punct" morph="none" start_char="988" end_char="989">."</TOKEN>
+      </SEG>
+      <SEG id="segment-23" start_char="991" end_char="994">
+        <ORIGINAL_TEXT>&lt;/P&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-23-0" pos="unknown" morph="none" start_char="991" end_char="994">&lt;/P&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-24" start_char="996" end_char="998">
+        <ORIGINAL_TEXT>&lt;P&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-24-0" pos="unknown" morph="none" start_char="996" end_char="998">&lt;P&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-25" start_char="1000" end_char="1067">
+        <ORIGINAL_TEXT>Al Qaeda-linked al-Shabab gunmen killed around 150 people at Garissa</ORIGINAL_TEXT>
+        <TOKEN id="token-25-0" pos="word" morph="none" start_char="1000" end_char="1001">Al</TOKEN>
+        <TOKEN id="token-25-1" pos="word" morph="none" start_char="1003" end_char="1007">Qaeda</TOKEN>
+        <TOKEN id="token-25-2" pos="punct" morph="none" start_char="1008" end_char="1008">-</TOKEN>
+        <TOKEN id="token-25-3" pos="word" morph="none" start_char="1009" end_char="1014">linked</TOKEN>
+        <TOKEN id="token-25-4" pos="word" morph="none" start_char="1016" end_char="1017">al</TOKEN>
+        <TOKEN id="token-25-5" pos="punct" morph="none" start_char="1018" end_char="1018">-</TOKEN>
+        <TOKEN id="token-25-6" pos="word" morph="none" start_char="1019" end_char="1024">Shabab</TOKEN>
+        <TOKEN id="token-25-7" pos="word" morph="none" start_char="1026" end_char="1031">gunmen</TOKEN>
+        <TOKEN id="token-25-8" pos="word" morph="none" start_char="1033" end_char="1038">killed</TOKEN>
+        <TOKEN id="token-25-9" pos="word" morph="none" start_char="1040" end_char="1045">around</TOKEN>
+        <TOKEN id="token-25-10" pos="number" morph="none" start_char="1047" end_char="1049">150</TOKEN>
+        <TOKEN id="token-25-11" pos="word" morph="none" start_char="1051" end_char="1056">people</TOKEN>
+        <TOKEN id="token-25-12" pos="word" morph="none" start_char="1058" end_char="1059">at</TOKEN>
+        <TOKEN id="token-25-13" pos="word" morph="none" start_char="1061" end_char="1067">Garissa</TOKEN>
+      </SEG>
+      <SEG id="segment-26" start_char="1069" end_char="1139">
+        <ORIGINAL_TEXT>University College campus, as retaliation for Kenyan participation in a</ORIGINAL_TEXT>
+        <TOKEN id="token-26-0" pos="word" morph="none" start_char="1069" end_char="1078">University</TOKEN>
+        <TOKEN id="token-26-1" pos="word" morph="none" start_char="1080" end_char="1086">College</TOKEN>
+        <TOKEN id="token-26-2" pos="word" morph="none" start_char="1088" end_char="1093">campus</TOKEN>
+        <TOKEN id="token-26-3" pos="punct" morph="none" start_char="1094" end_char="1094">,</TOKEN>
+        <TOKEN id="token-26-4" pos="word" morph="none" start_char="1096" end_char="1097">as</TOKEN>
+        <TOKEN id="token-26-5" pos="word" morph="none" start_char="1099" end_char="1109">retaliation</TOKEN>
+        <TOKEN id="token-26-6" pos="word" morph="none" start_char="1111" end_char="1113">for</TOKEN>
+        <TOKEN id="token-26-7" pos="word" morph="none" start_char="1115" end_char="1120">Kenyan</TOKEN>
+        <TOKEN id="token-26-8" pos="word" morph="none" start_char="1122" end_char="1134">participation</TOKEN>
+        <TOKEN id="token-26-9" pos="word" morph="none" start_char="1136" end_char="1137">in</TOKEN>
+        <TOKEN id="token-26-10" pos="word" morph="none" start_char="1139" end_char="1139">a</TOKEN>
+      </SEG>
+      <SEG id="segment-27" start_char="1141" end_char="1210">
+        <ORIGINAL_TEXT>mission against Shabab in Somalia. Most of the victims in the Thursday</ORIGINAL_TEXT>
+        <TOKEN id="token-27-0" pos="word" morph="none" start_char="1141" end_char="1147">mission</TOKEN>
+        <TOKEN id="token-27-1" pos="word" morph="none" start_char="1149" end_char="1155">against</TOKEN>
+        <TOKEN id="token-27-2" pos="word" morph="none" start_char="1157" end_char="1162">Shabab</TOKEN>
+        <TOKEN id="token-27-3" pos="word" morph="none" start_char="1164" end_char="1165">in</TOKEN>
+        <TOKEN id="token-27-4" pos="word" morph="none" start_char="1167" end_char="1173">Somalia</TOKEN>
+        <TOKEN id="token-27-5" pos="punct" morph="none" start_char="1174" end_char="1174">.</TOKEN>
+        <TOKEN id="token-27-6" pos="word" morph="none" start_char="1176" end_char="1179">Most</TOKEN>
+        <TOKEN id="token-27-7" pos="word" morph="none" start_char="1181" end_char="1182">of</TOKEN>
+        <TOKEN id="token-27-8" pos="word" morph="none" start_char="1184" end_char="1186">the</TOKEN>
+        <TOKEN id="token-27-9" pos="word" morph="none" start_char="1188" end_char="1194">victims</TOKEN>
+        <TOKEN id="token-27-10" pos="word" morph="none" start_char="1196" end_char="1197">in</TOKEN>
+        <TOKEN id="token-27-11" pos="word" morph="none" start_char="1199" end_char="1201">the</TOKEN>
+        <TOKEN id="token-27-12" pos="word" morph="none" start_char="1203" end_char="1210">Thursday</TOKEN>
+      </SEG>
+      <SEG id="segment-28" start_char="1212" end_char="1288">
+        <ORIGINAL_TEXT>massacre were students attending the college situated some 200 km (120 miles)</ORIGINAL_TEXT>
+        <TOKEN id="token-28-0" pos="word" morph="none" start_char="1212" end_char="1219">massacre</TOKEN>
+        <TOKEN id="token-28-1" pos="word" morph="none" start_char="1221" end_char="1224">were</TOKEN>
+        <TOKEN id="token-28-2" pos="word" morph="none" start_char="1226" end_char="1233">students</TOKEN>
+        <TOKEN id="token-28-3" pos="word" morph="none" start_char="1235" end_char="1243">attending</TOKEN>
+        <TOKEN id="token-28-4" pos="word" morph="none" start_char="1245" end_char="1247">the</TOKEN>
+        <TOKEN id="token-28-5" pos="word" morph="none" start_char="1249" end_char="1255">college</TOKEN>
+        <TOKEN id="token-28-6" pos="word" morph="none" start_char="1257" end_char="1264">situated</TOKEN>
+        <TOKEN id="token-28-7" pos="word" morph="none" start_char="1266" end_char="1269">some</TOKEN>
+        <TOKEN id="token-28-8" pos="number" morph="none" start_char="1271" end_char="1273">200</TOKEN>
+        <TOKEN id="token-28-9" pos="word" morph="none" start_char="1275" end_char="1276">km</TOKEN>
+        <TOKEN id="token-28-10" pos="punct" morph="none" start_char="1278" end_char="1278">(</TOKEN>
+        <TOKEN id="token-28-11" pos="word" morph="none" start_char="1279" end_char="1281">120</TOKEN>
+        <TOKEN id="token-28-12" pos="word" morph="none" start_char="1283" end_char="1287">miles</TOKEN>
+        <TOKEN id="token-28-13" pos="punct" morph="none" start_char="1288" end_char="1288">)</TOKEN>
+      </SEG>
+      <SEG id="segment-29" start_char="1290" end_char="1312">
+        <ORIGINAL_TEXT>from the Somali border.</ORIGINAL_TEXT>
+        <TOKEN id="token-29-0" pos="word" morph="none" start_char="1290" end_char="1293">from</TOKEN>
+        <TOKEN id="token-29-1" pos="word" morph="none" start_char="1295" end_char="1297">the</TOKEN>
+        <TOKEN id="token-29-2" pos="word" morph="none" start_char="1299" end_char="1304">Somali</TOKEN>
+        <TOKEN id="token-29-3" pos="word" morph="none" start_char="1306" end_char="1311">border</TOKEN>
+        <TOKEN id="token-29-4" pos="punct" morph="none" start_char="1312" end_char="1312">.</TOKEN>
+      </SEG>
+      <SEG id="segment-30" start_char="1314" end_char="1317">
+        <ORIGINAL_TEXT>&lt;/P&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-30-0" pos="unknown" morph="none" start_char="1314" end_char="1317">&lt;/P&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-31" start_char="1319" end_char="1321">
+        <ORIGINAL_TEXT>&lt;P&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-31-0" pos="unknown" morph="none" start_char="1319" end_char="1321">&lt;P&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-32" start_char="1323" end_char="1392">
+        <ORIGINAL_TEXT>Four of the attackers were killed after a 15-hour siege, while one was</ORIGINAL_TEXT>
+        <TOKEN id="token-32-0" pos="word" morph="none" start_char="1323" end_char="1326">Four</TOKEN>
+        <TOKEN id="token-32-1" pos="word" morph="none" start_char="1328" end_char="1329">of</TOKEN>
+        <TOKEN id="token-32-2" pos="word" morph="none" start_char="1331" end_char="1333">the</TOKEN>
+        <TOKEN id="token-32-3" pos="word" morph="none" start_char="1335" end_char="1343">attackers</TOKEN>
+        <TOKEN id="token-32-4" pos="word" morph="none" start_char="1345" end_char="1348">were</TOKEN>
+        <TOKEN id="token-32-5" pos="word" morph="none" start_char="1350" end_char="1355">killed</TOKEN>
+        <TOKEN id="token-32-6" pos="word" morph="none" start_char="1357" end_char="1361">after</TOKEN>
+        <TOKEN id="token-32-7" pos="word" morph="none" start_char="1363" end_char="1363">a</TOKEN>
+        <TOKEN id="token-32-8" pos="number" morph="none" start_char="1365" end_char="1366">15</TOKEN>
+        <TOKEN id="token-32-9" pos="punct" morph="none" start_char="1367" end_char="1367">-</TOKEN>
+        <TOKEN id="token-32-10" pos="word" morph="none" start_char="1368" end_char="1371">hour</TOKEN>
+        <TOKEN id="token-32-11" pos="word" morph="none" start_char="1373" end_char="1377">siege</TOKEN>
+        <TOKEN id="token-32-12" pos="punct" morph="none" start_char="1378" end_char="1378">,</TOKEN>
+        <TOKEN id="token-32-13" pos="word" morph="none" start_char="1380" end_char="1384">while</TOKEN>
+        <TOKEN id="token-32-14" pos="word" morph="none" start_char="1386" end_char="1388">one</TOKEN>
+        <TOKEN id="token-32-15" pos="word" morph="none" start_char="1390" end_char="1392">was</TOKEN>
+      </SEG>
+      <SEG id="segment-33" start_char="1394" end_char="1413">
+        <ORIGINAL_TEXT>reportedly arrested.</ORIGINAL_TEXT>
+        <TOKEN id="token-33-0" pos="word" morph="none" start_char="1394" end_char="1403">reportedly</TOKEN>
+        <TOKEN id="token-33-1" pos="word" morph="none" start_char="1405" end_char="1412">arrested</TOKEN>
+        <TOKEN id="token-33-2" pos="punct" morph="none" start_char="1413" end_char="1413">.</TOKEN>
+      </SEG>
+      <SEG id="segment-34" start_char="1415" end_char="1418">
+        <ORIGINAL_TEXT>&lt;/P&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-34-0" pos="unknown" morph="none" start_char="1415" end_char="1418">&lt;/P&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-35" start_char="1420" end_char="1422">
+        <ORIGINAL_TEXT>&lt;P&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-35-0" pos="unknown" morph="none" start_char="1420" end_char="1422">&lt;P&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-36" start_char="1424" end_char="1458">
+        <ORIGINAL_TEXT>'We will bring them all to justice'</ORIGINAL_TEXT>
+        <TOKEN id="token-36-0" pos="punct" morph="none" start_char="1424" end_char="1424">'</TOKEN>
+        <TOKEN id="token-36-1" pos="word" morph="none" start_char="1425" end_char="1426">We</TOKEN>
+        <TOKEN id="token-36-2" pos="word" morph="none" start_char="1428" end_char="1431">will</TOKEN>
+        <TOKEN id="token-36-3" pos="word" morph="none" start_char="1433" end_char="1437">bring</TOKEN>
+        <TOKEN id="token-36-4" pos="word" morph="none" start_char="1439" end_char="1442">them</TOKEN>
+        <TOKEN id="token-36-5" pos="word" morph="none" start_char="1444" end_char="1446">all</TOKEN>
+        <TOKEN id="token-36-6" pos="word" morph="none" start_char="1448" end_char="1449">to</TOKEN>
+        <TOKEN id="token-36-7" pos="word" morph="none" start_char="1451" end_char="1457">justice</TOKEN>
+        <TOKEN id="token-36-8" pos="punct" morph="none" start_char="1458" end_char="1458">'</TOKEN>
+      </SEG>
+      <SEG id="segment-37" start_char="1460" end_char="1463">
+        <ORIGINAL_TEXT>&lt;/P&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-37-0" pos="unknown" morph="none" start_char="1460" end_char="1463">&lt;/P&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-38" start_char="1465" end_char="1467">
+        <ORIGINAL_TEXT>&lt;P&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-38-0" pos="unknown" morph="none" start_char="1465" end_char="1467">&lt;P&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-39" start_char="1469" end_char="1543">
+        <ORIGINAL_TEXT>In his Saturday address to the nation, Kenyatta said the task of countering</ORIGINAL_TEXT>
+        <TOKEN id="token-39-0" pos="word" morph="none" start_char="1469" end_char="1470">In</TOKEN>
+        <TOKEN id="token-39-1" pos="word" morph="none" start_char="1472" end_char="1474">his</TOKEN>
+        <TOKEN id="token-39-2" pos="word" morph="none" start_char="1476" end_char="1483">Saturday</TOKEN>
+        <TOKEN id="token-39-3" pos="word" morph="none" start_char="1485" end_char="1491">address</TOKEN>
+        <TOKEN id="token-39-4" pos="word" morph="none" start_char="1493" end_char="1494">to</TOKEN>
+        <TOKEN id="token-39-5" pos="word" morph="none" start_char="1496" end_char="1498">the</TOKEN>
+        <TOKEN id="token-39-6" pos="word" morph="none" start_char="1500" end_char="1505">nation</TOKEN>
+        <TOKEN id="token-39-7" pos="punct" morph="none" start_char="1506" end_char="1506">,</TOKEN>
+        <TOKEN id="token-39-8" pos="word" morph="none" start_char="1508" end_char="1515">Kenyatta</TOKEN>
+        <TOKEN id="token-39-9" pos="word" morph="none" start_char="1517" end_char="1520">said</TOKEN>
+        <TOKEN id="token-39-10" pos="word" morph="none" start_char="1522" end_char="1524">the</TOKEN>
+        <TOKEN id="token-39-11" pos="word" morph="none" start_char="1526" end_char="1529">task</TOKEN>
+        <TOKEN id="token-39-12" pos="word" morph="none" start_char="1531" end_char="1532">of</TOKEN>
+        <TOKEN id="token-39-13" pos="word" morph="none" start_char="1534" end_char="1543">countering</TOKEN>
+      </SEG>
+      <SEG id="segment-40" start_char="1545" end_char="1620">
+        <ORIGINAL_TEXT>terrorism had been made all the more difficult by the fact "the planners and</ORIGINAL_TEXT>
+        <TOKEN id="token-40-0" pos="word" morph="none" start_char="1545" end_char="1553">terrorism</TOKEN>
+        <TOKEN id="token-40-1" pos="word" morph="none" start_char="1555" end_char="1557">had</TOKEN>
+        <TOKEN id="token-40-2" pos="word" morph="none" start_char="1559" end_char="1562">been</TOKEN>
+        <TOKEN id="token-40-3" pos="word" morph="none" start_char="1564" end_char="1567">made</TOKEN>
+        <TOKEN id="token-40-4" pos="word" morph="none" start_char="1569" end_char="1571">all</TOKEN>
+        <TOKEN id="token-40-5" pos="word" morph="none" start_char="1573" end_char="1575">the</TOKEN>
+        <TOKEN id="token-40-6" pos="word" morph="none" start_char="1577" end_char="1580">more</TOKEN>
+        <TOKEN id="token-40-7" pos="word" morph="none" start_char="1582" end_char="1590">difficult</TOKEN>
+        <TOKEN id="token-40-8" pos="word" morph="none" start_char="1592" end_char="1593">by</TOKEN>
+        <TOKEN id="token-40-9" pos="word" morph="none" start_char="1595" end_char="1597">the</TOKEN>
+        <TOKEN id="token-40-10" pos="word" morph="none" start_char="1599" end_char="1602">fact</TOKEN>
+        <TOKEN id="token-40-11" pos="punct" morph="none" start_char="1604" end_char="1604">"</TOKEN>
+        <TOKEN id="token-40-12" pos="word" morph="none" start_char="1605" end_char="1607">the</TOKEN>
+        <TOKEN id="token-40-13" pos="word" morph="none" start_char="1609" end_char="1616">planners</TOKEN>
+        <TOKEN id="token-40-14" pos="word" morph="none" start_char="1618" end_char="1620">and</TOKEN>
+      </SEG>
+      <SEG id="segment-41" start_char="1622" end_char="1695">
+        <ORIGINAL_TEXT>financiers of this brutality are deeply embedded in our communities," and.</ORIGINAL_TEXT>
+        <TOKEN id="token-41-0" pos="word" morph="none" start_char="1622" end_char="1631">financiers</TOKEN>
+        <TOKEN id="token-41-1" pos="word" morph="none" start_char="1633" end_char="1634">of</TOKEN>
+        <TOKEN id="token-41-2" pos="word" morph="none" start_char="1636" end_char="1639">this</TOKEN>
+        <TOKEN id="token-41-3" pos="word" morph="none" start_char="1641" end_char="1649">brutality</TOKEN>
+        <TOKEN id="token-41-4" pos="word" morph="none" start_char="1651" end_char="1653">are</TOKEN>
+        <TOKEN id="token-41-5" pos="word" morph="none" start_char="1655" end_char="1660">deeply</TOKEN>
+        <TOKEN id="token-41-6" pos="word" morph="none" start_char="1662" end_char="1669">embedded</TOKEN>
+        <TOKEN id="token-41-7" pos="word" morph="none" start_char="1671" end_char="1672">in</TOKEN>
+        <TOKEN id="token-41-8" pos="word" morph="none" start_char="1674" end_char="1676">our</TOKEN>
+        <TOKEN id="token-41-9" pos="word" morph="none" start_char="1678" end_char="1688">communities</TOKEN>
+        <TOKEN id="token-41-10" pos="punct" morph="none" start_char="1689" end_char="1690">,"</TOKEN>
+        <TOKEN id="token-41-11" pos="word" morph="none" start_char="1692" end_char="1694">and</TOKEN>
+        <TOKEN id="token-41-12" pos="punct" morph="none" start_char="1695" end_char="1695">.</TOKEN>
+      </SEG>
+      <SEG id="segment-42" start_char="1697" end_char="1700">
+        <ORIGINAL_TEXT>&lt;/P&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-42-0" pos="unknown" morph="none" start_char="1697" end_char="1700">&lt;/P&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-43" start_char="1702" end_char="1704">
+        <ORIGINAL_TEXT>&lt;P&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-43-0" pos="unknown" morph="none" start_char="1702" end_char="1704">&lt;P&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-44" start_char="1706" end_char="1757">
+        <ORIGINAL_TEXT>"We will fight terrorism to the end," Kenyatta said.</ORIGINAL_TEXT>
+        <TOKEN id="token-44-0" pos="punct" morph="none" start_char="1706" end_char="1706">"</TOKEN>
+        <TOKEN id="token-44-1" pos="word" morph="none" start_char="1707" end_char="1708">We</TOKEN>
+        <TOKEN id="token-44-2" pos="word" morph="none" start_char="1710" end_char="1713">will</TOKEN>
+        <TOKEN id="token-44-3" pos="word" morph="none" start_char="1715" end_char="1719">fight</TOKEN>
+        <TOKEN id="token-44-4" pos="word" morph="none" start_char="1721" end_char="1729">terrorism</TOKEN>
+        <TOKEN id="token-44-5" pos="word" morph="none" start_char="1731" end_char="1732">to</TOKEN>
+        <TOKEN id="token-44-6" pos="word" morph="none" start_char="1734" end_char="1736">the</TOKEN>
+        <TOKEN id="token-44-7" pos="word" morph="none" start_char="1738" end_char="1740">end</TOKEN>
+        <TOKEN id="token-44-8" pos="punct" morph="none" start_char="1741" end_char="1742">,"</TOKEN>
+        <TOKEN id="token-44-9" pos="word" morph="none" start_char="1744" end_char="1751">Kenyatta</TOKEN>
+        <TOKEN id="token-44-10" pos="word" morph="none" start_char="1753" end_char="1756">said</TOKEN>
+        <TOKEN id="token-44-11" pos="punct" morph="none" start_char="1757" end_char="1757">.</TOKEN>
+      </SEG>
+      <SEG id="segment-45" start_char="1759" end_char="1762">
+        <ORIGINAL_TEXT>&lt;/P&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-45-0" pos="unknown" morph="none" start_char="1759" end_char="1762">&lt;/P&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-46" start_char="1764" end_char="1766">
+        <ORIGINAL_TEXT>&lt;P&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-46-0" pos="unknown" morph="none" start_char="1764" end_char="1766">&lt;P&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-47" start_char="1768" end_char="1841">
+        <ORIGINAL_TEXT>Five men have been arrested in wake of the attacks, for alleged connection</ORIGINAL_TEXT>
+        <TOKEN id="token-47-0" pos="word" morph="none" start_char="1768" end_char="1771">Five</TOKEN>
+        <TOKEN id="token-47-1" pos="word" morph="none" start_char="1773" end_char="1775">men</TOKEN>
+        <TOKEN id="token-47-2" pos="word" morph="none" start_char="1777" end_char="1780">have</TOKEN>
+        <TOKEN id="token-47-3" pos="word" morph="none" start_char="1782" end_char="1785">been</TOKEN>
+        <TOKEN id="token-47-4" pos="word" morph="none" start_char="1787" end_char="1794">arrested</TOKEN>
+        <TOKEN id="token-47-5" pos="word" morph="none" start_char="1796" end_char="1797">in</TOKEN>
+        <TOKEN id="token-47-6" pos="word" morph="none" start_char="1799" end_char="1802">wake</TOKEN>
+        <TOKEN id="token-47-7" pos="word" morph="none" start_char="1804" end_char="1805">of</TOKEN>
+        <TOKEN id="token-47-8" pos="word" morph="none" start_char="1807" end_char="1809">the</TOKEN>
+        <TOKEN id="token-47-9" pos="word" morph="none" start_char="1811" end_char="1817">attacks</TOKEN>
+        <TOKEN id="token-47-10" pos="punct" morph="none" start_char="1818" end_char="1818">,</TOKEN>
+        <TOKEN id="token-47-11" pos="word" morph="none" start_char="1820" end_char="1822">for</TOKEN>
+        <TOKEN id="token-47-12" pos="word" morph="none" start_char="1824" end_char="1830">alleged</TOKEN>
+        <TOKEN id="token-47-13" pos="word" morph="none" start_char="1832" end_char="1841">connection</TOKEN>
+      </SEG>
+      <SEG id="segment-48" start_char="1843" end_char="1918">
+        <ORIGINAL_TEXT>with Shabab militants. Kenyan authorities also put a $220,000 (200,000 euro)</ORIGINAL_TEXT>
+        <TOKEN id="token-48-0" pos="word" morph="none" start_char="1843" end_char="1846">with</TOKEN>
+        <TOKEN id="token-48-1" pos="word" morph="none" start_char="1848" end_char="1853">Shabab</TOKEN>
+        <TOKEN id="token-48-2" pos="word" morph="none" start_char="1855" end_char="1863">militants</TOKEN>
+        <TOKEN id="token-48-3" pos="punct" morph="none" start_char="1864" end_char="1864">.</TOKEN>
+        <TOKEN id="token-48-4" pos="word" morph="none" start_char="1866" end_char="1871">Kenyan</TOKEN>
+        <TOKEN id="token-48-5" pos="word" morph="none" start_char="1873" end_char="1883">authorities</TOKEN>
+        <TOKEN id="token-48-6" pos="word" morph="none" start_char="1885" end_char="1888">also</TOKEN>
+        <TOKEN id="token-48-7" pos="word" morph="none" start_char="1890" end_char="1892">put</TOKEN>
+        <TOKEN id="token-48-8" pos="word" morph="none" start_char="1894" end_char="1894">a</TOKEN>
+        <TOKEN id="token-48-9" pos="unknown" morph="none" start_char="1896" end_char="1903">$220,000</TOKEN>
+        <TOKEN id="token-48-10" pos="punct" morph="none" start_char="1905" end_char="1905">(</TOKEN>
+        <TOKEN id="token-48-11" pos="word" morph="none" start_char="1906" end_char="1908">200</TOKEN>
+        <TOKEN id="token-48-12" pos="punct" morph="none" start_char="1909" end_char="1909">,</TOKEN>
+        <TOKEN id="token-48-13" pos="word" morph="none" start_char="1910" end_char="1912">000</TOKEN>
+        <TOKEN id="token-48-14" pos="word" morph="none" start_char="1914" end_char="1917">euro</TOKEN>
+        <TOKEN id="token-48-15" pos="punct" morph="none" start_char="1918" end_char="1918">)</TOKEN>
+      </SEG>
+      <SEG id="segment-49" start_char="1920" end_char="1997">
+        <ORIGINAL_TEXT>bounty on the head of the alleged mastermind of the attack, Mohamed Mohamud, -</ORIGINAL_TEXT>
+        <TOKEN id="token-49-0" pos="word" morph="none" start_char="1920" end_char="1925">bounty</TOKEN>
+        <TOKEN id="token-49-1" pos="word" morph="none" start_char="1927" end_char="1928">on</TOKEN>
+        <TOKEN id="token-49-2" pos="word" morph="none" start_char="1930" end_char="1932">the</TOKEN>
+        <TOKEN id="token-49-3" pos="word" morph="none" start_char="1934" end_char="1937">head</TOKEN>
+        <TOKEN id="token-49-4" pos="word" morph="none" start_char="1939" end_char="1940">of</TOKEN>
+        <TOKEN id="token-49-5" pos="word" morph="none" start_char="1942" end_char="1944">the</TOKEN>
+        <TOKEN id="token-49-6" pos="word" morph="none" start_char="1946" end_char="1952">alleged</TOKEN>
+        <TOKEN id="token-49-7" pos="word" morph="none" start_char="1954" end_char="1963">mastermind</TOKEN>
+        <TOKEN id="token-49-8" pos="word" morph="none" start_char="1965" end_char="1966">of</TOKEN>
+        <TOKEN id="token-49-9" pos="word" morph="none" start_char="1968" end_char="1970">the</TOKEN>
+        <TOKEN id="token-49-10" pos="word" morph="none" start_char="1972" end_char="1977">attack</TOKEN>
+        <TOKEN id="token-49-11" pos="punct" morph="none" start_char="1978" end_char="1978">,</TOKEN>
+        <TOKEN id="token-49-12" pos="word" morph="none" start_char="1980" end_char="1986">Mohamed</TOKEN>
+        <TOKEN id="token-49-13" pos="word" morph="none" start_char="1988" end_char="1994">Mohamud</TOKEN>
+        <TOKEN id="token-49-14" pos="punct" morph="none" start_char="1995" end_char="1995">,</TOKEN>
+        <TOKEN id="token-49-15" pos="unknown" morph="none" start_char="1997" end_char="1997">-</TOKEN>
+      </SEG>
+      <SEG id="segment-50" start_char="1999" end_char="2066">
+        <ORIGINAL_TEXT>also known as Dulyadin Gamadhere - who is believed to be in Somalia.</ORIGINAL_TEXT>
+        <TOKEN id="token-50-0" pos="word" morph="none" start_char="1999" end_char="2002">also</TOKEN>
+        <TOKEN id="token-50-1" pos="word" morph="none" start_char="2004" end_char="2008">known</TOKEN>
+        <TOKEN id="token-50-2" pos="word" morph="none" start_char="2010" end_char="2011">as</TOKEN>
+        <TOKEN id="token-50-3" pos="word" morph="none" start_char="2013" end_char="2020">Dulyadin</TOKEN>
+        <TOKEN id="token-50-4" pos="word" morph="none" start_char="2022" end_char="2030">Gamadhere</TOKEN>
+        <TOKEN id="token-50-5" pos="unknown" morph="none" start_char="2032" end_char="2032">-</TOKEN>
+        <TOKEN id="token-50-6" pos="word" morph="none" start_char="2034" end_char="2036">who</TOKEN>
+        <TOKEN id="token-50-7" pos="word" morph="none" start_char="2038" end_char="2039">is</TOKEN>
+        <TOKEN id="token-50-8" pos="word" morph="none" start_char="2041" end_char="2048">believed</TOKEN>
+        <TOKEN id="token-50-9" pos="word" morph="none" start_char="2050" end_char="2051">to</TOKEN>
+        <TOKEN id="token-50-10" pos="word" morph="none" start_char="2053" end_char="2054">be</TOKEN>
+        <TOKEN id="token-50-11" pos="word" morph="none" start_char="2056" end_char="2057">in</TOKEN>
+        <TOKEN id="token-50-12" pos="word" morph="none" start_char="2059" end_char="2065">Somalia</TOKEN>
+        <TOKEN id="token-50-13" pos="punct" morph="none" start_char="2066" end_char="2066">.</TOKEN>
+      </SEG>
+      <SEG id="segment-51" start_char="2068" end_char="2071">
+        <ORIGINAL_TEXT>&lt;/P&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-51-0" pos="unknown" morph="none" start_char="2068" end_char="2071">&lt;/P&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-52" start_char="2073" end_char="2075">
+        <ORIGINAL_TEXT>&lt;P&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-52-0" pos="unknown" morph="none" start_char="2073" end_char="2075">&lt;P&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-53" start_char="2077" end_char="2140">
+        <ORIGINAL_TEXT>Mohamud is a former teacher at a Kenyan Islamic Madrassa school.</ORIGINAL_TEXT>
+        <TOKEN id="token-53-0" pos="word" morph="none" start_char="2077" end_char="2083">Mohamud</TOKEN>
+        <TOKEN id="token-53-1" pos="word" morph="none" start_char="2085" end_char="2086">is</TOKEN>
+        <TOKEN id="token-53-2" pos="word" morph="none" start_char="2088" end_char="2088">a</TOKEN>
+        <TOKEN id="token-53-3" pos="word" morph="none" start_char="2090" end_char="2095">former</TOKEN>
+        <TOKEN id="token-53-4" pos="word" morph="none" start_char="2097" end_char="2103">teacher</TOKEN>
+        <TOKEN id="token-53-5" pos="word" morph="none" start_char="2105" end_char="2106">at</TOKEN>
+        <TOKEN id="token-53-6" pos="word" morph="none" start_char="2108" end_char="2108">a</TOKEN>
+        <TOKEN id="token-53-7" pos="word" morph="none" start_char="2110" end_char="2115">Kenyan</TOKEN>
+        <TOKEN id="token-53-8" pos="word" morph="none" start_char="2117" end_char="2123">Islamic</TOKEN>
+        <TOKEN id="token-53-9" pos="word" morph="none" start_char="2125" end_char="2132">Madrassa</TOKEN>
+        <TOKEN id="token-53-10" pos="word" morph="none" start_char="2134" end_char="2139">school</TOKEN>
+        <TOKEN id="token-53-11" pos="punct" morph="none" start_char="2140" end_char="2140">.</TOKEN>
+      </SEG>
+      <SEG id="segment-54" start_char="2142" end_char="2145">
+        <ORIGINAL_TEXT>&lt;/P&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-54-0" pos="unknown" morph="none" start_char="2142" end_char="2145">&lt;/P&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-55" start_char="2147" end_char="2149">
+        <ORIGINAL_TEXT>&lt;P&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-55-0" pos="unknown" morph="none" start_char="2147" end_char="2149">&lt;P&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-56" start_char="2151" end_char="2221">
+        <ORIGINAL_TEXT>"I want you to know that our security forces are pursuing the remaining</ORIGINAL_TEXT>
+        <TOKEN id="token-56-0" pos="punct" morph="none" start_char="2151" end_char="2151">"</TOKEN>
+        <TOKEN id="token-56-1" pos="word" morph="none" start_char="2152" end_char="2152">I</TOKEN>
+        <TOKEN id="token-56-2" pos="word" morph="none" start_char="2154" end_char="2157">want</TOKEN>
+        <TOKEN id="token-56-3" pos="word" morph="none" start_char="2159" end_char="2161">you</TOKEN>
+        <TOKEN id="token-56-4" pos="word" morph="none" start_char="2163" end_char="2164">to</TOKEN>
+        <TOKEN id="token-56-5" pos="word" morph="none" start_char="2166" end_char="2169">know</TOKEN>
+        <TOKEN id="token-56-6" pos="word" morph="none" start_char="2171" end_char="2174">that</TOKEN>
+        <TOKEN id="token-56-7" pos="word" morph="none" start_char="2176" end_char="2178">our</TOKEN>
+        <TOKEN id="token-56-8" pos="word" morph="none" start_char="2180" end_char="2187">security</TOKEN>
+        <TOKEN id="token-56-9" pos="word" morph="none" start_char="2189" end_char="2194">forces</TOKEN>
+        <TOKEN id="token-56-10" pos="word" morph="none" start_char="2196" end_char="2198">are</TOKEN>
+        <TOKEN id="token-56-11" pos="word" morph="none" start_char="2200" end_char="2207">pursuing</TOKEN>
+        <TOKEN id="token-56-12" pos="word" morph="none" start_char="2209" end_char="2211">the</TOKEN>
+        <TOKEN id="token-56-13" pos="word" morph="none" start_char="2213" end_char="2221">remaining</TOKEN>
+      </SEG>
+      <SEG id="segment-57" start_char="2223" end_char="2300">
+        <ORIGINAL_TEXT>accomplices. We will bring all of them to justice," Kenyatta said, adding that</ORIGINAL_TEXT>
+        <TOKEN id="token-57-0" pos="word" morph="none" start_char="2223" end_char="2233">accomplices</TOKEN>
+        <TOKEN id="token-57-1" pos="punct" morph="none" start_char="2234" end_char="2234">.</TOKEN>
+        <TOKEN id="token-57-2" pos="word" morph="none" start_char="2236" end_char="2237">We</TOKEN>
+        <TOKEN id="token-57-3" pos="word" morph="none" start_char="2239" end_char="2242">will</TOKEN>
+        <TOKEN id="token-57-4" pos="word" morph="none" start_char="2244" end_char="2248">bring</TOKEN>
+        <TOKEN id="token-57-5" pos="word" morph="none" start_char="2250" end_char="2252">all</TOKEN>
+        <TOKEN id="token-57-6" pos="word" morph="none" start_char="2254" end_char="2255">of</TOKEN>
+        <TOKEN id="token-57-7" pos="word" morph="none" start_char="2257" end_char="2260">them</TOKEN>
+        <TOKEN id="token-57-8" pos="word" morph="none" start_char="2262" end_char="2263">to</TOKEN>
+        <TOKEN id="token-57-9" pos="word" morph="none" start_char="2265" end_char="2271">justice</TOKEN>
+        <TOKEN id="token-57-10" pos="punct" morph="none" start_char="2272" end_char="2273">,"</TOKEN>
+        <TOKEN id="token-57-11" pos="word" morph="none" start_char="2275" end_char="2282">Kenyatta</TOKEN>
+        <TOKEN id="token-57-12" pos="word" morph="none" start_char="2284" end_char="2287">said</TOKEN>
+        <TOKEN id="token-57-13" pos="punct" morph="none" start_char="2288" end_char="2288">,</TOKEN>
+        <TOKEN id="token-57-14" pos="word" morph="none" start_char="2290" end_char="2295">adding</TOKEN>
+        <TOKEN id="token-57-15" pos="word" morph="none" start_char="2297" end_char="2300">that</TOKEN>
+      </SEG>
+      <SEG id="segment-58" start_char="2302" end_char="2360">
+        <ORIGINAL_TEXT>the authorities were in "active pursuit" of the mastermind.</ORIGINAL_TEXT>
+        <TOKEN id="token-58-0" pos="word" morph="none" start_char="2302" end_char="2304">the</TOKEN>
+        <TOKEN id="token-58-1" pos="word" morph="none" start_char="2306" end_char="2316">authorities</TOKEN>
+        <TOKEN id="token-58-2" pos="word" morph="none" start_char="2318" end_char="2321">were</TOKEN>
+        <TOKEN id="token-58-3" pos="word" morph="none" start_char="2323" end_char="2324">in</TOKEN>
+        <TOKEN id="token-58-4" pos="punct" morph="none" start_char="2326" end_char="2326">"</TOKEN>
+        <TOKEN id="token-58-5" pos="word" morph="none" start_char="2327" end_char="2332">active</TOKEN>
+        <TOKEN id="token-58-6" pos="word" morph="none" start_char="2334" end_char="2340">pursuit</TOKEN>
+        <TOKEN id="token-58-7" pos="punct" morph="none" start_char="2341" end_char="2341">"</TOKEN>
+        <TOKEN id="token-58-8" pos="word" morph="none" start_char="2343" end_char="2344">of</TOKEN>
+        <TOKEN id="token-58-9" pos="word" morph="none" start_char="2346" end_char="2348">the</TOKEN>
+        <TOKEN id="token-58-10" pos="word" morph="none" start_char="2350" end_char="2359">mastermind</TOKEN>
+        <TOKEN id="token-58-11" pos="punct" morph="none" start_char="2360" end_char="2360">.</TOKEN>
+      </SEG>
+      <SEG id="segment-59" start_char="2362" end_char="2365">
+        <ORIGINAL_TEXT>&lt;/P&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-59-0" pos="unknown" morph="none" start_char="2362" end_char="2365">&lt;/P&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-60" start_char="2367" end_char="2369">
+        <ORIGINAL_TEXT>&lt;P&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-60-0" pos="unknown" morph="none" start_char="2367" end_char="2369">&lt;P&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-61" start_char="2371" end_char="2447">
+        <ORIGINAL_TEXT>Kenyatta also declared a three-day mourning period, with flags in the country</ORIGINAL_TEXT>
+        <TOKEN id="token-61-0" pos="word" morph="none" start_char="2371" end_char="2378">Kenyatta</TOKEN>
+        <TOKEN id="token-61-1" pos="word" morph="none" start_char="2380" end_char="2383">also</TOKEN>
+        <TOKEN id="token-61-2" pos="word" morph="none" start_char="2385" end_char="2392">declared</TOKEN>
+        <TOKEN id="token-61-3" pos="word" morph="none" start_char="2394" end_char="2394">a</TOKEN>
+        <TOKEN id="token-61-4" pos="word" morph="none" start_char="2396" end_char="2400">three</TOKEN>
+        <TOKEN id="token-61-5" pos="punct" morph="none" start_char="2401" end_char="2401">-</TOKEN>
+        <TOKEN id="token-61-6" pos="word" morph="none" start_char="2402" end_char="2404">day</TOKEN>
+        <TOKEN id="token-61-7" pos="word" morph="none" start_char="2406" end_char="2413">mourning</TOKEN>
+        <TOKEN id="token-61-8" pos="word" morph="none" start_char="2415" end_char="2420">period</TOKEN>
+        <TOKEN id="token-61-9" pos="punct" morph="none" start_char="2421" end_char="2421">,</TOKEN>
+        <TOKEN id="token-61-10" pos="word" morph="none" start_char="2423" end_char="2426">with</TOKEN>
+        <TOKEN id="token-61-11" pos="word" morph="none" start_char="2428" end_char="2432">flags</TOKEN>
+        <TOKEN id="token-61-12" pos="word" morph="none" start_char="2434" end_char="2435">in</TOKEN>
+        <TOKEN id="token-61-13" pos="word" morph="none" start_char="2437" end_char="2439">the</TOKEN>
+        <TOKEN id="token-61-14" pos="word" morph="none" start_char="2441" end_char="2447">country</TOKEN>
+      </SEG>
+      <SEG id="segment-62" start_char="2449" end_char="2468">
+        <ORIGINAL_TEXT>flying at half mast.</ORIGINAL_TEXT>
+        <TOKEN id="token-62-0" pos="word" morph="none" start_char="2449" end_char="2454">flying</TOKEN>
+        <TOKEN id="token-62-1" pos="word" morph="none" start_char="2456" end_char="2457">at</TOKEN>
+        <TOKEN id="token-62-2" pos="word" morph="none" start_char="2459" end_char="2462">half</TOKEN>
+        <TOKEN id="token-62-3" pos="word" morph="none" start_char="2464" end_char="2467">mast</TOKEN>
+        <TOKEN id="token-62-4" pos="punct" morph="none" start_char="2468" end_char="2468">.</TOKEN>
+      </SEG>
+      <SEG id="segment-63" start_char="2470" end_char="2473">
+        <ORIGINAL_TEXT>&lt;/P&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-63-0" pos="unknown" morph="none" start_char="2470" end_char="2473">&lt;/P&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-64" start_char="2475" end_char="2477">
+        <ORIGINAL_TEXT>&lt;P&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-64-0" pos="unknown" morph="none" start_char="2475" end_char="2477">&lt;P&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-65" start_char="2479" end_char="2500">
+        <ORIGINAL_TEXT>Dead gunmen on display</ORIGINAL_TEXT>
+        <TOKEN id="token-65-0" pos="word" morph="none" start_char="2479" end_char="2482">Dead</TOKEN>
+        <TOKEN id="token-65-1" pos="word" morph="none" start_char="2484" end_char="2489">gunmen</TOKEN>
+        <TOKEN id="token-65-2" pos="word" morph="none" start_char="2491" end_char="2492">on</TOKEN>
+        <TOKEN id="token-65-3" pos="word" morph="none" start_char="2494" end_char="2500">display</TOKEN>
+      </SEG>
+      <SEG id="segment-66" start_char="2502" end_char="2505">
+        <ORIGINAL_TEXT>&lt;/P&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-66-0" pos="unknown" morph="none" start_char="2502" end_char="2505">&lt;/P&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-67" start_char="2507" end_char="2509">
+        <ORIGINAL_TEXT>&lt;P&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-67-0" pos="unknown" morph="none" start_char="2507" end_char="2509">&lt;P&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-68" start_char="2511" end_char="2585">
+        <ORIGINAL_TEXT>Also on Saturday, Kenyan police drove the four bloated and naked corpses of</ORIGINAL_TEXT>
+        <TOKEN id="token-68-0" pos="word" morph="none" start_char="2511" end_char="2514">Also</TOKEN>
+        <TOKEN id="token-68-1" pos="word" morph="none" start_char="2516" end_char="2517">on</TOKEN>
+        <TOKEN id="token-68-2" pos="word" morph="none" start_char="2519" end_char="2526">Saturday</TOKEN>
+        <TOKEN id="token-68-3" pos="punct" morph="none" start_char="2527" end_char="2527">,</TOKEN>
+        <TOKEN id="token-68-4" pos="word" morph="none" start_char="2529" end_char="2534">Kenyan</TOKEN>
+        <TOKEN id="token-68-5" pos="word" morph="none" start_char="2536" end_char="2541">police</TOKEN>
+        <TOKEN id="token-68-6" pos="word" morph="none" start_char="2543" end_char="2547">drove</TOKEN>
+        <TOKEN id="token-68-7" pos="word" morph="none" start_char="2549" end_char="2551">the</TOKEN>
+        <TOKEN id="token-68-8" pos="word" morph="none" start_char="2553" end_char="2556">four</TOKEN>
+        <TOKEN id="token-68-9" pos="word" morph="none" start_char="2558" end_char="2564">bloated</TOKEN>
+        <TOKEN id="token-68-10" pos="word" morph="none" start_char="2566" end_char="2568">and</TOKEN>
+        <TOKEN id="token-68-11" pos="word" morph="none" start_char="2570" end_char="2574">naked</TOKEN>
+        <TOKEN id="token-68-12" pos="word" morph="none" start_char="2576" end_char="2582">corpses</TOKEN>
+        <TOKEN id="token-68-13" pos="word" morph="none" start_char="2584" end_char="2585">of</TOKEN>
+      </SEG>
+      <SEG id="segment-69" start_char="2587" end_char="2661">
+        <ORIGINAL_TEXT>the purported attackers through the streets, saying the display was made to</ORIGINAL_TEXT>
+        <TOKEN id="token-69-0" pos="word" morph="none" start_char="2587" end_char="2589">the</TOKEN>
+        <TOKEN id="token-69-1" pos="word" morph="none" start_char="2591" end_char="2599">purported</TOKEN>
+        <TOKEN id="token-69-2" pos="word" morph="none" start_char="2601" end_char="2609">attackers</TOKEN>
+        <TOKEN id="token-69-3" pos="word" morph="none" start_char="2611" end_char="2617">through</TOKEN>
+        <TOKEN id="token-69-4" pos="word" morph="none" start_char="2619" end_char="2621">the</TOKEN>
+        <TOKEN id="token-69-5" pos="word" morph="none" start_char="2623" end_char="2629">streets</TOKEN>
+        <TOKEN id="token-69-6" pos="punct" morph="none" start_char="2630" end_char="2630">,</TOKEN>
+        <TOKEN id="token-69-7" pos="word" morph="none" start_char="2632" end_char="2637">saying</TOKEN>
+        <TOKEN id="token-69-8" pos="word" morph="none" start_char="2639" end_char="2641">the</TOKEN>
+        <TOKEN id="token-69-9" pos="word" morph="none" start_char="2643" end_char="2649">display</TOKEN>
+        <TOKEN id="token-69-10" pos="word" morph="none" start_char="2651" end_char="2653">was</TOKEN>
+        <TOKEN id="token-69-11" pos="word" morph="none" start_char="2655" end_char="2658">made</TOKEN>
+        <TOKEN id="token-69-12" pos="word" morph="none" start_char="2660" end_char="2661">to</TOKEN>
+      </SEG>
+      <SEG id="segment-70" start_char="2663" end_char="2705">
+        <ORIGINAL_TEXT>help in determining the attackers identity.</ORIGINAL_TEXT>
+        <TOKEN id="token-70-0" pos="word" morph="none" start_char="2663" end_char="2666">help</TOKEN>
+        <TOKEN id="token-70-1" pos="word" morph="none" start_char="2668" end_char="2669">in</TOKEN>
+        <TOKEN id="token-70-2" pos="word" morph="none" start_char="2671" end_char="2681">determining</TOKEN>
+        <TOKEN id="token-70-3" pos="word" morph="none" start_char="2683" end_char="2685">the</TOKEN>
+        <TOKEN id="token-70-4" pos="word" morph="none" start_char="2687" end_char="2695">attackers</TOKEN>
+        <TOKEN id="token-70-5" pos="word" morph="none" start_char="2697" end_char="2704">identity</TOKEN>
+        <TOKEN id="token-70-6" pos="punct" morph="none" start_char="2705" end_char="2705">.</TOKEN>
+      </SEG>
+      <SEG id="segment-71" start_char="2707" end_char="2710">
+        <ORIGINAL_TEXT>&lt;/P&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-71-0" pos="unknown" morph="none" start_char="2707" end_char="2710">&lt;/P&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-72" start_char="2712" end_char="2714">
+        <ORIGINAL_TEXT>&lt;P&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-72-0" pos="unknown" morph="none" start_char="2712" end_char="2714">&lt;P&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-73" start_char="2716" end_char="2793">
+        <ORIGINAL_TEXT>Hundreds of people, including children, came out to see the dead bodies, which</ORIGINAL_TEXT>
+        <TOKEN id="token-73-0" pos="word" morph="none" start_char="2716" end_char="2723">Hundreds</TOKEN>
+        <TOKEN id="token-73-1" pos="word" morph="none" start_char="2725" end_char="2726">of</TOKEN>
+        <TOKEN id="token-73-2" pos="word" morph="none" start_char="2728" end_char="2733">people</TOKEN>
+        <TOKEN id="token-73-3" pos="punct" morph="none" start_char="2734" end_char="2734">,</TOKEN>
+        <TOKEN id="token-73-4" pos="word" morph="none" start_char="2736" end_char="2744">including</TOKEN>
+        <TOKEN id="token-73-5" pos="word" morph="none" start_char="2746" end_char="2753">children</TOKEN>
+        <TOKEN id="token-73-6" pos="punct" morph="none" start_char="2754" end_char="2754">,</TOKEN>
+        <TOKEN id="token-73-7" pos="word" morph="none" start_char="2756" end_char="2759">came</TOKEN>
+        <TOKEN id="token-73-8" pos="word" morph="none" start_char="2761" end_char="2763">out</TOKEN>
+        <TOKEN id="token-73-9" pos="word" morph="none" start_char="2765" end_char="2766">to</TOKEN>
+        <TOKEN id="token-73-10" pos="word" morph="none" start_char="2768" end_char="2770">see</TOKEN>
+        <TOKEN id="token-73-11" pos="word" morph="none" start_char="2772" end_char="2774">the</TOKEN>
+        <TOKEN id="token-73-12" pos="word" morph="none" start_char="2776" end_char="2779">dead</TOKEN>
+        <TOKEN id="token-73-13" pos="word" morph="none" start_char="2781" end_char="2786">bodies</TOKEN>
+        <TOKEN id="token-73-14" pos="punct" morph="none" start_char="2787" end_char="2787">,</TOKEN>
+        <TOKEN id="token-73-15" pos="word" morph="none" start_char="2789" end_char="2793">which</TOKEN>
+      </SEG>
+      <SEG id="segment-74" start_char="2795" end_char="2867">
+        <ORIGINAL_TEXT>were driven almost half a kilometer in the back of a pick up truck before</ORIGINAL_TEXT>
+        <TOKEN id="token-74-0" pos="word" morph="none" start_char="2795" end_char="2798">were</TOKEN>
+        <TOKEN id="token-74-1" pos="word" morph="none" start_char="2800" end_char="2805">driven</TOKEN>
+        <TOKEN id="token-74-2" pos="word" morph="none" start_char="2807" end_char="2812">almost</TOKEN>
+        <TOKEN id="token-74-3" pos="word" morph="none" start_char="2814" end_char="2817">half</TOKEN>
+        <TOKEN id="token-74-4" pos="word" morph="none" start_char="2819" end_char="2819">a</TOKEN>
+        <TOKEN id="token-74-5" pos="word" morph="none" start_char="2821" end_char="2829">kilometer</TOKEN>
+        <TOKEN id="token-74-6" pos="word" morph="none" start_char="2831" end_char="2832">in</TOKEN>
+        <TOKEN id="token-74-7" pos="word" morph="none" start_char="2834" end_char="2836">the</TOKEN>
+        <TOKEN id="token-74-8" pos="word" morph="none" start_char="2838" end_char="2841">back</TOKEN>
+        <TOKEN id="token-74-9" pos="word" morph="none" start_char="2843" end_char="2844">of</TOKEN>
+        <TOKEN id="token-74-10" pos="word" morph="none" start_char="2846" end_char="2846">a</TOKEN>
+        <TOKEN id="token-74-11" pos="word" morph="none" start_char="2848" end_char="2851">pick</TOKEN>
+        <TOKEN id="token-74-12" pos="word" morph="none" start_char="2853" end_char="2854">up</TOKEN>
+        <TOKEN id="token-74-13" pos="word" morph="none" start_char="2856" end_char="2860">truck</TOKEN>
+        <TOKEN id="token-74-14" pos="word" morph="none" start_char="2862" end_char="2867">before</TOKEN>
+      </SEG>
+      <SEG id="segment-75" start_char="2869" end_char="2942">
+        <ORIGINAL_TEXT>being returned to hospital. While some jeered and took photos, other threw</ORIGINAL_TEXT>
+        <TOKEN id="token-75-0" pos="word" morph="none" start_char="2869" end_char="2873">being</TOKEN>
+        <TOKEN id="token-75-1" pos="word" morph="none" start_char="2875" end_char="2882">returned</TOKEN>
+        <TOKEN id="token-75-2" pos="word" morph="none" start_char="2884" end_char="2885">to</TOKEN>
+        <TOKEN id="token-75-3" pos="word" morph="none" start_char="2887" end_char="2894">hospital</TOKEN>
+        <TOKEN id="token-75-4" pos="punct" morph="none" start_char="2895" end_char="2895">.</TOKEN>
+        <TOKEN id="token-75-5" pos="word" morph="none" start_char="2897" end_char="2901">While</TOKEN>
+        <TOKEN id="token-75-6" pos="word" morph="none" start_char="2903" end_char="2906">some</TOKEN>
+        <TOKEN id="token-75-7" pos="word" morph="none" start_char="2908" end_char="2913">jeered</TOKEN>
+        <TOKEN id="token-75-8" pos="word" morph="none" start_char="2915" end_char="2917">and</TOKEN>
+        <TOKEN id="token-75-9" pos="word" morph="none" start_char="2919" end_char="2922">took</TOKEN>
+        <TOKEN id="token-75-10" pos="word" morph="none" start_char="2924" end_char="2929">photos</TOKEN>
+        <TOKEN id="token-75-11" pos="punct" morph="none" start_char="2930" end_char="2930">,</TOKEN>
+        <TOKEN id="token-75-12" pos="word" morph="none" start_char="2932" end_char="2936">other</TOKEN>
+        <TOKEN id="token-75-13" pos="word" morph="none" start_char="2938" end_char="2942">threw</TOKEN>
+      </SEG>
+      <SEG id="segment-76" start_char="2944" end_char="2962">
+        <ORIGINAL_TEXT>stones at the dead.</ORIGINAL_TEXT>
+        <TOKEN id="token-76-0" pos="word" morph="none" start_char="2944" end_char="2949">stones</TOKEN>
+        <TOKEN id="token-76-1" pos="word" morph="none" start_char="2951" end_char="2952">at</TOKEN>
+        <TOKEN id="token-76-2" pos="word" morph="none" start_char="2954" end_char="2956">the</TOKEN>
+        <TOKEN id="token-76-3" pos="word" morph="none" start_char="2958" end_char="2961">dead</TOKEN>
+        <TOKEN id="token-76-4" pos="punct" morph="none" start_char="2962" end_char="2962">.</TOKEN>
+      </SEG>
+      <SEG id="segment-77" start_char="2964" end_char="2967">
+        <ORIGINAL_TEXT>&lt;/P&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-77-0" pos="unknown" morph="none" start_char="2964" end_char="2967">&lt;/P&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-78" start_char="2969" end_char="2971">
+        <ORIGINAL_TEXT>&lt;P&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-78-0" pos="unknown" morph="none" start_char="2969" end_char="2971">&lt;P&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-79" start_char="2973" end_char="3049">
+        <ORIGINAL_TEXT>"The intention was not a parade, but rather for public identification so that</ORIGINAL_TEXT>
+        <TOKEN id="token-79-0" pos="punct" morph="none" start_char="2973" end_char="2973">"</TOKEN>
+        <TOKEN id="token-79-1" pos="word" morph="none" start_char="2974" end_char="2976">The</TOKEN>
+        <TOKEN id="token-79-2" pos="word" morph="none" start_char="2978" end_char="2986">intention</TOKEN>
+        <TOKEN id="token-79-3" pos="word" morph="none" start_char="2988" end_char="2990">was</TOKEN>
+        <TOKEN id="token-79-4" pos="word" morph="none" start_char="2992" end_char="2994">not</TOKEN>
+        <TOKEN id="token-79-5" pos="word" morph="none" start_char="2996" end_char="2996">a</TOKEN>
+        <TOKEN id="token-79-6" pos="word" morph="none" start_char="2998" end_char="3003">parade</TOKEN>
+        <TOKEN id="token-79-7" pos="punct" morph="none" start_char="3004" end_char="3004">,</TOKEN>
+        <TOKEN id="token-79-8" pos="word" morph="none" start_char="3006" end_char="3008">but</TOKEN>
+        <TOKEN id="token-79-9" pos="word" morph="none" start_char="3010" end_char="3015">rather</TOKEN>
+        <TOKEN id="token-79-10" pos="word" morph="none" start_char="3017" end_char="3019">for</TOKEN>
+        <TOKEN id="token-79-11" pos="word" morph="none" start_char="3021" end_char="3026">public</TOKEN>
+        <TOKEN id="token-79-12" pos="word" morph="none" start_char="3028" end_char="3041">identification</TOKEN>
+        <TOKEN id="token-79-13" pos="word" morph="none" start_char="3043" end_char="3044">so</TOKEN>
+        <TOKEN id="token-79-14" pos="word" morph="none" start_char="3046" end_char="3049">that</TOKEN>
+      </SEG>
+      <SEG id="segment-80" start_char="3051" end_char="3127">
+        <ORIGINAL_TEXT>if anyone can recognise them whether they are a relative or someone who knows</ORIGINAL_TEXT>
+        <TOKEN id="token-80-0" pos="word" morph="none" start_char="3051" end_char="3052">if</TOKEN>
+        <TOKEN id="token-80-1" pos="word" morph="none" start_char="3054" end_char="3059">anyone</TOKEN>
+        <TOKEN id="token-80-2" pos="word" morph="none" start_char="3061" end_char="3063">can</TOKEN>
+        <TOKEN id="token-80-3" pos="word" morph="none" start_char="3065" end_char="3073">recognise</TOKEN>
+        <TOKEN id="token-80-4" pos="word" morph="none" start_char="3075" end_char="3078">them</TOKEN>
+        <TOKEN id="token-80-5" pos="word" morph="none" start_char="3080" end_char="3086">whether</TOKEN>
+        <TOKEN id="token-80-6" pos="word" morph="none" start_char="3088" end_char="3091">they</TOKEN>
+        <TOKEN id="token-80-7" pos="word" morph="none" start_char="3093" end_char="3095">are</TOKEN>
+        <TOKEN id="token-80-8" pos="word" morph="none" start_char="3097" end_char="3097">a</TOKEN>
+        <TOKEN id="token-80-9" pos="word" morph="none" start_char="3099" end_char="3106">relative</TOKEN>
+        <TOKEN id="token-80-10" pos="word" morph="none" start_char="3108" end_char="3109">or</TOKEN>
+        <TOKEN id="token-80-11" pos="word" morph="none" start_char="3111" end_char="3117">someone</TOKEN>
+        <TOKEN id="token-80-12" pos="word" morph="none" start_char="3119" end_char="3121">who</TOKEN>
+        <TOKEN id="token-80-13" pos="word" morph="none" start_char="3123" end_char="3127">knows</TOKEN>
+      </SEG>
+      <SEG id="segment-81" start_char="3129" end_char="3177">
+        <ORIGINAL_TEXT>them," local police chief Benjamin Ong'ombe said.</ORIGINAL_TEXT>
+        <TOKEN id="token-81-0" pos="word" morph="none" start_char="3129" end_char="3132">them</TOKEN>
+        <TOKEN id="token-81-1" pos="punct" morph="none" start_char="3133" end_char="3134">,"</TOKEN>
+        <TOKEN id="token-81-2" pos="word" morph="none" start_char="3136" end_char="3140">local</TOKEN>
+        <TOKEN id="token-81-3" pos="word" morph="none" start_char="3142" end_char="3147">police</TOKEN>
+        <TOKEN id="token-81-4" pos="word" morph="none" start_char="3149" end_char="3153">chief</TOKEN>
+        <TOKEN id="token-81-5" pos="word" morph="none" start_char="3155" end_char="3162">Benjamin</TOKEN>
+        <TOKEN id="token-81-6" pos="word" morph="none" start_char="3164" end_char="3166">Ong</TOKEN>
+        <TOKEN id="token-81-7" pos="punct" morph="none" start_char="3167" end_char="3167">'</TOKEN>
+        <TOKEN id="token-81-8" pos="word" morph="none" start_char="3168" end_char="3171">ombe</TOKEN>
+        <TOKEN id="token-81-9" pos="word" morph="none" start_char="3173" end_char="3176">said</TOKEN>
+        <TOKEN id="token-81-10" pos="punct" morph="none" start_char="3177" end_char="3177">.</TOKEN>
+      </SEG>
+      <SEG id="segment-82" start_char="3179" end_char="3182">
+        <ORIGINAL_TEXT>&lt;/P&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-82-0" pos="unknown" morph="none" start_char="3179" end_char="3182">&lt;/P&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-83" start_char="3184" end_char="3186">
+        <ORIGINAL_TEXT>&lt;P&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-83-0" pos="unknown" morph="none" start_char="3184" end_char="3186">&lt;P&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-84" start_char="3188" end_char="3252">
+        <ORIGINAL_TEXT>"Too many people turned out, so we had to return them," he added.</ORIGINAL_TEXT>
+        <TOKEN id="token-84-0" pos="punct" morph="none" start_char="3188" end_char="3188">"</TOKEN>
+        <TOKEN id="token-84-1" pos="word" morph="none" start_char="3189" end_char="3191">Too</TOKEN>
+        <TOKEN id="token-84-2" pos="word" morph="none" start_char="3193" end_char="3196">many</TOKEN>
+        <TOKEN id="token-84-3" pos="word" morph="none" start_char="3198" end_char="3203">people</TOKEN>
+        <TOKEN id="token-84-4" pos="word" morph="none" start_char="3205" end_char="3210">turned</TOKEN>
+        <TOKEN id="token-84-5" pos="word" morph="none" start_char="3212" end_char="3214">out</TOKEN>
+        <TOKEN id="token-84-6" pos="punct" morph="none" start_char="3215" end_char="3215">,</TOKEN>
+        <TOKEN id="token-84-7" pos="word" morph="none" start_char="3217" end_char="3218">so</TOKEN>
+        <TOKEN id="token-84-8" pos="word" morph="none" start_char="3220" end_char="3221">we</TOKEN>
+        <TOKEN id="token-84-9" pos="word" morph="none" start_char="3223" end_char="3225">had</TOKEN>
+        <TOKEN id="token-84-10" pos="word" morph="none" start_char="3227" end_char="3228">to</TOKEN>
+        <TOKEN id="token-84-11" pos="word" morph="none" start_char="3230" end_char="3235">return</TOKEN>
+        <TOKEN id="token-84-12" pos="word" morph="none" start_char="3237" end_char="3240">them</TOKEN>
+        <TOKEN id="token-84-13" pos="punct" morph="none" start_char="3241" end_char="3242">,"</TOKEN>
+        <TOKEN id="token-84-14" pos="word" morph="none" start_char="3244" end_char="3245">he</TOKEN>
+        <TOKEN id="token-84-15" pos="word" morph="none" start_char="3247" end_char="3251">added</TOKEN>
+        <TOKEN id="token-84-16" pos="punct" morph="none" start_char="3252" end_char="3252">.</TOKEN>
+      </SEG>
+      <SEG id="segment-85" start_char="3254" end_char="3257">
+        <ORIGINAL_TEXT>&lt;/P&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-85-0" pos="unknown" morph="none" start_char="3254" end_char="3257">&lt;/P&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-86" start_char="3259" end_char="3261">
+        <ORIGINAL_TEXT>&lt;P&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-86-0" pos="unknown" morph="none" start_char="3259" end_char="3261">&lt;P&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-87" start_char="3263" end_char="3337">
+        <ORIGINAL_TEXT>Many of the citizens said they were disgusted by the showing of the bodies,</ORIGINAL_TEXT>
+        <TOKEN id="token-87-0" pos="word" morph="none" start_char="3263" end_char="3266">Many</TOKEN>
+        <TOKEN id="token-87-1" pos="word" morph="none" start_char="3268" end_char="3269">of</TOKEN>
+        <TOKEN id="token-87-2" pos="word" morph="none" start_char="3271" end_char="3273">the</TOKEN>
+        <TOKEN id="token-87-3" pos="word" morph="none" start_char="3275" end_char="3282">citizens</TOKEN>
+        <TOKEN id="token-87-4" pos="word" morph="none" start_char="3284" end_char="3287">said</TOKEN>
+        <TOKEN id="token-87-5" pos="word" morph="none" start_char="3289" end_char="3292">they</TOKEN>
+        <TOKEN id="token-87-6" pos="word" morph="none" start_char="3294" end_char="3297">were</TOKEN>
+        <TOKEN id="token-87-7" pos="word" morph="none" start_char="3299" end_char="3307">disgusted</TOKEN>
+        <TOKEN id="token-87-8" pos="word" morph="none" start_char="3309" end_char="3310">by</TOKEN>
+        <TOKEN id="token-87-9" pos="word" morph="none" start_char="3312" end_char="3314">the</TOKEN>
+        <TOKEN id="token-87-10" pos="word" morph="none" start_char="3316" end_char="3322">showing</TOKEN>
+        <TOKEN id="token-87-11" pos="word" morph="none" start_char="3324" end_char="3325">of</TOKEN>
+        <TOKEN id="token-87-12" pos="word" morph="none" start_char="3327" end_char="3329">the</TOKEN>
+        <TOKEN id="token-87-13" pos="word" morph="none" start_char="3331" end_char="3336">bodies</TOKEN>
+        <TOKEN id="token-87-14" pos="punct" morph="none" start_char="3337" end_char="3337">,</TOKEN>
+      </SEG>
+      <SEG id="segment-88" start_char="3339" end_char="3367">
+        <ORIGINAL_TEXT>which were starting to decay.</ORIGINAL_TEXT>
+        <TOKEN id="token-88-0" pos="word" morph="none" start_char="3339" end_char="3343">which</TOKEN>
+        <TOKEN id="token-88-1" pos="word" morph="none" start_char="3345" end_char="3348">were</TOKEN>
+        <TOKEN id="token-88-2" pos="word" morph="none" start_char="3350" end_char="3357">starting</TOKEN>
+        <TOKEN id="token-88-3" pos="word" morph="none" start_char="3359" end_char="3360">to</TOKEN>
+        <TOKEN id="token-88-4" pos="word" morph="none" start_char="3362" end_char="3366">decay</TOKEN>
+        <TOKEN id="token-88-5" pos="punct" morph="none" start_char="3367" end_char="3367">.</TOKEN>
+      </SEG>
+      <SEG id="segment-89" start_char="3369" end_char="3372">
+        <ORIGINAL_TEXT>&lt;/P&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-89-0" pos="unknown" morph="none" start_char="3369" end_char="3372">&lt;/P&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-90" start_char="3374" end_char="3376">
+        <ORIGINAL_TEXT>&lt;P&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-90-0" pos="unknown" morph="none" start_char="3374" end_char="3376">&lt;P&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-91" start_char="3378" end_char="3454">
+        <ORIGINAL_TEXT>"Instead of driving bodies around the streets now, the security forces should</ORIGINAL_TEXT>
+        <TOKEN id="token-91-0" pos="punct" morph="none" start_char="3378" end_char="3378">"</TOKEN>
+        <TOKEN id="token-91-1" pos="word" morph="none" start_char="3379" end_char="3385">Instead</TOKEN>
+        <TOKEN id="token-91-2" pos="word" morph="none" start_char="3387" end_char="3388">of</TOKEN>
+        <TOKEN id="token-91-3" pos="word" morph="none" start_char="3390" end_char="3396">driving</TOKEN>
+        <TOKEN id="token-91-4" pos="word" morph="none" start_char="3398" end_char="3403">bodies</TOKEN>
+        <TOKEN id="token-91-5" pos="word" morph="none" start_char="3405" end_char="3410">around</TOKEN>
+        <TOKEN id="token-91-6" pos="word" morph="none" start_char="3412" end_char="3414">the</TOKEN>
+        <TOKEN id="token-91-7" pos="word" morph="none" start_char="3416" end_char="3422">streets</TOKEN>
+        <TOKEN id="token-91-8" pos="word" morph="none" start_char="3424" end_char="3426">now</TOKEN>
+        <TOKEN id="token-91-9" pos="punct" morph="none" start_char="3427" end_char="3427">,</TOKEN>
+        <TOKEN id="token-91-10" pos="word" morph="none" start_char="3429" end_char="3431">the</TOKEN>
+        <TOKEN id="token-91-11" pos="word" morph="none" start_char="3433" end_char="3440">security</TOKEN>
+        <TOKEN id="token-91-12" pos="word" morph="none" start_char="3442" end_char="3447">forces</TOKEN>
+        <TOKEN id="token-91-13" pos="word" morph="none" start_char="3449" end_char="3454">should</TOKEN>
+      </SEG>
+      <SEG id="segment-92" start_char="3456" end_char="3533">
+        <ORIGINAL_TEXT>had pro-actively gone out to stop them from killing students," a student Ahmed</ORIGINAL_TEXT>
+        <TOKEN id="token-92-0" pos="word" morph="none" start_char="3456" end_char="3458">had</TOKEN>
+        <TOKEN id="token-92-1" pos="word" morph="none" start_char="3460" end_char="3462">pro</TOKEN>
+        <TOKEN id="token-92-2" pos="punct" morph="none" start_char="3463" end_char="3463">-</TOKEN>
+        <TOKEN id="token-92-3" pos="word" morph="none" start_char="3464" end_char="3471">actively</TOKEN>
+        <TOKEN id="token-92-4" pos="word" morph="none" start_char="3473" end_char="3476">gone</TOKEN>
+        <TOKEN id="token-92-5" pos="word" morph="none" start_char="3478" end_char="3480">out</TOKEN>
+        <TOKEN id="token-92-6" pos="word" morph="none" start_char="3482" end_char="3483">to</TOKEN>
+        <TOKEN id="token-92-7" pos="word" morph="none" start_char="3485" end_char="3488">stop</TOKEN>
+        <TOKEN id="token-92-8" pos="word" morph="none" start_char="3490" end_char="3493">them</TOKEN>
+        <TOKEN id="token-92-9" pos="word" morph="none" start_char="3495" end_char="3498">from</TOKEN>
+        <TOKEN id="token-92-10" pos="word" morph="none" start_char="3500" end_char="3506">killing</TOKEN>
+        <TOKEN id="token-92-11" pos="word" morph="none" start_char="3508" end_char="3515">students</TOKEN>
+        <TOKEN id="token-92-12" pos="punct" morph="none" start_char="3516" end_char="3517">,"</TOKEN>
+        <TOKEN id="token-92-13" pos="word" morph="none" start_char="3519" end_char="3519">a</TOKEN>
+        <TOKEN id="token-92-14" pos="word" morph="none" start_char="3521" end_char="3527">student</TOKEN>
+        <TOKEN id="token-92-15" pos="word" morph="none" start_char="3529" end_char="3533">Ahmed</TOKEN>
+      </SEG>
+      <SEG id="segment-93" start_char="3535" end_char="3545">
+        <ORIGINAL_TEXT>Yusuf said.</ORIGINAL_TEXT>
+        <TOKEN id="token-93-0" pos="word" morph="none" start_char="3535" end_char="3539">Yusuf</TOKEN>
+        <TOKEN id="token-93-1" pos="word" morph="none" start_char="3541" end_char="3544">said</TOKEN>
+        <TOKEN id="token-93-2" pos="punct" morph="none" start_char="3545" end_char="3545">.</TOKEN>
+      </SEG>
+      <SEG id="segment-94" start_char="3547" end_char="3550">
+        <ORIGINAL_TEXT>&lt;/P&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-94-0" pos="unknown" morph="none" start_char="3547" end_char="3550">&lt;/P&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-95" start_char="3552" end_char="3554">
+        <ORIGINAL_TEXT>&lt;P&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-95-0" pos="unknown" morph="none" start_char="3552" end_char="3554">&lt;P&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-96" start_char="3556" end_char="3579">
+        <ORIGINAL_TEXT>dj/rc (AFP, AP, Reuters)</ORIGINAL_TEXT>
+        <TOKEN id="token-96-0" pos="word" morph="none" start_char="3556" end_char="3557">dj</TOKEN>
+        <TOKEN id="token-96-1" pos="punct" morph="none" start_char="3558" end_char="3558">/</TOKEN>
+        <TOKEN id="token-96-2" pos="word" morph="none" start_char="3559" end_char="3560">rc</TOKEN>
+        <TOKEN id="token-96-3" pos="punct" morph="none" start_char="3562" end_char="3562">(</TOKEN>
+        <TOKEN id="token-96-4" pos="word" morph="none" start_char="3563" end_char="3565">AFP</TOKEN>
+        <TOKEN id="token-96-5" pos="punct" morph="none" start_char="3566" end_char="3566">,</TOKEN>
+        <TOKEN id="token-96-6" pos="word" morph="none" start_char="3568" end_char="3569">AP</TOKEN>
+        <TOKEN id="token-96-7" pos="punct" morph="none" start_char="3570" end_char="3570">,</TOKEN>
+        <TOKEN id="token-96-8" pos="word" morph="none" start_char="3572" end_char="3578">Reuters</TOKEN>
+        <TOKEN id="token-96-9" pos="punct" morph="none" start_char="3579" end_char="3579">)</TOKEN>
+      </SEG>
+      <SEG id="segment-97" start_char="3581" end_char="3584">
+        <ORIGINAL_TEXT>&lt;/P&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-97-0" pos="unknown" morph="none" start_char="3581" end_char="3584">&lt;/P&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-98" start_char="3586" end_char="3592">
+        <ORIGINAL_TEXT>&lt;/TEXT&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-98-0" pos="unknown" morph="none" start_char="3586" end_char="3592">&lt;/TEXT&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-99" start_char="3594" end_char="3599">
+        <ORIGINAL_TEXT>&lt;/DOC&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-99-0" pos="unknown" morph="none" start_char="3594" end_char="3599">&lt;/DOC&gt;</TOKEN>
+      </SEG>
+    </TEXT>
+  </DOC>
+</LCTL_TEXT>

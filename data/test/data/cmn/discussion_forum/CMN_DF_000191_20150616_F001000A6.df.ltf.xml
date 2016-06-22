@@ -1,0 +1,598 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE LCTL_TEXT SYSTEM "ltf.v1.5.dtd">
+<LCTL_TEXT>
+<DOC id="CMN_DF_000191_20150616_F001000A6.df.xml" tokenization="tokenization_parameters" grammar="none" raw_text_char_length="3368" raw_text_md5="882734bdeab96df39396ca8d2723bce0">
+<TEXT>
+<SEG id="segment-0" start_char="0" end_char="37">
+<ORIGINAL_TEXT>&lt;?xml version="1.0" encoding="utf-8"?&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-0-0" pos="unknown" morph="none" start_char="0" end_char="4">&lt;?xml</TOKEN>
+<TOKEN id="token-0-1" pos="unknown" morph="none" start_char="6" end_char="18">version="1.0"</TOKEN>
+<TOKEN id="token-0-2" pos="unknown" morph="none" start_char="20" end_char="37">encoding="utf-8"?&gt;</TOKEN>
+</SEG>
+<SEG id="segment-1" start_char="39" end_char="81">
+<ORIGINAL_TEXT>&lt;doc id="CMN_DF_000191_20150616_F001000A6"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-1-0" pos="unknown" morph="none" start_char="39" end_char="42">&lt;doc</TOKEN>
+<TOKEN id="token-1-1" pos="unknown" morph="none" start_char="44" end_char="81">id="CMN_DF_000191_20150616_F001000A6"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-2" start_char="83" end_char="92">
+<ORIGINAL_TEXT>&lt;headline&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-2-0" pos="unknown" morph="none" start_char="83" end_char="92">&lt;headline&gt;</TOKEN>
+</SEG>
+<SEG id="segment-3" start_char="94" end_char="119">
+<ORIGINAL_TEXT>杰布宣布竞选总统 布什“三世”将大战克林顿“二世”！</ORIGINAL_TEXT>
+<TOKEN id="token-3-0" pos="word" morph="none" start_char="94" end_char="101">杰布宣布竞选总统</TOKEN>
+<TOKEN id="token-3-1" pos="unknown" morph="none" start_char="103" end_char="119">布什“三世”将大战克林顿“二世”！</TOKEN>
+</SEG>
+<SEG id="segment-4" start_char="121" end_char="131">
+<ORIGINAL_TEXT>&lt;/headline&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-4-0" pos="unknown" morph="none" start_char="121" end_char="131">&lt;/headline&gt;</TOKEN>
+</SEG>
+<SEG id="segment-5" start_char="133" end_char="193">
+<ORIGINAL_TEXT>&lt;post id="p1" author="夜里挑灯看枪" datetime="2015-06-16T12:20:12"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-5-0" pos="unknown" morph="none" start_char="133" end_char="137">&lt;post</TOKEN>
+<TOKEN id="token-5-1" pos="unknown" morph="none" start_char="139" end_char="145">id="p1"</TOKEN>
+<TOKEN id="token-5-2" pos="unknown" morph="none" start_char="147" end_char="161">author="夜里挑灯看枪"</TOKEN>
+<TOKEN id="token-5-3" pos="unknown" morph="none" start_char="163" end_char="193">datetime="2015-06-16T12:20:12"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-6" start_char="195" end_char="249">
+<ORIGINAL_TEXT>http://news.sina.com.cn/w/2015-06-16/065631955112.shtml</ORIGINAL_TEXT>
+<TOKEN id="token-6-0" pos="url" morph="none" start_char="195" end_char="249">http://news.sina.com.cn/w/2015-06-16/065631955112.shtml</TOKEN>
+</SEG>
+<SEG id="segment-7" start_char="251" end_char="257">
+<ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-7-0" pos="unknown" morph="none" start_char="251" end_char="257">&lt;/post&gt;</TOKEN>
+</SEG>
+<SEG id="segment-8" start_char="259" end_char="319">
+<ORIGINAL_TEXT>&lt;post id="p2" author="Bob147" datetime="2015-06-16T12:35:43"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-8-0" pos="unknown" morph="none" start_char="259" end_char="263">&lt;post</TOKEN>
+<TOKEN id="token-8-1" pos="unknown" morph="none" start_char="265" end_char="271">id="p2"</TOKEN>
+<TOKEN id="token-8-2" pos="unknown" morph="none" start_char="273" end_char="287">author="Bob147"</TOKEN>
+<TOKEN id="token-8-3" pos="unknown" morph="none" start_char="289" end_char="319">datetime="2015-06-16T12:35:43"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-9" start_char="321" end_char="328">
+<ORIGINAL_TEXT>对华友好??? </ORIGINAL_TEXT>
+<TOKEN id="token-9-0" pos="word" morph="none" start_char="321" end_char="324">对华友好</TOKEN>
+<TOKEN id="token-9-1" pos="punct" morph="none" start_char="325" end_char="327">???</TOKEN>
+</SEG>
+<SEG id="segment-10" start_char="330" end_char="336">
+<ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-10-0" pos="unknown" morph="none" start_char="330" end_char="336">&lt;/post&gt;</TOKEN>
+</SEG>
+<SEG id="segment-11" start_char="338" end_char="395">
+<ORIGINAL_TEXT>&lt;post id="p3" author="星空燕" datetime="2015-06-16T13:14:52"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-11-0" pos="unknown" morph="none" start_char="338" end_char="342">&lt;post</TOKEN>
+<TOKEN id="token-11-1" pos="unknown" morph="none" start_char="344" end_char="350">id="p3"</TOKEN>
+<TOKEN id="token-11-2" pos="unknown" morph="none" start_char="352" end_char="363">author="星空燕"</TOKEN>
+<TOKEN id="token-11-3" pos="unknown" morph="none" start_char="365" end_char="395">datetime="2015-06-16T13:14:52"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-12" start_char="397" end_char="405">
+<ORIGINAL_TEXT>家族世袭制度嘛~！</ORIGINAL_TEXT>
+<TOKEN id="token-12-0" pos="unknown" morph="none" start_char="397" end_char="405">家族世袭制度嘛~！</TOKEN>
+</SEG>
+<SEG id="segment-13" start_char="407" end_char="413">
+<ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-13-0" pos="unknown" morph="none" start_char="407" end_char="413">&lt;/post&gt;</TOKEN>
+</SEG>
+<SEG id="segment-14" start_char="415" end_char="475">
+<ORIGINAL_TEXT>&lt;post id="p4" author="山水有相逢A" datetime="2015-06-16T13:39:43"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-14-0" pos="unknown" morph="none" start_char="415" end_char="419">&lt;post</TOKEN>
+<TOKEN id="token-14-1" pos="unknown" morph="none" start_char="421" end_char="427">id="p4"</TOKEN>
+<TOKEN id="token-14-2" pos="unknown" morph="none" start_char="429" end_char="443">author="山水有相逢A"</TOKEN>
+<TOKEN id="token-14-3" pos="unknown" morph="none" start_char="445" end_char="475">datetime="2015-06-16T13:39:43"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-15" start_char="477" end_char="489">
+<ORIGINAL_TEXT>想起了一个词：换汤不换药!</ORIGINAL_TEXT>
+<TOKEN id="token-15-0" pos="word" morph="none" start_char="477" end_char="482">想起了一个词</TOKEN>
+<TOKEN id="token-15-1" pos="punct" morph="none" start_char="483" end_char="483">：</TOKEN>
+<TOKEN id="token-15-2" pos="word" morph="none" start_char="484" end_char="488">换汤不换药</TOKEN>
+<TOKEN id="token-15-3" pos="punct" morph="none" start_char="489" end_char="489">!</TOKEN>
+</SEG>
+<SEG id="segment-16" start_char="491" end_char="497">
+<ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-16-0" pos="unknown" morph="none" start_char="491" end_char="497">&lt;/post&gt;</TOKEN>
+</SEG>
+<SEG id="segment-17" start_char="499" end_char="559">
+<ORIGINAL_TEXT>&lt;post id="p5" author="山水有相逢A" datetime="2015-06-16T13:40:05"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-17-0" pos="unknown" morph="none" start_char="499" end_char="503">&lt;post</TOKEN>
+<TOKEN id="token-17-1" pos="unknown" morph="none" start_char="505" end_char="511">id="p5"</TOKEN>
+<TOKEN id="token-17-2" pos="unknown" morph="none" start_char="513" end_char="527">author="山水有相逢A"</TOKEN>
+<TOKEN id="token-17-3" pos="unknown" morph="none" start_char="529" end_char="559">datetime="2015-06-16T13:40:05"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-18" start_char="561" end_char="573">
+<ORIGINAL_TEXT>想起了一个词：换汤不换药!</ORIGINAL_TEXT>
+<TOKEN id="token-18-0" pos="word" morph="none" start_char="561" end_char="566">想起了一个词</TOKEN>
+<TOKEN id="token-18-1" pos="punct" morph="none" start_char="567" end_char="567">：</TOKEN>
+<TOKEN id="token-18-2" pos="word" morph="none" start_char="568" end_char="572">换汤不换药</TOKEN>
+<TOKEN id="token-18-3" pos="punct" morph="none" start_char="573" end_char="573">!</TOKEN>
+</SEG>
+<SEG id="segment-19" start_char="575" end_char="581">
+<ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-19-0" pos="unknown" morph="none" start_char="575" end_char="581">&lt;/post&gt;</TOKEN>
+</SEG>
+<SEG id="segment-20" start_char="583" end_char="643">
+<ORIGINAL_TEXT>&lt;post id="p6" author="山水有相逢A" datetime="2015-06-16T13:40:15"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-20-0" pos="unknown" morph="none" start_char="583" end_char="587">&lt;post</TOKEN>
+<TOKEN id="token-20-1" pos="unknown" morph="none" start_char="589" end_char="595">id="p6"</TOKEN>
+<TOKEN id="token-20-2" pos="unknown" morph="none" start_char="597" end_char="611">author="山水有相逢A"</TOKEN>
+<TOKEN id="token-20-3" pos="unknown" morph="none" start_char="613" end_char="643">datetime="2015-06-16T13:40:15"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-21" start_char="645" end_char="657">
+<ORIGINAL_TEXT>想起了一个词：换汤不换药!</ORIGINAL_TEXT>
+<TOKEN id="token-21-0" pos="word" morph="none" start_char="645" end_char="650">想起了一个词</TOKEN>
+<TOKEN id="token-21-1" pos="punct" morph="none" start_char="651" end_char="651">：</TOKEN>
+<TOKEN id="token-21-2" pos="word" morph="none" start_char="652" end_char="656">换汤不换药</TOKEN>
+<TOKEN id="token-21-3" pos="punct" morph="none" start_char="657" end_char="657">!</TOKEN>
+</SEG>
+<SEG id="segment-22" start_char="659" end_char="665">
+<ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-22-0" pos="unknown" morph="none" start_char="659" end_char="665">&lt;/post&gt;</TOKEN>
+</SEG>
+<SEG id="segment-23" start_char="667" end_char="729">
+<ORIGINAL_TEXT>&lt;post id="p7" author="lewescat" datetime="2015-06-16T15:31:08"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-23-0" pos="unknown" morph="none" start_char="667" end_char="671">&lt;post</TOKEN>
+<TOKEN id="token-23-1" pos="unknown" morph="none" start_char="673" end_char="679">id="p7"</TOKEN>
+<TOKEN id="token-23-2" pos="unknown" morph="none" start_char="681" end_char="697">author="lewescat"</TOKEN>
+<TOKEN id="token-23-3" pos="unknown" morph="none" start_char="699" end_char="729">datetime="2015-06-16T15:31:08"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-24" start_char="731" end_char="736">
+<ORIGINAL_TEXT>香港怎么看？</ORIGINAL_TEXT>
+<TOKEN id="token-24-0" pos="word" morph="none" start_char="731" end_char="735">香港怎么看</TOKEN>
+<TOKEN id="token-24-1" pos="punct" morph="none" start_char="736" end_char="736">？</TOKEN>
+</SEG>
+<SEG id="segment-25" start_char="738" end_char="744">
+<ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-25-0" pos="unknown" morph="none" start_char="738" end_char="744">&lt;/post&gt;</TOKEN>
+</SEG>
+<SEG id="segment-26" start_char="746" end_char="805">
+<ORIGINAL_TEXT>&lt;post id="p8" author="眼镜的崛起" datetime="2015-06-16T15:32:02"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-26-0" pos="unknown" morph="none" start_char="746" end_char="750">&lt;post</TOKEN>
+<TOKEN id="token-26-1" pos="unknown" morph="none" start_char="752" end_char="758">id="p8"</TOKEN>
+<TOKEN id="token-26-2" pos="unknown" morph="none" start_char="760" end_char="773">author="眼镜的崛起"</TOKEN>
+<TOKEN id="token-26-3" pos="unknown" morph="none" start_char="775" end_char="805">datetime="2015-06-16T15:32:02"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-27" start_char="807" end_char="818">
+<ORIGINAL_TEXT>地板好脏，坐等人来洗地。</ORIGINAL_TEXT>
+<TOKEN id="token-27-0" pos="word" morph="none" start_char="807" end_char="810">地板好脏</TOKEN>
+<TOKEN id="token-27-1" pos="punct" morph="none" start_char="811" end_char="811">，</TOKEN>
+<TOKEN id="token-27-2" pos="word" morph="none" start_char="812" end_char="817">坐等人来洗地</TOKEN>
+<TOKEN id="token-27-3" pos="punct" morph="none" start_char="818" end_char="818">。</TOKEN>
+</SEG>
+<SEG id="segment-28" start_char="820" end_char="826">
+<ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-28-0" pos="unknown" morph="none" start_char="820" end_char="826">&lt;/post&gt;</TOKEN>
+</SEG>
+<SEG id="segment-29" start_char="828" end_char="890">
+<ORIGINAL_TEXT>&lt;post id="p9" author="a7615593" datetime="2015-06-16T16:07:36"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-29-0" pos="unknown" morph="none" start_char="828" end_char="832">&lt;post</TOKEN>
+<TOKEN id="token-29-1" pos="unknown" morph="none" start_char="834" end_char="840">id="p9"</TOKEN>
+<TOKEN id="token-29-2" pos="unknown" morph="none" start_char="842" end_char="858">author="a7615593"</TOKEN>
+<TOKEN id="token-29-3" pos="unknown" morph="none" start_char="860" end_char="890">datetime="2015-06-16T16:07:36"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-30" start_char="892" end_char="916">
+<ORIGINAL_TEXT>&lt;quote orig_author="星空燕"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-30-0" pos="unknown" morph="none" start_char="892" end_char="897">&lt;quote</TOKEN>
+<TOKEN id="token-30-1" pos="unknown" morph="none" start_char="899" end_char="916">orig_author="星空燕"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-31" start_char="918" end_char="926">
+<ORIGINAL_TEXT>家族世袭制度嘛~！</ORIGINAL_TEXT>
+<TOKEN id="token-31-0" pos="unknown" morph="none" start_char="918" end_char="926">家族世袭制度嘛~！</TOKEN>
+</SEG>
+<SEG id="segment-32" start_char="928" end_char="935">
+<ORIGINAL_TEXT>&lt;/quote&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-32-0" pos="unknown" morph="none" start_char="928" end_char="935">&lt;/quote&gt;</TOKEN>
+</SEG>
+<SEG id="segment-33" start_char="937" end_char="1034">
+<ORIGINAL_TEXT>嗳！你这样说就不对了，这应该是民主的家族世袭制度？虽然朝鲜也是家族世袭制度，但是他们缺少"民猪"。西方就是有了"民猪"所以高上大。哪怕花十几个亿的政治献金竞选总统。那也不是贪污腐败那是民猪的选举。</ORIGINAL_TEXT>
+<TOKEN id="token-33-0" pos="unknown" morph="none" start_char="937" end_char="1034">嗳！你这样说就不对了，这应该是民主的家族世袭制度？虽然朝鲜也是家族世袭制度，但是他们缺少"民猪"。西方就是有了"民猪"所以高上大。哪怕花十几个亿的政治献金竞选总统。那也不是贪污腐败那是民猪的选举。</TOKEN>
+</SEG>
+<SEG id="segment-34" start_char="1036" end_char="1042">
+<ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-34-0" pos="unknown" morph="none" start_char="1036" end_char="1042">&lt;/post&gt;</TOKEN>
+</SEG>
+<SEG id="segment-35" start_char="1044" end_char="1109">
+<ORIGINAL_TEXT>&lt;post id="p10" author="Salem_cool" datetime="2015-06-16T17:30:09"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-35-0" pos="unknown" morph="none" start_char="1044" end_char="1048">&lt;post</TOKEN>
+<TOKEN id="token-35-1" pos="unknown" morph="none" start_char="1050" end_char="1057">id="p10"</TOKEN>
+<TOKEN id="token-35-2" pos="unknown" morph="none" start_char="1059" end_char="1077">author="Salem_cool"</TOKEN>
+<TOKEN id="token-35-3" pos="unknown" morph="none" start_char="1079" end_char="1109">datetime="2015-06-16T17:30:09"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-36" start_char="1111" end_char="1121">
+<ORIGINAL_TEXT>这红果果的毒菜世袭呀！</ORIGINAL_TEXT>
+<TOKEN id="token-36-0" pos="word" morph="none" start_char="1111" end_char="1120">这红果果的毒菜世袭呀</TOKEN>
+<TOKEN id="token-36-1" pos="punct" morph="none" start_char="1121" end_char="1121">！</TOKEN>
+</SEG>
+<SEG id="segment-37" start_char="1123" end_char="1129">
+<ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-37-0" pos="unknown" morph="none" start_char="1123" end_char="1129">&lt;/post&gt;</TOKEN>
+</SEG>
+<SEG id="segment-38" start_char="1131" end_char="1195">
+<ORIGINAL_TEXT>&lt;post id="p11" author="giga_fans" datetime="2015-06-16T17:42:25"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-38-0" pos="unknown" morph="none" start_char="1131" end_char="1135">&lt;post</TOKEN>
+<TOKEN id="token-38-1" pos="unknown" morph="none" start_char="1137" end_char="1144">id="p11"</TOKEN>
+<TOKEN id="token-38-2" pos="unknown" morph="none" start_char="1146" end_char="1163">author="giga_fans"</TOKEN>
+<TOKEN id="token-38-3" pos="unknown" morph="none" start_char="1165" end_char="1195">datetime="2015-06-16T17:42:25"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-39" start_char="1197" end_char="1256">
+<ORIGINAL_TEXT>是呀，应该按照神州封建制度的“回避”。老爹参加过选举，儿子就不准参加选举。更不准选民投票给这厮，这样才能显示“民主”吗！</ORIGINAL_TEXT>
+<TOKEN id="token-39-0" pos="unknown" morph="none" start_char="1197" end_char="1256">是呀，应该按照神州封建制度的“回避”。老爹参加过选举，儿子就不准参加选举。更不准选民投票给这厮，这样才能显示“民主”吗！</TOKEN>
+</SEG>
+<SEG id="segment-40" start_char="1258" end_char="1264">
+<ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-40-0" pos="unknown" morph="none" start_char="1258" end_char="1264">&lt;/post&gt;</TOKEN>
+</SEG>
+<SEG id="segment-41" start_char="1266" end_char="1326">
+<ORIGINAL_TEXT>&lt;post id="p12" author="孤峰对明月" datetime="2015-06-16T17:48:19"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-41-0" pos="unknown" morph="none" start_char="1266" end_char="1270">&lt;post</TOKEN>
+<TOKEN id="token-41-1" pos="unknown" morph="none" start_char="1272" end_char="1279">id="p12"</TOKEN>
+<TOKEN id="token-41-2" pos="unknown" morph="none" start_char="1281" end_char="1294">author="孤峰对明月"</TOKEN>
+<TOKEN id="token-41-3" pos="unknown" morph="none" start_char="1296" end_char="1326">datetime="2015-06-16T17:48:19"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-42" start_char="1328" end_char="1339">
+<ORIGINAL_TEXT>其实关键点是战场，呵呵，</ORIGINAL_TEXT>
+<TOKEN id="token-42-0" pos="word" morph="none" start_char="1328" end_char="1335">其实关键点是战场</TOKEN>
+<TOKEN id="token-42-1" pos="punct" morph="none" start_char="1336" end_char="1336">，</TOKEN>
+<TOKEN id="token-42-2" pos="word" morph="none" start_char="1337" end_char="1338">呵呵</TOKEN>
+<TOKEN id="token-42-3" pos="punct" morph="none" start_char="1339" end_char="1339">，</TOKEN>
+</SEG>
+<SEG id="segment-43" start_char="1341" end_char="1347">
+<ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-43-0" pos="unknown" morph="none" start_char="1341" end_char="1347">&lt;/post&gt;</TOKEN>
+</SEG>
+<SEG id="segment-44" start_char="1349" end_char="1410">
+<ORIGINAL_TEXT>&lt;post id="p13" author="公猪精蝇他爹" datetime="2015-06-16T20:36:53"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-44-0" pos="unknown" morph="none" start_char="1349" end_char="1353">&lt;post</TOKEN>
+<TOKEN id="token-44-1" pos="unknown" morph="none" start_char="1355" end_char="1362">id="p13"</TOKEN>
+<TOKEN id="token-44-2" pos="unknown" morph="none" start_char="1364" end_char="1378">author="公猪精蝇他爹"</TOKEN>
+<TOKEN id="token-44-3" pos="unknown" morph="none" start_char="1380" end_char="1410">datetime="2015-06-16T20:36:53"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-45" start_char="1412" end_char="1438">
+<ORIGINAL_TEXT>&lt;quote orig_author="眼镜的崛起"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-45-0" pos="unknown" morph="none" start_char="1412" end_char="1417">&lt;quote</TOKEN>
+<TOKEN id="token-45-1" pos="unknown" morph="none" start_char="1419" end_char="1438">orig_author="眼镜的崛起"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-46" start_char="1440" end_char="1451">
+<ORIGINAL_TEXT>地板好脏，坐等人来洗地。</ORIGINAL_TEXT>
+<TOKEN id="token-46-0" pos="word" morph="none" start_char="1440" end_char="1443">地板好脏</TOKEN>
+<TOKEN id="token-46-1" pos="punct" morph="none" start_char="1444" end_char="1444">，</TOKEN>
+<TOKEN id="token-46-2" pos="word" morph="none" start_char="1445" end_char="1450">坐等人来洗地</TOKEN>
+<TOKEN id="token-46-3" pos="punct" morph="none" start_char="1451" end_char="1451">。</TOKEN>
+</SEG>
+<SEG id="segment-47" start_char="1453" end_char="1460">
+<ORIGINAL_TEXT>&lt;/quote&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-47-0" pos="unknown" morph="none" start_char="1453" end_char="1460">&lt;/quote&gt;</TOKEN>
+</SEG>
+<SEG id="segment-48" start_char="1462" end_char="1472">
+<ORIGINAL_TEXT>洗不干净了，要舔才行！</ORIGINAL_TEXT>
+<TOKEN id="token-48-0" pos="word" morph="none" start_char="1462" end_char="1466">洗不干净了</TOKEN>
+<TOKEN id="token-48-1" pos="punct" morph="none" start_char="1467" end_char="1467">，</TOKEN>
+<TOKEN id="token-48-2" pos="word" morph="none" start_char="1468" end_char="1471">要舔才行</TOKEN>
+<TOKEN id="token-48-3" pos="punct" morph="none" start_char="1472" end_char="1472">！</TOKEN>
+</SEG>
+<SEG id="segment-49" start_char="1474" end_char="1480">
+<ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-49-0" pos="unknown" morph="none" start_char="1474" end_char="1480">&lt;/post&gt;</TOKEN>
+</SEG>
+<SEG id="segment-50" start_char="1482" end_char="1541">
+<ORIGINAL_TEXT>&lt;post id="p14" author="玩命尖兵" datetime="2015-06-17T00:20:44"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-50-0" pos="unknown" morph="none" start_char="1482" end_char="1486">&lt;post</TOKEN>
+<TOKEN id="token-50-1" pos="unknown" morph="none" start_char="1488" end_char="1495">id="p14"</TOKEN>
+<TOKEN id="token-50-2" pos="unknown" morph="none" start_char="1497" end_char="1509">author="玩命尖兵"</TOKEN>
+<TOKEN id="token-50-3" pos="unknown" morph="none" start_char="1511" end_char="1541">datetime="2015-06-17T00:20:44"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-51" start_char="1543" end_char="1572">
+<ORIGINAL_TEXT>民主、共和两党开空头支票的时候又到了。哪个上来都是一个吊样！</ORIGINAL_TEXT>
+<TOKEN id="token-51-0" pos="unknown" morph="none" start_char="1543" end_char="1572">民主、共和两党开空头支票的时候又到了。哪个上来都是一个吊样！</TOKEN>
+</SEG>
+<SEG id="segment-52" start_char="1574" end_char="1580">
+<ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-52-0" pos="unknown" morph="none" start_char="1574" end_char="1580">&lt;/post&gt;</TOKEN>
+</SEG>
+<SEG id="segment-53" start_char="1582" end_char="1650">
+<ORIGINAL_TEXT>&lt;post id="p15" author="zsc1719960892" datetime="2015-06-17T01:48:02"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-53-0" pos="unknown" morph="none" start_char="1582" end_char="1586">&lt;post</TOKEN>
+<TOKEN id="token-53-1" pos="unknown" morph="none" start_char="1588" end_char="1595">id="p15"</TOKEN>
+<TOKEN id="token-53-2" pos="unknown" morph="none" start_char="1597" end_char="1618">author="zsc1719960892"</TOKEN>
+<TOKEN id="token-53-3" pos="unknown" morph="none" start_char="1620" end_char="1650">datetime="2015-06-17T01:48:02"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-54" start_char="1652" end_char="1668">
+<ORIGINAL_TEXT>霉国，民主呢？要民主不要独裁。。。</ORIGINAL_TEXT>
+<TOKEN id="token-54-0" pos="unknown" morph="none" start_char="1652" end_char="1668">霉国，民主呢？要民主不要独裁。。。</TOKEN>
+</SEG>
+<SEG id="segment-55" start_char="1670" end_char="1676">
+<ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-55-0" pos="unknown" morph="none" start_char="1670" end_char="1676">&lt;/post&gt;</TOKEN>
+</SEG>
+<SEG id="segment-56" start_char="1678" end_char="1738">
+<ORIGINAL_TEXT>&lt;post id="p16" author="先知而后觉" datetime="2015-06-17T02:17:01"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-56-0" pos="unknown" morph="none" start_char="1678" end_char="1682">&lt;post</TOKEN>
+<TOKEN id="token-56-1" pos="unknown" morph="none" start_char="1684" end_char="1691">id="p16"</TOKEN>
+<TOKEN id="token-56-2" pos="unknown" morph="none" start_char="1693" end_char="1706">author="先知而后觉"</TOKEN>
+<TOKEN id="token-56-3" pos="unknown" morph="none" start_char="1708" end_char="1738">datetime="2015-06-17T02:17:01"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-57" start_char="1740" end_char="1779">
+<ORIGINAL_TEXT>如果当选，他将重新构建美国在全球的关键友谊，与以色列开展坚定合作，还将访问古巴。</ORIGINAL_TEXT>
+<TOKEN id="token-57-0" pos="unknown" morph="none" start_char="1740" end_char="1779">如果当选，他将重新构建美国在全球的关键友谊，与以色列开展坚定合作，还将访问古巴。</TOKEN>
+</SEG>
+<SEG id="segment-58" start_char="1781" end_char="1808">
+<ORIGINAL_TEXT>特么这才是重点.木有犹太资本财团支持你能当总统才是见鬼了</ORIGINAL_TEXT>
+<TOKEN id="token-58-0" pos="word" morph="none" start_char="1781" end_char="1787">特么这才是重点</TOKEN>
+<TOKEN id="token-58-1" pos="punct" morph="none" start_char="1788" end_char="1788">.</TOKEN>
+<TOKEN id="token-58-2" pos="word" morph="none" start_char="1789" end_char="1808">木有犹太资本财团支持你能当总统才是见鬼了</TOKEN>
+</SEG>
+<SEG id="segment-59" start_char="1810" end_char="1816">
+<ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-59-0" pos="unknown" morph="none" start_char="1810" end_char="1816">&lt;/post&gt;</TOKEN>
+</SEG>
+<SEG id="segment-60" start_char="1818" end_char="1879">
+<ORIGINAL_TEXT>&lt;post id="p17" author="捏谁啊111" datetime="2015-06-17T02:45:25"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-60-0" pos="unknown" morph="none" start_char="1818" end_char="1822">&lt;post</TOKEN>
+<TOKEN id="token-60-1" pos="unknown" morph="none" start_char="1824" end_char="1831">id="p17"</TOKEN>
+<TOKEN id="token-60-2" pos="unknown" morph="none" start_char="1833" end_char="1847">author="捏谁啊111"</TOKEN>
+<TOKEN id="token-60-3" pos="unknown" morph="none" start_char="1849" end_char="1879">datetime="2015-06-17T02:45:25"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-61" start_char="1881" end_char="1898">
+<ORIGINAL_TEXT>瞎翻译，Jeb=杰布？？明明是错误的</ORIGINAL_TEXT>
+<TOKEN id="token-61-0" pos="unknown" morph="none" start_char="1881" end_char="1898">瞎翻译，Jeb=杰布？？明明是错误的</TOKEN>
+</SEG>
+<SEG id="segment-62" start_char="1900" end_char="1906">
+<ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-62-0" pos="unknown" morph="none" start_char="1900" end_char="1906">&lt;/post&gt;</TOKEN>
+</SEG>
+<SEG id="segment-63" start_char="1908" end_char="1968">
+<ORIGINAL_TEXT>&lt;post id="p18" author="4312a" datetime="2015-06-17T03:06:12"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-63-0" pos="unknown" morph="none" start_char="1908" end_char="1912">&lt;post</TOKEN>
+<TOKEN id="token-63-1" pos="unknown" morph="none" start_char="1914" end_char="1921">id="p18"</TOKEN>
+<TOKEN id="token-63-2" pos="unknown" morph="none" start_char="1923" end_char="1936">author="4312a"</TOKEN>
+<TOKEN id="token-63-3" pos="unknown" morph="none" start_char="1938" end_char="1968">datetime="2015-06-17T03:06:12"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-64" start_char="1970" end_char="2006">
+<ORIGINAL_TEXT>军火公司的代言人，老子打一场，哥哥打一场，弟弟当上总统不知道在哪里打一场？</ORIGINAL_TEXT>
+<TOKEN id="token-64-0" pos="unknown" morph="none" start_char="1970" end_char="2006">军火公司的代言人，老子打一场，哥哥打一场，弟弟当上总统不知道在哪里打一场？</TOKEN>
+</SEG>
+<SEG id="segment-65" start_char="2008" end_char="2014">
+<ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-65-0" pos="unknown" morph="none" start_char="2008" end_char="2014">&lt;/post&gt;</TOKEN>
+</SEG>
+<SEG id="segment-66" start_char="2016" end_char="2075">
+<ORIGINAL_TEXT>&lt;post id="p19" author="机械帝国" datetime="2015-06-17T03:13:33"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-66-0" pos="unknown" morph="none" start_char="2016" end_char="2020">&lt;post</TOKEN>
+<TOKEN id="token-66-1" pos="unknown" morph="none" start_char="2022" end_char="2029">id="p19"</TOKEN>
+<TOKEN id="token-66-2" pos="unknown" morph="none" start_char="2031" end_char="2043">author="机械帝国"</TOKEN>
+<TOKEN id="token-66-3" pos="unknown" morph="none" start_char="2045" end_char="2075">datetime="2015-06-17T03:13:33"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-67" start_char="2077" end_char="2108">
+<ORIGINAL_TEXT>下注下注！猜猜这是总统大选谁会赢？是克林顿1.5还是布什3.0？</ORIGINAL_TEXT>
+<TOKEN id="token-67-0" pos="unknown" morph="none" start_char="2077" end_char="2108">下注下注！猜猜这是总统大选谁会赢？是克林顿1.5还是布什3.0？</TOKEN>
+</SEG>
+<SEG id="segment-68" start_char="2110" end_char="2137">
+<ORIGINAL_TEXT>茶叶蛋，方便面，韭黄，腐竹，睡衣，速冻水饺，二手电脑……</ORIGINAL_TEXT>
+<TOKEN id="token-68-0" pos="unknown" morph="none" start_char="2110" end_char="2137">茶叶蛋，方便面，韭黄，腐竹，睡衣，速冻水饺，二手电脑……</TOKEN>
+</SEG>
+<SEG id="segment-69" start_char="2139" end_char="2145">
+<ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-69-0" pos="unknown" morph="none" start_char="2139" end_char="2145">&lt;/post&gt;</TOKEN>
+</SEG>
+<SEG id="segment-70" start_char="2147" end_char="2210">
+<ORIGINAL_TEXT>&lt;post id="p20" author="janeson1" datetime="2015-06-17T04:20:19"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-70-0" pos="unknown" morph="none" start_char="2147" end_char="2151">&lt;post</TOKEN>
+<TOKEN id="token-70-1" pos="unknown" morph="none" start_char="2153" end_char="2160">id="p20"</TOKEN>
+<TOKEN id="token-70-2" pos="unknown" morph="none" start_char="2162" end_char="2178">author="janeson1"</TOKEN>
+<TOKEN id="token-70-3" pos="unknown" morph="none" start_char="2180" end_char="2210">datetime="2015-06-17T04:20:19"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-71" start_char="2212" end_char="2250">
+<ORIGINAL_TEXT>我对布什家族相当有好感啊 把美国注意力带进了阿富汗和伊拉克 中国迎来了黄金十年</ORIGINAL_TEXT>
+<TOKEN id="token-71-0" pos="word" morph="none" start_char="2212" end_char="2223">我对布什家族相当有好感啊</TOKEN>
+<TOKEN id="token-71-1" pos="word" morph="none" start_char="2225" end_char="2240">把美国注意力带进了阿富汗和伊拉克</TOKEN>
+<TOKEN id="token-71-2" pos="word" morph="none" start_char="2242" end_char="2250">中国迎来了黄金十年</TOKEN>
+</SEG>
+<SEG id="segment-72" start_char="2252" end_char="2268">
+<ORIGINAL_TEXT>希望布什3号继续发挥优秀的带沟技能</ORIGINAL_TEXT>
+<TOKEN id="token-72-0" pos="word" morph="none" start_char="2252" end_char="2268">希望布什3号继续发挥优秀的带沟技能</TOKEN>
+</SEG>
+<SEG id="segment-73" start_char="2270" end_char="2276">
+<ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-73-0" pos="unknown" morph="none" start_char="2270" end_char="2276">&lt;/post&gt;</TOKEN>
+</SEG>
+<SEG id="segment-74" start_char="2278" end_char="2335">
+<ORIGINAL_TEXT>&lt;post id="p21" author="嘉琳" datetime="2015-06-17T04:56:16"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-74-0" pos="unknown" morph="none" start_char="2278" end_char="2282">&lt;post</TOKEN>
+<TOKEN id="token-74-1" pos="unknown" morph="none" start_char="2284" end_char="2291">id="p21"</TOKEN>
+<TOKEN id="token-74-2" pos="unknown" morph="none" start_char="2293" end_char="2303">author="嘉琳"</TOKEN>
+<TOKEN id="token-74-3" pos="unknown" morph="none" start_char="2305" end_char="2335">datetime="2015-06-17T04:56:16"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-75" start_char="2337" end_char="2350">
+<ORIGINAL_TEXT>标题是说美国世袭制吗？挺好！</ORIGINAL_TEXT>
+<TOKEN id="token-75-0" pos="word" morph="none" start_char="2337" end_char="2346">标题是说美国世袭制吗</TOKEN>
+<TOKEN id="token-75-1" pos="punct" morph="none" start_char="2347" end_char="2347">？</TOKEN>
+<TOKEN id="token-75-2" pos="word" morph="none" start_char="2348" end_char="2349">挺好</TOKEN>
+<TOKEN id="token-75-3" pos="punct" morph="none" start_char="2350" end_char="2350">！</TOKEN>
+</SEG>
+<SEG id="segment-76" start_char="2352" end_char="2358">
+<ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-76-0" pos="unknown" morph="none" start_char="2352" end_char="2358">&lt;/post&gt;</TOKEN>
+</SEG>
+<SEG id="segment-77" start_char="2360" end_char="2421">
+<ORIGINAL_TEXT>&lt;post id="p22" author="金卡尔马克思" datetime="2015-06-17T12:36:05"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-77-0" pos="unknown" morph="none" start_char="2360" end_char="2364">&lt;post</TOKEN>
+<TOKEN id="token-77-1" pos="unknown" morph="none" start_char="2366" end_char="2373">id="p22"</TOKEN>
+<TOKEN id="token-77-2" pos="unknown" morph="none" start_char="2375" end_char="2389">author="金卡尔马克思"</TOKEN>
+<TOKEN id="token-77-3" pos="unknown" morph="none" start_char="2391" end_char="2421">datetime="2015-06-17T12:36:05"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-78" start_char="2423" end_char="2448">
+<ORIGINAL_TEXT>&lt;quote orig_author="机械帝国"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-78-0" pos="unknown" morph="none" start_char="2423" end_char="2428">&lt;quote</TOKEN>
+<TOKEN id="token-78-1" pos="unknown" morph="none" start_char="2430" end_char="2448">orig_author="机械帝国"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-79" start_char="2450" end_char="2481">
+<ORIGINAL_TEXT>下注下注！猜猜这是总统大选谁会赢？是克林顿1.5还是布什3.0？</ORIGINAL_TEXT>
+<TOKEN id="token-79-0" pos="unknown" morph="none" start_char="2450" end_char="2481">下注下注！猜猜这是总统大选谁会赢？是克林顿1.5还是布什3.0？</TOKEN>
+</SEG>
+<SEG id="segment-80" start_char="2483" end_char="2510">
+<ORIGINAL_TEXT>茶叶蛋，方便面，韭黄，腐竹，睡衣，速冻水饺，二手电脑……</ORIGINAL_TEXT>
+<TOKEN id="token-80-0" pos="unknown" morph="none" start_char="2483" end_char="2510">茶叶蛋，方便面，韭黄，腐竹，睡衣，速冻水饺，二手电脑……</TOKEN>
+</SEG>
+<SEG id="segment-81" start_char="2512" end_char="2519">
+<ORIGINAL_TEXT>&lt;/quote&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-81-0" pos="unknown" morph="none" start_char="2512" end_char="2519">&lt;/quote&gt;</TOKEN>
+</SEG>
+<SEG id="segment-82" start_char="2521" end_char="2525">
+<ORIGINAL_TEXT>我压个弯弯</ORIGINAL_TEXT>
+<TOKEN id="token-82-0" pos="word" morph="none" start_char="2521" end_char="2525">我压个弯弯</TOKEN>
+</SEG>
+<SEG id="segment-83" start_char="2527" end_char="2533">
+<ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-83-0" pos="unknown" morph="none" start_char="2527" end_char="2533">&lt;/post&gt;</TOKEN>
+</SEG>
+<SEG id="segment-84" start_char="2535" end_char="2593">
+<ORIGINAL_TEXT>&lt;post id="p23" author="商小弦" datetime="2015-06-17T12:45:06"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-84-0" pos="unknown" morph="none" start_char="2535" end_char="2539">&lt;post</TOKEN>
+<TOKEN id="token-84-1" pos="unknown" morph="none" start_char="2541" end_char="2548">id="p23"</TOKEN>
+<TOKEN id="token-84-2" pos="unknown" morph="none" start_char="2550" end_char="2561">author="商小弦"</TOKEN>
+<TOKEN id="token-84-3" pos="unknown" morph="none" start_char="2563" end_char="2593">datetime="2015-06-17T12:45:06"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-85" start_char="2595" end_char="2646">
+<ORIGINAL_TEXT>不行，这长相当个文官还可以，当手握霸权的老大，还不够。 当然要是美国人瞎了最好，这样中国的阻力会小许多。</ORIGINAL_TEXT>
+<TOKEN id="token-85-0" pos="unknown" morph="none" start_char="2595" end_char="2621">不行，这长相当个文官还可以，当手握霸权的老大，还不够。</TOKEN>
+<TOKEN id="token-85-1" pos="word" morph="none" start_char="2623" end_char="2633">当然要是美国人瞎了最好</TOKEN>
+<TOKEN id="token-85-2" pos="punct" morph="none" start_char="2634" end_char="2634">，</TOKEN>
+<TOKEN id="token-85-3" pos="word" morph="none" start_char="2635" end_char="2645">这样中国的阻力会小许多</TOKEN>
+<TOKEN id="token-85-4" pos="punct" morph="none" start_char="2646" end_char="2646">。</TOKEN>
+</SEG>
+<SEG id="segment-86" start_char="2648" end_char="2654">
+<ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-86-0" pos="unknown" morph="none" start_char="2648" end_char="2654">&lt;/post&gt;</TOKEN>
+</SEG>
+<SEG id="segment-87" start_char="2656" end_char="2714">
+<ORIGINAL_TEXT>&lt;post id="p24" author="搞搞神" datetime="2015-06-17T12:55:20"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-87-0" pos="unknown" morph="none" start_char="2656" end_char="2660">&lt;post</TOKEN>
+<TOKEN id="token-87-1" pos="unknown" morph="none" start_char="2662" end_char="2669">id="p24"</TOKEN>
+<TOKEN id="token-87-2" pos="unknown" morph="none" start_char="2671" end_char="2682">author="搞搞神"</TOKEN>
+<TOKEN id="token-87-3" pos="unknown" morph="none" start_char="2684" end_char="2714">datetime="2015-06-17T12:55:20"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-88" start_char="2716" end_char="2730">
+<ORIGINAL_TEXT>这尼玛赶上袁家四世三公的节奏了</ORIGINAL_TEXT>
+<TOKEN id="token-88-0" pos="word" morph="none" start_char="2716" end_char="2730">这尼玛赶上袁家四世三公的节奏了</TOKEN>
+</SEG>
+<SEG id="segment-89" start_char="2732" end_char="2738">
+<ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-89-0" pos="unknown" morph="none" start_char="2732" end_char="2738">&lt;/post&gt;</TOKEN>
+</SEG>
+<SEG id="segment-90" start_char="2740" end_char="2805">
+<ORIGINAL_TEXT>&lt;post id="p25" author="guiyunyiqu" datetime="2015-06-17T13:13:20"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-90-0" pos="unknown" morph="none" start_char="2740" end_char="2744">&lt;post</TOKEN>
+<TOKEN id="token-90-1" pos="unknown" morph="none" start_char="2746" end_char="2753">id="p25"</TOKEN>
+<TOKEN id="token-90-2" pos="unknown" morph="none" start_char="2755" end_char="2773">author="guiyunyiqu"</TOKEN>
+<TOKEN id="token-90-3" pos="unknown" morph="none" start_char="2775" end_char="2805">datetime="2015-06-17T13:13:20"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-91" start_char="2807" end_char="2818">
+<ORIGINAL_TEXT>二世三总统……美国袁家啊</ORIGINAL_TEXT>
+<TOKEN id="token-91-0" pos="word" morph="none" start_char="2807" end_char="2811">二世三总统</TOKEN>
+<TOKEN id="token-91-1" pos="punct" morph="none" start_char="2812" end_char="2813">……</TOKEN>
+<TOKEN id="token-91-2" pos="word" morph="none" start_char="2814" end_char="2818">美国袁家啊</TOKEN>
+</SEG>
+<SEG id="segment-92" start_char="2820" end_char="2826">
+<ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-92-0" pos="unknown" morph="none" start_char="2820" end_char="2826">&lt;/post&gt;</TOKEN>
+</SEG>
+<SEG id="segment-93" start_char="2828" end_char="2893">
+<ORIGINAL_TEXT>&lt;post id="p26" author="guiyunyiqu" datetime="2015-06-17T13:13:47"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-93-0" pos="unknown" morph="none" start_char="2828" end_char="2832">&lt;post</TOKEN>
+<TOKEN id="token-93-1" pos="unknown" morph="none" start_char="2834" end_char="2841">id="p26"</TOKEN>
+<TOKEN id="token-93-2" pos="unknown" morph="none" start_char="2843" end_char="2861">author="guiyunyiqu"</TOKEN>
+<TOKEN id="token-93-3" pos="unknown" morph="none" start_char="2863" end_char="2893">datetime="2015-06-17T13:13:47"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-94" start_char="2895" end_char="2921">
+<ORIGINAL_TEXT>&lt;quote orig_author="4312a"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-94-0" pos="unknown" morph="none" start_char="2895" end_char="2900">&lt;quote</TOKEN>
+<TOKEN id="token-94-1" pos="unknown" morph="none" start_char="2902" end_char="2921">orig_author="4312a"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-95" start_char="2923" end_char="2959">
+<ORIGINAL_TEXT>军火公司的代言人，老子打一场，哥哥打一场，弟弟当上总统不知道在哪里打一场？</ORIGINAL_TEXT>
+<TOKEN id="token-95-0" pos="unknown" morph="none" start_char="2923" end_char="2959">军火公司的代言人，老子打一场，哥哥打一场，弟弟当上总统不知道在哪里打一场？</TOKEN>
+</SEG>
+<SEG id="segment-96" start_char="2961" end_char="2968">
+<ORIGINAL_TEXT>&lt;/quote&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-96-0" pos="unknown" morph="none" start_char="2961" end_char="2968">&lt;/quote&gt;</TOKEN>
+</SEG>
+<SEG id="segment-97" start_char="2970" end_char="2972">
+<ORIGINAL_TEXT>叙利亚</ORIGINAL_TEXT>
+<TOKEN id="token-97-0" pos="word" morph="none" start_char="2970" end_char="2972">叙利亚</TOKEN>
+</SEG>
+<SEG id="segment-98" start_char="2974" end_char="2980">
+<ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-98-0" pos="unknown" morph="none" start_char="2974" end_char="2980">&lt;/post&gt;</TOKEN>
+</SEG>
+<SEG id="segment-99" start_char="2982" end_char="3044">
+<ORIGINAL_TEXT>&lt;post id="p27" author="猫身猫眼瞄妙訬" datetime="2015-06-17T13:28:51"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-99-0" pos="unknown" morph="none" start_char="2982" end_char="2986">&lt;post</TOKEN>
+<TOKEN id="token-99-1" pos="unknown" morph="none" start_char="2988" end_char="2995">id="p27"</TOKEN>
+<TOKEN id="token-99-2" pos="unknown" morph="none" start_char="2997" end_char="3012">author="猫身猫眼瞄妙訬"</TOKEN>
+<TOKEN id="token-99-3" pos="unknown" morph="none" start_char="3014" end_char="3044">datetime="2015-06-17T13:28:51"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-100" start_char="3046" end_char="3081">
+<ORIGINAL_TEXT>你哥叫"小不死"，弟弟叫"胖不死"。当然不同了。你们的巴巴叫"老不死"。</ORIGINAL_TEXT>
+<TOKEN id="token-100-0" pos="unknown" morph="none" start_char="3046" end_char="3081">你哥叫"小不死"，弟弟叫"胖不死"。当然不同了。你们的巴巴叫"老不死"。</TOKEN>
+</SEG>
+<SEG id="segment-101" start_char="3083" end_char="3089">
+<ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-101-0" pos="unknown" morph="none" start_char="3083" end_char="3089">&lt;/post&gt;</TOKEN>
+</SEG>
+<SEG id="segment-102" start_char="3091" end_char="3149">
+<ORIGINAL_TEXT>&lt;post id="p28" author="南流江" datetime="2015-06-17T14:07:43"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-102-0" pos="unknown" morph="none" start_char="3091" end_char="3095">&lt;post</TOKEN>
+<TOKEN id="token-102-1" pos="unknown" morph="none" start_char="3097" end_char="3104">id="p28"</TOKEN>
+<TOKEN id="token-102-2" pos="unknown" morph="none" start_char="3106" end_char="3117">author="南流江"</TOKEN>
+<TOKEN id="token-102-3" pos="unknown" morph="none" start_char="3119" end_char="3149">datetime="2015-06-17T14:07:43"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-103" start_char="3151" end_char="3166">
+<ORIGINAL_TEXT>那些民主人士来说说什么叫独裁吧。</ORIGINAL_TEXT>
+<TOKEN id="token-103-0" pos="word" morph="none" start_char="3151" end_char="3165">那些民主人士来说说什么叫独裁吧</TOKEN>
+<TOKEN id="token-103-1" pos="punct" morph="none" start_char="3166" end_char="3166">。</TOKEN>
+</SEG>
+<SEG id="segment-104" start_char="3168" end_char="3174">
+<ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-104-0" pos="unknown" morph="none" start_char="3168" end_char="3174">&lt;/post&gt;</TOKEN>
+</SEG>
+<SEG id="segment-105" start_char="3176" end_char="3238">
+<ORIGINAL_TEXT>&lt;post id="p29" author="yingean" datetime="2015-06-17T15:26:44"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-105-0" pos="unknown" morph="none" start_char="3176" end_char="3180">&lt;post</TOKEN>
+<TOKEN id="token-105-1" pos="unknown" morph="none" start_char="3182" end_char="3189">id="p29"</TOKEN>
+<TOKEN id="token-105-2" pos="unknown" morph="none" start_char="3191" end_char="3206">author="yingean"</TOKEN>
+<TOKEN id="token-105-3" pos="unknown" morph="none" start_char="3208" end_char="3238">datetime="2015-06-17T15:26:44"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-106" start_char="3240" end_char="3248">
+<ORIGINAL_TEXT>王侯将相宁有种乎？</ORIGINAL_TEXT>
+<TOKEN id="token-106-0" pos="word" morph="none" start_char="3240" end_char="3247">王侯将相宁有种乎</TOKEN>
+<TOKEN id="token-106-1" pos="punct" morph="none" start_char="3248" end_char="3248">？</TOKEN>
+</SEG>
+<SEG id="segment-107" start_char="3250" end_char="3256">
+<ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-107-0" pos="unknown" morph="none" start_char="3250" end_char="3256">&lt;/post&gt;</TOKEN>
+</SEG>
+<SEG id="segment-108" start_char="3258" end_char="3320">
+<ORIGINAL_TEXT>&lt;post id="p30" author="zxy7401" datetime="2015-06-17T16:18:26"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-108-0" pos="unknown" morph="none" start_char="3258" end_char="3262">&lt;post</TOKEN>
+<TOKEN id="token-108-1" pos="unknown" morph="none" start_char="3264" end_char="3271">id="p30"</TOKEN>
+<TOKEN id="token-108-2" pos="unknown" morph="none" start_char="3273" end_char="3288">author="zxy7401"</TOKEN>
+<TOKEN id="token-108-3" pos="unknown" morph="none" start_char="3290" end_char="3320">datetime="2015-06-17T16:18:26"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-109" start_char="3322" end_char="3351">
+<ORIGINAL_TEXT>别的不说，仅从长相看比希拉里好多了， 希拉里一看就是个刁人。</ORIGINAL_TEXT>
+<TOKEN id="token-109-0" pos="word" morph="none" start_char="3322" end_char="3325">别的不说</TOKEN>
+<TOKEN id="token-109-1" pos="punct" morph="none" start_char="3326" end_char="3326">，</TOKEN>
+<TOKEN id="token-109-2" pos="word" morph="none" start_char="3327" end_char="3338">仅从长相看比希拉里好多了</TOKEN>
+<TOKEN id="token-109-3" pos="punct" morph="none" start_char="3339" end_char="3339">，</TOKEN>
+<TOKEN id="token-109-4" pos="word" morph="none" start_char="3341" end_char="3350">希拉里一看就是个刁人</TOKEN>
+<TOKEN id="token-109-5" pos="punct" morph="none" start_char="3351" end_char="3351">。</TOKEN>
+</SEG>
+<SEG id="segment-110" start_char="3353" end_char="3359">
+<ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-110-0" pos="unknown" morph="none" start_char="3353" end_char="3359">&lt;/post&gt;</TOKEN>
+</SEG>
+<SEG id="segment-111" start_char="3361" end_char="3366">
+<ORIGINAL_TEXT>&lt;/doc&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-111-0" pos="unknown" morph="none" start_char="3361" end_char="3366">&lt;/doc&gt;</TOKEN>
+</SEG>
+</TEXT>
+</DOC>
+</LCTL_TEXT>

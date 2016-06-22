@@ -1,0 +1,836 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE LCTL_TEXT SYSTEM "ltf.v1.5.dtd">
+<LCTL_TEXT>
+<DOC id="CMN_DF_000191_20150603_F0010009X.df.xml" tokenization="tokenization_parameters" grammar="none" raw_text_char_length="4401" raw_text_md5="37b533742fa1e0aad5400640d5801931">
+<TEXT>
+<SEG id="segment-0" start_char="0" end_char="37">
+<ORIGINAL_TEXT>&lt;?xml version="1.0" encoding="utf-8"?&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-0-0" pos="unknown" morph="none" start_char="0" end_char="4">&lt;?xml</TOKEN>
+<TOKEN id="token-0-1" pos="unknown" morph="none" start_char="6" end_char="18">version="1.0"</TOKEN>
+<TOKEN id="token-0-2" pos="unknown" morph="none" start_char="20" end_char="37">encoding="utf-8"?&gt;</TOKEN>
+</SEG>
+<SEG id="segment-1" start_char="39" end_char="81">
+<ORIGINAL_TEXT>&lt;doc id="CMN_DF_000191_20150603_F0010009X"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-1-0" pos="unknown" morph="none" start_char="39" end_char="42">&lt;doc</TOKEN>
+<TOKEN id="token-1-1" pos="unknown" morph="none" start_char="44" end_char="81">id="CMN_DF_000191_20150603_F0010009X"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-2" start_char="83" end_char="92">
+<ORIGINAL_TEXT>&lt;headline&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-2-0" pos="unknown" morph="none" start_char="83" end_char="92">&lt;headline&gt;</TOKEN>
+</SEG>
+<SEG id="segment-3" start_char="94" end_char="106">
+<ORIGINAL_TEXT>美国为何能对国际足联下手？</ORIGINAL_TEXT>
+<TOKEN id="token-3-0" pos="word" morph="none" start_char="94" end_char="105">美国为何能对国际足联下手</TOKEN>
+<TOKEN id="token-3-1" pos="punct" morph="none" start_char="106" end_char="106">？</TOKEN>
+</SEG>
+<SEG id="segment-4" start_char="108" end_char="118">
+<ORIGINAL_TEXT>&lt;/headline&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-4-0" pos="unknown" morph="none" start_char="108" end_char="118">&lt;/headline&gt;</TOKEN>
+</SEG>
+<SEG id="segment-5" start_char="120" end_char="178">
+<ORIGINAL_TEXT>&lt;post id="p1" author="云南蝈蝈" datetime="2015-06-03T18:27:16"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-5-0" pos="unknown" morph="none" start_char="120" end_char="124">&lt;post</TOKEN>
+<TOKEN id="token-5-1" pos="unknown" morph="none" start_char="126" end_char="132">id="p1"</TOKEN>
+<TOKEN id="token-5-2" pos="unknown" morph="none" start_char="134" end_char="146">author="云南蝈蝈"</TOKEN>
+<TOKEN id="token-5-3" pos="unknown" morph="none" start_char="148" end_char="178">datetime="2015-06-03T18:27:16"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-6" start_char="180" end_char="237">
+<ORIGINAL_TEXT>http://news.xinhuanet.com/world/2015-06/03/c_127873722.htm</ORIGINAL_TEXT>
+<TOKEN id="token-6-0" pos="url" morph="none" start_char="180" end_char="237">http://news.xinhuanet.com/world/2015-06/03/c_127873722.htm</TOKEN>
+</SEG>
+<SEG id="segment-7" start_char="239" end_char="245">
+<ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-7-0" pos="unknown" morph="none" start_char="239" end_char="245">&lt;/post&gt;</TOKEN>
+</SEG>
+<SEG id="segment-8" start_char="247" end_char="303">
+<ORIGINAL_TEXT>&lt;post id="p2" author="沙田" datetime="2015-06-03T18:31:22"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-8-0" pos="unknown" morph="none" start_char="247" end_char="251">&lt;post</TOKEN>
+<TOKEN id="token-8-1" pos="unknown" morph="none" start_char="253" end_char="259">id="p2"</TOKEN>
+<TOKEN id="token-8-2" pos="unknown" morph="none" start_char="261" end_char="271">author="沙田"</TOKEN>
+<TOKEN id="token-8-3" pos="unknown" morph="none" start_char="273" end_char="303">datetime="2015-06-03T18:31:22"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-9" start_char="305" end_char="318">
+<ORIGINAL_TEXT>美国缺钱，这次可以罚一大笔钱</ORIGINAL_TEXT>
+<TOKEN id="token-9-0" pos="word" morph="none" start_char="305" end_char="308">美国缺钱</TOKEN>
+<TOKEN id="token-9-1" pos="punct" morph="none" start_char="309" end_char="309">，</TOKEN>
+<TOKEN id="token-9-2" pos="word" morph="none" start_char="310" end_char="318">这次可以罚一大笔钱</TOKEN>
+</SEG>
+<SEG id="segment-10" start_char="320" end_char="326">
+<ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-10-0" pos="unknown" morph="none" start_char="320" end_char="326">&lt;/post&gt;</TOKEN>
+</SEG>
+<SEG id="segment-11" start_char="328" end_char="387">
+<ORIGINAL_TEXT>&lt;post id="p3" author="狩luck" datetime="2015-06-03T18:38:57"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-11-0" pos="unknown" morph="none" start_char="328" end_char="332">&lt;post</TOKEN>
+<TOKEN id="token-11-1" pos="unknown" morph="none" start_char="334" end_char="340">id="p3"</TOKEN>
+<TOKEN id="token-11-2" pos="unknown" morph="none" start_char="342" end_char="355">author="狩luck"</TOKEN>
+<TOKEN id="token-11-3" pos="unknown" morph="none" start_char="357" end_char="387">datetime="2015-06-03T18:38:57"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-12" start_char="389" end_char="401">
+<ORIGINAL_TEXT>看看18年世界杯什么情况？</ORIGINAL_TEXT>
+<TOKEN id="token-12-0" pos="word" morph="none" start_char="389" end_char="400">看看18年世界杯什么情况</TOKEN>
+<TOKEN id="token-12-1" pos="punct" morph="none" start_char="401" end_char="401">？</TOKEN>
+</SEG>
+<SEG id="segment-13" start_char="403" end_char="409">
+<ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-13-0" pos="unknown" morph="none" start_char="403" end_char="409">&lt;/post&gt;</TOKEN>
+</SEG>
+<SEG id="segment-14" start_char="411" end_char="472">
+<ORIGINAL_TEXT>&lt;post id="p4" author="3395609" datetime="2015-06-03T19:50:46"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-14-0" pos="unknown" morph="none" start_char="411" end_char="415">&lt;post</TOKEN>
+<TOKEN id="token-14-1" pos="unknown" morph="none" start_char="417" end_char="423">id="p4"</TOKEN>
+<TOKEN id="token-14-2" pos="unknown" morph="none" start_char="425" end_char="440">author="3395609"</TOKEN>
+<TOKEN id="token-14-3" pos="unknown" morph="none" start_char="442" end_char="472">datetime="2015-06-03T19:50:46"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-15" start_char="474" end_char="492">
+<ORIGINAL_TEXT>别的不行了，也只能干干这个，大家说是吧</ORIGINAL_TEXT>
+<TOKEN id="token-15-0" pos="unknown" morph="none" start_char="474" end_char="492">别的不行了，也只能干干这个，大家说是吧</TOKEN>
+</SEG>
+<SEG id="segment-16" start_char="494" end_char="500">
+<ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-16-0" pos="unknown" morph="none" start_char="494" end_char="500">&lt;/post&gt;</TOKEN>
+</SEG>
+<SEG id="segment-17" start_char="502" end_char="560">
+<ORIGINAL_TEXT>&lt;post id="p5" author="田间62" datetime="2015-06-03T20:26:16"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-17-0" pos="unknown" morph="none" start_char="502" end_char="506">&lt;post</TOKEN>
+<TOKEN id="token-17-1" pos="unknown" morph="none" start_char="508" end_char="514">id="p5"</TOKEN>
+<TOKEN id="token-17-2" pos="unknown" morph="none" start_char="516" end_char="528">author="田间62"</TOKEN>
+<TOKEN id="token-17-3" pos="unknown" morph="none" start_char="530" end_char="560">datetime="2015-06-03T20:26:16"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-18" start_char="562" end_char="640">
+<ORIGINAL_TEXT>重立世界警察威风，看世界谁有我的拳头硬；另外借反腐，炒作2018俄罗斯世界杯主办权来路不正当，挤兑一下俄罗斯，再次离间一下俄欧关系。欧洲国家开始嚷嚷着抵制了。</ORIGINAL_TEXT>
+<TOKEN id="token-18-0" pos="unknown" morph="none" start_char="562" end_char="640">重立世界警察威风，看世界谁有我的拳头硬；另外借反腐，炒作2018俄罗斯世界杯主办权来路不正当，挤兑一下俄罗斯，再次离间一下俄欧关系。欧洲国家开始嚷嚷着抵制了。</TOKEN>
+</SEG>
+<SEG id="segment-19" start_char="642" end_char="648">
+<ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-19-0" pos="unknown" morph="none" start_char="642" end_char="648">&lt;/post&gt;</TOKEN>
+</SEG>
+<SEG id="segment-20" start_char="650" end_char="708">
+<ORIGINAL_TEXT>&lt;post id="p6" author="鹰翔中华" datetime="2015-06-03T20:54:37"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-20-0" pos="unknown" morph="none" start_char="650" end_char="654">&lt;post</TOKEN>
+<TOKEN id="token-20-1" pos="unknown" morph="none" start_char="656" end_char="662">id="p6"</TOKEN>
+<TOKEN id="token-20-2" pos="unknown" morph="none" start_char="664" end_char="676">author="鹰翔中华"</TOKEN>
+<TOKEN id="token-20-3" pos="unknown" morph="none" start_char="678" end_char="708">datetime="2015-06-03T20:54:37"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-21" start_char="710" end_char="720">
+<ORIGINAL_TEXT>啥玩意！没他不管的。 </ORIGINAL_TEXT>
+<TOKEN id="token-21-0" pos="word" morph="none" start_char="710" end_char="712">啥玩意</TOKEN>
+<TOKEN id="token-21-1" pos="punct" morph="none" start_char="713" end_char="713">！</TOKEN>
+<TOKEN id="token-21-2" pos="word" morph="none" start_char="714" end_char="718">没他不管的</TOKEN>
+<TOKEN id="token-21-3" pos="punct" morph="none" start_char="719" end_char="719">。</TOKEN>
+</SEG>
+<SEG id="segment-22" start_char="723" end_char="727">
+<ORIGINAL_TEXT>哈哈哈哈啥</ORIGINAL_TEXT>
+<TOKEN id="token-22-0" pos="word" morph="none" start_char="723" end_char="727">哈哈哈哈啥</TOKEN>
+</SEG>
+<SEG id="segment-23" start_char="729" end_char="735">
+<ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-23-0" pos="unknown" morph="none" start_char="729" end_char="735">&lt;/post&gt;</TOKEN>
+</SEG>
+<SEG id="segment-24" start_char="737" end_char="798">
+<ORIGINAL_TEXT>&lt;post id="p7" author="teawine" datetime="2015-06-03T21:24:52"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-24-0" pos="unknown" morph="none" start_char="737" end_char="741">&lt;post</TOKEN>
+<TOKEN id="token-24-1" pos="unknown" morph="none" start_char="743" end_char="749">id="p7"</TOKEN>
+<TOKEN id="token-24-2" pos="unknown" morph="none" start_char="751" end_char="766">author="teawine"</TOKEN>
+<TOKEN id="token-24-3" pos="unknown" morph="none" start_char="768" end_char="798">datetime="2015-06-03T21:24:52"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-25" start_char="800" end_char="822">
+<ORIGINAL_TEXT>打铁还要自身硬，苍蝇不叮无缝的蛋。 &amp;#13;</ORIGINAL_TEXT>
+<TOKEN id="token-25-0" pos="word" morph="none" start_char="800" end_char="806">打铁还要自身硬</TOKEN>
+<TOKEN id="token-25-1" pos="punct" morph="none" start_char="807" end_char="807">，</TOKEN>
+<TOKEN id="token-25-2" pos="word" morph="none" start_char="808" end_char="815">苍蝇不叮无缝的蛋</TOKEN>
+<TOKEN id="token-25-3" pos="punct" morph="none" start_char="816" end_char="816">。</TOKEN>
+<TOKEN id="token-25-4" pos="punct" morph="none" start_char="818" end_char="819">&amp;#</TOKEN>
+<TOKEN id="token-25-5" pos="word" morph="none" start_char="820" end_char="821">13</TOKEN>
+<TOKEN id="token-25-6" pos="punct" morph="none" start_char="822" end_char="822">;</TOKEN>
+</SEG>
+<SEG id="segment-26" start_char="825" end_char="871">
+<ORIGINAL_TEXT>国际足联官员自己肯定是不干净的，人家米帝早就掌握了，只不过是在需要的时候出手而已。 &amp;#13;</ORIGINAL_TEXT>
+<TOKEN id="token-26-0" pos="unknown" morph="none" start_char="825" end_char="865">国际足联官员自己肯定是不干净的，人家米帝早就掌握了，只不过是在需要的时候出手而已。</TOKEN>
+<TOKEN id="token-26-1" pos="punct" morph="none" start_char="867" end_char="868">&amp;#</TOKEN>
+<TOKEN id="token-26-2" pos="word" morph="none" start_char="869" end_char="870">13</TOKEN>
+<TOKEN id="token-26-3" pos="punct" morph="none" start_char="871" end_char="871">;</TOKEN>
+</SEG>
+<SEG id="segment-27" start_char="874" end_char="909">
+<ORIGINAL_TEXT>不过布拉特也够硬，先强行获选连任，然后辞职，给米帝一个反击。 &amp;#13;</ORIGINAL_TEXT>
+<TOKEN id="token-27-0" pos="unknown" morph="none" start_char="874" end_char="903">不过布拉特也够硬，先强行获选连任，然后辞职，给米帝一个反击。</TOKEN>
+<TOKEN id="token-27-1" pos="punct" morph="none" start_char="905" end_char="906">&amp;#</TOKEN>
+<TOKEN id="token-27-2" pos="word" morph="none" start_char="907" end_char="908">13</TOKEN>
+<TOKEN id="token-27-3" pos="punct" morph="none" start_char="909" end_char="909">;</TOKEN>
+</SEG>
+<SEG id="segment-28" start_char="912" end_char="927">
+<ORIGINAL_TEXT>这或许也是美欧角力的一个环节吧。</ORIGINAL_TEXT>
+<TOKEN id="token-28-0" pos="word" morph="none" start_char="912" end_char="926">这或许也是美欧角力的一个环节吧</TOKEN>
+<TOKEN id="token-28-1" pos="punct" morph="none" start_char="927" end_char="927">。</TOKEN>
+</SEG>
+<SEG id="segment-29" start_char="929" end_char="935">
+<ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-29-0" pos="unknown" morph="none" start_char="929" end_char="935">&lt;/post&gt;</TOKEN>
+</SEG>
+<SEG id="segment-30" start_char="937" end_char="998">
+<ORIGINAL_TEXT>&lt;post id="p8" author="goodcjh" datetime="2015-06-03T22:02:42"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-30-0" pos="unknown" morph="none" start_char="937" end_char="941">&lt;post</TOKEN>
+<TOKEN id="token-30-1" pos="unknown" morph="none" start_char="943" end_char="949">id="p8"</TOKEN>
+<TOKEN id="token-30-2" pos="unknown" morph="none" start_char="951" end_char="966">author="goodcjh"</TOKEN>
+<TOKEN id="token-30-3" pos="unknown" morph="none" start_char="968" end_char="998">datetime="2015-06-03T22:02:42"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-31" start_char="1000" end_char="1007">
+<ORIGINAL_TEXT>国际足联就是腐败</ORIGINAL_TEXT>
+<TOKEN id="token-31-0" pos="word" morph="none" start_char="1000" end_char="1007">国际足联就是腐败</TOKEN>
+</SEG>
+<SEG id="segment-32" start_char="1009" end_char="1015">
+<ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-32-0" pos="unknown" morph="none" start_char="1009" end_char="1015">&lt;/post&gt;</TOKEN>
+</SEG>
+<SEG id="segment-33" start_char="1017" end_char="1074">
+<ORIGINAL_TEXT>&lt;post id="p9" author="贫嘴夫" datetime="2015-06-03T23:09:26"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-33-0" pos="unknown" morph="none" start_char="1017" end_char="1021">&lt;post</TOKEN>
+<TOKEN id="token-33-1" pos="unknown" morph="none" start_char="1023" end_char="1029">id="p9"</TOKEN>
+<TOKEN id="token-33-2" pos="unknown" morph="none" start_char="1031" end_char="1042">author="贫嘴夫"</TOKEN>
+<TOKEN id="token-33-3" pos="unknown" morph="none" start_char="1044" end_char="1074">datetime="2015-06-03T23:09:26"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-34" start_char="1076" end_char="1104">
+<ORIGINAL_TEXT>&lt;quote orig_author="goodcjh"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-34-0" pos="unknown" morph="none" start_char="1076" end_char="1081">&lt;quote</TOKEN>
+<TOKEN id="token-34-1" pos="unknown" morph="none" start_char="1083" end_char="1104">orig_author="goodcjh"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-35" start_char="1106" end_char="1113">
+<ORIGINAL_TEXT>国际足联就是腐败</ORIGINAL_TEXT>
+<TOKEN id="token-35-0" pos="word" morph="none" start_char="1106" end_char="1113">国际足联就是腐败</TOKEN>
+</SEG>
+<SEG id="segment-36" start_char="1115" end_char="1122">
+<ORIGINAL_TEXT>&lt;/quote&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-36-0" pos="unknown" morph="none" start_char="1115" end_char="1122">&lt;/quote&gt;</TOKEN>
+</SEG>
+<SEG id="segment-37" start_char="1124" end_char="1146">
+<ORIGINAL_TEXT>人家本来就私营机构 这个和美联储的属性一样的 </ORIGINAL_TEXT>
+<TOKEN id="token-37-0" pos="word" morph="none" start_char="1124" end_char="1132">人家本来就私营机构</TOKEN>
+<TOKEN id="token-37-1" pos="word" morph="none" start_char="1134" end_char="1145">这个和美联储的属性一样的</TOKEN>
+</SEG>
+<SEG id="segment-38" start_char="1149" end_char="1178">
+<ORIGINAL_TEXT>最新看到报道 布拉特 辞职啦 最为关键是 南非出了个文件 。</ORIGINAL_TEXT>
+<TOKEN id="token-38-0" pos="word" morph="none" start_char="1149" end_char="1154">最新看到报道</TOKEN>
+<TOKEN id="token-38-1" pos="word" morph="none" start_char="1156" end_char="1158">布拉特</TOKEN>
+<TOKEN id="token-38-2" pos="word" morph="none" start_char="1160" end_char="1162">辞职啦</TOKEN>
+<TOKEN id="token-38-3" pos="word" morph="none" start_char="1164" end_char="1168">最为关键是</TOKEN>
+<TOKEN id="token-38-4" pos="word" morph="none" start_char="1170" end_char="1176">南非出了个文件</TOKEN>
+<TOKEN id="token-38-5" pos="unknown" morph="none" start_char="1178" end_char="1178">。</TOKEN>
+</SEG>
+<SEG id="segment-39" start_char="1180" end_char="1186">
+<ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-39-0" pos="unknown" morph="none" start_char="1180" end_char="1186">&lt;/post&gt;</TOKEN>
+</SEG>
+<SEG id="segment-40" start_char="1188" end_char="1250">
+<ORIGINAL_TEXT>&lt;post id="p10" author="goodcjh" datetime="2015-06-03T23:18:53"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-40-0" pos="unknown" morph="none" start_char="1188" end_char="1192">&lt;post</TOKEN>
+<TOKEN id="token-40-1" pos="unknown" morph="none" start_char="1194" end_char="1201">id="p10"</TOKEN>
+<TOKEN id="token-40-2" pos="unknown" morph="none" start_char="1203" end_char="1218">author="goodcjh"</TOKEN>
+<TOKEN id="token-40-3" pos="unknown" morph="none" start_char="1220" end_char="1250">datetime="2015-06-03T23:18:53"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-41" start_char="1252" end_char="1276">
+<ORIGINAL_TEXT>&lt;quote orig_author="贫嘴夫"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-41-0" pos="unknown" morph="none" start_char="1252" end_char="1257">&lt;quote</TOKEN>
+<TOKEN id="token-41-1" pos="unknown" morph="none" start_char="1259" end_char="1276">orig_author="贫嘴夫"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-42" start_char="1278" end_char="1306">
+<ORIGINAL_TEXT>&lt;quote orig_author="goodcjh"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-42-0" pos="unknown" morph="none" start_char="1278" end_char="1283">&lt;quote</TOKEN>
+<TOKEN id="token-42-1" pos="unknown" morph="none" start_char="1285" end_char="1306">orig_author="goodcjh"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-43" start_char="1308" end_char="1315">
+<ORIGINAL_TEXT>国际足联就是腐败</ORIGINAL_TEXT>
+<TOKEN id="token-43-0" pos="word" morph="none" start_char="1308" end_char="1315">国际足联就是腐败</TOKEN>
+</SEG>
+<SEG id="segment-44" start_char="1317" end_char="1324">
+<ORIGINAL_TEXT>&lt;/quote&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-44-0" pos="unknown" morph="none" start_char="1317" end_char="1324">&lt;/quote&gt;</TOKEN>
+</SEG>
+<SEG id="segment-45" start_char="1326" end_char="1348">
+<ORIGINAL_TEXT>人家本来就私营机构 这个和美联储的属性一样的 </ORIGINAL_TEXT>
+<TOKEN id="token-45-0" pos="word" morph="none" start_char="1326" end_char="1334">人家本来就私营机构</TOKEN>
+<TOKEN id="token-45-1" pos="word" morph="none" start_char="1336" end_char="1347">这个和美联储的属性一样的</TOKEN>
+</SEG>
+<SEG id="segment-46" start_char="1351" end_char="1380">
+<ORIGINAL_TEXT>最新看到报道 布拉特 辞职啦 最为关键是 南非出了个文件 。</ORIGINAL_TEXT>
+<TOKEN id="token-46-0" pos="word" morph="none" start_char="1351" end_char="1356">最新看到报道</TOKEN>
+<TOKEN id="token-46-1" pos="word" morph="none" start_char="1358" end_char="1360">布拉特</TOKEN>
+<TOKEN id="token-46-2" pos="word" morph="none" start_char="1362" end_char="1364">辞职啦</TOKEN>
+<TOKEN id="token-46-3" pos="word" morph="none" start_char="1366" end_char="1370">最为关键是</TOKEN>
+<TOKEN id="token-46-4" pos="word" morph="none" start_char="1372" end_char="1378">南非出了个文件</TOKEN>
+<TOKEN id="token-46-5" pos="unknown" morph="none" start_char="1380" end_char="1380">。</TOKEN>
+</SEG>
+<SEG id="segment-47" start_char="1382" end_char="1389">
+<ORIGINAL_TEXT>&lt;/quote&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-47-0" pos="unknown" morph="none" start_char="1382" end_char="1389">&lt;/quote&gt;</TOKEN>
+</SEG>
+<SEG id="segment-48" start_char="1391" end_char="1401">
+<ORIGINAL_TEXT>私营机构 也不能 腐败</ORIGINAL_TEXT>
+<TOKEN id="token-48-0" pos="word" morph="none" start_char="1391" end_char="1394">私营机构</TOKEN>
+<TOKEN id="token-48-1" pos="word" morph="none" start_char="1396" end_char="1398">也不能</TOKEN>
+<TOKEN id="token-48-2" pos="word" morph="none" start_char="1400" end_char="1401">腐败</TOKEN>
+</SEG>
+<SEG id="segment-49" start_char="1403" end_char="1409">
+<ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-49-0" pos="unknown" morph="none" start_char="1403" end_char="1409">&lt;/post&gt;</TOKEN>
+</SEG>
+<SEG id="segment-50" start_char="1411" end_char="1472">
+<ORIGINAL_TEXT>&lt;post id="p11" author="快使用打狗棒" datetime="2015-06-04T00:01:15"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-50-0" pos="unknown" morph="none" start_char="1411" end_char="1415">&lt;post</TOKEN>
+<TOKEN id="token-50-1" pos="unknown" morph="none" start_char="1417" end_char="1424">id="p11"</TOKEN>
+<TOKEN id="token-50-2" pos="unknown" morph="none" start_char="1426" end_char="1440">author="快使用打狗棒"</TOKEN>
+<TOKEN id="token-50-3" pos="unknown" morph="none" start_char="1442" end_char="1472">datetime="2015-06-04T00:01:15"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-51" start_char="1474" end_char="1478">
+<ORIGINAL_TEXT>葡萄酸了！</ORIGINAL_TEXT>
+<TOKEN id="token-51-0" pos="word" morph="none" start_char="1474" end_char="1477">葡萄酸了</TOKEN>
+<TOKEN id="token-51-1" pos="punct" morph="none" start_char="1478" end_char="1478">！</TOKEN>
+</SEG>
+<SEG id="segment-52" start_char="1480" end_char="1486">
+<ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-52-0" pos="unknown" morph="none" start_char="1480" end_char="1486">&lt;/post&gt;</TOKEN>
+</SEG>
+<SEG id="segment-53" start_char="1488" end_char="1547">
+<ORIGINAL_TEXT>&lt;post id="p12" author="云南蝈蝈" datetime="2015-06-04T02:32:44"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-53-0" pos="unknown" morph="none" start_char="1488" end_char="1492">&lt;post</TOKEN>
+<TOKEN id="token-53-1" pos="unknown" morph="none" start_char="1494" end_char="1501">id="p12"</TOKEN>
+<TOKEN id="token-53-2" pos="unknown" morph="none" start_char="1503" end_char="1515">author="云南蝈蝈"</TOKEN>
+<TOKEN id="token-53-3" pos="unknown" morph="none" start_char="1517" end_char="1547">datetime="2015-06-04T02:32:44"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-54" start_char="1549" end_char="1577">
+<ORIGINAL_TEXT>&lt;quote orig_author="goodcjh"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-54-0" pos="unknown" morph="none" start_char="1549" end_char="1554">&lt;quote</TOKEN>
+<TOKEN id="token-54-1" pos="unknown" morph="none" start_char="1556" end_char="1577">orig_author="goodcjh"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-55" start_char="1579" end_char="1603">
+<ORIGINAL_TEXT>&lt;quote orig_author="贫嘴夫"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-55-0" pos="unknown" morph="none" start_char="1579" end_char="1584">&lt;quote</TOKEN>
+<TOKEN id="token-55-1" pos="unknown" morph="none" start_char="1586" end_char="1603">orig_author="贫嘴夫"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-56" start_char="1605" end_char="1633">
+<ORIGINAL_TEXT>&lt;quote orig_author="goodcjh"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-56-0" pos="unknown" morph="none" start_char="1605" end_char="1610">&lt;quote</TOKEN>
+<TOKEN id="token-56-1" pos="unknown" morph="none" start_char="1612" end_char="1633">orig_author="goodcjh"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-57" start_char="1635" end_char="1642">
+<ORIGINAL_TEXT>国际足联就是腐败</ORIGINAL_TEXT>
+<TOKEN id="token-57-0" pos="word" morph="none" start_char="1635" end_char="1642">国际足联就是腐败</TOKEN>
+</SEG>
+<SEG id="segment-58" start_char="1644" end_char="1651">
+<ORIGINAL_TEXT>&lt;/quote&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-58-0" pos="unknown" morph="none" start_char="1644" end_char="1651">&lt;/quote&gt;</TOKEN>
+</SEG>
+<SEG id="segment-59" start_char="1653" end_char="1675">
+<ORIGINAL_TEXT>人家本来就私营机构 这个和美联储的属性一样的 </ORIGINAL_TEXT>
+<TOKEN id="token-59-0" pos="word" morph="none" start_char="1653" end_char="1661">人家本来就私营机构</TOKEN>
+<TOKEN id="token-59-1" pos="word" morph="none" start_char="1663" end_char="1674">这个和美联储的属性一样的</TOKEN>
+</SEG>
+<SEG id="segment-60" start_char="1678" end_char="1707">
+<ORIGINAL_TEXT>最新看到报道 布拉特 辞职啦 最为关键是 南非出了个文件 。</ORIGINAL_TEXT>
+<TOKEN id="token-60-0" pos="word" morph="none" start_char="1678" end_char="1683">最新看到报道</TOKEN>
+<TOKEN id="token-60-1" pos="word" morph="none" start_char="1685" end_char="1687">布拉特</TOKEN>
+<TOKEN id="token-60-2" pos="word" morph="none" start_char="1689" end_char="1691">辞职啦</TOKEN>
+<TOKEN id="token-60-3" pos="word" morph="none" start_char="1693" end_char="1697">最为关键是</TOKEN>
+<TOKEN id="token-60-4" pos="word" morph="none" start_char="1699" end_char="1705">南非出了个文件</TOKEN>
+<TOKEN id="token-60-5" pos="unknown" morph="none" start_char="1707" end_char="1707">。</TOKEN>
+</SEG>
+<SEG id="segment-61" start_char="1709" end_char="1716">
+<ORIGINAL_TEXT>&lt;/quote&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-61-0" pos="unknown" morph="none" start_char="1709" end_char="1716">&lt;/quote&gt;</TOKEN>
+</SEG>
+<SEG id="segment-62" start_char="1718" end_char="1728">
+<ORIGINAL_TEXT>私营机构 也不能 腐败</ORIGINAL_TEXT>
+<TOKEN id="token-62-0" pos="word" morph="none" start_char="1718" end_char="1721">私营机构</TOKEN>
+<TOKEN id="token-62-1" pos="word" morph="none" start_char="1723" end_char="1725">也不能</TOKEN>
+<TOKEN id="token-62-2" pos="word" morph="none" start_char="1727" end_char="1728">腐败</TOKEN>
+</SEG>
+<SEG id="segment-63" start_char="1730" end_char="1737">
+<ORIGINAL_TEXT>&lt;/quote&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-63-0" pos="unknown" morph="none" start_char="1730" end_char="1737">&lt;/quote&gt;</TOKEN>
+</SEG>
+<SEG id="segment-64" start_char="1739" end_char="1749">
+<ORIGINAL_TEXT>腐败也轮不到美国来查啊</ORIGINAL_TEXT>
+<TOKEN id="token-64-0" pos="word" morph="none" start_char="1739" end_char="1749">腐败也轮不到美国来查啊</TOKEN>
+</SEG>
+<SEG id="segment-65" start_char="1751" end_char="1757">
+<ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-65-0" pos="unknown" morph="none" start_char="1751" end_char="1757">&lt;/post&gt;</TOKEN>
+</SEG>
+<SEG id="segment-66" start_char="1759" end_char="1818">
+<ORIGINAL_TEXT>&lt;post id="p13" author="正淫菌籽" datetime="2015-06-04T13:14:36"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-66-0" pos="unknown" morph="none" start_char="1759" end_char="1763">&lt;post</TOKEN>
+<TOKEN id="token-66-1" pos="unknown" morph="none" start_char="1765" end_char="1772">id="p13"</TOKEN>
+<TOKEN id="token-66-2" pos="unknown" morph="none" start_char="1774" end_char="1786">author="正淫菌籽"</TOKEN>
+<TOKEN id="token-66-3" pos="unknown" morph="none" start_char="1788" end_char="1818">datetime="2015-06-04T13:14:36"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-67" start_char="1820" end_char="1826">
+<ORIGINAL_TEXT>&lt;quote&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-67-0" pos="unknown" morph="none" start_char="1820" end_char="1826">&lt;quote&gt;</TOKEN>
+</SEG>
+<SEG id="segment-68" start_char="1828" end_char="1849">
+<ORIGINAL_TEXT>(The quote is deleted)</ORIGINAL_TEXT>
+<TOKEN id="token-68-0" pos="punct" morph="none" start_char="1828" end_char="1828">(</TOKEN>
+<TOKEN id="token-68-1" pos="word" morph="none" start_char="1829" end_char="1831">The</TOKEN>
+<TOKEN id="token-68-2" pos="word" morph="none" start_char="1833" end_char="1837">quote</TOKEN>
+<TOKEN id="token-68-3" pos="word" morph="none" start_char="1839" end_char="1840">is</TOKEN>
+<TOKEN id="token-68-4" pos="word" morph="none" start_char="1842" end_char="1848">deleted</TOKEN>
+<TOKEN id="token-68-5" pos="punct" morph="none" start_char="1849" end_char="1849">)</TOKEN>
+</SEG>
+<SEG id="segment-69" start_char="1851" end_char="1858">
+<ORIGINAL_TEXT>&lt;/quote&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-69-0" pos="unknown" morph="none" start_char="1851" end_char="1858">&lt;/quote&gt;</TOKEN>
+</SEG>
+<SEG id="segment-70" start_char="1860" end_char="1884">
+<ORIGINAL_TEXT>他的意思应该是无论是公营还是私营都不是腐败的借口吧</ORIGINAL_TEXT>
+<TOKEN id="token-70-0" pos="word" morph="none" start_char="1860" end_char="1884">他的意思应该是无论是公营还是私营都不是腐败的借口吧</TOKEN>
+</SEG>
+<SEG id="segment-71" start_char="1886" end_char="1892">
+<ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-71-0" pos="unknown" morph="none" start_char="1886" end_char="1892">&lt;/post&gt;</TOKEN>
+</SEG>
+<SEG id="segment-72" start_char="1894" end_char="1952">
+<ORIGINAL_TEXT>&lt;post id="p14" author="铁肚皮" datetime="2015-06-04T13:31:03"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-72-0" pos="unknown" morph="none" start_char="1894" end_char="1898">&lt;post</TOKEN>
+<TOKEN id="token-72-1" pos="unknown" morph="none" start_char="1900" end_char="1907">id="p14"</TOKEN>
+<TOKEN id="token-72-2" pos="unknown" morph="none" start_char="1909" end_char="1920">author="铁肚皮"</TOKEN>
+<TOKEN id="token-72-3" pos="unknown" morph="none" start_char="1922" end_char="1952">datetime="2015-06-04T13:31:03"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-73" start_char="1954" end_char="1979">
+<ORIGINAL_TEXT>&lt;quote orig_author="云南蝈蝈"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-73-0" pos="unknown" morph="none" start_char="1954" end_char="1959">&lt;quote</TOKEN>
+<TOKEN id="token-73-1" pos="unknown" morph="none" start_char="1961" end_char="1979">orig_author="云南蝈蝈"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-74" start_char="1981" end_char="2009">
+<ORIGINAL_TEXT>&lt;quote orig_author="goodcjh"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-74-0" pos="unknown" morph="none" start_char="1981" end_char="1986">&lt;quote</TOKEN>
+<TOKEN id="token-74-1" pos="unknown" morph="none" start_char="1988" end_char="2009">orig_author="goodcjh"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-75" start_char="2011" end_char="2035">
+<ORIGINAL_TEXT>&lt;quote orig_author="贫嘴夫"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-75-0" pos="unknown" morph="none" start_char="2011" end_char="2016">&lt;quote</TOKEN>
+<TOKEN id="token-75-1" pos="unknown" morph="none" start_char="2018" end_char="2035">orig_author="贫嘴夫"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-76" start_char="2037" end_char="2065">
+<ORIGINAL_TEXT>&lt;quote orig_author="goodcjh"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-76-0" pos="unknown" morph="none" start_char="2037" end_char="2042">&lt;quote</TOKEN>
+<TOKEN id="token-76-1" pos="unknown" morph="none" start_char="2044" end_char="2065">orig_author="goodcjh"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-77" start_char="2067" end_char="2074">
+<ORIGINAL_TEXT>国际足联就是腐败</ORIGINAL_TEXT>
+<TOKEN id="token-77-0" pos="word" morph="none" start_char="2067" end_char="2074">国际足联就是腐败</TOKEN>
+</SEG>
+<SEG id="segment-78" start_char="2076" end_char="2083">
+<ORIGINAL_TEXT>&lt;/quote&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-78-0" pos="unknown" morph="none" start_char="2076" end_char="2083">&lt;/quote&gt;</TOKEN>
+</SEG>
+<SEG id="segment-79" start_char="2085" end_char="2107">
+<ORIGINAL_TEXT>人家本来就私营机构 这个和美联储的属性一样的 </ORIGINAL_TEXT>
+<TOKEN id="token-79-0" pos="word" morph="none" start_char="2085" end_char="2093">人家本来就私营机构</TOKEN>
+<TOKEN id="token-79-1" pos="word" morph="none" start_char="2095" end_char="2106">这个和美联储的属性一样的</TOKEN>
+</SEG>
+<SEG id="segment-80" start_char="2110" end_char="2139">
+<ORIGINAL_TEXT>最新看到报道 布拉特 辞职啦 最为关键是 南非出了个文件 。</ORIGINAL_TEXT>
+<TOKEN id="token-80-0" pos="word" morph="none" start_char="2110" end_char="2115">最新看到报道</TOKEN>
+<TOKEN id="token-80-1" pos="word" morph="none" start_char="2117" end_char="2119">布拉特</TOKEN>
+<TOKEN id="token-80-2" pos="word" morph="none" start_char="2121" end_char="2123">辞职啦</TOKEN>
+<TOKEN id="token-80-3" pos="word" morph="none" start_char="2125" end_char="2129">最为关键是</TOKEN>
+<TOKEN id="token-80-4" pos="word" morph="none" start_char="2131" end_char="2137">南非出了个文件</TOKEN>
+<TOKEN id="token-80-5" pos="unknown" morph="none" start_char="2139" end_char="2139">。</TOKEN>
+</SEG>
+<SEG id="segment-81" start_char="2141" end_char="2148">
+<ORIGINAL_TEXT>&lt;/quote&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-81-0" pos="unknown" morph="none" start_char="2141" end_char="2148">&lt;/quote&gt;</TOKEN>
+</SEG>
+<SEG id="segment-82" start_char="2150" end_char="2160">
+<ORIGINAL_TEXT>私营机构 也不能 腐败</ORIGINAL_TEXT>
+<TOKEN id="token-82-0" pos="word" morph="none" start_char="2150" end_char="2153">私营机构</TOKEN>
+<TOKEN id="token-82-1" pos="word" morph="none" start_char="2155" end_char="2157">也不能</TOKEN>
+<TOKEN id="token-82-2" pos="word" morph="none" start_char="2159" end_char="2160">腐败</TOKEN>
+</SEG>
+<SEG id="segment-83" start_char="2162" end_char="2169">
+<ORIGINAL_TEXT>&lt;/quote&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-83-0" pos="unknown" morph="none" start_char="2162" end_char="2169">&lt;/quote&gt;</TOKEN>
+</SEG>
+<SEG id="segment-84" start_char="2171" end_char="2181">
+<ORIGINAL_TEXT>腐败也轮不到美国来查啊</ORIGINAL_TEXT>
+<TOKEN id="token-84-0" pos="word" morph="none" start_char="2171" end_char="2181">腐败也轮不到美国来查啊</TOKEN>
+</SEG>
+<SEG id="segment-85" start_char="2183" end_char="2190">
+<ORIGINAL_TEXT>&lt;/quote&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-85-0" pos="unknown" morph="none" start_char="2183" end_char="2190">&lt;/quote&gt;</TOKEN>
+</SEG>
+<SEG id="segment-86" start_char="2192" end_char="2319">
+<ORIGINAL_TEXT>奥巴马同志送给中国的又一份大礼。开始我以为至少要20年美国才能玩死自已，现在我看十到十五年就够了。且不说这件事是不是太霸道。对于美国金融机构来简直就是自杀。其实所谓的金融交易有几个是干净的？正所谓当犯规成为了一种习惯那么处罚仅仅就是一种打击对手的手段了。 </ORIGINAL_TEXT>
+<TOKEN id="token-86-0" pos="unknown" morph="none" start_char="2192" end_char="2318">奥巴马同志送给中国的又一份大礼。开始我以为至少要20年美国才能玩死自已，现在我看十到十五年就够了。且不说这件事是不是太霸道。对于美国金融机构来简直就是自杀。其实所谓的金融交易有几个是干净的？正所谓当犯规成为了一种习惯那么处罚仅仅就是一种打击对手的手段了。</TOKEN>
+</SEG>
+<SEG id="segment-87" start_char="2322" end_char="2395">
+<ORIGINAL_TEXT>以后人们会认为，我靠，但凡从美国走的钱，美国都他妈要在不高兴时整老子一下子，那以后不论什么钱，走美国时都要留个心眼了，能不从美国走，就不从美国走。 </ORIGINAL_TEXT>
+<TOKEN id="token-87-0" pos="unknown" morph="none" start_char="2322" end_char="2394">以后人们会认为，我靠，但凡从美国走的钱，美国都他妈要在不高兴时整老子一下子，那以后不论什么钱，走美国时都要留个心眼了，能不从美国走，就不从美国走。</TOKEN>
+</SEG>
+<SEG id="segment-88" start_char="2398" end_char="2465">
+<ORIGINAL_TEXT>这他妈的当年宣布冻结俄高官帐户同样愚蠢，你不高兴时就能冻人家帐户，他妈的以后贪官有了钱谁还往美国放？换成黄金和字画放家里倒是安全点儿。 </ORIGINAL_TEXT>
+<TOKEN id="token-88-0" pos="unknown" morph="none" start_char="2398" end_char="2464">这他妈的当年宣布冻结俄高官帐户同样愚蠢，你不高兴时就能冻人家帐户，他妈的以后贪官有了钱谁还往美国放？换成黄金和字画放家里倒是安全点儿。</TOKEN>
+</SEG>
+<SEG id="segment-89" start_char="2468" end_char="2476">
+<ORIGINAL_TEXT>奥黑子都是好同志。</ORIGINAL_TEXT>
+<TOKEN id="token-89-0" pos="word" morph="none" start_char="2468" end_char="2475">奥黑子都是好同志</TOKEN>
+<TOKEN id="token-89-1" pos="punct" morph="none" start_char="2476" end_char="2476">。</TOKEN>
+</SEG>
+<SEG id="segment-90" start_char="2478" end_char="2484">
+<ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-90-0" pos="unknown" morph="none" start_char="2478" end_char="2484">&lt;/post&gt;</TOKEN>
+</SEG>
+<SEG id="segment-91" start_char="2486" end_char="2545">
+<ORIGINAL_TEXT>&lt;post id="p15" author="hjh黄" datetime="2015-06-04T13:42:15"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-91-0" pos="unknown" morph="none" start_char="2486" end_char="2490">&lt;post</TOKEN>
+<TOKEN id="token-91-1" pos="unknown" morph="none" start_char="2492" end_char="2499">id="p15"</TOKEN>
+<TOKEN id="token-91-2" pos="unknown" morph="none" start_char="2501" end_char="2513">author="hjh黄"</TOKEN>
+<TOKEN id="token-91-3" pos="unknown" morph="none" start_char="2515" end_char="2545">datetime="2015-06-04T13:42:15"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-92" start_char="2547" end_char="2560">
+<ORIGINAL_TEXT>唉，国际足联和中国足球一样！</ORIGINAL_TEXT>
+<TOKEN id="token-92-0" pos="word" morph="none" start_char="2547" end_char="2547">唉</TOKEN>
+<TOKEN id="token-92-1" pos="punct" morph="none" start_char="2548" end_char="2548">，</TOKEN>
+<TOKEN id="token-92-2" pos="word" morph="none" start_char="2549" end_char="2559">国际足联和中国足球一样</TOKEN>
+<TOKEN id="token-92-3" pos="punct" morph="none" start_char="2560" end_char="2560">！</TOKEN>
+</SEG>
+<SEG id="segment-93" start_char="2562" end_char="2568">
+<ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-93-0" pos="unknown" morph="none" start_char="2562" end_char="2568">&lt;/post&gt;</TOKEN>
+</SEG>
+<SEG id="segment-94" start_char="2570" end_char="2629">
+<ORIGINAL_TEXT>&lt;post id="p16" author="枯木奉春" datetime="2015-06-04T13:49:43"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-94-0" pos="unknown" morph="none" start_char="2570" end_char="2574">&lt;post</TOKEN>
+<TOKEN id="token-94-1" pos="unknown" morph="none" start_char="2576" end_char="2583">id="p16"</TOKEN>
+<TOKEN id="token-94-2" pos="unknown" morph="none" start_char="2585" end_char="2597">author="枯木奉春"</TOKEN>
+<TOKEN id="token-94-3" pos="unknown" morph="none" start_char="2599" end_char="2629">datetime="2015-06-04T13:49:43"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-95" start_char="2631" end_char="2645">
+<ORIGINAL_TEXT>这老美，连娱乐的足球都不放过。</ORIGINAL_TEXT>
+<TOKEN id="token-95-0" pos="word" morph="none" start_char="2631" end_char="2633">这老美</TOKEN>
+<TOKEN id="token-95-1" pos="punct" morph="none" start_char="2634" end_char="2634">，</TOKEN>
+<TOKEN id="token-95-2" pos="word" morph="none" start_char="2635" end_char="2644">连娱乐的足球都不放过</TOKEN>
+<TOKEN id="token-95-3" pos="punct" morph="none" start_char="2645" end_char="2645">。</TOKEN>
+</SEG>
+<SEG id="segment-96" start_char="2647" end_char="2653">
+<ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-96-0" pos="unknown" morph="none" start_char="2647" end_char="2653">&lt;/post&gt;</TOKEN>
+</SEG>
+<SEG id="segment-97" start_char="2655" end_char="2714">
+<ORIGINAL_TEXT>&lt;post id="p17" author="就近遛弯" datetime="2015-06-04T14:08:17"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-97-0" pos="unknown" morph="none" start_char="2655" end_char="2659">&lt;post</TOKEN>
+<TOKEN id="token-97-1" pos="unknown" morph="none" start_char="2661" end_char="2668">id="p17"</TOKEN>
+<TOKEN id="token-97-2" pos="unknown" morph="none" start_char="2670" end_char="2682">author="就近遛弯"</TOKEN>
+<TOKEN id="token-97-3" pos="unknown" morph="none" start_char="2684" end_char="2714">datetime="2015-06-04T14:08:17"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-98" start_char="2716" end_char="2744">
+<ORIGINAL_TEXT>&lt;quote orig_author="goodcjh"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-98-0" pos="unknown" morph="none" start_char="2716" end_char="2721">&lt;quote</TOKEN>
+<TOKEN id="token-98-1" pos="unknown" morph="none" start_char="2723" end_char="2744">orig_author="goodcjh"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-99" start_char="2746" end_char="2770">
+<ORIGINAL_TEXT>&lt;quote orig_author="贫嘴夫"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-99-0" pos="unknown" morph="none" start_char="2746" end_char="2751">&lt;quote</TOKEN>
+<TOKEN id="token-99-1" pos="unknown" morph="none" start_char="2753" end_char="2770">orig_author="贫嘴夫"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-100" start_char="2772" end_char="2800">
+<ORIGINAL_TEXT>&lt;quote orig_author="goodcjh"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-100-0" pos="unknown" morph="none" start_char="2772" end_char="2777">&lt;quote</TOKEN>
+<TOKEN id="token-100-1" pos="unknown" morph="none" start_char="2779" end_char="2800">orig_author="goodcjh"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-101" start_char="2802" end_char="2809">
+<ORIGINAL_TEXT>国际足联就是腐败</ORIGINAL_TEXT>
+<TOKEN id="token-101-0" pos="word" morph="none" start_char="2802" end_char="2809">国际足联就是腐败</TOKEN>
+</SEG>
+<SEG id="segment-102" start_char="2811" end_char="2818">
+<ORIGINAL_TEXT>&lt;/quote&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-102-0" pos="unknown" morph="none" start_char="2811" end_char="2818">&lt;/quote&gt;</TOKEN>
+</SEG>
+<SEG id="segment-103" start_char="2820" end_char="2842">
+<ORIGINAL_TEXT>人家本来就私营机构 这个和美联储的属性一样的 </ORIGINAL_TEXT>
+<TOKEN id="token-103-0" pos="word" morph="none" start_char="2820" end_char="2828">人家本来就私营机构</TOKEN>
+<TOKEN id="token-103-1" pos="word" morph="none" start_char="2830" end_char="2841">这个和美联储的属性一样的</TOKEN>
+</SEG>
+<SEG id="segment-104" start_char="2845" end_char="2874">
+<ORIGINAL_TEXT>最新看到报道 布拉特 辞职啦 最为关键是 南非出了个文件 。</ORIGINAL_TEXT>
+<TOKEN id="token-104-0" pos="word" morph="none" start_char="2845" end_char="2850">最新看到报道</TOKEN>
+<TOKEN id="token-104-1" pos="word" morph="none" start_char="2852" end_char="2854">布拉特</TOKEN>
+<TOKEN id="token-104-2" pos="word" morph="none" start_char="2856" end_char="2858">辞职啦</TOKEN>
+<TOKEN id="token-104-3" pos="word" morph="none" start_char="2860" end_char="2864">最为关键是</TOKEN>
+<TOKEN id="token-104-4" pos="word" morph="none" start_char="2866" end_char="2872">南非出了个文件</TOKEN>
+<TOKEN id="token-104-5" pos="unknown" morph="none" start_char="2874" end_char="2874">。</TOKEN>
+</SEG>
+<SEG id="segment-105" start_char="2876" end_char="2883">
+<ORIGINAL_TEXT>&lt;/quote&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-105-0" pos="unknown" morph="none" start_char="2876" end_char="2883">&lt;/quote&gt;</TOKEN>
+</SEG>
+<SEG id="segment-106" start_char="2885" end_char="2895">
+<ORIGINAL_TEXT>私营机构 也不能 腐败</ORIGINAL_TEXT>
+<TOKEN id="token-106-0" pos="word" morph="none" start_char="2885" end_char="2888">私营机构</TOKEN>
+<TOKEN id="token-106-1" pos="word" morph="none" start_char="2890" end_char="2892">也不能</TOKEN>
+<TOKEN id="token-106-2" pos="word" morph="none" start_char="2894" end_char="2895">腐败</TOKEN>
+</SEG>
+<SEG id="segment-107" start_char="2897" end_char="2904">
+<ORIGINAL_TEXT>&lt;/quote&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-107-0" pos="unknown" morph="none" start_char="2897" end_char="2904">&lt;/quote&gt;</TOKEN>
+</SEG>
+<SEG id="segment-108" start_char="2906" end_char="2990">
+<ORIGINAL_TEXT>你以为查国际足联的米国机构就不腐败啊，说到底这就是对米国申办世界杯败北的报复罢了，现在这个局势只有利于普拉蒂尼的欧洲足联，欧洲势力可以占据上风了，说到底还是特么的权利之争</ORIGINAL_TEXT>
+<TOKEN id="token-108-0" pos="unknown" morph="none" start_char="2906" end_char="2990">你以为查国际足联的米国机构就不腐败啊，说到底这就是对米国申办世界杯败北的报复罢了，现在这个局势只有利于普拉蒂尼的欧洲足联，欧洲势力可以占据上风了，说到底还是特么的权利之争</TOKEN>
+</SEG>
+<SEG id="segment-109" start_char="2992" end_char="2998">
+<ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-109-0" pos="unknown" morph="none" start_char="2992" end_char="2998">&lt;/post&gt;</TOKEN>
+</SEG>
+<SEG id="segment-110" start_char="3000" end_char="3059">
+<ORIGINAL_TEXT>&lt;post id="p18" author="就近遛弯" datetime="2015-06-04T14:11:46"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-110-0" pos="unknown" morph="none" start_char="3000" end_char="3004">&lt;post</TOKEN>
+<TOKEN id="token-110-1" pos="unknown" morph="none" start_char="3006" end_char="3013">id="p18"</TOKEN>
+<TOKEN id="token-110-2" pos="unknown" morph="none" start_char="3015" end_char="3027">author="就近遛弯"</TOKEN>
+<TOKEN id="token-110-3" pos="unknown" morph="none" start_char="3029" end_char="3059">datetime="2015-06-04T14:11:46"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-111" start_char="3061" end_char="3087">
+<ORIGINAL_TEXT>&lt;quote orig_author="狩luck"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-111-0" pos="unknown" morph="none" start_char="3061" end_char="3066">&lt;quote</TOKEN>
+<TOKEN id="token-111-1" pos="unknown" morph="none" start_char="3068" end_char="3087">orig_author="狩luck"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-112" start_char="3089" end_char="3101">
+<ORIGINAL_TEXT>看看18年世界杯什么情况？</ORIGINAL_TEXT>
+<TOKEN id="token-112-0" pos="word" morph="none" start_char="3089" end_char="3100">看看18年世界杯什么情况</TOKEN>
+<TOKEN id="token-112-1" pos="punct" morph="none" start_char="3101" end_char="3101">？</TOKEN>
+</SEG>
+<SEG id="segment-113" start_char="3103" end_char="3110">
+<ORIGINAL_TEXT>&lt;/quote&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-113-0" pos="unknown" morph="none" start_char="3103" end_char="3110">&lt;/quote&gt;</TOKEN>
+</SEG>
+<SEG id="segment-114" start_char="3112" end_char="3174">
+<ORIGINAL_TEXT>别小看卡塔尔的钱，既然人家能用钱搞定国际足联欧洲足联拿到世界杯主办权，当然人家也能用钱搞定你米国佬，你不就是想借此多敲几个钱嘛</ORIGINAL_TEXT>
+<TOKEN id="token-114-0" pos="unknown" morph="none" start_char="3112" end_char="3174">别小看卡塔尔的钱，既然人家能用钱搞定国际足联欧洲足联拿到世界杯主办权，当然人家也能用钱搞定你米国佬，你不就是想借此多敲几个钱嘛</TOKEN>
+</SEG>
+<SEG id="segment-115" start_char="3176" end_char="3182">
+<ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-115-0" pos="unknown" morph="none" start_char="3176" end_char="3182">&lt;/post&gt;</TOKEN>
+</SEG>
+<SEG id="segment-116" start_char="3184" end_char="3243">
+<ORIGINAL_TEXT>&lt;post id="p19" author="云南蝈蝈" datetime="2015-06-04T14:12:40"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-116-0" pos="unknown" morph="none" start_char="3184" end_char="3188">&lt;post</TOKEN>
+<TOKEN id="token-116-1" pos="unknown" morph="none" start_char="3190" end_char="3197">id="p19"</TOKEN>
+<TOKEN id="token-116-2" pos="unknown" morph="none" start_char="3199" end_char="3211">author="云南蝈蝈"</TOKEN>
+<TOKEN id="token-116-3" pos="unknown" morph="none" start_char="3213" end_char="3243">datetime="2015-06-04T14:12:40"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-117" start_char="3245" end_char="3269">
+<ORIGINAL_TEXT>&lt;quote orig_author="铁肚皮"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-117-0" pos="unknown" morph="none" start_char="3245" end_char="3250">&lt;quote</TOKEN>
+<TOKEN id="token-117-1" pos="unknown" morph="none" start_char="3252" end_char="3269">orig_author="铁肚皮"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-118" start_char="3271" end_char="3296">
+<ORIGINAL_TEXT>&lt;quote orig_author="云南蝈蝈"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-118-0" pos="unknown" morph="none" start_char="3271" end_char="3276">&lt;quote</TOKEN>
+<TOKEN id="token-118-1" pos="unknown" morph="none" start_char="3278" end_char="3296">orig_author="云南蝈蝈"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-119" start_char="3298" end_char="3326">
+<ORIGINAL_TEXT>&lt;quote orig_author="goodcjh"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-119-0" pos="unknown" morph="none" start_char="3298" end_char="3303">&lt;quote</TOKEN>
+<TOKEN id="token-119-1" pos="unknown" morph="none" start_char="3305" end_char="3326">orig_author="goodcjh"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-120" start_char="3328" end_char="3352">
+<ORIGINAL_TEXT>&lt;quote orig_author="贫嘴夫"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-120-0" pos="unknown" morph="none" start_char="3328" end_char="3333">&lt;quote</TOKEN>
+<TOKEN id="token-120-1" pos="unknown" morph="none" start_char="3335" end_char="3352">orig_author="贫嘴夫"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-121" start_char="3354" end_char="3382">
+<ORIGINAL_TEXT>&lt;quote orig_author="goodcjh"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-121-0" pos="unknown" morph="none" start_char="3354" end_char="3359">&lt;quote</TOKEN>
+<TOKEN id="token-121-1" pos="unknown" morph="none" start_char="3361" end_char="3382">orig_author="goodcjh"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-122" start_char="3384" end_char="3391">
+<ORIGINAL_TEXT>国际足联就是腐败</ORIGINAL_TEXT>
+<TOKEN id="token-122-0" pos="word" morph="none" start_char="3384" end_char="3391">国际足联就是腐败</TOKEN>
+</SEG>
+<SEG id="segment-123" start_char="3393" end_char="3400">
+<ORIGINAL_TEXT>&lt;/quote&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-123-0" pos="unknown" morph="none" start_char="3393" end_char="3400">&lt;/quote&gt;</TOKEN>
+</SEG>
+<SEG id="segment-124" start_char="3402" end_char="3424">
+<ORIGINAL_TEXT>人家本来就私营机构 这个和美联储的属性一样的 </ORIGINAL_TEXT>
+<TOKEN id="token-124-0" pos="word" morph="none" start_char="3402" end_char="3410">人家本来就私营机构</TOKEN>
+<TOKEN id="token-124-1" pos="word" morph="none" start_char="3412" end_char="3423">这个和美联储的属性一样的</TOKEN>
+</SEG>
+<SEG id="segment-125" start_char="3427" end_char="3456">
+<ORIGINAL_TEXT>最新看到报道 布拉特 辞职啦 最为关键是 南非出了个文件 。</ORIGINAL_TEXT>
+<TOKEN id="token-125-0" pos="word" morph="none" start_char="3427" end_char="3432">最新看到报道</TOKEN>
+<TOKEN id="token-125-1" pos="word" morph="none" start_char="3434" end_char="3436">布拉特</TOKEN>
+<TOKEN id="token-125-2" pos="word" morph="none" start_char="3438" end_char="3440">辞职啦</TOKEN>
+<TOKEN id="token-125-3" pos="word" morph="none" start_char="3442" end_char="3446">最为关键是</TOKEN>
+<TOKEN id="token-125-4" pos="word" morph="none" start_char="3448" end_char="3454">南非出了个文件</TOKEN>
+<TOKEN id="token-125-5" pos="unknown" morph="none" start_char="3456" end_char="3456">。</TOKEN>
+</SEG>
+<SEG id="segment-126" start_char="3458" end_char="3465">
+<ORIGINAL_TEXT>&lt;/quote&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-126-0" pos="unknown" morph="none" start_char="3458" end_char="3465">&lt;/quote&gt;</TOKEN>
+</SEG>
+<SEG id="segment-127" start_char="3467" end_char="3477">
+<ORIGINAL_TEXT>私营机构 也不能 腐败</ORIGINAL_TEXT>
+<TOKEN id="token-127-0" pos="word" morph="none" start_char="3467" end_char="3470">私营机构</TOKEN>
+<TOKEN id="token-127-1" pos="word" morph="none" start_char="3472" end_char="3474">也不能</TOKEN>
+<TOKEN id="token-127-2" pos="word" morph="none" start_char="3476" end_char="3477">腐败</TOKEN>
+</SEG>
+<SEG id="segment-128" start_char="3479" end_char="3486">
+<ORIGINAL_TEXT>&lt;/quote&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-128-0" pos="unknown" morph="none" start_char="3479" end_char="3486">&lt;/quote&gt;</TOKEN>
+</SEG>
+<SEG id="segment-129" start_char="3488" end_char="3498">
+<ORIGINAL_TEXT>腐败也轮不到美国来查啊</ORIGINAL_TEXT>
+<TOKEN id="token-129-0" pos="word" morph="none" start_char="3488" end_char="3498">腐败也轮不到美国来查啊</TOKEN>
+</SEG>
+<SEG id="segment-130" start_char="3500" end_char="3507">
+<ORIGINAL_TEXT>&lt;/quote&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-130-0" pos="unknown" morph="none" start_char="3500" end_char="3507">&lt;/quote&gt;</TOKEN>
+</SEG>
+<SEG id="segment-131" start_char="3509" end_char="3636">
+<ORIGINAL_TEXT>奥巴马同志送给中国的又一份大礼。开始我以为至少要20年美国才能玩死自已，现在我看十到十五年就够了。且不说这件事是不是太霸道。对于美国金融机构来简直就是自杀。其实所谓的金融交易有几个是干净的？正所谓当犯规成为了一种习惯那么处罚仅仅就是一种打击对手的手段了。 </ORIGINAL_TEXT>
+<TOKEN id="token-131-0" pos="unknown" morph="none" start_char="3509" end_char="3635">奥巴马同志送给中国的又一份大礼。开始我以为至少要20年美国才能玩死自已，现在我看十到十五年就够了。且不说这件事是不是太霸道。对于美国金融机构来简直就是自杀。其实所谓的金融交易有几个是干净的？正所谓当犯规成为了一种习惯那么处罚仅仅就是一种打击对手的手段了。</TOKEN>
+</SEG>
+<SEG id="segment-132" start_char="3639" end_char="3712">
+<ORIGINAL_TEXT>以后人们会认为，我靠，但凡从美国走的钱，美国都他妈要在不高兴时整老子一下子，那以后不论什么钱，走美国时都要留个心眼了，能不从美国走，就不从美国走。 </ORIGINAL_TEXT>
+<TOKEN id="token-132-0" pos="unknown" morph="none" start_char="3639" end_char="3711">以后人们会认为，我靠，但凡从美国走的钱，美国都他妈要在不高兴时整老子一下子，那以后不论什么钱，走美国时都要留个心眼了，能不从美国走，就不从美国走。</TOKEN>
+</SEG>
+<SEG id="segment-133" start_char="3715" end_char="3782">
+<ORIGINAL_TEXT>这他妈的当年宣布冻结俄高官帐户同样愚蠢，你不高兴时就能冻人家帐户，他妈的以后贪官有了钱谁还往美国放？换成黄金和字画放家里倒是安全点儿。 </ORIGINAL_TEXT>
+<TOKEN id="token-133-0" pos="unknown" morph="none" start_char="3715" end_char="3781">这他妈的当年宣布冻结俄高官帐户同样愚蠢，你不高兴时就能冻人家帐户，他妈的以后贪官有了钱谁还往美国放？换成黄金和字画放家里倒是安全点儿。</TOKEN>
+</SEG>
+<SEG id="segment-134" start_char="3785" end_char="3793">
+<ORIGINAL_TEXT>奥黑子都是好同志。</ORIGINAL_TEXT>
+<TOKEN id="token-134-0" pos="word" morph="none" start_char="3785" end_char="3792">奥黑子都是好同志</TOKEN>
+<TOKEN id="token-134-1" pos="punct" morph="none" start_char="3793" end_char="3793">。</TOKEN>
+</SEG>
+<SEG id="segment-135" start_char="3795" end_char="3802">
+<ORIGINAL_TEXT>&lt;/quote&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-135-0" pos="unknown" morph="none" start_char="3795" end_char="3802">&lt;/quote&gt;</TOKEN>
+</SEG>
+<SEG id="segment-136" start_char="3804" end_char="3845">
+<ORIGINAL_TEXT>这个就是资本的本质决定了美国的行为方式，只要能让美国继续霸权下去，什么手段都无所谓。</ORIGINAL_TEXT>
+<TOKEN id="token-136-0" pos="unknown" morph="none" start_char="3804" end_char="3845">这个就是资本的本质决定了美国的行为方式，只要能让美国继续霸权下去，什么手段都无所谓。</TOKEN>
+</SEG>
+<SEG id="segment-137" start_char="3847" end_char="3853">
+<ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-137-0" pos="unknown" morph="none" start_char="3847" end_char="3853">&lt;/post&gt;</TOKEN>
+</SEG>
+<SEG id="segment-138" start_char="3855" end_char="3921">
+<ORIGINAL_TEXT>&lt;post id="p20" author="18677029168" datetime="2015-06-04T15:23:00"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-138-0" pos="unknown" morph="none" start_char="3855" end_char="3859">&lt;post</TOKEN>
+<TOKEN id="token-138-1" pos="unknown" morph="none" start_char="3861" end_char="3868">id="p20"</TOKEN>
+<TOKEN id="token-138-2" pos="unknown" morph="none" start_char="3870" end_char="3889">author="18677029168"</TOKEN>
+<TOKEN id="token-138-3" pos="unknown" morph="none" start_char="3891" end_char="3921">datetime="2015-06-04T15:23:00"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-139" start_char="3923" end_char="3934">
+<ORIGINAL_TEXT>霸权死亡的节奏！！！！！</ORIGINAL_TEXT>
+<TOKEN id="token-139-0" pos="word" morph="none" start_char="3923" end_char="3929">霸权死亡的节奏</TOKEN>
+<TOKEN id="token-139-1" pos="punct" morph="none" start_char="3930" end_char="3934">！！！！！</TOKEN>
+</SEG>
+<SEG id="segment-140" start_char="3936" end_char="3942">
+<ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-140-0" pos="unknown" morph="none" start_char="3936" end_char="3942">&lt;/post&gt;</TOKEN>
+</SEG>
+<SEG id="segment-141" start_char="3944" end_char="4006">
+<ORIGINAL_TEXT>&lt;post id="p21" author="美国分为50国" datetime="2015-06-04T15:29:46"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-141-0" pos="unknown" morph="none" start_char="3944" end_char="3948">&lt;post</TOKEN>
+<TOKEN id="token-141-1" pos="unknown" morph="none" start_char="3950" end_char="3957">id="p21"</TOKEN>
+<TOKEN id="token-141-2" pos="unknown" morph="none" start_char="3959" end_char="3974">author="美国分为50国"</TOKEN>
+<TOKEN id="token-141-3" pos="unknown" morph="none" start_char="3976" end_char="4006">datetime="2015-06-04T15:29:46"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-142" start_char="4008" end_char="4025">
+<ORIGINAL_TEXT>请问国际足联是中国足协的下属单位吗？</ORIGINAL_TEXT>
+<TOKEN id="token-142-0" pos="word" morph="none" start_char="4008" end_char="4024">请问国际足联是中国足协的下属单位吗</TOKEN>
+<TOKEN id="token-142-1" pos="punct" morph="none" start_char="4025" end_char="4025">？</TOKEN>
+</SEG>
+<SEG id="segment-143" start_char="4027" end_char="4033">
+<ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-143-0" pos="unknown" morph="none" start_char="4027" end_char="4033">&lt;/post&gt;</TOKEN>
+</SEG>
+<SEG id="segment-144" start_char="4035" end_char="4094">
+<ORIGINAL_TEXT>&lt;post id="p22" author="镜之边缘" datetime="2015-06-04T16:04:33"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-144-0" pos="unknown" morph="none" start_char="4035" end_char="4039">&lt;post</TOKEN>
+<TOKEN id="token-144-1" pos="unknown" morph="none" start_char="4041" end_char="4048">id="p22"</TOKEN>
+<TOKEN id="token-144-2" pos="unknown" morph="none" start_char="4050" end_char="4062">author="镜之边缘"</TOKEN>
+<TOKEN id="token-144-3" pos="unknown" morph="none" start_char="4064" end_char="4094">datetime="2015-06-04T16:04:33"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-145" start_char="4096" end_char="4121">
+<ORIGINAL_TEXT>&lt;quote orig_author="正淫菌籽"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-145-0" pos="unknown" morph="none" start_char="4096" end_char="4101">&lt;quote</TOKEN>
+<TOKEN id="token-145-1" pos="unknown" morph="none" start_char="4103" end_char="4121">orig_author="正淫菌籽"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-146" start_char="4123" end_char="4129">
+<ORIGINAL_TEXT>&lt;quote&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-146-0" pos="unknown" morph="none" start_char="4123" end_char="4129">&lt;quote&gt;</TOKEN>
+</SEG>
+<SEG id="segment-147" start_char="4131" end_char="4152">
+<ORIGINAL_TEXT>(The quote is deleted)</ORIGINAL_TEXT>
+<TOKEN id="token-147-0" pos="punct" morph="none" start_char="4131" end_char="4131">(</TOKEN>
+<TOKEN id="token-147-1" pos="word" morph="none" start_char="4132" end_char="4134">The</TOKEN>
+<TOKEN id="token-147-2" pos="word" morph="none" start_char="4136" end_char="4140">quote</TOKEN>
+<TOKEN id="token-147-3" pos="word" morph="none" start_char="4142" end_char="4143">is</TOKEN>
+<TOKEN id="token-147-4" pos="word" morph="none" start_char="4145" end_char="4151">deleted</TOKEN>
+<TOKEN id="token-147-5" pos="punct" morph="none" start_char="4152" end_char="4152">)</TOKEN>
+</SEG>
+<SEG id="segment-148" start_char="4154" end_char="4161">
+<ORIGINAL_TEXT>&lt;/quote&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-148-0" pos="unknown" morph="none" start_char="4154" end_char="4161">&lt;/quote&gt;</TOKEN>
+</SEG>
+<SEG id="segment-149" start_char="4163" end_char="4187">
+<ORIGINAL_TEXT>他的意思应该是无论是公营还是私营都不是腐败的借口吧</ORIGINAL_TEXT>
+<TOKEN id="token-149-0" pos="word" morph="none" start_char="4163" end_char="4187">他的意思应该是无论是公营还是私营都不是腐败的借口吧</TOKEN>
+</SEG>
+<SEG id="segment-150" start_char="4189" end_char="4196">
+<ORIGINAL_TEXT>&lt;/quote&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-150-0" pos="unknown" morph="none" start_char="4189" end_char="4196">&lt;/quote&gt;</TOKEN>
+</SEG>
+<SEG id="segment-151" start_char="4198" end_char="4211">
+<ORIGINAL_TEXT>你不了解那个人，我盯了他几年</ORIGINAL_TEXT>
+<TOKEN id="token-151-0" pos="word" morph="none" start_char="4198" end_char="4204">你不了解那个人</TOKEN>
+<TOKEN id="token-151-1" pos="punct" morph="none" start_char="4205" end_char="4205">，</TOKEN>
+<TOKEN id="token-151-2" pos="word" morph="none" start_char="4206" end_char="4211">我盯了他几年</TOKEN>
+</SEG>
+<SEG id="segment-152" start_char="4213" end_char="4219">
+<ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-152-0" pos="unknown" morph="none" start_char="4213" end_char="4219">&lt;/post&gt;</TOKEN>
+</SEG>
+<SEG id="segment-153" start_char="4221" end_char="4280">
+<ORIGINAL_TEXT>&lt;post id="p23" author="一丝倦意" datetime="2015-06-04T16:12:06"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-153-0" pos="unknown" morph="none" start_char="4221" end_char="4225">&lt;post</TOKEN>
+<TOKEN id="token-153-1" pos="unknown" morph="none" start_char="4227" end_char="4234">id="p23"</TOKEN>
+<TOKEN id="token-153-2" pos="unknown" morph="none" start_char="4236" end_char="4248">author="一丝倦意"</TOKEN>
+<TOKEN id="token-153-3" pos="unknown" morph="none" start_char="4250" end_char="4280">datetime="2015-06-04T16:12:06"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-154" start_char="4282" end_char="4298">
+<ORIGINAL_TEXT>美国就是强，有本事布拉特查美猪联。</ORIGINAL_TEXT>
+<TOKEN id="token-154-0" pos="word" morph="none" start_char="4282" end_char="4286">美国就是强</TOKEN>
+<TOKEN id="token-154-1" pos="punct" morph="none" start_char="4287" end_char="4287">，</TOKEN>
+<TOKEN id="token-154-2" pos="word" morph="none" start_char="4288" end_char="4297">有本事布拉特查美猪联</TOKEN>
+<TOKEN id="token-154-3" pos="punct" morph="none" start_char="4298" end_char="4298">。</TOKEN>
+</SEG>
+<SEG id="segment-155" start_char="4300" end_char="4306">
+<ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-155-0" pos="unknown" morph="none" start_char="4300" end_char="4306">&lt;/post&gt;</TOKEN>
+</SEG>
+<SEG id="segment-156" start_char="4308" end_char="4370">
+<ORIGINAL_TEXT>&lt;post id="p24" author="etforcy" datetime="2015-06-05T18:34:59"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-156-0" pos="unknown" morph="none" start_char="4308" end_char="4312">&lt;post</TOKEN>
+<TOKEN id="token-156-1" pos="unknown" morph="none" start_char="4314" end_char="4321">id="p24"</TOKEN>
+<TOKEN id="token-156-2" pos="unknown" morph="none" start_char="4323" end_char="4338">author="etforcy"</TOKEN>
+<TOKEN id="token-156-3" pos="unknown" morph="none" start_char="4340" end_char="4370">datetime="2015-06-05T18:34:59"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-157" start_char="4372" end_char="4384">
+<ORIGINAL_TEXT>因为他们有FBI还有CIA</ORIGINAL_TEXT>
+<TOKEN id="token-157-0" pos="word" morph="none" start_char="4372" end_char="4384">因为他们有FBI还有CIA</TOKEN>
+</SEG>
+<SEG id="segment-158" start_char="4386" end_char="4392">
+<ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-158-0" pos="unknown" morph="none" start_char="4386" end_char="4392">&lt;/post&gt;</TOKEN>
+</SEG>
+<SEG id="segment-159" start_char="4394" end_char="4399">
+<ORIGINAL_TEXT>&lt;/doc&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-159-0" pos="unknown" morph="none" start_char="4394" end_char="4399">&lt;/doc&gt;</TOKEN>
+</SEG>
+</TEXT>
+</DOC>
+</LCTL_TEXT>

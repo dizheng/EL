@@ -1,0 +1,469 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LCTL_TEXT>
+  <DOC id="ENG_NW_001011_20150313_F0000000B.xml" tokenization="tokenization_parameters" grammar="none" raw_text_char_length="1985" raw_text_md5="a7bf58095310e54ba4f3b681e3212194">
+    <TEXT>
+      <SEG id="segment-0" start_char="0" end_char="37">
+        <ORIGINAL_TEXT>&lt;?xml version="1.0" encoding="utf-8"?&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-0-0" pos="unknown" morph="none" start_char="0" end_char="4">&lt;?xml</TOKEN>
+        <TOKEN id="token-0-1" pos="unknown" morph="none" start_char="6" end_char="18">version="1.0"</TOKEN>
+        <TOKEN id="token-0-2" pos="unknown" morph="none" start_char="20" end_char="37">encoding="utf-8"?&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-1" start_char="39" end_char="81">
+        <ORIGINAL_TEXT>&lt;DOC id="ENG_NW_001011_20150313_F0000000B"&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-1-0" pos="unknown" morph="none" start_char="39" end_char="42">&lt;DOC</TOKEN>
+        <TOKEN id="token-1-1" pos="unknown" morph="none" start_char="44" end_char="81">id="ENG_NW_001011_20150313_F0000000B"&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-2" start_char="83" end_char="260">
+        <ORIGINAL_TEXT>&lt;SOURCE&gt;http://www.boston.com/news/local/massachusetts/2015/03/13/after-bombing-shooting-and-carjacking-dzhokhar-tsarnaev-didn-shoplift/DBcWpHCcR3NY7s8WLJDS5L/story.html&lt;/SOURCE&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-2-0" pos="unknown" morph="none" start_char="83" end_char="260">&lt;SOURCE&gt;http://www.boston.com/news/local/massachusetts/2015/03/13/after-bombing-shooting-and-carjacking-dzhokhar-tsarnaev-didn-shoplift/DBcWpHCcR3NY7s8WLJDS5L/story.html&lt;/SOURCE&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-3" start_char="262" end_char="303">
+        <ORIGINAL_TEXT>&lt;DATE_TIME&gt;2015-03-13T00:00:00&lt;/DATE_TIME&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-3-0" pos="unknown" morph="none" start_char="262" end_char="303">&lt;DATE_TIME&gt;2015-03-13T00:00:00&lt;/DATE_TIME&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-4" start_char="305" end_char="314">
+        <ORIGINAL_TEXT>&lt;HEADLINE&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-4-0" pos="unknown" morph="none" start_char="305" end_char="314">&lt;HEADLINE&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-5" start_char="316" end_char="389">
+        <ORIGINAL_TEXT>After Bombing, Shooting, and Carjacking, Dzhokhar Tsarnaev Didn’t Shoplift</ORIGINAL_TEXT>
+        <TOKEN id="token-5-0" pos="word" morph="none" start_char="316" end_char="320">After</TOKEN>
+        <TOKEN id="token-5-1" pos="word" morph="none" start_char="322" end_char="328">Bombing</TOKEN>
+        <TOKEN id="token-5-2" pos="punct" morph="none" start_char="329" end_char="329">,</TOKEN>
+        <TOKEN id="token-5-3" pos="word" morph="none" start_char="331" end_char="338">Shooting</TOKEN>
+        <TOKEN id="token-5-4" pos="punct" morph="none" start_char="339" end_char="339">,</TOKEN>
+        <TOKEN id="token-5-5" pos="word" morph="none" start_char="341" end_char="343">and</TOKEN>
+        <TOKEN id="token-5-6" pos="word" morph="none" start_char="345" end_char="354">Carjacking</TOKEN>
+        <TOKEN id="token-5-7" pos="punct" morph="none" start_char="355" end_char="355">,</TOKEN>
+        <TOKEN id="token-5-8" pos="word" morph="none" start_char="357" end_char="364">Dzhokhar</TOKEN>
+        <TOKEN id="token-5-9" pos="word" morph="none" start_char="366" end_char="373">Tsarnaev</TOKEN>
+        <TOKEN id="token-5-10" pos="word" morph="none" start_char="375" end_char="378">Didn</TOKEN>
+        <TOKEN id="token-5-11" pos="punct" morph="none" start_char="379" end_char="379">’</TOKEN>
+        <TOKEN id="token-5-12" pos="word" morph="none" start_char="380" end_char="380">t</TOKEN>
+        <TOKEN id="token-5-13" pos="word" morph="none" start_char="382" end_char="389">Shoplift</TOKEN>
+      </SEG>
+      <SEG id="segment-6" start_char="391" end_char="401">
+        <ORIGINAL_TEXT>&lt;/HEADLINE&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-6-0" pos="unknown" morph="none" start_char="391" end_char="401">&lt;/HEADLINE&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-7" start_char="403" end_char="408">
+        <ORIGINAL_TEXT>&lt;TEXT&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-7-0" pos="unknown" morph="none" start_char="403" end_char="408">&lt;TEXT&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-8" start_char="410" end_char="412">
+        <ORIGINAL_TEXT>&lt;P&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-8-0" pos="unknown" morph="none" start_char="410" end_char="412">&lt;P&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-9" start_char="414" end_char="488">
+        <ORIGINAL_TEXT>Dzhokhar Tsarnaev faces 30 charges — 17 of which include the possibility of</ORIGINAL_TEXT>
+        <TOKEN id="token-9-0" pos="word" morph="none" start_char="414" end_char="421">Dzhokhar</TOKEN>
+        <TOKEN id="token-9-1" pos="word" morph="none" start_char="423" end_char="430">Tsarnaev</TOKEN>
+        <TOKEN id="token-9-2" pos="word" morph="none" start_char="432" end_char="436">faces</TOKEN>
+        <TOKEN id="token-9-3" pos="number" morph="none" start_char="438" end_char="439">30</TOKEN>
+        <TOKEN id="token-9-4" pos="word" morph="none" start_char="441" end_char="447">charges</TOKEN>
+        <TOKEN id="token-9-5" pos="unknown" morph="none" start_char="449" end_char="449">—</TOKEN>
+        <TOKEN id="token-9-6" pos="number" morph="none" start_char="451" end_char="452">17</TOKEN>
+        <TOKEN id="token-9-7" pos="word" morph="none" start_char="454" end_char="455">of</TOKEN>
+        <TOKEN id="token-9-8" pos="word" morph="none" start_char="457" end_char="461">which</TOKEN>
+        <TOKEN id="token-9-9" pos="word" morph="none" start_char="463" end_char="469">include</TOKEN>
+        <TOKEN id="token-9-10" pos="word" morph="none" start_char="471" end_char="473">the</TOKEN>
+        <TOKEN id="token-9-11" pos="word" morph="none" start_char="475" end_char="485">possibility</TOKEN>
+        <TOKEN id="token-9-12" pos="word" morph="none" start_char="487" end_char="488">of</TOKEN>
+      </SEG>
+      <SEG id="segment-10" start_char="490" end_char="557">
+        <ORIGINAL_TEXT>the death penalty — for his role in the Boston Marathon bombings and</ORIGINAL_TEXT>
+        <TOKEN id="token-10-0" pos="word" morph="none" start_char="490" end_char="492">the</TOKEN>
+        <TOKEN id="token-10-1" pos="word" morph="none" start_char="494" end_char="498">death</TOKEN>
+        <TOKEN id="token-10-2" pos="word" morph="none" start_char="500" end_char="506">penalty</TOKEN>
+        <TOKEN id="token-10-3" pos="unknown" morph="none" start_char="508" end_char="508">—</TOKEN>
+        <TOKEN id="token-10-4" pos="word" morph="none" start_char="510" end_char="512">for</TOKEN>
+        <TOKEN id="token-10-5" pos="word" morph="none" start_char="514" end_char="516">his</TOKEN>
+        <TOKEN id="token-10-6" pos="word" morph="none" start_char="518" end_char="521">role</TOKEN>
+        <TOKEN id="token-10-7" pos="word" morph="none" start_char="523" end_char="524">in</TOKEN>
+        <TOKEN id="token-10-8" pos="word" morph="none" start_char="526" end_char="528">the</TOKEN>
+        <TOKEN id="token-10-9" pos="word" morph="none" start_char="530" end_char="535">Boston</TOKEN>
+        <TOKEN id="token-10-10" pos="word" morph="none" start_char="537" end_char="544">Marathon</TOKEN>
+        <TOKEN id="token-10-11" pos="word" morph="none" start_char="546" end_char="553">bombings</TOKEN>
+        <TOKEN id="token-10-12" pos="word" morph="none" start_char="555" end_char="557">and</TOKEN>
+      </SEG>
+      <SEG id="segment-11" start_char="559" end_char="631">
+        <ORIGINAL_TEXT>aftermath. But in a bizarre moment captured on video three days after the</ORIGINAL_TEXT>
+        <TOKEN id="token-11-0" pos="word" morph="none" start_char="559" end_char="567">aftermath</TOKEN>
+        <TOKEN id="token-11-1" pos="punct" morph="none" start_char="568" end_char="568">.</TOKEN>
+        <TOKEN id="token-11-2" pos="word" morph="none" start_char="570" end_char="572">But</TOKEN>
+        <TOKEN id="token-11-3" pos="word" morph="none" start_char="574" end_char="575">in</TOKEN>
+        <TOKEN id="token-11-4" pos="word" morph="none" start_char="577" end_char="577">a</TOKEN>
+        <TOKEN id="token-11-5" pos="word" morph="none" start_char="579" end_char="585">bizarre</TOKEN>
+        <TOKEN id="token-11-6" pos="word" morph="none" start_char="587" end_char="592">moment</TOKEN>
+        <TOKEN id="token-11-7" pos="word" morph="none" start_char="594" end_char="601">captured</TOKEN>
+        <TOKEN id="token-11-8" pos="word" morph="none" start_char="603" end_char="604">on</TOKEN>
+        <TOKEN id="token-11-9" pos="word" morph="none" start_char="606" end_char="610">video</TOKEN>
+        <TOKEN id="token-11-10" pos="word" morph="none" start_char="612" end_char="616">three</TOKEN>
+        <TOKEN id="token-11-11" pos="word" morph="none" start_char="618" end_char="621">days</TOKEN>
+        <TOKEN id="token-11-12" pos="word" morph="none" start_char="623" end_char="627">after</TOKEN>
+        <TOKEN id="token-11-13" pos="word" morph="none" start_char="629" end_char="631">the</TOKEN>
+      </SEG>
+      <SEG id="segment-12" start_char="633" end_char="702">
+        <ORIGINAL_TEXT>bombing, Dzhokhar Tsarnaev decided not to chance a shoplifting charge.</ORIGINAL_TEXT>
+        <TOKEN id="token-12-0" pos="word" morph="none" start_char="633" end_char="639">bombing</TOKEN>
+        <TOKEN id="token-12-1" pos="punct" morph="none" start_char="640" end_char="640">,</TOKEN>
+        <TOKEN id="token-12-2" pos="word" morph="none" start_char="642" end_char="649">Dzhokhar</TOKEN>
+        <TOKEN id="token-12-3" pos="word" morph="none" start_char="651" end_char="658">Tsarnaev</TOKEN>
+        <TOKEN id="token-12-4" pos="word" morph="none" start_char="660" end_char="666">decided</TOKEN>
+        <TOKEN id="token-12-5" pos="word" morph="none" start_char="668" end_char="670">not</TOKEN>
+        <TOKEN id="token-12-6" pos="word" morph="none" start_char="672" end_char="673">to</TOKEN>
+        <TOKEN id="token-12-7" pos="word" morph="none" start_char="675" end_char="680">chance</TOKEN>
+        <TOKEN id="token-12-8" pos="word" morph="none" start_char="682" end_char="682">a</TOKEN>
+        <TOKEN id="token-12-9" pos="word" morph="none" start_char="684" end_char="694">shoplifting</TOKEN>
+        <TOKEN id="token-12-10" pos="word" morph="none" start_char="696" end_char="701">charge</TOKEN>
+        <TOKEN id="token-12-11" pos="punct" morph="none" start_char="702" end_char="702">.</TOKEN>
+      </SEG>
+      <SEG id="segment-13" start_char="704" end_char="707">
+        <ORIGINAL_TEXT>&lt;/P&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-13-0" pos="unknown" morph="none" start_char="704" end_char="707">&lt;/P&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-14" start_char="709" end_char="711">
+        <ORIGINAL_TEXT>&lt;P&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-14-0" pos="unknown" morph="none" start_char="709" end_char="711">&lt;P&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-15" start_char="713" end_char="782">
+        <ORIGINAL_TEXT>Surveillance video of carjacking victim Dun Meng’s daring escape shows</ORIGINAL_TEXT>
+        <TOKEN id="token-15-0" pos="word" morph="none" start_char="713" end_char="724">Surveillance</TOKEN>
+        <TOKEN id="token-15-1" pos="word" morph="none" start_char="726" end_char="730">video</TOKEN>
+        <TOKEN id="token-15-2" pos="word" morph="none" start_char="732" end_char="733">of</TOKEN>
+        <TOKEN id="token-15-3" pos="word" morph="none" start_char="735" end_char="744">carjacking</TOKEN>
+        <TOKEN id="token-15-4" pos="word" morph="none" start_char="746" end_char="751">victim</TOKEN>
+        <TOKEN id="token-15-5" pos="word" morph="none" start_char="753" end_char="755">Dun</TOKEN>
+        <TOKEN id="token-15-6" pos="word" morph="none" start_char="757" end_char="760">Meng</TOKEN>
+        <TOKEN id="token-15-7" pos="punct" morph="none" start_char="761" end_char="761">’</TOKEN>
+        <TOKEN id="token-15-8" pos="word" morph="none" start_char="762" end_char="762">s</TOKEN>
+        <TOKEN id="token-15-9" pos="word" morph="none" start_char="764" end_char="769">daring</TOKEN>
+        <TOKEN id="token-15-10" pos="word" morph="none" start_char="771" end_char="776">escape</TOKEN>
+        <TOKEN id="token-15-11" pos="word" morph="none" start_char="778" end_char="782">shows</TOKEN>
+      </SEG>
+      <SEG id="segment-16" start_char="784" end_char="859">
+        <ORIGINAL_TEXT>Dzhokhar Tsarnaev actively deciding to turn around and return snacks that he</ORIGINAL_TEXT>
+        <TOKEN id="token-16-0" pos="word" morph="none" start_char="784" end_char="791">Dzhokhar</TOKEN>
+        <TOKEN id="token-16-1" pos="word" morph="none" start_char="793" end_char="800">Tsarnaev</TOKEN>
+        <TOKEN id="token-16-2" pos="word" morph="none" start_char="802" end_char="809">actively</TOKEN>
+        <TOKEN id="token-16-3" pos="word" morph="none" start_char="811" end_char="818">deciding</TOKEN>
+        <TOKEN id="token-16-4" pos="word" morph="none" start_char="820" end_char="821">to</TOKEN>
+        <TOKEN id="token-16-5" pos="word" morph="none" start_char="823" end_char="826">turn</TOKEN>
+        <TOKEN id="token-16-6" pos="word" morph="none" start_char="828" end_char="833">around</TOKEN>
+        <TOKEN id="token-16-7" pos="word" morph="none" start_char="835" end_char="837">and</TOKEN>
+        <TOKEN id="token-16-8" pos="word" morph="none" start_char="839" end_char="844">return</TOKEN>
+        <TOKEN id="token-16-9" pos="word" morph="none" start_char="846" end_char="851">snacks</TOKEN>
+        <TOKEN id="token-16-10" pos="word" morph="none" start_char="853" end_char="856">that</TOKEN>
+        <TOKEN id="token-16-11" pos="word" morph="none" start_char="858" end_char="859">he</TOKEN>
+      </SEG>
+      <SEG id="segment-17" start_char="861" end_char="881">
+        <ORIGINAL_TEXT>had not yet paid for.</ORIGINAL_TEXT>
+        <TOKEN id="token-17-0" pos="word" morph="none" start_char="861" end_char="863">had</TOKEN>
+        <TOKEN id="token-17-1" pos="word" morph="none" start_char="865" end_char="867">not</TOKEN>
+        <TOKEN id="token-17-2" pos="word" morph="none" start_char="869" end_char="871">yet</TOKEN>
+        <TOKEN id="token-17-3" pos="word" morph="none" start_char="873" end_char="876">paid</TOKEN>
+        <TOKEN id="token-17-4" pos="word" morph="none" start_char="878" end_char="880">for</TOKEN>
+        <TOKEN id="token-17-5" pos="punct" morph="none" start_char="881" end_char="881">.</TOKEN>
+      </SEG>
+      <SEG id="segment-18" start_char="883" end_char="886">
+        <ORIGINAL_TEXT>&lt;/P&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-18-0" pos="unknown" morph="none" start_char="883" end_char="886">&lt;/P&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-19" start_char="888" end_char="890">
+        <ORIGINAL_TEXT>&lt;P&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-19-0" pos="unknown" morph="none" start_char="888" end_char="890">&lt;P&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-20" start_char="892" end_char="968">
+        <ORIGINAL_TEXT>Meng testified on Thursday that he was kidnapped and carjacked at gunpoint by</ORIGINAL_TEXT>
+        <TOKEN id="token-20-0" pos="word" morph="none" start_char="892" end_char="895">Meng</TOKEN>
+        <TOKEN id="token-20-1" pos="word" morph="none" start_char="897" end_char="905">testified</TOKEN>
+        <TOKEN id="token-20-2" pos="word" morph="none" start_char="907" end_char="908">on</TOKEN>
+        <TOKEN id="token-20-3" pos="word" morph="none" start_char="910" end_char="917">Thursday</TOKEN>
+        <TOKEN id="token-20-4" pos="word" morph="none" start_char="919" end_char="922">that</TOKEN>
+        <TOKEN id="token-20-5" pos="word" morph="none" start_char="924" end_char="925">he</TOKEN>
+        <TOKEN id="token-20-6" pos="word" morph="none" start_char="927" end_char="929">was</TOKEN>
+        <TOKEN id="token-20-7" pos="word" morph="none" start_char="931" end_char="939">kidnapped</TOKEN>
+        <TOKEN id="token-20-8" pos="word" morph="none" start_char="941" end_char="943">and</TOKEN>
+        <TOKEN id="token-20-9" pos="word" morph="none" start_char="945" end_char="953">carjacked</TOKEN>
+        <TOKEN id="token-20-10" pos="word" morph="none" start_char="955" end_char="956">at</TOKEN>
+        <TOKEN id="token-20-11" pos="word" morph="none" start_char="958" end_char="965">gunpoint</TOKEN>
+        <TOKEN id="token-20-12" pos="word" morph="none" start_char="967" end_char="968">by</TOKEN>
+      </SEG>
+      <SEG id="segment-21" start_char="970" end_char="1038">
+        <ORIGINAL_TEXT>the brothers on the evening of April 18, 2013. With Tamerlan Tsarnaev</ORIGINAL_TEXT>
+        <TOKEN id="token-21-0" pos="word" morph="none" start_char="970" end_char="972">the</TOKEN>
+        <TOKEN id="token-21-1" pos="word" morph="none" start_char="974" end_char="981">brothers</TOKEN>
+        <TOKEN id="token-21-2" pos="word" morph="none" start_char="983" end_char="984">on</TOKEN>
+        <TOKEN id="token-21-3" pos="word" morph="none" start_char="986" end_char="988">the</TOKEN>
+        <TOKEN id="token-21-4" pos="word" morph="none" start_char="990" end_char="996">evening</TOKEN>
+        <TOKEN id="token-21-5" pos="word" morph="none" start_char="998" end_char="999">of</TOKEN>
+        <TOKEN id="token-21-6" pos="word" morph="none" start_char="1001" end_char="1005">April</TOKEN>
+        <TOKEN id="token-21-7" pos="word" morph="none" start_char="1007" end_char="1008">18</TOKEN>
+        <TOKEN id="token-21-8" pos="punct" morph="none" start_char="1009" end_char="1009">,</TOKEN>
+        <TOKEN id="token-21-9" pos="word" morph="none" start_char="1011" end_char="1014">2013</TOKEN>
+        <TOKEN id="token-21-10" pos="punct" morph="none" start_char="1015" end_char="1015">.</TOKEN>
+        <TOKEN id="token-21-11" pos="word" morph="none" start_char="1017" end_char="1020">With</TOKEN>
+        <TOKEN id="token-21-12" pos="word" morph="none" start_char="1022" end_char="1029">Tamerlan</TOKEN>
+        <TOKEN id="token-21-13" pos="word" morph="none" start_char="1031" end_char="1038">Tsarnaev</TOKEN>
+      </SEG>
+      <SEG id="segment-22" start_char="1040" end_char="1109">
+        <ORIGINAL_TEXT>distracted in the driver’s seat and Dzhokhar Tsarnaev gathering snacks</ORIGINAL_TEXT>
+        <TOKEN id="token-22-0" pos="word" morph="none" start_char="1040" end_char="1049">distracted</TOKEN>
+        <TOKEN id="token-22-1" pos="word" morph="none" start_char="1051" end_char="1052">in</TOKEN>
+        <TOKEN id="token-22-2" pos="word" morph="none" start_char="1054" end_char="1056">the</TOKEN>
+        <TOKEN id="token-22-3" pos="word" morph="none" start_char="1058" end_char="1063">driver</TOKEN>
+        <TOKEN id="token-22-4" pos="punct" morph="none" start_char="1064" end_char="1064">’</TOKEN>
+        <TOKEN id="token-22-5" pos="word" morph="none" start_char="1065" end_char="1065">s</TOKEN>
+        <TOKEN id="token-22-6" pos="word" morph="none" start_char="1067" end_char="1070">seat</TOKEN>
+        <TOKEN id="token-22-7" pos="word" morph="none" start_char="1072" end_char="1074">and</TOKEN>
+        <TOKEN id="token-22-8" pos="word" morph="none" start_char="1076" end_char="1083">Dzhokhar</TOKEN>
+        <TOKEN id="token-22-9" pos="word" morph="none" start_char="1085" end_char="1092">Tsarnaev</TOKEN>
+        <TOKEN id="token-22-10" pos="word" morph="none" start_char="1094" end_char="1102">gathering</TOKEN>
+        <TOKEN id="token-22-11" pos="word" morph="none" start_char="1104" end_char="1109">snacks</TOKEN>
+      </SEG>
+      <SEG id="segment-23" start_char="1111" end_char="1181">
+        <ORIGINAL_TEXT>inside a gas station, Meng scrambled to flee the vehicle and make it to</ORIGINAL_TEXT>
+        <TOKEN id="token-23-0" pos="word" morph="none" start_char="1111" end_char="1116">inside</TOKEN>
+        <TOKEN id="token-23-1" pos="word" morph="none" start_char="1118" end_char="1118">a</TOKEN>
+        <TOKEN id="token-23-2" pos="word" morph="none" start_char="1120" end_char="1122">gas</TOKEN>
+        <TOKEN id="token-23-3" pos="word" morph="none" start_char="1124" end_char="1130">station</TOKEN>
+        <TOKEN id="token-23-4" pos="punct" morph="none" start_char="1131" end_char="1131">,</TOKEN>
+        <TOKEN id="token-23-5" pos="word" morph="none" start_char="1133" end_char="1136">Meng</TOKEN>
+        <TOKEN id="token-23-6" pos="word" morph="none" start_char="1138" end_char="1146">scrambled</TOKEN>
+        <TOKEN id="token-23-7" pos="word" morph="none" start_char="1148" end_char="1149">to</TOKEN>
+        <TOKEN id="token-23-8" pos="word" morph="none" start_char="1151" end_char="1154">flee</TOKEN>
+        <TOKEN id="token-23-9" pos="word" morph="none" start_char="1156" end_char="1158">the</TOKEN>
+        <TOKEN id="token-23-10" pos="word" morph="none" start_char="1160" end_char="1166">vehicle</TOKEN>
+        <TOKEN id="token-23-11" pos="word" morph="none" start_char="1168" end_char="1170">and</TOKEN>
+        <TOKEN id="token-23-12" pos="word" morph="none" start_char="1172" end_char="1175">make</TOKEN>
+        <TOKEN id="token-23-13" pos="word" morph="none" start_char="1177" end_char="1178">it</TOKEN>
+        <TOKEN id="token-23-14" pos="word" morph="none" start_char="1180" end_char="1181">to</TOKEN>
+      </SEG>
+      <SEG id="segment-24" start_char="1183" end_char="1189">
+        <ORIGINAL_TEXT>safety.</ORIGINAL_TEXT>
+        <TOKEN id="token-24-0" pos="word" morph="none" start_char="1183" end_char="1188">safety</TOKEN>
+        <TOKEN id="token-24-1" pos="punct" morph="none" start_char="1189" end_char="1189">.</TOKEN>
+      </SEG>
+      <SEG id="segment-25" start_char="1191" end_char="1194">
+        <ORIGINAL_TEXT>&lt;/P&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-25-0" pos="unknown" morph="none" start_char="1191" end_char="1194">&lt;/P&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-26" start_char="1196" end_char="1198">
+        <ORIGINAL_TEXT>&lt;P&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-26-0" pos="unknown" morph="none" start_char="1196" end_char="1198">&lt;P&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-27" start_char="1200" end_char="1277">
+        <ORIGINAL_TEXT>The older Tsarnaev then rushed into the store to get his brother and leave the</ORIGINAL_TEXT>
+        <TOKEN id="token-27-0" pos="word" morph="none" start_char="1200" end_char="1202">The</TOKEN>
+        <TOKEN id="token-27-1" pos="word" morph="none" start_char="1204" end_char="1208">older</TOKEN>
+        <TOKEN id="token-27-2" pos="word" morph="none" start_char="1210" end_char="1217">Tsarnaev</TOKEN>
+        <TOKEN id="token-27-3" pos="word" morph="none" start_char="1219" end_char="1222">then</TOKEN>
+        <TOKEN id="token-27-4" pos="word" morph="none" start_char="1224" end_char="1229">rushed</TOKEN>
+        <TOKEN id="token-27-5" pos="word" morph="none" start_char="1231" end_char="1234">into</TOKEN>
+        <TOKEN id="token-27-6" pos="word" morph="none" start_char="1236" end_char="1238">the</TOKEN>
+        <TOKEN id="token-27-7" pos="word" morph="none" start_char="1240" end_char="1244">store</TOKEN>
+        <TOKEN id="token-27-8" pos="word" morph="none" start_char="1246" end_char="1247">to</TOKEN>
+        <TOKEN id="token-27-9" pos="word" morph="none" start_char="1249" end_char="1251">get</TOKEN>
+        <TOKEN id="token-27-10" pos="word" morph="none" start_char="1253" end_char="1255">his</TOKEN>
+        <TOKEN id="token-27-11" pos="word" morph="none" start_char="1257" end_char="1263">brother</TOKEN>
+        <TOKEN id="token-27-12" pos="word" morph="none" start_char="1265" end_char="1267">and</TOKEN>
+        <TOKEN id="token-27-13" pos="word" morph="none" start_char="1269" end_char="1273">leave</TOKEN>
+        <TOKEN id="token-27-14" pos="word" morph="none" start_char="1275" end_char="1277">the</TOKEN>
+      </SEG>
+      <SEG id="segment-28" start_char="1279" end_char="1306">
+        <ORIGINAL_TEXT>scene before police arrived.</ORIGINAL_TEXT>
+        <TOKEN id="token-28-0" pos="word" morph="none" start_char="1279" end_char="1283">scene</TOKEN>
+        <TOKEN id="token-28-1" pos="word" morph="none" start_char="1285" end_char="1290">before</TOKEN>
+        <TOKEN id="token-28-2" pos="word" morph="none" start_char="1292" end_char="1297">police</TOKEN>
+        <TOKEN id="token-28-3" pos="word" morph="none" start_char="1299" end_char="1305">arrived</TOKEN>
+        <TOKEN id="token-28-4" pos="punct" morph="none" start_char="1306" end_char="1306">.</TOKEN>
+      </SEG>
+      <SEG id="segment-29" start_char="1308" end_char="1311">
+        <ORIGINAL_TEXT>&lt;/P&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-29-0" pos="unknown" morph="none" start_char="1308" end_char="1311">&lt;/P&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-30" start_char="1313" end_char="1315">
+        <ORIGINAL_TEXT>&lt;P&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-30-0" pos="unknown" morph="none" start_char="1313" end_char="1315">&lt;P&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-31" start_char="1317" end_char="1390">
+        <ORIGINAL_TEXT>As you can see in the GIF above, Dzhokhar Tsarnaev began to run out of the</ORIGINAL_TEXT>
+        <TOKEN id="token-31-0" pos="word" morph="none" start_char="1317" end_char="1318">As</TOKEN>
+        <TOKEN id="token-31-1" pos="word" morph="none" start_char="1320" end_char="1322">you</TOKEN>
+        <TOKEN id="token-31-2" pos="word" morph="none" start_char="1324" end_char="1326">can</TOKEN>
+        <TOKEN id="token-31-3" pos="word" morph="none" start_char="1328" end_char="1330">see</TOKEN>
+        <TOKEN id="token-31-4" pos="word" morph="none" start_char="1332" end_char="1333">in</TOKEN>
+        <TOKEN id="token-31-5" pos="word" morph="none" start_char="1335" end_char="1337">the</TOKEN>
+        <TOKEN id="token-31-6" pos="word" morph="none" start_char="1339" end_char="1341">GIF</TOKEN>
+        <TOKEN id="token-31-7" pos="word" morph="none" start_char="1343" end_char="1347">above</TOKEN>
+        <TOKEN id="token-31-8" pos="punct" morph="none" start_char="1348" end_char="1348">,</TOKEN>
+        <TOKEN id="token-31-9" pos="word" morph="none" start_char="1350" end_char="1357">Dzhokhar</TOKEN>
+        <TOKEN id="token-31-10" pos="word" morph="none" start_char="1359" end_char="1366">Tsarnaev</TOKEN>
+        <TOKEN id="token-31-11" pos="word" morph="none" start_char="1368" end_char="1372">began</TOKEN>
+        <TOKEN id="token-31-12" pos="word" morph="none" start_char="1374" end_char="1375">to</TOKEN>
+        <TOKEN id="token-31-13" pos="word" morph="none" start_char="1377" end_char="1379">run</TOKEN>
+        <TOKEN id="token-31-14" pos="word" morph="none" start_char="1381" end_char="1383">out</TOKEN>
+        <TOKEN id="token-31-15" pos="word" morph="none" start_char="1385" end_char="1386">of</TOKEN>
+        <TOKEN id="token-31-16" pos="word" morph="none" start_char="1388" end_char="1390">the</TOKEN>
+      </SEG>
+      <SEG id="segment-32" start_char="1392" end_char="1467">
+        <ORIGINAL_TEXT>store with a handful of snacks. He then abruptly stopped, turned around, and</ORIGINAL_TEXT>
+        <TOKEN id="token-32-0" pos="word" morph="none" start_char="1392" end_char="1396">store</TOKEN>
+        <TOKEN id="token-32-1" pos="word" morph="none" start_char="1398" end_char="1401">with</TOKEN>
+        <TOKEN id="token-32-2" pos="word" morph="none" start_char="1403" end_char="1403">a</TOKEN>
+        <TOKEN id="token-32-3" pos="word" morph="none" start_char="1405" end_char="1411">handful</TOKEN>
+        <TOKEN id="token-32-4" pos="word" morph="none" start_char="1413" end_char="1414">of</TOKEN>
+        <TOKEN id="token-32-5" pos="word" morph="none" start_char="1416" end_char="1421">snacks</TOKEN>
+        <TOKEN id="token-32-6" pos="punct" morph="none" start_char="1422" end_char="1422">.</TOKEN>
+        <TOKEN id="token-32-7" pos="word" morph="none" start_char="1424" end_char="1425">He</TOKEN>
+        <TOKEN id="token-32-8" pos="word" morph="none" start_char="1427" end_char="1430">then</TOKEN>
+        <TOKEN id="token-32-9" pos="word" morph="none" start_char="1432" end_char="1439">abruptly</TOKEN>
+        <TOKEN id="token-32-10" pos="word" morph="none" start_char="1441" end_char="1447">stopped</TOKEN>
+        <TOKEN id="token-32-11" pos="punct" morph="none" start_char="1448" end_char="1448">,</TOKEN>
+        <TOKEN id="token-32-12" pos="word" morph="none" start_char="1450" end_char="1455">turned</TOKEN>
+        <TOKEN id="token-32-13" pos="word" morph="none" start_char="1457" end_char="1462">around</TOKEN>
+        <TOKEN id="token-32-14" pos="punct" morph="none" start_char="1463" end_char="1463">,</TOKEN>
+        <TOKEN id="token-32-15" pos="word" morph="none" start_char="1465" end_char="1467">and</TOKEN>
+      </SEG>
+      <SEG id="segment-33" start_char="1469" end_char="1543">
+        <ORIGINAL_TEXT>quickly put the items down near the front counter. Finally, Tsarnaev placed</ORIGINAL_TEXT>
+        <TOKEN id="token-33-0" pos="word" morph="none" start_char="1469" end_char="1475">quickly</TOKEN>
+        <TOKEN id="token-33-1" pos="word" morph="none" start_char="1477" end_char="1479">put</TOKEN>
+        <TOKEN id="token-33-2" pos="word" morph="none" start_char="1481" end_char="1483">the</TOKEN>
+        <TOKEN id="token-33-3" pos="word" morph="none" start_char="1485" end_char="1489">items</TOKEN>
+        <TOKEN id="token-33-4" pos="word" morph="none" start_char="1491" end_char="1494">down</TOKEN>
+        <TOKEN id="token-33-5" pos="word" morph="none" start_char="1496" end_char="1499">near</TOKEN>
+        <TOKEN id="token-33-6" pos="word" morph="none" start_char="1501" end_char="1503">the</TOKEN>
+        <TOKEN id="token-33-7" pos="word" morph="none" start_char="1505" end_char="1509">front</TOKEN>
+        <TOKEN id="token-33-8" pos="word" morph="none" start_char="1511" end_char="1517">counter</TOKEN>
+        <TOKEN id="token-33-9" pos="punct" morph="none" start_char="1518" end_char="1518">.</TOKEN>
+        <TOKEN id="token-33-10" pos="word" morph="none" start_char="1520" end_char="1526">Finally</TOKEN>
+        <TOKEN id="token-33-11" pos="punct" morph="none" start_char="1527" end_char="1527">,</TOKEN>
+        <TOKEN id="token-33-12" pos="word" morph="none" start_char="1529" end_char="1536">Tsarnaev</TOKEN>
+        <TOKEN id="token-33-13" pos="word" morph="none" start_char="1538" end_char="1543">placed</TOKEN>
+      </SEG>
+      <SEG id="segment-34" start_char="1545" end_char="1620">
+        <ORIGINAL_TEXT>his empty hands up and made eye contact with the shop owner as he bolted for</ORIGINAL_TEXT>
+        <TOKEN id="token-34-0" pos="word" morph="none" start_char="1545" end_char="1547">his</TOKEN>
+        <TOKEN id="token-34-1" pos="word" morph="none" start_char="1549" end_char="1553">empty</TOKEN>
+        <TOKEN id="token-34-2" pos="word" morph="none" start_char="1555" end_char="1559">hands</TOKEN>
+        <TOKEN id="token-34-3" pos="word" morph="none" start_char="1561" end_char="1562">up</TOKEN>
+        <TOKEN id="token-34-4" pos="word" morph="none" start_char="1564" end_char="1566">and</TOKEN>
+        <TOKEN id="token-34-5" pos="word" morph="none" start_char="1568" end_char="1571">made</TOKEN>
+        <TOKEN id="token-34-6" pos="word" morph="none" start_char="1573" end_char="1575">eye</TOKEN>
+        <TOKEN id="token-34-7" pos="word" morph="none" start_char="1577" end_char="1583">contact</TOKEN>
+        <TOKEN id="token-34-8" pos="word" morph="none" start_char="1585" end_char="1588">with</TOKEN>
+        <TOKEN id="token-34-9" pos="word" morph="none" start_char="1590" end_char="1592">the</TOKEN>
+        <TOKEN id="token-34-10" pos="word" morph="none" start_char="1594" end_char="1597">shop</TOKEN>
+        <TOKEN id="token-34-11" pos="word" morph="none" start_char="1599" end_char="1603">owner</TOKEN>
+        <TOKEN id="token-34-12" pos="word" morph="none" start_char="1605" end_char="1606">as</TOKEN>
+        <TOKEN id="token-34-13" pos="word" morph="none" start_char="1608" end_char="1609">he</TOKEN>
+        <TOKEN id="token-34-14" pos="word" morph="none" start_char="1611" end_char="1616">bolted</TOKEN>
+        <TOKEN id="token-34-15" pos="word" morph="none" start_char="1618" end_char="1620">for</TOKEN>
+      </SEG>
+      <SEG id="segment-35" start_char="1622" end_char="1630">
+        <ORIGINAL_TEXT>the door.</ORIGINAL_TEXT>
+        <TOKEN id="token-35-0" pos="word" morph="none" start_char="1622" end_char="1624">the</TOKEN>
+        <TOKEN id="token-35-1" pos="word" morph="none" start_char="1626" end_char="1629">door</TOKEN>
+        <TOKEN id="token-35-2" pos="punct" morph="none" start_char="1630" end_char="1630">.</TOKEN>
+      </SEG>
+      <SEG id="segment-36" start_char="1632" end_char="1635">
+        <ORIGINAL_TEXT>&lt;/P&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-36-0" pos="unknown" morph="none" start_char="1632" end_char="1635">&lt;/P&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-37" start_char="1637" end_char="1639">
+        <ORIGINAL_TEXT>&lt;P&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-37-0" pos="unknown" morph="none" start_char="1637" end_char="1639">&lt;P&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-38" start_char="1641" end_char="1713">
+        <ORIGINAL_TEXT>The surveillance video was taken on the evening of April 18, 2013. That’s</ORIGINAL_TEXT>
+        <TOKEN id="token-38-0" pos="word" morph="none" start_char="1641" end_char="1643">The</TOKEN>
+        <TOKEN id="token-38-1" pos="word" morph="none" start_char="1645" end_char="1656">surveillance</TOKEN>
+        <TOKEN id="token-38-2" pos="word" morph="none" start_char="1658" end_char="1662">video</TOKEN>
+        <TOKEN id="token-38-3" pos="word" morph="none" start_char="1664" end_char="1666">was</TOKEN>
+        <TOKEN id="token-38-4" pos="word" morph="none" start_char="1668" end_char="1672">taken</TOKEN>
+        <TOKEN id="token-38-5" pos="word" morph="none" start_char="1674" end_char="1675">on</TOKEN>
+        <TOKEN id="token-38-6" pos="word" morph="none" start_char="1677" end_char="1679">the</TOKEN>
+        <TOKEN id="token-38-7" pos="word" morph="none" start_char="1681" end_char="1687">evening</TOKEN>
+        <TOKEN id="token-38-8" pos="word" morph="none" start_char="1689" end_char="1690">of</TOKEN>
+        <TOKEN id="token-38-9" pos="word" morph="none" start_char="1692" end_char="1696">April</TOKEN>
+        <TOKEN id="token-38-10" pos="word" morph="none" start_char="1698" end_char="1699">18</TOKEN>
+        <TOKEN id="token-38-11" pos="punct" morph="none" start_char="1700" end_char="1700">,</TOKEN>
+        <TOKEN id="token-38-12" pos="word" morph="none" start_char="1702" end_char="1705">2013</TOKEN>
+        <TOKEN id="token-38-13" pos="punct" morph="none" start_char="1706" end_char="1706">.</TOKEN>
+        <TOKEN id="token-38-14" pos="word" morph="none" start_char="1708" end_char="1711">That</TOKEN>
+        <TOKEN id="token-38-15" pos="punct" morph="none" start_char="1712" end_char="1712">’</TOKEN>
+        <TOKEN id="token-38-16" pos="word" morph="none" start_char="1713" end_char="1713">s</TOKEN>
+      </SEG>
+      <SEG id="segment-39" start_char="1715" end_char="1782">
+        <ORIGINAL_TEXT>three days after Dzhokhar Tsarnaev and his brother allegedly set off</ORIGINAL_TEXT>
+        <TOKEN id="token-39-0" pos="word" morph="none" start_char="1715" end_char="1719">three</TOKEN>
+        <TOKEN id="token-39-1" pos="word" morph="none" start_char="1721" end_char="1724">days</TOKEN>
+        <TOKEN id="token-39-2" pos="word" morph="none" start_char="1726" end_char="1730">after</TOKEN>
+        <TOKEN id="token-39-3" pos="word" morph="none" start_char="1732" end_char="1739">Dzhokhar</TOKEN>
+        <TOKEN id="token-39-4" pos="word" morph="none" start_char="1741" end_char="1748">Tsarnaev</TOKEN>
+        <TOKEN id="token-39-5" pos="word" morph="none" start_char="1750" end_char="1752">and</TOKEN>
+        <TOKEN id="token-39-6" pos="word" morph="none" start_char="1754" end_char="1756">his</TOKEN>
+        <TOKEN id="token-39-7" pos="word" morph="none" start_char="1758" end_char="1764">brother</TOKEN>
+        <TOKEN id="token-39-8" pos="word" morph="none" start_char="1766" end_char="1774">allegedly</TOKEN>
+        <TOKEN id="token-39-9" pos="word" morph="none" start_char="1776" end_char="1778">set</TOKEN>
+        <TOKEN id="token-39-10" pos="word" morph="none" start_char="1780" end_char="1782">off</TOKEN>
+      </SEG>
+      <SEG id="segment-40" start_char="1784" end_char="1856">
+        <ORIGINAL_TEXT>explosions that killed three people and injured over 260 others. And it’s</ORIGINAL_TEXT>
+        <TOKEN id="token-40-0" pos="word" morph="none" start_char="1784" end_char="1793">explosions</TOKEN>
+        <TOKEN id="token-40-1" pos="word" morph="none" start_char="1795" end_char="1798">that</TOKEN>
+        <TOKEN id="token-40-2" pos="word" morph="none" start_char="1800" end_char="1805">killed</TOKEN>
+        <TOKEN id="token-40-3" pos="word" morph="none" start_char="1807" end_char="1811">three</TOKEN>
+        <TOKEN id="token-40-4" pos="word" morph="none" start_char="1813" end_char="1818">people</TOKEN>
+        <TOKEN id="token-40-5" pos="word" morph="none" start_char="1820" end_char="1822">and</TOKEN>
+        <TOKEN id="token-40-6" pos="word" morph="none" start_char="1824" end_char="1830">injured</TOKEN>
+        <TOKEN id="token-40-7" pos="word" morph="none" start_char="1832" end_char="1835">over</TOKEN>
+        <TOKEN id="token-40-8" pos="number" morph="none" start_char="1837" end_char="1839">260</TOKEN>
+        <TOKEN id="token-40-9" pos="word" morph="none" start_char="1841" end_char="1846">others</TOKEN>
+        <TOKEN id="token-40-10" pos="punct" morph="none" start_char="1847" end_char="1847">.</TOKEN>
+        <TOKEN id="token-40-11" pos="word" morph="none" start_char="1849" end_char="1851">And</TOKEN>
+        <TOKEN id="token-40-12" pos="word" morph="none" start_char="1853" end_char="1854">it</TOKEN>
+        <TOKEN id="token-40-13" pos="punct" morph="none" start_char="1855" end_char="1855">’</TOKEN>
+        <TOKEN id="token-40-14" pos="word" morph="none" start_char="1856" end_char="1856">s</TOKEN>
+      </SEG>
+      <SEG id="segment-41" start_char="1858" end_char="1934">
+        <ORIGINAL_TEXT>about an hour after the brothers allegedly shot and killed MIT police officer</ORIGINAL_TEXT>
+        <TOKEN id="token-41-0" pos="word" morph="none" start_char="1858" end_char="1862">about</TOKEN>
+        <TOKEN id="token-41-1" pos="word" morph="none" start_char="1864" end_char="1865">an</TOKEN>
+        <TOKEN id="token-41-2" pos="word" morph="none" start_char="1867" end_char="1870">hour</TOKEN>
+        <TOKEN id="token-41-3" pos="word" morph="none" start_char="1872" end_char="1876">after</TOKEN>
+        <TOKEN id="token-41-4" pos="word" morph="none" start_char="1878" end_char="1880">the</TOKEN>
+        <TOKEN id="token-41-5" pos="word" morph="none" start_char="1882" end_char="1889">brothers</TOKEN>
+        <TOKEN id="token-41-6" pos="word" morph="none" start_char="1891" end_char="1899">allegedly</TOKEN>
+        <TOKEN id="token-41-7" pos="word" morph="none" start_char="1901" end_char="1904">shot</TOKEN>
+        <TOKEN id="token-41-8" pos="word" morph="none" start_char="1906" end_char="1908">and</TOKEN>
+        <TOKEN id="token-41-9" pos="word" morph="none" start_char="1910" end_char="1915">killed</TOKEN>
+        <TOKEN id="token-41-10" pos="word" morph="none" start_char="1917" end_char="1919">MIT</TOKEN>
+        <TOKEN id="token-41-11" pos="word" morph="none" start_char="1921" end_char="1926">police</TOKEN>
+        <TOKEN id="token-41-12" pos="word" morph="none" start_char="1928" end_char="1934">officer</TOKEN>
+      </SEG>
+      <SEG id="segment-42" start_char="1936" end_char="1963">
+        <ORIGINAL_TEXT>Sean Collier in his vehicle.</ORIGINAL_TEXT>
+        <TOKEN id="token-42-0" pos="word" morph="none" start_char="1936" end_char="1939">Sean</TOKEN>
+        <TOKEN id="token-42-1" pos="word" morph="none" start_char="1941" end_char="1947">Collier</TOKEN>
+        <TOKEN id="token-42-2" pos="word" morph="none" start_char="1949" end_char="1950">in</TOKEN>
+        <TOKEN id="token-42-3" pos="word" morph="none" start_char="1952" end_char="1954">his</TOKEN>
+        <TOKEN id="token-42-4" pos="word" morph="none" start_char="1956" end_char="1962">vehicle</TOKEN>
+        <TOKEN id="token-42-5" pos="punct" morph="none" start_char="1963" end_char="1963">.</TOKEN>
+      </SEG>
+      <SEG id="segment-43" start_char="1965" end_char="1968">
+        <ORIGINAL_TEXT>&lt;/P&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-43-0" pos="unknown" morph="none" start_char="1965" end_char="1968">&lt;/P&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-44" start_char="1970" end_char="1976">
+        <ORIGINAL_TEXT>&lt;/TEXT&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-44-0" pos="unknown" morph="none" start_char="1970" end_char="1976">&lt;/TEXT&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-45" start_char="1978" end_char="1983">
+        <ORIGINAL_TEXT>&lt;/DOC&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-45-0" pos="unknown" morph="none" start_char="1978" end_char="1983">&lt;/DOC&gt;</TOKEN>
+      </SEG>
+    </TEXT>
+  </DOC>
+</LCTL_TEXT>

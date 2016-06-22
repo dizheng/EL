@@ -1,0 +1,1389 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE LCTL_TEXT SYSTEM "ltf.v1.5.dtd">
+<LCTL_TEXT>
+<DOC id="CMN_DF_000191_20150131_F0010009D.df.xml" tokenization="tokenization_parameters" grammar="none" raw_text_char_length="12290" raw_text_md5="1350e4d9d6488933d2a983108a2e8030">
+<TEXT>
+<SEG id="segment-0" start_char="0" end_char="37">
+<ORIGINAL_TEXT>&lt;?xml version="1.0" encoding="utf-8"?&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-0-0" pos="unknown" morph="none" start_char="0" end_char="4">&lt;?xml</TOKEN>
+<TOKEN id="token-0-1" pos="unknown" morph="none" start_char="6" end_char="18">version="1.0"</TOKEN>
+<TOKEN id="token-0-2" pos="unknown" morph="none" start_char="20" end_char="37">encoding="utf-8"?&gt;</TOKEN>
+</SEG>
+<SEG id="segment-1" start_char="39" end_char="81">
+<ORIGINAL_TEXT>&lt;doc id="CMN_DF_000191_20150131_F0010009D"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-1-0" pos="unknown" morph="none" start_char="39" end_char="42">&lt;doc</TOKEN>
+<TOKEN id="token-1-1" pos="unknown" morph="none" start_char="44" end_char="81">id="CMN_DF_000191_20150131_F0010009D"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-2" start_char="83" end_char="92">
+<ORIGINAL_TEXT>&lt;headline&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-2-0" pos="unknown" morph="none" start_char="83" end_char="92">&lt;headline&gt;</TOKEN>
+</SEG>
+<SEG id="segment-3" start_char="94" end_char="108">
+<ORIGINAL_TEXT>[原创]中美资本之战——股市篇</ORIGINAL_TEXT>
+<TOKEN id="token-3-0" pos="unknown" morph="none" start_char="94" end_char="108">[原创]中美资本之战——股市篇</TOKEN>
+</SEG>
+<SEG id="segment-4" start_char="110" end_char="120">
+<ORIGINAL_TEXT>&lt;/headline&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-4-0" pos="unknown" morph="none" start_char="110" end_char="120">&lt;/headline&gt;</TOKEN>
+</SEG>
+<SEG id="segment-5" start_char="122" end_char="186">
+<ORIGINAL_TEXT>&lt;post id="p1" author="chenchen45" datetime="2015-01-31T06:23:51"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-5-0" pos="unknown" morph="none" start_char="122" end_char="126">&lt;post</TOKEN>
+<TOKEN id="token-5-1" pos="unknown" morph="none" start_char="128" end_char="134">id="p1"</TOKEN>
+<TOKEN id="token-5-2" pos="unknown" morph="none" start_char="136" end_char="154">author="chenchen45"</TOKEN>
+<TOKEN id="token-5-3" pos="unknown" morph="none" start_char="156" end_char="186">datetime="2015-01-31T06:23:51"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-6" start_char="188" end_char="207">
+<ORIGINAL_TEXT>因为有很多网友私信，希望讲一下中国股市。</ORIGINAL_TEXT>
+<TOKEN id="token-6-0" pos="word" morph="none" start_char="188" end_char="196">因为有很多网友私信</TOKEN>
+<TOKEN id="token-6-1" pos="punct" morph="none" start_char="197" end_char="197">，</TOKEN>
+<TOKEN id="token-6-2" pos="word" morph="none" start_char="198" end_char="206">希望讲一下中国股市</TOKEN>
+<TOKEN id="token-6-3" pos="punct" morph="none" start_char="207" end_char="207">。</TOKEN>
+</SEG>
+<SEG id="segment-7" start_char="209" end_char="241">
+<ORIGINAL_TEXT>我在前一篇帖子《中美资本之战》的基础上，对股市做一下进一步的分析。</ORIGINAL_TEXT>
+<TOKEN id="token-7-0" pos="unknown" morph="none" start_char="209" end_char="241">我在前一篇帖子《中美资本之战》的基础上，对股市做一下进一步的分析。</TOKEN>
+</SEG>
+<SEG id="segment-8" start_char="243" end_char="295">
+<ORIGINAL_TEXT>[ 转自铁血社区 http://bbs.tiexue.net/post_8523913_1.html/ ]</ORIGINAL_TEXT>
+<TOKEN id="token-8-0" pos="unknown" morph="none" start_char="243" end_char="243">[</TOKEN>
+<TOKEN id="token-8-1" pos="word" morph="none" start_char="245" end_char="250">转自铁血社区</TOKEN>
+<TOKEN id="token-8-2" pos="url" morph="none" start_char="252" end_char="293">http://bbs.tiexue.net/post_8523913_1.html/</TOKEN>
+<TOKEN id="token-8-3" pos="unknown" morph="none" start_char="295" end_char="295">]</TOKEN>
+</SEG>
+<SEG id="segment-9" start_char="299" end_char="305">
+<ORIGINAL_TEXT>就我个人分析，</ORIGINAL_TEXT>
+<TOKEN id="token-9-0" pos="word" morph="none" start_char="299" end_char="304">就我个人分析</TOKEN>
+<TOKEN id="token-9-1" pos="punct" morph="none" start_char="305" end_char="305">，</TOKEN>
+</SEG>
+<SEG id="segment-10" start_char="307" end_char="358">
+<ORIGINAL_TEXT>21世纪之初的中美博弈，就好像20世纪之初的美英博弈，是一个世纪的博弈与较量，决定着一个世纪的大国兴衰。</ORIGINAL_TEXT>
+<TOKEN id="token-10-0" pos="unknown" morph="none" start_char="307" end_char="358">21世纪之初的中美博弈，就好像20世纪之初的美英博弈，是一个世纪的博弈与较量，决定着一个世纪的大国兴衰。</TOKEN>
+</SEG>
+<SEG id="segment-11" start_char="360" end_char="394">
+<ORIGINAL_TEXT>所以，中国的主要政策（也包括影响和决定股市的政策）都必须为了此次博弈。</ORIGINAL_TEXT>
+<TOKEN id="token-11-0" pos="unknown" morph="none" start_char="360" end_char="394">所以，中国的主要政策（也包括影响和决定股市的政策）都必须为了此次博弈。</TOKEN>
+</SEG>
+<SEG id="segment-12" start_char="396" end_char="455">
+<ORIGINAL_TEXT>加上，中国货币盯紧美国货币“美元”的这条主线暂时不变，中国的主要政策（包括影响和决定股市的政策）也就必须盯紧美国和美元。</ORIGINAL_TEXT>
+<TOKEN id="token-12-0" pos="unknown" morph="none" start_char="396" end_char="455">加上，中国货币盯紧美国货币“美元”的这条主线暂时不变，中国的主要政策（包括影响和决定股市的政策）也就必须盯紧美国和美元。</TOKEN>
+</SEG>
+<SEG id="segment-13" start_char="459" end_char="503">
+<ORIGINAL_TEXT>这就决定了中国股市的方向和特征。涨和跌是股市的两个方向，慢牛快牛和短牛长牛就是股市的特征。</ORIGINAL_TEXT>
+<TOKEN id="token-13-0" pos="unknown" morph="none" start_char="459" end_char="503">这就决定了中国股市的方向和特征。涨和跌是股市的两个方向，慢牛快牛和短牛长牛就是股市的特征。</TOKEN>
+</SEG>
+<SEG id="segment-14" start_char="505" end_char="540">
+<ORIGINAL_TEXT>前一篇帖子《中美资本之战》其中已经分析了方向，这一篇帖子再分析一下特征。</ORIGINAL_TEXT>
+<TOKEN id="token-14-0" pos="unknown" morph="none" start_char="505" end_char="540">前一篇帖子《中美资本之战》其中已经分析了方向，这一篇帖子再分析一下特征。</TOKEN>
+</SEG>
+<SEG id="segment-15" start_char="542" end_char="574">
+<ORIGINAL_TEXT>[ 转自铁血社区 http://www.tiexue.net/ ]</ORIGINAL_TEXT>
+<TOKEN id="token-15-0" pos="unknown" morph="none" start_char="542" end_char="542">[</TOKEN>
+<TOKEN id="token-15-1" pos="word" morph="none" start_char="544" end_char="549">转自铁血社区</TOKEN>
+<TOKEN id="token-15-2" pos="url" morph="none" start_char="551" end_char="572">http://www.tiexue.net/</TOKEN>
+<TOKEN id="token-15-3" pos="unknown" morph="none" start_char="574" end_char="574">]</TOKEN>
+</SEG>
+<SEG id="segment-16" start_char="576" end_char="604">
+<ORIGINAL_TEXT>就我个人分析，2015年上半年的涨幅不会大，甚至可以为零。</ORIGINAL_TEXT>
+<TOKEN id="token-16-0" pos="unknown" morph="none" start_char="576" end_char="604">就我个人分析，2015年上半年的涨幅不会大，甚至可以为零。</TOKEN>
+</SEG>
+<SEG id="segment-17" start_char="610" end_char="620">
+<ORIGINAL_TEXT>一、先简单说一下方向。</ORIGINAL_TEXT>
+<TOKEN id="token-17-0" pos="word" morph="none" start_char="610" end_char="610">一</TOKEN>
+<TOKEN id="token-17-1" pos="punct" morph="none" start_char="611" end_char="611">、</TOKEN>
+<TOKEN id="token-17-2" pos="word" morph="none" start_char="612" end_char="619">先简单说一下方向</TOKEN>
+<TOKEN id="token-17-3" pos="punct" morph="none" start_char="620" end_char="620">。</TOKEN>
+</SEG>
+<SEG id="segment-18" start_char="622" end_char="647">
+<ORIGINAL_TEXT>前一篇帖子《中美资本之战》已有的分析，这里就不赘述。</ORIGINAL_TEXT>
+<TOKEN id="token-18-0" pos="unknown" morph="none" start_char="622" end_char="647">前一篇帖子《中美资本之战》已有的分析，这里就不赘述。</TOKEN>
+</SEG>
+<SEG id="segment-19" start_char="649" end_char="684">
+<ORIGINAL_TEXT>简单说，中国需要利用资本市场吸纳资本，而股市天生就是资本市场的圈钱工具。</ORIGINAL_TEXT>
+<TOKEN id="token-19-0" pos="unknown" morph="none" start_char="649" end_char="684">简单说，中国需要利用资本市场吸纳资本，而股市天生就是资本市场的圈钱工具。</TOKEN>
+</SEG>
+<SEG id="segment-20" start_char="686" end_char="767">
+<ORIGINAL_TEXT>股市上涨，是对抗美国吸纳资本的一张王牌，更构成中国“吸纳资本——投放资本——使用资本——回收资本”的资本蓝图（详细的分析，大家可以参考前一篇帖子《中美资本之战》）。</ORIGINAL_TEXT>
+<TOKEN id="token-20-0" pos="unknown" morph="none" start_char="686" end_char="767">股市上涨，是对抗美国吸纳资本的一张王牌，更构成中国“吸纳资本——投放资本——使用资本——回收资本”的资本蓝图（详细的分析，大家可以参考前一篇帖子《中美资本之战》）。</TOKEN>
+</SEG>
+<SEG id="segment-21" start_char="771" end_char="810">
+<ORIGINAL_TEXT>也许，有朋友会问，难道中国吸纳资本就只有靠股市？难道以前中国就不需要吸纳资本吗？</ORIGINAL_TEXT>
+<TOKEN id="token-21-0" pos="unknown" morph="none" start_char="771" end_char="810">也许，有朋友会问，难道中国吸纳资本就只有靠股市？难道以前中国就不需要吸纳资本吗？</TOKEN>
+</SEG>
+<SEG id="segment-22" start_char="812" end_char="844">
+<ORIGINAL_TEXT>[ 转自铁血社区 http://bbs.tiexue.net/ ]</ORIGINAL_TEXT>
+<TOKEN id="token-22-0" pos="unknown" morph="none" start_char="812" end_char="812">[</TOKEN>
+<TOKEN id="token-22-1" pos="word" morph="none" start_char="814" end_char="819">转自铁血社区</TOKEN>
+<TOKEN id="token-22-2" pos="url" morph="none" start_char="821" end_char="842">http://bbs.tiexue.net/</TOKEN>
+<TOKEN id="token-22-3" pos="unknown" morph="none" start_char="844" end_char="844">]</TOKEN>
+</SEG>
+<SEG id="segment-23" start_char="848" end_char="865">
+<ORIGINAL_TEXT>中国一直都需要吸纳资本，美国也需要。</ORIGINAL_TEXT>
+<TOKEN id="token-23-0" pos="word" morph="none" start_char="848" end_char="858">中国一直都需要吸纳资本</TOKEN>
+<TOKEN id="token-23-1" pos="punct" morph="none" start_char="859" end_char="859">，</TOKEN>
+<TOKEN id="token-23-2" pos="word" morph="none" start_char="860" end_char="864">美国也需要</TOKEN>
+<TOKEN id="token-23-3" pos="punct" morph="none" start_char="865" end_char="865">。</TOKEN>
+</SEG>
+<SEG id="segment-24" start_char="867" end_char="893">
+<ORIGINAL_TEXT>吸纳资本也并非只有股市，以前中国不靠股市也能吸纳资本。</ORIGINAL_TEXT>
+<TOKEN id="token-24-0" pos="word" morph="none" start_char="867" end_char="877">吸纳资本也并非只有股市</TOKEN>
+<TOKEN id="token-24-1" pos="punct" morph="none" start_char="878" end_char="878">，</TOKEN>
+<TOKEN id="token-24-2" pos="word" morph="none" start_char="879" end_char="892">以前中国不靠股市也能吸纳资本</TOKEN>
+<TOKEN id="token-24-3" pos="punct" morph="none" start_char="893" end_char="893">。</TOKEN>
+</SEG>
+<SEG id="segment-25" start_char="895" end_char="917">
+<ORIGINAL_TEXT>自改革开放以来，中国吸纳资本可以分为三个阶段。</ORIGINAL_TEXT>
+<TOKEN id="token-25-0" pos="word" morph="none" start_char="895" end_char="901">自改革开放以来</TOKEN>
+<TOKEN id="token-25-1" pos="punct" morph="none" start_char="902" end_char="902">，</TOKEN>
+<TOKEN id="token-25-2" pos="word" morph="none" start_char="903" end_char="916">中国吸纳资本可以分为三个阶段</TOKEN>
+<TOKEN id="token-25-3" pos="punct" morph="none" start_char="917" end_char="917">。</TOKEN>
+</SEG>
+<SEG id="segment-26" start_char="921" end_char="977">
+<ORIGINAL_TEXT>1、第一个阶段，主要依靠资源，由邓小平筹划，从1979年改革开放开始、到1997年邓小平离开大家为止，历经18年。</ORIGINAL_TEXT>
+<TOKEN id="token-26-0" pos="unknown" morph="none" start_char="921" end_char="977">1、第一个阶段，主要依靠资源，由邓小平筹划，从1979年改革开放开始、到1997年邓小平离开大家为止，历经18年。</TOKEN>
+</SEG>
+<SEG id="segment-27" start_char="979" end_char="991">
+<ORIGINAL_TEXT>这一个阶段，中国非常成功。</ORIGINAL_TEXT>
+<TOKEN id="token-27-0" pos="word" morph="none" start_char="979" end_char="983">这一个阶段</TOKEN>
+<TOKEN id="token-27-1" pos="punct" morph="none" start_char="984" end_char="984">，</TOKEN>
+<TOKEN id="token-27-2" pos="word" morph="none" start_char="985" end_char="990">中国非常成功</TOKEN>
+<TOKEN id="token-27-3" pos="punct" morph="none" start_char="991" end_char="991">。</TOKEN>
+</SEG>
+<SEG id="segment-28" start_char="993" end_char="1089">
+<ORIGINAL_TEXT>中国没有像巴西、澳大利亚、中东那样依靠不可再生的矿产资源，而是充分依靠可以循环的“地租和劳动力”资源，凭借廉价的地租和劳动力，成功吸引到了国际资本的建厂落户，为中国成为“制造业大国”奠定了基础。</ORIGINAL_TEXT>
+<TOKEN id="token-28-0" pos="unknown" morph="none" start_char="993" end_char="1089">中国没有像巴西、澳大利亚、中东那样依靠不可再生的矿产资源，而是充分依靠可以循环的“地租和劳动力”资源，凭借廉价的地租和劳动力，成功吸引到了国际资本的建厂落户，为中国成为“制造业大国”奠定了基础。</TOKEN>
+</SEG>
+<SEG id="segment-29" start_char="1091" end_char="1143">
+<ORIGINAL_TEXT>[ 转自铁血社区 http://bbs.tiexue.net/post_8523913_1.html/ ]</ORIGINAL_TEXT>
+<TOKEN id="token-29-0" pos="unknown" morph="none" start_char="1091" end_char="1091">[</TOKEN>
+<TOKEN id="token-29-1" pos="word" morph="none" start_char="1093" end_char="1098">转自铁血社区</TOKEN>
+<TOKEN id="token-29-2" pos="url" morph="none" start_char="1100" end_char="1141">http://bbs.tiexue.net/post_8523913_1.html/</TOKEN>
+<TOKEN id="token-29-3" pos="unknown" morph="none" start_char="1143" end_char="1143">]</TOKEN>
+</SEG>
+<SEG id="segment-30" start_char="1145" end_char="1172">
+<ORIGINAL_TEXT>这一个阶段，中国的实业吸纳着资本，首次吸纳到了第一桶金。</ORIGINAL_TEXT>
+<TOKEN id="token-30-0" pos="unknown" morph="none" start_char="1145" end_char="1172">这一个阶段，中国的实业吸纳着资本，首次吸纳到了第一桶金。</TOKEN>
+</SEG>
+<SEG id="segment-31" start_char="1176" end_char="1249">
+<ORIGINAL_TEXT>2、第二个阶段，主要依靠城镇化，从1998年大学扩招开始、到2014年房地产市场暂停疯涨（今后是否还会疯涨，还要看未来的货币体系）为止，历经16年。</ORIGINAL_TEXT>
+<TOKEN id="token-31-0" pos="unknown" morph="none" start_char="1176" end_char="1249">2、第二个阶段，主要依靠城镇化，从1998年大学扩招开始、到2014年房地产市场暂停疯涨（今后是否还会疯涨，还要看未来的货币体系）为止，历经16年。</TOKEN>
+</SEG>
+<SEG id="segment-32" start_char="1251" end_char="1285">
+<ORIGINAL_TEXT>这一个阶段，依靠“大学扩招”和“房地产市场”，成功实现了中国的城镇化。</ORIGINAL_TEXT>
+<TOKEN id="token-32-0" pos="unknown" morph="none" start_char="1251" end_char="1285">这一个阶段，依靠“大学扩招”和“房地产市场”，成功实现了中国的城镇化。</TOKEN>
+</SEG>
+<SEG id="segment-33" start_char="1288" end_char="1339">
+<ORIGINAL_TEXT>（1）大学扩招，让众多学子走进大学的同时，也由农村走进了城市，甚至改变了中国几千年以农耕生活为主的习惯。</ORIGINAL_TEXT>
+<TOKEN id="token-33-0" pos="unknown" morph="none" start_char="1288" end_char="1339">（1）大学扩招，让众多学子走进大学的同时，也由农村走进了城市，甚至改变了中国几千年以农耕生活为主的习惯。</TOKEN>
+</SEG>
+<SEG id="segment-34" start_char="1341" end_char="1391">
+<ORIGINAL_TEXT>大学扩招，让大家有了在城市体面工作的机会，有了留在城市的那份自信，更有了将父母亲人纷纷接到城市的想法。</ORIGINAL_TEXT>
+<TOKEN id="token-34-0" pos="unknown" morph="none" start_char="1341" end_char="1391">大学扩招，让大家有了在城市体面工作的机会，有了留在城市的那份自信，更有了将父母亲人纷纷接到城市的想法。</TOKEN>
+</SEG>
+<SEG id="segment-35" start_char="1393" end_char="1442">
+<ORIGINAL_TEXT>大学扩招，让大家看到了考入大学的希望，再也不想成为中学时那批打架斗殴的社会小混混，也都成长为斯文人。</ORIGINAL_TEXT>
+<TOKEN id="token-35-0" pos="unknown" morph="none" start_char="1393" end_char="1442">大学扩招，让大家看到了考入大学的希望，再也不想成为中学时那批打架斗殴的社会小混混，也都成长为斯文人。</TOKEN>
+</SEG>
+<SEG id="segment-36" start_char="1444" end_char="1476">
+<ORIGINAL_TEXT>[ 转自铁血社区 http://www.tiexue.net/ ]</ORIGINAL_TEXT>
+<TOKEN id="token-36-0" pos="unknown" morph="none" start_char="1444" end_char="1444">[</TOKEN>
+<TOKEN id="token-36-1" pos="word" morph="none" start_char="1446" end_char="1451">转自铁血社区</TOKEN>
+<TOKEN id="token-36-2" pos="url" morph="none" start_char="1453" end_char="1474">http://www.tiexue.net/</TOKEN>
+<TOKEN id="token-36-3" pos="unknown" morph="none" start_char="1476" end_char="1476">]</TOKEN>
+</SEG>
+<SEG id="segment-37" start_char="1478" end_char="1509">
+<ORIGINAL_TEXT>正因大学扩招，中国才实现了人的集中，为城镇化建设提供了大量需求。</ORIGINAL_TEXT>
+<TOKEN id="token-37-0" pos="unknown" morph="none" start_char="1478" end_char="1509">正因大学扩招，中国才实现了人的集中，为城镇化建设提供了大量需求。</TOKEN>
+</SEG>
+<SEG id="segment-38" start_char="1511" end_char="1558">
+<ORIGINAL_TEXT>也因大学扩招，中国才保障了社会治安，以至于中国人到了美国这种世界第一发达大国，反而没有了安全感。</ORIGINAL_TEXT>
+<TOKEN id="token-38-0" pos="unknown" morph="none" start_char="1511" end_char="1558">也因大学扩招，中国才保障了社会治安，以至于中国人到了美国这种世界第一发达大国，反而没有了安全感。</TOKEN>
+</SEG>
+<SEG id="segment-39" start_char="1560" end_char="1627">
+<ORIGINAL_TEXT>在美国，经过大学教育的人，更有机会获得工作，甚至在华尔街就职，西装革履斯文扫地。而没有经过大学教育的人，很多也就成为美国街头的社会小混。</ORIGINAL_TEXT>
+<TOKEN id="token-39-0" pos="unknown" morph="none" start_char="1560" end_char="1627">在美国，经过大学教育的人，更有机会获得工作，甚至在华尔街就职，西装革履斯文扫地。而没有经过大学教育的人，很多也就成为美国街头的社会小混。</TOKEN>
+</SEG>
+<SEG id="segment-40" start_char="1630" end_char="1658">
+<ORIGINAL_TEXT>（2）房地产市场，为进入城市的人，提供了最基本的居住保障。</ORIGINAL_TEXT>
+<TOKEN id="token-40-0" pos="unknown" morph="none" start_char="1630" end_char="1658">（2）房地产市场，为进入城市的人，提供了最基本的居住保障。</TOKEN>
+</SEG>
+<SEG id="segment-41" start_char="1660" end_char="1711">
+<ORIGINAL_TEXT>没有房地产的市场化，就没有房地产大量供给的出现。留在城市的人，就没有现代化的居住条件，甚至会没有归属感。</ORIGINAL_TEXT>
+<TOKEN id="token-41-0" pos="unknown" morph="none" start_char="1660" end_char="1711">没有房地产的市场化，就没有房地产大量供给的出现。留在城市的人，就没有现代化的居住条件，甚至会没有归属感。</TOKEN>
+</SEG>
+<SEG id="segment-42" start_char="1713" end_char="1730">
+<ORIGINAL_TEXT>房地产市场，提供了现代化的生活居所。</ORIGINAL_TEXT>
+<TOKEN id="token-42-0" pos="word" morph="none" start_char="1713" end_char="1717">房地产市场</TOKEN>
+<TOKEN id="token-42-1" pos="punct" morph="none" start_char="1718" end_char="1718">，</TOKEN>
+<TOKEN id="token-42-2" pos="word" morph="none" start_char="1719" end_char="1729">提供了现代化的生活居所</TOKEN>
+<TOKEN id="token-42-3" pos="punct" morph="none" start_char="1730" end_char="1730">。</TOKEN>
+</SEG>
+<SEG id="segment-43" start_char="1732" end_char="1764">
+<ORIGINAL_TEXT>[ 转自铁血社区 http://bbs.tiexue.net/ ]</ORIGINAL_TEXT>
+<TOKEN id="token-43-0" pos="unknown" morph="none" start_char="1732" end_char="1732">[</TOKEN>
+<TOKEN id="token-43-1" pos="word" morph="none" start_char="1734" end_char="1739">转自铁血社区</TOKEN>
+<TOKEN id="token-43-2" pos="url" morph="none" start_char="1741" end_char="1762">http://bbs.tiexue.net/</TOKEN>
+<TOKEN id="token-43-3" pos="unknown" morph="none" start_char="1764" end_char="1764">]</TOKEN>
+</SEG>
+<SEG id="segment-44" start_char="1766" end_char="1795">
+<ORIGINAL_TEXT>现在，大家有钱可以买房住，没钱可以租房住，随时还可以换房住。</ORIGINAL_TEXT>
+<TOKEN id="token-44-0" pos="unknown" morph="none" start_char="1766" end_char="1795">现在，大家有钱可以买房住，没钱可以租房住，随时还可以换房住。</TOKEN>
+</SEG>
+<SEG id="segment-45" start_char="1797" end_char="1912">
+<ORIGINAL_TEXT>在房地产市场化之前，有钱都难买到房子。福利分房时代，分房论资排辈，领导住大房子，年轻人只能排队等房，好不容易分到一套小房子，想把父母亲人接来居住也没地方。甚至要在一套房子里蜗居一辈子，想换房住，只能往上爬，或者就看单位的效益福利了。</ORIGINAL_TEXT>
+<TOKEN id="token-45-0" pos="unknown" morph="none" start_char="1797" end_char="1912">在房地产市场化之前，有钱都难买到房子。福利分房时代，分房论资排辈，领导住大房子，年轻人只能排队等房，好不容易分到一套小房子，想把父母亲人接来居住也没地方。甚至要在一套房子里蜗居一辈子，想换房住，只能往上爬，或者就看单位的效益福利了。</TOKEN>
+</SEG>
+<SEG id="segment-46" start_char="1914" end_char="1945">
+<ORIGINAL_TEXT>房地产市场，为城镇化提供了大量供给，也让中国的城市面貌焕然一新。</ORIGINAL_TEXT>
+<TOKEN id="token-46-0" pos="unknown" morph="none" start_char="1914" end_char="1945">房地产市场，为城镇化提供了大量供给，也让中国的城市面貌焕然一新。</TOKEN>
+</SEG>
+<SEG id="segment-47" start_char="1947" end_char="2021">
+<ORIGINAL_TEXT>城镇化建设，让中国的大批基础建设制造企业获得了高速发展壮大，让中国有了“制造业大国”转向“制造业强国”的基础。人的集中，还让中国成为了“服务业大国”。</ORIGINAL_TEXT>
+<TOKEN id="token-47-0" pos="unknown" morph="none" start_char="1947" end_char="2021">城镇化建设，让中国的大批基础建设制造企业获得了高速发展壮大，让中国有了“制造业大国”转向“制造业强国”的基础。人的集中，还让中国成为了“服务业大国”。</TOKEN>
+</SEG>
+<SEG id="segment-48" start_char="2023" end_char="2062">
+<ORIGINAL_TEXT>这一个阶段，中国依靠城镇化，在实业吸纳资本的速度放缓之时，再次吸纳到了第二桶金。</ORIGINAL_TEXT>
+<TOKEN id="token-48-0" pos="unknown" morph="none" start_char="2023" end_char="2062">这一个阶段，中国依靠城镇化，在实业吸纳资本的速度放缓之时，再次吸纳到了第二桶金。</TOKEN>
+</SEG>
+<SEG id="segment-49" start_char="2066" end_char="2091">
+<ORIGINAL_TEXT>3、第三个阶段，主要依靠资本市场，从2015年开始。</ORIGINAL_TEXT>
+<TOKEN id="token-49-0" pos="unknown" morph="none" start_char="2066" end_char="2091">3、第三个阶段，主要依靠资本市场，从2015年开始。</TOKEN>
+</SEG>
+<SEG id="segment-50" start_char="2093" end_char="2145">
+<ORIGINAL_TEXT>[ 转自铁血社区 http://bbs.tiexue.net/post_8523913_1.html/ ]</ORIGINAL_TEXT>
+<TOKEN id="token-50-0" pos="unknown" morph="none" start_char="2093" end_char="2093">[</TOKEN>
+<TOKEN id="token-50-1" pos="word" morph="none" start_char="2095" end_char="2100">转自铁血社区</TOKEN>
+<TOKEN id="token-50-2" pos="url" morph="none" start_char="2102" end_char="2143">http://bbs.tiexue.net/post_8523913_1.html/</TOKEN>
+<TOKEN id="token-50-3" pos="unknown" morph="none" start_char="2145" end_char="2145">]</TOKEN>
+</SEG>
+<SEG id="segment-51" start_char="2147" end_char="2181">
+<ORIGINAL_TEXT>在实业和城镇化趋于发达的同时，中国的资本市场却相对落后，大有建设空间。</ORIGINAL_TEXT>
+<TOKEN id="token-51-0" pos="unknown" morph="none" start_char="2147" end_char="2181">在实业和城镇化趋于发达的同时，中国的资本市场却相对落后，大有建设空间。</TOKEN>
+</SEG>
+<SEG id="segment-52" start_char="2183" end_char="2229">
+<ORIGINAL_TEXT>于是，又一个吸纳资本的引擎出现了，就是资本市场，股市只是其中一个，但也是最重要的资本市场之一。</ORIGINAL_TEXT>
+<TOKEN id="token-52-0" pos="unknown" morph="none" start_char="2183" end_char="2229">于是，又一个吸纳资本的引擎出现了，就是资本市场，股市只是其中一个，但也是最重要的资本市场之一。</TOKEN>
+</SEG>
+<SEG id="segment-53" start_char="2231" end_char="2284">
+<ORIGINAL_TEXT>这一个阶段，中国将进行资本市场的大量建设（例如期货市场）和扩容（例如股票市场），也会对资本市场进行深化改革。</ORIGINAL_TEXT>
+<TOKEN id="token-53-0" pos="unknown" morph="none" start_char="2231" end_char="2284">这一个阶段，中国将进行资本市场的大量建设（例如期货市场）和扩容（例如股票市场），也会对资本市场进行深化改革。</TOKEN>
+</SEG>
+<SEG id="segment-54" start_char="2286" end_char="2324">
+<ORIGINAL_TEXT>经过这一阶段，中国的资本市场将走向国际舞台，国内资本市场将发展为国际资本市场。</ORIGINAL_TEXT>
+<TOKEN id="token-54-0" pos="unknown" morph="none" start_char="2286" end_char="2324">经过这一阶段，中国的资本市场将走向国际舞台，国内资本市场将发展为国际资本市场。</TOKEN>
+</SEG>
+<SEG id="segment-55" start_char="2326" end_char="2376">
+<ORIGINAL_TEXT>中国不仅将消除落后英美资本市场几百年的差距，还将通过深化改革和法制化建设，拥有比英美更健康的资本市场。</ORIGINAL_TEXT>
+<TOKEN id="token-55-0" pos="unknown" morph="none" start_char="2326" end_char="2376">中国不仅将消除落后英美资本市场几百年的差距，还将通过深化改革和法制化建设，拥有比英美更健康的资本市场。</TOKEN>
+</SEG>
+<SEG id="segment-56" start_char="2378" end_char="2404">
+<ORIGINAL_TEXT>资本市场国际化更是资本国际化、人民币国际化的必经之路。</ORIGINAL_TEXT>
+<TOKEN id="token-56-0" pos="word" morph="none" start_char="2378" end_char="2391">资本市场国际化更是资本国际化</TOKEN>
+<TOKEN id="token-56-1" pos="punct" morph="none" start_char="2392" end_char="2392">、</TOKEN>
+<TOKEN id="token-56-2" pos="word" morph="none" start_char="2393" end_char="2403">人民币国际化的必经之路</TOKEN>
+<TOKEN id="token-56-3" pos="punct" morph="none" start_char="2404" end_char="2404">。</TOKEN>
+</SEG>
+<SEG id="segment-57" start_char="2406" end_char="2438">
+<ORIGINAL_TEXT>[ 转自铁血社区 http://www.tiexue.net/ ]</ORIGINAL_TEXT>
+<TOKEN id="token-57-0" pos="unknown" morph="none" start_char="2406" end_char="2406">[</TOKEN>
+<TOKEN id="token-57-1" pos="word" morph="none" start_char="2408" end_char="2413">转自铁血社区</TOKEN>
+<TOKEN id="token-57-2" pos="url" morph="none" start_char="2415" end_char="2436">http://www.tiexue.net/</TOKEN>
+<TOKEN id="token-57-3" pos="unknown" morph="none" start_char="2438" end_char="2438">]</TOKEN>
+</SEG>
+<SEG id="segment-58" start_char="2444" end_char="2477">
+<ORIGINAL_TEXT>二、接下来，再进一步说一下特征，究竟是慢牛还是快牛，是短牛还是长牛。</ORIGINAL_TEXT>
+<TOKEN id="token-58-0" pos="unknown" morph="none" start_char="2444" end_char="2477">二、接下来，再进一步说一下特征，究竟是慢牛还是快牛，是短牛还是长牛。</TOKEN>
+</SEG>
+<SEG id="segment-59" start_char="2479" end_char="2521">
+<ORIGINAL_TEXT>判断特征比判断方向更难，最理想的特征就是慢牛、长牛，股民以获取长期稳定的分红收益为主。</ORIGINAL_TEXT>
+<TOKEN id="token-59-0" pos="unknown" morph="none" start_char="2479" end_char="2521">判断特征比判断方向更难，最理想的特征就是慢牛、长牛，股民以获取长期稳定的分红收益为主。</TOKEN>
+</SEG>
+<SEG id="segment-60" start_char="2523" end_char="2545">
+<ORIGINAL_TEXT>但是，股市一旦进入牛市，慢牛和长牛就很难做到。</ORIGINAL_TEXT>
+<TOKEN id="token-60-0" pos="unknown" morph="none" start_char="2523" end_char="2545">但是，股市一旦进入牛市，慢牛和长牛就很难做到。</TOKEN>
+</SEG>
+<SEG id="segment-61" start_char="2549" end_char="2559">
+<ORIGINAL_TEXT>1、先说慢牛还是快牛。</ORIGINAL_TEXT>
+<TOKEN id="token-61-0" pos="word" morph="none" start_char="2549" end_char="2549">1</TOKEN>
+<TOKEN id="token-61-1" pos="punct" morph="none" start_char="2550" end_char="2550">、</TOKEN>
+<TOKEN id="token-61-2" pos="word" morph="none" start_char="2551" end_char="2558">先说慢牛还是快牛</TOKEN>
+<TOKEN id="token-61-3" pos="punct" morph="none" start_char="2559" end_char="2559">。</TOKEN>
+</SEG>
+<SEG id="segment-62" start_char="2561" end_char="2588">
+<ORIGINAL_TEXT>与慢牛相对的是快牛、疯牛。快慢是指一个时间内的上涨点数。</ORIGINAL_TEXT>
+<TOKEN id="token-62-0" pos="unknown" morph="none" start_char="2561" end_char="2588">与慢牛相对的是快牛、疯牛。快慢是指一个时间内的上涨点数。</TOKEN>
+</SEG>
+<SEG id="segment-63" start_char="2590" end_char="2690">
+<ORIGINAL_TEXT>因为资本的贪婪，股市又属于高风险市场，资本一旦进入股市，就是冒着高风险的（可不再像存在银行那种低风险了），图的就是能获取到高风险收益，所以投资者也会拼命的冒险，加杠杆、追涨、加仓，甚至将房子抵押去炒股。</ORIGINAL_TEXT>
+<TOKEN id="token-63-0" pos="unknown" morph="none" start_char="2590" end_char="2690">因为资本的贪婪，股市又属于高风险市场，资本一旦进入股市，就是冒着高风险的（可不再像存在银行那种低风险了），图的就是能获取到高风险收益，所以投资者也会拼命的冒险，加杠杆、追涨、加仓，甚至将房子抵押去炒股。</TOKEN>
+</SEG>
+<SEG id="segment-64" start_char="2692" end_char="2724">
+<ORIGINAL_TEXT>[ 转自铁血社区 http://bbs.tiexue.net/ ]</ORIGINAL_TEXT>
+<TOKEN id="token-64-0" pos="unknown" morph="none" start_char="2692" end_char="2692">[</TOKEN>
+<TOKEN id="token-64-1" pos="word" morph="none" start_char="2694" end_char="2699">转自铁血社区</TOKEN>
+<TOKEN id="token-64-2" pos="url" morph="none" start_char="2701" end_char="2722">http://bbs.tiexue.net/</TOKEN>
+<TOKEN id="token-64-3" pos="unknown" morph="none" start_char="2724" end_char="2724">]</TOKEN>
+</SEG>
+<SEG id="segment-65" start_char="2726" end_char="2792">
+<ORIGINAL_TEXT>正是资本的贪婪本性，决定了股市很容易变成快牛、疯牛，更何况中国的股市又是全世界最便宜的。好在中国政府控制得力，资本才暂时没掀起大风浪。</ORIGINAL_TEXT>
+<TOKEN id="token-65-0" pos="unknown" morph="none" start_char="2726" end_char="2792">正是资本的贪婪本性，决定了股市很容易变成快牛、疯牛，更何况中国的股市又是全世界最便宜的。好在中国政府控制得力，资本才暂时没掀起大风浪。</TOKEN>
+</SEG>
+<SEG id="segment-66" start_char="2794" end_char="2828">
+<ORIGINAL_TEXT>至于中国即将到来的牛市，是慢牛还是快牛，我在后面的分析中，会给出答案。</ORIGINAL_TEXT>
+<TOKEN id="token-66-0" pos="unknown" morph="none" start_char="2794" end_char="2828">至于中国即将到来的牛市，是慢牛还是快牛，我在后面的分析中，会给出答案。</TOKEN>
+</SEG>
+<SEG id="segment-67" start_char="2832" end_char="2842">
+<ORIGINAL_TEXT>2、再说长牛还是短牛。</ORIGINAL_TEXT>
+<TOKEN id="token-67-0" pos="word" morph="none" start_char="2832" end_char="2832">2</TOKEN>
+<TOKEN id="token-67-1" pos="punct" morph="none" start_char="2833" end_char="2833">、</TOKEN>
+<TOKEN id="token-67-2" pos="word" morph="none" start_char="2834" end_char="2841">再说长牛还是短牛</TOKEN>
+<TOKEN id="token-67-3" pos="punct" morph="none" start_char="2842" end_char="2842">。</TOKEN>
+</SEG>
+<SEG id="segment-68" start_char="2844" end_char="2872">
+<ORIGINAL_TEXT>与长牛相对的是中牛、短牛。长短是指股市每次持续上涨的时间。</ORIGINAL_TEXT>
+<TOKEN id="token-68-0" pos="unknown" morph="none" start_char="2844" end_char="2872">与长牛相对的是中牛、短牛。长短是指股市每次持续上涨的时间。</TOKEN>
+</SEG>
+<SEG id="segment-69" start_char="2874" end_char="2890">
+<ORIGINAL_TEXT>长牛对一个国家，不一定就是好事情。</ORIGINAL_TEXT>
+<TOKEN id="token-69-0" pos="word" morph="none" start_char="2874" end_char="2880">长牛对一个国家</TOKEN>
+<TOKEN id="token-69-1" pos="punct" morph="none" start_char="2881" end_char="2881">，</TOKEN>
+<TOKEN id="token-69-2" pos="word" morph="none" start_char="2882" end_char="2889">不一定就是好事情</TOKEN>
+<TOKEN id="token-69-3" pos="punct" morph="none" start_char="2890" end_char="2890">。</TOKEN>
+</SEG>
+<SEG id="segment-70" start_char="2892" end_char="2936">
+<ORIGINAL_TEXT>因为股市一旦进入牛市，很多资本就不愿再进入实业了，毕竟股市里来的快，还不用做实业那么辛苦。</ORIGINAL_TEXT>
+<TOKEN id="token-70-0" pos="unknown" morph="none" start_char="2892" end_char="2936">因为股市一旦进入牛市，很多资本就不愿再进入实业了，毕竟股市里来的快，还不用做实业那么辛苦。</TOKEN>
+</SEG>
+<SEG id="segment-71" start_char="2938" end_char="2990">
+<ORIGINAL_TEXT>[ 转自铁血社区 http://bbs.tiexue.net/post_8523913_1.html/ ]</ORIGINAL_TEXT>
+<TOKEN id="token-71-0" pos="unknown" morph="none" start_char="2938" end_char="2938">[</TOKEN>
+<TOKEN id="token-71-1" pos="word" morph="none" start_char="2940" end_char="2945">转自铁血社区</TOKEN>
+<TOKEN id="token-71-2" pos="url" morph="none" start_char="2947" end_char="2988">http://bbs.tiexue.net/post_8523913_1.html/</TOKEN>
+<TOKEN id="token-71-3" pos="unknown" morph="none" start_char="2990" end_char="2990">]</TOKEN>
+</SEG>
+<SEG id="segment-72" start_char="2992" end_char="3101">
+<ORIGINAL_TEXT>股市1-2年的持续的牛市还好，一旦5-10年的持续的牛市（特别是疯牛），实业就会长期得不到资本的补充，就会衰落，那会导致中国走美国“虚拟经济发达、实体经济衰落、失业率居高不下、民众看不到希望”的老路，最后受伤的还是民众。</ORIGINAL_TEXT>
+<TOKEN id="token-72-0" pos="unknown" morph="none" start_char="2992" end_char="3101">股市1-2年的持续的牛市还好，一旦5-10年的持续的牛市（特别是疯牛），实业就会长期得不到资本的补充，就会衰落，那会导致中国走美国“虚拟经济发达、实体经济衰落、失业率居高不下、民众看不到希望”的老路，最后受伤的还是民众。</TOKEN>
+</SEG>
+<SEG id="segment-73" start_char="3103" end_char="3124">
+<ORIGINAL_TEXT>而且，长牛会导致实体经济的融资成本不断提高。</ORIGINAL_TEXT>
+<TOKEN id="token-73-0" pos="word" morph="none" start_char="3103" end_char="3104">而且</TOKEN>
+<TOKEN id="token-73-1" pos="punct" morph="none" start_char="3105" end_char="3105">，</TOKEN>
+<TOKEN id="token-73-2" pos="word" morph="none" start_char="3106" end_char="3123">长牛会导致实体经济的融资成本不断提高</TOKEN>
+<TOKEN id="token-73-3" pos="punct" morph="none" start_char="3124" end_char="3124">。</TOKEN>
+</SEG>
+<SEG id="segment-74" start_char="3126" end_char="3154">
+<ORIGINAL_TEXT>很多人认为，股市可以让企业直接融资，降低了企业的融资成本。</ORIGINAL_TEXT>
+<TOKEN id="token-74-0" pos="unknown" morph="none" start_char="3126" end_char="3154">很多人认为，股市可以让企业直接融资，降低了企业的融资成本。</TOKEN>
+</SEG>
+<SEG id="segment-75" start_char="3156" end_char="3172">
+<ORIGINAL_TEXT>这只是上市公司，只是一小部分企业。</ORIGINAL_TEXT>
+<TOKEN id="token-75-0" pos="word" morph="none" start_char="3156" end_char="3162">这只是上市公司</TOKEN>
+<TOKEN id="token-75-1" pos="punct" morph="none" start_char="3163" end_char="3163">，</TOKEN>
+<TOKEN id="token-75-2" pos="word" morph="none" start_char="3164" end_char="3171">只是一小部分企业</TOKEN>
+<TOKEN id="token-75-3" pos="punct" morph="none" start_char="3172" end_char="3172">。</TOKEN>
+</SEG>
+<SEG id="segment-76" start_char="3174" end_char="3246">
+<ORIGINAL_TEXT>大量的非上市企业，将会陷入融资成本不断提高的境地。因为股市越好，银行吸收存款就越困难，吸收存款的成本（理财产品收益率）就越高，放贷的成本也就越高。</ORIGINAL_TEXT>
+<TOKEN id="token-76-0" pos="unknown" morph="none" start_char="3174" end_char="3246">大量的非上市企业，将会陷入融资成本不断提高的境地。因为股市越好，银行吸收存款就越困难，吸收存款的成本（理财产品收益率）就越高，放贷的成本也就越高。</TOKEN>
+</SEG>
+<SEG id="segment-77" start_char="3248" end_char="3361">
+<ORIGINAL_TEXT>而且，即使是上市公司，也不一定就拿到了低成本的融资，上市公司融资的抵押物是股权，股权不一定就是最便宜的。有一部分效益好的企业宁愿不上市，就是舍不得把优质的股权抵押出去，未来要想把这些股权回购回来，成本可能已经远远超过银行融资了。</ORIGINAL_TEXT>
+<TOKEN id="token-77-0" pos="unknown" morph="none" start_char="3248" end_char="3361">而且，即使是上市公司，也不一定就拿到了低成本的融资，上市公司融资的抵押物是股权，股权不一定就是最便宜的。有一部分效益好的企业宁愿不上市，就是舍不得把优质的股权抵押出去，未来要想把这些股权回购回来，成本可能已经远远超过银行融资了。</TOKEN>
+</SEG>
+<SEG id="segment-78" start_char="3363" end_char="3395">
+<ORIGINAL_TEXT>[ 转自铁血社区 http://www.tiexue.net/ ]</ORIGINAL_TEXT>
+<TOKEN id="token-78-0" pos="unknown" morph="none" start_char="3363" end_char="3363">[</TOKEN>
+<TOKEN id="token-78-1" pos="word" morph="none" start_char="3365" end_char="3370">转自铁血社区</TOKEN>
+<TOKEN id="token-78-2" pos="url" morph="none" start_char="3372" end_char="3393">http://www.tiexue.net/</TOKEN>
+<TOKEN id="token-78-3" pos="unknown" morph="none" start_char="3395" end_char="3395">]</TOKEN>
+</SEG>
+<SEG id="segment-79" start_char="3397" end_char="3412">
+<ORIGINAL_TEXT>再者，长牛会彻底养成民众的惰性。</ORIGINAL_TEXT>
+<TOKEN id="token-79-0" pos="word" morph="none" start_char="3397" end_char="3398">再者</TOKEN>
+<TOKEN id="token-79-1" pos="punct" morph="none" start_char="3399" end_char="3399">，</TOKEN>
+<TOKEN id="token-79-2" pos="word" morph="none" start_char="3400" end_char="3411">长牛会彻底养成民众的惰性</TOKEN>
+<TOKEN id="token-79-3" pos="punct" morph="none" start_char="3412" end_char="3412">。</TOKEN>
+</SEG>
+<SEG id="segment-80" start_char="3414" end_char="3464">
+<ORIGINAL_TEXT>如果股市长牛，很多人会觉得打工还不如炒股、做生意还不如炒股，会养成惰性，甚至会消磨掉一个民族的创造力。</ORIGINAL_TEXT>
+<TOKEN id="token-80-0" pos="unknown" morph="none" start_char="3414" end_char="3464">如果股市长牛，很多人会觉得打工还不如炒股、做生意还不如炒股，会养成惰性，甚至会消磨掉一个民族的创造力。</TOKEN>
+</SEG>
+<SEG id="segment-81" start_char="3468" end_char="3512">
+<ORIGINAL_TEXT>所以，股市可以慢牛，可以快牛，甚至可以疯牛，但就是不能长牛，就是不能持续5-10年的上涨。</ORIGINAL_TEXT>
+<TOKEN id="token-81-0" pos="unknown" morph="none" start_char="3468" end_char="3512">所以，股市可以慢牛，可以快牛，甚至可以疯牛，但就是不能长牛，就是不能持续5-10年的上涨。</TOKEN>
+</SEG>
+<SEG id="segment-82" start_char="3514" end_char="3559">
+<ORIGINAL_TEXT>健康的股市，投资者赚取的应该是上市公司的业绩分红，而不是股票大幅度的持续上涨带来的投机价差。</ORIGINAL_TEXT>
+<TOKEN id="token-82-0" pos="unknown" morph="none" start_char="3514" end_char="3559">健康的股市，投资者赚取的应该是上市公司的业绩分红，而不是股票大幅度的持续上涨带来的投机价差。</TOKEN>
+</SEG>
+<SEG id="segment-83" start_char="3563" end_char="3593">
+<ORIGINAL_TEXT>对国家来说，股市的速度不是最重要的，最重要的是持续上涨的时间。</ORIGINAL_TEXT>
+<TOKEN id="token-83-0" pos="unknown" morph="none" start_char="3563" end_char="3593">对国家来说，股市的速度不是最重要的，最重要的是持续上涨的时间。</TOKEN>
+</SEG>
+<SEG id="segment-84" start_char="3595" end_char="3625">
+<ORIGINAL_TEXT>股市这张牌，出牌的力度不是最重要的，最重要的是在什么时间出牌。</ORIGINAL_TEXT>
+<TOKEN id="token-84-0" pos="unknown" morph="none" start_char="3595" end_char="3625">股市这张牌，出牌的力度不是最重要的，最重要的是在什么时间出牌。</TOKEN>
+</SEG>
+<SEG id="segment-85" start_char="3627" end_char="3659">
+<ORIGINAL_TEXT>[ 转自铁血社区 http://bbs.tiexue.net/ ]</ORIGINAL_TEXT>
+<TOKEN id="token-85-0" pos="unknown" morph="none" start_char="3627" end_char="3627">[</TOKEN>
+<TOKEN id="token-85-1" pos="word" morph="none" start_char="3629" end_char="3634">转自铁血社区</TOKEN>
+<TOKEN id="token-85-2" pos="url" morph="none" start_char="3636" end_char="3657">http://bbs.tiexue.net/</TOKEN>
+<TOKEN id="token-85-3" pos="unknown" morph="none" start_char="3659" end_char="3659">]</TOKEN>
+</SEG>
+<SEG id="segment-86" start_char="3663" end_char="3727">
+<ORIGINAL_TEXT>正因为股市不能长牛，所以一旦持续上涨，时间不能太长。这就决定了，面对美国，中国不能过早的打出这张牌，不能过早的启动股市的持续上涨。</ORIGINAL_TEXT>
+<TOKEN id="token-86-0" pos="unknown" morph="none" start_char="3663" end_char="3727">正因为股市不能长牛，所以一旦持续上涨，时间不能太长。这就决定了，面对美国，中国不能过早的打出这张牌，不能过早的启动股市的持续上涨。</TOKEN>
+</SEG>
+<SEG id="segment-87" start_char="3729" end_char="3820">
+<ORIGINAL_TEXT>如果在美国还没大量吸收资本之前，中国就过早的出牌，股市上涨到很高的价位之后，一旦美国开始大量吸收资本，资本就会纷纷撤离股市，获利之后奔向美国。这样一出一进，伤害的是中国，吃饱的是美国。</ORIGINAL_TEXT>
+<TOKEN id="token-87-0" pos="unknown" morph="none" start_char="3729" end_char="3820">如果在美国还没大量吸收资本之前，中国就过早的出牌，股市上涨到很高的价位之后，一旦美国开始大量吸收资本，资本就会纷纷撤离股市，获利之后奔向美国。这样一出一进，伤害的是中国，吃饱的是美国。</TOKEN>
+</SEG>
+<SEG id="segment-88" start_char="3822" end_char="3887">
+<ORIGINAL_TEXT>股市这张牌，如果出牌的时间没把握好，甚至会让中国在这次世纪博弈中彻底落败，会让美国再领导世界100年，而中国将失去接下来的一个世纪。</ORIGINAL_TEXT>
+<TOKEN id="token-88-0" pos="unknown" morph="none" start_char="3822" end_char="3887">股市这张牌，如果出牌的时间没把握好，甚至会让中国在这次世纪博弈中彻底落败，会让美国再领导世界100年，而中国将失去接下来的一个世纪。</TOKEN>
+</SEG>
+<SEG id="segment-89" start_char="3889" end_char="3905">
+<ORIGINAL_TEXT>日本失去的近30年，就是一个例证。</ORIGINAL_TEXT>
+<TOKEN id="token-89-0" pos="word" morph="none" start_char="3889" end_char="3897">日本失去的近30年</TOKEN>
+<TOKEN id="token-89-1" pos="punct" morph="none" start_char="3898" end_char="3898">，</TOKEN>
+<TOKEN id="token-89-2" pos="word" morph="none" start_char="3899" end_char="3904">就是一个例证</TOKEN>
+<TOKEN id="token-89-3" pos="punct" morph="none" start_char="3905" end_char="3905">。</TOKEN>
+</SEG>
+<SEG id="segment-90" start_char="3909" end_char="3950">
+<ORIGINAL_TEXT>60年代，日本就已经开始在汽车工业中大规模使用工业机器人，将人工失误率降到几乎为零。</ORIGINAL_TEXT>
+<TOKEN id="token-90-0" pos="unknown" morph="none" start_char="3909" end_char="3950">60年代，日本就已经开始在汽车工业中大规模使用工业机器人，将人工失误率降到几乎为零。</TOKEN>
+</SEG>
+<SEG id="segment-91" start_char="3952" end_char="4003">
+<ORIGINAL_TEXT>70年代，日本在石油危机的高油价环境下，利用省油、价廉、故障率低的优势彻底打败了美国车，占领了美国市场。</ORIGINAL_TEXT>
+<TOKEN id="token-91-0" pos="unknown" morph="none" start_char="3952" end_char="4003">70年代，日本在石油危机的高油价环境下，利用省油、价廉、故障率低的优势彻底打败了美国车，占领了美国市场。</TOKEN>
+</SEG>
+<SEG id="segment-92" start_char="4005" end_char="4057">
+<ORIGINAL_TEXT>[ 转自铁血社区 http://bbs.tiexue.net/post_8523913_1.html/ ]</ORIGINAL_TEXT>
+<TOKEN id="token-92-0" pos="unknown" morph="none" start_char="4005" end_char="4005">[</TOKEN>
+<TOKEN id="token-92-1" pos="word" morph="none" start_char="4007" end_char="4012">转自铁血社区</TOKEN>
+<TOKEN id="token-92-2" pos="url" morph="none" start_char="4014" end_char="4055">http://bbs.tiexue.net/post_8523913_1.html/</TOKEN>
+<TOKEN id="token-92-3" pos="unknown" morph="none" start_char="4057" end_char="4057">]</TOKEN>
+</SEG>
+<SEG id="segment-93" start_char="4059" end_char="4133">
+<ORIGINAL_TEXT>80年代，日本的电子工业突飞猛进，索尼、日立、东芝等一大批电子企业迅速崛起，重创了美国电子和计算机硬件行业，甚至达到了美国导弹必须使用日本芯片的程度。</ORIGINAL_TEXT>
+<TOKEN id="token-93-0" pos="unknown" morph="none" start_char="4059" end_char="4133">80年代，日本的电子工业突飞猛进，索尼、日立、东芝等一大批电子企业迅速崛起，重创了美国电子和计算机硬件行业，甚至达到了美国导弹必须使用日本芯片的程度。</TOKEN>
+</SEG>
+<SEG id="segment-94" start_char="4135" end_char="4180">
+<ORIGINAL_TEXT>80年代，中国老百姓不管花多少钱，都想买一台日本的彩电，很多80后看的第一部彩电也是日本的。</ORIGINAL_TEXT>
+<TOKEN id="token-94-0" pos="unknown" morph="none" start_char="4135" end_char="4180">80年代，中国老百姓不管花多少钱，都想买一台日本的彩电，很多80后看的第一部彩电也是日本的。</TOKEN>
+</SEG>
+<SEG id="segment-95" start_char="4182" end_char="4290">
+<ORIGINAL_TEXT>80年代，美国几乎人人相信，东芝、日立收购IBM和英特尔只是时间问题，美国工人担心日本的机器人会最终抢走自己的饭碗。日本经济的增长速度和质量、工业产品的出口竞争力、财富积累的速度和规模，都达到了让美国银行家惊恐的程度。</ORIGINAL_TEXT>
+<TOKEN id="token-95-0" pos="unknown" morph="none" start_char="4182" end_char="4290">80年代，美国几乎人人相信，东芝、日立收购IBM和英特尔只是时间问题，美国工人担心日本的机器人会最终抢走自己的饭碗。日本经济的增长速度和质量、工业产品的出口竞争力、财富积累的速度和规模，都达到了让美国银行家惊恐的程度。</TOKEN>
+</SEG>
+<SEG id="segment-96" start_char="4292" end_char="4372">
+<ORIGINAL_TEXT>1987年10月，纽约股市崩盘，美国财政部长贝克想日本首相中曾根施压，要求日本银行继续下调利率，使美国股市看起来比日本股市更有吸引力（就是更便宜、更有上涨空间）。</ORIGINAL_TEXT>
+<TOKEN id="token-96-0" pos="unknown" morph="none" start_char="4292" end_char="4372">1987年10月，纽约股市崩盘，美国财政部长贝克想日本首相中曾根施压，要求日本银行继续下调利率，使美国股市看起来比日本股市更有吸引力（就是更便宜、更有上涨空间）。</TOKEN>
+</SEG>
+<SEG id="segment-97" start_char="4374" end_char="4421">
+<ORIGINAL_TEXT>很快，日元利率大幅下跌到2.5%，日本银行系统开始出现流动性泛滥，大量廉价资本涌进股市和房地产。</ORIGINAL_TEXT>
+<TOKEN id="token-97-0" pos="unknown" morph="none" start_char="4374" end_char="4421">很快，日元利率大幅下跌到2.5%，日本银行系统开始出现流动性泛滥，大量廉价资本涌进股市和房地产。</TOKEN>
+</SEG>
+<SEG id="segment-98" start_char="4423" end_char="4438">
+<ORIGINAL_TEXT>很快，日本股市和房地产大幅上涨。</ORIGINAL_TEXT>
+<TOKEN id="token-98-0" pos="word" morph="none" start_char="4423" end_char="4424">很快</TOKEN>
+<TOKEN id="token-98-1" pos="punct" morph="none" start_char="4425" end_char="4425">，</TOKEN>
+<TOKEN id="token-98-2" pos="word" morph="none" start_char="4426" end_char="4437">日本股市和房地产大幅上涨</TOKEN>
+<TOKEN id="token-98-3" pos="punct" morph="none" start_char="4438" end_char="4438">。</TOKEN>
+</SEG>
+<SEG id="segment-99" start_char="4440" end_char="4472">
+<ORIGINAL_TEXT>[ 转自铁血社区 http://www.tiexue.net/ ]</ORIGINAL_TEXT>
+<TOKEN id="token-99-0" pos="unknown" morph="none" start_char="4440" end_char="4440">[</TOKEN>
+<TOKEN id="token-99-1" pos="word" morph="none" start_char="4442" end_char="4447">转自铁血社区</TOKEN>
+<TOKEN id="token-99-2" pos="url" morph="none" start_char="4449" end_char="4470">http://www.tiexue.net/</TOKEN>
+<TOKEN id="token-99-3" pos="unknown" morph="none" start_char="4472" end_char="4472">]</TOKEN>
+</SEG>
+<SEG id="segment-100" start_char="4474" end_char="4534">
+<ORIGINAL_TEXT>1987、1988、1989持续3年的股市上涨，几乎让日本全民相信日本经济世界第一，日本股市也是天下第一，根本不可能下跌。</ORIGINAL_TEXT>
+<TOKEN id="token-100-0" pos="unknown" morph="none" start_char="4474" end_char="4534">1987、1988、1989持续3年的股市上涨，几乎让日本全民相信日本经济世界第一，日本股市也是天下第一，根本不可能下跌。</TOKEN>
+</SEG>
+<SEG id="segment-101" start_char="4536" end_char="4608">
+<ORIGINAL_TEXT>1989年12月29日，日本股市达到了历史顶峰，日经指数达到了38915点，美国人大量利用金融衍生工具“股指期权”做空日经指数，日经指数开始下跌。</ORIGINAL_TEXT>
+<TOKEN id="token-101-0" pos="unknown" morph="none" start_char="4536" end_char="4608">1989年12月29日，日本股市达到了历史顶峰，日经指数达到了38915点，美国人大量利用金融衍生工具“股指期权”做空日经指数，日经指数开始下跌。</TOKEN>
+</SEG>
+<SEG id="segment-102" start_char="4610" end_char="4716">
+<ORIGINAL_TEXT>1990年1月12日，美国交易所突然出现“日经指数认股权证”这一新的金融产品，日本股市终于开始崩盘了，从银行股和保险股开始，最好到实业股，一路下跌了连续十几年，暴跌超过70%，其损失的财富甚至和二战战败的后果相当。</ORIGINAL_TEXT>
+<TOKEN id="token-102-0" pos="unknown" morph="none" start_char="4610" end_char="4716">1990年1月12日，美国交易所突然出现“日经指数认股权证”这一新的金融产品，日本股市终于开始崩盘了，从银行股和保险股开始，最好到实业股，一路下跌了连续十几年，暴跌超过70%，其损失的财富甚至和二战战败的后果相当。</TOKEN>
+</SEG>
+<SEG id="segment-103" start_char="4718" end_char="4811">
+<ORIGINAL_TEXT>从日本股市的暴跌开始，日本衰落了近30年，因为人口的严重老化，甚至还将继续衰落下去。以日本股市暴跌为导火索引起的后果，有可能会让日本失去一个世纪，失去一个领导亚洲、甚至领导世界的一个世纪。</ORIGINAL_TEXT>
+<TOKEN id="token-103-0" pos="unknown" morph="none" start_char="4718" end_char="4811">从日本股市的暴跌开始，日本衰落了近30年，因为人口的严重老化，甚至还将继续衰落下去。以日本股市暴跌为导火索引起的后果，有可能会让日本失去一个世纪，失去一个领导亚洲、甚至领导世界的一个世纪。</TOKEN>
+</SEG>
+<SEG id="segment-104" start_char="4817" end_char="4836">
+<ORIGINAL_TEXT>三、最后，就说一下股市这张牌的出牌时机。</ORIGINAL_TEXT>
+<TOKEN id="token-104-0" pos="unknown" morph="none" start_char="4817" end_char="4836">三、最后，就说一下股市这张牌的出牌时机。</TOKEN>
+</SEG>
+<SEG id="segment-105" start_char="4840" end_char="4936">
+<ORIGINAL_TEXT>因为股市不能长牛（现在这种震荡行情已经将牛市从中切断了，不能构成长牛），一旦启动持续上涨，超过2年就很危险（日本股市持续上涨了3年），所以什么时候启动持续上涨，也就是什么时候出牌就显得非常重要。</ORIGINAL_TEXT>
+<TOKEN id="token-105-0" pos="unknown" morph="none" start_char="4840" end_char="4936">因为股市不能长牛（现在这种震荡行情已经将牛市从中切断了，不能构成长牛），一旦启动持续上涨，超过2年就很危险（日本股市持续上涨了3年），所以什么时候启动持续上涨，也就是什么时候出牌就显得非常重要。</TOKEN>
+</SEG>
+<SEG id="segment-106" start_char="4938" end_char="4970">
+<ORIGINAL_TEXT>[ 转自铁血社区 http://bbs.tiexue.net/ ]</ORIGINAL_TEXT>
+<TOKEN id="token-106-0" pos="unknown" morph="none" start_char="4938" end_char="4938">[</TOKEN>
+<TOKEN id="token-106-1" pos="word" morph="none" start_char="4940" end_char="4945">转自铁血社区</TOKEN>
+<TOKEN id="token-106-2" pos="url" morph="none" start_char="4947" end_char="4968">http://bbs.tiexue.net/</TOKEN>
+<TOKEN id="token-106-3" pos="unknown" morph="none" start_char="4970" end_char="4970">]</TOKEN>
+</SEG>
+<SEG id="segment-107" start_char="4972" end_char="5022">
+<ORIGINAL_TEXT>这里，我将向大家重点解释开篇提到的为什么“就我个人分析，2015年上半年的涨幅不会大，甚至可以为零”。</ORIGINAL_TEXT>
+<TOKEN id="token-107-0" pos="unknown" morph="none" start_char="4972" end_char="5022">这里，我将向大家重点解释开篇提到的为什么“就我个人分析，2015年上半年的涨幅不会大，甚至可以为零”。</TOKEN>
+</SEG>
+<SEG id="segment-108" start_char="5024" end_char="5063">
+<ORIGINAL_TEXT>2014年7月10日，美国宣布了退出QE的准确时间，于是，资本开始准备回流美国。</ORIGINAL_TEXT>
+<TOKEN id="token-108-0" pos="unknown" morph="none" start_char="5024" end_char="5063">2014年7月10日，美国宣布了退出QE的准确时间，于是，资本开始准备回流美国。</TOKEN>
+</SEG>
+<SEG id="segment-109" start_char="5065" end_char="5127">
+<ORIGINAL_TEXT>2014年7月中旬，在历经六年熊市之后，中国开始了第一轮启动股市，就是要防止国内金融资本被美国吸走，开始了吸纳资金的战略防守。</ORIGINAL_TEXT>
+<TOKEN id="token-109-0" pos="unknown" morph="none" start_char="5065" end_char="5127">2014年7月中旬，在历经六年熊市之后，中国开始了第一轮启动股市，就是要防止国内金融资本被美国吸走，开始了吸纳资金的战略防守。</TOKEN>
+</SEG>
+<SEG id="segment-110" start_char="5129" end_char="5165">
+<ORIGINAL_TEXT>2014年10月31日，美国正式宣布退出QE，于是，资本开始大量回流美国。</ORIGINAL_TEXT>
+<TOKEN id="token-110-0" pos="unknown" morph="none" start_char="5129" end_char="5165">2014年10月31日，美国正式宣布退出QE，于是，资本开始大量回流美国。</TOKEN>
+</SEG>
+<SEG id="segment-111" start_char="5167" end_char="5245">
+<ORIGINAL_TEXT>2014年11月，中国开通了沪港通，并且意外降息，进行了第二轮启动股市，再次留住了本打算撤离中国的金融资本，并首次打开了吸纳外资进入中国股市的通道“沪港通”。</ORIGINAL_TEXT>
+<TOKEN id="token-111-0" pos="unknown" morph="none" start_char="5167" end_char="5245">2014年11月，中国开通了沪港通，并且意外降息，进行了第二轮启动股市，再次留住了本打算撤离中国的金融资本，并首次打开了吸纳外资进入中国股市的通道“沪港通”。</TOKEN>
+</SEG>
+<SEG id="segment-112" start_char="5247" end_char="5280">
+<ORIGINAL_TEXT>2015年年中，美国可能会开始首次加息，企图进一步吸引国际资本回流。</ORIGINAL_TEXT>
+<TOKEN id="token-112-0" pos="unknown" morph="none" start_char="5247" end_char="5280">2015年年中，美国可能会开始首次加息，企图进一步吸引国际资本回流。</TOKEN>
+</SEG>
+<SEG id="segment-113" start_char="5282" end_char="5334">
+<ORIGINAL_TEXT>[ 转自铁血社区 http://bbs.tiexue.net/post_8523913_1.html/ ]</ORIGINAL_TEXT>
+<TOKEN id="token-113-0" pos="unknown" morph="none" start_char="5282" end_char="5282">[</TOKEN>
+<TOKEN id="token-113-1" pos="word" morph="none" start_char="5284" end_char="5289">转自铁血社区</TOKEN>
+<TOKEN id="token-113-2" pos="url" morph="none" start_char="5291" end_char="5332">http://bbs.tiexue.net/post_8523913_1.html/</TOKEN>
+<TOKEN id="token-113-3" pos="unknown" morph="none" start_char="5334" end_char="5334">]</TOKEN>
+</SEG>
+<SEG id="segment-114" start_char="5336" end_char="5372">
+<ORIGINAL_TEXT>中国也会相应的开通“深港通”，进一步打开吸纳外资进入中国股市的另一条通道。</ORIGINAL_TEXT>
+<TOKEN id="token-114-0" pos="unknown" morph="none" start_char="5336" end_char="5372">中国也会相应的开通“深港通”，进一步打开吸纳外资进入中国股市的另一条通道。</TOKEN>
+</SEG>
+<SEG id="segment-115" start_char="5374" end_char="5408">
+<ORIGINAL_TEXT>中国就是要打通国际金融资本进来的通道，做好吸纳国际金融资本的战略准备。</ORIGINAL_TEXT>
+<TOKEN id="token-115-0" pos="word" morph="none" start_char="5374" end_char="5391">中国就是要打通国际金融资本进来的通道</TOKEN>
+<TOKEN id="token-115-1" pos="punct" morph="none" start_char="5392" end_char="5392">，</TOKEN>
+<TOKEN id="token-115-2" pos="word" morph="none" start_char="5393" end_char="5407">做好吸纳国际金融资本的战略准备</TOKEN>
+<TOKEN id="token-115-3" pos="punct" morph="none" start_char="5408" end_char="5408">。</TOKEN>
+</SEG>
+<SEG id="segment-116" start_char="5410" end_char="5447">
+<ORIGINAL_TEXT>战略准备就绪之后，当股市开始大涨之时，就是吸纳资金的战略反攻号角的吹响之日。</ORIGINAL_TEXT>
+<TOKEN id="token-116-0" pos="unknown" morph="none" start_char="5410" end_char="5447">战略准备就绪之后，当股市开始大涨之时，就是吸纳资金的战略反攻号角的吹响之日。</TOKEN>
+</SEG>
+<SEG id="segment-117" start_char="5451" end_char="5482">
+<ORIGINAL_TEXT>那么，中国将在什么时候开始战略反攻，什么时候打出股市这张王牌呢？</ORIGINAL_TEXT>
+<TOKEN id="token-117-0" pos="unknown" morph="none" start_char="5451" end_char="5482">那么，中国将在什么时候开始战略反攻，什么时候打出股市这张王牌呢？</TOKEN>
+</SEG>
+<SEG id="segment-118" start_char="5484" end_char="5548">
+<ORIGINAL_TEXT>打出股市这张王牌，其作用就是要能吸纳到国际资本，不仅从非美国家，更要从美国手上抢夺国际资本，所以其出牌的时机，也决定了出牌的结果。</ORIGINAL_TEXT>
+<TOKEN id="token-118-0" pos="unknown" morph="none" start_char="5484" end_char="5548">打出股市这张王牌，其作用就是要能吸纳到国际资本，不仅从非美国家，更要从美国手上抢夺国际资本，所以其出牌的时机，也决定了出牌的结果。</TOKEN>
+</SEG>
+<SEG id="segment-119" start_char="5550" end_char="5650">
+<ORIGINAL_TEXT>如果出牌早了，股市先涨上去了，当股票不再便宜（甚至已经昂贵）时，一旦美国使出吸金大法的杀手锏，将会导致资本纷纷套利了结，撤离中国股市，跑向美国，其后果将不堪设想，最后被套的也很可能是以中国股民散户为主。</ORIGINAL_TEXT>
+<TOKEN id="token-119-0" pos="unknown" morph="none" start_char="5550" end_char="5650">如果出牌早了，股市先涨上去了，当股票不再便宜（甚至已经昂贵）时，一旦美国使出吸金大法的杀手锏，将会导致资本纷纷套利了结，撤离中国股市，跑向美国，其后果将不堪设想，最后被套的也很可能是以中国股民散户为主。</TOKEN>
+</SEG>
+<SEG id="segment-120" start_char="5652" end_char="5684">
+<ORIGINAL_TEXT>[ 转自铁血社区 http://www.tiexue.net/ ]</ORIGINAL_TEXT>
+<TOKEN id="token-120-0" pos="unknown" morph="none" start_char="5652" end_char="5652">[</TOKEN>
+<TOKEN id="token-120-1" pos="word" morph="none" start_char="5654" end_char="5659">转自铁血社区</TOKEN>
+<TOKEN id="token-120-2" pos="url" morph="none" start_char="5661" end_char="5682">http://www.tiexue.net/</TOKEN>
+<TOKEN id="token-120-3" pos="unknown" morph="none" start_char="5684" end_char="5684">]</TOKEN>
+</SEG>
+<SEG id="segment-121" start_char="5686" end_char="5729">
+<ORIGINAL_TEXT>所以，这张牌不能出早了，甚至可以说，在美国使出吸金大法的杀手锏之前出牌，都是非常危险的。</ORIGINAL_TEXT>
+<TOKEN id="token-121-0" pos="unknown" morph="none" start_char="5686" end_char="5729">所以，这张牌不能出早了，甚至可以说，在美国使出吸金大法的杀手锏之前出牌，都是非常危险的。</TOKEN>
+</SEG>
+<SEG id="segment-122" start_char="5731" end_char="5849">
+<ORIGINAL_TEXT>所以，在时机不成熟之前，股市可以微涨，也可以间歇性的上涨，可以快牛慢牛相结合，在资本撤离比较严重时、在资本逃离美国为主时，可以有几天到几个星期的一次疯涨。但是，就是不能彻底持续上涨，如果上涨势头过猛，就必须要打压回去，以保证这张牌的威力。</ORIGINAL_TEXT>
+<TOKEN id="token-122-0" pos="unknown" morph="none" start_char="5731" end_char="5849">所以，在时机不成熟之前，股市可以微涨，也可以间歇性的上涨，可以快牛慢牛相结合，在资本撤离比较严重时、在资本逃离美国为主时，可以有几天到几个星期的一次疯涨。但是，就是不能彻底持续上涨，如果上涨势头过猛，就必须要打压回去，以保证这张牌的威力。</TOKEN>
+</SEG>
+<SEG id="segment-123" start_char="5853" end_char="5874">
+<ORIGINAL_TEXT>中国究竟什么时候出牌，需要具备以下几个条件：</ORIGINAL_TEXT>
+<TOKEN id="token-123-0" pos="word" morph="none" start_char="5853" end_char="5862">中国究竟什么时候出牌</TOKEN>
+<TOKEN id="token-123-1" pos="punct" morph="none" start_char="5863" end_char="5863">，</TOKEN>
+<TOKEN id="token-123-2" pos="word" morph="none" start_char="5864" end_char="5873">需要具备以下几个条件</TOKEN>
+<TOKEN id="token-123-3" pos="punct" morph="none" start_char="5874" end_char="5874">：</TOKEN>
+</SEG>
+<SEG id="segment-124" start_char="5878" end_char="5997">
+<ORIGINAL_TEXT>1、美国彻底打出王牌之后，比如，不可逆转的连续明显的加息，或者大幅度的加息。因为加息对美国经济伤害不小，对美国股市更会带来崩盘风险，所以不到万不得已，美国不愿加息。加息，可以说是美国穷途末路的最后一招，实在吸血不够，不得不铤而走险进行加息。</ORIGINAL_TEXT>
+<TOKEN id="token-124-0" pos="unknown" morph="none" start_char="5878" end_char="5997">1、美国彻底打出王牌之后，比如，不可逆转的连续明显的加息，或者大幅度的加息。因为加息对美国经济伤害不小，对美国股市更会带来崩盘风险，所以不到万不得已，美国不愿加息。加息，可以说是美国穷途末路的最后一招，实在吸血不够，不得不铤而走险进行加息。</TOKEN>
+</SEG>
+<SEG id="segment-125" start_char="6000" end_char="6015">
+<ORIGINAL_TEXT>那么，美国什么情况下才会加息呢？</ORIGINAL_TEXT>
+<TOKEN id="token-125-0" pos="word" morph="none" start_char="6000" end_char="6001">那么</TOKEN>
+<TOKEN id="token-125-1" pos="punct" morph="none" start_char="6002" end_char="6002">，</TOKEN>
+<TOKEN id="token-125-2" pos="word" morph="none" start_char="6003" end_char="6014">美国什么情况下才会加息呢</TOKEN>
+<TOKEN id="token-125-3" pos="punct" morph="none" start_char="6015" end_char="6015">？</TOKEN>
+</SEG>
+<SEG id="segment-126" start_char="6017" end_char="6056">
+<ORIGINAL_TEXT>按照美国自己的说法，当美国经济好转，通胀达到2%时，就会考虑加息，将利率正常化。</ORIGINAL_TEXT>
+<TOKEN id="token-126-0" pos="unknown" morph="none" start_char="6017" end_char="6056">按照美国自己的说法，当美国经济好转，通胀达到2%时，就会考虑加息，将利率正常化。</TOKEN>
+</SEG>
+<SEG id="segment-127" start_char="6058" end_char="6090">
+<ORIGINAL_TEXT>[ 转自铁血社区 http://bbs.tiexue.net/ ]</ORIGINAL_TEXT>
+<TOKEN id="token-127-0" pos="unknown" morph="none" start_char="6058" end_char="6058">[</TOKEN>
+<TOKEN id="token-127-1" pos="word" morph="none" start_char="6060" end_char="6065">转自铁血社区</TOKEN>
+<TOKEN id="token-127-2" pos="url" morph="none" start_char="6067" end_char="6088">http://bbs.tiexue.net/</TOKEN>
+<TOKEN id="token-127-3" pos="unknown" morph="none" start_char="6090" end_char="6090">]</TOKEN>
+</SEG>
+<SEG id="segment-128" start_char="6092" end_char="6121">
+<ORIGINAL_TEXT>当前，美国的经济数据已经好转，但是通胀远远达不到2%的水平。</ORIGINAL_TEXT>
+<TOKEN id="token-128-0" pos="unknown" morph="none" start_char="6092" end_char="6121">当前，美国的经济数据已经好转，但是通胀远远达不到2%的水平。</TOKEN>
+</SEG>
+<SEG id="segment-129" start_char="6125" end_char="6152">
+<ORIGINAL_TEXT>那么，美国在什么情况下，才能经济好转，通胀又达到2%呢？</ORIGINAL_TEXT>
+<TOKEN id="token-129-0" pos="unknown" morph="none" start_char="6125" end_char="6152">那么，美国在什么情况下，才能经济好转，通胀又达到2%呢？</TOKEN>
+</SEG>
+<SEG id="segment-130" start_char="6154" end_char="6268">
+<ORIGINAL_TEXT>我想，如果油价暴涨，带动大宗商品价格上涨，通胀就能上去了。而油价暴涨之后，当前的美国已经作为石油出口国，经济将能从中受益，奄奄一息的页岩油产业又能全面复苏，新能源产业（比如特拉斯）也在高油价的背景下再次发力，带动美国经济全面好转。</ORIGINAL_TEXT>
+<TOKEN id="token-130-0" pos="unknown" morph="none" start_char="6154" end_char="6268">我想，如果油价暴涨，带动大宗商品价格上涨，通胀就能上去了。而油价暴涨之后，当前的美国已经作为石油出口国，经济将能从中受益，奄奄一息的页岩油产业又能全面复苏，新能源产业（比如特拉斯）也在高油价的背景下再次发力，带动美国经济全面好转。</TOKEN>
+</SEG>
+<SEG id="segment-131" start_char="6270" end_char="6335">
+<ORIGINAL_TEXT>所以，只要油价暴涨（关于油价何时暴涨，暴涨幅度多少，我会专门开辟一篇短帖，分析一二），美国就能经济好转，通胀达到2%，就能开始加息。</ORIGINAL_TEXT>
+<TOKEN id="token-131-0" pos="unknown" morph="none" start_char="6270" end_char="6335">所以，只要油价暴涨（关于油价何时暴涨，暴涨幅度多少，我会专门开辟一篇短帖，分析一二），美国就能经济好转，通胀达到2%，就能开始加息。</TOKEN>
+</SEG>
+<SEG id="segment-132" start_char="6339" end_char="6353">
+<ORIGINAL_TEXT>而加息将是美国的最后一张王牌。</ORIGINAL_TEXT>
+<TOKEN id="token-132-0" pos="word" morph="none" start_char="6339" end_char="6352">而加息将是美国的最后一张王牌</TOKEN>
+<TOKEN id="token-132-1" pos="punct" morph="none" start_char="6353" end_char="6353">。</TOKEN>
+</SEG>
+<SEG id="segment-133" start_char="6355" end_char="6391">
+<ORIGINAL_TEXT>加息成功，大量资本回流，并在美国沉淀，能让美国百废待兴，经济真正全面复苏。</ORIGINAL_TEXT>
+<TOKEN id="token-133-0" pos="unknown" morph="none" start_char="6355" end_char="6391">加息成功，大量资本回流，并在美国沉淀，能让美国百废待兴，经济真正全面复苏。</TOKEN>
+</SEG>
+<SEG id="segment-134" start_char="6393" end_char="6445">
+<ORIGINAL_TEXT>[ 转自铁血社区 http://bbs.tiexue.net/post_8523913_1.html/ ]</ORIGINAL_TEXT>
+<TOKEN id="token-134-0" pos="unknown" morph="none" start_char="6393" end_char="6393">[</TOKEN>
+<TOKEN id="token-134-1" pos="word" morph="none" start_char="6395" end_char="6400">转自铁血社区</TOKEN>
+<TOKEN id="token-134-2" pos="url" morph="none" start_char="6402" end_char="6443">http://bbs.tiexue.net/post_8523913_1.html/</TOKEN>
+<TOKEN id="token-134-3" pos="unknown" morph="none" start_char="6445" end_char="6445">]</TOKEN>
+</SEG>
+<SEG id="segment-135" start_char="6447" end_char="6490">
+<ORIGINAL_TEXT>加息失败，也就是高息还拿不到资本，美国的资本市场就可能出现资金链断裂，甚至美国股市崩盘。</ORIGINAL_TEXT>
+<TOKEN id="token-135-0" pos="unknown" morph="none" start_char="6447" end_char="6490">加息失败，也就是高息还拿不到资本，美国的资本市场就可能出现资金链断裂，甚至美国股市崩盘。</TOKEN>
+</SEG>
+<SEG id="segment-136" start_char="6494" end_char="6565">
+<ORIGINAL_TEXT>可见，加息是一步险棋，但也是一步理所应当该下的棋（因为当前的利率是非正常化的，是人为压低的，利率回归正常化只是时间问题），更是一步威力极大的棋。</ORIGINAL_TEXT>
+<TOKEN id="token-136-0" pos="unknown" morph="none" start_char="6494" end_char="6565">可见，加息是一步险棋，但也是一步理所应当该下的棋（因为当前的利率是非正常化的，是人为压低的，利率回归正常化只是时间问题），更是一步威力极大的棋。</TOKEN>
+</SEG>
+<SEG id="segment-137" start_char="6567" end_char="6587">
+<ORIGINAL_TEXT>中国必须有其应对策略，而股市就是其中之一。</ORIGINAL_TEXT>
+<TOKEN id="token-137-0" pos="word" morph="none" start_char="6567" end_char="6576">中国必须有其应对策略</TOKEN>
+<TOKEN id="token-137-1" pos="punct" morph="none" start_char="6577" end_char="6577">，</TOKEN>
+<TOKEN id="token-137-2" pos="word" morph="none" start_char="6578" end_char="6586">而股市就是其中之一</TOKEN>
+<TOKEN id="token-137-3" pos="punct" morph="none" start_char="6587" end_char="6587">。</TOKEN>
+</SEG>
+<SEG id="segment-138" start_char="6591" end_char="6614">
+<ORIGINAL_TEXT>2、正式启动股市之前，还需要打通外资进来的通道。</ORIGINAL_TEXT>
+<TOKEN id="token-138-0" pos="unknown" morph="none" start_char="6591" end_char="6614">2、正式启动股市之前，还需要打通外资进来的通道。</TOKEN>
+</SEG>
+<SEG id="segment-139" start_char="6616" end_char="6652">
+<ORIGINAL_TEXT>因为这次启动股市的目的，是要吸纳国际资本，所以必须要先打通外资进来的通道。</ORIGINAL_TEXT>
+<TOKEN id="token-139-0" pos="unknown" morph="none" start_char="6616" end_char="6652">因为这次启动股市的目的，是要吸纳国际资本，所以必须要先打通外资进来的通道。</TOKEN>
+</SEG>
+<SEG id="segment-140" start_char="6654" end_char="6702">
+<ORIGINAL_TEXT>不仅要开通沪港通，还要开通深港通，更要提供外资所需要的炒股对冲工具（比如融资融券、股指期权等等）。</ORIGINAL_TEXT>
+<TOKEN id="token-140-0" pos="unknown" morph="none" start_char="6654" end_char="6702">不仅要开通沪港通，还要开通深港通，更要提供外资所需要的炒股对冲工具（比如融资融券、股指期权等等）。</TOKEN>
+</SEG>
+<SEG id="segment-141" start_char="6704" end_char="6736">
+<ORIGINAL_TEXT>[ 转自铁血社区 http://www.tiexue.net/ ]</ORIGINAL_TEXT>
+<TOKEN id="token-141-0" pos="unknown" morph="none" start_char="6704" end_char="6704">[</TOKEN>
+<TOKEN id="token-141-1" pos="word" morph="none" start_char="6706" end_char="6711">转自铁血社区</TOKEN>
+<TOKEN id="token-141-2" pos="url" morph="none" start_char="6713" end_char="6734">http://www.tiexue.net/</TOKEN>
+<TOKEN id="token-141-3" pos="unknown" morph="none" start_char="6736" end_char="6736">]</TOKEN>
+</SEG>
+<SEG id="segment-142" start_char="6738" end_char="6778">
+<ORIGINAL_TEXT>仅仅开通还不充分，还要调整，当前的沪港通也只是处在试行阶段，相关规则还会更加完善。</ORIGINAL_TEXT>
+<TOKEN id="token-142-0" pos="unknown" morph="none" start_char="6738" end_char="6778">仅仅开通还不充分，还要调整，当前的沪港通也只是处在试行阶段，相关规则还会更加完善。</TOKEN>
+</SEG>
+<SEG id="segment-143" start_char="6782" end_char="6806">
+<ORIGINAL_TEXT>3、正式启动股市之前，还需要准备好盛放暴雨的水池。</ORIGINAL_TEXT>
+<TOKEN id="token-143-0" pos="unknown" morph="none" start_char="6782" end_char="6806">3、正式启动股市之前，还需要准备好盛放暴雨的水池。</TOKEN>
+</SEG>
+<SEG id="segment-144" start_char="6808" end_char="6892">
+<ORIGINAL_TEXT>因为中国股市，是当今全世界最便宜、最安全的股市，外资都想进来，一旦开闸，蜂拥而至，很可能就把股市淹了（比如从3000点推高到3万点），到时真是骑虎难下，想软这陆都很困难。</ORIGINAL_TEXT>
+<TOKEN id="token-144-0" pos="unknown" morph="none" start_char="6808" end_char="6892">因为中国股市，是当今全世界最便宜、最安全的股市，外资都想进来，一旦开闸，蜂拥而至，很可能就把股市淹了（比如从3000点推高到3万点），到时真是骑虎难下，想软这陆都很困难。</TOKEN>
+</SEG>
+<SEG id="segment-145" start_char="6894" end_char="6922">
+<ORIGINAL_TEXT>为了准备好暴雨般而来的资金，必须准备好盛放这些资金的池子。</ORIGINAL_TEXT>
+<TOKEN id="token-145-0" pos="word" morph="none" start_char="6894" end_char="6906">为了准备好暴雨般而来的资金</TOKEN>
+<TOKEN id="token-145-1" pos="punct" morph="none" start_char="6907" end_char="6907">，</TOKEN>
+<TOKEN id="token-145-2" pos="word" morph="none" start_char="6908" end_char="6921">必须准备好盛放这些资金的池子</TOKEN>
+<TOKEN id="token-145-3" pos="punct" morph="none" start_char="6922" end_char="6922">。</TOKEN>
+</SEG>
+<SEG id="segment-146" start_char="6924" end_char="6959">
+<ORIGINAL_TEXT>中国股市当前的池子，只够盛放中国国内的资金，还远远不够盛放全世界的资金。</ORIGINAL_TEXT>
+<TOKEN id="token-146-0" pos="unknown" morph="none" start_char="6924" end_char="6959">中国股市当前的池子，只够盛放中国国内的资金，还远远不够盛放全世界的资金。</TOKEN>
+</SEG>
+<SEG id="segment-147" start_char="6961" end_char="6996">
+<ORIGINAL_TEXT>要是全世界的资金都进来，就会溢出池子，导致洪水泛滥，这对中国可不是好事。</ORIGINAL_TEXT>
+<TOKEN id="token-147-0" pos="unknown" morph="none" start_char="6961" end_char="6996">要是全世界的资金都进来，就会溢出池子，导致洪水泛滥，这对中国可不是好事。</TOKEN>
+</SEG>
+<SEG id="segment-148" start_char="6998" end_char="7030">
+<ORIGINAL_TEXT>[ 转自铁血社区 http://bbs.tiexue.net/ ]</ORIGINAL_TEXT>
+<TOKEN id="token-148-0" pos="unknown" morph="none" start_char="6998" end_char="6998">[</TOKEN>
+<TOKEN id="token-148-1" pos="word" morph="none" start_char="7000" end_char="7005">转自铁血社区</TOKEN>
+<TOKEN id="token-148-2" pos="url" morph="none" start_char="7007" end_char="7028">http://bbs.tiexue.net/</TOKEN>
+<TOKEN id="token-148-3" pos="unknown" morph="none" start_char="7030" end_char="7030">]</TOKEN>
+</SEG>
+<SEG id="segment-149" start_char="7034" end_char="7046">
+<ORIGINAL_TEXT>那么，怎么准备这个池子呢？</ORIGINAL_TEXT>
+<TOKEN id="token-149-0" pos="word" morph="none" start_char="7034" end_char="7035">那么</TOKEN>
+<TOKEN id="token-149-1" pos="punct" morph="none" start_char="7036" end_char="7036">，</TOKEN>
+<TOKEN id="token-149-2" pos="word" morph="none" start_char="7037" end_char="7045">怎么准备这个池子呢</TOKEN>
+<TOKEN id="token-149-3" pos="punct" morph="none" start_char="7046" end_char="7046">？</TOKEN>
+</SEG>
+<SEG id="segment-150" start_char="7048" end_char="7052">
+<ORIGINAL_TEXT>就是扩容。</ORIGINAL_TEXT>
+<TOKEN id="token-150-0" pos="word" morph="none" start_char="7048" end_char="7051">就是扩容</TOKEN>
+<TOKEN id="token-150-1" pos="punct" morph="none" start_char="7052" end_char="7052">。</TOKEN>
+</SEG>
+<SEG id="segment-151" start_char="7054" end_char="7078">
+<ORIGINAL_TEXT>中国已经废除了企业上市的保代制度，准备启用注册制。</ORIGINAL_TEXT>
+<TOKEN id="token-151-0" pos="word" morph="none" start_char="7054" end_char="7069">中国已经废除了企业上市的保代制度</TOKEN>
+<TOKEN id="token-151-1" pos="punct" morph="none" start_char="7070" end_char="7070">，</TOKEN>
+<TOKEN id="token-151-2" pos="word" morph="none" start_char="7071" end_char="7077">准备启用注册制</TOKEN>
+<TOKEN id="token-151-3" pos="punct" morph="none" start_char="7078" end_char="7078">。</TOKEN>
+</SEG>
+<SEG id="segment-152" start_char="7080" end_char="7184">
+<ORIGINAL_TEXT>保代制度因为受到保荐代表人的人数制约，上市通道有限（通常每1位保荐代表人每1年只能保荐2家企业上市，如果保荐代表人为200人，每年最多就只能有400家企业上市），容易造成排队上市的景象，上市企业数量也因此受限。</ORIGINAL_TEXT>
+<TOKEN id="token-152-0" pos="unknown" morph="none" start_char="7080" end_char="7184">保代制度因为受到保荐代表人的人数制约，上市通道有限（通常每1位保荐代表人每1年只能保荐2家企业上市，如果保荐代表人为200人，每年最多就只能有400家企业上市），容易造成排队上市的景象，上市企业数量也因此受限。</TOKEN>
+</SEG>
+<SEG id="segment-153" start_char="7186" end_char="7267">
+<ORIGINAL_TEXT>注册制则取消了保荐代表人的人数制约，取消了上市通道上限，可以根据上市规则的调整、股市的行情、外资进入的规模、国家的需要而灵活调整上市企业的进度和速度、及数量和规模。</ORIGINAL_TEXT>
+<TOKEN id="token-153-0" pos="unknown" morph="none" start_char="7186" end_char="7267">注册制则取消了保荐代表人的人数制约，取消了上市通道上限，可以根据上市规则的调整、股市的行情、外资进入的规模、国家的需要而灵活调整上市企业的进度和速度、及数量和规模。</TOKEN>
+</SEG>
+<SEG id="segment-154" start_char="7269" end_char="7298">
+<ORIGINAL_TEXT>如果要来5倍、10倍的资金，那就让数千家、数万家的企业上市。</ORIGINAL_TEXT>
+<TOKEN id="token-154-0" pos="unknown" morph="none" start_char="7269" end_char="7298">如果要来5倍、10倍的资金，那就让数千家、数万家的企业上市。</TOKEN>
+</SEG>
+<SEG id="segment-155" start_char="7300" end_char="7352">
+<ORIGINAL_TEXT>[ 转自铁血社区 http://bbs.tiexue.net/post_8523913_1.html/ ]</ORIGINAL_TEXT>
+<TOKEN id="token-155-0" pos="unknown" morph="none" start_char="7300" end_char="7300">[</TOKEN>
+<TOKEN id="token-155-1" pos="word" morph="none" start_char="7302" end_char="7307">转自铁血社区</TOKEN>
+<TOKEN id="token-155-2" pos="url" morph="none" start_char="7309" end_char="7350">http://bbs.tiexue.net/post_8523913_1.html/</TOKEN>
+<TOKEN id="token-155-3" pos="unknown" morph="none" start_char="7352" end_char="7352">]</TOKEN>
+</SEG>
+<SEG id="segment-156" start_char="7354" end_char="7394">
+<ORIGINAL_TEXT>这样，就能下多大雨备多大碗，来多少资金，就扩出多大的池子，以保证上涨的速度和幅度。</ORIGINAL_TEXT>
+<TOKEN id="token-156-0" pos="unknown" morph="none" start_char="7354" end_char="7394">这样，就能下多大雨备多大碗，来多少资金，就扩出多大的池子，以保证上涨的速度和幅度。</TOKEN>
+</SEG>
+<SEG id="segment-157" start_char="7398" end_char="7464">
+<ORIGINAL_TEXT>也许，有朋友会疑问，中国股市的市值已经仅次于美国，是全世界第二大股市了，连交易量都已经刷新人类历史记录了，这么大的池子，难道还要扩容？</ORIGINAL_TEXT>
+<TOKEN id="token-157-0" pos="unknown" morph="none" start_char="7398" end_char="7464">也许，有朋友会疑问，中国股市的市值已经仅次于美国，是全世界第二大股市了，连交易量都已经刷新人类历史记录了，这么大的池子，难道还要扩容？</TOKEN>
+</SEG>
+<SEG id="segment-158" start_char="7468" end_char="7475">
+<ORIGINAL_TEXT>（1）先说市值。</ORIGINAL_TEXT>
+<TOKEN id="token-158-0" pos="punct" morph="none" start_char="7468" end_char="7468">（</TOKEN>
+<TOKEN id="token-158-1" pos="word" morph="none" start_char="7469" end_char="7469">1</TOKEN>
+<TOKEN id="token-158-2" pos="punct" morph="none" start_char="7470" end_char="7470">）</TOKEN>
+<TOKEN id="token-158-3" pos="word" morph="none" start_char="7471" end_char="7474">先说市值</TOKEN>
+<TOKEN id="token-158-4" pos="punct" morph="none" start_char="7475" end_char="7475">。</TOKEN>
+</SEG>
+<SEG id="segment-159" start_char="7477" end_char="7504">
+<ORIGINAL_TEXT>这是因为中国的资本市场相对落后，更准确的说，是相对健康。</ORIGINAL_TEXT>
+<TOKEN id="token-159-0" pos="unknown" morph="none" start_char="7477" end_char="7504">这是因为中国的资本市场相对落后，更准确的说，是相对健康。</TOKEN>
+</SEG>
+<SEG id="segment-160" start_char="7506" end_char="7523">
+<ORIGINAL_TEXT>在中国，股市几乎是最主要的资本市场。</ORIGINAL_TEXT>
+<TOKEN id="token-160-0" pos="word" morph="none" start_char="7506" end_char="7508">在中国</TOKEN>
+<TOKEN id="token-160-1" pos="punct" morph="none" start_char="7509" end_char="7509">，</TOKEN>
+<TOKEN id="token-160-2" pos="word" morph="none" start_char="7510" end_char="7522">股市几乎是最主要的资本市场</TOKEN>
+<TOKEN id="token-160-3" pos="punct" morph="none" start_char="7523" end_char="7523">。</TOKEN>
+</SEG>
+<SEG id="segment-161" start_char="7525" end_char="7708">
+<ORIGINAL_TEXT>但美国不一样，美国最主要的资本市场是金融衍生市场，赌货币、债卷、股指、信用、利率，赌各种商品，甚至可以赌天气和自然灾害，正是这些庞大繁杂的金融衍生市场，盛放了美国几十年印刷出来的美元，才使得美国国内的物价没有像美元印刷的规模那样一飞冲天，才保障了美国没有出现严重的通货膨胀。这些金融衍生市场庞大而繁杂，盛放着资本家几十年来印刷出来的纸币，也盛放着资本家几十年来的贪婪。</ORIGINAL_TEXT>
+<TOKEN id="token-161-0" pos="unknown" morph="none" start_char="7525" end_char="7708">但美国不一样，美国最主要的资本市场是金融衍生市场，赌货币、债卷、股指、信用、利率，赌各种商品，甚至可以赌天气和自然灾害，正是这些庞大繁杂的金融衍生市场，盛放了美国几十年印刷出来的美元，才使得美国国内的物价没有像美元印刷的规模那样一飞冲天，才保障了美国没有出现严重的通货膨胀。这些金融衍生市场庞大而繁杂，盛放着资本家几十年来印刷出来的纸币，也盛放着资本家几十年来的贪婪。</TOKEN>
+</SEG>
+<SEG id="segment-162" start_char="7710" end_char="7742">
+<ORIGINAL_TEXT>[ 转自铁血社区 http://www.tiexue.net/ ]</ORIGINAL_TEXT>
+<TOKEN id="token-162-0" pos="unknown" morph="none" start_char="7710" end_char="7710">[</TOKEN>
+<TOKEN id="token-162-1" pos="word" morph="none" start_char="7712" end_char="7717">转自铁血社区</TOKEN>
+<TOKEN id="token-162-2" pos="url" morph="none" start_char="7719" end_char="7740">http://www.tiexue.net/</TOKEN>
+<TOKEN id="token-162-3" pos="unknown" morph="none" start_char="7742" end_char="7742">]</TOKEN>
+</SEG>
+<SEG id="segment-163" start_char="7744" end_char="7787">
+<ORIGINAL_TEXT>中国为了保障资本市场的健康发展，一直严格管制金融衍生市场，鼓励金融常规市场（比如股市）。</ORIGINAL_TEXT>
+<TOKEN id="token-163-0" pos="unknown" morph="none" start_char="7744" end_char="7787">中国为了保障资本市场的健康发展，一直严格管制金融衍生市场，鼓励金融常规市场（比如股市）。</TOKEN>
+</SEG>
+<SEG id="segment-164" start_char="7789" end_char="7853">
+<ORIGINAL_TEXT>所以，中国股市不像美国股市，有发达的金融衍生市场分担资金，中国股市集中盛放着投机资本，承担的责任更重，也更加集中，且更加利于监管。</ORIGINAL_TEXT>
+<TOKEN id="token-164-0" pos="unknown" morph="none" start_char="7789" end_char="7853">所以，中国股市不像美国股市，有发达的金融衍生市场分担资金，中国股市集中盛放着投机资本，承担的责任更重，也更加集中，且更加利于监管。</TOKEN>
+</SEG>
+<SEG id="segment-165" start_char="7857" end_char="7864">
+<ORIGINAL_TEXT>（2）再说交易量</ORIGINAL_TEXT>
+<TOKEN id="token-165-0" pos="punct" morph="none" start_char="7857" end_char="7857">（</TOKEN>
+<TOKEN id="token-165-1" pos="word" morph="none" start_char="7858" end_char="7858">2</TOKEN>
+<TOKEN id="token-165-2" pos="punct" morph="none" start_char="7859" end_char="7859">）</TOKEN>
+<TOKEN id="token-165-3" pos="word" morph="none" start_char="7860" end_char="7864">再说交易量</TOKEN>
+</SEG>
+<SEG id="segment-166" start_char="7866" end_char="7891">
+<ORIGINAL_TEXT>2014年的中国股市交易量轻松创下了人类的历史记录。</ORIGINAL_TEXT>
+<TOKEN id="token-166-0" pos="word" morph="none" start_char="7866" end_char="7890">2014年的中国股市交易量轻松创下了人类的历史记录</TOKEN>
+<TOKEN id="token-166-1" pos="punct" morph="none" start_char="7891" end_char="7891">。</TOKEN>
+</SEG>
+<SEG id="segment-167" start_char="7893" end_char="7899">
+<ORIGINAL_TEXT>这并不足为奇。</ORIGINAL_TEXT>
+<TOKEN id="token-167-0" pos="word" morph="none" start_char="7893" end_char="7898">这并不足为奇</TOKEN>
+<TOKEN id="token-167-1" pos="punct" morph="none" start_char="7899" end_char="7899">。</TOKEN>
+</SEG>
+<SEG id="segment-168" start_char="7901" end_char="7942">
+<ORIGINAL_TEXT>有很多原因，但其中一个重要原因是，这十年印刷释放出来的货币数量，已经远非过去可比了。</ORIGINAL_TEXT>
+<TOKEN id="token-168-0" pos="unknown" morph="none" start_char="7901" end_char="7942">有很多原因，但其中一个重要原因是，这十年印刷释放出来的货币数量，已经远非过去可比了。</TOKEN>
+</SEG>
+<SEG id="segment-169" start_char="7944" end_char="7976">
+<ORIGINAL_TEXT>[ 转自铁血社区 http://bbs.tiexue.net/ ]</ORIGINAL_TEXT>
+<TOKEN id="token-169-0" pos="unknown" morph="none" start_char="7944" end_char="7944">[</TOKEN>
+<TOKEN id="token-169-1" pos="word" morph="none" start_char="7946" end_char="7951">转自铁血社区</TOKEN>
+<TOKEN id="token-169-2" pos="url" morph="none" start_char="7953" end_char="7974">http://bbs.tiexue.net/</TOKEN>
+<TOKEN id="token-169-3" pos="unknown" morph="none" start_char="7976" end_char="7976">]</TOKEN>
+</SEG>
+<SEG id="segment-170" start_char="7980" end_char="8021">
+<ORIGINAL_TEXT>也许，还有朋友会有疑问，如果池子扩容，资金大规模撤离了，怎么办？会不会指数就会崩盘？</ORIGINAL_TEXT>
+<TOKEN id="token-170-0" pos="unknown" morph="none" start_char="7980" end_char="8021">也许，还有朋友会有疑问，如果池子扩容，资金大规模撤离了，怎么办？会不会指数就会崩盘？</TOKEN>
+</SEG>
+<SEG id="segment-171" start_char="8023" end_char="8031">
+<ORIGINAL_TEXT>这一点，也有办法。</ORIGINAL_TEXT>
+<TOKEN id="token-171-0" pos="word" morph="none" start_char="8023" end_char="8025">这一点</TOKEN>
+<TOKEN id="token-171-1" pos="punct" morph="none" start_char="8026" end_char="8026">，</TOKEN>
+<TOKEN id="token-171-2" pos="word" morph="none" start_char="8027" end_char="8030">也有办法</TOKEN>
+<TOKEN id="token-171-3" pos="punct" morph="none" start_char="8031" end_char="8031">。</TOKEN>
+</SEG>
+<SEG id="segment-172" start_char="8033" end_char="8044">
+<ORIGINAL_TEXT>池子可以扩容，就能缩小。</ORIGINAL_TEXT>
+<TOKEN id="token-172-0" pos="word" morph="none" start_char="8033" end_char="8038">池子可以扩容</TOKEN>
+<TOKEN id="token-172-1" pos="punct" morph="none" start_char="8039" end_char="8039">，</TOKEN>
+<TOKEN id="token-172-2" pos="word" morph="none" start_char="8040" end_char="8043">就能缩小</TOKEN>
+<TOKEN id="token-172-3" pos="punct" morph="none" start_char="8044" end_char="8044">。</TOKEN>
+</SEG>
+<SEG id="segment-173" start_char="8046" end_char="8068">
+<ORIGINAL_TEXT>扩容，可以保证水位不要上升太快，不要溢出来了。</ORIGINAL_TEXT>
+<TOKEN id="token-173-0" pos="unknown" morph="none" start_char="8046" end_char="8068">扩容，可以保证水位不要上升太快，不要溢出来了。</TOKEN>
+</SEG>
+<SEG id="segment-174" start_char="8070" end_char="8092">
+<ORIGINAL_TEXT>缩小，可以保证水位不要下降太快，不要见底干枯。</ORIGINAL_TEXT>
+<TOKEN id="token-174-0" pos="unknown" morph="none" start_char="8070" end_char="8092">缩小，可以保证水位不要下降太快，不要见底干枯。</TOKEN>
+</SEG>
+<SEG id="segment-175" start_char="8094" end_char="8100">
+<ORIGINAL_TEXT>那怎么缩小呢？</ORIGINAL_TEXT>
+<TOKEN id="token-175-0" pos="word" morph="none" start_char="8094" end_char="8099">那怎么缩小呢</TOKEN>
+<TOKEN id="token-175-1" pos="punct" morph="none" start_char="8100" end_char="8100">？</TOKEN>
+</SEG>
+<SEG id="segment-176" start_char="8102" end_char="8154">
+<ORIGINAL_TEXT>[ 转自铁血社区 http://bbs.tiexue.net/post_8523913_1.html/ ]</ORIGINAL_TEXT>
+<TOKEN id="token-176-0" pos="unknown" morph="none" start_char="8102" end_char="8102">[</TOKEN>
+<TOKEN id="token-176-1" pos="word" morph="none" start_char="8104" end_char="8109">转自铁血社区</TOKEN>
+<TOKEN id="token-176-2" pos="url" morph="none" start_char="8111" end_char="8152">http://bbs.tiexue.net/post_8523913_1.html/</TOKEN>
+<TOKEN id="token-176-3" pos="unknown" morph="none" start_char="8154" end_char="8154">]</TOKEN>
+</SEG>
+<SEG id="segment-177" start_char="8156" end_char="8164">
+<ORIGINAL_TEXT>就是完善退市制度。</ORIGINAL_TEXT>
+<TOKEN id="token-177-0" pos="word" morph="none" start_char="8156" end_char="8163">就是完善退市制度</TOKEN>
+<TOKEN id="token-177-1" pos="punct" morph="none" start_char="8164" end_char="8164">。</TOKEN>
+</SEG>
+<SEG id="segment-178" start_char="8166" end_char="8189">
+<ORIGINAL_TEXT>今后的股票，再也不会像以前那样各个都是不死鸟了。</ORIGINAL_TEXT>
+<TOKEN id="token-178-0" pos="word" morph="none" start_char="8166" end_char="8170">今后的股票</TOKEN>
+<TOKEN id="token-178-1" pos="punct" morph="none" start_char="8171" end_char="8171">，</TOKEN>
+<TOKEN id="token-178-2" pos="word" morph="none" start_char="8172" end_char="8188">再也不会像以前那样各个都是不死鸟了</TOKEN>
+<TOKEN id="token-178-3" pos="punct" morph="none" start_char="8189" end_char="8189">。</TOKEN>
+</SEG>
+<SEG id="segment-179" start_char="8191" end_char="8231">
+<ORIGINAL_TEXT>今后的股票，如果有欺骗投资者的行为，如果达不到继续上市的条件，都很可能是要退市的。</ORIGINAL_TEXT>
+<TOKEN id="token-179-0" pos="unknown" morph="none" start_char="8191" end_char="8231">今后的股票，如果有欺骗投资者的行为，如果达不到继续上市的条件，都很可能是要退市的。</TOKEN>
+</SEG>
+<SEG id="segment-180" start_char="8233" end_char="8269">
+<ORIGINAL_TEXT>股市也将真正成为风险市场，以前“死了都不卖”的坚持，以后就不一定都安全了。</ORIGINAL_TEXT>
+<TOKEN id="token-180-0" pos="unknown" morph="none" start_char="8233" end_char="8269">股市也将真正成为风险市场，以前“死了都不卖”的坚持，以后就不一定都安全了。</TOKEN>
+</SEG>
+<SEG id="segment-181" start_char="8271" end_char="8347">
+<ORIGINAL_TEXT>当然，没有退市制度的股市是畸形的。只有退市制度真正亮剑，才能保证那些企业不敢轻易欺骗投资者，才能让内幕交易坑害投资者的行为大幅收敛，才能保障投资者的利益。</ORIGINAL_TEXT>
+<TOKEN id="token-181-0" pos="unknown" morph="none" start_char="8271" end_char="8347">当然，没有退市制度的股市是畸形的。只有退市制度真正亮剑，才能保证那些企业不敢轻易欺骗投资者，才能让内幕交易坑害投资者的行为大幅收敛，才能保障投资者的利益。</TOKEN>
+</SEG>
+<SEG id="segment-182" start_char="8349" end_char="8390">
+<ORIGINAL_TEXT>而中国为了维护投资者的利益，在退市制度中，可能也会制定退市之后保护投资者的补偿行为。</ORIGINAL_TEXT>
+<TOKEN id="token-182-0" pos="unknown" morph="none" start_char="8349" end_char="8390">而中国为了维护投资者的利益，在退市制度中，可能也会制定退市之后保护投资者的补偿行为。</TOKEN>
+</SEG>
+<SEG id="segment-183" start_char="8392" end_char="8424">
+<ORIGINAL_TEXT>[ 转自铁血社区 http://www.tiexue.net/ ]</ORIGINAL_TEXT>
+<TOKEN id="token-183-0" pos="unknown" morph="none" start_char="8392" end_char="8392">[</TOKEN>
+<TOKEN id="token-183-1" pos="word" morph="none" start_char="8394" end_char="8399">转自铁血社区</TOKEN>
+<TOKEN id="token-183-2" pos="url" morph="none" start_char="8401" end_char="8422">http://www.tiexue.net/</TOKEN>
+<TOKEN id="token-183-3" pos="unknown" morph="none" start_char="8424" end_char="8424">]</TOKEN>
+</SEG>
+<SEG id="segment-184" start_char="8428" end_char="8483">
+<ORIGINAL_TEXT>因为美国已经明确表示不会在2015年6月之前加息，所以中国股市在2015年上半年的涨幅很可能不大，甚至可以为零。</ORIGINAL_TEXT>
+<TOKEN id="token-184-0" pos="unknown" morph="none" start_char="8428" end_char="8483">因为美国已经明确表示不会在2015年6月之前加息，所以中国股市在2015年上半年的涨幅很可能不大，甚至可以为零。</TOKEN>
+</SEG>
+<SEG id="segment-185" start_char="8485" end_char="8512">
+<ORIGINAL_TEXT>当然，中间不排除一两天的明显涨幅，这属于市场的正常波动。</ORIGINAL_TEXT>
+<TOKEN id="token-185-0" pos="unknown" morph="none" start_char="8485" end_char="8512">当然，中间不排除一两天的明显涨幅，这属于市场的正常波动。</TOKEN>
+</SEG>
+<SEG id="segment-186" start_char="8514" end_char="8576">
+<ORIGINAL_TEXT>也不排除一两个礼拜的连续明显涨幅，这要看上半年的突发形势和资本流向，如果出现资本大量撤离，股市还可能要出来应战，小试牛刀一把。</ORIGINAL_TEXT>
+<TOKEN id="token-186-0" pos="unknown" morph="none" start_char="8514" end_char="8576">也不排除一两个礼拜的连续明显涨幅，这要看上半年的突发形势和资本流向，如果出现资本大量撤离，股市还可能要出来应战，小试牛刀一把。</TOKEN>
+</SEG>
+<SEG id="segment-187" start_char="8578" end_char="8609">
+<ORIGINAL_TEXT>总体而言，只要中国股市足够便宜，就会被投机资本盯上，吸引力犹在。</ORIGINAL_TEXT>
+<TOKEN id="token-187-0" pos="unknown" morph="none" start_char="8578" end_char="8609">总体而言，只要中国股市足够便宜，就会被投机资本盯上，吸引力犹在。</TOKEN>
+</SEG>
+<SEG id="segment-188" start_char="8613" end_char="8670">
+<ORIGINAL_TEXT>因为中国正式启动股市，需要具备上述条件，所以不仅在2015年上半年，甚至在2015年全年，启动的可能性也都不是很大。</ORIGINAL_TEXT>
+<TOKEN id="token-188-0" pos="unknown" morph="none" start_char="8613" end_char="8670">因为中国正式启动股市，需要具备上述条件，所以不仅在2015年上半年，甚至在2015年全年，启动的可能性也都不是很大。</TOKEN>
+</SEG>
+<SEG id="segment-189" start_char="8672" end_char="8851">
+<ORIGINAL_TEXT>就我个人认为，中国最好的出牌时机，是在美国加息之后，资本大量流入美国之后，而又在美国彻底沉淀之前。这样，美国加息完成，得到足够资本，百废待兴之初，中国抢走其百废待兴之所需资本，将可能使美国陷入万劫不复的境地，甚至导致美国金融衍生市场的资金链断裂破产。而美国为了挽留资本，不仅不能降息，可能还要继续加息。如果留不住了，干脆再次开启印钞机，直到把美元彻底变成废纸。</ORIGINAL_TEXT>
+<TOKEN id="token-189-0" pos="unknown" morph="none" start_char="8672" end_char="8851">就我个人认为，中国最好的出牌时机，是在美国加息之后，资本大量流入美国之后，而又在美国彻底沉淀之前。这样，美国加息完成，得到足够资本，百废待兴之初，中国抢走其百废待兴之所需资本，将可能使美国陷入万劫不复的境地，甚至导致美国金融衍生市场的资金链断裂破产。而美国为了挽留资本，不仅不能降息，可能还要继续加息。如果留不住了，干脆再次开启印钞机，直到把美元彻底变成废纸。</TOKEN>
+</SEG>
+<SEG id="segment-190" start_char="8853" end_char="8885">
+<ORIGINAL_TEXT>[ 转自铁血社区 http://bbs.tiexue.net/ ]</ORIGINAL_TEXT>
+<TOKEN id="token-190-0" pos="unknown" morph="none" start_char="8853" end_char="8853">[</TOKEN>
+<TOKEN id="token-190-1" pos="word" morph="none" start_char="8855" end_char="8860">转自铁血社区</TOKEN>
+<TOKEN id="token-190-2" pos="url" morph="none" start_char="8862" end_char="8883">http://bbs.tiexue.net/</TOKEN>
+<TOKEN id="token-190-3" pos="unknown" morph="none" start_char="8885" end_char="8885">]</TOKEN>
+</SEG>
+<SEG id="segment-191" start_char="8887" end_char="8938">
+<ORIGINAL_TEXT>但是，这个时机出牌，一旦成功，对美国的伤害太大，甚至会引起世界格局的剧烈震荡，不利于中国的长远战略发展。</ORIGINAL_TEXT>
+<TOKEN id="token-191-0" pos="unknown" morph="none" start_char="8887" end_char="8938">但是，这个时机出牌，一旦成功，对美国的伤害太大，甚至会引起世界格局的剧烈震荡，不利于中国的长远战略发展。</TOKEN>
+</SEG>
+<SEG id="segment-192" start_char="8940" end_char="8965">
+<ORIGINAL_TEXT>所以，这个时机虽好，但在这个时机出牌的可能性却不大。</ORIGINAL_TEXT>
+<TOKEN id="token-192-0" pos="unknown" morph="none" start_char="8940" end_char="8965">所以，这个时机虽好，但在这个时机出牌的可能性却不大。</TOKEN>
+</SEG>
+<SEG id="segment-193" start_char="8967" end_char="9119">
+<ORIGINAL_TEXT>不过，可能性不大，不代表可能性就没有。如果美国做的太过分（比如炸了981钻井平台、强拆中国的南海人工岛，挑起日本台湾等核心利益），尤其是下一届美国政府选出之后（这一届政府做出过分之举的可能性较小，一是因为奥巴马有心与中国构建新型大国关系，二是因为这一届政府合力不够而难做决策），中国完全可以在资本战中发威。</ORIGINAL_TEXT>
+<TOKEN id="token-193-0" pos="unknown" morph="none" start_char="8967" end_char="9119">不过，可能性不大，不代表可能性就没有。如果美国做的太过分（比如炸了981钻井平台、强拆中国的南海人工岛，挑起日本台湾等核心利益），尤其是下一届美国政府选出之后（这一届政府做出过分之举的可能性较小，一是因为奥巴马有心与中国构建新型大国关系，二是因为这一届政府合力不够而难做决策），中国完全可以在资本战中发威。</TOKEN>
+</SEG>
+<SEG id="segment-194" start_char="9123" end_char="9159">
+<ORIGINAL_TEXT>根据当前形势，更大的可能性，还是在美国进入加息之后，美国获得大量资本之前。</ORIGINAL_TEXT>
+<TOKEN id="token-194-0" pos="unknown" morph="none" start_char="9123" end_char="9159">根据当前形势，更大的可能性，还是在美国进入加息之后，美国获得大量资本之前。</TOKEN>
+</SEG>
+<SEG id="segment-195" start_char="9161" end_char="9228">
+<ORIGINAL_TEXT>具体到时间上，就我个人推测，最早很可能在2015年下半年美国进入加息通道之后，最晚很可能在2016年美国新政府上台之后正式实行新政之前。</ORIGINAL_TEXT>
+<TOKEN id="token-195-0" pos="unknown" morph="none" start_char="9161" end_char="9228">具体到时间上，就我个人推测，最早很可能在2015年下半年美国进入加息通道之后，最晚很可能在2016年美国新政府上台之后正式实行新政之前。</TOKEN>
+</SEG>
+<SEG id="segment-196" start_char="9232" end_char="9262">
+<ORIGINAL_TEXT>当前，中国的资金压力并不大，启动股市的必要性也还没有那么紧迫。</ORIGINAL_TEXT>
+<TOKEN id="token-196-0" pos="unknown" morph="none" start_char="9232" end_char="9262">当前，中国的资金压力并不大，启动股市的必要性也还没有那么紧迫。</TOKEN>
+</SEG>
+<SEG id="segment-197" start_char="9264" end_char="9316">
+<ORIGINAL_TEXT>[ 转自铁血社区 http://bbs.tiexue.net/post_8523913_1.html/ ]</ORIGINAL_TEXT>
+<TOKEN id="token-197-0" pos="unknown" morph="none" start_char="9264" end_char="9264">[</TOKEN>
+<TOKEN id="token-197-1" pos="word" morph="none" start_char="9266" end_char="9271">转自铁血社区</TOKEN>
+<TOKEN id="token-197-2" pos="url" morph="none" start_char="9273" end_char="9314">http://bbs.tiexue.net/post_8523913_1.html/</TOKEN>
+<TOKEN id="token-197-3" pos="unknown" morph="none" start_char="9316" end_char="9316">]</TOKEN>
+</SEG>
+<SEG id="segment-198" start_char="9318" end_char="9465">
+<ORIGINAL_TEXT>就在昨天（2014年1月30日），针对联合国指出2014年中国吸收外资规模首次居世界第一，中国商务部新闻发言人孙继文指出，近年来中国吸引外资规模一直保持在较高水平。而去年美国威瑞森公司向其英国股东沃达丰回购股份，使当年流入美国的外资净值大幅减少，令美国在全球的位次也从2013年第一位降至第三位。</ORIGINAL_TEXT>
+<TOKEN id="token-198-0" pos="unknown" morph="none" start_char="9318" end_char="9465">就在昨天（2014年1月30日），针对联合国指出2014年中国吸收外资规模首次居世界第一，中国商务部新闻发言人孙继文指出，近年来中国吸引外资规模一直保持在较高水平。而去年美国威瑞森公司向其英国股东沃达丰回购股份，使当年流入美国的外资净值大幅减少，令美国在全球的位次也从2013年第一位降至第三位。</TOKEN>
+</SEG>
+<SEG id="segment-199" start_char="9467" end_char="9617">
+<ORIGINAL_TEXT>也在昨天（2014年1月30日），中国出口信用保险公司监事长周立群表示，2014年我国共实现全行对外直接投资1160亿美元，同比增长15.5%，如果算上第三地融资的再投资，2014年我国对外投资总规模应该在1400亿美元，超过了2014年利用外资的规模，也就是说2014年中国已经成为资本净输出的国家。</ORIGINAL_TEXT>
+<TOKEN id="token-199-0" pos="unknown" morph="none" start_char="9467" end_char="9617">也在昨天（2014年1月30日），中国出口信用保险公司监事长周立群表示，2014年我国共实现全行对外直接投资1160亿美元，同比增长15.5%，如果算上第三地融资的再投资，2014年我国对外投资总规模应该在1400亿美元，超过了2014年利用外资的规模，也就是说2014年中国已经成为资本净输出的国家。</TOKEN>
+</SEG>
+<SEG id="segment-200" start_char="9619" end_char="9730">
+<ORIGINAL_TEXT>2014年形势异常复杂严峻，中国在习大大的带领下，不仅吸引外资的规模开始超过美国，位居世界第一。而且已经开始了“吸纳资本——投放资本——使用资本——回收资本”资本蓝图（详细蓝图可以参考前一篇帖子《中美资本之战》）的实施执行。</ORIGINAL_TEXT>
+<TOKEN id="token-200-0" pos="unknown" morph="none" start_char="9619" end_char="9730">2014年形势异常复杂严峻，中国在习大大的带领下，不仅吸引外资的规模开始超过美国，位居世界第一。而且已经开始了“吸纳资本——投放资本——使用资本——回收资本”资本蓝图（详细蓝图可以参考前一篇帖子《中美资本之战》）的实施执行。</TOKEN>
+</SEG>
+<SEG id="segment-201" start_char="9732" end_char="9794">
+<ORIGINAL_TEXT>2015年初的基础，比2014年初更加稳固，相信中国对外资的吸引力还会继续提升，股市也终究会有启动的那一天，只是需要耐心等待。</ORIGINAL_TEXT>
+<TOKEN id="token-201-0" pos="unknown" morph="none" start_char="9732" end_char="9794">2015年初的基础，比2014年初更加稳固，相信中国对外资的吸引力还会继续提升，股市也终究会有启动的那一天，只是需要耐心等待。</TOKEN>
+</SEG>
+<SEG id="segment-202" start_char="9798" end_char="9811">
+<ORIGINAL_TEXT>以上个人分析，仅供大家参考。</ORIGINAL_TEXT>
+<TOKEN id="token-202-0" pos="word" morph="none" start_char="9798" end_char="9803">以上个人分析</TOKEN>
+<TOKEN id="token-202-1" pos="punct" morph="none" start_char="9804" end_char="9804">，</TOKEN>
+<TOKEN id="token-202-2" pos="word" morph="none" start_char="9805" end_char="9810">仅供大家参考</TOKEN>
+<TOKEN id="token-202-3" pos="punct" morph="none" start_char="9811" end_char="9811">。</TOKEN>
+</SEG>
+<SEG id="segment-203" start_char="9813" end_char="9819">
+<ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-203-0" pos="unknown" morph="none" start_char="9813" end_char="9819">&lt;/post&gt;</TOKEN>
+</SEG>
+<SEG id="segment-204" start_char="9821" end_char="9889">
+<ORIGINAL_TEXT>&lt;post id="p2" author="laohuang736360" datetime="2015-01-31T06:46:13"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-204-0" pos="unknown" morph="none" start_char="9821" end_char="9825">&lt;post</TOKEN>
+<TOKEN id="token-204-1" pos="unknown" morph="none" start_char="9827" end_char="9833">id="p2"</TOKEN>
+<TOKEN id="token-204-2" pos="unknown" morph="none" start_char="9835" end_char="9857">author="laohuang736360"</TOKEN>
+<TOKEN id="token-204-3" pos="unknown" morph="none" start_char="9859" end_char="9889">datetime="2015-01-31T06:46:13"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-205" start_char="9891" end_char="9911">
+<ORIGINAL_TEXT>半夜占了大神的前排。激动，这熬夜熬夜得值了</ORIGINAL_TEXT>
+<TOKEN id="token-205-0" pos="unknown" morph="none" start_char="9891" end_char="9911">半夜占了大神的前排。激动，这熬夜熬夜得值了</TOKEN>
+</SEG>
+<SEG id="segment-206" start_char="9913" end_char="9919">
+<ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-206-0" pos="unknown" morph="none" start_char="9913" end_char="9919">&lt;/post&gt;</TOKEN>
+</SEG>
+<SEG id="segment-207" start_char="9921" end_char="9985">
+<ORIGINAL_TEXT>&lt;post id="p3" author="chenchen45" datetime="2015-01-31T07:00:49"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-207-0" pos="unknown" morph="none" start_char="9921" end_char="9925">&lt;post</TOKEN>
+<TOKEN id="token-207-1" pos="unknown" morph="none" start_char="9927" end_char="9933">id="p3"</TOKEN>
+<TOKEN id="token-207-2" pos="unknown" morph="none" start_char="9935" end_char="9953">author="chenchen45"</TOKEN>
+<TOKEN id="token-207-3" pos="unknown" morph="none" start_char="9955" end_char="9985">datetime="2015-01-31T07:00:49"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-208" start_char="9987" end_char="10022">
+<ORIGINAL_TEXT>&lt;quote orig_author="laohuang736360"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-208-0" pos="unknown" morph="none" start_char="9987" end_char="9992">&lt;quote</TOKEN>
+<TOKEN id="token-208-1" pos="unknown" morph="none" start_char="9994" end_char="10022">orig_author="laohuang736360"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-209" start_char="10024" end_char="10044">
+<ORIGINAL_TEXT>半夜占了大神的前排。激动，这熬夜熬夜得值了</ORIGINAL_TEXT>
+<TOKEN id="token-209-0" pos="unknown" morph="none" start_char="10024" end_char="10044">半夜占了大神的前排。激动，这熬夜熬夜得值了</TOKEN>
+</SEG>
+<SEG id="segment-210" start_char="10046" end_char="10053">
+<ORIGINAL_TEXT>&lt;/quote&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-210-0" pos="unknown" morph="none" start_char="10046" end_char="10053">&lt;/quote&gt;</TOKEN>
+</SEG>
+<SEG id="segment-211" start_char="10055" end_char="10094">
+<ORIGINAL_TEXT>就在我发帖的同时，caojianming老师也发了帖，他的帖写的更好、更加精炼。</ORIGINAL_TEXT>
+<TOKEN id="token-211-0" pos="unknown" morph="none" start_char="10055" end_char="10094">就在我发帖的同时，caojianming老师也发了帖，他的帖写的更好、更加精炼。</TOKEN>
+</SEG>
+<SEG id="segment-212" start_char="10098" end_char="10108">
+<ORIGINAL_TEXT>我也觉得今晚熬夜值了！</ORIGINAL_TEXT>
+<TOKEN id="token-212-0" pos="word" morph="none" start_char="10098" end_char="10107">我也觉得今晚熬夜值了</TOKEN>
+<TOKEN id="token-212-1" pos="punct" morph="none" start_char="10108" end_char="10108">！</TOKEN>
+</SEG>
+<SEG id="segment-213" start_char="10110" end_char="10142">
+<ORIGINAL_TEXT>[ 转自铁血社区 http://www.tiexue.net/ ]</ORIGINAL_TEXT>
+<TOKEN id="token-213-0" pos="unknown" morph="none" start_char="10110" end_char="10110">[</TOKEN>
+<TOKEN id="token-213-1" pos="word" morph="none" start_char="10112" end_char="10117">转自铁血社区</TOKEN>
+<TOKEN id="token-213-2" pos="url" morph="none" start_char="10119" end_char="10140">http://www.tiexue.net/</TOKEN>
+<TOKEN id="token-213-3" pos="unknown" morph="none" start_char="10142" end_char="10142">]</TOKEN>
+</SEG>
+<SEG id="segment-214" start_char="10146" end_char="10149">
+<ORIGINAL_TEXT>推荐分享</ORIGINAL_TEXT>
+<TOKEN id="token-214-0" pos="word" morph="none" start_char="10146" end_char="10149">推荐分享</TOKEN>
+</SEG>
+<SEG id="segment-215" start_char="10153" end_char="10193">
+<ORIGINAL_TEXT>http://bbs.tiexue.net/post_8523524_1.html</ORIGINAL_TEXT>
+<TOKEN id="token-215-0" pos="url" morph="none" start_char="10153" end_char="10193">http://bbs.tiexue.net/post_8523524_1.html</TOKEN>
+</SEG>
+<SEG id="segment-216" start_char="10196" end_char="10202">
+<ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-216-0" pos="unknown" morph="none" start_char="10196" end_char="10202">&lt;/post&gt;</TOKEN>
+</SEG>
+<SEG id="segment-217" start_char="10204" end_char="10262">
+<ORIGINAL_TEXT>&lt;post id="p4" author="福达思酒" datetime="2015-01-31T07:02:37"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-217-0" pos="unknown" morph="none" start_char="10204" end_char="10208">&lt;post</TOKEN>
+<TOKEN id="token-217-1" pos="unknown" morph="none" start_char="10210" end_char="10216">id="p4"</TOKEN>
+<TOKEN id="token-217-2" pos="unknown" morph="none" start_char="10218" end_char="10230">author="福达思酒"</TOKEN>
+<TOKEN id="token-217-3" pos="unknown" morph="none" start_char="10232" end_char="10262">datetime="2015-01-31T07:02:37"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-218" start_char="10264" end_char="10296">
+<ORIGINAL_TEXT>大学扩招的还远远不够，至少应该让所有想上大学的人都有上大学的机会。</ORIGINAL_TEXT>
+<TOKEN id="token-218-0" pos="word" morph="none" start_char="10264" end_char="10273">大学扩招的还远远不够</TOKEN>
+<TOKEN id="token-218-1" pos="punct" morph="none" start_char="10274" end_char="10274">，</TOKEN>
+<TOKEN id="token-218-2" pos="word" morph="none" start_char="10275" end_char="10295">至少应该让所有想上大学的人都有上大学的机会</TOKEN>
+<TOKEN id="token-218-3" pos="punct" morph="none" start_char="10296" end_char="10296">。</TOKEN>
+</SEG>
+<SEG id="segment-219" start_char="10298" end_char="10304">
+<ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-219-0" pos="unknown" morph="none" start_char="10298" end_char="10304">&lt;/post&gt;</TOKEN>
+</SEG>
+<SEG id="segment-220" start_char="10306" end_char="10374">
+<ORIGINAL_TEXT>&lt;post id="p5" author="laohuang736360" datetime="2015-01-31T07:09:00"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-220-0" pos="unknown" morph="none" start_char="10306" end_char="10310">&lt;post</TOKEN>
+<TOKEN id="token-220-1" pos="unknown" morph="none" start_char="10312" end_char="10318">id="p5"</TOKEN>
+<TOKEN id="token-220-2" pos="unknown" morph="none" start_char="10320" end_char="10342">author="laohuang736360"</TOKEN>
+<TOKEN id="token-220-3" pos="unknown" morph="none" start_char="10344" end_char="10374">datetime="2015-01-31T07:09:00"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-221" start_char="10376" end_char="10407">
+<ORIGINAL_TEXT>&lt;quote orig_author="chenchen45"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-221-0" pos="unknown" morph="none" start_char="10376" end_char="10381">&lt;quote</TOKEN>
+<TOKEN id="token-221-1" pos="unknown" morph="none" start_char="10383" end_char="10407">orig_author="chenchen45"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-222" start_char="10409" end_char="10444">
+<ORIGINAL_TEXT>&lt;quote orig_author="laohuang736360"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-222-0" pos="unknown" morph="none" start_char="10409" end_char="10414">&lt;quote</TOKEN>
+<TOKEN id="token-222-1" pos="unknown" morph="none" start_char="10416" end_char="10444">orig_author="laohuang736360"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-223" start_char="10446" end_char="10466">
+<ORIGINAL_TEXT>半夜占了大神的前排。激动，这熬夜熬夜得值了</ORIGINAL_TEXT>
+<TOKEN id="token-223-0" pos="unknown" morph="none" start_char="10446" end_char="10466">半夜占了大神的前排。激动，这熬夜熬夜得值了</TOKEN>
+</SEG>
+<SEG id="segment-224" start_char="10468" end_char="10475">
+<ORIGINAL_TEXT>&lt;/quote&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-224-0" pos="unknown" morph="none" start_char="10468" end_char="10475">&lt;/quote&gt;</TOKEN>
+</SEG>
+<SEG id="segment-225" start_char="10477" end_char="10516">
+<ORIGINAL_TEXT>就在我发帖的同时，caojianming老师也发了帖，他的帖写的更好、更加精炼。</ORIGINAL_TEXT>
+<TOKEN id="token-225-0" pos="unknown" morph="none" start_char="10477" end_char="10516">就在我发帖的同时，caojianming老师也发了帖，他的帖写的更好、更加精炼。</TOKEN>
+</SEG>
+<SEG id="segment-226" start_char="10520" end_char="10530">
+<ORIGINAL_TEXT>我也觉得今晚熬夜值了！</ORIGINAL_TEXT>
+<TOKEN id="token-226-0" pos="word" morph="none" start_char="10520" end_char="10529">我也觉得今晚熬夜值了</TOKEN>
+<TOKEN id="token-226-1" pos="punct" morph="none" start_char="10530" end_char="10530">！</TOKEN>
+</SEG>
+<SEG id="segment-227" start_char="10532" end_char="10564">
+<ORIGINAL_TEXT>[ 转自铁血社区 http://www.tiexue.net/ ]</ORIGINAL_TEXT>
+<TOKEN id="token-227-0" pos="unknown" morph="none" start_char="10532" end_char="10532">[</TOKEN>
+<TOKEN id="token-227-1" pos="word" morph="none" start_char="10534" end_char="10539">转自铁血社区</TOKEN>
+<TOKEN id="token-227-2" pos="url" morph="none" start_char="10541" end_char="10562">http://www.tiexue.net/</TOKEN>
+<TOKEN id="token-227-3" pos="unknown" morph="none" start_char="10564" end_char="10564">]</TOKEN>
+</SEG>
+<SEG id="segment-228" start_char="10568" end_char="10571">
+<ORIGINAL_TEXT>推荐分享</ORIGINAL_TEXT>
+<TOKEN id="token-228-0" pos="word" morph="none" start_char="10568" end_char="10571">推荐分享</TOKEN>
+</SEG>
+<SEG id="segment-229" start_char="10575" end_char="10615">
+<ORIGINAL_TEXT>http://bbs.tiexue.net/post_8523524_1.html</ORIGINAL_TEXT>
+<TOKEN id="token-229-0" pos="url" morph="none" start_char="10575" end_char="10615">http://bbs.tiexue.net/post_8523524_1.html</TOKEN>
+</SEG>
+<SEG id="segment-230" start_char="10618" end_char="10625">
+<ORIGINAL_TEXT>&lt;/quote&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-230-0" pos="unknown" morph="none" start_char="10618" end_char="10625">&lt;/quote&gt;</TOKEN>
+</SEG>
+<SEG id="segment-231" start_char="10627" end_char="10645">
+<ORIGINAL_TEXT>最近几天人民币连续跌停。大神们怎么看？</ORIGINAL_TEXT>
+<TOKEN id="token-231-0" pos="word" morph="none" start_char="10627" end_char="10637">最近几天人民币连续跌停</TOKEN>
+<TOKEN id="token-231-1" pos="punct" morph="none" start_char="10638" end_char="10638">。</TOKEN>
+<TOKEN id="token-231-2" pos="word" morph="none" start_char="10639" end_char="10644">大神们怎么看</TOKEN>
+<TOKEN id="token-231-3" pos="punct" morph="none" start_char="10645" end_char="10645">？</TOKEN>
+</SEG>
+<SEG id="segment-232" start_char="10647" end_char="10653">
+<ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-232-0" pos="unknown" morph="none" start_char="10647" end_char="10653">&lt;/post&gt;</TOKEN>
+</SEG>
+<SEG id="segment-233" start_char="10655" end_char="10719">
+<ORIGINAL_TEXT>&lt;post id="p6" author="chenchen45" datetime="2015-01-31T07:20:44"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-233-0" pos="unknown" morph="none" start_char="10655" end_char="10659">&lt;post</TOKEN>
+<TOKEN id="token-233-1" pos="unknown" morph="none" start_char="10661" end_char="10667">id="p6"</TOKEN>
+<TOKEN id="token-233-2" pos="unknown" morph="none" start_char="10669" end_char="10687">author="chenchen45"</TOKEN>
+<TOKEN id="token-233-3" pos="unknown" morph="none" start_char="10689" end_char="10719">datetime="2015-01-31T07:20:44"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-234" start_char="10721" end_char="10756">
+<ORIGINAL_TEXT>&lt;quote orig_author="laohuang736360"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-234-0" pos="unknown" morph="none" start_char="10721" end_char="10726">&lt;quote</TOKEN>
+<TOKEN id="token-234-1" pos="unknown" morph="none" start_char="10728" end_char="10756">orig_author="laohuang736360"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-235" start_char="10758" end_char="10789">
+<ORIGINAL_TEXT>&lt;quote orig_author="chenchen45"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-235-0" pos="unknown" morph="none" start_char="10758" end_char="10763">&lt;quote</TOKEN>
+<TOKEN id="token-235-1" pos="unknown" morph="none" start_char="10765" end_char="10789">orig_author="chenchen45"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-236" start_char="10791" end_char="10826">
+<ORIGINAL_TEXT>&lt;quote orig_author="laohuang736360"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-236-0" pos="unknown" morph="none" start_char="10791" end_char="10796">&lt;quote</TOKEN>
+<TOKEN id="token-236-1" pos="unknown" morph="none" start_char="10798" end_char="10826">orig_author="laohuang736360"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-237" start_char="10828" end_char="10848">
+<ORIGINAL_TEXT>半夜占了大神的前排。激动，这熬夜熬夜得值了</ORIGINAL_TEXT>
+<TOKEN id="token-237-0" pos="unknown" morph="none" start_char="10828" end_char="10848">半夜占了大神的前排。激动，这熬夜熬夜得值了</TOKEN>
+</SEG>
+<SEG id="segment-238" start_char="10850" end_char="10857">
+<ORIGINAL_TEXT>&lt;/quote&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-238-0" pos="unknown" morph="none" start_char="10850" end_char="10857">&lt;/quote&gt;</TOKEN>
+</SEG>
+<SEG id="segment-239" start_char="10859" end_char="10898">
+<ORIGINAL_TEXT>就在我发帖的同时，caojianming老师也发了帖，他的帖写的更好、更加精炼。</ORIGINAL_TEXT>
+<TOKEN id="token-239-0" pos="unknown" morph="none" start_char="10859" end_char="10898">就在我发帖的同时，caojianming老师也发了帖，他的帖写的更好、更加精炼。</TOKEN>
+</SEG>
+<SEG id="segment-240" start_char="10902" end_char="10912">
+<ORIGINAL_TEXT>我也觉得今晚熬夜值了！</ORIGINAL_TEXT>
+<TOKEN id="token-240-0" pos="word" morph="none" start_char="10902" end_char="10911">我也觉得今晚熬夜值了</TOKEN>
+<TOKEN id="token-240-1" pos="punct" morph="none" start_char="10912" end_char="10912">！</TOKEN>
+</SEG>
+<SEG id="segment-241" start_char="10914" end_char="10946">
+<ORIGINAL_TEXT>[ 转自铁血社区 http://www.tiexue.net/ ]</ORIGINAL_TEXT>
+<TOKEN id="token-241-0" pos="unknown" morph="none" start_char="10914" end_char="10914">[</TOKEN>
+<TOKEN id="token-241-1" pos="word" morph="none" start_char="10916" end_char="10921">转自铁血社区</TOKEN>
+<TOKEN id="token-241-2" pos="url" morph="none" start_char="10923" end_char="10944">http://www.tiexue.net/</TOKEN>
+<TOKEN id="token-241-3" pos="unknown" morph="none" start_char="10946" end_char="10946">]</TOKEN>
+</SEG>
+<SEG id="segment-242" start_char="10950" end_char="10953">
+<ORIGINAL_TEXT>推荐分享</ORIGINAL_TEXT>
+<TOKEN id="token-242-0" pos="word" morph="none" start_char="10950" end_char="10953">推荐分享</TOKEN>
+</SEG>
+<SEG id="segment-243" start_char="10957" end_char="10997">
+<ORIGINAL_TEXT>http://bbs.tiexue.net/post_8523524_1.html</ORIGINAL_TEXT>
+<TOKEN id="token-243-0" pos="url" morph="none" start_char="10957" end_char="10997">http://bbs.tiexue.net/post_8523524_1.html</TOKEN>
+</SEG>
+<SEG id="segment-244" start_char="11000" end_char="11007">
+<ORIGINAL_TEXT>&lt;/quote&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-244-0" pos="unknown" morph="none" start_char="11000" end_char="11007">&lt;/quote&gt;</TOKEN>
+</SEG>
+<SEG id="segment-245" start_char="11009" end_char="11027">
+<ORIGINAL_TEXT>最近几天人民币连续跌停。大神们怎么看？</ORIGINAL_TEXT>
+<TOKEN id="token-245-0" pos="word" morph="none" start_char="11009" end_char="11019">最近几天人民币连续跌停</TOKEN>
+<TOKEN id="token-245-1" pos="punct" morph="none" start_char="11020" end_char="11020">。</TOKEN>
+<TOKEN id="token-245-2" pos="word" morph="none" start_char="11021" end_char="11026">大神们怎么看</TOKEN>
+<TOKEN id="token-245-3" pos="punct" morph="none" start_char="11027" end_char="11027">？</TOKEN>
+</SEG>
+<SEG id="segment-246" start_char="11029" end_char="11036">
+<ORIGINAL_TEXT>&lt;/quote&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-246-0" pos="unknown" morph="none" start_char="11029" end_char="11036">&lt;/quote&gt;</TOKEN>
+</SEG>
+<SEG id="segment-247" start_char="11038" end_char="11076">
+<ORIGINAL_TEXT>caojianming老师刚刚发的帖子，把近期人民币贬值和股市下跌的原因讲透了</ORIGINAL_TEXT>
+<TOKEN id="token-247-0" pos="word" morph="none" start_char="11038" end_char="11056">caojianming老师刚刚发的帖子</TOKEN>
+<TOKEN id="token-247-1" pos="punct" morph="none" start_char="11057" end_char="11057">，</TOKEN>
+<TOKEN id="token-247-2" pos="word" morph="none" start_char="11058" end_char="11076">把近期人民币贬值和股市下跌的原因讲透了</TOKEN>
+</SEG>
+<SEG id="segment-248" start_char="11079" end_char="11119">
+<ORIGINAL_TEXT>http://bbs.tiexue.net/post_8523524_1.html</ORIGINAL_TEXT>
+<TOKEN id="token-248-0" pos="url" morph="none" start_char="11079" end_char="11119">http://bbs.tiexue.net/post_8523524_1.html</TOKEN>
+</SEG>
+<SEG id="segment-249" start_char="11121" end_char="11161">
+<ORIGINAL_TEXT>http://bbs.tiexue.net/post_8523524_1.html</ORIGINAL_TEXT>
+<TOKEN id="token-249-0" pos="url" morph="none" start_char="11121" end_char="11161">http://bbs.tiexue.net/post_8523524_1.html</TOKEN>
+</SEG>
+<SEG id="segment-250" start_char="11165" end_char="11193">
+<ORIGINAL_TEXT>他在分析汇率和股市的短期走势，比我分析的长期走势难度大多了</ORIGINAL_TEXT>
+<TOKEN id="token-250-0" pos="word" morph="none" start_char="11165" end_char="11178">他在分析汇率和股市的短期走势</TOKEN>
+<TOKEN id="token-250-1" pos="punct" morph="none" start_char="11179" end_char="11179">，</TOKEN>
+<TOKEN id="token-250-2" pos="word" morph="none" start_char="11180" end_char="11193">比我分析的长期走势难度大多了</TOKEN>
+</SEG>
+<SEG id="segment-251" start_char="11195" end_char="11201">
+<ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-251-0" pos="unknown" morph="none" start_char="11195" end_char="11201">&lt;/post&gt;</TOKEN>
+</SEG>
+<SEG id="segment-252" start_char="11203" end_char="11263">
+<ORIGINAL_TEXT>&lt;post id="p7" author="xuxuxu" datetime="2015-01-31T15:34:36"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-252-0" pos="unknown" morph="none" start_char="11203" end_char="11207">&lt;post</TOKEN>
+<TOKEN id="token-252-1" pos="unknown" morph="none" start_char="11209" end_char="11215">id="p7"</TOKEN>
+<TOKEN id="token-252-2" pos="unknown" morph="none" start_char="11217" end_char="11231">author="xuxuxu"</TOKEN>
+<TOKEN id="token-252-3" pos="unknown" morph="none" start_char="11233" end_char="11263">datetime="2015-01-31T15:34:36"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-253" start_char="11265" end_char="11327">
+<ORIGINAL_TEXT>不论股市，还是汇率，房市，油价，金价，还有其它政策，它们都是中美俄欧的博弈的工具，这些工具的走势得跟随着愽弈的形势变化而变化。</ORIGINAL_TEXT>
+<TOKEN id="token-253-0" pos="unknown" morph="none" start_char="11265" end_char="11327">不论股市，还是汇率，房市，油价，金价，还有其它政策，它们都是中美俄欧的博弈的工具，这些工具的走势得跟随着愽弈的形势变化而变化。</TOKEN>
+</SEG>
+<SEG id="segment-254" start_char="11329" end_char="11476">
+<ORIGINAL_TEXT>如果要想准确预测股市的走势，那么必须先要预测中美俄欧博弈的形势发展趋势。要预测中美俄欧博弈的形势发展趋势真的太难了，我想就是中美欧俄的顶尖智襄，也不可能作出准确的预测。大的趋势都不能预测，如何预测细枝末叶的股市走势？更何况2015年是大家公认的急剧变化的一年。因此，在本人看来，股市是没法预测的。</ORIGINAL_TEXT>
+<TOKEN id="token-254-0" pos="unknown" morph="none" start_char="11329" end_char="11476">如果要想准确预测股市的走势，那么必须先要预测中美俄欧博弈的形势发展趋势。要预测中美俄欧博弈的形势发展趋势真的太难了，我想就是中美欧俄的顶尖智襄，也不可能作出准确的预测。大的趋势都不能预测，如何预测细枝末叶的股市走势？更何况2015年是大家公认的急剧变化的一年。因此，在本人看来，股市是没法预测的。</TOKEN>
+</SEG>
+<SEG id="segment-255" start_char="11478" end_char="11530">
+<ORIGINAL_TEXT>[ 转自铁血社区 http://bbs.tiexue.net/post_8523913_1.html/ ]</ORIGINAL_TEXT>
+<TOKEN id="token-255-0" pos="unknown" morph="none" start_char="11478" end_char="11478">[</TOKEN>
+<TOKEN id="token-255-1" pos="word" morph="none" start_char="11480" end_char="11485">转自铁血社区</TOKEN>
+<TOKEN id="token-255-2" pos="url" morph="none" start_char="11487" end_char="11528">http://bbs.tiexue.net/post_8523913_1.html/</TOKEN>
+<TOKEN id="token-255-3" pos="unknown" morph="none" start_char="11530" end_char="11530">]</TOKEN>
+</SEG>
+<SEG id="segment-256" start_char="11532" end_char="11698">
+<ORIGINAL_TEXT>虽然世界博弈的走势无法预测，股市无法预知，但世界形势有一个公认的论断：美国是正在走下滑，中国正在上升。如果这个结论是正确的，那么中美未来的形势就可以大致判断了——中国是世界的中心之国！至于在达到这个结果，需要多长的时间，中心之国的影响力有多大，中心能持续多久，那就无法准确预测了。但这样也够了，也足以让聪明的铁血网友后半生衣食无忧了。</ORIGINAL_TEXT>
+<TOKEN id="token-256-0" pos="unknown" morph="none" start_char="11532" end_char="11698">虽然世界博弈的走势无法预测，股市无法预知，但世界形势有一个公认的论断：美国是正在走下滑，中国正在上升。如果这个结论是正确的，那么中美未来的形势就可以大致判断了——中国是世界的中心之国！至于在达到这个结果，需要多长的时间，中心之国的影响力有多大，中心能持续多久，那就无法准确预测了。但这样也够了，也足以让聪明的铁血网友后半生衣食无忧了。</TOKEN>
+</SEG>
+<SEG id="segment-257" start_char="11701" end_char="11707">
+<ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-257-0" pos="unknown" morph="none" start_char="11701" end_char="11707">&lt;/post&gt;</TOKEN>
+</SEG>
+<SEG id="segment-258" start_char="11709" end_char="11774">
+<ORIGINAL_TEXT>&lt;post id="p8" author="caojianming" datetime="2015-01-31T16:20:52"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-258-0" pos="unknown" morph="none" start_char="11709" end_char="11713">&lt;post</TOKEN>
+<TOKEN id="token-258-1" pos="unknown" morph="none" start_char="11715" end_char="11721">id="p8"</TOKEN>
+<TOKEN id="token-258-2" pos="unknown" morph="none" start_char="11723" end_char="11742">author="caojianming"</TOKEN>
+<TOKEN id="token-258-3" pos="unknown" morph="none" start_char="11744" end_char="11774">datetime="2015-01-31T16:20:52"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-259" start_char="11776" end_char="11786">
+<ORIGINAL_TEXT>朋友写的很好 ，很精彩</ORIGINAL_TEXT>
+<TOKEN id="token-259-0" pos="word" morph="none" start_char="11776" end_char="11781">朋友写的很好</TOKEN>
+<TOKEN id="token-259-1" pos="punct" morph="none" start_char="11783" end_char="11783">，</TOKEN>
+<TOKEN id="token-259-2" pos="word" morph="none" start_char="11784" end_char="11786">很精彩</TOKEN>
+</SEG>
+<SEG id="segment-260" start_char="11788" end_char="11794">
+<ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-260-0" pos="unknown" morph="none" start_char="11788" end_char="11794">&lt;/post&gt;</TOKEN>
+</SEG>
+<SEG id="segment-261" start_char="11796" end_char="11854">
+<ORIGINAL_TEXT>&lt;post id="p9" author="数据交换" datetime="2015-01-31T17:08:40"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-261-0" pos="unknown" morph="none" start_char="11796" end_char="11800">&lt;post</TOKEN>
+<TOKEN id="token-261-1" pos="unknown" morph="none" start_char="11802" end_char="11808">id="p9"</TOKEN>
+<TOKEN id="token-261-2" pos="unknown" morph="none" start_char="11810" end_char="11822">author="数据交换"</TOKEN>
+<TOKEN id="token-261-3" pos="unknown" morph="none" start_char="11824" end_char="11854">datetime="2015-01-31T17:08:40"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-262" start_char="11856" end_char="11897">
+<ORIGINAL_TEXT>中国靠股市弄残美国？已经无路吐槽了，能不能弄残美国我不知道，弄残国内股民这个我相信。</ORIGINAL_TEXT>
+<TOKEN id="token-262-0" pos="unknown" morph="none" start_char="11856" end_char="11897">中国靠股市弄残美国？已经无路吐槽了，能不能弄残美国我不知道，弄残国内股民这个我相信。</TOKEN>
+</SEG>
+<SEG id="segment-263" start_char="11899" end_char="11905">
+<ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-263-0" pos="unknown" morph="none" start_char="11899" end_char="11905">&lt;/post&gt;</TOKEN>
+</SEG>
+<SEG id="segment-264" start_char="11907" end_char="11966">
+<ORIGINAL_TEXT>&lt;post id="p10" author="6911" datetime="2015-01-31T17:05:58"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-264-0" pos="unknown" morph="none" start_char="11907" end_char="11911">&lt;post</TOKEN>
+<TOKEN id="token-264-1" pos="unknown" morph="none" start_char="11913" end_char="11920">id="p10"</TOKEN>
+<TOKEN id="token-264-2" pos="unknown" morph="none" start_char="11922" end_char="11934">author="6911"</TOKEN>
+<TOKEN id="token-264-3" pos="unknown" morph="none" start_char="11936" end_char="11966">datetime="2015-01-31T17:05:58"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-265" start_char="11968" end_char="11976">
+<ORIGINAL_TEXT>受益良多。顶楼主！</ORIGINAL_TEXT>
+<TOKEN id="token-265-0" pos="word" morph="none" start_char="11968" end_char="11971">受益良多</TOKEN>
+<TOKEN id="token-265-1" pos="punct" morph="none" start_char="11972" end_char="11972">。</TOKEN>
+<TOKEN id="token-265-2" pos="word" morph="none" start_char="11973" end_char="11975">顶楼主</TOKEN>
+<TOKEN id="token-265-3" pos="punct" morph="none" start_char="11976" end_char="11976">！</TOKEN>
+</SEG>
+<SEG id="segment-266" start_char="11978" end_char="11984">
+<ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-266-0" pos="unknown" morph="none" start_char="11978" end_char="11984">&lt;/post&gt;</TOKEN>
+</SEG>
+<SEG id="segment-267" start_char="11986" end_char="12051">
+<ORIGINAL_TEXT>&lt;post id="p11" author="1404789010" datetime="2015-01-31T17:20:40"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-267-0" pos="unknown" morph="none" start_char="11986" end_char="11990">&lt;post</TOKEN>
+<TOKEN id="token-267-1" pos="unknown" morph="none" start_char="11992" end_char="11999">id="p11"</TOKEN>
+<TOKEN id="token-267-2" pos="unknown" morph="none" start_char="12001" end_char="12019">author="1404789010"</TOKEN>
+<TOKEN id="token-267-3" pos="unknown" morph="none" start_char="12021" end_char="12051">datetime="2015-01-31T17:20:40"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-268" start_char="12053" end_char="12058">
+<ORIGINAL_TEXT>习大大威武！</ORIGINAL_TEXT>
+<TOKEN id="token-268-0" pos="word" morph="none" start_char="12053" end_char="12057">习大大威武</TOKEN>
+<TOKEN id="token-268-1" pos="punct" morph="none" start_char="12058" end_char="12058">！</TOKEN>
+</SEG>
+<SEG id="segment-269" start_char="12060" end_char="12066">
+<ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-269-0" pos="unknown" morph="none" start_char="12060" end_char="12066">&lt;/post&gt;</TOKEN>
+</SEG>
+<SEG id="segment-270" start_char="12068" end_char="12129">
+<ORIGINAL_TEXT>&lt;post id="p12" author="jdn012" datetime="2015-01-31T17:26:23"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-270-0" pos="unknown" morph="none" start_char="12068" end_char="12072">&lt;post</TOKEN>
+<TOKEN id="token-270-1" pos="unknown" morph="none" start_char="12074" end_char="12081">id="p12"</TOKEN>
+<TOKEN id="token-270-2" pos="unknown" morph="none" start_char="12083" end_char="12097">author="jdn012"</TOKEN>
+<TOKEN id="token-270-3" pos="unknown" morph="none" start_char="12099" end_char="12129">datetime="2015-01-31T17:26:23"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-271" start_char="12131" end_char="12176">
+<ORIGINAL_TEXT>笑死了, 中国股市就是贪官权贵们圈百姓钱的工具, 还中美博弈, 自娱自乐, 愚民害民吧...</ORIGINAL_TEXT>
+<TOKEN id="token-271-0" pos="word" morph="none" start_char="12131" end_char="12133">笑死了</TOKEN>
+<TOKEN id="token-271-1" pos="punct" morph="none" start_char="12134" end_char="12134">,</TOKEN>
+<TOKEN id="token-271-2" pos="word" morph="none" start_char="12136" end_char="12153">中国股市就是贪官权贵们圈百姓钱的工具</TOKEN>
+<TOKEN id="token-271-3" pos="punct" morph="none" start_char="12154" end_char="12154">,</TOKEN>
+<TOKEN id="token-271-4" pos="word" morph="none" start_char="12156" end_char="12160">还中美博弈</TOKEN>
+<TOKEN id="token-271-5" pos="punct" morph="none" start_char="12161" end_char="12161">,</TOKEN>
+<TOKEN id="token-271-6" pos="word" morph="none" start_char="12163" end_char="12166">自娱自乐</TOKEN>
+<TOKEN id="token-271-7" pos="punct" morph="none" start_char="12167" end_char="12167">,</TOKEN>
+<TOKEN id="token-271-8" pos="word" morph="none" start_char="12169" end_char="12173">愚民害民吧</TOKEN>
+<TOKEN id="token-271-9" pos="punct" morph="none" start_char="12174" end_char="12176">...</TOKEN>
+</SEG>
+<SEG id="segment-272" start_char="12178" end_char="12184">
+<ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-272-0" pos="unknown" morph="none" start_char="12178" end_char="12184">&lt;/post&gt;</TOKEN>
+</SEG>
+<SEG id="segment-273" start_char="12186" end_char="12245">
+<ORIGINAL_TEXT>&lt;post id="p13" author="左岸微蓝" datetime="2015-01-31T17:46:10"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-273-0" pos="unknown" morph="none" start_char="12186" end_char="12190">&lt;post</TOKEN>
+<TOKEN id="token-273-1" pos="unknown" morph="none" start_char="12192" end_char="12199">id="p13"</TOKEN>
+<TOKEN id="token-273-2" pos="unknown" morph="none" start_char="12201" end_char="12213">author="左岸微蓝"</TOKEN>
+<TOKEN id="token-273-3" pos="unknown" morph="none" start_char="12215" end_char="12245">datetime="2015-01-31T17:46:10"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-274" start_char="12247" end_char="12273">
+<ORIGINAL_TEXT>我去，我也算前排了，楼主的文章分析透彻，指引了大伙方向</ORIGINAL_TEXT>
+<TOKEN id="token-274-0" pos="unknown" morph="none" start_char="12247" end_char="12273">我去，我也算前排了，楼主的文章分析透彻，指引了大伙方向</TOKEN>
+</SEG>
+<SEG id="segment-275" start_char="12275" end_char="12281">
+<ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-275-0" pos="unknown" morph="none" start_char="12275" end_char="12281">&lt;/post&gt;</TOKEN>
+</SEG>
+<SEG id="segment-276" start_char="12283" end_char="12288">
+<ORIGINAL_TEXT>&lt;/doc&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-276-0" pos="unknown" morph="none" start_char="12283" end_char="12288">&lt;/doc&gt;</TOKEN>
+</SEG>
+</TEXT>
+</DOC>
+</LCTL_TEXT>

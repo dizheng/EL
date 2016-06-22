@@ -1,0 +1,573 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE LCTL_TEXT SYSTEM "ltf.v1.5.dtd">
+<LCTL_TEXT>
+<DOC id="CMN_DF_000311_20150427_F001000AG.df.xml" tokenization="tokenization_parameters" grammar="none" raw_text_char_length="3078" raw_text_md5="7b3f7b5f09a504421eeba897b3d1bdd6">
+<TEXT>
+<SEG id="segment-0" start_char="0" end_char="37">
+<ORIGINAL_TEXT>&lt;?xml version="1.0" encoding="utf-8"?&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-0-0" pos="unknown" morph="none" start_char="0" end_char="4">&lt;?xml</TOKEN>
+<TOKEN id="token-0-1" pos="unknown" morph="none" start_char="6" end_char="18">version="1.0"</TOKEN>
+<TOKEN id="token-0-2" pos="unknown" morph="none" start_char="20" end_char="37">encoding="utf-8"?&gt;</TOKEN>
+</SEG>
+<SEG id="segment-1" start_char="39" end_char="81">
+<ORIGINAL_TEXT>&lt;doc id="CMN_DF_000311_20150427_F001000AG"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-1-0" pos="unknown" morph="none" start_char="39" end_char="42">&lt;doc</TOKEN>
+<TOKEN id="token-1-1" pos="unknown" morph="none" start_char="44" end_char="81">id="CMN_DF_000311_20150427_F001000AG"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-2" start_char="83" end_char="92">
+<ORIGINAL_TEXT>&lt;headline&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-2-0" pos="unknown" morph="none" start_char="83" end_char="92">&lt;headline&gt;</TOKEN>
+</SEG>
+<SEG id="segment-3" start_char="94" end_char="112">
+<ORIGINAL_TEXT>惊曝解放军血战CIA 为抢斯诺登杀4人</ORIGINAL_TEXT>
+<TOKEN id="token-3-0" pos="word" morph="none" start_char="94" end_char="103">惊曝解放军血战CIA</TOKEN>
+<TOKEN id="token-3-1" pos="word" morph="none" start_char="105" end_char="112">为抢斯诺登杀4人</TOKEN>
+</SEG>
+<SEG id="segment-4" start_char="114" end_char="124">
+<ORIGINAL_TEXT>&lt;/headline&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-4-0" pos="unknown" morph="none" start_char="114" end_char="124">&lt;/headline&gt;</TOKEN>
+</SEG>
+<SEG id="segment-5" start_char="126" end_char="187">
+<ORIGINAL_TEXT>&lt;post id="p1" author="duthuwu" datetime="2015-04-27T09:27:00"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-5-0" pos="unknown" morph="none" start_char="126" end_char="130">&lt;post</TOKEN>
+<TOKEN id="token-5-1" pos="unknown" morph="none" start_char="132" end_char="138">id="p1"</TOKEN>
+<TOKEN id="token-5-2" pos="unknown" morph="none" start_char="140" end_char="155">author="duthuwu"</TOKEN>
+<TOKEN id="token-5-3" pos="unknown" morph="none" start_char="157" end_char="187">datetime="2015-04-27T09:27:00"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-6" start_char="189" end_char="254">
+<ORIGINAL_TEXT>http://ah.ifeng.com/news/wangluo/detail_2015_04/27/3830175_0.shtml</ORIGINAL_TEXT>
+<TOKEN id="token-6-0" pos="url" morph="none" start_char="189" end_char="254">http://ah.ifeng.com/news/wangluo/detail_2015_04/27/3830175_0.shtml</TOKEN>
+</SEG>
+<SEG id="segment-7" start_char="256" end_char="262">
+<ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-7-0" pos="unknown" morph="none" start_char="256" end_char="262">&lt;/post&gt;</TOKEN>
+</SEG>
+<SEG id="segment-8" start_char="264" end_char="322">
+<ORIGINAL_TEXT>&lt;post id="p2" author="南阳新手" datetime="2015-04-27T09:40:00"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-8-0" pos="unknown" morph="none" start_char="264" end_char="268">&lt;post</TOKEN>
+<TOKEN id="token-8-1" pos="unknown" morph="none" start_char="270" end_char="276">id="p2"</TOKEN>
+<TOKEN id="token-8-2" pos="unknown" morph="none" start_char="278" end_char="290">author="南阳新手"</TOKEN>
+<TOKEN id="token-8-3" pos="unknown" morph="none" start_char="292" end_char="322">datetime="2015-04-27T09:40:00"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-9" start_char="324" end_char="337">
+<ORIGINAL_TEXT>迟来的军功章。你说的是真的？</ORIGINAL_TEXT>
+<TOKEN id="token-9-0" pos="word" morph="none" start_char="324" end_char="329">迟来的军功章</TOKEN>
+<TOKEN id="token-9-1" pos="punct" morph="none" start_char="330" end_char="330">。</TOKEN>
+<TOKEN id="token-9-2" pos="word" morph="none" start_char="331" end_char="336">你说的是真的</TOKEN>
+<TOKEN id="token-9-3" pos="punct" morph="none" start_char="337" end_char="337">？</TOKEN>
+</SEG>
+<SEG id="segment-10" start_char="339" end_char="345">
+<ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-10-0" pos="unknown" morph="none" start_char="339" end_char="345">&lt;/post&gt;</TOKEN>
+</SEG>
+<SEG id="segment-11" start_char="347" end_char="403">
+<ORIGINAL_TEXT>&lt;post id="p3" author="小废" datetime="2015-04-27T09:45:00"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-11-0" pos="unknown" morph="none" start_char="347" end_char="351">&lt;post</TOKEN>
+<TOKEN id="token-11-1" pos="unknown" morph="none" start_char="353" end_char="359">id="p3"</TOKEN>
+<TOKEN id="token-11-2" pos="unknown" morph="none" start_char="361" end_char="371">author="小废"</TOKEN>
+<TOKEN id="token-11-3" pos="unknown" morph="none" start_char="373" end_char="403">datetime="2015-04-27T09:45:00"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-12" start_char="405" end_char="411">
+<ORIGINAL_TEXT>删前留名 呵呵</ORIGINAL_TEXT>
+<TOKEN id="token-12-0" pos="word" morph="none" start_char="405" end_char="408">删前留名</TOKEN>
+<TOKEN id="token-12-1" pos="word" morph="none" start_char="410" end_char="411">呵呵</TOKEN>
+</SEG>
+<SEG id="segment-13" start_char="413" end_char="419">
+<ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-13-0" pos="unknown" morph="none" start_char="413" end_char="419">&lt;/post&gt;</TOKEN>
+</SEG>
+<SEG id="segment-14" start_char="421" end_char="482">
+<ORIGINAL_TEXT>&lt;post id="p4" author="chyuans" datetime="2015-04-27T09:56:00"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-14-0" pos="unknown" morph="none" start_char="421" end_char="425">&lt;post</TOKEN>
+<TOKEN id="token-14-1" pos="unknown" morph="none" start_char="427" end_char="433">id="p4"</TOKEN>
+<TOKEN id="token-14-2" pos="unknown" morph="none" start_char="435" end_char="450">author="chyuans"</TOKEN>
+<TOKEN id="token-14-3" pos="unknown" morph="none" start_char="452" end_char="482">datetime="2015-04-27T09:56:00"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-15" start_char="484" end_char="497">
+<ORIGINAL_TEXT>楼主即将掀起第五次以上的讨论</ORIGINAL_TEXT>
+<TOKEN id="token-15-0" pos="word" morph="none" start_char="484" end_char="497">楼主即将掀起第五次以上的讨论</TOKEN>
+</SEG>
+<SEG id="segment-16" start_char="499" end_char="505">
+<ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-16-0" pos="unknown" morph="none" start_char="499" end_char="505">&lt;/post&gt;</TOKEN>
+</SEG>
+<SEG id="segment-17" start_char="507" end_char="568">
+<ORIGINAL_TEXT>&lt;post id="p5" author="又是江南烟雨时" datetime="2015-04-27T09:59:00"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-17-0" pos="unknown" morph="none" start_char="507" end_char="511">&lt;post</TOKEN>
+<TOKEN id="token-17-1" pos="unknown" morph="none" start_char="513" end_char="519">id="p5"</TOKEN>
+<TOKEN id="token-17-2" pos="unknown" morph="none" start_char="521" end_char="536">author="又是江南烟雨时"</TOKEN>
+<TOKEN id="token-17-3" pos="unknown" morph="none" start_char="538" end_char="568">datetime="2015-04-27T09:59:00"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-18" start_char="570" end_char="577">
+<ORIGINAL_TEXT>不知道是不是真的</ORIGINAL_TEXT>
+<TOKEN id="token-18-0" pos="word" morph="none" start_char="570" end_char="577">不知道是不是真的</TOKEN>
+</SEG>
+<SEG id="segment-19" start_char="580" end_char="589">
+<ORIGINAL_TEXT>来自:关于超级大本营</ORIGINAL_TEXT>
+<TOKEN id="token-19-0" pos="word" morph="none" start_char="580" end_char="581">来自</TOKEN>
+<TOKEN id="token-19-1" pos="punct" morph="none" start_char="582" end_char="582">:</TOKEN>
+<TOKEN id="token-19-2" pos="word" morph="none" start_char="583" end_char="589">关于超级大本营</TOKEN>
+</SEG>
+<SEG id="segment-20" start_char="591" end_char="597">
+<ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-20-0" pos="unknown" morph="none" start_char="591" end_char="597">&lt;/post&gt;</TOKEN>
+</SEG>
+<SEG id="segment-21" start_char="599" end_char="657">
+<ORIGINAL_TEXT>&lt;post id="p6" author="中华不败" datetime="2015-04-27T10:05:00"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-21-0" pos="unknown" morph="none" start_char="599" end_char="603">&lt;post</TOKEN>
+<TOKEN id="token-21-1" pos="unknown" morph="none" start_char="605" end_char="611">id="p6"</TOKEN>
+<TOKEN id="token-21-2" pos="unknown" morph="none" start_char="613" end_char="625">author="中华不败"</TOKEN>
+<TOKEN id="token-21-3" pos="unknown" morph="none" start_char="627" end_char="657">datetime="2015-04-27T10:05:00"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-22" start_char="659" end_char="714">
+<ORIGINAL_TEXT>事隔正好一年，此事再次被炒起，应该是一种惯用的证实这类秘密而不便公开宣传的重大事件的方式！为我们的特种兵喝彩！！</ORIGINAL_TEXT>
+<TOKEN id="token-22-0" pos="unknown" morph="none" start_char="659" end_char="714">事隔正好一年，此事再次被炒起，应该是一种惯用的证实这类秘密而不便公开宣传的重大事件的方式！为我们的特种兵喝彩！！</TOKEN>
+</SEG>
+<SEG id="segment-23" start_char="716" end_char="722">
+<ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-23-0" pos="unknown" morph="none" start_char="716" end_char="722">&lt;/post&gt;</TOKEN>
+</SEG>
+<SEG id="segment-24" start_char="724" end_char="783">
+<ORIGINAL_TEXT>&lt;post id="p7" author="大内挂号信" datetime="2015-04-27T10:05:00"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-24-0" pos="unknown" morph="none" start_char="724" end_char="728">&lt;post</TOKEN>
+<TOKEN id="token-24-1" pos="unknown" morph="none" start_char="730" end_char="736">id="p7"</TOKEN>
+<TOKEN id="token-24-2" pos="unknown" morph="none" start_char="738" end_char="751">author="大内挂号信"</TOKEN>
+<TOKEN id="token-24-3" pos="unknown" morph="none" start_char="753" end_char="783">datetime="2015-04-27T10:05:00"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-25" start_char="785" end_char="792">
+<ORIGINAL_TEXT>晚了吗？火钳流明</ORIGINAL_TEXT>
+<TOKEN id="token-25-0" pos="word" morph="none" start_char="785" end_char="787">晚了吗</TOKEN>
+<TOKEN id="token-25-1" pos="punct" morph="none" start_char="788" end_char="788">？</TOKEN>
+<TOKEN id="token-25-2" pos="word" morph="none" start_char="789" end_char="792">火钳流明</TOKEN>
+</SEG>
+<SEG id="segment-26" start_char="794" end_char="800">
+<ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-26-0" pos="unknown" morph="none" start_char="794" end_char="800">&lt;/post&gt;</TOKEN>
+</SEG>
+<SEG id="segment-27" start_char="802" end_char="859">
+<ORIGINAL_TEXT>&lt;post id="p8" author="大醉侠" datetime="2015-04-27T10:06:00"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-27-0" pos="unknown" morph="none" start_char="802" end_char="806">&lt;post</TOKEN>
+<TOKEN id="token-27-1" pos="unknown" morph="none" start_char="808" end_char="814">id="p8"</TOKEN>
+<TOKEN id="token-27-2" pos="unknown" morph="none" start_char="816" end_char="827">author="大醉侠"</TOKEN>
+<TOKEN id="token-27-3" pos="unknown" morph="none" start_char="829" end_char="859">datetime="2015-04-27T10:06:00"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-28" start_char="861" end_char="875">
+<ORIGINAL_TEXT>不信谣不传谣，另外劝楼主多吃药</ORIGINAL_TEXT>
+<TOKEN id="token-28-0" pos="word" morph="none" start_char="861" end_char="866">不信谣不传谣</TOKEN>
+<TOKEN id="token-28-1" pos="punct" morph="none" start_char="867" end_char="867">，</TOKEN>
+<TOKEN id="token-28-2" pos="word" morph="none" start_char="868" end_char="875">另外劝楼主多吃药</TOKEN>
+</SEG>
+<SEG id="segment-29" start_char="877" end_char="883">
+<ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-29-0" pos="unknown" morph="none" start_char="877" end_char="883">&lt;/post&gt;</TOKEN>
+</SEG>
+<SEG id="segment-30" start_char="885" end_char="942">
+<ORIGINAL_TEXT>&lt;post id="p9" author="撸大师" datetime="2015-04-27T10:09:00"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-30-0" pos="unknown" morph="none" start_char="885" end_char="889">&lt;post</TOKEN>
+<TOKEN id="token-30-1" pos="unknown" morph="none" start_char="891" end_char="897">id="p9"</TOKEN>
+<TOKEN id="token-30-2" pos="unknown" morph="none" start_char="899" end_char="910">author="撸大师"</TOKEN>
+<TOKEN id="token-30-3" pos="unknown" morph="none" start_char="912" end_char="942">datetime="2015-04-27T10:09:00"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-31" start_char="944" end_char="955">
+<ORIGINAL_TEXT>不是真的也给炒成真的了！</ORIGINAL_TEXT>
+<TOKEN id="token-31-0" pos="word" morph="none" start_char="944" end_char="954">不是真的也给炒成真的了</TOKEN>
+<TOKEN id="token-31-1" pos="punct" morph="none" start_char="955" end_char="955">！</TOKEN>
+</SEG>
+<SEG id="segment-32" start_char="957" end_char="963">
+<ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-32-0" pos="unknown" morph="none" start_char="957" end_char="963">&lt;/post&gt;</TOKEN>
+</SEG>
+<SEG id="segment-33" start_char="965" end_char="1029">
+<ORIGINAL_TEXT>&lt;post id="p10" author="zhuhao112" datetime="2015-04-27T10:10:00"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-33-0" pos="unknown" morph="none" start_char="965" end_char="969">&lt;post</TOKEN>
+<TOKEN id="token-33-1" pos="unknown" morph="none" start_char="971" end_char="978">id="p10"</TOKEN>
+<TOKEN id="token-33-2" pos="unknown" morph="none" start_char="980" end_char="997">author="zhuhao112"</TOKEN>
+<TOKEN id="token-33-3" pos="unknown" morph="none" start_char="999" end_char="1029">datetime="2015-04-27T10:10:00"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-34" start_char="1031" end_char="1055">
+<ORIGINAL_TEXT>&lt;quote orig_author="大醉侠"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-34-0" pos="unknown" morph="none" start_char="1031" end_char="1036">&lt;quote</TOKEN>
+<TOKEN id="token-34-1" pos="unknown" morph="none" start_char="1038" end_char="1055">orig_author="大醉侠"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-35" start_char="1057" end_char="1071">
+<ORIGINAL_TEXT>不信谣不传谣，另外劝楼主多吃药</ORIGINAL_TEXT>
+<TOKEN id="token-35-0" pos="word" morph="none" start_char="1057" end_char="1062">不信谣不传谣</TOKEN>
+<TOKEN id="token-35-1" pos="punct" morph="none" start_char="1063" end_char="1063">，</TOKEN>
+<TOKEN id="token-35-2" pos="word" morph="none" start_char="1064" end_char="1071">另外劝楼主多吃药</TOKEN>
+</SEG>
+<SEG id="segment-36" start_char="1073" end_char="1080">
+<ORIGINAL_TEXT>&lt;/quote&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-36-0" pos="unknown" morph="none" start_char="1073" end_char="1080">&lt;/quote&gt;</TOKEN>
+</SEG>
+<SEG id="segment-37" start_char="1082" end_char="1095">
+<ORIGINAL_TEXT>应该不是谣言了，凤凰网头条。</ORIGINAL_TEXT>
+<TOKEN id="token-37-0" pos="word" morph="none" start_char="1082" end_char="1088">应该不是谣言了</TOKEN>
+<TOKEN id="token-37-1" pos="punct" morph="none" start_char="1089" end_char="1089">，</TOKEN>
+<TOKEN id="token-37-2" pos="word" morph="none" start_char="1090" end_char="1094">凤凰网头条</TOKEN>
+<TOKEN id="token-37-3" pos="punct" morph="none" start_char="1095" end_char="1095">。</TOKEN>
+</SEG>
+<SEG id="segment-38" start_char="1097" end_char="1103">
+<ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-38-0" pos="unknown" morph="none" start_char="1097" end_char="1103">&lt;/post&gt;</TOKEN>
+</SEG>
+<SEG id="segment-39" start_char="1105" end_char="1163">
+<ORIGINAL_TEXT>&lt;post id="p11" author="了了了" datetime="2015-04-27T10:10:00"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-39-0" pos="unknown" morph="none" start_char="1105" end_char="1109">&lt;post</TOKEN>
+<TOKEN id="token-39-1" pos="unknown" morph="none" start_char="1111" end_char="1118">id="p11"</TOKEN>
+<TOKEN id="token-39-2" pos="unknown" morph="none" start_char="1120" end_char="1131">author="了了了"</TOKEN>
+<TOKEN id="token-39-3" pos="unknown" morph="none" start_char="1133" end_char="1163">datetime="2015-04-27T10:10:00"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-40" start_char="1165" end_char="1182">
+<ORIGINAL_TEXT>这不是有位朋友的【战狼2】的剧情吗？</ORIGINAL_TEXT>
+<TOKEN id="token-40-0" pos="unknown" morph="none" start_char="1165" end_char="1182">这不是有位朋友的【战狼2】的剧情吗？</TOKEN>
+</SEG>
+<SEG id="segment-41" start_char="1184" end_char="1190">
+<ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-41-0" pos="unknown" morph="none" start_char="1184" end_char="1190">&lt;/post&gt;</TOKEN>
+</SEG>
+<SEG id="segment-42" start_char="1192" end_char="1254">
+<ORIGINAL_TEXT>&lt;post id="p12" author="CJDBYER" datetime="2015-04-27T10:20:00"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-42-0" pos="unknown" morph="none" start_char="1192" end_char="1196">&lt;post</TOKEN>
+<TOKEN id="token-42-1" pos="unknown" morph="none" start_char="1198" end_char="1205">id="p12"</TOKEN>
+<TOKEN id="token-42-2" pos="unknown" morph="none" start_char="1207" end_char="1222">author="CJDBYER"</TOKEN>
+<TOKEN id="token-42-3" pos="unknown" morph="none" start_char="1224" end_char="1254">datetime="2015-04-27T10:20:00"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-43" start_char="1256" end_char="1261">
+<ORIGINAL_TEXT>地路社报导？</ORIGINAL_TEXT>
+<TOKEN id="token-43-0" pos="word" morph="none" start_char="1256" end_char="1260">地路社报导</TOKEN>
+<TOKEN id="token-43-1" pos="punct" morph="none" start_char="1261" end_char="1261">？</TOKEN>
+</SEG>
+<SEG id="segment-44" start_char="1263" end_char="1269">
+<ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-44-0" pos="unknown" morph="none" start_char="1263" end_char="1269">&lt;/post&gt;</TOKEN>
+</SEG>
+<SEG id="segment-45" start_char="1271" end_char="1332">
+<ORIGINAL_TEXT>&lt;post id="p13" author="注册就用马甲" datetime="2015-04-27T10:23:00"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-45-0" pos="unknown" morph="none" start_char="1271" end_char="1275">&lt;post</TOKEN>
+<TOKEN id="token-45-1" pos="unknown" morph="none" start_char="1277" end_char="1284">id="p13"</TOKEN>
+<TOKEN id="token-45-2" pos="unknown" morph="none" start_char="1286" end_char="1300">author="注册就用马甲"</TOKEN>
+<TOKEN id="token-45-3" pos="unknown" morph="none" start_char="1302" end_char="1332">datetime="2015-04-27T10:23:00"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-46" start_char="1334" end_char="1347">
+<ORIGINAL_TEXT>你信，与不信，它就那么存在着</ORIGINAL_TEXT>
+<TOKEN id="token-46-0" pos="unknown" morph="none" start_char="1334" end_char="1347">你信，与不信，它就那么存在着</TOKEN>
+</SEG>
+<SEG id="segment-47" start_char="1349" end_char="1355">
+<ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-47-0" pos="unknown" morph="none" start_char="1349" end_char="1355">&lt;/post&gt;</TOKEN>
+</SEG>
+<SEG id="segment-48" start_char="1357" end_char="1416">
+<ORIGINAL_TEXT>&lt;post id="p14" author="星空大师" datetime="2015-04-27T10:26:00"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-48-0" pos="unknown" morph="none" start_char="1357" end_char="1361">&lt;post</TOKEN>
+<TOKEN id="token-48-1" pos="unknown" morph="none" start_char="1363" end_char="1370">id="p14"</TOKEN>
+<TOKEN id="token-48-2" pos="unknown" morph="none" start_char="1372" end_char="1384">author="星空大师"</TOKEN>
+<TOKEN id="token-48-3" pos="unknown" morph="none" start_char="1386" end_char="1416">datetime="2015-04-27T10:26:00"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-49" start_char="1418" end_char="1449">
+<ORIGINAL_TEXT>几个cia吧，这群货搞个暗杀还行，碰上真正的特种兵，不跟鱼肉一样</ORIGINAL_TEXT>
+<TOKEN id="token-49-0" pos="unknown" morph="none" start_char="1418" end_char="1449">几个cia吧，这群货搞个暗杀还行，碰上真正的特种兵，不跟鱼肉一样</TOKEN>
+</SEG>
+<SEG id="segment-50" start_char="1451" end_char="1457">
+<ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-50-0" pos="unknown" morph="none" start_char="1451" end_char="1457">&lt;/post&gt;</TOKEN>
+</SEG>
+<SEG id="segment-51" start_char="1459" end_char="1526">
+<ORIGINAL_TEXT>&lt;post id="p15" author="wangjunhaoyx" datetime="2015-04-27T10:26:00"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-51-0" pos="unknown" morph="none" start_char="1459" end_char="1463">&lt;post</TOKEN>
+<TOKEN id="token-51-1" pos="unknown" morph="none" start_char="1465" end_char="1472">id="p15"</TOKEN>
+<TOKEN id="token-51-2" pos="unknown" morph="none" start_char="1474" end_char="1494">author="wangjunhaoyx"</TOKEN>
+<TOKEN id="token-51-3" pos="unknown" morph="none" start_char="1496" end_char="1526">datetime="2015-04-27T10:26:00"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-52" start_char="1528" end_char="1558">
+<ORIGINAL_TEXT>这两天黑客消息多，昨天还有说中国黑客以前收入几千现在百万千万的</ORIGINAL_TEXT>
+<TOKEN id="token-52-0" pos="word" morph="none" start_char="1528" end_char="1535">这两天黑客消息多</TOKEN>
+<TOKEN id="token-52-1" pos="punct" morph="none" start_char="1536" end_char="1536">，</TOKEN>
+<TOKEN id="token-52-2" pos="word" morph="none" start_char="1537" end_char="1558">昨天还有说中国黑客以前收入几千现在百万千万的</TOKEN>
+</SEG>
+<SEG id="segment-53" start_char="1560" end_char="1566">
+<ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-53-0" pos="unknown" morph="none" start_char="1560" end_char="1566">&lt;/post&gt;</TOKEN>
+</SEG>
+<SEG id="segment-54" start_char="1568" end_char="1627">
+<ORIGINAL_TEXT>&lt;post id="p16" author="烤火的鱼" datetime="2015-04-27T10:27:00"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-54-0" pos="unknown" morph="none" start_char="1568" end_char="1572">&lt;post</TOKEN>
+<TOKEN id="token-54-1" pos="unknown" morph="none" start_char="1574" end_char="1581">id="p16"</TOKEN>
+<TOKEN id="token-54-2" pos="unknown" morph="none" start_char="1583" end_char="1595">author="烤火的鱼"</TOKEN>
+<TOKEN id="token-54-3" pos="unknown" morph="none" start_char="1597" end_char="1627">datetime="2015-04-27T10:27:00"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-55" start_char="1629" end_char="1662">
+<ORIGINAL_TEXT>发了好多遍了，这件事在未解密之前就是罗生门，不管真与假，双方都会否认</ORIGINAL_TEXT>
+<TOKEN id="token-55-0" pos="unknown" morph="none" start_char="1629" end_char="1662">发了好多遍了，这件事在未解密之前就是罗生门，不管真与假，双方都会否认</TOKEN>
+</SEG>
+<SEG id="segment-56" start_char="1664" end_char="1670">
+<ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-56-0" pos="unknown" morph="none" start_char="1664" end_char="1670">&lt;/post&gt;</TOKEN>
+</SEG>
+<SEG id="segment-57" start_char="1672" end_char="1739">
+<ORIGINAL_TEXT>&lt;post id="p17" author="scorpion_pho" datetime="2015-04-27T10:27:00"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-57-0" pos="unknown" morph="none" start_char="1672" end_char="1676">&lt;post</TOKEN>
+<TOKEN id="token-57-1" pos="unknown" morph="none" start_char="1678" end_char="1685">id="p17"</TOKEN>
+<TOKEN id="token-57-2" pos="unknown" morph="none" start_char="1687" end_char="1707">author="scorpion_pho"</TOKEN>
+<TOKEN id="token-57-3" pos="unknown" morph="none" start_char="1709" end_char="1739">datetime="2015-04-27T10:27:00"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-58" start_char="1741" end_char="1777">
+<ORIGINAL_TEXT>没有FBI副局长为CIA特工遇袭引咎辞职的桥段，说明是更新之后的版本了……</ORIGINAL_TEXT>
+<TOKEN id="token-58-0" pos="word" morph="none" start_char="1741" end_char="1763">没有FBI副局长为CIA特工遇袭引咎辞职的桥段</TOKEN>
+<TOKEN id="token-58-1" pos="punct" morph="none" start_char="1764" end_char="1764">，</TOKEN>
+<TOKEN id="token-58-2" pos="word" morph="none" start_char="1765" end_char="1775">说明是更新之后的版本了</TOKEN>
+<TOKEN id="token-58-3" pos="punct" morph="none" start_char="1776" end_char="1777">……</TOKEN>
+</SEG>
+<SEG id="segment-59" start_char="1780" end_char="1783">
+<ORIGINAL_TEXT>加油啊！</ORIGINAL_TEXT>
+<TOKEN id="token-59-0" pos="word" morph="none" start_char="1780" end_char="1782">加油啊</TOKEN>
+<TOKEN id="token-59-1" pos="punct" morph="none" start_char="1783" end_char="1783">！</TOKEN>
+</SEG>
+<SEG id="segment-60" start_char="1785" end_char="1791">
+<ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-60-0" pos="unknown" morph="none" start_char="1785" end_char="1791">&lt;/post&gt;</TOKEN>
+</SEG>
+<SEG id="segment-61" start_char="1793" end_char="1854">
+<ORIGINAL_TEXT>&lt;post id="p18" author="酒国英雄79" datetime="2015-04-27T10:34:00"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-61-0" pos="unknown" morph="none" start_char="1793" end_char="1797">&lt;post</TOKEN>
+<TOKEN id="token-61-1" pos="unknown" morph="none" start_char="1799" end_char="1806">id="p18"</TOKEN>
+<TOKEN id="token-61-2" pos="unknown" morph="none" start_char="1808" end_char="1822">author="酒国英雄79"</TOKEN>
+<TOKEN id="token-61-3" pos="unknown" morph="none" start_char="1824" end_char="1854">datetime="2015-04-27T10:34:00"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-62" start_char="1856" end_char="1862">
+<ORIGINAL_TEXT>全假无真字数补</ORIGINAL_TEXT>
+<TOKEN id="token-62-0" pos="word" morph="none" start_char="1856" end_char="1862">全假无真字数补</TOKEN>
+</SEG>
+<SEG id="segment-63" start_char="1864" end_char="1870">
+<ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-63-0" pos="unknown" morph="none" start_char="1864" end_char="1870">&lt;/post&gt;</TOKEN>
+</SEG>
+<SEG id="segment-64" start_char="1872" end_char="1930">
+<ORIGINAL_TEXT>&lt;post id="p19" author="大醉侠" datetime="2015-04-27T10:58:00"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-64-0" pos="unknown" morph="none" start_char="1872" end_char="1876">&lt;post</TOKEN>
+<TOKEN id="token-64-1" pos="unknown" morph="none" start_char="1878" end_char="1885">id="p19"</TOKEN>
+<TOKEN id="token-64-2" pos="unknown" morph="none" start_char="1887" end_char="1898">author="大醉侠"</TOKEN>
+<TOKEN id="token-64-3" pos="unknown" morph="none" start_char="1900" end_char="1930">datetime="2015-04-27T10:58:00"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-65" start_char="1932" end_char="1962">
+<ORIGINAL_TEXT>&lt;quote orig_author="zhuhao112"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-65-0" pos="unknown" morph="none" start_char="1932" end_char="1937">&lt;quote</TOKEN>
+<TOKEN id="token-65-1" pos="unknown" morph="none" start_char="1939" end_char="1962">orig_author="zhuhao112"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-66" start_char="1964" end_char="1977">
+<ORIGINAL_TEXT>应该不是谣言了，凤凰网头条。</ORIGINAL_TEXT>
+<TOKEN id="token-66-0" pos="word" morph="none" start_char="1964" end_char="1970">应该不是谣言了</TOKEN>
+<TOKEN id="token-66-1" pos="punct" morph="none" start_char="1971" end_char="1971">，</TOKEN>
+<TOKEN id="token-66-2" pos="word" morph="none" start_char="1972" end_char="1976">凤凰网头条</TOKEN>
+<TOKEN id="token-66-3" pos="punct" morph="none" start_char="1977" end_char="1977">。</TOKEN>
+</SEG>
+<SEG id="segment-67" start_char="1979" end_char="1986">
+<ORIGINAL_TEXT>&lt;/quote&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-67-0" pos="unknown" morph="none" start_char="1979" end_char="1986">&lt;/quote&gt;</TOKEN>
+</SEG>
+<SEG id="segment-68" start_char="1988" end_char="1998">
+<ORIGINAL_TEXT>野鸡网也不靠谱～～～～</ORIGINAL_TEXT>
+<TOKEN id="token-68-0" pos="unknown" morph="none" start_char="1988" end_char="1998">野鸡网也不靠谱～～～～</TOKEN>
+</SEG>
+<SEG id="segment-69" start_char="2000" end_char="2006">
+<ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-69-0" pos="unknown" morph="none" start_char="2000" end_char="2006">&lt;/post&gt;</TOKEN>
+</SEG>
+<SEG id="segment-70" start_char="2008" end_char="2069">
+<ORIGINAL_TEXT>&lt;post id="p20" author="lhr817" datetime="2015-04-27T10:58:00"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-70-0" pos="unknown" morph="none" start_char="2008" end_char="2012">&lt;post</TOKEN>
+<TOKEN id="token-70-1" pos="unknown" morph="none" start_char="2014" end_char="2021">id="p20"</TOKEN>
+<TOKEN id="token-70-2" pos="unknown" morph="none" start_char="2023" end_char="2037">author="lhr817"</TOKEN>
+<TOKEN id="token-70-3" pos="unknown" morph="none" start_char="2039" end_char="2069">datetime="2015-04-27T10:58:00"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-71" start_char="2071" end_char="2091">
+<ORIGINAL_TEXT>在中国的领土上搞暗杀，怎么看都是不靠谱的。</ORIGINAL_TEXT>
+<TOKEN id="token-71-0" pos="word" morph="none" start_char="2071" end_char="2080">在中国的领土上搞暗杀</TOKEN>
+<TOKEN id="token-71-1" pos="punct" morph="none" start_char="2081" end_char="2081">，</TOKEN>
+<TOKEN id="token-71-2" pos="word" morph="none" start_char="2082" end_char="2090">怎么看都是不靠谱的</TOKEN>
+<TOKEN id="token-71-3" pos="punct" morph="none" start_char="2091" end_char="2091">。</TOKEN>
+</SEG>
+<SEG id="segment-72" start_char="2093" end_char="2099">
+<ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-72-0" pos="unknown" morph="none" start_char="2093" end_char="2099">&lt;/post&gt;</TOKEN>
+</SEG>
+<SEG id="segment-73" start_char="2101" end_char="2164">
+<ORIGINAL_TEXT>&lt;post id="p21" author="fengyang" datetime="2015-04-27T11:05:00"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-73-0" pos="unknown" morph="none" start_char="2101" end_char="2105">&lt;post</TOKEN>
+<TOKEN id="token-73-1" pos="unknown" morph="none" start_char="2107" end_char="2114">id="p21"</TOKEN>
+<TOKEN id="token-73-2" pos="unknown" morph="none" start_char="2116" end_char="2132">author="fengyang"</TOKEN>
+<TOKEN id="token-73-3" pos="unknown" morph="none" start_char="2134" end_char="2164">datetime="2015-04-27T11:05:00"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-74" start_char="2166" end_char="2190">
+<ORIGINAL_TEXT>&lt;quote orig_author="大醉侠"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-74-0" pos="unknown" morph="none" start_char="2166" end_char="2171">&lt;quote</TOKEN>
+<TOKEN id="token-74-1" pos="unknown" morph="none" start_char="2173" end_char="2190">orig_author="大醉侠"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-75" start_char="2192" end_char="2206">
+<ORIGINAL_TEXT>不信谣不传谣，另外劝楼主多吃药</ORIGINAL_TEXT>
+<TOKEN id="token-75-0" pos="word" morph="none" start_char="2192" end_char="2197">不信谣不传谣</TOKEN>
+<TOKEN id="token-75-1" pos="punct" morph="none" start_char="2198" end_char="2198">，</TOKEN>
+<TOKEN id="token-75-2" pos="word" morph="none" start_char="2199" end_char="2206">另外劝楼主多吃药</TOKEN>
+</SEG>
+<SEG id="segment-76" start_char="2208" end_char="2215">
+<ORIGINAL_TEXT>&lt;/quote&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-76-0" pos="unknown" morph="none" start_char="2208" end_char="2215">&lt;/quote&gt;</TOKEN>
+</SEG>
+<SEG id="segment-77" start_char="2217" end_char="2232">
+<ORIGINAL_TEXT>去掉一个“外”字，就很上口了……</ORIGINAL_TEXT>
+<TOKEN id="token-77-0" pos="unknown" morph="none" start_char="2217" end_char="2232">去掉一个“外”字，就很上口了……</TOKEN>
+</SEG>
+<SEG id="segment-78" start_char="2234" end_char="2240">
+<ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-78-0" pos="unknown" morph="none" start_char="2234" end_char="2240">&lt;/post&gt;</TOKEN>
+</SEG>
+<SEG id="segment-79" start_char="2242" end_char="2302">
+<ORIGINAL_TEXT>&lt;post id="p22" author="忘川河边草" datetime="2015-04-27T11:06:00"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-79-0" pos="unknown" morph="none" start_char="2242" end_char="2246">&lt;post</TOKEN>
+<TOKEN id="token-79-1" pos="unknown" morph="none" start_char="2248" end_char="2255">id="p22"</TOKEN>
+<TOKEN id="token-79-2" pos="unknown" morph="none" start_char="2257" end_char="2270">author="忘川河边草"</TOKEN>
+<TOKEN id="token-79-3" pos="unknown" morph="none" start_char="2272" end_char="2302">datetime="2015-04-27T11:06:00"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-80" start_char="2304" end_char="2320">
+<ORIGINAL_TEXT>就当故事听了。怎么也觉得不是真的。</ORIGINAL_TEXT>
+<TOKEN id="token-80-0" pos="word" morph="none" start_char="2304" end_char="2309">就当故事听了</TOKEN>
+<TOKEN id="token-80-1" pos="punct" morph="none" start_char="2310" end_char="2310">。</TOKEN>
+<TOKEN id="token-80-2" pos="word" morph="none" start_char="2311" end_char="2319">怎么也觉得不是真的</TOKEN>
+<TOKEN id="token-80-3" pos="punct" morph="none" start_char="2320" end_char="2320">。</TOKEN>
+</SEG>
+<SEG id="segment-81" start_char="2322" end_char="2328">
+<ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-81-0" pos="unknown" morph="none" start_char="2322" end_char="2328">&lt;/post&gt;</TOKEN>
+</SEG>
+<SEG id="segment-82" start_char="2330" end_char="2387">
+<ORIGINAL_TEXT>&lt;post id="p23" author="移动" datetime="2015-04-27T11:08:00"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-82-0" pos="unknown" morph="none" start_char="2330" end_char="2334">&lt;post</TOKEN>
+<TOKEN id="token-82-1" pos="unknown" morph="none" start_char="2336" end_char="2343">id="p23"</TOKEN>
+<TOKEN id="token-82-2" pos="unknown" morph="none" start_char="2345" end_char="2355">author="移动"</TOKEN>
+<TOKEN id="token-82-3" pos="unknown" morph="none" start_char="2357" end_char="2387">datetime="2015-04-27T11:08:00"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-83" start_char="2389" end_char="2393">
+<ORIGINAL_TEXT>像真的一样</ORIGINAL_TEXT>
+<TOKEN id="token-83-0" pos="word" morph="none" start_char="2389" end_char="2393">像真的一样</TOKEN>
+</SEG>
+<SEG id="segment-84" start_char="2395" end_char="2401">
+<ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-84-0" pos="unknown" morph="none" start_char="2395" end_char="2401">&lt;/post&gt;</TOKEN>
+</SEG>
+<SEG id="segment-85" start_char="2403" end_char="2463">
+<ORIGINAL_TEXT>&lt;post id="p24" author="zjdhn" datetime="2015-04-27T11:10:00"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-85-0" pos="unknown" morph="none" start_char="2403" end_char="2407">&lt;post</TOKEN>
+<TOKEN id="token-85-1" pos="unknown" morph="none" start_char="2409" end_char="2416">id="p24"</TOKEN>
+<TOKEN id="token-85-2" pos="unknown" morph="none" start_char="2418" end_char="2431">author="zjdhn"</TOKEN>
+<TOKEN id="token-85-3" pos="unknown" morph="none" start_char="2433" end_char="2463">datetime="2015-04-27T11:10:00"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-86" start_char="2465" end_char="2470">
+<ORIGINAL_TEXT>火了网被黑了</ORIGINAL_TEXT>
+<TOKEN id="token-86-0" pos="word" morph="none" start_char="2465" end_char="2470">火了网被黑了</TOKEN>
+</SEG>
+<SEG id="segment-87" start_char="2472" end_char="2478">
+<ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-87-0" pos="unknown" morph="none" start_char="2472" end_char="2478">&lt;/post&gt;</TOKEN>
+</SEG>
+<SEG id="segment-88" start_char="2480" end_char="2544">
+<ORIGINAL_TEXT>&lt;post id="p25" author="superhawk" datetime="2015-04-27T11:12:00"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-88-0" pos="unknown" morph="none" start_char="2480" end_char="2484">&lt;post</TOKEN>
+<TOKEN id="token-88-1" pos="unknown" morph="none" start_char="2486" end_char="2493">id="p25"</TOKEN>
+<TOKEN id="token-88-2" pos="unknown" morph="none" start_char="2495" end_char="2512">author="superhawk"</TOKEN>
+<TOKEN id="token-88-3" pos="unknown" morph="none" start_char="2514" end_char="2544">datetime="2015-04-27T11:12:00"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-89" start_char="2546" end_char="2562">
+<ORIGINAL_TEXT>一股浓浓的地摊文学的气味扑面而来。</ORIGINAL_TEXT>
+<TOKEN id="token-89-0" pos="word" morph="none" start_char="2546" end_char="2561">一股浓浓的地摊文学的气味扑面而来</TOKEN>
+<TOKEN id="token-89-1" pos="punct" morph="none" start_char="2562" end_char="2562">。</TOKEN>
+</SEG>
+<SEG id="segment-90" start_char="2564" end_char="2570">
+<ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-90-0" pos="unknown" morph="none" start_char="2564" end_char="2570">&lt;/post&gt;</TOKEN>
+</SEG>
+<SEG id="segment-91" start_char="2572" end_char="2630">
+<ORIGINAL_TEXT>&lt;post id="p26" author="细甲鱼" datetime="2015-04-27T11:12:00"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-91-0" pos="unknown" morph="none" start_char="2572" end_char="2576">&lt;post</TOKEN>
+<TOKEN id="token-91-1" pos="unknown" morph="none" start_char="2578" end_char="2585">id="p26"</TOKEN>
+<TOKEN id="token-91-2" pos="unknown" morph="none" start_char="2587" end_char="2598">author="细甲鱼"</TOKEN>
+<TOKEN id="token-91-3" pos="unknown" morph="none" start_char="2600" end_char="2630">datetime="2015-04-27T11:12:00"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-92" start_char="2632" end_char="2680">
+<ORIGINAL_TEXT>都用的静音枪支所以没人听见，而已是在激烈交火情况下，另外估计双方约好找一个非常偏僻的地方以免扰民。</ORIGINAL_TEXT>
+<TOKEN id="token-92-0" pos="unknown" morph="none" start_char="2632" end_char="2680">都用的静音枪支所以没人听见，而已是在激烈交火情况下，另外估计双方约好找一个非常偏僻的地方以免扰民。</TOKEN>
+</SEG>
+<SEG id="segment-93" start_char="2682" end_char="2688">
+<ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-93-0" pos="unknown" morph="none" start_char="2682" end_char="2688">&lt;/post&gt;</TOKEN>
+</SEG>
+<SEG id="segment-94" start_char="2690" end_char="2754">
+<ORIGINAL_TEXT>&lt;post id="p27" author="cbsczhcsc" datetime="2015-04-27T11:14:00"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-94-0" pos="unknown" morph="none" start_char="2690" end_char="2694">&lt;post</TOKEN>
+<TOKEN id="token-94-1" pos="unknown" morph="none" start_char="2696" end_char="2703">id="p27"</TOKEN>
+<TOKEN id="token-94-2" pos="unknown" morph="none" start_char="2705" end_char="2722">author="cbsczhcsc"</TOKEN>
+<TOKEN id="token-94-3" pos="unknown" morph="none" start_char="2724" end_char="2754">datetime="2015-04-27T11:14:00"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-95" start_char="2756" end_char="2763">
+<ORIGINAL_TEXT>cia，四名华裔</ORIGINAL_TEXT>
+<TOKEN id="token-95-0" pos="word" morph="none" start_char="2756" end_char="2758">cia</TOKEN>
+<TOKEN id="token-95-1" pos="punct" morph="none" start_char="2759" end_char="2759">，</TOKEN>
+<TOKEN id="token-95-2" pos="word" morph="none" start_char="2760" end_char="2763">四名华裔</TOKEN>
+</SEG>
+<SEG id="segment-96" start_char="2765" end_char="2771">
+<ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-96-0" pos="unknown" morph="none" start_char="2765" end_char="2771">&lt;/post&gt;</TOKEN>
+</SEG>
+<SEG id="segment-97" start_char="2773" end_char="2841">
+<ORIGINAL_TEXT>&lt;post id="p28" author="panzerschiffe" datetime="2015-04-27T11:21:00"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-97-0" pos="unknown" morph="none" start_char="2773" end_char="2777">&lt;post</TOKEN>
+<TOKEN id="token-97-1" pos="unknown" morph="none" start_char="2779" end_char="2786">id="p28"</TOKEN>
+<TOKEN id="token-97-2" pos="unknown" morph="none" start_char="2788" end_char="2809">author="panzerschiffe"</TOKEN>
+<TOKEN id="token-97-3" pos="unknown" morph="none" start_char="2811" end_char="2841">datetime="2015-04-27T11:21:00"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-98" start_char="2843" end_char="2875">
+<ORIGINAL_TEXT>英国军情十三处也证明，名腌臜斯邦德的特工在围观过程中被流砖误伤毙命</ORIGINAL_TEXT>
+<TOKEN id="token-98-0" pos="word" morph="none" start_char="2843" end_char="2852">英国军情十三处也证明</TOKEN>
+<TOKEN id="token-98-1" pos="punct" morph="none" start_char="2853" end_char="2853">，</TOKEN>
+<TOKEN id="token-98-2" pos="word" morph="none" start_char="2854" end_char="2875">名腌臜斯邦德的特工在围观过程中被流砖误伤毙命</TOKEN>
+</SEG>
+<SEG id="segment-99" start_char="2877" end_char="2883">
+<ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-99-0" pos="unknown" morph="none" start_char="2877" end_char="2883">&lt;/post&gt;</TOKEN>
+</SEG>
+<SEG id="segment-100" start_char="2885" end_char="2944">
+<ORIGINAL_TEXT>&lt;post id="p29" author="来去空空" datetime="2015-04-27T11:37:00"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-100-0" pos="unknown" morph="none" start_char="2885" end_char="2889">&lt;post</TOKEN>
+<TOKEN id="token-100-1" pos="unknown" morph="none" start_char="2891" end_char="2898">id="p29"</TOKEN>
+<TOKEN id="token-100-2" pos="unknown" morph="none" start_char="2900" end_char="2912">author="来去空空"</TOKEN>
+<TOKEN id="token-100-3" pos="unknown" morph="none" start_char="2914" end_char="2944">datetime="2015-04-27T11:37:00"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-101" start_char="2946" end_char="2970">
+<ORIGINAL_TEXT>不是保护金正男吗，又成斯诺登了。距大陆网络媒体报道</ORIGINAL_TEXT>
+<TOKEN id="token-101-0" pos="unknown" morph="none" start_char="2946" end_char="2970">不是保护金正男吗，又成斯诺登了。距大陆网络媒体报道</TOKEN>
+</SEG>
+<SEG id="segment-102" start_char="2972" end_char="2978">
+<ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-102-0" pos="unknown" morph="none" start_char="2972" end_char="2978">&lt;/post&gt;</TOKEN>
+</SEG>
+<SEG id="segment-103" start_char="2980" end_char="3037">
+<ORIGINAL_TEXT>&lt;post id="p30" author="衰哥" datetime="2015-04-27T11:40:00"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-103-0" pos="unknown" morph="none" start_char="2980" end_char="2984">&lt;post</TOKEN>
+<TOKEN id="token-103-1" pos="unknown" morph="none" start_char="2986" end_char="2993">id="p30"</TOKEN>
+<TOKEN id="token-103-2" pos="unknown" morph="none" start_char="2995" end_char="3005">author="衰哥"</TOKEN>
+<TOKEN id="token-103-3" pos="unknown" morph="none" start_char="3007" end_char="3037">datetime="2015-04-27T11:40:00"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-104" start_char="3039" end_char="3061">
+<ORIGINAL_TEXT>这消息一大早上了凤凰头条 我这不信的人也快信了</ORIGINAL_TEXT>
+<TOKEN id="token-104-0" pos="word" morph="none" start_char="3039" end_char="3050">这消息一大早上了凤凰头条</TOKEN>
+<TOKEN id="token-104-1" pos="word" morph="none" start_char="3052" end_char="3061">我这不信的人也快信了</TOKEN>
+</SEG>
+<SEG id="segment-105" start_char="3063" end_char="3069">
+<ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-105-0" pos="unknown" morph="none" start_char="3063" end_char="3069">&lt;/post&gt;</TOKEN>
+</SEG>
+<SEG id="segment-106" start_char="3071" end_char="3076">
+<ORIGINAL_TEXT>&lt;/doc&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-106-0" pos="unknown" morph="none" start_char="3071" end_char="3076">&lt;/doc&gt;</TOKEN>
+</SEG>
+</TEXT>
+</DOC>
+</LCTL_TEXT>

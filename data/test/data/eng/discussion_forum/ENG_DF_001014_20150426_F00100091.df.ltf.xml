@@ -1,0 +1,962 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE LCTL_TEXT SYSTEM "ltf.v1.5.dtd">
+<LCTL_TEXT>
+<DOC id="ENG_DF_001014_20150426_F00100091.df.xml" tokenization="tokenization_parameters" grammar="none" raw_text_char_length="4695" raw_text_md5="817c0ab5b75881dee0ce6f44a655806e">
+<TEXT>
+<SEG id="segment-0" start_char="0" end_char="37">
+<ORIGINAL_TEXT>&lt;?xml version="1.0" encoding="utf-8"?&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-0-0" pos="unknown" morph="none" start_char="0" end_char="4">&lt;?xml</TOKEN>
+<TOKEN id="token-0-1" pos="unknown" morph="none" start_char="6" end_char="18">version="1.0"</TOKEN>
+<TOKEN id="token-0-2" pos="unknown" morph="none" start_char="20" end_char="37">encoding="utf-8"?&gt;</TOKEN>
+</SEG>
+<SEG id="segment-1" start_char="39" end_char="81">
+<ORIGINAL_TEXT>&lt;doc id="ENG_DF_001014_20150426_F00100091"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-1-0" pos="unknown" morph="none" start_char="39" end_char="42">&lt;doc</TOKEN>
+<TOKEN id="token-1-1" pos="unknown" morph="none" start_char="44" end_char="81">id="ENG_DF_001014_20150426_F00100091"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-2" start_char="83" end_char="92">
+<ORIGINAL_TEXT>&lt;headline&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-2-0" pos="unknown" morph="none" start_char="83" end_char="92">&lt;headline&gt;</TOKEN>
+</SEG>
+<SEG id="segment-3" start_char="94" end_char="138">
+<ORIGINAL_TEXT>China search and rescue team arrives in Nepal</ORIGINAL_TEXT>
+<TOKEN id="token-3-0" pos="word" morph="none" start_char="94" end_char="98">China</TOKEN>
+<TOKEN id="token-3-1" pos="word" morph="none" start_char="100" end_char="105">search</TOKEN>
+<TOKEN id="token-3-2" pos="word" morph="none" start_char="107" end_char="109">and</TOKEN>
+<TOKEN id="token-3-3" pos="word" morph="none" start_char="111" end_char="116">rescue</TOKEN>
+<TOKEN id="token-3-4" pos="word" morph="none" start_char="118" end_char="121">team</TOKEN>
+<TOKEN id="token-3-5" pos="word" morph="none" start_char="123" end_char="129">arrives</TOKEN>
+<TOKEN id="token-3-6" pos="word" morph="none" start_char="131" end_char="132">in</TOKEN>
+<TOKEN id="token-3-7" pos="word" morph="none" start_char="134" end_char="138">Nepal</TOKEN>
+</SEG>
+<SEG id="segment-4" start_char="140" end_char="150">
+<ORIGINAL_TEXT>&lt;/headline&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-4-0" pos="unknown" morph="none" start_char="140" end_char="150">&lt;/headline&gt;</TOKEN>
+</SEG>
+<SEG id="segment-5" start_char="152" end_char="214">
+<ORIGINAL_TEXT>&lt;post id="p1" author="lscat123" datetime="2015-04-26T20:24:50"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-5-0" pos="unknown" morph="none" start_char="152" end_char="156">&lt;post</TOKEN>
+<TOKEN id="token-5-1" pos="unknown" morph="none" start_char="158" end_char="164">id="p1"</TOKEN>
+<TOKEN id="token-5-2" pos="unknown" morph="none" start_char="166" end_char="182">author="lscat123"</TOKEN>
+<TOKEN id="token-5-3" pos="unknown" morph="none" start_char="184" end_char="214">datetime="2015-04-26T20:24:50"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-6" start_char="216" end_char="384">
+<ORIGINAL_TEXT>The 62-strong China International Search and Rescue Team arrived in Nepal on Sunday to carry out humanitarian mission following a 7.9 magnitude quake struck the country.</ORIGINAL_TEXT>
+<TOKEN id="token-6-0" pos="word" morph="none" start_char="216" end_char="218">The</TOKEN>
+<TOKEN id="token-6-1" pos="number" morph="none" start_char="220" end_char="221">62</TOKEN>
+<TOKEN id="token-6-2" pos="punct" morph="none" start_char="222" end_char="222">-</TOKEN>
+<TOKEN id="token-6-3" pos="word" morph="none" start_char="223" end_char="228">strong</TOKEN>
+<TOKEN id="token-6-4" pos="word" morph="none" start_char="230" end_char="234">China</TOKEN>
+<TOKEN id="token-6-5" pos="word" morph="none" start_char="236" end_char="248">International</TOKEN>
+<TOKEN id="token-6-6" pos="word" morph="none" start_char="250" end_char="255">Search</TOKEN>
+<TOKEN id="token-6-7" pos="word" morph="none" start_char="257" end_char="259">and</TOKEN>
+<TOKEN id="token-6-8" pos="word" morph="none" start_char="261" end_char="266">Rescue</TOKEN>
+<TOKEN id="token-6-9" pos="word" morph="none" start_char="268" end_char="271">Team</TOKEN>
+<TOKEN id="token-6-10" pos="word" morph="none" start_char="273" end_char="279">arrived</TOKEN>
+<TOKEN id="token-6-11" pos="word" morph="none" start_char="281" end_char="282">in</TOKEN>
+<TOKEN id="token-6-12" pos="word" morph="none" start_char="284" end_char="288">Nepal</TOKEN>
+<TOKEN id="token-6-13" pos="word" morph="none" start_char="290" end_char="291">on</TOKEN>
+<TOKEN id="token-6-14" pos="word" morph="none" start_char="293" end_char="298">Sunday</TOKEN>
+<TOKEN id="token-6-15" pos="word" morph="none" start_char="300" end_char="301">to</TOKEN>
+<TOKEN id="token-6-16" pos="word" morph="none" start_char="303" end_char="307">carry</TOKEN>
+<TOKEN id="token-6-17" pos="word" morph="none" start_char="309" end_char="311">out</TOKEN>
+<TOKEN id="token-6-18" pos="word" morph="none" start_char="313" end_char="324">humanitarian</TOKEN>
+<TOKEN id="token-6-19" pos="word" morph="none" start_char="326" end_char="332">mission</TOKEN>
+<TOKEN id="token-6-20" pos="word" morph="none" start_char="334" end_char="342">following</TOKEN>
+<TOKEN id="token-6-21" pos="word" morph="none" start_char="344" end_char="344">a</TOKEN>
+<TOKEN id="token-6-22" pos="number" morph="none" start_char="346" end_char="348">7.9</TOKEN>
+<TOKEN id="token-6-23" pos="word" morph="none" start_char="350" end_char="358">magnitude</TOKEN>
+<TOKEN id="token-6-24" pos="word" morph="none" start_char="360" end_char="364">quake</TOKEN>
+<TOKEN id="token-6-25" pos="word" morph="none" start_char="366" end_char="371">struck</TOKEN>
+<TOKEN id="token-6-26" pos="word" morph="none" start_char="373" end_char="375">the</TOKEN>
+<TOKEN id="token-6-27" pos="word" morph="none" start_char="377" end_char="383">country</TOKEN>
+<TOKEN id="token-6-28" pos="punct" morph="none" start_char="384" end_char="384">.</TOKEN>
+</SEG>
+<SEG id="segment-7" start_char="387" end_char="597">
+<ORIGINAL_TEXT>Shankar Koirala, Nepal's joint secretary of the Office of the Prime Minister and the Council of Ministers, warmly welcomed the Chinese team at the Kathmandu airport, terming their arrival as a timely assistance.</ORIGINAL_TEXT>
+<TOKEN id="token-7-0" pos="word" morph="none" start_char="387" end_char="393">Shankar</TOKEN>
+<TOKEN id="token-7-1" pos="word" morph="none" start_char="395" end_char="401">Koirala</TOKEN>
+<TOKEN id="token-7-2" pos="punct" morph="none" start_char="402" end_char="402">,</TOKEN>
+<TOKEN id="token-7-3" pos="word" morph="none" start_char="404" end_char="408">Nepal</TOKEN>
+<TOKEN id="token-7-4" pos="punct" morph="none" start_char="409" end_char="409">'</TOKEN>
+<TOKEN id="token-7-5" pos="word" morph="none" start_char="410" end_char="410">s</TOKEN>
+<TOKEN id="token-7-6" pos="word" morph="none" start_char="412" end_char="416">joint</TOKEN>
+<TOKEN id="token-7-7" pos="word" morph="none" start_char="418" end_char="426">secretary</TOKEN>
+<TOKEN id="token-7-8" pos="word" morph="none" start_char="428" end_char="429">of</TOKEN>
+<TOKEN id="token-7-9" pos="word" morph="none" start_char="431" end_char="433">the</TOKEN>
+<TOKEN id="token-7-10" pos="word" morph="none" start_char="435" end_char="440">Office</TOKEN>
+<TOKEN id="token-7-11" pos="word" morph="none" start_char="442" end_char="443">of</TOKEN>
+<TOKEN id="token-7-12" pos="word" morph="none" start_char="445" end_char="447">the</TOKEN>
+<TOKEN id="token-7-13" pos="word" morph="none" start_char="449" end_char="453">Prime</TOKEN>
+<TOKEN id="token-7-14" pos="word" morph="none" start_char="455" end_char="462">Minister</TOKEN>
+<TOKEN id="token-7-15" pos="word" morph="none" start_char="464" end_char="466">and</TOKEN>
+<TOKEN id="token-7-16" pos="word" morph="none" start_char="468" end_char="470">the</TOKEN>
+<TOKEN id="token-7-17" pos="word" morph="none" start_char="472" end_char="478">Council</TOKEN>
+<TOKEN id="token-7-18" pos="word" morph="none" start_char="480" end_char="481">of</TOKEN>
+<TOKEN id="token-7-19" pos="word" morph="none" start_char="483" end_char="491">Ministers</TOKEN>
+<TOKEN id="token-7-20" pos="punct" morph="none" start_char="492" end_char="492">,</TOKEN>
+<TOKEN id="token-7-21" pos="word" morph="none" start_char="494" end_char="499">warmly</TOKEN>
+<TOKEN id="token-7-22" pos="word" morph="none" start_char="501" end_char="508">welcomed</TOKEN>
+<TOKEN id="token-7-23" pos="word" morph="none" start_char="510" end_char="512">the</TOKEN>
+<TOKEN id="token-7-24" pos="word" morph="none" start_char="514" end_char="520">Chinese</TOKEN>
+<TOKEN id="token-7-25" pos="word" morph="none" start_char="522" end_char="525">team</TOKEN>
+<TOKEN id="token-7-26" pos="word" morph="none" start_char="527" end_char="528">at</TOKEN>
+<TOKEN id="token-7-27" pos="word" morph="none" start_char="530" end_char="532">the</TOKEN>
+<TOKEN id="token-7-28" pos="word" morph="none" start_char="534" end_char="542">Kathmandu</TOKEN>
+<TOKEN id="token-7-29" pos="word" morph="none" start_char="544" end_char="550">airport</TOKEN>
+<TOKEN id="token-7-30" pos="punct" morph="none" start_char="551" end_char="551">,</TOKEN>
+<TOKEN id="token-7-31" pos="word" morph="none" start_char="553" end_char="559">terming</TOKEN>
+<TOKEN id="token-7-32" pos="word" morph="none" start_char="561" end_char="565">their</TOKEN>
+<TOKEN id="token-7-33" pos="word" morph="none" start_char="567" end_char="573">arrival</TOKEN>
+<TOKEN id="token-7-34" pos="word" morph="none" start_char="575" end_char="576">as</TOKEN>
+<TOKEN id="token-7-35" pos="word" morph="none" start_char="578" end_char="578">a</TOKEN>
+<TOKEN id="token-7-36" pos="word" morph="none" start_char="580" end_char="585">timely</TOKEN>
+<TOKEN id="token-7-37" pos="word" morph="none" start_char="587" end_char="596">assistance</TOKEN>
+<TOKEN id="token-7-38" pos="punct" morph="none" start_char="597" end_char="597">.</TOKEN>
+</SEG>
+<SEG id="segment-8" start_char="600" end_char="660">
+<ORIGINAL_TEXT>http://www.china.org.cn/china/2015-04/26/content_35421728.htm</ORIGINAL_TEXT>
+<TOKEN id="token-8-0" pos="url" morph="none" start_char="600" end_char="660">http://www.china.org.cn/china/2015-04/26/content_35421728.htm</TOKEN>
+</SEG>
+<SEG id="segment-9" start_char="662" end_char="668">
+<ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-9-0" pos="unknown" morph="none" start_char="662" end_char="668">&lt;/post&gt;</TOKEN>
+</SEG>
+<SEG id="segment-10" start_char="670" end_char="733">
+<ORIGINAL_TEXT>&lt;post id="p2" author="abramicus" datetime="2015-04-26T21:12:52"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-10-0" pos="unknown" morph="none" start_char="670" end_char="674">&lt;post</TOKEN>
+<TOKEN id="token-10-1" pos="unknown" morph="none" start_char="676" end_char="682">id="p2"</TOKEN>
+<TOKEN id="token-10-2" pos="unknown" morph="none" start_char="684" end_char="701">author="abramicus"</TOKEN>
+<TOKEN id="token-10-3" pos="unknown" morph="none" start_char="703" end_char="733">datetime="2015-04-26T21:12:52"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-11" start_char="735" end_char="808">
+<ORIGINAL_TEXT>CHINA SHOULD GIVE "ALL OUT HELP" TO NEPAL AS A TRUSTWORTHY NEIGHBOR . . . </ORIGINAL_TEXT>
+<TOKEN id="token-11-0" pos="word" morph="none" start_char="735" end_char="739">CHINA</TOKEN>
+<TOKEN id="token-11-1" pos="word" morph="none" start_char="741" end_char="746">SHOULD</TOKEN>
+<TOKEN id="token-11-2" pos="word" morph="none" start_char="748" end_char="751">GIVE</TOKEN>
+<TOKEN id="token-11-3" pos="punct" morph="none" start_char="753" end_char="753">"</TOKEN>
+<TOKEN id="token-11-4" pos="word" morph="none" start_char="754" end_char="756">ALL</TOKEN>
+<TOKEN id="token-11-5" pos="word" morph="none" start_char="758" end_char="760">OUT</TOKEN>
+<TOKEN id="token-11-6" pos="word" morph="none" start_char="762" end_char="765">HELP</TOKEN>
+<TOKEN id="token-11-7" pos="punct" morph="none" start_char="766" end_char="766">"</TOKEN>
+<TOKEN id="token-11-8" pos="word" morph="none" start_char="768" end_char="769">TO</TOKEN>
+<TOKEN id="token-11-9" pos="word" morph="none" start_char="771" end_char="775">NEPAL</TOKEN>
+<TOKEN id="token-11-10" pos="word" morph="none" start_char="777" end_char="778">AS</TOKEN>
+<TOKEN id="token-11-11" pos="word" morph="none" start_char="780" end_char="780">A</TOKEN>
+<TOKEN id="token-11-12" pos="word" morph="none" start_char="782" end_char="792">TRUSTWORTHY</TOKEN>
+<TOKEN id="token-11-13" pos="word" morph="none" start_char="794" end_char="801">NEIGHBOR</TOKEN>
+<TOKEN id="token-11-14" pos="unknown" morph="none" start_char="803" end_char="803">.</TOKEN>
+<TOKEN id="token-11-15" pos="unknown" morph="none" start_char="805" end_char="805">.</TOKEN>
+<TOKEN id="token-11-16" pos="unknown" morph="none" start_char="807" end_char="807">.</TOKEN>
+</SEG>
+<SEG id="segment-12" start_char="811" end_char="1011">
+<ORIGINAL_TEXT>62 aid workers will not do for such a big neighbor as China - that will be remembered as a "token" help - which is barely enough to take care of the Chinese ex-pats affected by the earthquake in Nepal.</ORIGINAL_TEXT>
+<TOKEN id="token-12-0" pos="number" morph="none" start_char="811" end_char="812">62</TOKEN>
+<TOKEN id="token-12-1" pos="word" morph="none" start_char="814" end_char="816">aid</TOKEN>
+<TOKEN id="token-12-2" pos="word" morph="none" start_char="818" end_char="824">workers</TOKEN>
+<TOKEN id="token-12-3" pos="word" morph="none" start_char="826" end_char="829">will</TOKEN>
+<TOKEN id="token-12-4" pos="word" morph="none" start_char="831" end_char="833">not</TOKEN>
+<TOKEN id="token-12-5" pos="word" morph="none" start_char="835" end_char="836">do</TOKEN>
+<TOKEN id="token-12-6" pos="word" morph="none" start_char="838" end_char="840">for</TOKEN>
+<TOKEN id="token-12-7" pos="word" morph="none" start_char="842" end_char="845">such</TOKEN>
+<TOKEN id="token-12-8" pos="word" morph="none" start_char="847" end_char="847">a</TOKEN>
+<TOKEN id="token-12-9" pos="word" morph="none" start_char="849" end_char="851">big</TOKEN>
+<TOKEN id="token-12-10" pos="word" morph="none" start_char="853" end_char="860">neighbor</TOKEN>
+<TOKEN id="token-12-11" pos="word" morph="none" start_char="862" end_char="863">as</TOKEN>
+<TOKEN id="token-12-12" pos="word" morph="none" start_char="865" end_char="869">China</TOKEN>
+<TOKEN id="token-12-13" pos="unknown" morph="none" start_char="871" end_char="871">-</TOKEN>
+<TOKEN id="token-12-14" pos="word" morph="none" start_char="873" end_char="876">that</TOKEN>
+<TOKEN id="token-12-15" pos="word" morph="none" start_char="878" end_char="881">will</TOKEN>
+<TOKEN id="token-12-16" pos="word" morph="none" start_char="883" end_char="884">be</TOKEN>
+<TOKEN id="token-12-17" pos="word" morph="none" start_char="886" end_char="895">remembered</TOKEN>
+<TOKEN id="token-12-18" pos="word" morph="none" start_char="897" end_char="898">as</TOKEN>
+<TOKEN id="token-12-19" pos="word" morph="none" start_char="900" end_char="900">a</TOKEN>
+<TOKEN id="token-12-20" pos="punct" morph="none" start_char="902" end_char="902">"</TOKEN>
+<TOKEN id="token-12-21" pos="word" morph="none" start_char="903" end_char="907">token</TOKEN>
+<TOKEN id="token-12-22" pos="punct" morph="none" start_char="908" end_char="908">"</TOKEN>
+<TOKEN id="token-12-23" pos="word" morph="none" start_char="910" end_char="913">help</TOKEN>
+<TOKEN id="token-12-24" pos="unknown" morph="none" start_char="915" end_char="915">-</TOKEN>
+<TOKEN id="token-12-25" pos="word" morph="none" start_char="917" end_char="921">which</TOKEN>
+<TOKEN id="token-12-26" pos="word" morph="none" start_char="923" end_char="924">is</TOKEN>
+<TOKEN id="token-12-27" pos="word" morph="none" start_char="926" end_char="931">barely</TOKEN>
+<TOKEN id="token-12-28" pos="word" morph="none" start_char="933" end_char="938">enough</TOKEN>
+<TOKEN id="token-12-29" pos="word" morph="none" start_char="940" end_char="941">to</TOKEN>
+<TOKEN id="token-12-30" pos="word" morph="none" start_char="943" end_char="946">take</TOKEN>
+<TOKEN id="token-12-31" pos="word" morph="none" start_char="948" end_char="951">care</TOKEN>
+<TOKEN id="token-12-32" pos="word" morph="none" start_char="953" end_char="954">of</TOKEN>
+<TOKEN id="token-12-33" pos="word" morph="none" start_char="956" end_char="958">the</TOKEN>
+<TOKEN id="token-12-34" pos="word" morph="none" start_char="960" end_char="966">Chinese</TOKEN>
+<TOKEN id="token-12-35" pos="word" morph="none" start_char="968" end_char="969">ex</TOKEN>
+<TOKEN id="token-12-36" pos="punct" morph="none" start_char="970" end_char="970">-</TOKEN>
+<TOKEN id="token-12-37" pos="word" morph="none" start_char="971" end_char="974">pats</TOKEN>
+<TOKEN id="token-12-38" pos="word" morph="none" start_char="976" end_char="983">affected</TOKEN>
+<TOKEN id="token-12-39" pos="word" morph="none" start_char="985" end_char="986">by</TOKEN>
+<TOKEN id="token-12-40" pos="word" morph="none" start_char="988" end_char="990">the</TOKEN>
+<TOKEN id="token-12-41" pos="word" morph="none" start_char="992" end_char="1001">earthquake</TOKEN>
+<TOKEN id="token-12-42" pos="word" morph="none" start_char="1003" end_char="1004">in</TOKEN>
+<TOKEN id="token-12-43" pos="word" morph="none" start_char="1006" end_char="1010">Nepal</TOKEN>
+<TOKEN id="token-12-44" pos="punct" morph="none" start_char="1011" end_char="1011">.</TOKEN>
+</SEG>
+<SEG id="segment-13" start_char="1014" end_char="1095">
+<ORIGINAL_TEXT>What a truly BIG country should do for his LITTLE BROTHER NEPAL are the following:</ORIGINAL_TEXT>
+<TOKEN id="token-13-0" pos="word" morph="none" start_char="1014" end_char="1017">What</TOKEN>
+<TOKEN id="token-13-1" pos="word" morph="none" start_char="1019" end_char="1019">a</TOKEN>
+<TOKEN id="token-13-2" pos="word" morph="none" start_char="1021" end_char="1025">truly</TOKEN>
+<TOKEN id="token-13-3" pos="word" morph="none" start_char="1027" end_char="1029">BIG</TOKEN>
+<TOKEN id="token-13-4" pos="word" morph="none" start_char="1031" end_char="1037">country</TOKEN>
+<TOKEN id="token-13-5" pos="word" morph="none" start_char="1039" end_char="1044">should</TOKEN>
+<TOKEN id="token-13-6" pos="word" morph="none" start_char="1046" end_char="1047">do</TOKEN>
+<TOKEN id="token-13-7" pos="word" morph="none" start_char="1049" end_char="1051">for</TOKEN>
+<TOKEN id="token-13-8" pos="word" morph="none" start_char="1053" end_char="1055">his</TOKEN>
+<TOKEN id="token-13-9" pos="word" morph="none" start_char="1057" end_char="1062">LITTLE</TOKEN>
+<TOKEN id="token-13-10" pos="word" morph="none" start_char="1064" end_char="1070">BROTHER</TOKEN>
+<TOKEN id="token-13-11" pos="word" morph="none" start_char="1072" end_char="1076">NEPAL</TOKEN>
+<TOKEN id="token-13-12" pos="word" morph="none" start_char="1078" end_char="1080">are</TOKEN>
+<TOKEN id="token-13-13" pos="word" morph="none" start_char="1082" end_char="1084">the</TOKEN>
+<TOKEN id="token-13-14" pos="word" morph="none" start_char="1086" end_char="1094">following</TOKEN>
+<TOKEN id="token-13-15" pos="punct" morph="none" start_char="1095" end_char="1095">:</TOKEN>
+</SEG>
+<SEG id="segment-14" start_char="1098" end_char="1298">
+<ORIGINAL_TEXT>1.  Airlift with large cargo planes, cranes, bulldozers, helicopters, etc. - to help in the removal of debris, rescue buried people, and provide access to areas cut off by landslides and blocked roads.</ORIGINAL_TEXT>
+<TOKEN id="token-14-0" pos="word" morph="none" start_char="1098" end_char="1098">1</TOKEN>
+<TOKEN id="token-14-1" pos="punct" morph="none" start_char="1099" end_char="1099">.</TOKEN>
+<TOKEN id="token-14-2" pos="word" morph="none" start_char="1102" end_char="1108">Airlift</TOKEN>
+<TOKEN id="token-14-3" pos="word" morph="none" start_char="1110" end_char="1113">with</TOKEN>
+<TOKEN id="token-14-4" pos="word" morph="none" start_char="1115" end_char="1119">large</TOKEN>
+<TOKEN id="token-14-5" pos="word" morph="none" start_char="1121" end_char="1125">cargo</TOKEN>
+<TOKEN id="token-14-6" pos="word" morph="none" start_char="1127" end_char="1132">planes</TOKEN>
+<TOKEN id="token-14-7" pos="punct" morph="none" start_char="1133" end_char="1133">,</TOKEN>
+<TOKEN id="token-14-8" pos="word" morph="none" start_char="1135" end_char="1140">cranes</TOKEN>
+<TOKEN id="token-14-9" pos="punct" morph="none" start_char="1141" end_char="1141">,</TOKEN>
+<TOKEN id="token-14-10" pos="word" morph="none" start_char="1143" end_char="1152">bulldozers</TOKEN>
+<TOKEN id="token-14-11" pos="punct" morph="none" start_char="1153" end_char="1153">,</TOKEN>
+<TOKEN id="token-14-12" pos="word" morph="none" start_char="1155" end_char="1165">helicopters</TOKEN>
+<TOKEN id="token-14-13" pos="punct" morph="none" start_char="1166" end_char="1166">,</TOKEN>
+<TOKEN id="token-14-14" pos="word" morph="none" start_char="1168" end_char="1170">etc</TOKEN>
+<TOKEN id="token-14-15" pos="punct" morph="none" start_char="1171" end_char="1171">.</TOKEN>
+<TOKEN id="token-14-16" pos="unknown" morph="none" start_char="1173" end_char="1173">-</TOKEN>
+<TOKEN id="token-14-17" pos="word" morph="none" start_char="1175" end_char="1176">to</TOKEN>
+<TOKEN id="token-14-18" pos="word" morph="none" start_char="1178" end_char="1181">help</TOKEN>
+<TOKEN id="token-14-19" pos="word" morph="none" start_char="1183" end_char="1184">in</TOKEN>
+<TOKEN id="token-14-20" pos="word" morph="none" start_char="1186" end_char="1188">the</TOKEN>
+<TOKEN id="token-14-21" pos="word" morph="none" start_char="1190" end_char="1196">removal</TOKEN>
+<TOKEN id="token-14-22" pos="word" morph="none" start_char="1198" end_char="1199">of</TOKEN>
+<TOKEN id="token-14-23" pos="word" morph="none" start_char="1201" end_char="1206">debris</TOKEN>
+<TOKEN id="token-14-24" pos="punct" morph="none" start_char="1207" end_char="1207">,</TOKEN>
+<TOKEN id="token-14-25" pos="word" morph="none" start_char="1209" end_char="1214">rescue</TOKEN>
+<TOKEN id="token-14-26" pos="word" morph="none" start_char="1216" end_char="1221">buried</TOKEN>
+<TOKEN id="token-14-27" pos="word" morph="none" start_char="1223" end_char="1228">people</TOKEN>
+<TOKEN id="token-14-28" pos="punct" morph="none" start_char="1229" end_char="1229">,</TOKEN>
+<TOKEN id="token-14-29" pos="word" morph="none" start_char="1231" end_char="1233">and</TOKEN>
+<TOKEN id="token-14-30" pos="word" morph="none" start_char="1235" end_char="1241">provide</TOKEN>
+<TOKEN id="token-14-31" pos="word" morph="none" start_char="1243" end_char="1248">access</TOKEN>
+<TOKEN id="token-14-32" pos="word" morph="none" start_char="1250" end_char="1251">to</TOKEN>
+<TOKEN id="token-14-33" pos="word" morph="none" start_char="1253" end_char="1257">areas</TOKEN>
+<TOKEN id="token-14-34" pos="word" morph="none" start_char="1259" end_char="1261">cut</TOKEN>
+<TOKEN id="token-14-35" pos="word" morph="none" start_char="1263" end_char="1265">off</TOKEN>
+<TOKEN id="token-14-36" pos="word" morph="none" start_char="1267" end_char="1268">by</TOKEN>
+<TOKEN id="token-14-37" pos="word" morph="none" start_char="1270" end_char="1279">landslides</TOKEN>
+<TOKEN id="token-14-38" pos="word" morph="none" start_char="1281" end_char="1283">and</TOKEN>
+<TOKEN id="token-14-39" pos="word" morph="none" start_char="1285" end_char="1291">blocked</TOKEN>
+<TOKEN id="token-14-40" pos="word" morph="none" start_char="1293" end_char="1297">roads</TOKEN>
+<TOKEN id="token-14-41" pos="punct" morph="none" start_char="1298" end_char="1298">.</TOKEN>
+</SEG>
+<SEG id="segment-15" start_char="1301" end_char="1485">
+<ORIGINAL_TEXT>2.  Airlift with large cargo planes - tents, blankets, medicines (including antibiotics, intravenous fluids, and surgical equpment), electric power generators and lots, lots of cables).</ORIGINAL_TEXT>
+<TOKEN id="token-15-0" pos="word" morph="none" start_char="1301" end_char="1301">2</TOKEN>
+<TOKEN id="token-15-1" pos="punct" morph="none" start_char="1302" end_char="1302">.</TOKEN>
+<TOKEN id="token-15-2" pos="word" morph="none" start_char="1305" end_char="1311">Airlift</TOKEN>
+<TOKEN id="token-15-3" pos="word" morph="none" start_char="1313" end_char="1316">with</TOKEN>
+<TOKEN id="token-15-4" pos="word" morph="none" start_char="1318" end_char="1322">large</TOKEN>
+<TOKEN id="token-15-5" pos="word" morph="none" start_char="1324" end_char="1328">cargo</TOKEN>
+<TOKEN id="token-15-6" pos="word" morph="none" start_char="1330" end_char="1335">planes</TOKEN>
+<TOKEN id="token-15-7" pos="unknown" morph="none" start_char="1337" end_char="1337">-</TOKEN>
+<TOKEN id="token-15-8" pos="word" morph="none" start_char="1339" end_char="1343">tents</TOKEN>
+<TOKEN id="token-15-9" pos="punct" morph="none" start_char="1344" end_char="1344">,</TOKEN>
+<TOKEN id="token-15-10" pos="word" morph="none" start_char="1346" end_char="1353">blankets</TOKEN>
+<TOKEN id="token-15-11" pos="punct" morph="none" start_char="1354" end_char="1354">,</TOKEN>
+<TOKEN id="token-15-12" pos="word" morph="none" start_char="1356" end_char="1364">medicines</TOKEN>
+<TOKEN id="token-15-13" pos="punct" morph="none" start_char="1366" end_char="1366">(</TOKEN>
+<TOKEN id="token-15-14" pos="word" morph="none" start_char="1367" end_char="1375">including</TOKEN>
+<TOKEN id="token-15-15" pos="word" morph="none" start_char="1377" end_char="1387">antibiotics</TOKEN>
+<TOKEN id="token-15-16" pos="punct" morph="none" start_char="1388" end_char="1388">,</TOKEN>
+<TOKEN id="token-15-17" pos="word" morph="none" start_char="1390" end_char="1400">intravenous</TOKEN>
+<TOKEN id="token-15-18" pos="word" morph="none" start_char="1402" end_char="1407">fluids</TOKEN>
+<TOKEN id="token-15-19" pos="punct" morph="none" start_char="1408" end_char="1408">,</TOKEN>
+<TOKEN id="token-15-20" pos="word" morph="none" start_char="1410" end_char="1412">and</TOKEN>
+<TOKEN id="token-15-21" pos="word" morph="none" start_char="1414" end_char="1421">surgical</TOKEN>
+<TOKEN id="token-15-22" pos="word" morph="none" start_char="1423" end_char="1430">equpment</TOKEN>
+<TOKEN id="token-15-23" pos="punct" morph="none" start_char="1431" end_char="1432">),</TOKEN>
+<TOKEN id="token-15-24" pos="word" morph="none" start_char="1434" end_char="1441">electric</TOKEN>
+<TOKEN id="token-15-25" pos="word" morph="none" start_char="1443" end_char="1447">power</TOKEN>
+<TOKEN id="token-15-26" pos="word" morph="none" start_char="1449" end_char="1458">generators</TOKEN>
+<TOKEN id="token-15-27" pos="word" morph="none" start_char="1460" end_char="1462">and</TOKEN>
+<TOKEN id="token-15-28" pos="word" morph="none" start_char="1464" end_char="1467">lots</TOKEN>
+<TOKEN id="token-15-29" pos="punct" morph="none" start_char="1468" end_char="1468">,</TOKEN>
+<TOKEN id="token-15-30" pos="word" morph="none" start_char="1470" end_char="1473">lots</TOKEN>
+<TOKEN id="token-15-31" pos="word" morph="none" start_char="1475" end_char="1476">of</TOKEN>
+<TOKEN id="token-15-32" pos="word" morph="none" start_char="1478" end_char="1483">cables</TOKEN>
+<TOKEN id="token-15-33" pos="punct" morph="none" start_char="1484" end_char="1485">).</TOKEN>
+</SEG>
+<SEG id="segment-16" start_char="1488" end_char="1527">
+<ORIGINAL_TEXT>3.  Ten planeloads per day for ten days.</ORIGINAL_TEXT>
+<TOKEN id="token-16-0" pos="word" morph="none" start_char="1488" end_char="1488">3</TOKEN>
+<TOKEN id="token-16-1" pos="punct" morph="none" start_char="1489" end_char="1489">.</TOKEN>
+<TOKEN id="token-16-2" pos="word" morph="none" start_char="1492" end_char="1494">Ten</TOKEN>
+<TOKEN id="token-16-3" pos="word" morph="none" start_char="1496" end_char="1505">planeloads</TOKEN>
+<TOKEN id="token-16-4" pos="word" morph="none" start_char="1507" end_char="1509">per</TOKEN>
+<TOKEN id="token-16-5" pos="word" morph="none" start_char="1511" end_char="1513">day</TOKEN>
+<TOKEN id="token-16-6" pos="word" morph="none" start_char="1515" end_char="1517">for</TOKEN>
+<TOKEN id="token-16-7" pos="word" morph="none" start_char="1519" end_char="1521">ten</TOKEN>
+<TOKEN id="token-16-8" pos="word" morph="none" start_char="1523" end_char="1526">days</TOKEN>
+<TOKEN id="token-16-9" pos="punct" morph="none" start_char="1527" end_char="1527">.</TOKEN>
+</SEG>
+<SEG id="segment-17" start_char="1530" end_char="1536">
+<ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-17-0" pos="unknown" morph="none" start_char="1530" end_char="1536">&lt;/post&gt;</TOKEN>
+</SEG>
+<SEG id="segment-18" start_char="1538" end_char="1601">
+<ORIGINAL_TEXT>&lt;post id="p3" author="abramicus" datetime="2015-04-26T21:38:16"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-18-0" pos="unknown" morph="none" start_char="1538" end_char="1542">&lt;post</TOKEN>
+<TOKEN id="token-18-1" pos="unknown" morph="none" start_char="1544" end_char="1550">id="p3"</TOKEN>
+<TOKEN id="token-18-2" pos="unknown" morph="none" start_char="1552" end_char="1569">author="abramicus"</TOKEN>
+<TOKEN id="token-18-3" pos="unknown" morph="none" start_char="1571" end_char="1601">datetime="2015-04-26T21:38:16"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-19" start_char="1603" end_char="1681">
+<ORIGINAL_TEXT>Here Is the First Mega-Project for the AIIB Led by China - Show Your Greatness.</ORIGINAL_TEXT>
+<TOKEN id="token-19-0" pos="word" morph="none" start_char="1603" end_char="1606">Here</TOKEN>
+<TOKEN id="token-19-1" pos="word" morph="none" start_char="1608" end_char="1609">Is</TOKEN>
+<TOKEN id="token-19-2" pos="word" morph="none" start_char="1611" end_char="1613">the</TOKEN>
+<TOKEN id="token-19-3" pos="word" morph="none" start_char="1615" end_char="1619">First</TOKEN>
+<TOKEN id="token-19-4" pos="word" morph="none" start_char="1621" end_char="1624">Mega</TOKEN>
+<TOKEN id="token-19-5" pos="punct" morph="none" start_char="1625" end_char="1625">-</TOKEN>
+<TOKEN id="token-19-6" pos="word" morph="none" start_char="1626" end_char="1632">Project</TOKEN>
+<TOKEN id="token-19-7" pos="word" morph="none" start_char="1634" end_char="1636">for</TOKEN>
+<TOKEN id="token-19-8" pos="word" morph="none" start_char="1638" end_char="1640">the</TOKEN>
+<TOKEN id="token-19-9" pos="word" morph="none" start_char="1642" end_char="1645">AIIB</TOKEN>
+<TOKEN id="token-19-10" pos="word" morph="none" start_char="1647" end_char="1649">Led</TOKEN>
+<TOKEN id="token-19-11" pos="word" morph="none" start_char="1651" end_char="1652">by</TOKEN>
+<TOKEN id="token-19-12" pos="word" morph="none" start_char="1654" end_char="1658">China</TOKEN>
+<TOKEN id="token-19-13" pos="unknown" morph="none" start_char="1660" end_char="1660">-</TOKEN>
+<TOKEN id="token-19-14" pos="word" morph="none" start_char="1662" end_char="1665">Show</TOKEN>
+<TOKEN id="token-19-15" pos="word" morph="none" start_char="1667" end_char="1670">Your</TOKEN>
+<TOKEN id="token-19-16" pos="word" morph="none" start_char="1672" end_char="1680">Greatness</TOKEN>
+<TOKEN id="token-19-17" pos="punct" morph="none" start_char="1681" end_char="1681">.</TOKEN>
+</SEG>
+<SEG id="segment-20" start_char="1684" end_char="2055">
+<ORIGINAL_TEXT>THE NEPAL EARTHQUAKE DISASTER MANAGEMENT PROVIDES CHINA WITH THE CHANCE TO DEVELOP NOT ONLY LONG-TERM INFRASTRUCTURE CONSTRUCTION CAPABILITIES, BUT ALSO RAPID RESPONSE INFRASTRUCTURAL CONSTRUCTION CAPABILITIES, WHICH ARE ALL IN LINE WITH ITS DESIRE TO ESTABLISH AND LEAD THE ASIAN INFRASTRUCTURE INVESTMENT BANK (AIIB) AND SPEARHEAD THE PROVISION OF "GLOBAL PUBLIC GOODS".</ORIGINAL_TEXT>
+<TOKEN id="token-20-0" pos="word" morph="none" start_char="1684" end_char="1686">THE</TOKEN>
+<TOKEN id="token-20-1" pos="word" morph="none" start_char="1688" end_char="1692">NEPAL</TOKEN>
+<TOKEN id="token-20-2" pos="word" morph="none" start_char="1694" end_char="1703">EARTHQUAKE</TOKEN>
+<TOKEN id="token-20-3" pos="word" morph="none" start_char="1705" end_char="1712">DISASTER</TOKEN>
+<TOKEN id="token-20-4" pos="word" morph="none" start_char="1714" end_char="1723">MANAGEMENT</TOKEN>
+<TOKEN id="token-20-5" pos="word" morph="none" start_char="1725" end_char="1732">PROVIDES</TOKEN>
+<TOKEN id="token-20-6" pos="word" morph="none" start_char="1734" end_char="1738">CHINA</TOKEN>
+<TOKEN id="token-20-7" pos="word" morph="none" start_char="1740" end_char="1743">WITH</TOKEN>
+<TOKEN id="token-20-8" pos="word" morph="none" start_char="1745" end_char="1747">THE</TOKEN>
+<TOKEN id="token-20-9" pos="word" morph="none" start_char="1749" end_char="1754">CHANCE</TOKEN>
+<TOKEN id="token-20-10" pos="word" morph="none" start_char="1756" end_char="1757">TO</TOKEN>
+<TOKEN id="token-20-11" pos="word" morph="none" start_char="1759" end_char="1765">DEVELOP</TOKEN>
+<TOKEN id="token-20-12" pos="word" morph="none" start_char="1767" end_char="1769">NOT</TOKEN>
+<TOKEN id="token-20-13" pos="word" morph="none" start_char="1771" end_char="1774">ONLY</TOKEN>
+<TOKEN id="token-20-14" pos="word" morph="none" start_char="1776" end_char="1779">LONG</TOKEN>
+<TOKEN id="token-20-15" pos="punct" morph="none" start_char="1780" end_char="1780">-</TOKEN>
+<TOKEN id="token-20-16" pos="word" morph="none" start_char="1781" end_char="1784">TERM</TOKEN>
+<TOKEN id="token-20-17" pos="word" morph="none" start_char="1786" end_char="1799">INFRASTRUCTURE</TOKEN>
+<TOKEN id="token-20-18" pos="word" morph="none" start_char="1801" end_char="1812">CONSTRUCTION</TOKEN>
+<TOKEN id="token-20-19" pos="word" morph="none" start_char="1814" end_char="1825">CAPABILITIES</TOKEN>
+<TOKEN id="token-20-20" pos="punct" morph="none" start_char="1826" end_char="1826">,</TOKEN>
+<TOKEN id="token-20-21" pos="word" morph="none" start_char="1828" end_char="1830">BUT</TOKEN>
+<TOKEN id="token-20-22" pos="word" morph="none" start_char="1832" end_char="1835">ALSO</TOKEN>
+<TOKEN id="token-20-23" pos="word" morph="none" start_char="1837" end_char="1841">RAPID</TOKEN>
+<TOKEN id="token-20-24" pos="word" morph="none" start_char="1843" end_char="1850">RESPONSE</TOKEN>
+<TOKEN id="token-20-25" pos="word" morph="none" start_char="1852" end_char="1866">INFRASTRUCTURAL</TOKEN>
+<TOKEN id="token-20-26" pos="word" morph="none" start_char="1868" end_char="1879">CONSTRUCTION</TOKEN>
+<TOKEN id="token-20-27" pos="word" morph="none" start_char="1881" end_char="1892">CAPABILITIES</TOKEN>
+<TOKEN id="token-20-28" pos="punct" morph="none" start_char="1893" end_char="1893">,</TOKEN>
+<TOKEN id="token-20-29" pos="word" morph="none" start_char="1895" end_char="1899">WHICH</TOKEN>
+<TOKEN id="token-20-30" pos="word" morph="none" start_char="1901" end_char="1903">ARE</TOKEN>
+<TOKEN id="token-20-31" pos="word" morph="none" start_char="1905" end_char="1907">ALL</TOKEN>
+<TOKEN id="token-20-32" pos="word" morph="none" start_char="1909" end_char="1910">IN</TOKEN>
+<TOKEN id="token-20-33" pos="word" morph="none" start_char="1912" end_char="1915">LINE</TOKEN>
+<TOKEN id="token-20-34" pos="word" morph="none" start_char="1917" end_char="1920">WITH</TOKEN>
+<TOKEN id="token-20-35" pos="word" morph="none" start_char="1922" end_char="1924">ITS</TOKEN>
+<TOKEN id="token-20-36" pos="word" morph="none" start_char="1926" end_char="1931">DESIRE</TOKEN>
+<TOKEN id="token-20-37" pos="word" morph="none" start_char="1933" end_char="1934">TO</TOKEN>
+<TOKEN id="token-20-38" pos="word" morph="none" start_char="1936" end_char="1944">ESTABLISH</TOKEN>
+<TOKEN id="token-20-39" pos="word" morph="none" start_char="1946" end_char="1948">AND</TOKEN>
+<TOKEN id="token-20-40" pos="word" morph="none" start_char="1950" end_char="1953">LEAD</TOKEN>
+<TOKEN id="token-20-41" pos="word" morph="none" start_char="1955" end_char="1957">THE</TOKEN>
+<TOKEN id="token-20-42" pos="word" morph="none" start_char="1959" end_char="1963">ASIAN</TOKEN>
+<TOKEN id="token-20-43" pos="word" morph="none" start_char="1965" end_char="1978">INFRASTRUCTURE</TOKEN>
+<TOKEN id="token-20-44" pos="word" morph="none" start_char="1980" end_char="1989">INVESTMENT</TOKEN>
+<TOKEN id="token-20-45" pos="word" morph="none" start_char="1991" end_char="1994">BANK</TOKEN>
+<TOKEN id="token-20-46" pos="punct" morph="none" start_char="1996" end_char="1996">(</TOKEN>
+<TOKEN id="token-20-47" pos="word" morph="none" start_char="1997" end_char="2000">AIIB</TOKEN>
+<TOKEN id="token-20-48" pos="punct" morph="none" start_char="2001" end_char="2001">)</TOKEN>
+<TOKEN id="token-20-49" pos="word" morph="none" start_char="2003" end_char="2005">AND</TOKEN>
+<TOKEN id="token-20-50" pos="word" morph="none" start_char="2007" end_char="2015">SPEARHEAD</TOKEN>
+<TOKEN id="token-20-51" pos="word" morph="none" start_char="2017" end_char="2019">THE</TOKEN>
+<TOKEN id="token-20-52" pos="word" morph="none" start_char="2021" end_char="2029">PROVISION</TOKEN>
+<TOKEN id="token-20-53" pos="word" morph="none" start_char="2031" end_char="2032">OF</TOKEN>
+<TOKEN id="token-20-54" pos="punct" morph="none" start_char="2034" end_char="2034">"</TOKEN>
+<TOKEN id="token-20-55" pos="word" morph="none" start_char="2035" end_char="2040">GLOBAL</TOKEN>
+<TOKEN id="token-20-56" pos="word" morph="none" start_char="2042" end_char="2047">PUBLIC</TOKEN>
+<TOKEN id="token-20-57" pos="word" morph="none" start_char="2049" end_char="2053">GOODS</TOKEN>
+<TOKEN id="token-20-58" pos="punct" morph="none" start_char="2054" end_char="2055">".</TOKEN>
+</SEG>
+<SEG id="segment-21" start_char="2058" end_char="2179">
+<ORIGINAL_TEXT>What better place to demonstrate China's sincerity, goodwill and capability than with a friendly neighbor in dire straits?</ORIGINAL_TEXT>
+<TOKEN id="token-21-0" pos="word" morph="none" start_char="2058" end_char="2061">What</TOKEN>
+<TOKEN id="token-21-1" pos="word" morph="none" start_char="2063" end_char="2068">better</TOKEN>
+<TOKEN id="token-21-2" pos="word" morph="none" start_char="2070" end_char="2074">place</TOKEN>
+<TOKEN id="token-21-3" pos="word" morph="none" start_char="2076" end_char="2077">to</TOKEN>
+<TOKEN id="token-21-4" pos="word" morph="none" start_char="2079" end_char="2089">demonstrate</TOKEN>
+<TOKEN id="token-21-5" pos="word" morph="none" start_char="2091" end_char="2095">China</TOKEN>
+<TOKEN id="token-21-6" pos="punct" morph="none" start_char="2096" end_char="2096">'</TOKEN>
+<TOKEN id="token-21-7" pos="word" morph="none" start_char="2097" end_char="2097">s</TOKEN>
+<TOKEN id="token-21-8" pos="word" morph="none" start_char="2099" end_char="2107">sincerity</TOKEN>
+<TOKEN id="token-21-9" pos="punct" morph="none" start_char="2108" end_char="2108">,</TOKEN>
+<TOKEN id="token-21-10" pos="word" morph="none" start_char="2110" end_char="2117">goodwill</TOKEN>
+<TOKEN id="token-21-11" pos="word" morph="none" start_char="2119" end_char="2121">and</TOKEN>
+<TOKEN id="token-21-12" pos="word" morph="none" start_char="2123" end_char="2132">capability</TOKEN>
+<TOKEN id="token-21-13" pos="word" morph="none" start_char="2134" end_char="2137">than</TOKEN>
+<TOKEN id="token-21-14" pos="word" morph="none" start_char="2139" end_char="2142">with</TOKEN>
+<TOKEN id="token-21-15" pos="word" morph="none" start_char="2144" end_char="2144">a</TOKEN>
+<TOKEN id="token-21-16" pos="word" morph="none" start_char="2146" end_char="2153">friendly</TOKEN>
+<TOKEN id="token-21-17" pos="word" morph="none" start_char="2155" end_char="2162">neighbor</TOKEN>
+<TOKEN id="token-21-18" pos="word" morph="none" start_char="2164" end_char="2165">in</TOKEN>
+<TOKEN id="token-21-19" pos="word" morph="none" start_char="2167" end_char="2170">dire</TOKEN>
+<TOKEN id="token-21-20" pos="word" morph="none" start_char="2172" end_char="2178">straits</TOKEN>
+<TOKEN id="token-21-21" pos="punct" morph="none" start_char="2179" end_char="2179">?</TOKEN>
+</SEG>
+<SEG id="segment-22" start_char="2182" end_char="2205">
+<ORIGINAL_TEXT>How about the following:</ORIGINAL_TEXT>
+<TOKEN id="token-22-0" pos="word" morph="none" start_char="2182" end_char="2184">How</TOKEN>
+<TOKEN id="token-22-1" pos="word" morph="none" start_char="2186" end_char="2190">about</TOKEN>
+<TOKEN id="token-22-2" pos="word" morph="none" start_char="2192" end_char="2194">the</TOKEN>
+<TOKEN id="token-22-3" pos="word" morph="none" start_char="2196" end_char="2204">following</TOKEN>
+<TOKEN id="token-22-4" pos="punct" morph="none" start_char="2205" end_char="2205">:</TOKEN>
+</SEG>
+<SEG id="segment-23" start_char="2207" end_char="2350">
+<ORIGINAL_TEXT>1.  Provide instant loans to Nepal to build airstrips, helipads, warehouses for construction equipment and materials, and lease heavy equipment.</ORIGINAL_TEXT>
+<TOKEN id="token-23-0" pos="word" morph="none" start_char="2207" end_char="2207">1</TOKEN>
+<TOKEN id="token-23-1" pos="punct" morph="none" start_char="2208" end_char="2208">.</TOKEN>
+<TOKEN id="token-23-2" pos="word" morph="none" start_char="2211" end_char="2217">Provide</TOKEN>
+<TOKEN id="token-23-3" pos="word" morph="none" start_char="2219" end_char="2225">instant</TOKEN>
+<TOKEN id="token-23-4" pos="word" morph="none" start_char="2227" end_char="2231">loans</TOKEN>
+<TOKEN id="token-23-5" pos="word" morph="none" start_char="2233" end_char="2234">to</TOKEN>
+<TOKEN id="token-23-6" pos="word" morph="none" start_char="2236" end_char="2240">Nepal</TOKEN>
+<TOKEN id="token-23-7" pos="word" morph="none" start_char="2242" end_char="2243">to</TOKEN>
+<TOKEN id="token-23-8" pos="word" morph="none" start_char="2245" end_char="2249">build</TOKEN>
+<TOKEN id="token-23-9" pos="word" morph="none" start_char="2251" end_char="2259">airstrips</TOKEN>
+<TOKEN id="token-23-10" pos="punct" morph="none" start_char="2260" end_char="2260">,</TOKEN>
+<TOKEN id="token-23-11" pos="word" morph="none" start_char="2262" end_char="2269">helipads</TOKEN>
+<TOKEN id="token-23-12" pos="punct" morph="none" start_char="2270" end_char="2270">,</TOKEN>
+<TOKEN id="token-23-13" pos="word" morph="none" start_char="2272" end_char="2281">warehouses</TOKEN>
+<TOKEN id="token-23-14" pos="word" morph="none" start_char="2283" end_char="2285">for</TOKEN>
+<TOKEN id="token-23-15" pos="word" morph="none" start_char="2287" end_char="2298">construction</TOKEN>
+<TOKEN id="token-23-16" pos="word" morph="none" start_char="2300" end_char="2308">equipment</TOKEN>
+<TOKEN id="token-23-17" pos="word" morph="none" start_char="2310" end_char="2312">and</TOKEN>
+<TOKEN id="token-23-18" pos="word" morph="none" start_char="2314" end_char="2322">materials</TOKEN>
+<TOKEN id="token-23-19" pos="punct" morph="none" start_char="2323" end_char="2323">,</TOKEN>
+<TOKEN id="token-23-20" pos="word" morph="none" start_char="2325" end_char="2327">and</TOKEN>
+<TOKEN id="token-23-21" pos="word" morph="none" start_char="2329" end_char="2333">lease</TOKEN>
+<TOKEN id="token-23-22" pos="word" morph="none" start_char="2335" end_char="2339">heavy</TOKEN>
+<TOKEN id="token-23-23" pos="word" morph="none" start_char="2341" end_char="2349">equipment</TOKEN>
+<TOKEN id="token-23-24" pos="punct" morph="none" start_char="2350" end_char="2350">.</TOKEN>
+</SEG>
+<SEG id="segment-24" start_char="2352" end_char="2456">
+<ORIGINAL_TEXT>2.  Provide instant loans to build health facilities that can be constructed overnight in disaster zones.</ORIGINAL_TEXT>
+<TOKEN id="token-24-0" pos="word" morph="none" start_char="2352" end_char="2352">2</TOKEN>
+<TOKEN id="token-24-1" pos="punct" morph="none" start_char="2353" end_char="2353">.</TOKEN>
+<TOKEN id="token-24-2" pos="word" morph="none" start_char="2356" end_char="2362">Provide</TOKEN>
+<TOKEN id="token-24-3" pos="word" morph="none" start_char="2364" end_char="2370">instant</TOKEN>
+<TOKEN id="token-24-4" pos="word" morph="none" start_char="2372" end_char="2376">loans</TOKEN>
+<TOKEN id="token-24-5" pos="word" morph="none" start_char="2378" end_char="2379">to</TOKEN>
+<TOKEN id="token-24-6" pos="word" morph="none" start_char="2381" end_char="2385">build</TOKEN>
+<TOKEN id="token-24-7" pos="word" morph="none" start_char="2387" end_char="2392">health</TOKEN>
+<TOKEN id="token-24-8" pos="word" morph="none" start_char="2394" end_char="2403">facilities</TOKEN>
+<TOKEN id="token-24-9" pos="word" morph="none" start_char="2405" end_char="2408">that</TOKEN>
+<TOKEN id="token-24-10" pos="word" morph="none" start_char="2410" end_char="2412">can</TOKEN>
+<TOKEN id="token-24-11" pos="word" morph="none" start_char="2414" end_char="2415">be</TOKEN>
+<TOKEN id="token-24-12" pos="word" morph="none" start_char="2417" end_char="2427">constructed</TOKEN>
+<TOKEN id="token-24-13" pos="word" morph="none" start_char="2429" end_char="2437">overnight</TOKEN>
+<TOKEN id="token-24-14" pos="word" morph="none" start_char="2439" end_char="2440">in</TOKEN>
+<TOKEN id="token-24-15" pos="word" morph="none" start_char="2442" end_char="2449">disaster</TOKEN>
+<TOKEN id="token-24-16" pos="word" morph="none" start_char="2451" end_char="2455">zones</TOKEN>
+<TOKEN id="token-24-17" pos="punct" morph="none" start_char="2456" end_char="2456">.</TOKEN>
+</SEG>
+<SEG id="segment-25" start_char="2458" end_char="2557">
+<ORIGINAL_TEXT>3.  Drill wells and purify water for public consumption immediately, to prevent spread of epidemics.</ORIGINAL_TEXT>
+<TOKEN id="token-25-0" pos="word" morph="none" start_char="2458" end_char="2458">3</TOKEN>
+<TOKEN id="token-25-1" pos="punct" morph="none" start_char="2459" end_char="2459">.</TOKEN>
+<TOKEN id="token-25-2" pos="word" morph="none" start_char="2462" end_char="2466">Drill</TOKEN>
+<TOKEN id="token-25-3" pos="word" morph="none" start_char="2468" end_char="2472">wells</TOKEN>
+<TOKEN id="token-25-4" pos="word" morph="none" start_char="2474" end_char="2476">and</TOKEN>
+<TOKEN id="token-25-5" pos="word" morph="none" start_char="2478" end_char="2483">purify</TOKEN>
+<TOKEN id="token-25-6" pos="word" morph="none" start_char="2485" end_char="2489">water</TOKEN>
+<TOKEN id="token-25-7" pos="word" morph="none" start_char="2491" end_char="2493">for</TOKEN>
+<TOKEN id="token-25-8" pos="word" morph="none" start_char="2495" end_char="2500">public</TOKEN>
+<TOKEN id="token-25-9" pos="word" morph="none" start_char="2502" end_char="2512">consumption</TOKEN>
+<TOKEN id="token-25-10" pos="word" morph="none" start_char="2514" end_char="2524">immediately</TOKEN>
+<TOKEN id="token-25-11" pos="punct" morph="none" start_char="2525" end_char="2525">,</TOKEN>
+<TOKEN id="token-25-12" pos="word" morph="none" start_char="2527" end_char="2528">to</TOKEN>
+<TOKEN id="token-25-13" pos="word" morph="none" start_char="2530" end_char="2536">prevent</TOKEN>
+<TOKEN id="token-25-14" pos="word" morph="none" start_char="2538" end_char="2543">spread</TOKEN>
+<TOKEN id="token-25-15" pos="word" morph="none" start_char="2545" end_char="2546">of</TOKEN>
+<TOKEN id="token-25-16" pos="word" morph="none" start_char="2548" end_char="2556">epidemics</TOKEN>
+<TOKEN id="token-25-17" pos="punct" morph="none" start_char="2557" end_char="2557">.</TOKEN>
+</SEG>
+<SEG id="segment-26" start_char="2559" end_char="2649">
+<ORIGINAL_TEXT>4.  A completely organized project of disaster relief coordinated with Nepalese government.</ORIGINAL_TEXT>
+<TOKEN id="token-26-0" pos="word" morph="none" start_char="2559" end_char="2559">4</TOKEN>
+<TOKEN id="token-26-1" pos="punct" morph="none" start_char="2560" end_char="2560">.</TOKEN>
+<TOKEN id="token-26-2" pos="word" morph="none" start_char="2563" end_char="2563">A</TOKEN>
+<TOKEN id="token-26-3" pos="word" morph="none" start_char="2565" end_char="2574">completely</TOKEN>
+<TOKEN id="token-26-4" pos="word" morph="none" start_char="2576" end_char="2584">organized</TOKEN>
+<TOKEN id="token-26-5" pos="word" morph="none" start_char="2586" end_char="2592">project</TOKEN>
+<TOKEN id="token-26-6" pos="word" morph="none" start_char="2594" end_char="2595">of</TOKEN>
+<TOKEN id="token-26-7" pos="word" morph="none" start_char="2597" end_char="2604">disaster</TOKEN>
+<TOKEN id="token-26-8" pos="word" morph="none" start_char="2606" end_char="2611">relief</TOKEN>
+<TOKEN id="token-26-9" pos="word" morph="none" start_char="2613" end_char="2623">coordinated</TOKEN>
+<TOKEN id="token-26-10" pos="word" morph="none" start_char="2625" end_char="2628">with</TOKEN>
+<TOKEN id="token-26-11" pos="word" morph="none" start_char="2630" end_char="2637">Nepalese</TOKEN>
+<TOKEN id="token-26-12" pos="word" morph="none" start_char="2639" end_char="2648">government</TOKEN>
+<TOKEN id="token-26-13" pos="punct" morph="none" start_char="2649" end_char="2649">.</TOKEN>
+</SEG>
+<SEG id="segment-27" start_char="2651" end_char="2838">
+<ORIGINAL_TEXT>5.  All construction equipment for now are to be owned by China, loaned to Nepal, with option for Nepal to pay for them at cost, lease them for future use, or receive as a gift from China.</ORIGINAL_TEXT>
+<TOKEN id="token-27-0" pos="word" morph="none" start_char="2651" end_char="2651">5</TOKEN>
+<TOKEN id="token-27-1" pos="punct" morph="none" start_char="2652" end_char="2652">.</TOKEN>
+<TOKEN id="token-27-2" pos="word" morph="none" start_char="2655" end_char="2657">All</TOKEN>
+<TOKEN id="token-27-3" pos="word" morph="none" start_char="2659" end_char="2670">construction</TOKEN>
+<TOKEN id="token-27-4" pos="word" morph="none" start_char="2672" end_char="2680">equipment</TOKEN>
+<TOKEN id="token-27-5" pos="word" morph="none" start_char="2682" end_char="2684">for</TOKEN>
+<TOKEN id="token-27-6" pos="word" morph="none" start_char="2686" end_char="2688">now</TOKEN>
+<TOKEN id="token-27-7" pos="word" morph="none" start_char="2690" end_char="2692">are</TOKEN>
+<TOKEN id="token-27-8" pos="word" morph="none" start_char="2694" end_char="2695">to</TOKEN>
+<TOKEN id="token-27-9" pos="word" morph="none" start_char="2697" end_char="2698">be</TOKEN>
+<TOKEN id="token-27-10" pos="word" morph="none" start_char="2700" end_char="2704">owned</TOKEN>
+<TOKEN id="token-27-11" pos="word" morph="none" start_char="2706" end_char="2707">by</TOKEN>
+<TOKEN id="token-27-12" pos="word" morph="none" start_char="2709" end_char="2713">China</TOKEN>
+<TOKEN id="token-27-13" pos="punct" morph="none" start_char="2714" end_char="2714">,</TOKEN>
+<TOKEN id="token-27-14" pos="word" morph="none" start_char="2716" end_char="2721">loaned</TOKEN>
+<TOKEN id="token-27-15" pos="word" morph="none" start_char="2723" end_char="2724">to</TOKEN>
+<TOKEN id="token-27-16" pos="word" morph="none" start_char="2726" end_char="2730">Nepal</TOKEN>
+<TOKEN id="token-27-17" pos="punct" morph="none" start_char="2731" end_char="2731">,</TOKEN>
+<TOKEN id="token-27-18" pos="word" morph="none" start_char="2733" end_char="2736">with</TOKEN>
+<TOKEN id="token-27-19" pos="word" morph="none" start_char="2738" end_char="2743">option</TOKEN>
+<TOKEN id="token-27-20" pos="word" morph="none" start_char="2745" end_char="2747">for</TOKEN>
+<TOKEN id="token-27-21" pos="word" morph="none" start_char="2749" end_char="2753">Nepal</TOKEN>
+<TOKEN id="token-27-22" pos="word" morph="none" start_char="2755" end_char="2756">to</TOKEN>
+<TOKEN id="token-27-23" pos="word" morph="none" start_char="2758" end_char="2760">pay</TOKEN>
+<TOKEN id="token-27-24" pos="word" morph="none" start_char="2762" end_char="2764">for</TOKEN>
+<TOKEN id="token-27-25" pos="word" morph="none" start_char="2766" end_char="2769">them</TOKEN>
+<TOKEN id="token-27-26" pos="word" morph="none" start_char="2771" end_char="2772">at</TOKEN>
+<TOKEN id="token-27-27" pos="word" morph="none" start_char="2774" end_char="2777">cost</TOKEN>
+<TOKEN id="token-27-28" pos="punct" morph="none" start_char="2778" end_char="2778">,</TOKEN>
+<TOKEN id="token-27-29" pos="word" morph="none" start_char="2780" end_char="2784">lease</TOKEN>
+<TOKEN id="token-27-30" pos="word" morph="none" start_char="2786" end_char="2789">them</TOKEN>
+<TOKEN id="token-27-31" pos="word" morph="none" start_char="2791" end_char="2793">for</TOKEN>
+<TOKEN id="token-27-32" pos="word" morph="none" start_char="2795" end_char="2800">future</TOKEN>
+<TOKEN id="token-27-33" pos="word" morph="none" start_char="2802" end_char="2804">use</TOKEN>
+<TOKEN id="token-27-34" pos="punct" morph="none" start_char="2805" end_char="2805">,</TOKEN>
+<TOKEN id="token-27-35" pos="word" morph="none" start_char="2807" end_char="2808">or</TOKEN>
+<TOKEN id="token-27-36" pos="word" morph="none" start_char="2810" end_char="2816">receive</TOKEN>
+<TOKEN id="token-27-37" pos="word" morph="none" start_char="2818" end_char="2819">as</TOKEN>
+<TOKEN id="token-27-38" pos="word" morph="none" start_char="2821" end_char="2821">a</TOKEN>
+<TOKEN id="token-27-39" pos="word" morph="none" start_char="2823" end_char="2826">gift</TOKEN>
+<TOKEN id="token-27-40" pos="word" morph="none" start_char="2828" end_char="2831">from</TOKEN>
+<TOKEN id="token-27-41" pos="word" morph="none" start_char="2833" end_char="2837">China</TOKEN>
+<TOKEN id="token-27-42" pos="punct" morph="none" start_char="2838" end_char="2838">.</TOKEN>
+</SEG>
+<SEG id="segment-28" start_char="2840" end_char="2846">
+<ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-28-0" pos="unknown" morph="none" start_char="2840" end_char="2846">&lt;/post&gt;</TOKEN>
+</SEG>
+<SEG id="segment-29" start_char="2848" end_char="2909">
+<ORIGINAL_TEXT>&lt;post id="p4" author="cestmoi" datetime="2015-04-27T06:38:25"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-29-0" pos="unknown" morph="none" start_char="2848" end_char="2852">&lt;post</TOKEN>
+<TOKEN id="token-29-1" pos="unknown" morph="none" start_char="2854" end_char="2860">id="p4"</TOKEN>
+<TOKEN id="token-29-2" pos="unknown" morph="none" start_char="2862" end_char="2877">author="cestmoi"</TOKEN>
+<TOKEN id="token-29-3" pos="unknown" morph="none" start_char="2879" end_char="2909">datetime="2015-04-27T06:38:25"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-30" start_char="2911" end_char="2932">
+<ORIGINAL_TEXT>Well done, PRC China! </ORIGINAL_TEXT>
+<TOKEN id="token-30-0" pos="word" morph="none" start_char="2911" end_char="2914">Well</TOKEN>
+<TOKEN id="token-30-1" pos="word" morph="none" start_char="2916" end_char="2919">done</TOKEN>
+<TOKEN id="token-30-2" pos="punct" morph="none" start_char="2920" end_char="2920">,</TOKEN>
+<TOKEN id="token-30-3" pos="word" morph="none" start_char="2922" end_char="2924">PRC</TOKEN>
+<TOKEN id="token-30-4" pos="word" morph="none" start_char="2926" end_char="2930">China</TOKEN>
+<TOKEN id="token-30-5" pos="punct" morph="none" start_char="2931" end_char="2931">!</TOKEN>
+</SEG>
+<SEG id="segment-31" start_char="2935" end_char="3070">
+<ORIGINAL_TEXT>PRC China is a great nation indeed because great nations offer unconditional humanitarian aids in time of disaster and great sufferings.</ORIGINAL_TEXT>
+<TOKEN id="token-31-0" pos="word" morph="none" start_char="2935" end_char="2937">PRC</TOKEN>
+<TOKEN id="token-31-1" pos="word" morph="none" start_char="2939" end_char="2943">China</TOKEN>
+<TOKEN id="token-31-2" pos="word" morph="none" start_char="2945" end_char="2946">is</TOKEN>
+<TOKEN id="token-31-3" pos="word" morph="none" start_char="2948" end_char="2948">a</TOKEN>
+<TOKEN id="token-31-4" pos="word" morph="none" start_char="2950" end_char="2954">great</TOKEN>
+<TOKEN id="token-31-5" pos="word" morph="none" start_char="2956" end_char="2961">nation</TOKEN>
+<TOKEN id="token-31-6" pos="word" morph="none" start_char="2963" end_char="2968">indeed</TOKEN>
+<TOKEN id="token-31-7" pos="word" morph="none" start_char="2970" end_char="2976">because</TOKEN>
+<TOKEN id="token-31-8" pos="word" morph="none" start_char="2978" end_char="2982">great</TOKEN>
+<TOKEN id="token-31-9" pos="word" morph="none" start_char="2984" end_char="2990">nations</TOKEN>
+<TOKEN id="token-31-10" pos="word" morph="none" start_char="2992" end_char="2996">offer</TOKEN>
+<TOKEN id="token-31-11" pos="word" morph="none" start_char="2998" end_char="3010">unconditional</TOKEN>
+<TOKEN id="token-31-12" pos="word" morph="none" start_char="3012" end_char="3023">humanitarian</TOKEN>
+<TOKEN id="token-31-13" pos="word" morph="none" start_char="3025" end_char="3028">aids</TOKEN>
+<TOKEN id="token-31-14" pos="word" morph="none" start_char="3030" end_char="3031">in</TOKEN>
+<TOKEN id="token-31-15" pos="word" morph="none" start_char="3033" end_char="3036">time</TOKEN>
+<TOKEN id="token-31-16" pos="word" morph="none" start_char="3038" end_char="3039">of</TOKEN>
+<TOKEN id="token-31-17" pos="word" morph="none" start_char="3041" end_char="3048">disaster</TOKEN>
+<TOKEN id="token-31-18" pos="word" morph="none" start_char="3050" end_char="3052">and</TOKEN>
+<TOKEN id="token-31-19" pos="word" morph="none" start_char="3054" end_char="3058">great</TOKEN>
+<TOKEN id="token-31-20" pos="word" morph="none" start_char="3060" end_char="3069">sufferings</TOKEN>
+<TOKEN id="token-31-21" pos="punct" morph="none" start_char="3070" end_char="3070">.</TOKEN>
+</SEG>
+<SEG id="segment-32" start_char="3072" end_char="3078">
+<ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-32-0" pos="unknown" morph="none" start_char="3072" end_char="3078">&lt;/post&gt;</TOKEN>
+</SEG>
+<SEG id="segment-33" start_char="3080" end_char="3138">
+<ORIGINAL_TEXT>&lt;post id="p5" author="Kbay" datetime="2015-04-27T07:01:35"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-33-0" pos="unknown" morph="none" start_char="3080" end_char="3084">&lt;post</TOKEN>
+<TOKEN id="token-33-1" pos="unknown" morph="none" start_char="3086" end_char="3092">id="p5"</TOKEN>
+<TOKEN id="token-33-2" pos="unknown" morph="none" start_char="3094" end_char="3106">author="Kbay"</TOKEN>
+<TOKEN id="token-33-3" pos="unknown" morph="none" start_char="3108" end_char="3138">datetime="2015-04-27T07:01:35"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-34" start_char="3140" end_char="3170">
+<ORIGINAL_TEXT>&lt;quote orig_author="abramicus"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-34-0" pos="unknown" morph="none" start_char="3140" end_char="3145">&lt;quote</TOKEN>
+<TOKEN id="token-34-1" pos="unknown" morph="none" start_char="3147" end_char="3170">orig_author="abramicus"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-35" start_char="3172" end_char="3250">
+<ORIGINAL_TEXT>Here Is the First Mega-Project for the AIIB Led by China - Show Your Greatness.</ORIGINAL_TEXT>
+<TOKEN id="token-35-0" pos="word" morph="none" start_char="3172" end_char="3175">Here</TOKEN>
+<TOKEN id="token-35-1" pos="word" morph="none" start_char="3177" end_char="3178">Is</TOKEN>
+<TOKEN id="token-35-2" pos="word" morph="none" start_char="3180" end_char="3182">the</TOKEN>
+<TOKEN id="token-35-3" pos="word" morph="none" start_char="3184" end_char="3188">First</TOKEN>
+<TOKEN id="token-35-4" pos="word" morph="none" start_char="3190" end_char="3193">Mega</TOKEN>
+<TOKEN id="token-35-5" pos="punct" morph="none" start_char="3194" end_char="3194">-</TOKEN>
+<TOKEN id="token-35-6" pos="word" morph="none" start_char="3195" end_char="3201">Project</TOKEN>
+<TOKEN id="token-35-7" pos="word" morph="none" start_char="3203" end_char="3205">for</TOKEN>
+<TOKEN id="token-35-8" pos="word" morph="none" start_char="3207" end_char="3209">the</TOKEN>
+<TOKEN id="token-35-9" pos="word" morph="none" start_char="3211" end_char="3214">AIIB</TOKEN>
+<TOKEN id="token-35-10" pos="word" morph="none" start_char="3216" end_char="3218">Led</TOKEN>
+<TOKEN id="token-35-11" pos="word" morph="none" start_char="3220" end_char="3221">by</TOKEN>
+<TOKEN id="token-35-12" pos="word" morph="none" start_char="3223" end_char="3227">China</TOKEN>
+<TOKEN id="token-35-13" pos="unknown" morph="none" start_char="3229" end_char="3229">-</TOKEN>
+<TOKEN id="token-35-14" pos="word" morph="none" start_char="3231" end_char="3234">Show</TOKEN>
+<TOKEN id="token-35-15" pos="word" morph="none" start_char="3236" end_char="3239">Your</TOKEN>
+<TOKEN id="token-35-16" pos="word" morph="none" start_char="3241" end_char="3249">Greatness</TOKEN>
+<TOKEN id="token-35-17" pos="punct" morph="none" start_char="3250" end_char="3250">.</TOKEN>
+</SEG>
+<SEG id="segment-36" start_char="3253" end_char="3624">
+<ORIGINAL_TEXT>THE NEPAL EARTHQUAKE DISASTER MANAGEMENT PROVIDES CHINA WITH THE CHANCE TO DEVELOP NOT ONLY LONG-TERM INFRASTRUCTURE CONSTRUCTION CAPABILITIES, BUT ALSO RAPID RESPONSE INFRASTRUCTURAL CONSTRUCTION CAPABILITIES, WHICH ARE ALL IN LINE WITH ITS DESIRE TO ESTABLISH AND LEAD THE ASIAN INFRASTRUCTURE INVESTMENT BANK (AIIB) AND SPEARHEAD THE PROVISION OF "GLOBAL PUBLIC GOODS".</ORIGINAL_TEXT>
+<TOKEN id="token-36-0" pos="word" morph="none" start_char="3253" end_char="3255">THE</TOKEN>
+<TOKEN id="token-36-1" pos="word" morph="none" start_char="3257" end_char="3261">NEPAL</TOKEN>
+<TOKEN id="token-36-2" pos="word" morph="none" start_char="3263" end_char="3272">EARTHQUAKE</TOKEN>
+<TOKEN id="token-36-3" pos="word" morph="none" start_char="3274" end_char="3281">DISASTER</TOKEN>
+<TOKEN id="token-36-4" pos="word" morph="none" start_char="3283" end_char="3292">MANAGEMENT</TOKEN>
+<TOKEN id="token-36-5" pos="word" morph="none" start_char="3294" end_char="3301">PROVIDES</TOKEN>
+<TOKEN id="token-36-6" pos="word" morph="none" start_char="3303" end_char="3307">CHINA</TOKEN>
+<TOKEN id="token-36-7" pos="word" morph="none" start_char="3309" end_char="3312">WITH</TOKEN>
+<TOKEN id="token-36-8" pos="word" morph="none" start_char="3314" end_char="3316">THE</TOKEN>
+<TOKEN id="token-36-9" pos="word" morph="none" start_char="3318" end_char="3323">CHANCE</TOKEN>
+<TOKEN id="token-36-10" pos="word" morph="none" start_char="3325" end_char="3326">TO</TOKEN>
+<TOKEN id="token-36-11" pos="word" morph="none" start_char="3328" end_char="3334">DEVELOP</TOKEN>
+<TOKEN id="token-36-12" pos="word" morph="none" start_char="3336" end_char="3338">NOT</TOKEN>
+<TOKEN id="token-36-13" pos="word" morph="none" start_char="3340" end_char="3343">ONLY</TOKEN>
+<TOKEN id="token-36-14" pos="word" morph="none" start_char="3345" end_char="3348">LONG</TOKEN>
+<TOKEN id="token-36-15" pos="punct" morph="none" start_char="3349" end_char="3349">-</TOKEN>
+<TOKEN id="token-36-16" pos="word" morph="none" start_char="3350" end_char="3353">TERM</TOKEN>
+<TOKEN id="token-36-17" pos="word" morph="none" start_char="3355" end_char="3368">INFRASTRUCTURE</TOKEN>
+<TOKEN id="token-36-18" pos="word" morph="none" start_char="3370" end_char="3381">CONSTRUCTION</TOKEN>
+<TOKEN id="token-36-19" pos="word" morph="none" start_char="3383" end_char="3394">CAPABILITIES</TOKEN>
+<TOKEN id="token-36-20" pos="punct" morph="none" start_char="3395" end_char="3395">,</TOKEN>
+<TOKEN id="token-36-21" pos="word" morph="none" start_char="3397" end_char="3399">BUT</TOKEN>
+<TOKEN id="token-36-22" pos="word" morph="none" start_char="3401" end_char="3404">ALSO</TOKEN>
+<TOKEN id="token-36-23" pos="word" morph="none" start_char="3406" end_char="3410">RAPID</TOKEN>
+<TOKEN id="token-36-24" pos="word" morph="none" start_char="3412" end_char="3419">RESPONSE</TOKEN>
+<TOKEN id="token-36-25" pos="word" morph="none" start_char="3421" end_char="3435">INFRASTRUCTURAL</TOKEN>
+<TOKEN id="token-36-26" pos="word" morph="none" start_char="3437" end_char="3448">CONSTRUCTION</TOKEN>
+<TOKEN id="token-36-27" pos="word" morph="none" start_char="3450" end_char="3461">CAPABILITIES</TOKEN>
+<TOKEN id="token-36-28" pos="punct" morph="none" start_char="3462" end_char="3462">,</TOKEN>
+<TOKEN id="token-36-29" pos="word" morph="none" start_char="3464" end_char="3468">WHICH</TOKEN>
+<TOKEN id="token-36-30" pos="word" morph="none" start_char="3470" end_char="3472">ARE</TOKEN>
+<TOKEN id="token-36-31" pos="word" morph="none" start_char="3474" end_char="3476">ALL</TOKEN>
+<TOKEN id="token-36-32" pos="word" morph="none" start_char="3478" end_char="3479">IN</TOKEN>
+<TOKEN id="token-36-33" pos="word" morph="none" start_char="3481" end_char="3484">LINE</TOKEN>
+<TOKEN id="token-36-34" pos="word" morph="none" start_char="3486" end_char="3489">WITH</TOKEN>
+<TOKEN id="token-36-35" pos="word" morph="none" start_char="3491" end_char="3493">ITS</TOKEN>
+<TOKEN id="token-36-36" pos="word" morph="none" start_char="3495" end_char="3500">DESIRE</TOKEN>
+<TOKEN id="token-36-37" pos="word" morph="none" start_char="3502" end_char="3503">TO</TOKEN>
+<TOKEN id="token-36-38" pos="word" morph="none" start_char="3505" end_char="3513">ESTABLISH</TOKEN>
+<TOKEN id="token-36-39" pos="word" morph="none" start_char="3515" end_char="3517">AND</TOKEN>
+<TOKEN id="token-36-40" pos="word" morph="none" start_char="3519" end_char="3522">LEAD</TOKEN>
+<TOKEN id="token-36-41" pos="word" morph="none" start_char="3524" end_char="3526">THE</TOKEN>
+<TOKEN id="token-36-42" pos="word" morph="none" start_char="3528" end_char="3532">ASIAN</TOKEN>
+<TOKEN id="token-36-43" pos="word" morph="none" start_char="3534" end_char="3547">INFRASTRUCTURE</TOKEN>
+<TOKEN id="token-36-44" pos="word" morph="none" start_char="3549" end_char="3558">INVESTMENT</TOKEN>
+<TOKEN id="token-36-45" pos="word" morph="none" start_char="3560" end_char="3563">BANK</TOKEN>
+<TOKEN id="token-36-46" pos="punct" morph="none" start_char="3565" end_char="3565">(</TOKEN>
+<TOKEN id="token-36-47" pos="word" morph="none" start_char="3566" end_char="3569">AIIB</TOKEN>
+<TOKEN id="token-36-48" pos="punct" morph="none" start_char="3570" end_char="3570">)</TOKEN>
+<TOKEN id="token-36-49" pos="word" morph="none" start_char="3572" end_char="3574">AND</TOKEN>
+<TOKEN id="token-36-50" pos="word" morph="none" start_char="3576" end_char="3584">SPEARHEAD</TOKEN>
+<TOKEN id="token-36-51" pos="word" morph="none" start_char="3586" end_char="3588">THE</TOKEN>
+<TOKEN id="token-36-52" pos="word" morph="none" start_char="3590" end_char="3598">PROVISION</TOKEN>
+<TOKEN id="token-36-53" pos="word" morph="none" start_char="3600" end_char="3601">OF</TOKEN>
+<TOKEN id="token-36-54" pos="punct" morph="none" start_char="3603" end_char="3603">"</TOKEN>
+<TOKEN id="token-36-55" pos="word" morph="none" start_char="3604" end_char="3609">GLOBAL</TOKEN>
+<TOKEN id="token-36-56" pos="word" morph="none" start_char="3611" end_char="3616">PUBLIC</TOKEN>
+<TOKEN id="token-36-57" pos="word" morph="none" start_char="3618" end_char="3622">GOODS</TOKEN>
+<TOKEN id="token-36-58" pos="punct" morph="none" start_char="3623" end_char="3624">".</TOKEN>
+</SEG>
+<SEG id="segment-37" start_char="3627" end_char="3748">
+<ORIGINAL_TEXT>What better place to demonstrate China's sincerity, goodwill and capability than with a friendly neighbor in dire straits?</ORIGINAL_TEXT>
+<TOKEN id="token-37-0" pos="word" morph="none" start_char="3627" end_char="3630">What</TOKEN>
+<TOKEN id="token-37-1" pos="word" morph="none" start_char="3632" end_char="3637">better</TOKEN>
+<TOKEN id="token-37-2" pos="word" morph="none" start_char="3639" end_char="3643">place</TOKEN>
+<TOKEN id="token-37-3" pos="word" morph="none" start_char="3645" end_char="3646">to</TOKEN>
+<TOKEN id="token-37-4" pos="word" morph="none" start_char="3648" end_char="3658">demonstrate</TOKEN>
+<TOKEN id="token-37-5" pos="word" morph="none" start_char="3660" end_char="3664">China</TOKEN>
+<TOKEN id="token-37-6" pos="punct" morph="none" start_char="3665" end_char="3665">'</TOKEN>
+<TOKEN id="token-37-7" pos="word" morph="none" start_char="3666" end_char="3666">s</TOKEN>
+<TOKEN id="token-37-8" pos="word" morph="none" start_char="3668" end_char="3676">sincerity</TOKEN>
+<TOKEN id="token-37-9" pos="punct" morph="none" start_char="3677" end_char="3677">,</TOKEN>
+<TOKEN id="token-37-10" pos="word" morph="none" start_char="3679" end_char="3686">goodwill</TOKEN>
+<TOKEN id="token-37-11" pos="word" morph="none" start_char="3688" end_char="3690">and</TOKEN>
+<TOKEN id="token-37-12" pos="word" morph="none" start_char="3692" end_char="3701">capability</TOKEN>
+<TOKEN id="token-37-13" pos="word" morph="none" start_char="3703" end_char="3706">than</TOKEN>
+<TOKEN id="token-37-14" pos="word" morph="none" start_char="3708" end_char="3711">with</TOKEN>
+<TOKEN id="token-37-15" pos="word" morph="none" start_char="3713" end_char="3713">a</TOKEN>
+<TOKEN id="token-37-16" pos="word" morph="none" start_char="3715" end_char="3722">friendly</TOKEN>
+<TOKEN id="token-37-17" pos="word" morph="none" start_char="3724" end_char="3731">neighbor</TOKEN>
+<TOKEN id="token-37-18" pos="word" morph="none" start_char="3733" end_char="3734">in</TOKEN>
+<TOKEN id="token-37-19" pos="word" morph="none" start_char="3736" end_char="3739">dire</TOKEN>
+<TOKEN id="token-37-20" pos="word" morph="none" start_char="3741" end_char="3747">straits</TOKEN>
+<TOKEN id="token-37-21" pos="punct" morph="none" start_char="3748" end_char="3748">?</TOKEN>
+</SEG>
+<SEG id="segment-38" start_char="3751" end_char="3774">
+<ORIGINAL_TEXT>How about the following:</ORIGINAL_TEXT>
+<TOKEN id="token-38-0" pos="word" morph="none" start_char="3751" end_char="3753">How</TOKEN>
+<TOKEN id="token-38-1" pos="word" morph="none" start_char="3755" end_char="3759">about</TOKEN>
+<TOKEN id="token-38-2" pos="word" morph="none" start_char="3761" end_char="3763">the</TOKEN>
+<TOKEN id="token-38-3" pos="word" morph="none" start_char="3765" end_char="3773">following</TOKEN>
+<TOKEN id="token-38-4" pos="punct" morph="none" start_char="3774" end_char="3774">:</TOKEN>
+</SEG>
+<SEG id="segment-39" start_char="3776" end_char="3919">
+<ORIGINAL_TEXT>1.  Provide instant loans to Nepal to build airstrips, helipads, warehouses for construction equipment and materials, and lease heavy equipment.</ORIGINAL_TEXT>
+<TOKEN id="token-39-0" pos="word" morph="none" start_char="3776" end_char="3776">1</TOKEN>
+<TOKEN id="token-39-1" pos="punct" morph="none" start_char="3777" end_char="3777">.</TOKEN>
+<TOKEN id="token-39-2" pos="word" morph="none" start_char="3780" end_char="3786">Provide</TOKEN>
+<TOKEN id="token-39-3" pos="word" morph="none" start_char="3788" end_char="3794">instant</TOKEN>
+<TOKEN id="token-39-4" pos="word" morph="none" start_char="3796" end_char="3800">loans</TOKEN>
+<TOKEN id="token-39-5" pos="word" morph="none" start_char="3802" end_char="3803">to</TOKEN>
+<TOKEN id="token-39-6" pos="word" morph="none" start_char="3805" end_char="3809">Nepal</TOKEN>
+<TOKEN id="token-39-7" pos="word" morph="none" start_char="3811" end_char="3812">to</TOKEN>
+<TOKEN id="token-39-8" pos="word" morph="none" start_char="3814" end_char="3818">build</TOKEN>
+<TOKEN id="token-39-9" pos="word" morph="none" start_char="3820" end_char="3828">airstrips</TOKEN>
+<TOKEN id="token-39-10" pos="punct" morph="none" start_char="3829" end_char="3829">,</TOKEN>
+<TOKEN id="token-39-11" pos="word" morph="none" start_char="3831" end_char="3838">helipads</TOKEN>
+<TOKEN id="token-39-12" pos="punct" morph="none" start_char="3839" end_char="3839">,</TOKEN>
+<TOKEN id="token-39-13" pos="word" morph="none" start_char="3841" end_char="3850">warehouses</TOKEN>
+<TOKEN id="token-39-14" pos="word" morph="none" start_char="3852" end_char="3854">for</TOKEN>
+<TOKEN id="token-39-15" pos="word" morph="none" start_char="3856" end_char="3867">construction</TOKEN>
+<TOKEN id="token-39-16" pos="word" morph="none" start_char="3869" end_char="3877">equipment</TOKEN>
+<TOKEN id="token-39-17" pos="word" morph="none" start_char="3879" end_char="3881">and</TOKEN>
+<TOKEN id="token-39-18" pos="word" morph="none" start_char="3883" end_char="3891">materials</TOKEN>
+<TOKEN id="token-39-19" pos="punct" morph="none" start_char="3892" end_char="3892">,</TOKEN>
+<TOKEN id="token-39-20" pos="word" morph="none" start_char="3894" end_char="3896">and</TOKEN>
+<TOKEN id="token-39-21" pos="word" morph="none" start_char="3898" end_char="3902">lease</TOKEN>
+<TOKEN id="token-39-22" pos="word" morph="none" start_char="3904" end_char="3908">heavy</TOKEN>
+<TOKEN id="token-39-23" pos="word" morph="none" start_char="3910" end_char="3918">equipment</TOKEN>
+<TOKEN id="token-39-24" pos="punct" morph="none" start_char="3919" end_char="3919">.</TOKEN>
+</SEG>
+<SEG id="segment-40" start_char="3921" end_char="4025">
+<ORIGINAL_TEXT>2.  Provide instant loans to build health facilities that can be constructed overnight in disaster zones.</ORIGINAL_TEXT>
+<TOKEN id="token-40-0" pos="word" morph="none" start_char="3921" end_char="3921">2</TOKEN>
+<TOKEN id="token-40-1" pos="punct" morph="none" start_char="3922" end_char="3922">.</TOKEN>
+<TOKEN id="token-40-2" pos="word" morph="none" start_char="3925" end_char="3931">Provide</TOKEN>
+<TOKEN id="token-40-3" pos="word" morph="none" start_char="3933" end_char="3939">instant</TOKEN>
+<TOKEN id="token-40-4" pos="word" morph="none" start_char="3941" end_char="3945">loans</TOKEN>
+<TOKEN id="token-40-5" pos="word" morph="none" start_char="3947" end_char="3948">to</TOKEN>
+<TOKEN id="token-40-6" pos="word" morph="none" start_char="3950" end_char="3954">build</TOKEN>
+<TOKEN id="token-40-7" pos="word" morph="none" start_char="3956" end_char="3961">health</TOKEN>
+<TOKEN id="token-40-8" pos="word" morph="none" start_char="3963" end_char="3972">facilities</TOKEN>
+<TOKEN id="token-40-9" pos="word" morph="none" start_char="3974" end_char="3977">that</TOKEN>
+<TOKEN id="token-40-10" pos="word" morph="none" start_char="3979" end_char="3981">can</TOKEN>
+<TOKEN id="token-40-11" pos="word" morph="none" start_char="3983" end_char="3984">be</TOKEN>
+<TOKEN id="token-40-12" pos="word" morph="none" start_char="3986" end_char="3996">constructed</TOKEN>
+<TOKEN id="token-40-13" pos="word" morph="none" start_char="3998" end_char="4006">overnight</TOKEN>
+<TOKEN id="token-40-14" pos="word" morph="none" start_char="4008" end_char="4009">in</TOKEN>
+<TOKEN id="token-40-15" pos="word" morph="none" start_char="4011" end_char="4018">disaster</TOKEN>
+<TOKEN id="token-40-16" pos="word" morph="none" start_char="4020" end_char="4024">zones</TOKEN>
+<TOKEN id="token-40-17" pos="punct" morph="none" start_char="4025" end_char="4025">.</TOKEN>
+</SEG>
+<SEG id="segment-41" start_char="4027" end_char="4126">
+<ORIGINAL_TEXT>3.  Drill wells and purify water for public consumption immediately, to prevent spread of epidemics.</ORIGINAL_TEXT>
+<TOKEN id="token-41-0" pos="word" morph="none" start_char="4027" end_char="4027">3</TOKEN>
+<TOKEN id="token-41-1" pos="punct" morph="none" start_char="4028" end_char="4028">.</TOKEN>
+<TOKEN id="token-41-2" pos="word" morph="none" start_char="4031" end_char="4035">Drill</TOKEN>
+<TOKEN id="token-41-3" pos="word" morph="none" start_char="4037" end_char="4041">wells</TOKEN>
+<TOKEN id="token-41-4" pos="word" morph="none" start_char="4043" end_char="4045">and</TOKEN>
+<TOKEN id="token-41-5" pos="word" morph="none" start_char="4047" end_char="4052">purify</TOKEN>
+<TOKEN id="token-41-6" pos="word" morph="none" start_char="4054" end_char="4058">water</TOKEN>
+<TOKEN id="token-41-7" pos="word" morph="none" start_char="4060" end_char="4062">for</TOKEN>
+<TOKEN id="token-41-8" pos="word" morph="none" start_char="4064" end_char="4069">public</TOKEN>
+<TOKEN id="token-41-9" pos="word" morph="none" start_char="4071" end_char="4081">consumption</TOKEN>
+<TOKEN id="token-41-10" pos="word" morph="none" start_char="4083" end_char="4093">immediately</TOKEN>
+<TOKEN id="token-41-11" pos="punct" morph="none" start_char="4094" end_char="4094">,</TOKEN>
+<TOKEN id="token-41-12" pos="word" morph="none" start_char="4096" end_char="4097">to</TOKEN>
+<TOKEN id="token-41-13" pos="word" morph="none" start_char="4099" end_char="4105">prevent</TOKEN>
+<TOKEN id="token-41-14" pos="word" morph="none" start_char="4107" end_char="4112">spread</TOKEN>
+<TOKEN id="token-41-15" pos="word" morph="none" start_char="4114" end_char="4115">of</TOKEN>
+<TOKEN id="token-41-16" pos="word" morph="none" start_char="4117" end_char="4125">epidemics</TOKEN>
+<TOKEN id="token-41-17" pos="punct" morph="none" start_char="4126" end_char="4126">.</TOKEN>
+</SEG>
+<SEG id="segment-42" start_char="4128" end_char="4218">
+<ORIGINAL_TEXT>4.  A completely organized project of disaster relief coordinated with Nepalese government.</ORIGINAL_TEXT>
+<TOKEN id="token-42-0" pos="word" morph="none" start_char="4128" end_char="4128">4</TOKEN>
+<TOKEN id="token-42-1" pos="punct" morph="none" start_char="4129" end_char="4129">.</TOKEN>
+<TOKEN id="token-42-2" pos="word" morph="none" start_char="4132" end_char="4132">A</TOKEN>
+<TOKEN id="token-42-3" pos="word" morph="none" start_char="4134" end_char="4143">completely</TOKEN>
+<TOKEN id="token-42-4" pos="word" morph="none" start_char="4145" end_char="4153">organized</TOKEN>
+<TOKEN id="token-42-5" pos="word" morph="none" start_char="4155" end_char="4161">project</TOKEN>
+<TOKEN id="token-42-6" pos="word" morph="none" start_char="4163" end_char="4164">of</TOKEN>
+<TOKEN id="token-42-7" pos="word" morph="none" start_char="4166" end_char="4173">disaster</TOKEN>
+<TOKEN id="token-42-8" pos="word" morph="none" start_char="4175" end_char="4180">relief</TOKEN>
+<TOKEN id="token-42-9" pos="word" morph="none" start_char="4182" end_char="4192">coordinated</TOKEN>
+<TOKEN id="token-42-10" pos="word" morph="none" start_char="4194" end_char="4197">with</TOKEN>
+<TOKEN id="token-42-11" pos="word" morph="none" start_char="4199" end_char="4206">Nepalese</TOKEN>
+<TOKEN id="token-42-12" pos="word" morph="none" start_char="4208" end_char="4217">government</TOKEN>
+<TOKEN id="token-42-13" pos="punct" morph="none" start_char="4218" end_char="4218">.</TOKEN>
+</SEG>
+<SEG id="segment-43" start_char="4220" end_char="4407">
+<ORIGINAL_TEXT>5.  All construction equipment for now are to be owned by China, loaned to Nepal, with option for Nepal to pay for them at cost, lease them for future use, or receive as a gift from China.</ORIGINAL_TEXT>
+<TOKEN id="token-43-0" pos="word" morph="none" start_char="4220" end_char="4220">5</TOKEN>
+<TOKEN id="token-43-1" pos="punct" morph="none" start_char="4221" end_char="4221">.</TOKEN>
+<TOKEN id="token-43-2" pos="word" morph="none" start_char="4224" end_char="4226">All</TOKEN>
+<TOKEN id="token-43-3" pos="word" morph="none" start_char="4228" end_char="4239">construction</TOKEN>
+<TOKEN id="token-43-4" pos="word" morph="none" start_char="4241" end_char="4249">equipment</TOKEN>
+<TOKEN id="token-43-5" pos="word" morph="none" start_char="4251" end_char="4253">for</TOKEN>
+<TOKEN id="token-43-6" pos="word" morph="none" start_char="4255" end_char="4257">now</TOKEN>
+<TOKEN id="token-43-7" pos="word" morph="none" start_char="4259" end_char="4261">are</TOKEN>
+<TOKEN id="token-43-8" pos="word" morph="none" start_char="4263" end_char="4264">to</TOKEN>
+<TOKEN id="token-43-9" pos="word" morph="none" start_char="4266" end_char="4267">be</TOKEN>
+<TOKEN id="token-43-10" pos="word" morph="none" start_char="4269" end_char="4273">owned</TOKEN>
+<TOKEN id="token-43-11" pos="word" morph="none" start_char="4275" end_char="4276">by</TOKEN>
+<TOKEN id="token-43-12" pos="word" morph="none" start_char="4278" end_char="4282">China</TOKEN>
+<TOKEN id="token-43-13" pos="punct" morph="none" start_char="4283" end_char="4283">,</TOKEN>
+<TOKEN id="token-43-14" pos="word" morph="none" start_char="4285" end_char="4290">loaned</TOKEN>
+<TOKEN id="token-43-15" pos="word" morph="none" start_char="4292" end_char="4293">to</TOKEN>
+<TOKEN id="token-43-16" pos="word" morph="none" start_char="4295" end_char="4299">Nepal</TOKEN>
+<TOKEN id="token-43-17" pos="punct" morph="none" start_char="4300" end_char="4300">,</TOKEN>
+<TOKEN id="token-43-18" pos="word" morph="none" start_char="4302" end_char="4305">with</TOKEN>
+<TOKEN id="token-43-19" pos="word" morph="none" start_char="4307" end_char="4312">option</TOKEN>
+<TOKEN id="token-43-20" pos="word" morph="none" start_char="4314" end_char="4316">for</TOKEN>
+<TOKEN id="token-43-21" pos="word" morph="none" start_char="4318" end_char="4322">Nepal</TOKEN>
+<TOKEN id="token-43-22" pos="word" morph="none" start_char="4324" end_char="4325">to</TOKEN>
+<TOKEN id="token-43-23" pos="word" morph="none" start_char="4327" end_char="4329">pay</TOKEN>
+<TOKEN id="token-43-24" pos="word" morph="none" start_char="4331" end_char="4333">for</TOKEN>
+<TOKEN id="token-43-25" pos="word" morph="none" start_char="4335" end_char="4338">them</TOKEN>
+<TOKEN id="token-43-26" pos="word" morph="none" start_char="4340" end_char="4341">at</TOKEN>
+<TOKEN id="token-43-27" pos="word" morph="none" start_char="4343" end_char="4346">cost</TOKEN>
+<TOKEN id="token-43-28" pos="punct" morph="none" start_char="4347" end_char="4347">,</TOKEN>
+<TOKEN id="token-43-29" pos="word" morph="none" start_char="4349" end_char="4353">lease</TOKEN>
+<TOKEN id="token-43-30" pos="word" morph="none" start_char="4355" end_char="4358">them</TOKEN>
+<TOKEN id="token-43-31" pos="word" morph="none" start_char="4360" end_char="4362">for</TOKEN>
+<TOKEN id="token-43-32" pos="word" morph="none" start_char="4364" end_char="4369">future</TOKEN>
+<TOKEN id="token-43-33" pos="word" morph="none" start_char="4371" end_char="4373">use</TOKEN>
+<TOKEN id="token-43-34" pos="punct" morph="none" start_char="4374" end_char="4374">,</TOKEN>
+<TOKEN id="token-43-35" pos="word" morph="none" start_char="4376" end_char="4377">or</TOKEN>
+<TOKEN id="token-43-36" pos="word" morph="none" start_char="4379" end_char="4385">receive</TOKEN>
+<TOKEN id="token-43-37" pos="word" morph="none" start_char="4387" end_char="4388">as</TOKEN>
+<TOKEN id="token-43-38" pos="word" morph="none" start_char="4390" end_char="4390">a</TOKEN>
+<TOKEN id="token-43-39" pos="word" morph="none" start_char="4392" end_char="4395">gift</TOKEN>
+<TOKEN id="token-43-40" pos="word" morph="none" start_char="4397" end_char="4400">from</TOKEN>
+<TOKEN id="token-43-41" pos="word" morph="none" start_char="4402" end_char="4406">China</TOKEN>
+<TOKEN id="token-43-42" pos="punct" morph="none" start_char="4407" end_char="4407">.</TOKEN>
+</SEG>
+<SEG id="segment-44" start_char="4409" end_char="4416">
+<ORIGINAL_TEXT>&lt;/quote&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-44-0" pos="unknown" morph="none" start_char="4409" end_char="4416">&lt;/quote&gt;</TOKEN>
+</SEG>
+<SEG id="segment-45" start_char="4418" end_char="4447">
+<ORIGINAL_TEXT>Great natural timing for AIIB!</ORIGINAL_TEXT>
+<TOKEN id="token-45-0" pos="word" morph="none" start_char="4418" end_char="4422">Great</TOKEN>
+<TOKEN id="token-45-1" pos="word" morph="none" start_char="4424" end_char="4430">natural</TOKEN>
+<TOKEN id="token-45-2" pos="word" morph="none" start_char="4432" end_char="4437">timing</TOKEN>
+<TOKEN id="token-45-3" pos="word" morph="none" start_char="4439" end_char="4441">for</TOKEN>
+<TOKEN id="token-45-4" pos="word" morph="none" start_char="4443" end_char="4446">AIIB</TOKEN>
+<TOKEN id="token-45-5" pos="punct" morph="none" start_char="4447" end_char="4447">!</TOKEN>
+</SEG>
+<SEG id="segment-46" start_char="4450" end_char="4478">
+<ORIGINAL_TEXT>Yes, let's pray for the dead.</ORIGINAL_TEXT>
+<TOKEN id="token-46-0" pos="word" morph="none" start_char="4450" end_char="4452">Yes</TOKEN>
+<TOKEN id="token-46-1" pos="punct" morph="none" start_char="4453" end_char="4453">,</TOKEN>
+<TOKEN id="token-46-2" pos="word" morph="none" start_char="4455" end_char="4457">let</TOKEN>
+<TOKEN id="token-46-3" pos="punct" morph="none" start_char="4458" end_char="4458">'</TOKEN>
+<TOKEN id="token-46-4" pos="word" morph="none" start_char="4459" end_char="4459">s</TOKEN>
+<TOKEN id="token-46-5" pos="word" morph="none" start_char="4461" end_char="4464">pray</TOKEN>
+<TOKEN id="token-46-6" pos="word" morph="none" start_char="4466" end_char="4468">for</TOKEN>
+<TOKEN id="token-46-7" pos="word" morph="none" start_char="4470" end_char="4472">the</TOKEN>
+<TOKEN id="token-46-8" pos="word" morph="none" start_char="4474" end_char="4477">dead</TOKEN>
+<TOKEN id="token-46-9" pos="punct" morph="none" start_char="4478" end_char="4478">.</TOKEN>
+</SEG>
+<SEG id="segment-47" start_char="4480" end_char="4486">
+<ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-47-0" pos="unknown" morph="none" start_char="4480" end_char="4486">&lt;/post&gt;</TOKEN>
+</SEG>
+<SEG id="segment-48" start_char="4488" end_char="4548">
+<ORIGINAL_TEXT>&lt;post id="p6" author="dusty1" datetime="2015-04-27T14:37:25"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-48-0" pos="unknown" morph="none" start_char="4488" end_char="4492">&lt;post</TOKEN>
+<TOKEN id="token-48-1" pos="unknown" morph="none" start_char="4494" end_char="4500">id="p6"</TOKEN>
+<TOKEN id="token-48-2" pos="unknown" morph="none" start_char="4502" end_char="4516">author="dusty1"</TOKEN>
+<TOKEN id="token-48-3" pos="unknown" morph="none" start_char="4518" end_char="4548">datetime="2015-04-27T14:37:25"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-49" start_char="4550" end_char="4595">
+<ORIGINAL_TEXT>That all , China could do a hell of a lot more</ORIGINAL_TEXT>
+<TOKEN id="token-49-0" pos="word" morph="none" start_char="4550" end_char="4553">That</TOKEN>
+<TOKEN id="token-49-1" pos="word" morph="none" start_char="4555" end_char="4557">all</TOKEN>
+<TOKEN id="token-49-2" pos="unknown" morph="none" start_char="4559" end_char="4559">,</TOKEN>
+<TOKEN id="token-49-3" pos="word" morph="none" start_char="4561" end_char="4565">China</TOKEN>
+<TOKEN id="token-49-4" pos="word" morph="none" start_char="4567" end_char="4571">could</TOKEN>
+<TOKEN id="token-49-5" pos="word" morph="none" start_char="4573" end_char="4574">do</TOKEN>
+<TOKEN id="token-49-6" pos="word" morph="none" start_char="4576" end_char="4576">a</TOKEN>
+<TOKEN id="token-49-7" pos="word" morph="none" start_char="4578" end_char="4581">hell</TOKEN>
+<TOKEN id="token-49-8" pos="word" morph="none" start_char="4583" end_char="4584">of</TOKEN>
+<TOKEN id="token-49-9" pos="word" morph="none" start_char="4586" end_char="4586">a</TOKEN>
+<TOKEN id="token-49-10" pos="word" morph="none" start_char="4588" end_char="4590">lot</TOKEN>
+<TOKEN id="token-49-11" pos="word" morph="none" start_char="4592" end_char="4595">more</TOKEN>
+</SEG>
+<SEG id="segment-50" start_char="4597" end_char="4603">
+<ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-50-0" pos="unknown" morph="none" start_char="4597" end_char="4603">&lt;/post&gt;</TOKEN>
+</SEG>
+<SEG id="segment-51" start_char="4605" end_char="4665">
+<ORIGINAL_TEXT>&lt;post id="p7" author="dusty1" datetime="2015-04-27T14:37:38"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-51-0" pos="unknown" morph="none" start_char="4605" end_char="4609">&lt;post</TOKEN>
+<TOKEN id="token-51-1" pos="unknown" morph="none" start_char="4611" end_char="4617">id="p7"</TOKEN>
+<TOKEN id="token-51-2" pos="unknown" morph="none" start_char="4619" end_char="4633">author="dusty1"</TOKEN>
+<TOKEN id="token-51-3" pos="unknown" morph="none" start_char="4635" end_char="4665">datetime="2015-04-27T14:37:38"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-52" start_char="4667" end_char="4678">
+<ORIGINAL_TEXT>Filter again</ORIGINAL_TEXT>
+<TOKEN id="token-52-0" pos="word" morph="none" start_char="4667" end_char="4672">Filter</TOKEN>
+<TOKEN id="token-52-1" pos="word" morph="none" start_char="4674" end_char="4678">again</TOKEN>
+</SEG>
+<SEG id="segment-53" start_char="4680" end_char="4686">
+<ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-53-0" pos="unknown" morph="none" start_char="4680" end_char="4686">&lt;/post&gt;</TOKEN>
+</SEG>
+<SEG id="segment-54" start_char="4688" end_char="4693">
+<ORIGINAL_TEXT>&lt;/doc&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-54-0" pos="unknown" morph="none" start_char="4688" end_char="4693">&lt;/doc&gt;</TOKEN>
+</SEG>
+</TEXT>
+</DOC>
+</LCTL_TEXT>

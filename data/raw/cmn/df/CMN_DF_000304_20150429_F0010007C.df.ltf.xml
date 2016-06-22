@@ -1,0 +1,684 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE LCTL_TEXT SYSTEM "ltf.v1.5.dtd">
+<LCTL_TEXT>
+<DOC id="CMN_DF_000304_20150429_F0010007C.df.xml" tokenization="tokenization_parameters" grammar="none" raw_text_char_length="3602" raw_text_md5="d9aac7a414792788dcb8fc38b6875832">
+<TEXT>
+<SEG id="segment-0" start_char="0" end_char="37">
+<ORIGINAL_TEXT>&lt;?xml version="1.0" encoding="utf-8"?&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-0-0" pos="unknown" morph="none" start_char="0" end_char="4">&lt;?xml</TOKEN>
+<TOKEN id="token-0-1" pos="unknown" morph="none" start_char="6" end_char="18">version="1.0"</TOKEN>
+<TOKEN id="token-0-2" pos="unknown" morph="none" start_char="20" end_char="37">encoding="utf-8"?&gt;</TOKEN>
+</SEG>
+<SEG id="segment-1" start_char="39" end_char="81">
+<ORIGINAL_TEXT>&lt;doc id="CMN_DF_000304_20150429_F0010007C"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-1-0" pos="unknown" morph="none" start_char="39" end_char="42">&lt;doc</TOKEN>
+<TOKEN id="token-1-1" pos="unknown" morph="none" start_char="44" end_char="81">id="CMN_DF_000304_20150429_F0010007C"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-2" start_char="83" end_char="92">
+<ORIGINAL_TEXT>&lt;headline&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-2-0" pos="unknown" morph="none" start_char="83" end_char="92">&lt;headline&gt;</TOKEN>
+</SEG>
+<SEG id="segment-3" start_char="94" end_char="116">
+<ORIGINAL_TEXT>尼泊尔地震，中国捐款9.9M，美国捐款10M </ORIGINAL_TEXT>
+<TOKEN id="token-3-0" pos="unknown" morph="none" start_char="94" end_char="115">尼泊尔地震，中国捐款9.9M，美国捐款10M</TOKEN>
+</SEG>
+<SEG id="segment-4" start_char="118" end_char="128">
+<ORIGINAL_TEXT>&lt;/headline&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-4-0" pos="unknown" morph="none" start_char="118" end_char="128">&lt;/headline&gt;</TOKEN>
+</SEG>
+<SEG id="segment-5" start_char="130" end_char="188">
+<ORIGINAL_TEXT>&lt;post id="p1" author="大鼻君 " datetime="2015-04-29T11:57:00"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-5-0" pos="unknown" morph="none" start_char="130" end_char="134">&lt;post</TOKEN>
+<TOKEN id="token-5-1" pos="unknown" morph="none" start_char="136" end_char="142">id="p1"</TOKEN>
+<TOKEN id="token-5-2" pos="unknown" morph="none" start_char="144" end_char="154">author="大鼻君</TOKEN>
+<TOKEN id="token-5-3" pos="unknown" morph="none" start_char="156" end_char="156">"</TOKEN>
+<TOKEN id="token-5-4" pos="unknown" morph="none" start_char="158" end_char="188">datetime="2015-04-29T11:57:00"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-6" start_char="190" end_char="275">
+<ORIGINAL_TEXT>看wiki对尼泊尔地震的描述时无意中看到的（source: http://en.wikipedia.org/wiki/2015_Nepal_earthquake)&amp;#13;</ORIGINAL_TEXT>
+<TOKEN id="token-6-0" pos="word" morph="none" start_char="190" end_char="210">看wiki对尼泊尔地震的描述时无意中看到的</TOKEN>
+<TOKEN id="token-6-1" pos="punct" morph="none" start_char="211" end_char="211">（</TOKEN>
+<TOKEN id="token-6-2" pos="word" morph="none" start_char="212" end_char="217">source</TOKEN>
+<TOKEN id="token-6-3" pos="punct" morph="none" start_char="218" end_char="218">:</TOKEN>
+<TOKEN id="token-6-4" pos="url" morph="none" start_char="220" end_char="275">http://en.wikipedia.org/wiki/2015_Nepal_earthquake)&amp;#13;</TOKEN>
+</SEG>
+<SEG id="segment-7" start_char="277" end_char="281">
+<ORIGINAL_TEXT>&amp;#13;</ORIGINAL_TEXT>
+<TOKEN id="token-7-0" pos="punct" morph="none" start_char="277" end_char="278">&amp;#</TOKEN>
+<TOKEN id="token-7-1" pos="word" morph="none" start_char="279" end_char="280">13</TOKEN>
+<TOKEN id="token-7-2" pos="punct" morph="none" start_char="281" end_char="281">;</TOKEN>
+</SEG>
+<SEG id="segment-8" start_char="283" end_char="385">
+<ORIGINAL_TEXT>在wiki的最后列有一张表格记录主要国家对尼泊尔的捐款，领衔的两个国家，中国捐了990万美金，美国捐了1000万美金。最开始我只是好奇中国为什么不凑个整数，后来找到对比后才发现这个耐人寻味的结果。&amp;#13;</ORIGINAL_TEXT>
+<TOKEN id="token-8-0" pos="unknown" morph="none" start_char="283" end_char="385">在wiki的最后列有一张表格记录主要国家对尼泊尔的捐款，领衔的两个国家，中国捐了990万美金，美国捐了1000万美金。最开始我只是好奇中国为什么不凑个整数，后来找到对比后才发现这个耐人寻味的结果。&amp;#13;</TOKEN>
+</SEG>
+<SEG id="segment-9" start_char="387" end_char="391">
+<ORIGINAL_TEXT>&amp;#13;</ORIGINAL_TEXT>
+<TOKEN id="token-9-0" pos="punct" morph="none" start_char="387" end_char="388">&amp;#</TOKEN>
+<TOKEN id="token-9-1" pos="word" morph="none" start_char="389" end_char="390">13</TOKEN>
+<TOKEN id="token-9-2" pos="punct" morph="none" start_char="391" end_char="391">;</TOKEN>
+</SEG>
+<SEG id="segment-10" start_char="393" end_char="444">
+<ORIGINAL_TEXT>看到回复中很多人在比较多与少。我个人发帖的出发点是，这不是一种攀比，更像是中国的一种低调示弱。&amp;#13;</ORIGINAL_TEXT>
+<TOKEN id="token-10-0" pos="unknown" morph="none" start_char="393" end_char="444">看到回复中很多人在比较多与少。我个人发帖的出发点是，这不是一种攀比，更像是中国的一种低调示弱。&amp;#13;</TOKEN>
+</SEG>
+<SEG id="segment-11" start_char="446" end_char="450">
+<ORIGINAL_TEXT>&amp;#13;</ORIGINAL_TEXT>
+<TOKEN id="token-11-0" pos="punct" morph="none" start_char="446" end_char="447">&amp;#</TOKEN>
+<TOKEN id="token-11-1" pos="word" morph="none" start_char="448" end_char="449">13</TOKEN>
+<TOKEN id="token-11-2" pos="punct" morph="none" start_char="450" end_char="450">;</TOKEN>
+</SEG>
+<SEG id="segment-12" start_char="452" end_char="490">
+<ORIGINAL_TEXT>我不是阴谋论者，也不是歧华媚洋者。只是列举下数据。希望不要引起嘴炮。&amp;#13;</ORIGINAL_TEXT>
+<TOKEN id="token-12-0" pos="unknown" morph="none" start_char="452" end_char="490">我不是阴谋论者，也不是歧华媚洋者。只是列举下数据。希望不要引起嘴炮。&amp;#13;</TOKEN>
+</SEG>
+<SEG id="segment-13" start_char="492" end_char="496">
+<ORIGINAL_TEXT>&amp;#13;</ORIGINAL_TEXT>
+<TOKEN id="token-13-0" pos="punct" morph="none" start_char="492" end_char="493">&amp;#</TOKEN>
+<TOKEN id="token-13-1" pos="word" morph="none" start_char="494" end_char="495">13</TOKEN>
+<TOKEN id="token-13-2" pos="punct" morph="none" start_char="496" end_char="496">;</TOKEN>
+</SEG>
+<SEG id="segment-14" start_char="498" end_char="542">
+<ORIGINAL_TEXT>另愿逝者安息。BTW，我很反感这个时候开始反思没有早点去尼泊尔旅游的伪文艺青年。&amp;#13;</ORIGINAL_TEXT>
+<TOKEN id="token-14-0" pos="unknown" morph="none" start_char="498" end_char="542">另愿逝者安息。BTW，我很反感这个时候开始反思没有早点去尼泊尔旅游的伪文艺青年。&amp;#13;</TOKEN>
+</SEG>
+<SEG id="segment-15" start_char="544" end_char="548">
+<ORIGINAL_TEXT>&amp;#13;</ORIGINAL_TEXT>
+<TOKEN id="token-15-0" pos="punct" morph="none" start_char="544" end_char="545">&amp;#</TOKEN>
+<TOKEN id="token-15-1" pos="word" morph="none" start_char="546" end_char="547">13</TOKEN>
+<TOKEN id="token-15-2" pos="punct" morph="none" start_char="548" end_char="548">;</TOKEN>
+</SEG>
+<SEG id="segment-16" start_char="550" end_char="562">
+<ORIGINAL_TEXT>附上数据来源，照顾下大家。</ORIGINAL_TEXT>
+<TOKEN id="token-16-0" pos="word" morph="none" start_char="550" end_char="555">附上数据来源</TOKEN>
+<TOKEN id="token-16-1" pos="punct" morph="none" start_char="556" end_char="556">，</TOKEN>
+<TOKEN id="token-16-2" pos="word" morph="none" start_char="557" end_char="561">照顾下大家</TOKEN>
+<TOKEN id="token-16-3" pos="punct" morph="none" start_char="562" end_char="562">。</TOKEN>
+</SEG>
+<SEG id="segment-17" start_char="564" end_char="570">
+<ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-17-0" pos="unknown" morph="none" start_char="564" end_char="570">&lt;/post&gt;</TOKEN>
+</SEG>
+<SEG id="segment-18" start_char="572" end_char="631">
+<ORIGINAL_TEXT>&lt;post id="p2" author="挚爱北伦敦" datetime="2015-04-29T13:21:00"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-18-0" pos="unknown" morph="none" start_char="572" end_char="576">&lt;post</TOKEN>
+<TOKEN id="token-18-1" pos="unknown" morph="none" start_char="578" end_char="584">id="p2"</TOKEN>
+<TOKEN id="token-18-2" pos="unknown" morph="none" start_char="586" end_char="599">author="挚爱北伦敦"</TOKEN>
+<TOKEN id="token-18-3" pos="unknown" morph="none" start_char="601" end_char="631">datetime="2015-04-29T13:21:00"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-19" start_char="633" end_char="671">
+<ORIGINAL_TEXT>中国政府捐了2000万RMB 美国政府是100万美元 楼主别误导人 &amp;#13;</ORIGINAL_TEXT>
+<TOKEN id="token-19-0" pos="word" morph="none" start_char="633" end_char="646">中国政府捐了2000万RMB</TOKEN>
+<TOKEN id="token-19-1" pos="word" morph="none" start_char="648" end_char="658">美国政府是100万美元</TOKEN>
+<TOKEN id="token-19-2" pos="word" morph="none" start_char="660" end_char="665">楼主别误导人</TOKEN>
+<TOKEN id="token-19-3" pos="punct" morph="none" start_char="667" end_char="668">&amp;#</TOKEN>
+<TOKEN id="token-19-4" pos="word" morph="none" start_char="669" end_char="670">13</TOKEN>
+<TOKEN id="token-19-5" pos="punct" morph="none" start_char="671" end_char="671">;</TOKEN>
+</SEG>
+<SEG id="segment-20" start_char="674" end_char="777">
+<ORIGINAL_TEXT>不知道楼主这来源从哪里来的？反正我看的各种新闻 包括央视新闻都是中国2000万 美国最先捐的100万美元 还被各种网友调戏 所以我印象很深。ps 楼主有jr指出来了，中国不止2000万 后来又给了4000万 </ORIGINAL_TEXT>
+<TOKEN id="token-20-0" pos="word" morph="none" start_char="674" end_char="686">不知道楼主这来源从哪里来的</TOKEN>
+<TOKEN id="token-20-1" pos="punct" morph="none" start_char="687" end_char="687">？</TOKEN>
+<TOKEN id="token-20-2" pos="word" morph="none" start_char="688" end_char="696">反正我看的各种新闻</TOKEN>
+<TOKEN id="token-20-3" pos="word" morph="none" start_char="698" end_char="712">包括央视新闻都是中国2000万</TOKEN>
+<TOKEN id="token-20-4" pos="word" morph="none" start_char="714" end_char="725">美国最先捐的100万美元</TOKEN>
+<TOKEN id="token-20-5" pos="word" morph="none" start_char="727" end_char="734">还被各种网友调戏</TOKEN>
+<TOKEN id="token-20-6" pos="word" morph="none" start_char="736" end_char="742">所以我印象很深</TOKEN>
+<TOKEN id="token-20-7" pos="punct" morph="none" start_char="743" end_char="743">。</TOKEN>
+<TOKEN id="token-20-8" pos="word" morph="none" start_char="744" end_char="745">ps</TOKEN>
+<TOKEN id="token-20-9" pos="word" morph="none" start_char="747" end_char="755">楼主有jr指出来了</TOKEN>
+<TOKEN id="token-20-10" pos="punct" morph="none" start_char="756" end_char="756">，</TOKEN>
+<TOKEN id="token-20-11" pos="word" morph="none" start_char="757" end_char="765">中国不止2000万</TOKEN>
+<TOKEN id="token-20-12" pos="word" morph="none" start_char="767" end_char="776">后来又给了4000万</TOKEN>
+</SEG>
+<SEG id="segment-21" start_char="779" end_char="785">
+<ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-21-0" pos="unknown" morph="none" start_char="779" end_char="785">&lt;/post&gt;</TOKEN>
+</SEG>
+<SEG id="segment-22" start_char="787" end_char="845">
+<ORIGINAL_TEXT>&lt;post id="p3" author="大鼻君 " datetime="2015-04-29T12:21:00"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-22-0" pos="unknown" morph="none" start_char="787" end_char="791">&lt;post</TOKEN>
+<TOKEN id="token-22-1" pos="unknown" morph="none" start_char="793" end_char="799">id="p3"</TOKEN>
+<TOKEN id="token-22-2" pos="unknown" morph="none" start_char="801" end_char="811">author="大鼻君</TOKEN>
+<TOKEN id="token-22-3" pos="unknown" morph="none" start_char="813" end_char="813">"</TOKEN>
+<TOKEN id="token-22-4" pos="unknown" morph="none" start_char="815" end_char="845">datetime="2015-04-29T12:21:00"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-23" start_char="847" end_char="864">
+<ORIGINAL_TEXT>我出处都贴了，你质疑的时候好歹看一下</ORIGINAL_TEXT>
+<TOKEN id="token-23-0" pos="word" morph="none" start_char="847" end_char="852">我出处都贴了</TOKEN>
+<TOKEN id="token-23-1" pos="punct" morph="none" start_char="853" end_char="853">，</TOKEN>
+<TOKEN id="token-23-2" pos="word" morph="none" start_char="854" end_char="864">你质疑的时候好歹看一下</TOKEN>
+</SEG>
+<SEG id="segment-24" start_char="866" end_char="872">
+<ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-24-0" pos="unknown" morph="none" start_char="866" end_char="872">&lt;/post&gt;</TOKEN>
+</SEG>
+<SEG id="segment-25" start_char="874" end_char="933">
+<ORIGINAL_TEXT>&lt;post id="p4" author="挚爱北伦敦" datetime="2015-04-29T12:39:00"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-25-0" pos="unknown" morph="none" start_char="874" end_char="878">&lt;post</TOKEN>
+<TOKEN id="token-25-1" pos="unknown" morph="none" start_char="880" end_char="886">id="p4"</TOKEN>
+<TOKEN id="token-25-2" pos="unknown" morph="none" start_char="888" end_char="901">author="挚爱北伦敦"</TOKEN>
+<TOKEN id="token-25-3" pos="unknown" morph="none" start_char="903" end_char="933">datetime="2015-04-29T12:39:00"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-26" start_char="935" end_char="960">
+<ORIGINAL_TEXT>&lt;quote orig_author="大鼻君 "&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-26-0" pos="unknown" morph="none" start_char="935" end_char="940">&lt;quote</TOKEN>
+<TOKEN id="token-26-1" pos="unknown" morph="none" start_char="942" end_char="957">orig_author="大鼻君</TOKEN>
+<TOKEN id="token-26-2" pos="unknown" morph="none" start_char="959" end_char="960">"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-27" start_char="962" end_char="979">
+<ORIGINAL_TEXT>我出处都贴了，你质疑的时候好歹看一下</ORIGINAL_TEXT>
+<TOKEN id="token-27-0" pos="word" morph="none" start_char="962" end_char="967">我出处都贴了</TOKEN>
+<TOKEN id="token-27-1" pos="punct" morph="none" start_char="968" end_char="968">，</TOKEN>
+<TOKEN id="token-27-2" pos="word" morph="none" start_char="969" end_char="979">你质疑的时候好歹看一下</TOKEN>
+</SEG>
+<SEG id="segment-28" start_char="981" end_char="988">
+<ORIGINAL_TEXT>&lt;/quote&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-28-0" pos="unknown" morph="none" start_char="981" end_char="988">&lt;/quote&gt;</TOKEN>
+</SEG>
+<SEG id="segment-29" start_char="990" end_char="1065">
+<ORIGINAL_TEXT>干货反正我上了&amp;lt;img src="http://b1.hoopchina.com.cn/post/smile/icon_read.gif"&amp;gt;</ORIGINAL_TEXT>
+<TOKEN id="token-29-0" pos="unknown" morph="none" start_char="990" end_char="1003">干货反正我上了&amp;lt;img</TOKEN>
+<TOKEN id="token-29-1" pos="unknown" morph="none" start_char="1005" end_char="1065">src="http://b1.hoopchina.com.cn/post/smile/icon_read.gif"&amp;gt;</TOKEN>
+</SEG>
+<SEG id="segment-30" start_char="1067" end_char="1073">
+<ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-30-0" pos="unknown" morph="none" start_char="1067" end_char="1073">&lt;/post&gt;</TOKEN>
+</SEG>
+<SEG id="segment-31" start_char="1075" end_char="1134">
+<ORIGINAL_TEXT>&lt;post id="p5" author="挚爱北伦敦" datetime="2015-04-29T12:30:00"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-31-0" pos="unknown" morph="none" start_char="1075" end_char="1079">&lt;post</TOKEN>
+<TOKEN id="token-31-1" pos="unknown" morph="none" start_char="1081" end_char="1087">id="p5"</TOKEN>
+<TOKEN id="token-31-2" pos="unknown" morph="none" start_char="1089" end_char="1102">author="挚爱北伦敦"</TOKEN>
+<TOKEN id="token-31-3" pos="unknown" morph="none" start_char="1104" end_char="1134">datetime="2015-04-29T12:30:00"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-32" start_char="1136" end_char="1238">
+<ORIGINAL_TEXT>images&amp;lt;img src="http://i1.hoopchina.com.cn/blogfile/201504/29/BbsImg143026743376016_240*140.gif"&amp;gt;</ORIGINAL_TEXT>
+<TOKEN id="token-32-0" pos="unknown" morph="none" start_char="1136" end_char="1148">images&amp;lt;img</TOKEN>
+<TOKEN id="token-32-1" pos="unknown" morph="none" start_char="1150" end_char="1238">src="http://i1.hoopchina.com.cn/blogfile/201504/29/BbsImg143026743376016_240*140.gif"&amp;gt;</TOKEN>
+</SEG>
+<SEG id="segment-33" start_char="1240" end_char="1246">
+<ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-33-0" pos="unknown" morph="none" start_char="1240" end_char="1246">&lt;/post&gt;</TOKEN>
+</SEG>
+<SEG id="segment-34" start_char="1248" end_char="1305">
+<ORIGINAL_TEXT>&lt;post id="p6" author="斯哥 " datetime="2015-04-29T11:51:00"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-34-0" pos="unknown" morph="none" start_char="1248" end_char="1252">&lt;post</TOKEN>
+<TOKEN id="token-34-1" pos="unknown" morph="none" start_char="1254" end_char="1260">id="p6"</TOKEN>
+<TOKEN id="token-34-2" pos="unknown" morph="none" start_char="1262" end_char="1271">author="斯哥</TOKEN>
+<TOKEN id="token-34-3" pos="unknown" morph="none" start_char="1273" end_char="1273">"</TOKEN>
+<TOKEN id="token-34-4" pos="unknown" morph="none" start_char="1275" end_char="1305">datetime="2015-04-29T11:51:00"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-35" start_char="1307" end_char="1325">
+<ORIGINAL_TEXT>捐款攀比数字居然闹到了国际上&amp;#13;</ORIGINAL_TEXT>
+<TOKEN id="token-35-0" pos="word" morph="none" start_char="1307" end_char="1320">捐款攀比数字居然闹到了国际上</TOKEN>
+<TOKEN id="token-35-1" pos="punct" morph="none" start_char="1321" end_char="1322">&amp;#</TOKEN>
+<TOKEN id="token-35-2" pos="word" morph="none" start_char="1323" end_char="1324">13</TOKEN>
+<TOKEN id="token-35-3" pos="punct" morph="none" start_char="1325" end_char="1325">;</TOKEN>
+</SEG>
+<SEG id="segment-36" start_char="1328" end_char="1329">
+<ORIGINAL_TEXT>奇葩</ORIGINAL_TEXT>
+<TOKEN id="token-36-0" pos="word" morph="none" start_char="1328" end_char="1329">奇葩</TOKEN>
+</SEG>
+<SEG id="segment-37" start_char="1331" end_char="1337">
+<ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-37-0" pos="unknown" morph="none" start_char="1331" end_char="1337">&lt;/post&gt;</TOKEN>
+</SEG>
+<SEG id="segment-38" start_char="1339" end_char="1398">
+<ORIGINAL_TEXT>&lt;post id="p7" author="可乐江湖 " datetime="2015-04-29T11:48:00"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-38-0" pos="unknown" morph="none" start_char="1339" end_char="1343">&lt;post</TOKEN>
+<TOKEN id="token-38-1" pos="unknown" morph="none" start_char="1345" end_char="1351">id="p7"</TOKEN>
+<TOKEN id="token-38-2" pos="unknown" morph="none" start_char="1353" end_char="1364">author="可乐江湖</TOKEN>
+<TOKEN id="token-38-3" pos="unknown" morph="none" start_char="1366" end_char="1366">"</TOKEN>
+<TOKEN id="token-38-4" pos="unknown" morph="none" start_char="1368" end_char="1398">datetime="2015-04-29T11:48:00"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-39" start_char="1400" end_char="1416">
+<ORIGINAL_TEXT>990万象征中尼两国友谊长长久久！</ORIGINAL_TEXT>
+<TOKEN id="token-39-0" pos="word" morph="none" start_char="1400" end_char="1415">990万象征中尼两国友谊长长久久</TOKEN>
+<TOKEN id="token-39-1" pos="punct" morph="none" start_char="1416" end_char="1416">！</TOKEN>
+</SEG>
+<SEG id="segment-40" start_char="1418" end_char="1424">
+<ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-40-0" pos="unknown" morph="none" start_char="1418" end_char="1424">&lt;/post&gt;</TOKEN>
+</SEG>
+<SEG id="segment-41" start_char="1426" end_char="1484">
+<ORIGINAL_TEXT>&lt;post id="p8" author="大鼻君 " datetime="2015-04-29T11:51:00"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-41-0" pos="unknown" morph="none" start_char="1426" end_char="1430">&lt;post</TOKEN>
+<TOKEN id="token-41-1" pos="unknown" morph="none" start_char="1432" end_char="1438">id="p8"</TOKEN>
+<TOKEN id="token-41-2" pos="unknown" morph="none" start_char="1440" end_char="1450">author="大鼻君</TOKEN>
+<TOKEN id="token-41-3" pos="unknown" morph="none" start_char="1452" end_char="1452">"</TOKEN>
+<TOKEN id="token-41-4" pos="unknown" morph="none" start_char="1454" end_char="1484">datetime="2015-04-29T11:51:00"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-42" start_char="1486" end_char="1506">
+<ORIGINAL_TEXT>我想这不是攀比，更像是中国的一种低调示弱。</ORIGINAL_TEXT>
+<TOKEN id="token-42-0" pos="word" morph="none" start_char="1486" end_char="1492">我想这不是攀比</TOKEN>
+<TOKEN id="token-42-1" pos="punct" morph="none" start_char="1493" end_char="1493">，</TOKEN>
+<TOKEN id="token-42-2" pos="word" morph="none" start_char="1494" end_char="1505">更像是中国的一种低调示弱</TOKEN>
+<TOKEN id="token-42-3" pos="punct" morph="none" start_char="1506" end_char="1506">。</TOKEN>
+</SEG>
+<SEG id="segment-43" start_char="1508" end_char="1514">
+<ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-43-0" pos="unknown" morph="none" start_char="1508" end_char="1514">&lt;/post&gt;</TOKEN>
+</SEG>
+<SEG id="segment-44" start_char="1516" end_char="1576">
+<ORIGINAL_TEXT>&lt;post id="p9" author="cux47 " datetime="2015-04-29T11:46:00"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-44-0" pos="unknown" morph="none" start_char="1516" end_char="1520">&lt;post</TOKEN>
+<TOKEN id="token-44-1" pos="unknown" morph="none" start_char="1522" end_char="1528">id="p9"</TOKEN>
+<TOKEN id="token-44-2" pos="unknown" morph="none" start_char="1530" end_char="1542">author="cux47</TOKEN>
+<TOKEN id="token-44-3" pos="unknown" morph="none" start_char="1544" end_char="1544">"</TOKEN>
+<TOKEN id="token-44-4" pos="unknown" morph="none" start_char="1546" end_char="1576">datetime="2015-04-29T11:46:00"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-45" start_char="1578" end_char="1582">
+<ORIGINAL_TEXT>师母一呆 </ORIGINAL_TEXT>
+<TOKEN id="token-45-0" pos="word" morph="none" start_char="1578" end_char="1581">师母一呆</TOKEN>
+</SEG>
+<SEG id="segment-46" start_char="1584" end_char="1590">
+<ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-46-0" pos="unknown" morph="none" start_char="1584" end_char="1590">&lt;/post&gt;</TOKEN>
+</SEG>
+<SEG id="segment-47" start_char="1592" end_char="1652">
+<ORIGINAL_TEXT>&lt;post id="p10" author="可乐江湖 " datetime="2015-04-29T11:48:00"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-47-0" pos="unknown" morph="none" start_char="1592" end_char="1596">&lt;post</TOKEN>
+<TOKEN id="token-47-1" pos="unknown" morph="none" start_char="1598" end_char="1605">id="p10"</TOKEN>
+<TOKEN id="token-47-2" pos="unknown" morph="none" start_char="1607" end_char="1618">author="可乐江湖</TOKEN>
+<TOKEN id="token-47-3" pos="unknown" morph="none" start_char="1620" end_char="1620">"</TOKEN>
+<TOKEN id="token-47-4" pos="unknown" morph="none" start_char="1622" end_char="1652">datetime="2015-04-29T11:48:00"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-48" start_char="1654" end_char="1670">
+<ORIGINAL_TEXT>990万象征中尼两国友谊长长久久！</ORIGINAL_TEXT>
+<TOKEN id="token-48-0" pos="word" morph="none" start_char="1654" end_char="1669">990万象征中尼两国友谊长长久久</TOKEN>
+<TOKEN id="token-48-1" pos="punct" morph="none" start_char="1670" end_char="1670">！</TOKEN>
+</SEG>
+<SEG id="segment-49" start_char="1672" end_char="1678">
+<ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-49-0" pos="unknown" morph="none" start_char="1672" end_char="1678">&lt;/post&gt;</TOKEN>
+</SEG>
+<SEG id="segment-50" start_char="1680" end_char="1743">
+<ORIGINAL_TEXT>&lt;post id="p11" author="DFPlayer" datetime="2015-04-29T11:49:00"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-50-0" pos="unknown" morph="none" start_char="1680" end_char="1684">&lt;post</TOKEN>
+<TOKEN id="token-50-1" pos="unknown" morph="none" start_char="1686" end_char="1693">id="p11"</TOKEN>
+<TOKEN id="token-50-2" pos="unknown" morph="none" start_char="1695" end_char="1711">author="DFPlayer"</TOKEN>
+<TOKEN id="token-50-3" pos="unknown" morph="none" start_char="1713" end_char="1743">datetime="2015-04-29T11:49:00"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-51" start_char="1745" end_char="1776">
+<ORIGINAL_TEXT>又想起当时闹黄岩岛的时候中国给菲律宾人道主义援助一万美金的事情了</ORIGINAL_TEXT>
+<TOKEN id="token-51-0" pos="word" morph="none" start_char="1745" end_char="1776">又想起当时闹黄岩岛的时候中国给菲律宾人道主义援助一万美金的事情了</TOKEN>
+</SEG>
+<SEG id="segment-52" start_char="1778" end_char="1784">
+<ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-52-0" pos="unknown" morph="none" start_char="1778" end_char="1784">&lt;/post&gt;</TOKEN>
+</SEG>
+<SEG id="segment-53" start_char="1786" end_char="1849">
+<ORIGINAL_TEXT>&lt;post id="p12" author="qww1234 " datetime="2015-04-29T11:50:00"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-53-0" pos="unknown" morph="none" start_char="1786" end_char="1790">&lt;post</TOKEN>
+<TOKEN id="token-53-1" pos="unknown" morph="none" start_char="1792" end_char="1799">id="p12"</TOKEN>
+<TOKEN id="token-53-2" pos="unknown" morph="none" start_char="1801" end_char="1815">author="qww1234</TOKEN>
+<TOKEN id="token-53-3" pos="unknown" morph="none" start_char="1817" end_char="1817">"</TOKEN>
+<TOKEN id="token-53-4" pos="unknown" morph="none" start_char="1819" end_char="1849">datetime="2015-04-29T11:50:00"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-54" start_char="1851" end_char="1877">
+<ORIGINAL_TEXT>&lt;quote orig_author="可乐江湖 "&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-54-0" pos="unknown" morph="none" start_char="1851" end_char="1856">&lt;quote</TOKEN>
+<TOKEN id="token-54-1" pos="unknown" morph="none" start_char="1858" end_char="1874">orig_author="可乐江湖</TOKEN>
+<TOKEN id="token-54-2" pos="unknown" morph="none" start_char="1876" end_char="1877">"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-55" start_char="1879" end_char="1895">
+<ORIGINAL_TEXT>990万象征中尼两国友谊长长久久！</ORIGINAL_TEXT>
+<TOKEN id="token-55-0" pos="word" morph="none" start_char="1879" end_char="1894">990万象征中尼两国友谊长长久久</TOKEN>
+<TOKEN id="token-55-1" pos="punct" morph="none" start_char="1895" end_char="1895">！</TOKEN>
+</SEG>
+<SEG id="segment-56" start_char="1897" end_char="1904">
+<ORIGINAL_TEXT>&lt;/quote&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-56-0" pos="unknown" morph="none" start_char="1897" end_char="1904">&lt;/quote&gt;</TOKEN>
+</SEG>
+<SEG id="segment-57" start_char="1906" end_char="1911">
+<ORIGINAL_TEXT>这可是好寓意</ORIGINAL_TEXT>
+<TOKEN id="token-57-0" pos="word" morph="none" start_char="1906" end_char="1911">这可是好寓意</TOKEN>
+</SEG>
+<SEG id="segment-58" start_char="1913" end_char="1919">
+<ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-58-0" pos="unknown" morph="none" start_char="1913" end_char="1919">&lt;/post&gt;</TOKEN>
+</SEG>
+<SEG id="segment-59" start_char="1921" end_char="1983">
+<ORIGINAL_TEXT>&lt;post id="p13" author="湖北师范学院 " datetime="2015-04-29T11:50:00"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-59-0" pos="unknown" morph="none" start_char="1921" end_char="1925">&lt;post</TOKEN>
+<TOKEN id="token-59-1" pos="unknown" morph="none" start_char="1927" end_char="1934">id="p13"</TOKEN>
+<TOKEN id="token-59-2" pos="unknown" morph="none" start_char="1936" end_char="1949">author="湖北师范学院</TOKEN>
+<TOKEN id="token-59-3" pos="unknown" morph="none" start_char="1951" end_char="1951">"</TOKEN>
+<TOKEN id="token-59-4" pos="unknown" morph="none" start_char="1953" end_char="1983">datetime="2015-04-29T11:50:00"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-60" start_char="1985" end_char="1996">
+<ORIGINAL_TEXT>美帝这是要跟我们刚正面啊</ORIGINAL_TEXT>
+<TOKEN id="token-60-0" pos="word" morph="none" start_char="1985" end_char="1996">美帝这是要跟我们刚正面啊</TOKEN>
+</SEG>
+<SEG id="segment-61" start_char="1998" end_char="2004">
+<ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-61-0" pos="unknown" morph="none" start_char="1998" end_char="2004">&lt;/post&gt;</TOKEN>
+</SEG>
+<SEG id="segment-62" start_char="2006" end_char="2064">
+<ORIGINAL_TEXT>&lt;post id="p14" author="斯哥 " datetime="2015-04-29T11:51:00"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-62-0" pos="unknown" morph="none" start_char="2006" end_char="2010">&lt;post</TOKEN>
+<TOKEN id="token-62-1" pos="unknown" morph="none" start_char="2012" end_char="2019">id="p14"</TOKEN>
+<TOKEN id="token-62-2" pos="unknown" morph="none" start_char="2021" end_char="2030">author="斯哥</TOKEN>
+<TOKEN id="token-62-3" pos="unknown" morph="none" start_char="2032" end_char="2032">"</TOKEN>
+<TOKEN id="token-62-4" pos="unknown" morph="none" start_char="2034" end_char="2064">datetime="2015-04-29T11:51:00"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-63" start_char="2066" end_char="2084">
+<ORIGINAL_TEXT>捐款攀比数字居然闹到了国际上&amp;#13;</ORIGINAL_TEXT>
+<TOKEN id="token-63-0" pos="word" morph="none" start_char="2066" end_char="2079">捐款攀比数字居然闹到了国际上</TOKEN>
+<TOKEN id="token-63-1" pos="punct" morph="none" start_char="2080" end_char="2081">&amp;#</TOKEN>
+<TOKEN id="token-63-2" pos="word" morph="none" start_char="2082" end_char="2083">13</TOKEN>
+<TOKEN id="token-63-3" pos="punct" morph="none" start_char="2084" end_char="2084">;</TOKEN>
+</SEG>
+<SEG id="segment-64" start_char="2087" end_char="2088">
+<ORIGINAL_TEXT>奇葩</ORIGINAL_TEXT>
+<TOKEN id="token-64-0" pos="word" morph="none" start_char="2087" end_char="2088">奇葩</TOKEN>
+</SEG>
+<SEG id="segment-65" start_char="2090" end_char="2096">
+<ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-65-0" pos="unknown" morph="none" start_char="2090" end_char="2096">&lt;/post&gt;</TOKEN>
+</SEG>
+<SEG id="segment-66" start_char="2098" end_char="2157">
+<ORIGINAL_TEXT>&lt;post id="p15" author="大鼻君 " datetime="2015-04-29T11:51:00"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-66-0" pos="unknown" morph="none" start_char="2098" end_char="2102">&lt;post</TOKEN>
+<TOKEN id="token-66-1" pos="unknown" morph="none" start_char="2104" end_char="2111">id="p15"</TOKEN>
+<TOKEN id="token-66-2" pos="unknown" morph="none" start_char="2113" end_char="2123">author="大鼻君</TOKEN>
+<TOKEN id="token-66-3" pos="unknown" morph="none" start_char="2125" end_char="2125">"</TOKEN>
+<TOKEN id="token-66-4" pos="unknown" morph="none" start_char="2127" end_char="2157">datetime="2015-04-29T11:51:00"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-67" start_char="2159" end_char="2179">
+<ORIGINAL_TEXT>我想这不是攀比，更像是中国的一种低调示弱。</ORIGINAL_TEXT>
+<TOKEN id="token-67-0" pos="word" morph="none" start_char="2159" end_char="2165">我想这不是攀比</TOKEN>
+<TOKEN id="token-67-1" pos="punct" morph="none" start_char="2166" end_char="2166">，</TOKEN>
+<TOKEN id="token-67-2" pos="word" morph="none" start_char="2167" end_char="2178">更像是中国的一种低调示弱</TOKEN>
+<TOKEN id="token-67-3" pos="punct" morph="none" start_char="2179" end_char="2179">。</TOKEN>
+</SEG>
+<SEG id="segment-68" start_char="2181" end_char="2187">
+<ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-68-0" pos="unknown" morph="none" start_char="2181" end_char="2187">&lt;/post&gt;</TOKEN>
+</SEG>
+<SEG id="segment-69" start_char="2189" end_char="2249">
+<ORIGINAL_TEXT>&lt;post id="p16" author="我咬过伊万" datetime="2015-04-29T11:52:00"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-69-0" pos="unknown" morph="none" start_char="2189" end_char="2193">&lt;post</TOKEN>
+<TOKEN id="token-69-1" pos="unknown" morph="none" start_char="2195" end_char="2202">id="p16"</TOKEN>
+<TOKEN id="token-69-2" pos="unknown" morph="none" start_char="2204" end_char="2217">author="我咬过伊万"</TOKEN>
+<TOKEN id="token-69-3" pos="unknown" morph="none" start_char="2219" end_char="2249">datetime="2015-04-29T11:52:00"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-70" start_char="2251" end_char="2270">
+<ORIGINAL_TEXT>美帝能捐6500万美元才能说捐的比天朝多</ORIGINAL_TEXT>
+<TOKEN id="token-70-0" pos="word" morph="none" start_char="2251" end_char="2270">美帝能捐6500万美元才能说捐的比天朝多</TOKEN>
+</SEG>
+<SEG id="segment-71" start_char="2272" end_char="2278">
+<ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-71-0" pos="unknown" morph="none" start_char="2272" end_char="2278">&lt;/post&gt;</TOKEN>
+</SEG>
+<SEG id="segment-72" start_char="2280" end_char="2346">
+<ORIGINAL_TEXT>&lt;post id="p17" author="DamianWayne" datetime="2015-04-29T11:54:00"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-72-0" pos="unknown" morph="none" start_char="2280" end_char="2284">&lt;post</TOKEN>
+<TOKEN id="token-72-1" pos="unknown" morph="none" start_char="2286" end_char="2293">id="p17"</TOKEN>
+<TOKEN id="token-72-2" pos="unknown" morph="none" start_char="2295" end_char="2314">author="DamianWayne"</TOKEN>
+<TOKEN id="token-72-3" pos="unknown" morph="none" start_char="2316" end_char="2346">datetime="2015-04-29T11:54:00"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-73" start_char="2348" end_char="2375">
+<ORIGINAL_TEXT>lz，你发这个帖子估计会有不少人连捐款明细是哪个都找不到</ORIGINAL_TEXT>
+<TOKEN id="token-73-0" pos="word" morph="none" start_char="2348" end_char="2349">lz</TOKEN>
+<TOKEN id="token-73-1" pos="punct" morph="none" start_char="2350" end_char="2350">，</TOKEN>
+<TOKEN id="token-73-2" pos="word" morph="none" start_char="2351" end_char="2375">你发这个帖子估计会有不少人连捐款明细是哪个都找不到</TOKEN>
+</SEG>
+<SEG id="segment-74" start_char="2377" end_char="2383">
+<ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-74-0" pos="unknown" morph="none" start_char="2377" end_char="2383">&lt;/post&gt;</TOKEN>
+</SEG>
+<SEG id="segment-75" start_char="2385" end_char="2444">
+<ORIGINAL_TEXT>&lt;post id="p18" author="铿锵爷们" datetime="2015-04-29T11:54:00"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-75-0" pos="unknown" morph="none" start_char="2385" end_char="2389">&lt;post</TOKEN>
+<TOKEN id="token-75-1" pos="unknown" morph="none" start_char="2391" end_char="2398">id="p18"</TOKEN>
+<TOKEN id="token-75-2" pos="unknown" morph="none" start_char="2400" end_char="2412">author="铿锵爷们"</TOKEN>
+<TOKEN id="token-75-3" pos="unknown" morph="none" start_char="2414" end_char="2444">datetime="2015-04-29T11:54:00"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-76" start_char="2446" end_char="2472">
+<ORIGINAL_TEXT>&lt;quote orig_author="我咬过伊万"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-76-0" pos="unknown" morph="none" start_char="2446" end_char="2451">&lt;quote</TOKEN>
+<TOKEN id="token-76-1" pos="unknown" morph="none" start_char="2453" end_char="2472">orig_author="我咬过伊万"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-77" start_char="2474" end_char="2493">
+<ORIGINAL_TEXT>美帝能捐6500万美元才能说捐的比天朝多</ORIGINAL_TEXT>
+<TOKEN id="token-77-0" pos="word" morph="none" start_char="2474" end_char="2493">美帝能捐6500万美元才能说捐的比天朝多</TOKEN>
+</SEG>
+<SEG id="segment-78" start_char="2495" end_char="2502">
+<ORIGINAL_TEXT>&lt;/quote&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-78-0" pos="unknown" morph="none" start_char="2495" end_char="2502">&lt;/quote&gt;</TOKEN>
+</SEG>
+<SEG id="segment-79" start_char="2504" end_char="2508">
+<ORIGINAL_TEXT>为什么？？</ORIGINAL_TEXT>
+<TOKEN id="token-79-0" pos="word" morph="none" start_char="2504" end_char="2506">为什么</TOKEN>
+<TOKEN id="token-79-1" pos="punct" morph="none" start_char="2507" end_char="2508">？？</TOKEN>
+</SEG>
+<SEG id="segment-80" start_char="2510" end_char="2516">
+<ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-80-0" pos="unknown" morph="none" start_char="2510" end_char="2516">&lt;/post&gt;</TOKEN>
+</SEG>
+<SEG id="segment-81" start_char="2518" end_char="2584">
+<ORIGINAL_TEXT>&lt;post id="p19" author="Transgenico" datetime="2015-04-29T11:56:00"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-81-0" pos="unknown" morph="none" start_char="2518" end_char="2522">&lt;post</TOKEN>
+<TOKEN id="token-81-1" pos="unknown" morph="none" start_char="2524" end_char="2531">id="p19"</TOKEN>
+<TOKEN id="token-81-2" pos="unknown" morph="none" start_char="2533" end_char="2552">author="Transgenico"</TOKEN>
+<TOKEN id="token-81-3" pos="unknown" morph="none" start_char="2554" end_char="2584">datetime="2015-04-29T11:56:00"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-82" start_char="2586" end_char="2618">
+<ORIGINAL_TEXT>&lt;quote orig_author="DamianWayne"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-82-0" pos="unknown" morph="none" start_char="2586" end_char="2591">&lt;quote</TOKEN>
+<TOKEN id="token-82-1" pos="unknown" morph="none" start_char="2593" end_char="2618">orig_author="DamianWayne"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-83" start_char="2620" end_char="2647">
+<ORIGINAL_TEXT>lz，你发这个帖子估计会有不少人连捐款明细是哪个都找不到</ORIGINAL_TEXT>
+<TOKEN id="token-83-0" pos="word" morph="none" start_char="2620" end_char="2621">lz</TOKEN>
+<TOKEN id="token-83-1" pos="punct" morph="none" start_char="2622" end_char="2622">，</TOKEN>
+<TOKEN id="token-83-2" pos="word" morph="none" start_char="2623" end_char="2647">你发这个帖子估计会有不少人连捐款明细是哪个都找不到</TOKEN>
+</SEG>
+<SEG id="segment-84" start_char="2649" end_char="2656">
+<ORIGINAL_TEXT>&lt;/quote&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-84-0" pos="unknown" morph="none" start_char="2649" end_char="2656">&lt;/quote&gt;</TOKEN>
+</SEG>
+<SEG id="segment-85" start_char="2658" end_char="2671">
+<ORIGINAL_TEXT>引用的是这条新闻 &amp;#13;</ORIGINAL_TEXT>
+<TOKEN id="token-85-0" pos="word" morph="none" start_char="2658" end_char="2665">引用的是这条新闻</TOKEN>
+<TOKEN id="token-85-1" pos="punct" morph="none" start_char="2667" end_char="2668">&amp;#</TOKEN>
+<TOKEN id="token-85-2" pos="word" morph="none" start_char="2669" end_char="2670">13</TOKEN>
+<TOKEN id="token-85-3" pos="punct" morph="none" start_char="2671" end_char="2671">;</TOKEN>
+</SEG>
+<SEG id="segment-86" start_char="2674" end_char="2734">
+<ORIGINAL_TEXT>http://news.sina.com.cn/w/2015-04-28/235031772838.shtml &amp;#13;</ORIGINAL_TEXT>
+<TOKEN id="token-86-0" pos="url" morph="none" start_char="2674" end_char="2728">http://news.sina.com.cn/w/2015-04-28/235031772838.shtml</TOKEN>
+<TOKEN id="token-86-1" pos="punct" morph="none" start_char="2730" end_char="2731">&amp;#</TOKEN>
+<TOKEN id="token-86-2" pos="word" morph="none" start_char="2732" end_char="2733">13</TOKEN>
+<TOKEN id="token-86-3" pos="punct" morph="none" start_char="2734" end_char="2734">;</TOKEN>
+</SEG>
+<SEG id="segment-87" start_char="2737" end_char="2768">
+<ORIGINAL_TEXT>第一次拨款2000万，第二次拨款4000万，合计6000万人民币</ORIGINAL_TEXT>
+<TOKEN id="token-87-0" pos="unknown" morph="none" start_char="2737" end_char="2768">第一次拨款2000万，第二次拨款4000万，合计6000万人民币</TOKEN>
+</SEG>
+<SEG id="segment-88" start_char="2770" end_char="2776">
+<ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-88-0" pos="unknown" morph="none" start_char="2770" end_char="2776">&lt;/post&gt;</TOKEN>
+</SEG>
+<SEG id="segment-89" start_char="2778" end_char="2838">
+<ORIGINAL_TEXT>&lt;post id="p20" author="-马驰--" datetime="2015-04-29T12:06:00"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-89-0" pos="unknown" morph="none" start_char="2778" end_char="2782">&lt;post</TOKEN>
+<TOKEN id="token-89-1" pos="unknown" morph="none" start_char="2784" end_char="2791">id="p20"</TOKEN>
+<TOKEN id="token-89-2" pos="unknown" morph="none" start_char="2793" end_char="2806">author="-马驰--"</TOKEN>
+<TOKEN id="token-89-3" pos="unknown" morph="none" start_char="2808" end_char="2838">datetime="2015-04-29T12:06:00"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-90" start_char="2840" end_char="2865">
+<ORIGINAL_TEXT>&lt;quote orig_author="铿锵爷们"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-90-0" pos="unknown" morph="none" start_char="2840" end_char="2845">&lt;quote</TOKEN>
+<TOKEN id="token-90-1" pos="unknown" morph="none" start_char="2847" end_char="2865">orig_author="铿锵爷们"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-91" start_char="2867" end_char="2871">
+<ORIGINAL_TEXT>为什么？？</ORIGINAL_TEXT>
+<TOKEN id="token-91-0" pos="word" morph="none" start_char="2867" end_char="2869">为什么</TOKEN>
+<TOKEN id="token-91-1" pos="punct" morph="none" start_char="2870" end_char="2871">？？</TOKEN>
+</SEG>
+<SEG id="segment-92" start_char="2873" end_char="2880">
+<ORIGINAL_TEXT>&lt;/quote&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-92-0" pos="unknown" morph="none" start_char="2873" end_char="2880">&lt;/quote&gt;</TOKEN>
+</SEG>
+<SEG id="segment-93" start_char="2882" end_char="2902">
+<ORIGINAL_TEXT>美元与人民币的汇率问题吧。我是这样想的。。</ORIGINAL_TEXT>
+<TOKEN id="token-93-0" pos="word" morph="none" start_char="2882" end_char="2893">美元与人民币的汇率问题吧</TOKEN>
+<TOKEN id="token-93-1" pos="punct" morph="none" start_char="2894" end_char="2894">。</TOKEN>
+<TOKEN id="token-93-2" pos="word" morph="none" start_char="2895" end_char="2900">我是这样想的</TOKEN>
+<TOKEN id="token-93-3" pos="punct" morph="none" start_char="2901" end_char="2902">。。</TOKEN>
+</SEG>
+<SEG id="segment-94" start_char="2904" end_char="2910">
+<ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-94-0" pos="unknown" morph="none" start_char="2904" end_char="2910">&lt;/post&gt;</TOKEN>
+</SEG>
+<SEG id="segment-95" start_char="2912" end_char="2971">
+<ORIGINAL_TEXT>&lt;post id="p21" author="顾顺章 " datetime="2015-04-29T12:08:00"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-95-0" pos="unknown" morph="none" start_char="2912" end_char="2916">&lt;post</TOKEN>
+<TOKEN id="token-95-1" pos="unknown" morph="none" start_char="2918" end_char="2925">id="p21"</TOKEN>
+<TOKEN id="token-95-2" pos="unknown" morph="none" start_char="2927" end_char="2937">author="顾顺章</TOKEN>
+<TOKEN id="token-95-3" pos="unknown" morph="none" start_char="2939" end_char="2939">"</TOKEN>
+<TOKEN id="token-95-4" pos="unknown" morph="none" start_char="2941" end_char="2971">datetime="2015-04-29T12:08:00"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-96" start_char="2973" end_char="2999">
+<ORIGINAL_TEXT>美国能捐1000万美元？我记得以前美国每次都捐的很少的</ORIGINAL_TEXT>
+<TOKEN id="token-96-0" pos="word" morph="none" start_char="2973" end_char="2983">美国能捐1000万美元</TOKEN>
+<TOKEN id="token-96-1" pos="punct" morph="none" start_char="2984" end_char="2984">？</TOKEN>
+<TOKEN id="token-96-2" pos="word" morph="none" start_char="2985" end_char="2999">我记得以前美国每次都捐的很少的</TOKEN>
+</SEG>
+<SEG id="segment-97" start_char="3001" end_char="3007">
+<ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-97-0" pos="unknown" morph="none" start_char="3001" end_char="3007">&lt;/post&gt;</TOKEN>
+</SEG>
+<SEG id="segment-98" start_char="3009" end_char="3067">
+<ORIGINAL_TEXT>&lt;post id="p22" author="小白天" datetime="2015-04-29T12:10:00"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-98-0" pos="unknown" morph="none" start_char="3009" end_char="3013">&lt;post</TOKEN>
+<TOKEN id="token-98-1" pos="unknown" morph="none" start_char="3015" end_char="3022">id="p22"</TOKEN>
+<TOKEN id="token-98-2" pos="unknown" morph="none" start_char="3024" end_char="3035">author="小白天"</TOKEN>
+<TOKEN id="token-98-3" pos="unknown" morph="none" start_char="3037" end_char="3067">datetime="2015-04-29T12:10:00"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-99" start_char="3069" end_char="3093">
+<ORIGINAL_TEXT>大领导捐款1000，二把手也就捐款900给点面子。</ORIGINAL_TEXT>
+<TOKEN id="token-99-0" pos="word" morph="none" start_char="3069" end_char="3077">大领导捐款1000</TOKEN>
+<TOKEN id="token-99-1" pos="punct" morph="none" start_char="3078" end_char="3078">，</TOKEN>
+<TOKEN id="token-99-2" pos="word" morph="none" start_char="3079" end_char="3092">二把手也就捐款900给点面子</TOKEN>
+<TOKEN id="token-99-3" pos="punct" morph="none" start_char="3093" end_char="3093">。</TOKEN>
+</SEG>
+<SEG id="segment-100" start_char="3095" end_char="3101">
+<ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-100-0" pos="unknown" morph="none" start_char="3095" end_char="3101">&lt;/post&gt;</TOKEN>
+</SEG>
+<SEG id="segment-101" start_char="3103" end_char="3167">
+<ORIGINAL_TEXT>&lt;post id="p23" author="tmac_qiu " datetime="2015-04-29T12:11:00"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-101-0" pos="unknown" morph="none" start_char="3103" end_char="3107">&lt;post</TOKEN>
+<TOKEN id="token-101-1" pos="unknown" morph="none" start_char="3109" end_char="3116">id="p23"</TOKEN>
+<TOKEN id="token-101-2" pos="unknown" morph="none" start_char="3118" end_char="3133">author="tmac_qiu</TOKEN>
+<TOKEN id="token-101-3" pos="unknown" morph="none" start_char="3135" end_char="3135">"</TOKEN>
+<TOKEN id="token-101-4" pos="unknown" morph="none" start_char="3137" end_char="3167">datetime="2015-04-29T12:11:00"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-102" start_char="3169" end_char="3187">
+<ORIGINAL_TEXT>捐款现在有没有超过尼泊尔的一年gdp？</ORIGINAL_TEXT>
+<TOKEN id="token-102-0" pos="word" morph="none" start_char="3169" end_char="3186">捐款现在有没有超过尼泊尔的一年gdp</TOKEN>
+<TOKEN id="token-102-1" pos="punct" morph="none" start_char="3187" end_char="3187">？</TOKEN>
+</SEG>
+<SEG id="segment-103" start_char="3189" end_char="3195">
+<ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-103-0" pos="unknown" morph="none" start_char="3189" end_char="3195">&lt;/post&gt;</TOKEN>
+</SEG>
+<SEG id="segment-104" start_char="3197" end_char="3256">
+<ORIGINAL_TEXT>&lt;post id="p24" author="糖竹子 " datetime="2015-04-29T12:12:00"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-104-0" pos="unknown" morph="none" start_char="3197" end_char="3201">&lt;post</TOKEN>
+<TOKEN id="token-104-1" pos="unknown" morph="none" start_char="3203" end_char="3210">id="p24"</TOKEN>
+<TOKEN id="token-104-2" pos="unknown" morph="none" start_char="3212" end_char="3222">author="糖竹子</TOKEN>
+<TOKEN id="token-104-3" pos="unknown" morph="none" start_char="3224" end_char="3224">"</TOKEN>
+<TOKEN id="token-104-4" pos="unknown" morph="none" start_char="3226" end_char="3256">datetime="2015-04-29T12:12:00"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-105" start_char="3258" end_char="3272">
+<ORIGINAL_TEXT>中国人对数学比较迷恋，除此无他</ORIGINAL_TEXT>
+<TOKEN id="token-105-0" pos="word" morph="none" start_char="3258" end_char="3267">中国人对数学比较迷恋</TOKEN>
+<TOKEN id="token-105-1" pos="punct" morph="none" start_char="3268" end_char="3268">，</TOKEN>
+<TOKEN id="token-105-2" pos="word" morph="none" start_char="3269" end_char="3272">除此无他</TOKEN>
+</SEG>
+<SEG id="segment-106" start_char="3274" end_char="3280">
+<ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-106-0" pos="unknown" morph="none" start_char="3274" end_char="3280">&lt;/post&gt;</TOKEN>
+</SEG>
+<SEG id="segment-107" start_char="3282" end_char="3346">
+<ORIGINAL_TEXT>&lt;post id="p25" author="daqiao236" datetime="2015-04-29T12:13:00"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-107-0" pos="unknown" morph="none" start_char="3282" end_char="3286">&lt;post</TOKEN>
+<TOKEN id="token-107-1" pos="unknown" morph="none" start_char="3288" end_char="3295">id="p25"</TOKEN>
+<TOKEN id="token-107-2" pos="unknown" morph="none" start_char="3297" end_char="3314">author="daqiao236"</TOKEN>
+<TOKEN id="token-107-3" pos="unknown" morph="none" start_char="3316" end_char="3346">datetime="2015-04-29T12:13:00"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-108" start_char="3348" end_char="3358">
+<ORIGINAL_TEXT>这有什么tmd可比的！</ORIGINAL_TEXT>
+<TOKEN id="token-108-0" pos="word" morph="none" start_char="3348" end_char="3357">这有什么tmd可比的</TOKEN>
+<TOKEN id="token-108-1" pos="punct" morph="none" start_char="3358" end_char="3358">！</TOKEN>
+</SEG>
+<SEG id="segment-109" start_char="3360" end_char="3366">
+<ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-109-0" pos="unknown" morph="none" start_char="3360" end_char="3366">&lt;/post&gt;</TOKEN>
+</SEG>
+<SEG id="segment-110" start_char="3368" end_char="3428">
+<ORIGINAL_TEXT>&lt;post id="p26" author="挚爱北伦敦" datetime="2015-04-29T12:15:00"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-110-0" pos="unknown" morph="none" start_char="3368" end_char="3372">&lt;post</TOKEN>
+<TOKEN id="token-110-1" pos="unknown" morph="none" start_char="3374" end_char="3381">id="p26"</TOKEN>
+<TOKEN id="token-110-2" pos="unknown" morph="none" start_char="3383" end_char="3396">author="挚爱北伦敦"</TOKEN>
+<TOKEN id="token-110-3" pos="unknown" morph="none" start_char="3398" end_char="3428">datetime="2015-04-29T12:15:00"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-111" start_char="3430" end_char="3459">
+<ORIGINAL_TEXT>中国政府捐了2000万。不算各种民间组织 什么万达 什么滴滴</ORIGINAL_TEXT>
+<TOKEN id="token-111-0" pos="word" morph="none" start_char="3430" end_char="3440">中国政府捐了2000万</TOKEN>
+<TOKEN id="token-111-1" pos="punct" morph="none" start_char="3441" end_char="3441">。</TOKEN>
+<TOKEN id="token-111-2" pos="word" morph="none" start_char="3442" end_char="3449">不算各种民间组织</TOKEN>
+<TOKEN id="token-111-3" pos="word" morph="none" start_char="3451" end_char="3454">什么万达</TOKEN>
+<TOKEN id="token-111-4" pos="word" morph="none" start_char="3456" end_char="3459">什么滴滴</TOKEN>
+</SEG>
+<SEG id="segment-112" start_char="3461" end_char="3467">
+<ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-112-0" pos="unknown" morph="none" start_char="3461" end_char="3467">&lt;/post&gt;</TOKEN>
+</SEG>
+<SEG id="segment-113" start_char="3469" end_char="3536">
+<ORIGINAL_TEXT>&lt;post id="p27" author="hedo1371315 " datetime="2015-04-29T12:16:00"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-113-0" pos="unknown" morph="none" start_char="3469" end_char="3473">&lt;post</TOKEN>
+<TOKEN id="token-113-1" pos="unknown" morph="none" start_char="3475" end_char="3482">id="p27"</TOKEN>
+<TOKEN id="token-113-2" pos="unknown" morph="none" start_char="3484" end_char="3502">author="hedo1371315</TOKEN>
+<TOKEN id="token-113-3" pos="unknown" morph="none" start_char="3504" end_char="3504">"</TOKEN>
+<TOKEN id="token-113-4" pos="unknown" morph="none" start_char="3506" end_char="3536">datetime="2015-04-29T12:16:00"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-114" start_char="3538" end_char="3548">
+<ORIGINAL_TEXT>我来盘活。 &amp;#13;</ORIGINAL_TEXT>
+<TOKEN id="token-114-0" pos="word" morph="none" start_char="3538" end_char="3541">我来盘活</TOKEN>
+<TOKEN id="token-114-1" pos="punct" morph="none" start_char="3542" end_char="3542">。</TOKEN>
+<TOKEN id="token-114-2" pos="punct" morph="none" start_char="3544" end_char="3545">&amp;#</TOKEN>
+<TOKEN id="token-114-3" pos="word" morph="none" start_char="3546" end_char="3547">13</TOKEN>
+<TOKEN id="token-114-4" pos="punct" morph="none" start_char="3548" end_char="3548">;</TOKEN>
+</SEG>
+<SEG id="segment-115" start_char="3551" end_char="3580">
+<ORIGINAL_TEXT>有钱给外国人捐款，没钱减免滞留的中国人减免机票。 &amp;#13;</ORIGINAL_TEXT>
+<TOKEN id="token-115-0" pos="word" morph="none" start_char="3551" end_char="3558">有钱给外国人捐款</TOKEN>
+<TOKEN id="token-115-1" pos="punct" morph="none" start_char="3559" end_char="3559">，</TOKEN>
+<TOKEN id="token-115-2" pos="word" morph="none" start_char="3560" end_char="3573">没钱减免滞留的中国人减免机票</TOKEN>
+<TOKEN id="token-115-3" pos="punct" morph="none" start_char="3574" end_char="3574">。</TOKEN>
+<TOKEN id="token-115-4" pos="punct" morph="none" start_char="3576" end_char="3577">&amp;#</TOKEN>
+<TOKEN id="token-115-5" pos="word" morph="none" start_char="3578" end_char="3579">13</TOKEN>
+<TOKEN id="token-115-6" pos="punct" morph="none" start_char="3580" end_char="3580">;</TOKEN>
+</SEG>
+<SEG id="segment-116" start_char="3583" end_char="3585">
+<ORIGINAL_TEXT>呵呵。</ORIGINAL_TEXT>
+<TOKEN id="token-116-0" pos="word" morph="none" start_char="3583" end_char="3584">呵呵</TOKEN>
+<TOKEN id="token-116-1" pos="punct" morph="none" start_char="3585" end_char="3585">。</TOKEN>
+</SEG>
+<SEG id="segment-117" start_char="3587" end_char="3593">
+<ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-117-0" pos="unknown" morph="none" start_char="3587" end_char="3593">&lt;/post&gt;</TOKEN>
+</SEG>
+<SEG id="segment-118" start_char="3595" end_char="3600">
+<ORIGINAL_TEXT>&lt;/doc&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-118-0" pos="unknown" morph="none" start_char="3595" end_char="3600">&lt;/doc&gt;</TOKEN>
+</SEG>
+</TEXT>
+</DOC>
+</LCTL_TEXT>

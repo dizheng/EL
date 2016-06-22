@@ -1,0 +1,970 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE LCTL_TEXT SYSTEM "ltf.v1.5.dtd">
+<LCTL_TEXT>
+<DOC id="SPA_DF_001258_20150703_F001000B9.df.xml" tokenization="tokenization_parameters" grammar="none" raw_text_char_length="4780" raw_text_md5="7942eda5d175732186997b1988f3dca9">
+<TEXT>
+<SEG id="segment-0" start_char="0" end_char="37">
+<ORIGINAL_TEXT>&lt;?xml version="1.0" encoding="utf-8"?&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-0-0" pos="unknown" morph="none" start_char="0" end_char="4">&lt;?xml</TOKEN>
+<TOKEN id="token-0-1" pos="unknown" morph="none" start_char="6" end_char="18">version="1.0"</TOKEN>
+<TOKEN id="token-0-2" pos="unknown" morph="none" start_char="20" end_char="37">encoding="utf-8"?&gt;</TOKEN>
+</SEG>
+<SEG id="segment-1" start_char="39" end_char="81">
+<ORIGINAL_TEXT>&lt;doc id="SPA_DF_001258_20150703_F001000B9"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-1-0" pos="unknown" morph="none" start_char="39" end_char="42">&lt;doc</TOKEN>
+<TOKEN id="token-1-1" pos="unknown" morph="none" start_char="44" end_char="81">id="SPA_DF_001258_20150703_F001000B9"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-2" start_char="83" end_char="92">
+<ORIGINAL_TEXT>&lt;headline&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-2-0" pos="unknown" morph="none" start_char="83" end_char="92">&lt;headline&gt;</TOKEN>
+</SEG>
+<SEG id="segment-3" start_char="94" end_char="127">
+<ORIGINAL_TEXT>China desplomandose, sigue cayendo</ORIGINAL_TEXT>
+<TOKEN id="token-3-0" pos="word" morph="none" start_char="94" end_char="98">China</TOKEN>
+<TOKEN id="token-3-1" pos="word" morph="none" start_char="100" end_char="112">desplomandose</TOKEN>
+<TOKEN id="token-3-2" pos="punct" morph="none" start_char="113" end_char="113">,</TOKEN>
+<TOKEN id="token-3-3" pos="word" morph="none" start_char="115" end_char="119">sigue</TOKEN>
+<TOKEN id="token-3-4" pos="word" morph="none" start_char="121" end_char="127">cayendo</TOKEN>
+</SEG>
+<SEG id="segment-4" start_char="129" end_char="139">
+<ORIGINAL_TEXT>&lt;/headline&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-4-0" pos="unknown" morph="none" start_char="129" end_char="139">&lt;/headline&gt;</TOKEN>
+</SEG>
+<SEG id="segment-5" start_char="141" end_char="203">
+<ORIGINAL_TEXT>&lt;post id="p1" author="XXlordXX" datetime="2015-07-03T15:07:00"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-5-0" pos="unknown" morph="none" start_char="141" end_char="145">&lt;post</TOKEN>
+<TOKEN id="token-5-1" pos="unknown" morph="none" start_char="147" end_char="153">id="p1"</TOKEN>
+<TOKEN id="token-5-2" pos="unknown" morph="none" start_char="155" end_char="171">author="XXlordXX"</TOKEN>
+<TOKEN id="token-5-3" pos="unknown" morph="none" start_char="173" end_char="203">datetime="2015-07-03T15:07:00"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-6" start_char="205" end_char="315">
+<ORIGINAL_TEXT>http://www.infobae.com/2015/07/03/1739398-alarma-mundial-la-bolsa-china-perdio-25-billones-dolares-tres-semanas</ORIGINAL_TEXT>
+<TOKEN id="token-6-0" pos="url" morph="none" start_char="205" end_char="315">http://www.infobae.com/2015/07/03/1739398-alarma-mundial-la-bolsa-china-perdio-25-billones-dolares-tres-semanas</TOKEN>
+</SEG>
+<SEG id="segment-7" start_char="317" end_char="323">
+<ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-7-0" pos="unknown" morph="none" start_char="317" end_char="323">&lt;/post&gt;</TOKEN>
+</SEG>
+<SEG id="segment-8" start_char="325" end_char="387">
+<ORIGINAL_TEXT>&lt;post id="p2" author="overlord" datetime="2015-07-03T15:16:00"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-8-0" pos="unknown" morph="none" start_char="325" end_char="329">&lt;post</TOKEN>
+<TOKEN id="token-8-1" pos="unknown" morph="none" start_char="331" end_char="337">id="p2"</TOKEN>
+<TOKEN id="token-8-2" pos="unknown" morph="none" start_char="339" end_char="355">author="overlord"</TOKEN>
+<TOKEN id="token-8-3" pos="unknown" morph="none" start_char="357" end_char="387">datetime="2015-07-03T15:16:00"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-9" start_char="389" end_char="485">
+<ORIGINAL_TEXT>http://4.bp.blogspot.com/-sKgm1WWzKHI/UkOhgDeqttI/AAAAAAAAMS0/Zm3tOfnKUYA/s1600/JokerHereWeGo.jpg</ORIGINAL_TEXT>
+<TOKEN id="token-9-0" pos="url" morph="none" start_char="389" end_char="485">http://4.bp.blogspot.com/-sKgm1WWzKHI/UkOhgDeqttI/AAAAAAAAMS0/Zm3tOfnKUYA/s1600/JokerHereWeGo.jpg</TOKEN>
+</SEG>
+<SEG id="segment-10" start_char="487" end_char="493">
+<ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-10-0" pos="unknown" morph="none" start_char="487" end_char="493">&lt;/post&gt;</TOKEN>
+</SEG>
+<SEG id="segment-11" start_char="495" end_char="558">
+<ORIGINAL_TEXT>&lt;post id="p3" author="ALONSO R." datetime="2015-07-03T15:17:00"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-11-0" pos="unknown" morph="none" start_char="495" end_char="499">&lt;post</TOKEN>
+<TOKEN id="token-11-1" pos="unknown" morph="none" start_char="501" end_char="507">id="p3"</TOKEN>
+<TOKEN id="token-11-2" pos="unknown" morph="none" start_char="509" end_char="522">author="ALONSO</TOKEN>
+<TOKEN id="token-11-3" pos="word" morph="none" start_char="524" end_char="524">R</TOKEN>
+<TOKEN id="token-11-4" pos="punct" morph="none" start_char="525" end_char="526">."</TOKEN>
+<TOKEN id="token-11-5" pos="unknown" morph="none" start_char="528" end_char="558">datetime="2015-07-03T15:17:00"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-12" start_char="560" end_char="589">
+<ORIGINAL_TEXT>acuario, ¿ donde estás ? &amp;#13;</ORIGINAL_TEXT>
+<TOKEN id="token-12-0" pos="word" morph="none" start_char="560" end_char="566">acuario</TOKEN>
+<TOKEN id="token-12-1" pos="punct" morph="none" start_char="567" end_char="567">,</TOKEN>
+<TOKEN id="token-12-2" pos="unknown" morph="none" start_char="569" end_char="569">¿</TOKEN>
+<TOKEN id="token-12-3" pos="word" morph="none" start_char="571" end_char="575">donde</TOKEN>
+<TOKEN id="token-12-4" pos="word" morph="none" start_char="577" end_char="581">estás</TOKEN>
+<TOKEN id="token-12-5" pos="unknown" morph="none" start_char="583" end_char="583">?</TOKEN>
+<TOKEN id="token-12-6" pos="punct" morph="none" start_char="585" end_char="586">&amp;#</TOKEN>
+<TOKEN id="token-12-7" pos="word" morph="none" start_char="587" end_char="588">13</TOKEN>
+<TOKEN id="token-12-8" pos="punct" morph="none" start_char="589" end_char="589">;</TOKEN>
+</SEG>
+<SEG id="segment-13" start_char="591" end_char="595">
+<ORIGINAL_TEXT>&amp;#13;</ORIGINAL_TEXT>
+<TOKEN id="token-13-0" pos="punct" morph="none" start_char="591" end_char="592">&amp;#</TOKEN>
+<TOKEN id="token-13-1" pos="word" morph="none" start_char="593" end_char="594">13</TOKEN>
+<TOKEN id="token-13-2" pos="punct" morph="none" start_char="595" end_char="595">;</TOKEN>
+</SEG>
+<SEG id="segment-14" start_char="597" end_char="701">
+<ORIGINAL_TEXT>¿ No y que China es una maravilla ?&amp;lt;img src="images/smiles/icon_lol.gif" alt="Laughing" border="0"&amp;gt;</ORIGINAL_TEXT>
+<TOKEN id="token-14-0" pos="unknown" morph="none" start_char="597" end_char="597">¿</TOKEN>
+<TOKEN id="token-14-1" pos="word" morph="none" start_char="599" end_char="600">No</TOKEN>
+<TOKEN id="token-14-2" pos="word" morph="none" start_char="602" end_char="602">y</TOKEN>
+<TOKEN id="token-14-3" pos="word" morph="none" start_char="604" end_char="606">que</TOKEN>
+<TOKEN id="token-14-4" pos="word" morph="none" start_char="608" end_char="612">China</TOKEN>
+<TOKEN id="token-14-5" pos="word" morph="none" start_char="614" end_char="615">es</TOKEN>
+<TOKEN id="token-14-6" pos="word" morph="none" start_char="617" end_char="619">una</TOKEN>
+<TOKEN id="token-14-7" pos="word" morph="none" start_char="621" end_char="629">maravilla</TOKEN>
+<TOKEN id="token-14-8" pos="punct" morph="none" start_char="631" end_char="632">?&amp;</TOKEN>
+<TOKEN id="token-14-9" pos="word" morph="none" start_char="633" end_char="634">lt</TOKEN>
+<TOKEN id="token-14-10" pos="punct" morph="none" start_char="635" end_char="635">;</TOKEN>
+<TOKEN id="token-14-11" pos="word" morph="none" start_char="636" end_char="638">img</TOKEN>
+<TOKEN id="token-14-12" pos="unknown" morph="none" start_char="640" end_char="671">src="images/smiles/icon_lol.gif"</TOKEN>
+<TOKEN id="token-14-13" pos="unknown" morph="none" start_char="673" end_char="686">alt="Laughing"</TOKEN>
+<TOKEN id="token-14-14" pos="unknown" morph="none" start_char="688" end_char="701">border="0"&amp;gt;</TOKEN>
+</SEG>
+<SEG id="segment-15" start_char="703" end_char="709">
+<ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-15-0" pos="unknown" morph="none" start_char="703" end_char="709">&lt;/post&gt;</TOKEN>
+</SEG>
+<SEG id="segment-16" start_char="711" end_char="774">
+<ORIGINAL_TEXT>&lt;post id="p4" author="Dan Tanna" datetime="2015-07-03T15:25:00"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-16-0" pos="unknown" morph="none" start_char="711" end_char="715">&lt;post</TOKEN>
+<TOKEN id="token-16-1" pos="unknown" morph="none" start_char="717" end_char="723">id="p4"</TOKEN>
+<TOKEN id="token-16-2" pos="unknown" morph="none" start_char="725" end_char="735">author="Dan</TOKEN>
+<TOKEN id="token-16-3" pos="word" morph="none" start_char="737" end_char="741">Tanna</TOKEN>
+<TOKEN id="token-16-4" pos="punct" morph="none" start_char="742" end_char="742">"</TOKEN>
+<TOKEN id="token-16-5" pos="unknown" morph="none" start_char="744" end_char="774">datetime="2015-07-03T15:25:00"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-17" start_char="776" end_char="972">
+<ORIGINAL_TEXT>Según las lumbreras económicas de ND, estos eran otros que iban a hacer morder el polvo a los gringos y al tan deseado dólar...&amp;lt;img src="images/smiles/icon_lol.gif" alt="Laughing" border="0"&amp;gt;</ORIGINAL_TEXT>
+<TOKEN id="token-17-0" pos="word" morph="none" start_char="776" end_char="780">Según</TOKEN>
+<TOKEN id="token-17-1" pos="word" morph="none" start_char="782" end_char="784">las</TOKEN>
+<TOKEN id="token-17-2" pos="word" morph="none" start_char="786" end_char="794">lumbreras</TOKEN>
+<TOKEN id="token-17-3" pos="word" morph="none" start_char="796" end_char="805">económicas</TOKEN>
+<TOKEN id="token-17-4" pos="word" morph="none" start_char="807" end_char="808">de</TOKEN>
+<TOKEN id="token-17-5" pos="word" morph="none" start_char="810" end_char="811">ND</TOKEN>
+<TOKEN id="token-17-6" pos="punct" morph="none" start_char="812" end_char="812">,</TOKEN>
+<TOKEN id="token-17-7" pos="word" morph="none" start_char="814" end_char="818">estos</TOKEN>
+<TOKEN id="token-17-8" pos="word" morph="none" start_char="820" end_char="823">eran</TOKEN>
+<TOKEN id="token-17-9" pos="word" morph="none" start_char="825" end_char="829">otros</TOKEN>
+<TOKEN id="token-17-10" pos="word" morph="none" start_char="831" end_char="833">que</TOKEN>
+<TOKEN id="token-17-11" pos="word" morph="none" start_char="835" end_char="838">iban</TOKEN>
+<TOKEN id="token-17-12" pos="word" morph="none" start_char="840" end_char="840">a</TOKEN>
+<TOKEN id="token-17-13" pos="word" morph="none" start_char="842" end_char="846">hacer</TOKEN>
+<TOKEN id="token-17-14" pos="word" morph="none" start_char="848" end_char="853">morder</TOKEN>
+<TOKEN id="token-17-15" pos="word" morph="none" start_char="855" end_char="856">el</TOKEN>
+<TOKEN id="token-17-16" pos="word" morph="none" start_char="858" end_char="862">polvo</TOKEN>
+<TOKEN id="token-17-17" pos="word" morph="none" start_char="864" end_char="864">a</TOKEN>
+<TOKEN id="token-17-18" pos="word" morph="none" start_char="866" end_char="868">los</TOKEN>
+<TOKEN id="token-17-19" pos="word" morph="none" start_char="870" end_char="876">gringos</TOKEN>
+<TOKEN id="token-17-20" pos="word" morph="none" start_char="878" end_char="878">y</TOKEN>
+<TOKEN id="token-17-21" pos="word" morph="none" start_char="880" end_char="881">al</TOKEN>
+<TOKEN id="token-17-22" pos="word" morph="none" start_char="883" end_char="885">tan</TOKEN>
+<TOKEN id="token-17-23" pos="word" morph="none" start_char="887" end_char="893">deseado</TOKEN>
+<TOKEN id="token-17-24" pos="unknown" morph="none" start_char="895" end_char="909">dólar...&amp;lt;img</TOKEN>
+<TOKEN id="token-17-25" pos="unknown" morph="none" start_char="911" end_char="942">src="images/smiles/icon_lol.gif"</TOKEN>
+<TOKEN id="token-17-26" pos="unknown" morph="none" start_char="944" end_char="957">alt="Laughing"</TOKEN>
+<TOKEN id="token-17-27" pos="unknown" morph="none" start_char="959" end_char="972">border="0"&amp;gt;</TOKEN>
+</SEG>
+<SEG id="segment-18" start_char="974" end_char="980">
+<ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-18-0" pos="unknown" morph="none" start_char="974" end_char="980">&lt;/post&gt;</TOKEN>
+</SEG>
+<SEG id="segment-19" start_char="982" end_char="1043">
+<ORIGINAL_TEXT>&lt;post id="p5" author="El Maki" datetime="2015-07-03T15:26:00"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-19-0" pos="unknown" morph="none" start_char="982" end_char="986">&lt;post</TOKEN>
+<TOKEN id="token-19-1" pos="unknown" morph="none" start_char="988" end_char="994">id="p5"</TOKEN>
+<TOKEN id="token-19-2" pos="unknown" morph="none" start_char="996" end_char="1005">author="El</TOKEN>
+<TOKEN id="token-19-3" pos="word" morph="none" start_char="1007" end_char="1010">Maki</TOKEN>
+<TOKEN id="token-19-4" pos="punct" morph="none" start_char="1011" end_char="1011">"</TOKEN>
+<TOKEN id="token-19-5" pos="unknown" morph="none" start_char="1013" end_char="1043">datetime="2015-07-03T15:26:00"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-20" start_char="1045" end_char="1083">
+<ORIGINAL_TEXT>La burbuja China comenzó a Pzzzzzzzz...</ORIGINAL_TEXT>
+<TOKEN id="token-20-0" pos="word" morph="none" start_char="1045" end_char="1046">La</TOKEN>
+<TOKEN id="token-20-1" pos="word" morph="none" start_char="1048" end_char="1054">burbuja</TOKEN>
+<TOKEN id="token-20-2" pos="word" morph="none" start_char="1056" end_char="1060">China</TOKEN>
+<TOKEN id="token-20-3" pos="word" morph="none" start_char="1062" end_char="1068">comenzó</TOKEN>
+<TOKEN id="token-20-4" pos="word" morph="none" start_char="1070" end_char="1070">a</TOKEN>
+<TOKEN id="token-20-5" pos="word" morph="none" start_char="1072" end_char="1080">Pzzzzzzzz</TOKEN>
+<TOKEN id="token-20-6" pos="punct" morph="none" start_char="1081" end_char="1083">...</TOKEN>
+</SEG>
+<SEG id="segment-21" start_char="1085" end_char="1091">
+<ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-21-0" pos="unknown" morph="none" start_char="1085" end_char="1091">&lt;/post&gt;</TOKEN>
+</SEG>
+<SEG id="segment-22" start_char="1093" end_char="1155">
+<ORIGINAL_TEXT>&lt;post id="p6" author="overlord" datetime="2015-07-03T15:27:00"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-22-0" pos="unknown" morph="none" start_char="1093" end_char="1097">&lt;post</TOKEN>
+<TOKEN id="token-22-1" pos="unknown" morph="none" start_char="1099" end_char="1105">id="p6"</TOKEN>
+<TOKEN id="token-22-2" pos="unknown" morph="none" start_char="1107" end_char="1123">author="overlord"</TOKEN>
+<TOKEN id="token-22-3" pos="unknown" morph="none" start_char="1125" end_char="1155">datetime="2015-07-03T15:27:00"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-23" start_char="1157" end_char="1267">
+<ORIGINAL_TEXT>Ahora todo el mundo va a descubrir lo muchos venimos diciendo desde hace rato: La economia china es una estafa.</ORIGINAL_TEXT>
+<TOKEN id="token-23-0" pos="word" morph="none" start_char="1157" end_char="1161">Ahora</TOKEN>
+<TOKEN id="token-23-1" pos="word" morph="none" start_char="1163" end_char="1166">todo</TOKEN>
+<TOKEN id="token-23-2" pos="word" morph="none" start_char="1168" end_char="1169">el</TOKEN>
+<TOKEN id="token-23-3" pos="word" morph="none" start_char="1171" end_char="1175">mundo</TOKEN>
+<TOKEN id="token-23-4" pos="word" morph="none" start_char="1177" end_char="1178">va</TOKEN>
+<TOKEN id="token-23-5" pos="word" morph="none" start_char="1180" end_char="1180">a</TOKEN>
+<TOKEN id="token-23-6" pos="word" morph="none" start_char="1182" end_char="1190">descubrir</TOKEN>
+<TOKEN id="token-23-7" pos="word" morph="none" start_char="1192" end_char="1193">lo</TOKEN>
+<TOKEN id="token-23-8" pos="word" morph="none" start_char="1195" end_char="1200">muchos</TOKEN>
+<TOKEN id="token-23-9" pos="word" morph="none" start_char="1202" end_char="1208">venimos</TOKEN>
+<TOKEN id="token-23-10" pos="word" morph="none" start_char="1210" end_char="1217">diciendo</TOKEN>
+<TOKEN id="token-23-11" pos="word" morph="none" start_char="1219" end_char="1223">desde</TOKEN>
+<TOKEN id="token-23-12" pos="word" morph="none" start_char="1225" end_char="1228">hace</TOKEN>
+<TOKEN id="token-23-13" pos="word" morph="none" start_char="1230" end_char="1233">rato</TOKEN>
+<TOKEN id="token-23-14" pos="punct" morph="none" start_char="1234" end_char="1234">:</TOKEN>
+<TOKEN id="token-23-15" pos="word" morph="none" start_char="1236" end_char="1237">La</TOKEN>
+<TOKEN id="token-23-16" pos="word" morph="none" start_char="1239" end_char="1246">economia</TOKEN>
+<TOKEN id="token-23-17" pos="word" morph="none" start_char="1248" end_char="1252">china</TOKEN>
+<TOKEN id="token-23-18" pos="word" morph="none" start_char="1254" end_char="1255">es</TOKEN>
+<TOKEN id="token-23-19" pos="word" morph="none" start_char="1257" end_char="1259">una</TOKEN>
+<TOKEN id="token-23-20" pos="word" morph="none" start_char="1261" end_char="1266">estafa</TOKEN>
+<TOKEN id="token-23-21" pos="punct" morph="none" start_char="1267" end_char="1267">.</TOKEN>
+</SEG>
+<SEG id="segment-24" start_char="1269" end_char="1275">
+<ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-24-0" pos="unknown" morph="none" start_char="1269" end_char="1275">&lt;/post&gt;</TOKEN>
+</SEG>
+<SEG id="segment-25" start_char="1277" end_char="1342">
+<ORIGINAL_TEXT>&lt;post id="p7" author="darkwalker2" datetime="2015-07-03T15:29:00"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-25-0" pos="unknown" morph="none" start_char="1277" end_char="1281">&lt;post</TOKEN>
+<TOKEN id="token-25-1" pos="unknown" morph="none" start_char="1283" end_char="1289">id="p7"</TOKEN>
+<TOKEN id="token-25-2" pos="unknown" morph="none" start_char="1291" end_char="1310">author="darkwalker2"</TOKEN>
+<TOKEN id="token-25-3" pos="unknown" morph="none" start_char="1312" end_char="1342">datetime="2015-07-03T15:29:00"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-26" start_char="1344" end_char="1378">
+<ORIGINAL_TEXT>A que se debe esta hecatombe china?</ORIGINAL_TEXT>
+<TOKEN id="token-26-0" pos="word" morph="none" start_char="1344" end_char="1344">A</TOKEN>
+<TOKEN id="token-26-1" pos="word" morph="none" start_char="1346" end_char="1348">que</TOKEN>
+<TOKEN id="token-26-2" pos="word" morph="none" start_char="1350" end_char="1351">se</TOKEN>
+<TOKEN id="token-26-3" pos="word" morph="none" start_char="1353" end_char="1356">debe</TOKEN>
+<TOKEN id="token-26-4" pos="word" morph="none" start_char="1358" end_char="1361">esta</TOKEN>
+<TOKEN id="token-26-5" pos="word" morph="none" start_char="1363" end_char="1371">hecatombe</TOKEN>
+<TOKEN id="token-26-6" pos="word" morph="none" start_char="1373" end_char="1377">china</TOKEN>
+<TOKEN id="token-26-7" pos="punct" morph="none" start_char="1378" end_char="1378">?</TOKEN>
+</SEG>
+<SEG id="segment-27" start_char="1380" end_char="1386">
+<ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-27-0" pos="unknown" morph="none" start_char="1380" end_char="1386">&lt;/post&gt;</TOKEN>
+</SEG>
+<SEG id="segment-28" start_char="1388" end_char="1450">
+<ORIGINAL_TEXT>&lt;post id="p8" author="XXlordXX" datetime="2015-07-03T15:35:00"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-28-0" pos="unknown" morph="none" start_char="1388" end_char="1392">&lt;post</TOKEN>
+<TOKEN id="token-28-1" pos="unknown" morph="none" start_char="1394" end_char="1400">id="p8"</TOKEN>
+<TOKEN id="token-28-2" pos="unknown" morph="none" start_char="1402" end_char="1418">author="XXlordXX"</TOKEN>
+<TOKEN id="token-28-3" pos="unknown" morph="none" start_char="1420" end_char="1450">datetime="2015-07-03T15:35:00"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-29" start_char="1452" end_char="1484">
+<ORIGINAL_TEXT>&lt;quote orig_author="darkwalker2"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-29-0" pos="unknown" morph="none" start_char="1452" end_char="1457">&lt;quote</TOKEN>
+<TOKEN id="token-29-1" pos="unknown" morph="none" start_char="1459" end_char="1484">orig_author="darkwalker2"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-30" start_char="1486" end_char="1520">
+<ORIGINAL_TEXT>A que se debe esta hecatombe china?</ORIGINAL_TEXT>
+<TOKEN id="token-30-0" pos="word" morph="none" start_char="1486" end_char="1486">A</TOKEN>
+<TOKEN id="token-30-1" pos="word" morph="none" start_char="1488" end_char="1490">que</TOKEN>
+<TOKEN id="token-30-2" pos="word" morph="none" start_char="1492" end_char="1493">se</TOKEN>
+<TOKEN id="token-30-3" pos="word" morph="none" start_char="1495" end_char="1498">debe</TOKEN>
+<TOKEN id="token-30-4" pos="word" morph="none" start_char="1500" end_char="1503">esta</TOKEN>
+<TOKEN id="token-30-5" pos="word" morph="none" start_char="1505" end_char="1513">hecatombe</TOKEN>
+<TOKEN id="token-30-6" pos="word" morph="none" start_char="1515" end_char="1519">china</TOKEN>
+<TOKEN id="token-30-7" pos="punct" morph="none" start_char="1520" end_char="1520">?</TOKEN>
+</SEG>
+<SEG id="segment-31" start_char="1522" end_char="1529">
+<ORIGINAL_TEXT>&lt;/quote&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-31-0" pos="unknown" morph="none" start_char="1522" end_char="1529">&lt;/quote&gt;</TOKEN>
+</SEG>
+<SEG id="segment-32" start_char="1531" end_char="1617">
+<ORIGINAL_TEXT>Burbujas.... Tu puedes ir alargando la caida, pero llega un momento en que ya no mas...</ORIGINAL_TEXT>
+<TOKEN id="token-32-0" pos="word" morph="none" start_char="1531" end_char="1538">Burbujas</TOKEN>
+<TOKEN id="token-32-1" pos="punct" morph="none" start_char="1539" end_char="1542">....</TOKEN>
+<TOKEN id="token-32-2" pos="word" morph="none" start_char="1544" end_char="1545">Tu</TOKEN>
+<TOKEN id="token-32-3" pos="word" morph="none" start_char="1547" end_char="1552">puedes</TOKEN>
+<TOKEN id="token-32-4" pos="word" morph="none" start_char="1554" end_char="1555">ir</TOKEN>
+<TOKEN id="token-32-5" pos="word" morph="none" start_char="1557" end_char="1565">alargando</TOKEN>
+<TOKEN id="token-32-6" pos="word" morph="none" start_char="1567" end_char="1568">la</TOKEN>
+<TOKEN id="token-32-7" pos="word" morph="none" start_char="1570" end_char="1574">caida</TOKEN>
+<TOKEN id="token-32-8" pos="punct" morph="none" start_char="1575" end_char="1575">,</TOKEN>
+<TOKEN id="token-32-9" pos="word" morph="none" start_char="1577" end_char="1580">pero</TOKEN>
+<TOKEN id="token-32-10" pos="word" morph="none" start_char="1582" end_char="1586">llega</TOKEN>
+<TOKEN id="token-32-11" pos="word" morph="none" start_char="1588" end_char="1589">un</TOKEN>
+<TOKEN id="token-32-12" pos="word" morph="none" start_char="1591" end_char="1597">momento</TOKEN>
+<TOKEN id="token-32-13" pos="word" morph="none" start_char="1599" end_char="1600">en</TOKEN>
+<TOKEN id="token-32-14" pos="word" morph="none" start_char="1602" end_char="1604">que</TOKEN>
+<TOKEN id="token-32-15" pos="word" morph="none" start_char="1606" end_char="1607">ya</TOKEN>
+<TOKEN id="token-32-16" pos="word" morph="none" start_char="1609" end_char="1610">no</TOKEN>
+<TOKEN id="token-32-17" pos="word" morph="none" start_char="1612" end_char="1614">mas</TOKEN>
+<TOKEN id="token-32-18" pos="punct" morph="none" start_char="1615" end_char="1617">...</TOKEN>
+</SEG>
+<SEG id="segment-33" start_char="1619" end_char="1625">
+<ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-33-0" pos="unknown" morph="none" start_char="1619" end_char="1625">&lt;/post&gt;</TOKEN>
+</SEG>
+<SEG id="segment-34" start_char="1627" end_char="1686">
+<ORIGINAL_TEXT>&lt;post id="p9" author="GIJOE" datetime="2015-07-03T15:38:00"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-34-0" pos="unknown" morph="none" start_char="1627" end_char="1631">&lt;post</TOKEN>
+<TOKEN id="token-34-1" pos="unknown" morph="none" start_char="1633" end_char="1639">id="p9"</TOKEN>
+<TOKEN id="token-34-2" pos="unknown" morph="none" start_char="1641" end_char="1654">author="GIJOE"</TOKEN>
+<TOKEN id="token-34-3" pos="unknown" morph="none" start_char="1656" end_char="1686">datetime="2015-07-03T15:38:00"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-35" start_char="1688" end_char="2061">
+<ORIGINAL_TEXT>si eso pasa cunado las cotizaciones bursatiles no ajustan a las realidades de las ganancias de las compañias.Todo el mundo creia que china iba a seguir creciendo al 7% anual para siempre.Ahora cuando la economia china detiene su acelerado crecimineto la dura realidad su feo rostro y ya las cotizaciones abultadas de muchas acciones NOse justifican y se estrellan las Bolsas</ORIGINAL_TEXT>
+<TOKEN id="token-35-0" pos="word" morph="none" start_char="1688" end_char="1689">si</TOKEN>
+<TOKEN id="token-35-1" pos="word" morph="none" start_char="1691" end_char="1693">eso</TOKEN>
+<TOKEN id="token-35-2" pos="word" morph="none" start_char="1695" end_char="1698">pasa</TOKEN>
+<TOKEN id="token-35-3" pos="word" morph="none" start_char="1700" end_char="1705">cunado</TOKEN>
+<TOKEN id="token-35-4" pos="word" morph="none" start_char="1707" end_char="1709">las</TOKEN>
+<TOKEN id="token-35-5" pos="word" morph="none" start_char="1711" end_char="1722">cotizaciones</TOKEN>
+<TOKEN id="token-35-6" pos="word" morph="none" start_char="1724" end_char="1733">bursatiles</TOKEN>
+<TOKEN id="token-35-7" pos="word" morph="none" start_char="1735" end_char="1736">no</TOKEN>
+<TOKEN id="token-35-8" pos="word" morph="none" start_char="1738" end_char="1744">ajustan</TOKEN>
+<TOKEN id="token-35-9" pos="word" morph="none" start_char="1746" end_char="1746">a</TOKEN>
+<TOKEN id="token-35-10" pos="word" morph="none" start_char="1748" end_char="1750">las</TOKEN>
+<TOKEN id="token-35-11" pos="word" morph="none" start_char="1752" end_char="1761">realidades</TOKEN>
+<TOKEN id="token-35-12" pos="word" morph="none" start_char="1763" end_char="1764">de</TOKEN>
+<TOKEN id="token-35-13" pos="word" morph="none" start_char="1766" end_char="1768">las</TOKEN>
+<TOKEN id="token-35-14" pos="word" morph="none" start_char="1770" end_char="1778">ganancias</TOKEN>
+<TOKEN id="token-35-15" pos="word" morph="none" start_char="1780" end_char="1781">de</TOKEN>
+<TOKEN id="token-35-16" pos="word" morph="none" start_char="1783" end_char="1785">las</TOKEN>
+<TOKEN id="token-35-17" pos="word" morph="none" start_char="1787" end_char="1795">compañias</TOKEN>
+<TOKEN id="token-35-18" pos="punct" morph="none" start_char="1796" end_char="1796">.</TOKEN>
+<TOKEN id="token-35-19" pos="word" morph="none" start_char="1797" end_char="1800">Todo</TOKEN>
+<TOKEN id="token-35-20" pos="word" morph="none" start_char="1802" end_char="1803">el</TOKEN>
+<TOKEN id="token-35-21" pos="word" morph="none" start_char="1805" end_char="1809">mundo</TOKEN>
+<TOKEN id="token-35-22" pos="word" morph="none" start_char="1811" end_char="1815">creia</TOKEN>
+<TOKEN id="token-35-23" pos="word" morph="none" start_char="1817" end_char="1819">que</TOKEN>
+<TOKEN id="token-35-24" pos="word" morph="none" start_char="1821" end_char="1825">china</TOKEN>
+<TOKEN id="token-35-25" pos="word" morph="none" start_char="1827" end_char="1829">iba</TOKEN>
+<TOKEN id="token-35-26" pos="word" morph="none" start_char="1831" end_char="1831">a</TOKEN>
+<TOKEN id="token-35-27" pos="word" morph="none" start_char="1833" end_char="1838">seguir</TOKEN>
+<TOKEN id="token-35-28" pos="word" morph="none" start_char="1840" end_char="1848">creciendo</TOKEN>
+<TOKEN id="token-35-29" pos="word" morph="none" start_char="1850" end_char="1851">al</TOKEN>
+<TOKEN id="token-35-30" pos="word" morph="none" start_char="1853" end_char="1853">7</TOKEN>
+<TOKEN id="token-35-31" pos="punct" morph="none" start_char="1854" end_char="1854">%</TOKEN>
+<TOKEN id="token-35-32" pos="word" morph="none" start_char="1856" end_char="1860">anual</TOKEN>
+<TOKEN id="token-35-33" pos="word" morph="none" start_char="1862" end_char="1865">para</TOKEN>
+<TOKEN id="token-35-34" pos="word" morph="none" start_char="1867" end_char="1873">siempre</TOKEN>
+<TOKEN id="token-35-35" pos="punct" morph="none" start_char="1874" end_char="1874">.</TOKEN>
+<TOKEN id="token-35-36" pos="word" morph="none" start_char="1875" end_char="1879">Ahora</TOKEN>
+<TOKEN id="token-35-37" pos="word" morph="none" start_char="1881" end_char="1886">cuando</TOKEN>
+<TOKEN id="token-35-38" pos="word" morph="none" start_char="1888" end_char="1889">la</TOKEN>
+<TOKEN id="token-35-39" pos="word" morph="none" start_char="1891" end_char="1898">economia</TOKEN>
+<TOKEN id="token-35-40" pos="word" morph="none" start_char="1900" end_char="1904">china</TOKEN>
+<TOKEN id="token-35-41" pos="word" morph="none" start_char="1906" end_char="1912">detiene</TOKEN>
+<TOKEN id="token-35-42" pos="word" morph="none" start_char="1914" end_char="1915">su</TOKEN>
+<TOKEN id="token-35-43" pos="word" morph="none" start_char="1917" end_char="1925">acelerado</TOKEN>
+<TOKEN id="token-35-44" pos="word" morph="none" start_char="1927" end_char="1937">crecimineto</TOKEN>
+<TOKEN id="token-35-45" pos="word" morph="none" start_char="1939" end_char="1940">la</TOKEN>
+<TOKEN id="token-35-46" pos="word" morph="none" start_char="1942" end_char="1945">dura</TOKEN>
+<TOKEN id="token-35-47" pos="word" morph="none" start_char="1947" end_char="1954">realidad</TOKEN>
+<TOKEN id="token-35-48" pos="word" morph="none" start_char="1956" end_char="1957">su</TOKEN>
+<TOKEN id="token-35-49" pos="word" morph="none" start_char="1959" end_char="1961">feo</TOKEN>
+<TOKEN id="token-35-50" pos="word" morph="none" start_char="1963" end_char="1968">rostro</TOKEN>
+<TOKEN id="token-35-51" pos="word" morph="none" start_char="1970" end_char="1970">y</TOKEN>
+<TOKEN id="token-35-52" pos="word" morph="none" start_char="1972" end_char="1973">ya</TOKEN>
+<TOKEN id="token-35-53" pos="word" morph="none" start_char="1975" end_char="1977">las</TOKEN>
+<TOKEN id="token-35-54" pos="word" morph="none" start_char="1979" end_char="1990">cotizaciones</TOKEN>
+<TOKEN id="token-35-55" pos="word" morph="none" start_char="1992" end_char="2000">abultadas</TOKEN>
+<TOKEN id="token-35-56" pos="word" morph="none" start_char="2002" end_char="2003">de</TOKEN>
+<TOKEN id="token-35-57" pos="word" morph="none" start_char="2005" end_char="2010">muchas</TOKEN>
+<TOKEN id="token-35-58" pos="word" morph="none" start_char="2012" end_char="2019">acciones</TOKEN>
+<TOKEN id="token-35-59" pos="word" morph="none" start_char="2021" end_char="2024">NOse</TOKEN>
+<TOKEN id="token-35-60" pos="word" morph="none" start_char="2026" end_char="2035">justifican</TOKEN>
+<TOKEN id="token-35-61" pos="word" morph="none" start_char="2037" end_char="2037">y</TOKEN>
+<TOKEN id="token-35-62" pos="word" morph="none" start_char="2039" end_char="2040">se</TOKEN>
+<TOKEN id="token-35-63" pos="word" morph="none" start_char="2042" end_char="2050">estrellan</TOKEN>
+<TOKEN id="token-35-64" pos="word" morph="none" start_char="2052" end_char="2054">las</TOKEN>
+<TOKEN id="token-35-65" pos="word" morph="none" start_char="2056" end_char="2061">Bolsas</TOKEN>
+</SEG>
+<SEG id="segment-36" start_char="2063" end_char="2069">
+<ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-36-0" pos="unknown" morph="none" start_char="2063" end_char="2069">&lt;/post&gt;</TOKEN>
+</SEG>
+<SEG id="segment-37" start_char="2071" end_char="2134">
+<ORIGINAL_TEXT>&lt;post id="p10" author="XXlordXX" datetime="2015-07-03T15:38:00"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-37-0" pos="unknown" morph="none" start_char="2071" end_char="2075">&lt;post</TOKEN>
+<TOKEN id="token-37-1" pos="unknown" morph="none" start_char="2077" end_char="2084">id="p10"</TOKEN>
+<TOKEN id="token-37-2" pos="unknown" morph="none" start_char="2086" end_char="2102">author="XXlordXX"</TOKEN>
+<TOKEN id="token-37-3" pos="unknown" morph="none" start_char="2104" end_char="2134">datetime="2015-07-03T15:38:00"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-38" start_char="2136" end_char="2165">
+<ORIGINAL_TEXT>&lt;quote orig_author="overlord"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-38-0" pos="unknown" morph="none" start_char="2136" end_char="2141">&lt;quote</TOKEN>
+<TOKEN id="token-38-1" pos="unknown" morph="none" start_char="2143" end_char="2165">orig_author="overlord"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-39" start_char="2167" end_char="2277">
+<ORIGINAL_TEXT>Ahora todo el mundo va a descubrir lo muchos venimos diciendo desde hace rato: La economia china es una estafa.</ORIGINAL_TEXT>
+<TOKEN id="token-39-0" pos="word" morph="none" start_char="2167" end_char="2171">Ahora</TOKEN>
+<TOKEN id="token-39-1" pos="word" morph="none" start_char="2173" end_char="2176">todo</TOKEN>
+<TOKEN id="token-39-2" pos="word" morph="none" start_char="2178" end_char="2179">el</TOKEN>
+<TOKEN id="token-39-3" pos="word" morph="none" start_char="2181" end_char="2185">mundo</TOKEN>
+<TOKEN id="token-39-4" pos="word" morph="none" start_char="2187" end_char="2188">va</TOKEN>
+<TOKEN id="token-39-5" pos="word" morph="none" start_char="2190" end_char="2190">a</TOKEN>
+<TOKEN id="token-39-6" pos="word" morph="none" start_char="2192" end_char="2200">descubrir</TOKEN>
+<TOKEN id="token-39-7" pos="word" morph="none" start_char="2202" end_char="2203">lo</TOKEN>
+<TOKEN id="token-39-8" pos="word" morph="none" start_char="2205" end_char="2210">muchos</TOKEN>
+<TOKEN id="token-39-9" pos="word" morph="none" start_char="2212" end_char="2218">venimos</TOKEN>
+<TOKEN id="token-39-10" pos="word" morph="none" start_char="2220" end_char="2227">diciendo</TOKEN>
+<TOKEN id="token-39-11" pos="word" morph="none" start_char="2229" end_char="2233">desde</TOKEN>
+<TOKEN id="token-39-12" pos="word" morph="none" start_char="2235" end_char="2238">hace</TOKEN>
+<TOKEN id="token-39-13" pos="word" morph="none" start_char="2240" end_char="2243">rato</TOKEN>
+<TOKEN id="token-39-14" pos="punct" morph="none" start_char="2244" end_char="2244">:</TOKEN>
+<TOKEN id="token-39-15" pos="word" morph="none" start_char="2246" end_char="2247">La</TOKEN>
+<TOKEN id="token-39-16" pos="word" morph="none" start_char="2249" end_char="2256">economia</TOKEN>
+<TOKEN id="token-39-17" pos="word" morph="none" start_char="2258" end_char="2262">china</TOKEN>
+<TOKEN id="token-39-18" pos="word" morph="none" start_char="2264" end_char="2265">es</TOKEN>
+<TOKEN id="token-39-19" pos="word" morph="none" start_char="2267" end_char="2269">una</TOKEN>
+<TOKEN id="token-39-20" pos="word" morph="none" start_char="2271" end_char="2276">estafa</TOKEN>
+<TOKEN id="token-39-21" pos="punct" morph="none" start_char="2277" end_char="2277">.</TOKEN>
+</SEG>
+<SEG id="segment-40" start_char="2279" end_char="2286">
+<ORIGINAL_TEXT>&lt;/quote&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-40-0" pos="unknown" morph="none" start_char="2279" end_char="2286">&lt;/quote&gt;</TOKEN>
+</SEG>
+<SEG id="segment-41" start_char="2288" end_char="2498">
+<ORIGINAL_TEXT>Asi es. La dependencia china extranjera, la falta de mercado interno. la estafa de la moneda, un pib mantenido a punta de pueblos fantasamas.... Un pais de esclavos con una ultraderecha roja rojita llenandose...</ORIGINAL_TEXT>
+<TOKEN id="token-41-0" pos="word" morph="none" start_char="2288" end_char="2290">Asi</TOKEN>
+<TOKEN id="token-41-1" pos="word" morph="none" start_char="2292" end_char="2293">es</TOKEN>
+<TOKEN id="token-41-2" pos="punct" morph="none" start_char="2294" end_char="2294">.</TOKEN>
+<TOKEN id="token-41-3" pos="word" morph="none" start_char="2296" end_char="2297">La</TOKEN>
+<TOKEN id="token-41-4" pos="word" morph="none" start_char="2299" end_char="2309">dependencia</TOKEN>
+<TOKEN id="token-41-5" pos="word" morph="none" start_char="2311" end_char="2315">china</TOKEN>
+<TOKEN id="token-41-6" pos="word" morph="none" start_char="2317" end_char="2326">extranjera</TOKEN>
+<TOKEN id="token-41-7" pos="punct" morph="none" start_char="2327" end_char="2327">,</TOKEN>
+<TOKEN id="token-41-8" pos="word" morph="none" start_char="2329" end_char="2330">la</TOKEN>
+<TOKEN id="token-41-9" pos="word" morph="none" start_char="2332" end_char="2336">falta</TOKEN>
+<TOKEN id="token-41-10" pos="word" morph="none" start_char="2338" end_char="2339">de</TOKEN>
+<TOKEN id="token-41-11" pos="word" morph="none" start_char="2341" end_char="2347">mercado</TOKEN>
+<TOKEN id="token-41-12" pos="word" morph="none" start_char="2349" end_char="2355">interno</TOKEN>
+<TOKEN id="token-41-13" pos="punct" morph="none" start_char="2356" end_char="2356">.</TOKEN>
+<TOKEN id="token-41-14" pos="word" morph="none" start_char="2358" end_char="2359">la</TOKEN>
+<TOKEN id="token-41-15" pos="word" morph="none" start_char="2361" end_char="2366">estafa</TOKEN>
+<TOKEN id="token-41-16" pos="word" morph="none" start_char="2368" end_char="2369">de</TOKEN>
+<TOKEN id="token-41-17" pos="word" morph="none" start_char="2371" end_char="2372">la</TOKEN>
+<TOKEN id="token-41-18" pos="word" morph="none" start_char="2374" end_char="2379">moneda</TOKEN>
+<TOKEN id="token-41-19" pos="punct" morph="none" start_char="2380" end_char="2380">,</TOKEN>
+<TOKEN id="token-41-20" pos="word" morph="none" start_char="2382" end_char="2383">un</TOKEN>
+<TOKEN id="token-41-21" pos="word" morph="none" start_char="2385" end_char="2387">pib</TOKEN>
+<TOKEN id="token-41-22" pos="word" morph="none" start_char="2389" end_char="2397">mantenido</TOKEN>
+<TOKEN id="token-41-23" pos="word" morph="none" start_char="2399" end_char="2399">a</TOKEN>
+<TOKEN id="token-41-24" pos="word" morph="none" start_char="2401" end_char="2405">punta</TOKEN>
+<TOKEN id="token-41-25" pos="word" morph="none" start_char="2407" end_char="2408">de</TOKEN>
+<TOKEN id="token-41-26" pos="word" morph="none" start_char="2410" end_char="2416">pueblos</TOKEN>
+<TOKEN id="token-41-27" pos="word" morph="none" start_char="2418" end_char="2427">fantasamas</TOKEN>
+<TOKEN id="token-41-28" pos="punct" morph="none" start_char="2428" end_char="2431">....</TOKEN>
+<TOKEN id="token-41-29" pos="word" morph="none" start_char="2433" end_char="2434">Un</TOKEN>
+<TOKEN id="token-41-30" pos="word" morph="none" start_char="2436" end_char="2439">pais</TOKEN>
+<TOKEN id="token-41-31" pos="word" morph="none" start_char="2441" end_char="2442">de</TOKEN>
+<TOKEN id="token-41-32" pos="word" morph="none" start_char="2444" end_char="2451">esclavos</TOKEN>
+<TOKEN id="token-41-33" pos="word" morph="none" start_char="2453" end_char="2455">con</TOKEN>
+<TOKEN id="token-41-34" pos="word" morph="none" start_char="2457" end_char="2459">una</TOKEN>
+<TOKEN id="token-41-35" pos="word" morph="none" start_char="2461" end_char="2472">ultraderecha</TOKEN>
+<TOKEN id="token-41-36" pos="word" morph="none" start_char="2474" end_char="2477">roja</TOKEN>
+<TOKEN id="token-41-37" pos="word" morph="none" start_char="2479" end_char="2484">rojita</TOKEN>
+<TOKEN id="token-41-38" pos="word" morph="none" start_char="2486" end_char="2495">llenandose</TOKEN>
+<TOKEN id="token-41-39" pos="punct" morph="none" start_char="2496" end_char="2498">...</TOKEN>
+</SEG>
+<SEG id="segment-42" start_char="2500" end_char="2506">
+<ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-42-0" pos="unknown" morph="none" start_char="2500" end_char="2506">&lt;/post&gt;</TOKEN>
+</SEG>
+<SEG id="segment-43" start_char="2508" end_char="2573">
+<ORIGINAL_TEXT>&lt;post id="p11" author="Vespaciano" datetime="2015-07-03T15:41:00"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-43-0" pos="unknown" morph="none" start_char="2508" end_char="2512">&lt;post</TOKEN>
+<TOKEN id="token-43-1" pos="unknown" morph="none" start_char="2514" end_char="2521">id="p11"</TOKEN>
+<TOKEN id="token-43-2" pos="unknown" morph="none" start_char="2523" end_char="2541">author="Vespaciano"</TOKEN>
+<TOKEN id="token-43-3" pos="unknown" morph="none" start_char="2543" end_char="2573">datetime="2015-07-03T15:41:00"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-44" start_char="2575" end_char="2786">
+<ORIGINAL_TEXT>Pues la prensa mundial tiene a la crisis griega como noticia de mayor interés en el ámbito económico... Habrá que ver si lo de China es coyuntural o el inicio del sacudón que muchos economistas habían presagiado.</ORIGINAL_TEXT>
+<TOKEN id="token-44-0" pos="word" morph="none" start_char="2575" end_char="2578">Pues</TOKEN>
+<TOKEN id="token-44-1" pos="word" morph="none" start_char="2580" end_char="2581">la</TOKEN>
+<TOKEN id="token-44-2" pos="word" morph="none" start_char="2583" end_char="2588">prensa</TOKEN>
+<TOKEN id="token-44-3" pos="word" morph="none" start_char="2590" end_char="2596">mundial</TOKEN>
+<TOKEN id="token-44-4" pos="word" morph="none" start_char="2598" end_char="2602">tiene</TOKEN>
+<TOKEN id="token-44-5" pos="word" morph="none" start_char="2604" end_char="2604">a</TOKEN>
+<TOKEN id="token-44-6" pos="word" morph="none" start_char="2606" end_char="2607">la</TOKEN>
+<TOKEN id="token-44-7" pos="word" morph="none" start_char="2609" end_char="2614">crisis</TOKEN>
+<TOKEN id="token-44-8" pos="word" morph="none" start_char="2616" end_char="2621">griega</TOKEN>
+<TOKEN id="token-44-9" pos="word" morph="none" start_char="2623" end_char="2626">como</TOKEN>
+<TOKEN id="token-44-10" pos="word" morph="none" start_char="2628" end_char="2634">noticia</TOKEN>
+<TOKEN id="token-44-11" pos="word" morph="none" start_char="2636" end_char="2637">de</TOKEN>
+<TOKEN id="token-44-12" pos="word" morph="none" start_char="2639" end_char="2643">mayor</TOKEN>
+<TOKEN id="token-44-13" pos="word" morph="none" start_char="2645" end_char="2651">interés</TOKEN>
+<TOKEN id="token-44-14" pos="word" morph="none" start_char="2653" end_char="2654">en</TOKEN>
+<TOKEN id="token-44-15" pos="word" morph="none" start_char="2656" end_char="2657">el</TOKEN>
+<TOKEN id="token-44-16" pos="word" morph="none" start_char="2659" end_char="2664">ámbito</TOKEN>
+<TOKEN id="token-44-17" pos="word" morph="none" start_char="2666" end_char="2674">económico</TOKEN>
+<TOKEN id="token-44-18" pos="punct" morph="none" start_char="2675" end_char="2677">...</TOKEN>
+<TOKEN id="token-44-19" pos="word" morph="none" start_char="2679" end_char="2683">Habrá</TOKEN>
+<TOKEN id="token-44-20" pos="word" morph="none" start_char="2685" end_char="2687">que</TOKEN>
+<TOKEN id="token-44-21" pos="word" morph="none" start_char="2689" end_char="2691">ver</TOKEN>
+<TOKEN id="token-44-22" pos="word" morph="none" start_char="2693" end_char="2694">si</TOKEN>
+<TOKEN id="token-44-23" pos="word" morph="none" start_char="2696" end_char="2697">lo</TOKEN>
+<TOKEN id="token-44-24" pos="word" morph="none" start_char="2699" end_char="2700">de</TOKEN>
+<TOKEN id="token-44-25" pos="word" morph="none" start_char="2702" end_char="2706">China</TOKEN>
+<TOKEN id="token-44-26" pos="word" morph="none" start_char="2708" end_char="2709">es</TOKEN>
+<TOKEN id="token-44-27" pos="word" morph="none" start_char="2711" end_char="2720">coyuntural</TOKEN>
+<TOKEN id="token-44-28" pos="word" morph="none" start_char="2722" end_char="2722">o</TOKEN>
+<TOKEN id="token-44-29" pos="word" morph="none" start_char="2724" end_char="2725">el</TOKEN>
+<TOKEN id="token-44-30" pos="word" morph="none" start_char="2727" end_char="2732">inicio</TOKEN>
+<TOKEN id="token-44-31" pos="word" morph="none" start_char="2734" end_char="2736">del</TOKEN>
+<TOKEN id="token-44-32" pos="word" morph="none" start_char="2738" end_char="2744">sacudón</TOKEN>
+<TOKEN id="token-44-33" pos="word" morph="none" start_char="2746" end_char="2748">que</TOKEN>
+<TOKEN id="token-44-34" pos="word" morph="none" start_char="2750" end_char="2755">muchos</TOKEN>
+<TOKEN id="token-44-35" pos="word" morph="none" start_char="2757" end_char="2767">economistas</TOKEN>
+<TOKEN id="token-44-36" pos="word" morph="none" start_char="2769" end_char="2774">habían</TOKEN>
+<TOKEN id="token-44-37" pos="word" morph="none" start_char="2776" end_char="2785">presagiado</TOKEN>
+<TOKEN id="token-44-38" pos="punct" morph="none" start_char="2786" end_char="2786">.</TOKEN>
+</SEG>
+<SEG id="segment-45" start_char="2788" end_char="2794">
+<ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-45-0" pos="unknown" morph="none" start_char="2788" end_char="2794">&lt;/post&gt;</TOKEN>
+</SEG>
+<SEG id="segment-46" start_char="2796" end_char="2859">
+<ORIGINAL_TEXT>&lt;post id="p12" author="citgüero" datetime="2015-07-03T15:43:00"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-46-0" pos="unknown" morph="none" start_char="2796" end_char="2800">&lt;post</TOKEN>
+<TOKEN id="token-46-1" pos="unknown" morph="none" start_char="2802" end_char="2809">id="p12"</TOKEN>
+<TOKEN id="token-46-2" pos="unknown" morph="none" start_char="2811" end_char="2827">author="citgüero"</TOKEN>
+<TOKEN id="token-46-3" pos="unknown" morph="none" start_char="2829" end_char="2859">datetime="2015-07-03T15:43:00"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-47" start_char="2861" end_char="2893">
+<ORIGINAL_TEXT>&lt;quote orig_author="darkwalker2"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-47-0" pos="unknown" morph="none" start_char="2861" end_char="2866">&lt;quote</TOKEN>
+<TOKEN id="token-47-1" pos="unknown" morph="none" start_char="2868" end_char="2893">orig_author="darkwalker2"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-48" start_char="2895" end_char="2929">
+<ORIGINAL_TEXT>A que se debe esta hecatombe china?</ORIGINAL_TEXT>
+<TOKEN id="token-48-0" pos="word" morph="none" start_char="2895" end_char="2895">A</TOKEN>
+<TOKEN id="token-48-1" pos="word" morph="none" start_char="2897" end_char="2899">que</TOKEN>
+<TOKEN id="token-48-2" pos="word" morph="none" start_char="2901" end_char="2902">se</TOKEN>
+<TOKEN id="token-48-3" pos="word" morph="none" start_char="2904" end_char="2907">debe</TOKEN>
+<TOKEN id="token-48-4" pos="word" morph="none" start_char="2909" end_char="2912">esta</TOKEN>
+<TOKEN id="token-48-5" pos="word" morph="none" start_char="2914" end_char="2922">hecatombe</TOKEN>
+<TOKEN id="token-48-6" pos="word" morph="none" start_char="2924" end_char="2928">china</TOKEN>
+<TOKEN id="token-48-7" pos="punct" morph="none" start_char="2929" end_char="2929">?</TOKEN>
+</SEG>
+<SEG id="segment-49" start_char="2931" end_char="2938">
+<ORIGINAL_TEXT>&lt;/quote&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-49-0" pos="unknown" morph="none" start_char="2931" end_char="2938">&lt;/quote&gt;</TOKEN>
+</SEG>
+<SEG id="segment-50" start_char="2940" end_char="3175">
+<ORIGINAL_TEXT>Muy simple , OCURRIO' cuando USA saco' al mercado mas petroleo del que habia en la demanda ,y los Saudies entendieron que precios altos de petroleo beneficiaban a su Enemigo Iran que es al c-ulo de atras de Su otro enemigo RUSIA.. &amp;#13;</ORIGINAL_TEXT>
+<TOKEN id="token-50-0" pos="word" morph="none" start_char="2940" end_char="2942">Muy</TOKEN>
+<TOKEN id="token-50-1" pos="word" morph="none" start_char="2944" end_char="2949">simple</TOKEN>
+<TOKEN id="token-50-2" pos="unknown" morph="none" start_char="2951" end_char="2951">,</TOKEN>
+<TOKEN id="token-50-3" pos="word" morph="none" start_char="2953" end_char="2959">OCURRIO</TOKEN>
+<TOKEN id="token-50-4" pos="punct" morph="none" start_char="2960" end_char="2960">'</TOKEN>
+<TOKEN id="token-50-5" pos="word" morph="none" start_char="2962" end_char="2967">cuando</TOKEN>
+<TOKEN id="token-50-6" pos="word" morph="none" start_char="2969" end_char="2971">USA</TOKEN>
+<TOKEN id="token-50-7" pos="word" morph="none" start_char="2973" end_char="2976">saco</TOKEN>
+<TOKEN id="token-50-8" pos="punct" morph="none" start_char="2977" end_char="2977">'</TOKEN>
+<TOKEN id="token-50-9" pos="word" morph="none" start_char="2979" end_char="2980">al</TOKEN>
+<TOKEN id="token-50-10" pos="word" morph="none" start_char="2982" end_char="2988">mercado</TOKEN>
+<TOKEN id="token-50-11" pos="word" morph="none" start_char="2990" end_char="2992">mas</TOKEN>
+<TOKEN id="token-50-12" pos="word" morph="none" start_char="2994" end_char="3001">petroleo</TOKEN>
+<TOKEN id="token-50-13" pos="word" morph="none" start_char="3003" end_char="3005">del</TOKEN>
+<TOKEN id="token-50-14" pos="word" morph="none" start_char="3007" end_char="3009">que</TOKEN>
+<TOKEN id="token-50-15" pos="word" morph="none" start_char="3011" end_char="3015">habia</TOKEN>
+<TOKEN id="token-50-16" pos="word" morph="none" start_char="3017" end_char="3018">en</TOKEN>
+<TOKEN id="token-50-17" pos="word" morph="none" start_char="3020" end_char="3021">la</TOKEN>
+<TOKEN id="token-50-18" pos="word" morph="none" start_char="3023" end_char="3029">demanda</TOKEN>
+<TOKEN id="token-50-19" pos="punct" morph="none" start_char="3031" end_char="3031">,</TOKEN>
+<TOKEN id="token-50-20" pos="word" morph="none" start_char="3032" end_char="3032">y</TOKEN>
+<TOKEN id="token-50-21" pos="word" morph="none" start_char="3034" end_char="3036">los</TOKEN>
+<TOKEN id="token-50-22" pos="word" morph="none" start_char="3038" end_char="3044">Saudies</TOKEN>
+<TOKEN id="token-50-23" pos="word" morph="none" start_char="3046" end_char="3056">entendieron</TOKEN>
+<TOKEN id="token-50-24" pos="word" morph="none" start_char="3058" end_char="3060">que</TOKEN>
+<TOKEN id="token-50-25" pos="word" morph="none" start_char="3062" end_char="3068">precios</TOKEN>
+<TOKEN id="token-50-26" pos="word" morph="none" start_char="3070" end_char="3074">altos</TOKEN>
+<TOKEN id="token-50-27" pos="word" morph="none" start_char="3076" end_char="3077">de</TOKEN>
+<TOKEN id="token-50-28" pos="word" morph="none" start_char="3079" end_char="3086">petroleo</TOKEN>
+<TOKEN id="token-50-29" pos="word" morph="none" start_char="3088" end_char="3099">beneficiaban</TOKEN>
+<TOKEN id="token-50-30" pos="word" morph="none" start_char="3101" end_char="3101">a</TOKEN>
+<TOKEN id="token-50-31" pos="word" morph="none" start_char="3103" end_char="3104">su</TOKEN>
+<TOKEN id="token-50-32" pos="word" morph="none" start_char="3106" end_char="3112">Enemigo</TOKEN>
+<TOKEN id="token-50-33" pos="word" morph="none" start_char="3114" end_char="3117">Iran</TOKEN>
+<TOKEN id="token-50-34" pos="word" morph="none" start_char="3119" end_char="3121">que</TOKEN>
+<TOKEN id="token-50-35" pos="word" morph="none" start_char="3123" end_char="3124">es</TOKEN>
+<TOKEN id="token-50-36" pos="word" morph="none" start_char="3126" end_char="3127">al</TOKEN>
+<TOKEN id="token-50-37" pos="word" morph="none" start_char="3129" end_char="3129">c</TOKEN>
+<TOKEN id="token-50-38" pos="punct" morph="none" start_char="3130" end_char="3130">-</TOKEN>
+<TOKEN id="token-50-39" pos="word" morph="none" start_char="3131" end_char="3133">ulo</TOKEN>
+<TOKEN id="token-50-40" pos="word" morph="none" start_char="3135" end_char="3136">de</TOKEN>
+<TOKEN id="token-50-41" pos="word" morph="none" start_char="3138" end_char="3142">atras</TOKEN>
+<TOKEN id="token-50-42" pos="word" morph="none" start_char="3144" end_char="3145">de</TOKEN>
+<TOKEN id="token-50-43" pos="word" morph="none" start_char="3147" end_char="3148">Su</TOKEN>
+<TOKEN id="token-50-44" pos="word" morph="none" start_char="3150" end_char="3153">otro</TOKEN>
+<TOKEN id="token-50-45" pos="word" morph="none" start_char="3155" end_char="3161">enemigo</TOKEN>
+<TOKEN id="token-50-46" pos="word" morph="none" start_char="3163" end_char="3167">RUSIA</TOKEN>
+<TOKEN id="token-50-47" pos="punct" morph="none" start_char="3168" end_char="3169">..</TOKEN>
+<TOKEN id="token-50-48" pos="punct" morph="none" start_char="3171" end_char="3172">&amp;#</TOKEN>
+<TOKEN id="token-50-49" pos="word" morph="none" start_char="3173" end_char="3174">13</TOKEN>
+<TOKEN id="token-50-50" pos="punct" morph="none" start_char="3175" end_char="3175">;</TOKEN>
+</SEG>
+<SEG id="segment-51" start_char="3177" end_char="3181">
+<ORIGINAL_TEXT>&amp;#13;</ORIGINAL_TEXT>
+<TOKEN id="token-51-0" pos="punct" morph="none" start_char="3177" end_char="3178">&amp;#</TOKEN>
+<TOKEN id="token-51-1" pos="word" morph="none" start_char="3179" end_char="3180">13</TOKEN>
+<TOKEN id="token-51-2" pos="punct" morph="none" start_char="3181" end_char="3181">;</TOKEN>
+</SEG>
+<SEG id="segment-52" start_char="3183" end_char="3407">
+<ORIGINAL_TEXT>Ya esa plata que estaba iendo a China para comprar peroles y mie-rda sin calidad , no va mas.. y se comenzo' a quedar en las estructuras INDUSTRIALES de USA y en menor grado en EUROPA.. y en muchio menor grado en Japon. &amp;#13;</ORIGINAL_TEXT>
+<TOKEN id="token-52-0" pos="word" morph="none" start_char="3183" end_char="3184">Ya</TOKEN>
+<TOKEN id="token-52-1" pos="word" morph="none" start_char="3186" end_char="3188">esa</TOKEN>
+<TOKEN id="token-52-2" pos="word" morph="none" start_char="3190" end_char="3194">plata</TOKEN>
+<TOKEN id="token-52-3" pos="word" morph="none" start_char="3196" end_char="3198">que</TOKEN>
+<TOKEN id="token-52-4" pos="word" morph="none" start_char="3200" end_char="3205">estaba</TOKEN>
+<TOKEN id="token-52-5" pos="word" morph="none" start_char="3207" end_char="3211">iendo</TOKEN>
+<TOKEN id="token-52-6" pos="word" morph="none" start_char="3213" end_char="3213">a</TOKEN>
+<TOKEN id="token-52-7" pos="word" morph="none" start_char="3215" end_char="3219">China</TOKEN>
+<TOKEN id="token-52-8" pos="word" morph="none" start_char="3221" end_char="3224">para</TOKEN>
+<TOKEN id="token-52-9" pos="word" morph="none" start_char="3226" end_char="3232">comprar</TOKEN>
+<TOKEN id="token-52-10" pos="word" morph="none" start_char="3234" end_char="3240">peroles</TOKEN>
+<TOKEN id="token-52-11" pos="word" morph="none" start_char="3242" end_char="3242">y</TOKEN>
+<TOKEN id="token-52-12" pos="word" morph="none" start_char="3244" end_char="3246">mie</TOKEN>
+<TOKEN id="token-52-13" pos="punct" morph="none" start_char="3247" end_char="3247">-</TOKEN>
+<TOKEN id="token-52-14" pos="word" morph="none" start_char="3248" end_char="3250">rda</TOKEN>
+<TOKEN id="token-52-15" pos="word" morph="none" start_char="3252" end_char="3254">sin</TOKEN>
+<TOKEN id="token-52-16" pos="word" morph="none" start_char="3256" end_char="3262">calidad</TOKEN>
+<TOKEN id="token-52-17" pos="unknown" morph="none" start_char="3264" end_char="3264">,</TOKEN>
+<TOKEN id="token-52-18" pos="word" morph="none" start_char="3266" end_char="3267">no</TOKEN>
+<TOKEN id="token-52-19" pos="word" morph="none" start_char="3269" end_char="3270">va</TOKEN>
+<TOKEN id="token-52-20" pos="word" morph="none" start_char="3272" end_char="3274">mas</TOKEN>
+<TOKEN id="token-52-21" pos="punct" morph="none" start_char="3275" end_char="3276">..</TOKEN>
+<TOKEN id="token-52-22" pos="word" morph="none" start_char="3278" end_char="3278">y</TOKEN>
+<TOKEN id="token-52-23" pos="word" morph="none" start_char="3280" end_char="3281">se</TOKEN>
+<TOKEN id="token-52-24" pos="word" morph="none" start_char="3283" end_char="3289">comenzo</TOKEN>
+<TOKEN id="token-52-25" pos="punct" morph="none" start_char="3290" end_char="3290">'</TOKEN>
+<TOKEN id="token-52-26" pos="word" morph="none" start_char="3292" end_char="3292">a</TOKEN>
+<TOKEN id="token-52-27" pos="word" morph="none" start_char="3294" end_char="3299">quedar</TOKEN>
+<TOKEN id="token-52-28" pos="word" morph="none" start_char="3301" end_char="3302">en</TOKEN>
+<TOKEN id="token-52-29" pos="word" morph="none" start_char="3304" end_char="3306">las</TOKEN>
+<TOKEN id="token-52-30" pos="word" morph="none" start_char="3308" end_char="3318">estructuras</TOKEN>
+<TOKEN id="token-52-31" pos="word" morph="none" start_char="3320" end_char="3331">INDUSTRIALES</TOKEN>
+<TOKEN id="token-52-32" pos="word" morph="none" start_char="3333" end_char="3334">de</TOKEN>
+<TOKEN id="token-52-33" pos="word" morph="none" start_char="3336" end_char="3338">USA</TOKEN>
+<TOKEN id="token-52-34" pos="word" morph="none" start_char="3340" end_char="3340">y</TOKEN>
+<TOKEN id="token-52-35" pos="word" morph="none" start_char="3342" end_char="3343">en</TOKEN>
+<TOKEN id="token-52-36" pos="word" morph="none" start_char="3345" end_char="3349">menor</TOKEN>
+<TOKEN id="token-52-37" pos="word" morph="none" start_char="3351" end_char="3355">grado</TOKEN>
+<TOKEN id="token-52-38" pos="word" morph="none" start_char="3357" end_char="3358">en</TOKEN>
+<TOKEN id="token-52-39" pos="word" morph="none" start_char="3360" end_char="3365">EUROPA</TOKEN>
+<TOKEN id="token-52-40" pos="punct" morph="none" start_char="3366" end_char="3367">..</TOKEN>
+<TOKEN id="token-52-41" pos="word" morph="none" start_char="3369" end_char="3369">y</TOKEN>
+<TOKEN id="token-52-42" pos="word" morph="none" start_char="3371" end_char="3372">en</TOKEN>
+<TOKEN id="token-52-43" pos="word" morph="none" start_char="3374" end_char="3379">muchio</TOKEN>
+<TOKEN id="token-52-44" pos="word" morph="none" start_char="3381" end_char="3385">menor</TOKEN>
+<TOKEN id="token-52-45" pos="word" morph="none" start_char="3387" end_char="3391">grado</TOKEN>
+<TOKEN id="token-52-46" pos="word" morph="none" start_char="3393" end_char="3394">en</TOKEN>
+<TOKEN id="token-52-47" pos="word" morph="none" start_char="3396" end_char="3400">Japon</TOKEN>
+<TOKEN id="token-52-48" pos="punct" morph="none" start_char="3401" end_char="3401">.</TOKEN>
+<TOKEN id="token-52-49" pos="punct" morph="none" start_char="3403" end_char="3404">&amp;#</TOKEN>
+<TOKEN id="token-52-50" pos="word" morph="none" start_char="3405" end_char="3406">13</TOKEN>
+<TOKEN id="token-52-51" pos="punct" morph="none" start_char="3407" end_char="3407">;</TOKEN>
+</SEG>
+<SEG id="segment-53" start_char="3409" end_char="3413">
+<ORIGINAL_TEXT>&amp;#13;</ORIGINAL_TEXT>
+<TOKEN id="token-53-0" pos="punct" morph="none" start_char="3409" end_char="3410">&amp;#</TOKEN>
+<TOKEN id="token-53-1" pos="word" morph="none" start_char="3411" end_char="3412">13</TOKEN>
+<TOKEN id="token-53-2" pos="punct" morph="none" start_char="3413" end_char="3413">;</TOKEN>
+</SEG>
+<SEG id="segment-54" start_char="3415" end_char="3588">
+<ORIGINAL_TEXT>Mosca con los saltos de ahogado de los chinos ,no acepten JAMAS que les compren la empresa donde trabajan ni creditos chinos de ninguna especie.(ESTO ES MUY EN SERIO MOSCA!!)</ORIGINAL_TEXT>
+<TOKEN id="token-54-0" pos="word" morph="none" start_char="3415" end_char="3419">Mosca</TOKEN>
+<TOKEN id="token-54-1" pos="word" morph="none" start_char="3421" end_char="3423">con</TOKEN>
+<TOKEN id="token-54-2" pos="word" morph="none" start_char="3425" end_char="3427">los</TOKEN>
+<TOKEN id="token-54-3" pos="word" morph="none" start_char="3429" end_char="3434">saltos</TOKEN>
+<TOKEN id="token-54-4" pos="word" morph="none" start_char="3436" end_char="3437">de</TOKEN>
+<TOKEN id="token-54-5" pos="word" morph="none" start_char="3439" end_char="3445">ahogado</TOKEN>
+<TOKEN id="token-54-6" pos="word" morph="none" start_char="3447" end_char="3448">de</TOKEN>
+<TOKEN id="token-54-7" pos="word" morph="none" start_char="3450" end_char="3452">los</TOKEN>
+<TOKEN id="token-54-8" pos="word" morph="none" start_char="3454" end_char="3459">chinos</TOKEN>
+<TOKEN id="token-54-9" pos="punct" morph="none" start_char="3461" end_char="3461">,</TOKEN>
+<TOKEN id="token-54-10" pos="word" morph="none" start_char="3462" end_char="3463">no</TOKEN>
+<TOKEN id="token-54-11" pos="word" morph="none" start_char="3465" end_char="3471">acepten</TOKEN>
+<TOKEN id="token-54-12" pos="word" morph="none" start_char="3473" end_char="3477">JAMAS</TOKEN>
+<TOKEN id="token-54-13" pos="word" morph="none" start_char="3479" end_char="3481">que</TOKEN>
+<TOKEN id="token-54-14" pos="word" morph="none" start_char="3483" end_char="3485">les</TOKEN>
+<TOKEN id="token-54-15" pos="word" morph="none" start_char="3487" end_char="3493">compren</TOKEN>
+<TOKEN id="token-54-16" pos="word" morph="none" start_char="3495" end_char="3496">la</TOKEN>
+<TOKEN id="token-54-17" pos="word" morph="none" start_char="3498" end_char="3504">empresa</TOKEN>
+<TOKEN id="token-54-18" pos="word" morph="none" start_char="3506" end_char="3510">donde</TOKEN>
+<TOKEN id="token-54-19" pos="word" morph="none" start_char="3512" end_char="3519">trabajan</TOKEN>
+<TOKEN id="token-54-20" pos="word" morph="none" start_char="3521" end_char="3522">ni</TOKEN>
+<TOKEN id="token-54-21" pos="word" morph="none" start_char="3524" end_char="3531">creditos</TOKEN>
+<TOKEN id="token-54-22" pos="word" morph="none" start_char="3533" end_char="3538">chinos</TOKEN>
+<TOKEN id="token-54-23" pos="word" morph="none" start_char="3540" end_char="3541">de</TOKEN>
+<TOKEN id="token-54-24" pos="word" morph="none" start_char="3543" end_char="3549">ninguna</TOKEN>
+<TOKEN id="token-54-25" pos="word" morph="none" start_char="3551" end_char="3557">especie</TOKEN>
+<TOKEN id="token-54-26" pos="punct" morph="none" start_char="3558" end_char="3559">.(</TOKEN>
+<TOKEN id="token-54-27" pos="word" morph="none" start_char="3560" end_char="3563">ESTO</TOKEN>
+<TOKEN id="token-54-28" pos="word" morph="none" start_char="3565" end_char="3566">ES</TOKEN>
+<TOKEN id="token-54-29" pos="word" morph="none" start_char="3568" end_char="3570">MUY</TOKEN>
+<TOKEN id="token-54-30" pos="word" morph="none" start_char="3572" end_char="3573">EN</TOKEN>
+<TOKEN id="token-54-31" pos="word" morph="none" start_char="3575" end_char="3579">SERIO</TOKEN>
+<TOKEN id="token-54-32" pos="word" morph="none" start_char="3581" end_char="3585">MOSCA</TOKEN>
+<TOKEN id="token-54-33" pos="punct" morph="none" start_char="3586" end_char="3588">!!)</TOKEN>
+</SEG>
+<SEG id="segment-55" start_char="3590" end_char="3596">
+<ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-55-0" pos="unknown" morph="none" start_char="3590" end_char="3596">&lt;/post&gt;</TOKEN>
+</SEG>
+<SEG id="segment-56" start_char="3598" end_char="3661">
+<ORIGINAL_TEXT>&lt;post id="p13" author="citgüero" datetime="2015-07-03T15:45:00"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-56-0" pos="unknown" morph="none" start_char="3598" end_char="3602">&lt;post</TOKEN>
+<TOKEN id="token-56-1" pos="unknown" morph="none" start_char="3604" end_char="3611">id="p13"</TOKEN>
+<TOKEN id="token-56-2" pos="unknown" morph="none" start_char="3613" end_char="3629">author="citgüero"</TOKEN>
+<TOKEN id="token-56-3" pos="unknown" morph="none" start_char="3631" end_char="3661">datetime="2015-07-03T15:45:00"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-57" start_char="3663" end_char="3692">
+<ORIGINAL_TEXT>&lt;quote orig_author="XXlordXX"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-57-0" pos="unknown" morph="none" start_char="3663" end_char="3668">&lt;quote</TOKEN>
+<TOKEN id="token-57-1" pos="unknown" morph="none" start_char="3670" end_char="3692">orig_author="XXlordXX"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-58" start_char="3694" end_char="3904">
+<ORIGINAL_TEXT>Asi es. La dependencia china extranjera, la falta de mercado interno. la estafa de la moneda, un pib mantenido a punta de pueblos fantasamas.... Un pais de esclavos con una ultraderecha roja rojita llenandose...</ORIGINAL_TEXT>
+<TOKEN id="token-58-0" pos="word" morph="none" start_char="3694" end_char="3696">Asi</TOKEN>
+<TOKEN id="token-58-1" pos="word" morph="none" start_char="3698" end_char="3699">es</TOKEN>
+<TOKEN id="token-58-2" pos="punct" morph="none" start_char="3700" end_char="3700">.</TOKEN>
+<TOKEN id="token-58-3" pos="word" morph="none" start_char="3702" end_char="3703">La</TOKEN>
+<TOKEN id="token-58-4" pos="word" morph="none" start_char="3705" end_char="3715">dependencia</TOKEN>
+<TOKEN id="token-58-5" pos="word" morph="none" start_char="3717" end_char="3721">china</TOKEN>
+<TOKEN id="token-58-6" pos="word" morph="none" start_char="3723" end_char="3732">extranjera</TOKEN>
+<TOKEN id="token-58-7" pos="punct" morph="none" start_char="3733" end_char="3733">,</TOKEN>
+<TOKEN id="token-58-8" pos="word" morph="none" start_char="3735" end_char="3736">la</TOKEN>
+<TOKEN id="token-58-9" pos="word" morph="none" start_char="3738" end_char="3742">falta</TOKEN>
+<TOKEN id="token-58-10" pos="word" morph="none" start_char="3744" end_char="3745">de</TOKEN>
+<TOKEN id="token-58-11" pos="word" morph="none" start_char="3747" end_char="3753">mercado</TOKEN>
+<TOKEN id="token-58-12" pos="word" morph="none" start_char="3755" end_char="3761">interno</TOKEN>
+<TOKEN id="token-58-13" pos="punct" morph="none" start_char="3762" end_char="3762">.</TOKEN>
+<TOKEN id="token-58-14" pos="word" morph="none" start_char="3764" end_char="3765">la</TOKEN>
+<TOKEN id="token-58-15" pos="word" morph="none" start_char="3767" end_char="3772">estafa</TOKEN>
+<TOKEN id="token-58-16" pos="word" morph="none" start_char="3774" end_char="3775">de</TOKEN>
+<TOKEN id="token-58-17" pos="word" morph="none" start_char="3777" end_char="3778">la</TOKEN>
+<TOKEN id="token-58-18" pos="word" morph="none" start_char="3780" end_char="3785">moneda</TOKEN>
+<TOKEN id="token-58-19" pos="punct" morph="none" start_char="3786" end_char="3786">,</TOKEN>
+<TOKEN id="token-58-20" pos="word" morph="none" start_char="3788" end_char="3789">un</TOKEN>
+<TOKEN id="token-58-21" pos="word" morph="none" start_char="3791" end_char="3793">pib</TOKEN>
+<TOKEN id="token-58-22" pos="word" morph="none" start_char="3795" end_char="3803">mantenido</TOKEN>
+<TOKEN id="token-58-23" pos="word" morph="none" start_char="3805" end_char="3805">a</TOKEN>
+<TOKEN id="token-58-24" pos="word" morph="none" start_char="3807" end_char="3811">punta</TOKEN>
+<TOKEN id="token-58-25" pos="word" morph="none" start_char="3813" end_char="3814">de</TOKEN>
+<TOKEN id="token-58-26" pos="word" morph="none" start_char="3816" end_char="3822">pueblos</TOKEN>
+<TOKEN id="token-58-27" pos="word" morph="none" start_char="3824" end_char="3833">fantasamas</TOKEN>
+<TOKEN id="token-58-28" pos="punct" morph="none" start_char="3834" end_char="3837">....</TOKEN>
+<TOKEN id="token-58-29" pos="word" morph="none" start_char="3839" end_char="3840">Un</TOKEN>
+<TOKEN id="token-58-30" pos="word" morph="none" start_char="3842" end_char="3845">pais</TOKEN>
+<TOKEN id="token-58-31" pos="word" morph="none" start_char="3847" end_char="3848">de</TOKEN>
+<TOKEN id="token-58-32" pos="word" morph="none" start_char="3850" end_char="3857">esclavos</TOKEN>
+<TOKEN id="token-58-33" pos="word" morph="none" start_char="3859" end_char="3861">con</TOKEN>
+<TOKEN id="token-58-34" pos="word" morph="none" start_char="3863" end_char="3865">una</TOKEN>
+<TOKEN id="token-58-35" pos="word" morph="none" start_char="3867" end_char="3878">ultraderecha</TOKEN>
+<TOKEN id="token-58-36" pos="word" morph="none" start_char="3880" end_char="3883">roja</TOKEN>
+<TOKEN id="token-58-37" pos="word" morph="none" start_char="3885" end_char="3890">rojita</TOKEN>
+<TOKEN id="token-58-38" pos="word" morph="none" start_char="3892" end_char="3901">llenandose</TOKEN>
+<TOKEN id="token-58-39" pos="punct" morph="none" start_char="3902" end_char="3904">...</TOKEN>
+</SEG>
+<SEG id="segment-59" start_char="3906" end_char="3913">
+<ORIGINAL_TEXT>&lt;/quote&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-59-0" pos="unknown" morph="none" start_char="3906" end_char="3913">&lt;/quote&gt;</TOKEN>
+</SEG>
+<SEG id="segment-60" start_char="3915" end_char="3978">
+<ORIGINAL_TEXT>Y otra cosa ,ya USA arranco' su poderio Industrial pesado. &amp;#13;</ORIGINAL_TEXT>
+<TOKEN id="token-60-0" pos="word" morph="none" start_char="3915" end_char="3915">Y</TOKEN>
+<TOKEN id="token-60-1" pos="word" morph="none" start_char="3917" end_char="3920">otra</TOKEN>
+<TOKEN id="token-60-2" pos="word" morph="none" start_char="3922" end_char="3925">cosa</TOKEN>
+<TOKEN id="token-60-3" pos="punct" morph="none" start_char="3927" end_char="3927">,</TOKEN>
+<TOKEN id="token-60-4" pos="word" morph="none" start_char="3928" end_char="3929">ya</TOKEN>
+<TOKEN id="token-60-5" pos="word" morph="none" start_char="3931" end_char="3933">USA</TOKEN>
+<TOKEN id="token-60-6" pos="word" morph="none" start_char="3935" end_char="3941">arranco</TOKEN>
+<TOKEN id="token-60-7" pos="punct" morph="none" start_char="3942" end_char="3942">'</TOKEN>
+<TOKEN id="token-60-8" pos="word" morph="none" start_char="3944" end_char="3945">su</TOKEN>
+<TOKEN id="token-60-9" pos="word" morph="none" start_char="3947" end_char="3953">poderio</TOKEN>
+<TOKEN id="token-60-10" pos="word" morph="none" start_char="3955" end_char="3964">Industrial</TOKEN>
+<TOKEN id="token-60-11" pos="word" morph="none" start_char="3966" end_char="3971">pesado</TOKEN>
+<TOKEN id="token-60-12" pos="punct" morph="none" start_char="3972" end_char="3972">.</TOKEN>
+<TOKEN id="token-60-13" pos="punct" morph="none" start_char="3974" end_char="3975">&amp;#</TOKEN>
+<TOKEN id="token-60-14" pos="word" morph="none" start_char="3976" end_char="3977">13</TOKEN>
+<TOKEN id="token-60-15" pos="punct" morph="none" start_char="3978" end_char="3978">;</TOKEN>
+</SEG>
+<SEG id="segment-61" start_char="3980" end_char="3984">
+<ORIGINAL_TEXT>&amp;#13;</ORIGINAL_TEXT>
+<TOKEN id="token-61-0" pos="punct" morph="none" start_char="3980" end_char="3981">&amp;#</TOKEN>
+<TOKEN id="token-61-1" pos="word" morph="none" start_char="3982" end_char="3983">13</TOKEN>
+<TOKEN id="token-61-2" pos="punct" morph="none" start_char="3984" end_char="3984">;</TOKEN>
+</SEG>
+<SEG id="segment-62" start_char="3986" end_char="3994">
+<ORIGINAL_TEXT>TIC TAC..</ORIGINAL_TEXT>
+<TOKEN id="token-62-0" pos="word" morph="none" start_char="3986" end_char="3988">TIC</TOKEN>
+<TOKEN id="token-62-1" pos="word" morph="none" start_char="3990" end_char="3992">TAC</TOKEN>
+<TOKEN id="token-62-2" pos="punct" morph="none" start_char="3993" end_char="3994">..</TOKEN>
+</SEG>
+<SEG id="segment-63" start_char="3996" end_char="4002">
+<ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-63-0" pos="unknown" morph="none" start_char="3996" end_char="4002">&lt;/post&gt;</TOKEN>
+</SEG>
+<SEG id="segment-64" start_char="4004" end_char="4062">
+<ORIGINAL_TEXT>&lt;post id="p14" author="NEO" datetime="2015-07-03T15:59:00"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-64-0" pos="unknown" morph="none" start_char="4004" end_char="4008">&lt;post</TOKEN>
+<TOKEN id="token-64-1" pos="unknown" morph="none" start_char="4010" end_char="4017">id="p14"</TOKEN>
+<TOKEN id="token-64-2" pos="unknown" morph="none" start_char="4019" end_char="4030">author="NEO"</TOKEN>
+<TOKEN id="token-64-3" pos="unknown" morph="none" start_char="4032" end_char="4062">datetime="2015-07-03T15:59:00"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-65" start_char="4064" end_char="4093">
+<ORIGINAL_TEXT>&lt;quote orig_author="XXlordXX"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-65-0" pos="unknown" morph="none" start_char="4064" end_char="4069">&lt;quote</TOKEN>
+<TOKEN id="token-65-1" pos="unknown" morph="none" start_char="4071" end_char="4093">orig_author="XXlordXX"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-66" start_char="4095" end_char="4211">
+<ORIGINAL_TEXT>Lo que muchos analistas del mercado creen es que los índices chinos han sido inflados 150 por ciento en el último año</ORIGINAL_TEXT>
+<TOKEN id="token-66-0" pos="word" morph="none" start_char="4095" end_char="4096">Lo</TOKEN>
+<TOKEN id="token-66-1" pos="word" morph="none" start_char="4098" end_char="4100">que</TOKEN>
+<TOKEN id="token-66-2" pos="word" morph="none" start_char="4102" end_char="4107">muchos</TOKEN>
+<TOKEN id="token-66-3" pos="word" morph="none" start_char="4109" end_char="4117">analistas</TOKEN>
+<TOKEN id="token-66-4" pos="word" morph="none" start_char="4119" end_char="4121">del</TOKEN>
+<TOKEN id="token-66-5" pos="word" morph="none" start_char="4123" end_char="4129">mercado</TOKEN>
+<TOKEN id="token-66-6" pos="word" morph="none" start_char="4131" end_char="4135">creen</TOKEN>
+<TOKEN id="token-66-7" pos="word" morph="none" start_char="4137" end_char="4138">es</TOKEN>
+<TOKEN id="token-66-8" pos="word" morph="none" start_char="4140" end_char="4142">que</TOKEN>
+<TOKEN id="token-66-9" pos="word" morph="none" start_char="4144" end_char="4146">los</TOKEN>
+<TOKEN id="token-66-10" pos="word" morph="none" start_char="4148" end_char="4154">índices</TOKEN>
+<TOKEN id="token-66-11" pos="word" morph="none" start_char="4156" end_char="4161">chinos</TOKEN>
+<TOKEN id="token-66-12" pos="word" morph="none" start_char="4163" end_char="4165">han</TOKEN>
+<TOKEN id="token-66-13" pos="word" morph="none" start_char="4167" end_char="4170">sido</TOKEN>
+<TOKEN id="token-66-14" pos="word" morph="none" start_char="4172" end_char="4179">inflados</TOKEN>
+<TOKEN id="token-66-15" pos="number" morph="none" start_char="4181" end_char="4183">150</TOKEN>
+<TOKEN id="token-66-16" pos="word" morph="none" start_char="4185" end_char="4187">por</TOKEN>
+<TOKEN id="token-66-17" pos="word" morph="none" start_char="4189" end_char="4194">ciento</TOKEN>
+<TOKEN id="token-66-18" pos="word" morph="none" start_char="4196" end_char="4197">en</TOKEN>
+<TOKEN id="token-66-19" pos="word" morph="none" start_char="4199" end_char="4200">el</TOKEN>
+<TOKEN id="token-66-20" pos="word" morph="none" start_char="4202" end_char="4207">último</TOKEN>
+<TOKEN id="token-66-21" pos="word" morph="none" start_char="4209" end_char="4211">año</TOKEN>
+</SEG>
+<SEG id="segment-67" start_char="4213" end_char="4220">
+<ORIGINAL_TEXT>&lt;/quote&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-67-0" pos="unknown" morph="none" start_char="4213" end_char="4220">&lt;/quote&gt;</TOKEN>
+</SEG>
+<SEG id="segment-68" start_char="4222" end_char="4290">
+<ORIGINAL_TEXT>Creo que queda poco por analizar en caso de que eso sea verdad. &amp;#13;</ORIGINAL_TEXT>
+<TOKEN id="token-68-0" pos="word" morph="none" start_char="4222" end_char="4225">Creo</TOKEN>
+<TOKEN id="token-68-1" pos="word" morph="none" start_char="4227" end_char="4229">que</TOKEN>
+<TOKEN id="token-68-2" pos="word" morph="none" start_char="4231" end_char="4235">queda</TOKEN>
+<TOKEN id="token-68-3" pos="word" morph="none" start_char="4237" end_char="4240">poco</TOKEN>
+<TOKEN id="token-68-4" pos="word" morph="none" start_char="4242" end_char="4244">por</TOKEN>
+<TOKEN id="token-68-5" pos="word" morph="none" start_char="4246" end_char="4253">analizar</TOKEN>
+<TOKEN id="token-68-6" pos="word" morph="none" start_char="4255" end_char="4256">en</TOKEN>
+<TOKEN id="token-68-7" pos="word" morph="none" start_char="4258" end_char="4261">caso</TOKEN>
+<TOKEN id="token-68-8" pos="word" morph="none" start_char="4263" end_char="4264">de</TOKEN>
+<TOKEN id="token-68-9" pos="word" morph="none" start_char="4266" end_char="4268">que</TOKEN>
+<TOKEN id="token-68-10" pos="word" morph="none" start_char="4270" end_char="4272">eso</TOKEN>
+<TOKEN id="token-68-11" pos="word" morph="none" start_char="4274" end_char="4276">sea</TOKEN>
+<TOKEN id="token-68-12" pos="word" morph="none" start_char="4278" end_char="4283">verdad</TOKEN>
+<TOKEN id="token-68-13" pos="punct" morph="none" start_char="4284" end_char="4284">.</TOKEN>
+<TOKEN id="token-68-14" pos="punct" morph="none" start_char="4286" end_char="4287">&amp;#</TOKEN>
+<TOKEN id="token-68-15" pos="word" morph="none" start_char="4288" end_char="4289">13</TOKEN>
+<TOKEN id="token-68-16" pos="punct" morph="none" start_char="4290" end_char="4290">;</TOKEN>
+</SEG>
+<SEG id="segment-69" start_char="4292" end_char="4296">
+<ORIGINAL_TEXT>&amp;#13;</ORIGINAL_TEXT>
+<TOKEN id="token-69-0" pos="punct" morph="none" start_char="4292" end_char="4293">&amp;#</TOKEN>
+<TOKEN id="token-69-1" pos="word" morph="none" start_char="4294" end_char="4295">13</TOKEN>
+<TOKEN id="token-69-2" pos="punct" morph="none" start_char="4296" end_char="4296">;</TOKEN>
+</SEG>
+<SEG id="segment-70" start_char="4298" end_char="4321">
+<ORIGINAL_TEXT>el koñazo va a ser duro.</ORIGINAL_TEXT>
+<TOKEN id="token-70-0" pos="word" morph="none" start_char="4298" end_char="4299">el</TOKEN>
+<TOKEN id="token-70-1" pos="word" morph="none" start_char="4301" end_char="4306">koñazo</TOKEN>
+<TOKEN id="token-70-2" pos="word" morph="none" start_char="4308" end_char="4309">va</TOKEN>
+<TOKEN id="token-70-3" pos="word" morph="none" start_char="4311" end_char="4311">a</TOKEN>
+<TOKEN id="token-70-4" pos="word" morph="none" start_char="4313" end_char="4315">ser</TOKEN>
+<TOKEN id="token-70-5" pos="word" morph="none" start_char="4317" end_char="4320">duro</TOKEN>
+<TOKEN id="token-70-6" pos="punct" morph="none" start_char="4321" end_char="4321">.</TOKEN>
+</SEG>
+<SEG id="segment-71" start_char="4323" end_char="4329">
+<ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-71-0" pos="unknown" morph="none" start_char="4323" end_char="4329">&lt;/post&gt;</TOKEN>
+</SEG>
+<SEG id="segment-72" start_char="4331" end_char="4394">
+<ORIGINAL_TEXT>&lt;post id="p15" author="XXlordXX" datetime="2015-07-03T16:00:00"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-72-0" pos="unknown" morph="none" start_char="4331" end_char="4335">&lt;post</TOKEN>
+<TOKEN id="token-72-1" pos="unknown" morph="none" start_char="4337" end_char="4344">id="p15"</TOKEN>
+<TOKEN id="token-72-2" pos="unknown" morph="none" start_char="4346" end_char="4362">author="XXlordXX"</TOKEN>
+<TOKEN id="token-72-3" pos="unknown" morph="none" start_char="4364" end_char="4394">datetime="2015-07-03T16:00:00"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-73" start_char="4396" end_char="4425">
+<ORIGINAL_TEXT>&lt;quote orig_author="citgüero"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-73-0" pos="unknown" morph="none" start_char="4396" end_char="4401">&lt;quote</TOKEN>
+<TOKEN id="token-73-1" pos="unknown" morph="none" start_char="4403" end_char="4425">orig_author="citgüero"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-74" start_char="4427" end_char="4485">
+<ORIGINAL_TEXT>Y otra cosa ,ya USA arranco' su poderio Industrial pesado. </ORIGINAL_TEXT>
+<TOKEN id="token-74-0" pos="word" morph="none" start_char="4427" end_char="4427">Y</TOKEN>
+<TOKEN id="token-74-1" pos="word" morph="none" start_char="4429" end_char="4432">otra</TOKEN>
+<TOKEN id="token-74-2" pos="word" morph="none" start_char="4434" end_char="4437">cosa</TOKEN>
+<TOKEN id="token-74-3" pos="punct" morph="none" start_char="4439" end_char="4439">,</TOKEN>
+<TOKEN id="token-74-4" pos="word" morph="none" start_char="4440" end_char="4441">ya</TOKEN>
+<TOKEN id="token-74-5" pos="word" morph="none" start_char="4443" end_char="4445">USA</TOKEN>
+<TOKEN id="token-74-6" pos="word" morph="none" start_char="4447" end_char="4453">arranco</TOKEN>
+<TOKEN id="token-74-7" pos="punct" morph="none" start_char="4454" end_char="4454">'</TOKEN>
+<TOKEN id="token-74-8" pos="word" morph="none" start_char="4456" end_char="4457">su</TOKEN>
+<TOKEN id="token-74-9" pos="word" morph="none" start_char="4459" end_char="4465">poderio</TOKEN>
+<TOKEN id="token-74-10" pos="word" morph="none" start_char="4467" end_char="4476">Industrial</TOKEN>
+<TOKEN id="token-74-11" pos="word" morph="none" start_char="4478" end_char="4483">pesado</TOKEN>
+<TOKEN id="token-74-12" pos="punct" morph="none" start_char="4484" end_char="4484">.</TOKEN>
+</SEG>
+<SEG id="segment-75" start_char="4487" end_char="4494">
+<ORIGINAL_TEXT>&lt;/quote&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-75-0" pos="unknown" morph="none" start_char="4487" end_char="4494">&lt;/quote&gt;</TOKEN>
+</SEG>
+<SEG id="segment-76" start_char="4496" end_char="4763">
+<ORIGINAL_TEXT>Eso estaba leyendo hace poco. Hay ciudades como Houston y areas como los tres lagos donde, hay un crecimiento gigantesco de la manufactura. Estan hablando del renacimiento de la manufactura. Por ahi vi que se estaban estudiando incentivos a la manufactura. Ya es hora.</ORIGINAL_TEXT>
+<TOKEN id="token-76-0" pos="word" morph="none" start_char="4496" end_char="4498">Eso</TOKEN>
+<TOKEN id="token-76-1" pos="word" morph="none" start_char="4500" end_char="4505">estaba</TOKEN>
+<TOKEN id="token-76-2" pos="word" morph="none" start_char="4507" end_char="4513">leyendo</TOKEN>
+<TOKEN id="token-76-3" pos="word" morph="none" start_char="4515" end_char="4518">hace</TOKEN>
+<TOKEN id="token-76-4" pos="word" morph="none" start_char="4520" end_char="4523">poco</TOKEN>
+<TOKEN id="token-76-5" pos="punct" morph="none" start_char="4524" end_char="4524">.</TOKEN>
+<TOKEN id="token-76-6" pos="word" morph="none" start_char="4526" end_char="4528">Hay</TOKEN>
+<TOKEN id="token-76-7" pos="word" morph="none" start_char="4530" end_char="4537">ciudades</TOKEN>
+<TOKEN id="token-76-8" pos="word" morph="none" start_char="4539" end_char="4542">como</TOKEN>
+<TOKEN id="token-76-9" pos="word" morph="none" start_char="4544" end_char="4550">Houston</TOKEN>
+<TOKEN id="token-76-10" pos="word" morph="none" start_char="4552" end_char="4552">y</TOKEN>
+<TOKEN id="token-76-11" pos="word" morph="none" start_char="4554" end_char="4558">areas</TOKEN>
+<TOKEN id="token-76-12" pos="word" morph="none" start_char="4560" end_char="4563">como</TOKEN>
+<TOKEN id="token-76-13" pos="word" morph="none" start_char="4565" end_char="4567">los</TOKEN>
+<TOKEN id="token-76-14" pos="word" morph="none" start_char="4569" end_char="4572">tres</TOKEN>
+<TOKEN id="token-76-15" pos="word" morph="none" start_char="4574" end_char="4578">lagos</TOKEN>
+<TOKEN id="token-76-16" pos="word" morph="none" start_char="4580" end_char="4584">donde</TOKEN>
+<TOKEN id="token-76-17" pos="punct" morph="none" start_char="4585" end_char="4585">,</TOKEN>
+<TOKEN id="token-76-18" pos="word" morph="none" start_char="4587" end_char="4589">hay</TOKEN>
+<TOKEN id="token-76-19" pos="word" morph="none" start_char="4591" end_char="4592">un</TOKEN>
+<TOKEN id="token-76-20" pos="word" morph="none" start_char="4594" end_char="4604">crecimiento</TOKEN>
+<TOKEN id="token-76-21" pos="word" morph="none" start_char="4606" end_char="4615">gigantesco</TOKEN>
+<TOKEN id="token-76-22" pos="word" morph="none" start_char="4617" end_char="4618">de</TOKEN>
+<TOKEN id="token-76-23" pos="word" morph="none" start_char="4620" end_char="4621">la</TOKEN>
+<TOKEN id="token-76-24" pos="word" morph="none" start_char="4623" end_char="4633">manufactura</TOKEN>
+<TOKEN id="token-76-25" pos="punct" morph="none" start_char="4634" end_char="4634">.</TOKEN>
+<TOKEN id="token-76-26" pos="word" morph="none" start_char="4636" end_char="4640">Estan</TOKEN>
+<TOKEN id="token-76-27" pos="word" morph="none" start_char="4642" end_char="4649">hablando</TOKEN>
+<TOKEN id="token-76-28" pos="word" morph="none" start_char="4651" end_char="4653">del</TOKEN>
+<TOKEN id="token-76-29" pos="word" morph="none" start_char="4655" end_char="4666">renacimiento</TOKEN>
+<TOKEN id="token-76-30" pos="word" morph="none" start_char="4668" end_char="4669">de</TOKEN>
+<TOKEN id="token-76-31" pos="word" morph="none" start_char="4671" end_char="4672">la</TOKEN>
+<TOKEN id="token-76-32" pos="word" morph="none" start_char="4674" end_char="4684">manufactura</TOKEN>
+<TOKEN id="token-76-33" pos="punct" morph="none" start_char="4685" end_char="4685">.</TOKEN>
+<TOKEN id="token-76-34" pos="word" morph="none" start_char="4687" end_char="4689">Por</TOKEN>
+<TOKEN id="token-76-35" pos="word" morph="none" start_char="4691" end_char="4693">ahi</TOKEN>
+<TOKEN id="token-76-36" pos="word" morph="none" start_char="4695" end_char="4696">vi</TOKEN>
+<TOKEN id="token-76-37" pos="word" morph="none" start_char="4698" end_char="4700">que</TOKEN>
+<TOKEN id="token-76-38" pos="word" morph="none" start_char="4702" end_char="4703">se</TOKEN>
+<TOKEN id="token-76-39" pos="word" morph="none" start_char="4705" end_char="4711">estaban</TOKEN>
+<TOKEN id="token-76-40" pos="word" morph="none" start_char="4713" end_char="4722">estudiando</TOKEN>
+<TOKEN id="token-76-41" pos="word" morph="none" start_char="4724" end_char="4733">incentivos</TOKEN>
+<TOKEN id="token-76-42" pos="word" morph="none" start_char="4735" end_char="4735">a</TOKEN>
+<TOKEN id="token-76-43" pos="word" morph="none" start_char="4737" end_char="4738">la</TOKEN>
+<TOKEN id="token-76-44" pos="word" morph="none" start_char="4740" end_char="4750">manufactura</TOKEN>
+<TOKEN id="token-76-45" pos="punct" morph="none" start_char="4751" end_char="4751">.</TOKEN>
+<TOKEN id="token-76-46" pos="word" morph="none" start_char="4753" end_char="4754">Ya</TOKEN>
+<TOKEN id="token-76-47" pos="word" morph="none" start_char="4756" end_char="4757">es</TOKEN>
+<TOKEN id="token-76-48" pos="word" morph="none" start_char="4759" end_char="4762">hora</TOKEN>
+<TOKEN id="token-76-49" pos="punct" morph="none" start_char="4763" end_char="4763">.</TOKEN>
+</SEG>
+<SEG id="segment-77" start_char="4765" end_char="4771">
+<ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-77-0" pos="unknown" morph="none" start_char="4765" end_char="4771">&lt;/post&gt;</TOKEN>
+</SEG>
+<SEG id="segment-78" start_char="4773" end_char="4778">
+<ORIGINAL_TEXT>&lt;/doc&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-78-0" pos="unknown" morph="none" start_char="4773" end_char="4778">&lt;/doc&gt;</TOKEN>
+</SEG>
+</TEXT>
+</DOC>
+</LCTL_TEXT>

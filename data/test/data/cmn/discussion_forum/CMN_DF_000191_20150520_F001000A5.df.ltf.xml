@@ -1,0 +1,692 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE LCTL_TEXT SYSTEM "ltf.v1.5.dtd">
+<LCTL_TEXT>
+<DOC id="CMN_DF_000191_20150520_F001000A5.df.xml" tokenization="tokenization_parameters" grammar="none" raw_text_char_length="3981" raw_text_md5="26595354ee5f61ee9b8ec6e789c8bd98">
+<TEXT>
+<SEG id="segment-0" start_char="0" end_char="37">
+<ORIGINAL_TEXT>&lt;?xml version="1.0" encoding="utf-8"?&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-0-0" pos="unknown" morph="none" start_char="0" end_char="4">&lt;?xml</TOKEN>
+<TOKEN id="token-0-1" pos="unknown" morph="none" start_char="6" end_char="18">version="1.0"</TOKEN>
+<TOKEN id="token-0-2" pos="unknown" morph="none" start_char="20" end_char="37">encoding="utf-8"?&gt;</TOKEN>
+</SEG>
+<SEG id="segment-1" start_char="39" end_char="81">
+<ORIGINAL_TEXT>&lt;doc id="CMN_DF_000191_20150520_F001000A5"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-1-0" pos="unknown" morph="none" start_char="39" end_char="42">&lt;doc</TOKEN>
+<TOKEN id="token-1-1" pos="unknown" morph="none" start_char="44" end_char="81">id="CMN_DF_000191_20150520_F001000A5"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-2" start_char="83" end_char="92">
+<ORIGINAL_TEXT>&lt;headline&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-2-0" pos="unknown" morph="none" start_char="83" end_char="92">&lt;headline&gt;</TOKEN>
+</SEG>
+<SEG id="segment-3" start_char="94" end_char="104">
+<ORIGINAL_TEXT>尼泊尔地震造成板块移动</ORIGINAL_TEXT>
+<TOKEN id="token-3-0" pos="word" morph="none" start_char="94" end_char="104">尼泊尔地震造成板块移动</TOKEN>
+</SEG>
+<SEG id="segment-4" start_char="106" end_char="116">
+<ORIGINAL_TEXT>&lt;/headline&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-4-0" pos="unknown" morph="none" start_char="106" end_char="116">&lt;/headline&gt;</TOKEN>
+</SEG>
+<SEG id="segment-5" start_char="118" end_char="175">
+<ORIGINAL_TEXT>&lt;post id="p1" author="唐人玉" datetime="2015-05-20T13:12:15"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-5-0" pos="unknown" morph="none" start_char="118" end_char="122">&lt;post</TOKEN>
+<TOKEN id="token-5-1" pos="unknown" morph="none" start_char="124" end_char="130">id="p1"</TOKEN>
+<TOKEN id="token-5-2" pos="unknown" morph="none" start_char="132" end_char="143">author="唐人玉"</TOKEN>
+<TOKEN id="token-5-3" pos="unknown" morph="none" start_char="145" end_char="175">datetime="2015-05-20T13:12:15"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-6" start_char="177" end_char="389">
+<ORIGINAL_TEXT>http://www.chinanews.com/gn/2015/05-19/7286665.shtml  http://www.chinanews.com/gj/2015/05-11/7266663.shtml http://news.mydrivers.com/1/420/420977.htm http://news.china.com.cn/world/2015-04/30/content_35459968.htm </ORIGINAL_TEXT>
+<TOKEN id="token-6-0" pos="url" morph="none" start_char="177" end_char="228">http://www.chinanews.com/gn/2015/05-19/7286665.shtml</TOKEN>
+<TOKEN id="token-6-1" pos="url" morph="none" start_char="231" end_char="282">http://www.chinanews.com/gj/2015/05-11/7266663.shtml</TOKEN>
+<TOKEN id="token-6-2" pos="url" morph="none" start_char="284" end_char="325">http://news.mydrivers.com/1/420/420977.htm</TOKEN>
+<TOKEN id="token-6-3" pos="url" morph="none" start_char="327" end_char="388">http://news.china.com.cn/world/2015-04/30/content_35459968.htm</TOKEN>
+</SEG>
+<SEG id="segment-7" start_char="391" end_char="397">
+<ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-7-0" pos="unknown" morph="none" start_char="391" end_char="397">&lt;/post&gt;</TOKEN>
+</SEG>
+<SEG id="segment-8" start_char="399" end_char="461">
+<ORIGINAL_TEXT>&lt;post id="p2" author="荣誉只属于胜利者" datetime="2015-05-20T13:23:51"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-8-0" pos="unknown" morph="none" start_char="399" end_char="403">&lt;post</TOKEN>
+<TOKEN id="token-8-1" pos="unknown" morph="none" start_char="405" end_char="411">id="p2"</TOKEN>
+<TOKEN id="token-8-2" pos="unknown" morph="none" start_char="413" end_char="429">author="荣誉只属于胜利者"</TOKEN>
+<TOKEN id="token-8-3" pos="unknown" morph="none" start_char="431" end_char="461">datetime="2015-05-20T13:23:51"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-9" start_char="463" end_char="467">
+<ORIGINAL_TEXT>好事，呵呵</ORIGINAL_TEXT>
+<TOKEN id="token-9-0" pos="word" morph="none" start_char="463" end_char="464">好事</TOKEN>
+<TOKEN id="token-9-1" pos="punct" morph="none" start_char="465" end_char="465">，</TOKEN>
+<TOKEN id="token-9-2" pos="word" morph="none" start_char="466" end_char="467">呵呵</TOKEN>
+</SEG>
+<SEG id="segment-10" start_char="469" end_char="475">
+<ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-10-0" pos="unknown" morph="none" start_char="469" end_char="475">&lt;/post&gt;</TOKEN>
+</SEG>
+<SEG id="segment-11" start_char="477" end_char="535">
+<ORIGINAL_TEXT>&lt;post id="p3" author="楚夜寒星" datetime="2015-05-20T13:26:56"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-11-0" pos="unknown" morph="none" start_char="477" end_char="481">&lt;post</TOKEN>
+<TOKEN id="token-11-1" pos="unknown" morph="none" start_char="483" end_char="489">id="p3"</TOKEN>
+<TOKEN id="token-11-2" pos="unknown" morph="none" start_char="491" end_char="503">author="楚夜寒星"</TOKEN>
+<TOKEN id="token-11-3" pos="unknown" morph="none" start_char="505" end_char="535">datetime="2015-05-20T13:26:56"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-12" start_char="537" end_char="565">
+<ORIGINAL_TEXT>连大自然都在为我们开疆拓土，我们还有什么借口不发愤图强呢？</ORIGINAL_TEXT>
+<TOKEN id="token-12-0" pos="word" morph="none" start_char="537" end_char="549">连大自然都在为我们开疆拓土</TOKEN>
+<TOKEN id="token-12-1" pos="punct" morph="none" start_char="550" end_char="550">，</TOKEN>
+<TOKEN id="token-12-2" pos="word" morph="none" start_char="551" end_char="564">我们还有什么借口不发愤图强呢</TOKEN>
+<TOKEN id="token-12-3" pos="punct" morph="none" start_char="565" end_char="565">？</TOKEN>
+</SEG>
+<SEG id="segment-13" start_char="567" end_char="573">
+<ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-13-0" pos="unknown" morph="none" start_char="567" end_char="573">&lt;/post&gt;</TOKEN>
+</SEG>
+<SEG id="segment-14" start_char="575" end_char="632">
+<ORIGINAL_TEXT>&lt;post id="p4" author="大浪沙" datetime="2015-05-20T13:35:08"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-14-0" pos="unknown" morph="none" start_char="575" end_char="579">&lt;post</TOKEN>
+<TOKEN id="token-14-1" pos="unknown" morph="none" start_char="581" end_char="587">id="p4"</TOKEN>
+<TOKEN id="token-14-2" pos="unknown" morph="none" start_char="589" end_char="600">author="大浪沙"</TOKEN>
+<TOKEN id="token-14-3" pos="unknown" morph="none" start_char="602" end_char="632">datetime="2015-05-20T13:35:08"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-15" start_char="634" end_char="665">
+<ORIGINAL_TEXT>日本是要掉海里的节凑，板块往东推，日本掉海里是我们可看见的美景。</ORIGINAL_TEXT>
+<TOKEN id="token-15-0" pos="unknown" morph="none" start_char="634" end_char="665">日本是要掉海里的节凑，板块往东推，日本掉海里是我们可看见的美景。</TOKEN>
+</SEG>
+<SEG id="segment-16" start_char="667" end_char="673">
+<ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-16-0" pos="unknown" morph="none" start_char="667" end_char="673">&lt;/post&gt;</TOKEN>
+</SEG>
+<SEG id="segment-17" start_char="675" end_char="731">
+<ORIGINAL_TEXT>&lt;post id="p5" author="嘉绿" datetime="2015-05-20T13:36:54"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-17-0" pos="unknown" morph="none" start_char="675" end_char="679">&lt;post</TOKEN>
+<TOKEN id="token-17-1" pos="unknown" morph="none" start_char="681" end_char="687">id="p5"</TOKEN>
+<TOKEN id="token-17-2" pos="unknown" morph="none" start_char="689" end_char="699">author="嘉绿"</TOKEN>
+<TOKEN id="token-17-3" pos="unknown" morph="none" start_char="701" end_char="731">datetime="2015-05-20T13:36:54"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-18" start_char="733" end_char="743">
+<ORIGINAL_TEXT>可是受灾的人民太惨了。</ORIGINAL_TEXT>
+<TOKEN id="token-18-0" pos="word" morph="none" start_char="733" end_char="742">可是受灾的人民太惨了</TOKEN>
+<TOKEN id="token-18-1" pos="punct" morph="none" start_char="743" end_char="743">。</TOKEN>
+</SEG>
+<SEG id="segment-19" start_char="745" end_char="751">
+<ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-19-0" pos="unknown" morph="none" start_char="745" end_char="751">&lt;/post&gt;</TOKEN>
+</SEG>
+<SEG id="segment-20" start_char="753" end_char="814">
+<ORIGINAL_TEXT>&lt;post id="p6" author="忠孝军3000" datetime="2015-05-20T13:37:46"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-20-0" pos="unknown" morph="none" start_char="753" end_char="757">&lt;post</TOKEN>
+<TOKEN id="token-20-1" pos="unknown" morph="none" start_char="759" end_char="765">id="p6"</TOKEN>
+<TOKEN id="token-20-2" pos="unknown" morph="none" start_char="767" end_char="782">author="忠孝军3000"</TOKEN>
+<TOKEN id="token-20-3" pos="unknown" morph="none" start_char="784" end_char="814">datetime="2015-05-20T13:37:46"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-21" start_char="816" end_char="826">
+<ORIGINAL_TEXT>青藏高原周边震了个遍。</ORIGINAL_TEXT>
+<TOKEN id="token-21-0" pos="word" morph="none" start_char="816" end_char="825">青藏高原周边震了个遍</TOKEN>
+<TOKEN id="token-21-1" pos="punct" morph="none" start_char="826" end_char="826">。</TOKEN>
+</SEG>
+<SEG id="segment-22" start_char="828" end_char="834">
+<ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-22-0" pos="unknown" morph="none" start_char="828" end_char="834">&lt;/post&gt;</TOKEN>
+</SEG>
+<SEG id="segment-23" start_char="836" end_char="895">
+<ORIGINAL_TEXT>&lt;post id="p7" author="相逢一笑a" datetime="2015-05-20T13:41:11"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-23-0" pos="unknown" morph="none" start_char="836" end_char="840">&lt;post</TOKEN>
+<TOKEN id="token-23-1" pos="unknown" morph="none" start_char="842" end_char="848">id="p7"</TOKEN>
+<TOKEN id="token-23-2" pos="unknown" morph="none" start_char="850" end_char="863">author="相逢一笑a"</TOKEN>
+<TOKEN id="token-23-3" pos="unknown" morph="none" start_char="865" end_char="895">datetime="2015-05-20T13:41:11"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-24" start_char="897" end_char="922">
+<ORIGINAL_TEXT>&lt;quote orig_author="楚夜寒星"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-24-0" pos="unknown" morph="none" start_char="897" end_char="902">&lt;quote</TOKEN>
+<TOKEN id="token-24-1" pos="unknown" morph="none" start_char="904" end_char="922">orig_author="楚夜寒星"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-25" start_char="924" end_char="952">
+<ORIGINAL_TEXT>连大自然都在为我们开疆拓土，我们还有什么借口不发愤图强呢？</ORIGINAL_TEXT>
+<TOKEN id="token-25-0" pos="word" morph="none" start_char="924" end_char="936">连大自然都在为我们开疆拓土</TOKEN>
+<TOKEN id="token-25-1" pos="punct" morph="none" start_char="937" end_char="937">，</TOKEN>
+<TOKEN id="token-25-2" pos="word" morph="none" start_char="938" end_char="951">我们还有什么借口不发愤图强呢</TOKEN>
+<TOKEN id="token-25-3" pos="punct" morph="none" start_char="952" end_char="952">？</TOKEN>
+</SEG>
+<SEG id="segment-26" start_char="954" end_char="961">
+<ORIGINAL_TEXT>&lt;/quote&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-26-0" pos="unknown" morph="none" start_char="954" end_char="961">&lt;/quote&gt;</TOKEN>
+</SEG>
+<SEG id="segment-27" start_char="963" end_char="999">
+<ORIGINAL_TEXT>可以大自然没有让阿三远离我们西藏200公里，这样我们西藏就可以连接印度洋了</ORIGINAL_TEXT>
+<TOKEN id="token-27-0" pos="word" morph="none" start_char="963" end_char="983">可以大自然没有让阿三远离我们西藏200公里</TOKEN>
+<TOKEN id="token-27-1" pos="punct" morph="none" start_char="984" end_char="984">，</TOKEN>
+<TOKEN id="token-27-2" pos="word" morph="none" start_char="985" end_char="999">这样我们西藏就可以连接印度洋了</TOKEN>
+</SEG>
+<SEG id="segment-28" start_char="1001" end_char="1007">
+<ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-28-0" pos="unknown" morph="none" start_char="1001" end_char="1007">&lt;/post&gt;</TOKEN>
+</SEG>
+<SEG id="segment-29" start_char="1009" end_char="1072">
+<ORIGINAL_TEXT>&lt;post id="p8" author="sliverxxm" datetime="2015-05-20T13:48:58"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-29-0" pos="unknown" morph="none" start_char="1009" end_char="1013">&lt;post</TOKEN>
+<TOKEN id="token-29-1" pos="unknown" morph="none" start_char="1015" end_char="1021">id="p8"</TOKEN>
+<TOKEN id="token-29-2" pos="unknown" morph="none" start_char="1023" end_char="1040">author="sliverxxm"</TOKEN>
+<TOKEN id="token-29-3" pos="unknown" morph="none" start_char="1042" end_char="1072">datetime="2015-05-20T13:48:58"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-30" start_char="1074" end_char="1100">
+<ORIGINAL_TEXT>&lt;quote orig_author="相逢一笑a"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-30-0" pos="unknown" morph="none" start_char="1074" end_char="1079">&lt;quote</TOKEN>
+<TOKEN id="token-30-1" pos="unknown" morph="none" start_char="1081" end_char="1100">orig_author="相逢一笑a"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-31" start_char="1102" end_char="1127">
+<ORIGINAL_TEXT>&lt;quote orig_author="楚夜寒星"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-31-0" pos="unknown" morph="none" start_char="1102" end_char="1107">&lt;quote</TOKEN>
+<TOKEN id="token-31-1" pos="unknown" morph="none" start_char="1109" end_char="1127">orig_author="楚夜寒星"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-32" start_char="1129" end_char="1157">
+<ORIGINAL_TEXT>连大自然都在为我们开疆拓土，我们还有什么借口不发愤图强呢？</ORIGINAL_TEXT>
+<TOKEN id="token-32-0" pos="word" morph="none" start_char="1129" end_char="1141">连大自然都在为我们开疆拓土</TOKEN>
+<TOKEN id="token-32-1" pos="punct" morph="none" start_char="1142" end_char="1142">，</TOKEN>
+<TOKEN id="token-32-2" pos="word" morph="none" start_char="1143" end_char="1156">我们还有什么借口不发愤图强呢</TOKEN>
+<TOKEN id="token-32-3" pos="punct" morph="none" start_char="1157" end_char="1157">？</TOKEN>
+</SEG>
+<SEG id="segment-33" start_char="1159" end_char="1166">
+<ORIGINAL_TEXT>&lt;/quote&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-33-0" pos="unknown" morph="none" start_char="1159" end_char="1166">&lt;/quote&gt;</TOKEN>
+</SEG>
+<SEG id="segment-34" start_char="1168" end_char="1204">
+<ORIGINAL_TEXT>可以大自然没有让阿三远离我们西藏200公里，这样我们西藏就可以连接印度洋了</ORIGINAL_TEXT>
+<TOKEN id="token-34-0" pos="word" morph="none" start_char="1168" end_char="1188">可以大自然没有让阿三远离我们西藏200公里</TOKEN>
+<TOKEN id="token-34-1" pos="punct" morph="none" start_char="1189" end_char="1189">，</TOKEN>
+<TOKEN id="token-34-2" pos="word" morph="none" start_char="1190" end_char="1204">这样我们西藏就可以连接印度洋了</TOKEN>
+</SEG>
+<SEG id="segment-35" start_char="1206" end_char="1213">
+<ORIGINAL_TEXT>&lt;/quote&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-35-0" pos="unknown" morph="none" start_char="1206" end_char="1213">&lt;/quote&gt;</TOKEN>
+</SEG>
+<SEG id="segment-36" start_char="1215" end_char="1244">
+<ORIGINAL_TEXT>这个要是黑龙江和阿拉斯加碰到一起了,美帝就该夹着尾巴做人了,</ORIGINAL_TEXT>
+<TOKEN id="token-36-0" pos="word" morph="none" start_char="1215" end_char="1231">这个要是黑龙江和阿拉斯加碰到一起了</TOKEN>
+<TOKEN id="token-36-1" pos="punct" morph="none" start_char="1232" end_char="1232">,</TOKEN>
+<TOKEN id="token-36-2" pos="word" morph="none" start_char="1233" end_char="1243">美帝就该夹着尾巴做人了</TOKEN>
+<TOKEN id="token-36-3" pos="punct" morph="none" start_char="1244" end_char="1244">,</TOKEN>
+</SEG>
+<SEG id="segment-37" start_char="1246" end_char="1258">
+<ORIGINAL_TEXT>哦,应该是夹着尾巴做狗了.</ORIGINAL_TEXT>
+<TOKEN id="token-37-0" pos="word" morph="none" start_char="1246" end_char="1246">哦</TOKEN>
+<TOKEN id="token-37-1" pos="punct" morph="none" start_char="1247" end_char="1247">,</TOKEN>
+<TOKEN id="token-37-2" pos="word" morph="none" start_char="1248" end_char="1257">应该是夹着尾巴做狗了</TOKEN>
+<TOKEN id="token-37-3" pos="punct" morph="none" start_char="1258" end_char="1258">.</TOKEN>
+</SEG>
+<SEG id="segment-38" start_char="1260" end_char="1266">
+<ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-38-0" pos="unknown" morph="none" start_char="1260" end_char="1266">&lt;/post&gt;</TOKEN>
+</SEG>
+<SEG id="segment-39" start_char="1268" end_char="1326">
+<ORIGINAL_TEXT>&lt;post id="p9" author="依然无心" datetime="2015-05-20T13:49:34"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-39-0" pos="unknown" morph="none" start_char="1268" end_char="1272">&lt;post</TOKEN>
+<TOKEN id="token-39-1" pos="unknown" morph="none" start_char="1274" end_char="1280">id="p9"</TOKEN>
+<TOKEN id="token-39-2" pos="unknown" morph="none" start_char="1282" end_char="1294">author="依然无心"</TOKEN>
+<TOKEN id="token-39-3" pos="unknown" morph="none" start_char="1296" end_char="1326">datetime="2015-05-20T13:49:34"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-40" start_char="1328" end_char="1339">
+<ORIGINAL_TEXT>看来地震也不是没有好处的</ORIGINAL_TEXT>
+<TOKEN id="token-40-0" pos="word" morph="none" start_char="1328" end_char="1339">看来地震也不是没有好处的</TOKEN>
+</SEG>
+<SEG id="segment-41" start_char="1341" end_char="1347">
+<ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-41-0" pos="unknown" morph="none" start_char="1341" end_char="1347">&lt;/post&gt;</TOKEN>
+</SEG>
+<SEG id="segment-42" start_char="1349" end_char="1408">
+<ORIGINAL_TEXT>&lt;post id="p10" author="仰望军空" datetime="2015-05-20T13:51:43"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-42-0" pos="unknown" morph="none" start_char="1349" end_char="1353">&lt;post</TOKEN>
+<TOKEN id="token-42-1" pos="unknown" morph="none" start_char="1355" end_char="1362">id="p10"</TOKEN>
+<TOKEN id="token-42-2" pos="unknown" morph="none" start_char="1364" end_char="1376">author="仰望军空"</TOKEN>
+<TOKEN id="token-42-3" pos="unknown" morph="none" start_char="1378" end_char="1408">datetime="2015-05-20T13:51:43"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-43" start_char="1410" end_char="1429">
+<ORIGINAL_TEXT>好啊，不知道啥时候能移到新德里啊，呵呵。</ORIGINAL_TEXT>
+<TOKEN id="token-43-0" pos="unknown" morph="none" start_char="1410" end_char="1429">好啊，不知道啥时候能移到新德里啊，呵呵。</TOKEN>
+</SEG>
+<SEG id="segment-44" start_char="1431" end_char="1437">
+<ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-44-0" pos="unknown" morph="none" start_char="1431" end_char="1437">&lt;/post&gt;</TOKEN>
+</SEG>
+<SEG id="segment-45" start_char="1439" end_char="1500">
+<ORIGINAL_TEXT>&lt;post id="p11" author="公元1975" datetime="2015-05-20T14:06:05"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-45-0" pos="unknown" morph="none" start_char="1439" end_char="1443">&lt;post</TOKEN>
+<TOKEN id="token-45-1" pos="unknown" morph="none" start_char="1445" end_char="1452">id="p11"</TOKEN>
+<TOKEN id="token-45-2" pos="unknown" morph="none" start_char="1454" end_char="1468">author="公元1975"</TOKEN>
+<TOKEN id="token-45-3" pos="unknown" morph="none" start_char="1470" end_char="1500">datetime="2015-05-20T14:06:05"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-46" start_char="1502" end_char="1527">
+<ORIGINAL_TEXT>&lt;quote orig_author="仰望军空"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-46-0" pos="unknown" morph="none" start_char="1502" end_char="1507">&lt;quote</TOKEN>
+<TOKEN id="token-46-1" pos="unknown" morph="none" start_char="1509" end_char="1527">orig_author="仰望军空"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-47" start_char="1529" end_char="1548">
+<ORIGINAL_TEXT>好啊，不知道啥时候能移到新德里啊，呵呵。</ORIGINAL_TEXT>
+<TOKEN id="token-47-0" pos="unknown" morph="none" start_char="1529" end_char="1548">好啊，不知道啥时候能移到新德里啊，呵呵。</TOKEN>
+</SEG>
+<SEG id="segment-48" start_char="1550" end_char="1557">
+<ORIGINAL_TEXT>&lt;/quote&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-48-0" pos="unknown" morph="none" start_char="1550" end_char="1557">&lt;/quote&gt;</TOKEN>
+</SEG>
+<SEG id="segment-49" start_char="1559" end_char="1575">
+<ORIGINAL_TEXT>若是某一天喜马拉雅山垮了就差不多了</ORIGINAL_TEXT>
+<TOKEN id="token-49-0" pos="word" morph="none" start_char="1559" end_char="1575">若是某一天喜马拉雅山垮了就差不多了</TOKEN>
+</SEG>
+<SEG id="segment-50" start_char="1577" end_char="1583">
+<ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-50-0" pos="unknown" morph="none" start_char="1577" end_char="1583">&lt;/post&gt;</TOKEN>
+</SEG>
+<SEG id="segment-51" start_char="1585" end_char="1645">
+<ORIGINAL_TEXT>&lt;post id="p12" author="天之山之西" datetime="2015-05-20T14:12:24"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-51-0" pos="unknown" morph="none" start_char="1585" end_char="1589">&lt;post</TOKEN>
+<TOKEN id="token-51-1" pos="unknown" morph="none" start_char="1591" end_char="1598">id="p12"</TOKEN>
+<TOKEN id="token-51-2" pos="unknown" morph="none" start_char="1600" end_char="1613">author="天之山之西"</TOKEN>
+<TOKEN id="token-51-3" pos="unknown" morph="none" start_char="1615" end_char="1645">datetime="2015-05-20T14:12:24"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-52" start_char="1647" end_char="1666">
+<ORIGINAL_TEXT>那就再多震几次，再向南移它个百八十公里。</ORIGINAL_TEXT>
+<TOKEN id="token-52-0" pos="word" morph="none" start_char="1647" end_char="1653">那就再多震几次</TOKEN>
+<TOKEN id="token-52-1" pos="punct" morph="none" start_char="1654" end_char="1654">，</TOKEN>
+<TOKEN id="token-52-2" pos="word" morph="none" start_char="1655" end_char="1665">再向南移它个百八十公里</TOKEN>
+<TOKEN id="token-52-3" pos="punct" morph="none" start_char="1666" end_char="1666">。</TOKEN>
+</SEG>
+<SEG id="segment-53" start_char="1668" end_char="1674">
+<ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-53-0" pos="unknown" morph="none" start_char="1668" end_char="1674">&lt;/post&gt;</TOKEN>
+</SEG>
+<SEG id="segment-54" start_char="1676" end_char="1736">
+<ORIGINAL_TEXT>&lt;post id="p13" author="黑发三千丈" datetime="2015-05-20T14:22:14"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-54-0" pos="unknown" morph="none" start_char="1676" end_char="1680">&lt;post</TOKEN>
+<TOKEN id="token-54-1" pos="unknown" morph="none" start_char="1682" end_char="1689">id="p13"</TOKEN>
+<TOKEN id="token-54-2" pos="unknown" morph="none" start_char="1691" end_char="1704">author="黑发三千丈"</TOKEN>
+<TOKEN id="token-54-3" pos="unknown" morph="none" start_char="1706" end_char="1736">datetime="2015-05-20T14:22:14"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-55" start_char="1738" end_char="1761">
+<ORIGINAL_TEXT>加强人与自然的共存与和谐，是文明发展的必由之路！</ORIGINAL_TEXT>
+<TOKEN id="token-55-0" pos="word" morph="none" start_char="1738" end_char="1749">加强人与自然的共存与和谐</TOKEN>
+<TOKEN id="token-55-1" pos="punct" morph="none" start_char="1750" end_char="1750">，</TOKEN>
+<TOKEN id="token-55-2" pos="word" morph="none" start_char="1751" end_char="1760">是文明发展的必由之路</TOKEN>
+<TOKEN id="token-55-3" pos="punct" morph="none" start_char="1761" end_char="1761">！</TOKEN>
+</SEG>
+<SEG id="segment-56" start_char="1763" end_char="1769">
+<ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-56-0" pos="unknown" morph="none" start_char="1763" end_char="1769">&lt;/post&gt;</TOKEN>
+</SEG>
+<SEG id="segment-57" start_char="1771" end_char="1830">
+<ORIGINAL_TEXT>&lt;post id="p14" author="辽宁舰6" datetime="2015-05-20T14:25:55"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-57-0" pos="unknown" morph="none" start_char="1771" end_char="1775">&lt;post</TOKEN>
+<TOKEN id="token-57-1" pos="unknown" morph="none" start_char="1777" end_char="1784">id="p14"</TOKEN>
+<TOKEN id="token-57-2" pos="unknown" morph="none" start_char="1786" end_char="1798">author="辽宁舰6"</TOKEN>
+<TOKEN id="token-57-3" pos="unknown" morph="none" start_char="1800" end_char="1830">datetime="2015-05-20T14:25:55"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-58" start_char="1832" end_char="1837">
+<ORIGINAL_TEXT>一切都在进化</ORIGINAL_TEXT>
+<TOKEN id="token-58-0" pos="word" morph="none" start_char="1832" end_char="1837">一切都在进化</TOKEN>
+</SEG>
+<SEG id="segment-59" start_char="1839" end_char="1845">
+<ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-59-0" pos="unknown" morph="none" start_char="1839" end_char="1845">&lt;/post&gt;</TOKEN>
+</SEG>
+<SEG id="segment-60" start_char="1847" end_char="1906">
+<ORIGINAL_TEXT>&lt;post id="p15" author="深海魅影" datetime="2015-05-20T14:48:52"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-60-0" pos="unknown" morph="none" start_char="1847" end_char="1851">&lt;post</TOKEN>
+<TOKEN id="token-60-1" pos="unknown" morph="none" start_char="1853" end_char="1860">id="p15"</TOKEN>
+<TOKEN id="token-60-2" pos="unknown" morph="none" start_char="1862" end_char="1874">author="深海魅影"</TOKEN>
+<TOKEN id="token-60-3" pos="unknown" morph="none" start_char="1876" end_char="1906">datetime="2015-05-20T14:48:52"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-61" start_char="1908" end_char="1925">
+<ORIGINAL_TEXT>印度会不会控告中国入侵印度60厘米？</ORIGINAL_TEXT>
+<TOKEN id="token-61-0" pos="word" morph="none" start_char="1908" end_char="1924">印度会不会控告中国入侵印度60厘米</TOKEN>
+<TOKEN id="token-61-1" pos="punct" morph="none" start_char="1925" end_char="1925">？</TOKEN>
+</SEG>
+<SEG id="segment-62" start_char="1927" end_char="1933">
+<ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-62-0" pos="unknown" morph="none" start_char="1927" end_char="1933">&lt;/post&gt;</TOKEN>
+</SEG>
+<SEG id="segment-63" start_char="1935" end_char="1997">
+<ORIGINAL_TEXT>&lt;post id="p16" author="铁血军迷lin" datetime="2015-05-20T14:51:50"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-63-0" pos="unknown" morph="none" start_char="1935" end_char="1939">&lt;post</TOKEN>
+<TOKEN id="token-63-1" pos="unknown" morph="none" start_char="1941" end_char="1948">id="p16"</TOKEN>
+<TOKEN id="token-63-2" pos="unknown" morph="none" start_char="1950" end_char="1965">author="铁血军迷lin"</TOKEN>
+<TOKEN id="token-63-3" pos="unknown" morph="none" start_char="1967" end_char="1997">datetime="2015-05-20T14:51:50"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-64" start_char="1999" end_char="2025">
+<ORIGINAL_TEXT>&lt;quote orig_author="天之山之西"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-64-0" pos="unknown" morph="none" start_char="1999" end_char="2004">&lt;quote</TOKEN>
+<TOKEN id="token-64-1" pos="unknown" morph="none" start_char="2006" end_char="2025">orig_author="天之山之西"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-65" start_char="2027" end_char="2046">
+<ORIGINAL_TEXT>那就再多震几次，再向南移它个百八十公里。</ORIGINAL_TEXT>
+<TOKEN id="token-65-0" pos="word" morph="none" start_char="2027" end_char="2033">那就再多震几次</TOKEN>
+<TOKEN id="token-65-1" pos="punct" morph="none" start_char="2034" end_char="2034">，</TOKEN>
+<TOKEN id="token-65-2" pos="word" morph="none" start_char="2035" end_char="2045">再向南移它个百八十公里</TOKEN>
+<TOKEN id="token-65-3" pos="punct" morph="none" start_char="2046" end_char="2046">。</TOKEN>
+</SEG>
+<SEG id="segment-66" start_char="2048" end_char="2055">
+<ORIGINAL_TEXT>&lt;/quote&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-66-0" pos="unknown" morph="none" start_char="2048" end_char="2055">&lt;/quote&gt;</TOKEN>
+</SEG>
+<SEG id="segment-67" start_char="2057" end_char="2071">
+<ORIGINAL_TEXT>这是要赶三哥下海的节凑！！！！</ORIGINAL_TEXT>
+<TOKEN id="token-67-0" pos="word" morph="none" start_char="2057" end_char="2067">这是要赶三哥下海的节凑</TOKEN>
+<TOKEN id="token-67-1" pos="punct" morph="none" start_char="2068" end_char="2071">！！！！</TOKEN>
+</SEG>
+<SEG id="segment-68" start_char="2073" end_char="2079">
+<ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-68-0" pos="unknown" morph="none" start_char="2073" end_char="2079">&lt;/post&gt;</TOKEN>
+</SEG>
+<SEG id="segment-69" start_char="2081" end_char="2141">
+<ORIGINAL_TEXT>&lt;post id="p17" author="looqu" datetime="2015-05-20T14:55:12"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-69-0" pos="unknown" morph="none" start_char="2081" end_char="2085">&lt;post</TOKEN>
+<TOKEN id="token-69-1" pos="unknown" morph="none" start_char="2087" end_char="2094">id="p17"</TOKEN>
+<TOKEN id="token-69-2" pos="unknown" morph="none" start_char="2096" end_char="2109">author="looqu"</TOKEN>
+<TOKEN id="token-69-3" pos="unknown" morph="none" start_char="2111" end_char="2141">datetime="2015-05-20T14:55:12"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-70" start_char="2143" end_char="2185">
+<ORIGINAL_TEXT>印度大陆板块正向喜马拉雅山底下钻,喜马拉雅山脉还会增高,这有点要骑到三哥脑袋上的节奏!</ORIGINAL_TEXT>
+<TOKEN id="token-70-0" pos="unknown" morph="none" start_char="2143" end_char="2185">印度大陆板块正向喜马拉雅山底下钻,喜马拉雅山脉还会增高,这有点要骑到三哥脑袋上的节奏!</TOKEN>
+</SEG>
+<SEG id="segment-71" start_char="2187" end_char="2193">
+<ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-71-0" pos="unknown" morph="none" start_char="2187" end_char="2193">&lt;/post&gt;</TOKEN>
+</SEG>
+<SEG id="segment-72" start_char="2195" end_char="2253">
+<ORIGINAL_TEXT>&lt;post id="p18" author="徐二少" datetime="2015-05-20T15:33:27"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-72-0" pos="unknown" morph="none" start_char="2195" end_char="2199">&lt;post</TOKEN>
+<TOKEN id="token-72-1" pos="unknown" morph="none" start_char="2201" end_char="2208">id="p18"</TOKEN>
+<TOKEN id="token-72-2" pos="unknown" morph="none" start_char="2210" end_char="2221">author="徐二少"</TOKEN>
+<TOKEN id="token-72-3" pos="unknown" morph="none" start_char="2223" end_char="2253">datetime="2015-05-20T15:33:27"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-73" start_char="2255" end_char="2272">
+<ORIGINAL_TEXT>印度有点不妙了。日本陪印度一起下海聊</ORIGINAL_TEXT>
+<TOKEN id="token-73-0" pos="word" morph="none" start_char="2255" end_char="2261">印度有点不妙了</TOKEN>
+<TOKEN id="token-73-1" pos="punct" morph="none" start_char="2262" end_char="2262">。</TOKEN>
+<TOKEN id="token-73-2" pos="word" morph="none" start_char="2263" end_char="2272">日本陪印度一起下海聊</TOKEN>
+</SEG>
+<SEG id="segment-74" start_char="2274" end_char="2280">
+<ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-74-0" pos="unknown" morph="none" start_char="2274" end_char="2280">&lt;/post&gt;</TOKEN>
+</SEG>
+<SEG id="segment-75" start_char="2282" end_char="2347">
+<ORIGINAL_TEXT>&lt;post id="p19" author="lijian_lio" datetime="2015-05-20T15:34:17"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-75-0" pos="unknown" morph="none" start_char="2282" end_char="2286">&lt;post</TOKEN>
+<TOKEN id="token-75-1" pos="unknown" morph="none" start_char="2288" end_char="2295">id="p19"</TOKEN>
+<TOKEN id="token-75-2" pos="unknown" morph="none" start_char="2297" end_char="2315">author="lijian_lio"</TOKEN>
+<TOKEN id="token-75-3" pos="unknown" morph="none" start_char="2317" end_char="2347">datetime="2015-05-20T15:34:17"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-76" start_char="2349" end_char="2376">
+<ORIGINAL_TEXT>&lt;quote orig_author="公元1975"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-76-0" pos="unknown" morph="none" start_char="2349" end_char="2354">&lt;quote</TOKEN>
+<TOKEN id="token-76-1" pos="unknown" morph="none" start_char="2356" end_char="2376">orig_author="公元1975"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-77" start_char="2378" end_char="2403">
+<ORIGINAL_TEXT>&lt;quote orig_author="仰望军空"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-77-0" pos="unknown" morph="none" start_char="2378" end_char="2383">&lt;quote</TOKEN>
+<TOKEN id="token-77-1" pos="unknown" morph="none" start_char="2385" end_char="2403">orig_author="仰望军空"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-78" start_char="2405" end_char="2424">
+<ORIGINAL_TEXT>好啊，不知道啥时候能移到新德里啊，呵呵。</ORIGINAL_TEXT>
+<TOKEN id="token-78-0" pos="unknown" morph="none" start_char="2405" end_char="2424">好啊，不知道啥时候能移到新德里啊，呵呵。</TOKEN>
+</SEG>
+<SEG id="segment-79" start_char="2426" end_char="2433">
+<ORIGINAL_TEXT>&lt;/quote&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-79-0" pos="unknown" morph="none" start_char="2426" end_char="2433">&lt;/quote&gt;</TOKEN>
+</SEG>
+<SEG id="segment-80" start_char="2435" end_char="2451">
+<ORIGINAL_TEXT>若是某一天喜马拉雅山垮了就差不多了</ORIGINAL_TEXT>
+<TOKEN id="token-80-0" pos="word" morph="none" start_char="2435" end_char="2451">若是某一天喜马拉雅山垮了就差不多了</TOKEN>
+</SEG>
+<SEG id="segment-81" start_char="2453" end_char="2460">
+<ORIGINAL_TEXT>&lt;/quote&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-81-0" pos="unknown" morph="none" start_char="2453" end_char="2460">&lt;/quote&gt;</TOKEN>
+</SEG>
+<SEG id="segment-82" start_char="2462" end_char="2511">
+<ORIGINAL_TEXT>喜马拉雅山不会垮，只会越来越高，因为印度板块会慢慢的钻到青藏高原下边，不知道三哥会不会为这个事烦恼。</ORIGINAL_TEXT>
+<TOKEN id="token-82-0" pos="unknown" morph="none" start_char="2462" end_char="2511">喜马拉雅山不会垮，只会越来越高，因为印度板块会慢慢的钻到青藏高原下边，不知道三哥会不会为这个事烦恼。</TOKEN>
+</SEG>
+<SEG id="segment-83" start_char="2513" end_char="2519">
+<ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-83-0" pos="unknown" morph="none" start_char="2513" end_char="2519">&lt;/post&gt;</TOKEN>
+</SEG>
+<SEG id="segment-84" start_char="2521" end_char="2584">
+<ORIGINAL_TEXT>&lt;post id="p20" author="扬万里之尘壮国威" datetime="2015-05-20T15:36:25"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-84-0" pos="unknown" morph="none" start_char="2521" end_char="2525">&lt;post</TOKEN>
+<TOKEN id="token-84-1" pos="unknown" morph="none" start_char="2527" end_char="2534">id="p20"</TOKEN>
+<TOKEN id="token-84-2" pos="unknown" morph="none" start_char="2536" end_char="2552">author="扬万里之尘壮国威"</TOKEN>
+<TOKEN id="token-84-3" pos="unknown" morph="none" start_char="2554" end_char="2584">datetime="2015-05-20T15:36:25"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-85" start_char="2586" end_char="2611">
+<ORIGINAL_TEXT>&lt;quote orig_author="深海魅影"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-85-0" pos="unknown" morph="none" start_char="2586" end_char="2591">&lt;quote</TOKEN>
+<TOKEN id="token-85-1" pos="unknown" morph="none" start_char="2593" end_char="2611">orig_author="深海魅影"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-86" start_char="2613" end_char="2630">
+<ORIGINAL_TEXT>印度会不会控告中国入侵印度60厘米？</ORIGINAL_TEXT>
+<TOKEN id="token-86-0" pos="word" morph="none" start_char="2613" end_char="2629">印度会不会控告中国入侵印度60厘米</TOKEN>
+<TOKEN id="token-86-1" pos="punct" morph="none" start_char="2630" end_char="2630">？</TOKEN>
+</SEG>
+<SEG id="segment-87" start_char="2632" end_char="2639">
+<ORIGINAL_TEXT>&lt;/quote&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-87-0" pos="unknown" morph="none" start_char="2632" end_char="2639">&lt;/quote&gt;</TOKEN>
+</SEG>
+<SEG id="segment-88" start_char="2641" end_char="2655">
+<ORIGINAL_TEXT>被强，奸习惯了，60厘米嫌短。</ORIGINAL_TEXT>
+<TOKEN id="token-88-0" pos="unknown" morph="none" start_char="2641" end_char="2655">被强，奸习惯了，60厘米嫌短。</TOKEN>
+</SEG>
+<SEG id="segment-89" start_char="2657" end_char="2663">
+<ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-89-0" pos="unknown" morph="none" start_char="2657" end_char="2663">&lt;/post&gt;</TOKEN>
+</SEG>
+<SEG id="segment-90" start_char="2665" end_char="2727">
+<ORIGINAL_TEXT>&lt;post id="p21" author="我们是爱中国的" datetime="2015-05-20T15:50:11"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-90-0" pos="unknown" morph="none" start_char="2665" end_char="2669">&lt;post</TOKEN>
+<TOKEN id="token-90-1" pos="unknown" morph="none" start_char="2671" end_char="2678">id="p21"</TOKEN>
+<TOKEN id="token-90-2" pos="unknown" morph="none" start_char="2680" end_char="2695">author="我们是爱中国的"</TOKEN>
+<TOKEN id="token-90-3" pos="unknown" morph="none" start_char="2697" end_char="2727">datetime="2015-05-20T15:50:11"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-91" start_char="2729" end_char="2755">
+<ORIGINAL_TEXT>&lt;quote orig_author="looqu"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-91-0" pos="unknown" morph="none" start_char="2729" end_char="2734">&lt;quote</TOKEN>
+<TOKEN id="token-91-1" pos="unknown" morph="none" start_char="2736" end_char="2755">orig_author="looqu"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-92" start_char="2757" end_char="2799">
+<ORIGINAL_TEXT>印度大陆板块正向喜马拉雅山底下钻,喜马拉雅山脉还会增高,这有点要骑到三哥脑袋上的节奏!</ORIGINAL_TEXT>
+<TOKEN id="token-92-0" pos="unknown" morph="none" start_char="2757" end_char="2799">印度大陆板块正向喜马拉雅山底下钻,喜马拉雅山脉还会增高,这有点要骑到三哥脑袋上的节奏!</TOKEN>
+</SEG>
+<SEG id="segment-93" start_char="2801" end_char="2808">
+<ORIGINAL_TEXT>&lt;/quote&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-93-0" pos="unknown" morph="none" start_char="2801" end_char="2808">&lt;/quote&gt;</TOKEN>
+</SEG>
+<SEG id="segment-94" start_char="2810" end_char="2971">
+<ORIGINAL_TEXT>&amp;lt;img src="http://r.itiexue.net/bbs/other/images/emotion/0007.gif" onload="bbimg(this)" alt="回复：尼泊尔地震造成板块移动" title="回复：尼泊尔地震造成板块移动（图1）" border="0"&amp;gt;          </ORIGINAL_TEXT>
+<TOKEN id="token-94-0" pos="punct" morph="none" start_char="2810" end_char="2810">&amp;</TOKEN>
+<TOKEN id="token-94-1" pos="word" morph="none" start_char="2811" end_char="2812">lt</TOKEN>
+<TOKEN id="token-94-2" pos="punct" morph="none" start_char="2813" end_char="2813">;</TOKEN>
+<TOKEN id="token-94-3" pos="word" morph="none" start_char="2814" end_char="2816">img</TOKEN>
+<TOKEN id="token-94-4" pos="unknown" morph="none" start_char="2818" end_char="2877">src="http://r.itiexue.net/bbs/other/images/emotion/0007.gif"</TOKEN>
+<TOKEN id="token-94-5" pos="unknown" morph="none" start_char="2879" end_char="2898">onload="bbimg(this)"</TOKEN>
+<TOKEN id="token-94-6" pos="unknown" morph="none" start_char="2900" end_char="2919">alt="回复：尼泊尔地震造成板块移动"</TOKEN>
+<TOKEN id="token-94-7" pos="unknown" morph="none" start_char="2921" end_char="2946">title="回复：尼泊尔地震造成板块移动（图1）"</TOKEN>
+<TOKEN id="token-94-8" pos="unknown" morph="none" start_char="2948" end_char="2961">border="0"&amp;gt;</TOKEN>
+</SEG>
+<SEG id="segment-95" start_char="2973" end_char="2979">
+<ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-95-0" pos="unknown" morph="none" start_char="2973" end_char="2979">&lt;/post&gt;</TOKEN>
+</SEG>
+<SEG id="segment-96" start_char="2981" end_char="3040">
+<ORIGINAL_TEXT>&lt;post id="p22" author="华夏独尊" datetime="2015-05-20T16:01:33"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-96-0" pos="unknown" morph="none" start_char="2981" end_char="2985">&lt;post</TOKEN>
+<TOKEN id="token-96-1" pos="unknown" morph="none" start_char="2987" end_char="2994">id="p22"</TOKEN>
+<TOKEN id="token-96-2" pos="unknown" morph="none" start_char="2996" end_char="3008">author="华夏独尊"</TOKEN>
+<TOKEN id="token-96-3" pos="unknown" morph="none" start_char="3010" end_char="3040">datetime="2015-05-20T16:01:33"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-97" start_char="3042" end_char="3056">
+<ORIGINAL_TEXT>阿三占我们藏南老天都看不下去了</ORIGINAL_TEXT>
+<TOKEN id="token-97-0" pos="word" morph="none" start_char="3042" end_char="3056">阿三占我们藏南老天都看不下去了</TOKEN>
+</SEG>
+<SEG id="segment-98" start_char="3058" end_char="3064">
+<ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-98-0" pos="unknown" morph="none" start_char="3058" end_char="3064">&lt;/post&gt;</TOKEN>
+</SEG>
+<SEG id="segment-99" start_char="3066" end_char="3124">
+<ORIGINAL_TEXT>&lt;post id="p23" author="楚云飞" datetime="2015-05-20T16:06:47"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-99-0" pos="unknown" morph="none" start_char="3066" end_char="3070">&lt;post</TOKEN>
+<TOKEN id="token-99-1" pos="unknown" morph="none" start_char="3072" end_char="3079">id="p23"</TOKEN>
+<TOKEN id="token-99-2" pos="unknown" morph="none" start_char="3081" end_char="3092">author="楚云飞"</TOKEN>
+<TOKEN id="token-99-3" pos="unknown" morph="none" start_char="3094" end_char="3124">datetime="2015-05-20T16:06:47"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-100" start_char="3126" end_char="3152">
+<ORIGINAL_TEXT>什么时候富士山、黄石公园来个大地震、火山大爆发就好了。</ORIGINAL_TEXT>
+<TOKEN id="token-100-0" pos="unknown" morph="none" start_char="3126" end_char="3152">什么时候富士山、黄石公园来个大地震、火山大爆发就好了。</TOKEN>
+</SEG>
+<SEG id="segment-101" start_char="3154" end_char="3160">
+<ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-101-0" pos="unknown" morph="none" start_char="3154" end_char="3160">&lt;/post&gt;</TOKEN>
+</SEG>
+<SEG id="segment-102" start_char="3162" end_char="3219">
+<ORIGINAL_TEXT>&lt;post id="p24" author="酷啦" datetime="2015-05-20T16:07:52"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-102-0" pos="unknown" morph="none" start_char="3162" end_char="3166">&lt;post</TOKEN>
+<TOKEN id="token-102-1" pos="unknown" morph="none" start_char="3168" end_char="3175">id="p24"</TOKEN>
+<TOKEN id="token-102-2" pos="unknown" morph="none" start_char="3177" end_char="3187">author="酷啦"</TOKEN>
+<TOKEN id="token-102-3" pos="unknown" morph="none" start_char="3189" end_char="3219">datetime="2015-05-20T16:07:52"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-103" start_char="3221" end_char="3250">
+<ORIGINAL_TEXT>别说风凉话了 大家都应该能感受到 地球进入另一个新的灾难期了</ORIGINAL_TEXT>
+<TOKEN id="token-103-0" pos="word" morph="none" start_char="3221" end_char="3226">别说风凉话了</TOKEN>
+<TOKEN id="token-103-1" pos="word" morph="none" start_char="3228" end_char="3236">大家都应该能感受到</TOKEN>
+<TOKEN id="token-103-2" pos="word" morph="none" start_char="3238" end_char="3250">地球进入另一个新的灾难期了</TOKEN>
+</SEG>
+<SEG id="segment-104" start_char="3252" end_char="3258">
+<ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-104-0" pos="unknown" morph="none" start_char="3252" end_char="3258">&lt;/post&gt;</TOKEN>
+</SEG>
+<SEG id="segment-105" start_char="3260" end_char="3322">
+<ORIGINAL_TEXT>&lt;post id="p25" author="erawgag" datetime="2015-05-20T16:16:32"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-105-0" pos="unknown" morph="none" start_char="3260" end_char="3264">&lt;post</TOKEN>
+<TOKEN id="token-105-1" pos="unknown" morph="none" start_char="3266" end_char="3273">id="p25"</TOKEN>
+<TOKEN id="token-105-2" pos="unknown" morph="none" start_char="3275" end_char="3290">author="erawgag"</TOKEN>
+<TOKEN id="token-105-3" pos="unknown" morph="none" start_char="3292" end_char="3322">datetime="2015-05-20T16:16:32"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-106" start_char="3324" end_char="3354">
+<ORIGINAL_TEXT>这地震多了会不会西藏海拔就降下来了？那让地震来的更猛烈点吧……</ORIGINAL_TEXT>
+<TOKEN id="token-106-0" pos="word" morph="none" start_char="3324" end_char="3340">这地震多了会不会西藏海拔就降下来了</TOKEN>
+<TOKEN id="token-106-1" pos="punct" morph="none" start_char="3341" end_char="3341">？</TOKEN>
+<TOKEN id="token-106-2" pos="word" morph="none" start_char="3342" end_char="3352">那让地震来的更猛烈点吧</TOKEN>
+<TOKEN id="token-106-3" pos="punct" morph="none" start_char="3353" end_char="3354">……</TOKEN>
+</SEG>
+<SEG id="segment-107" start_char="3356" end_char="3362">
+<ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-107-0" pos="unknown" morph="none" start_char="3356" end_char="3362">&lt;/post&gt;</TOKEN>
+</SEG>
+<SEG id="segment-108" start_char="3364" end_char="3428">
+<ORIGINAL_TEXT>&lt;post id="p26" author="darksteel" datetime="2015-05-20T16:28:24"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-108-0" pos="unknown" morph="none" start_char="3364" end_char="3368">&lt;post</TOKEN>
+<TOKEN id="token-108-1" pos="unknown" morph="none" start_char="3370" end_char="3377">id="p26"</TOKEN>
+<TOKEN id="token-108-2" pos="unknown" morph="none" start_char="3379" end_char="3396">author="darksteel"</TOKEN>
+<TOKEN id="token-108-3" pos="unknown" morph="none" start_char="3398" end_char="3428">datetime="2015-05-20T16:28:24"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-109" start_char="3430" end_char="3445">
+<ORIGINAL_TEXT>直接南移到印度洋，看霉国怎么堵~</ORIGINAL_TEXT>
+<TOKEN id="token-109-0" pos="unknown" morph="none" start_char="3430" end_char="3445">直接南移到印度洋，看霉国怎么堵~</TOKEN>
+</SEG>
+<SEG id="segment-110" start_char="3447" end_char="3453">
+<ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-110-0" pos="unknown" morph="none" start_char="3447" end_char="3453">&lt;/post&gt;</TOKEN>
+</SEG>
+<SEG id="segment-111" start_char="3455" end_char="3512">
+<ORIGINAL_TEXT>&lt;post id="p27" author="冬蛇" datetime="2015-05-20T16:31:14"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-111-0" pos="unknown" morph="none" start_char="3455" end_char="3459">&lt;post</TOKEN>
+<TOKEN id="token-111-1" pos="unknown" morph="none" start_char="3461" end_char="3468">id="p27"</TOKEN>
+<TOKEN id="token-111-2" pos="unknown" morph="none" start_char="3470" end_char="3480">author="冬蛇"</TOKEN>
+<TOKEN id="token-111-3" pos="unknown" morph="none" start_char="3482" end_char="3512">datetime="2015-05-20T16:31:14"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-112" start_char="3514" end_char="3575">
+<ORIGINAL_TEXT>我觉得是胡扯，向南移动60厘米，那么，北边是怎么填补这60厘米的真空的？是裂了一个大缝，还是如乳胶套套一样，大地均匀地拉伸？</ORIGINAL_TEXT>
+<TOKEN id="token-112-0" pos="unknown" morph="none" start_char="3514" end_char="3575">我觉得是胡扯，向南移动60厘米，那么，北边是怎么填补这60厘米的真空的？是裂了一个大缝，还是如乳胶套套一样，大地均匀地拉伸？</TOKEN>
+</SEG>
+<SEG id="segment-113" start_char="3577" end_char="3583">
+<ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-113-0" pos="unknown" morph="none" start_char="3577" end_char="3583">&lt;/post&gt;</TOKEN>
+</SEG>
+<SEG id="segment-114" start_char="3585" end_char="3645">
+<ORIGINAL_TEXT>&lt;post id="p28" author="狡兔有三窟" datetime="2015-05-20T16:33:15"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-114-0" pos="unknown" morph="none" start_char="3585" end_char="3589">&lt;post</TOKEN>
+<TOKEN id="token-114-1" pos="unknown" morph="none" start_char="3591" end_char="3598">id="p28"</TOKEN>
+<TOKEN id="token-114-2" pos="unknown" morph="none" start_char="3600" end_char="3613">author="狡兔有三窟"</TOKEN>
+<TOKEN id="token-114-3" pos="unknown" morph="none" start_char="3615" end_char="3645">datetime="2015-05-20T16:33:15"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-115" start_char="3647" end_char="3676">
+<ORIGINAL_TEXT>搞错了吧？不是应该是板块异动造成地震吗？地震还能让板块移动？</ORIGINAL_TEXT>
+<TOKEN id="token-115-0" pos="unknown" morph="none" start_char="3647" end_char="3676">搞错了吧？不是应该是板块异动造成地震吗？地震还能让板块移动？</TOKEN>
+</SEG>
+<SEG id="segment-116" start_char="3678" end_char="3684">
+<ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-116-0" pos="unknown" morph="none" start_char="3678" end_char="3684">&lt;/post&gt;</TOKEN>
+</SEG>
+<SEG id="segment-117" start_char="3686" end_char="3745">
+<ORIGINAL_TEXT>&lt;post id="p29" author="岁月梅婷" datetime="2015-05-20T16:35:53"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-117-0" pos="unknown" morph="none" start_char="3686" end_char="3690">&lt;post</TOKEN>
+<TOKEN id="token-117-1" pos="unknown" morph="none" start_char="3692" end_char="3699">id="p29"</TOKEN>
+<TOKEN id="token-117-2" pos="unknown" morph="none" start_char="3701" end_char="3713">author="岁月梅婷"</TOKEN>
+<TOKEN id="token-117-3" pos="unknown" morph="none" start_char="3715" end_char="3745">datetime="2015-05-20T16:35:53"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-118" start_char="3747" end_char="3775">
+<ORIGINAL_TEXT>&lt;quote orig_author="铁血军迷lin"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-118-0" pos="unknown" morph="none" start_char="3747" end_char="3752">&lt;quote</TOKEN>
+<TOKEN id="token-118-1" pos="unknown" morph="none" start_char="3754" end_char="3775">orig_author="铁血军迷lin"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-119" start_char="3777" end_char="3803">
+<ORIGINAL_TEXT>&lt;quote orig_author="天之山之西"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-119-0" pos="unknown" morph="none" start_char="3777" end_char="3782">&lt;quote</TOKEN>
+<TOKEN id="token-119-1" pos="unknown" morph="none" start_char="3784" end_char="3803">orig_author="天之山之西"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-120" start_char="3805" end_char="3824">
+<ORIGINAL_TEXT>那就再多震几次，再向南移它个百八十公里。</ORIGINAL_TEXT>
+<TOKEN id="token-120-0" pos="word" morph="none" start_char="3805" end_char="3811">那就再多震几次</TOKEN>
+<TOKEN id="token-120-1" pos="punct" morph="none" start_char="3812" end_char="3812">，</TOKEN>
+<TOKEN id="token-120-2" pos="word" morph="none" start_char="3813" end_char="3823">再向南移它个百八十公里</TOKEN>
+<TOKEN id="token-120-3" pos="punct" morph="none" start_char="3824" end_char="3824">。</TOKEN>
+</SEG>
+<SEG id="segment-121" start_char="3826" end_char="3833">
+<ORIGINAL_TEXT>&lt;/quote&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-121-0" pos="unknown" morph="none" start_char="3826" end_char="3833">&lt;/quote&gt;</TOKEN>
+</SEG>
+<SEG id="segment-122" start_char="3835" end_char="3849">
+<ORIGINAL_TEXT>这是要赶三哥下海的节凑！！！！</ORIGINAL_TEXT>
+<TOKEN id="token-122-0" pos="word" morph="none" start_char="3835" end_char="3845">这是要赶三哥下海的节凑</TOKEN>
+<TOKEN id="token-122-1" pos="punct" morph="none" start_char="3846" end_char="3849">！！！！</TOKEN>
+</SEG>
+<SEG id="segment-123" start_char="3851" end_char="3858">
+<ORIGINAL_TEXT>&lt;/quote&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-123-0" pos="unknown" morph="none" start_char="3851" end_char="3858">&lt;/quote&gt;</TOKEN>
+</SEG>
+<SEG id="segment-124" start_char="3860" end_char="3872">
+<ORIGINAL_TEXT>不是下海,是进入地幔去住.</ORIGINAL_TEXT>
+<TOKEN id="token-124-0" pos="word" morph="none" start_char="3860" end_char="3863">不是下海</TOKEN>
+<TOKEN id="token-124-1" pos="punct" morph="none" start_char="3864" end_char="3864">,</TOKEN>
+<TOKEN id="token-124-2" pos="word" morph="none" start_char="3865" end_char="3871">是进入地幔去住</TOKEN>
+<TOKEN id="token-124-3" pos="punct" morph="none" start_char="3872" end_char="3872">.</TOKEN>
+</SEG>
+<SEG id="segment-125" start_char="3874" end_char="3880">
+<ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-125-0" pos="unknown" morph="none" start_char="3874" end_char="3880">&lt;/post&gt;</TOKEN>
+</SEG>
+<SEG id="segment-126" start_char="3882" end_char="3945">
+<ORIGINAL_TEXT>&lt;post id="p30" author="max17174" datetime="2015-05-20T16:44:11"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-126-0" pos="unknown" morph="none" start_char="3882" end_char="3886">&lt;post</TOKEN>
+<TOKEN id="token-126-1" pos="unknown" morph="none" start_char="3888" end_char="3895">id="p30"</TOKEN>
+<TOKEN id="token-126-2" pos="unknown" morph="none" start_char="3897" end_char="3913">author="max17174"</TOKEN>
+<TOKEN id="token-126-3" pos="unknown" morph="none" start_char="3915" end_char="3945">datetime="2015-05-20T16:44:11"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-127" start_char="3947" end_char="3964">
+<ORIGINAL_TEXT>我只关心某岛国什么时候全被海水淹没 </ORIGINAL_TEXT>
+<TOKEN id="token-127-0" pos="word" morph="none" start_char="3947" end_char="3963">我只关心某岛国什么时候全被海水淹没</TOKEN>
+</SEG>
+<SEG id="segment-128" start_char="3966" end_char="3972">
+<ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-128-0" pos="unknown" morph="none" start_char="3966" end_char="3972">&lt;/post&gt;</TOKEN>
+</SEG>
+<SEG id="segment-129" start_char="3974" end_char="3979">
+<ORIGINAL_TEXT>&lt;/doc&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-129-0" pos="unknown" morph="none" start_char="3974" end_char="3979">&lt;/doc&gt;</TOKEN>
+</SEG>
+</TEXT>
+</DOC>
+</LCTL_TEXT>

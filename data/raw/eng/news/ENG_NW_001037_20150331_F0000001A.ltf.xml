@@ -1,0 +1,680 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LCTL_TEXT>
+  <DOC id="ENG_NW_001037_20150331_F0000001A.xml" tokenization="tokenization_parameters" grammar="none" raw_text_char_length="2606" raw_text_md5="cf6fe5f73da1d0332e9744533d660e51">
+    <TEXT>
+      <SEG id="segment-0" start_char="0" end_char="37">
+        <ORIGINAL_TEXT>&lt;?xml version="1.0" encoding="utf-8"?&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-0-0" pos="unknown" morph="none" start_char="0" end_char="4">&lt;?xml</TOKEN>
+        <TOKEN id="token-0-1" pos="unknown" morph="none" start_char="6" end_char="18">version="1.0"</TOKEN>
+        <TOKEN id="token-0-2" pos="unknown" morph="none" start_char="20" end_char="37">encoding="utf-8"?&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-1" start_char="39" end_char="81">
+        <ORIGINAL_TEXT>&lt;DOC id="ENG_NW_001037_20150331_F0000001A"&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-1-0" pos="unknown" morph="none" start_char="39" end_char="42">&lt;DOC</TOKEN>
+        <TOKEN id="token-1-1" pos="unknown" morph="none" start_char="44" end_char="81">id="ENG_NW_001037_20150331_F0000001A"&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-2" start_char="83" end_char="223">
+        <ORIGINAL_TEXT>&lt;SOURCE&gt;http://www.npr.org/blogs/thetwo-way/2015/03/31/396599292/nigerian-president-said-to-concede-election-to-opposition-candidate&lt;/SOURCE&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-2-0" pos="unknown" morph="none" start_char="83" end_char="223">&lt;SOURCE&gt;http://www.npr.org/blogs/thetwo-way/2015/03/31/396599292/nigerian-president-said-to-concede-election-to-opposition-candidate&lt;/SOURCE&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-3" start_char="225" end_char="266">
+        <ORIGINAL_TEXT>&lt;DATE_TIME&gt;2015-03-31T00:00:00&lt;/DATE_TIME&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-3-0" pos="unknown" morph="none" start_char="225" end_char="266">&lt;DATE_TIME&gt;2015-03-31T00:00:00&lt;/DATE_TIME&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-4" start_char="268" end_char="277">
+        <ORIGINAL_TEXT>&lt;HEADLINE&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-4-0" pos="unknown" morph="none" start_char="268" end_char="277">&lt;HEADLINE&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-5" start_char="279" end_char="338">
+        <ORIGINAL_TEXT>Nigerian President Concedes Election To Opposition Candidate</ORIGINAL_TEXT>
+        <TOKEN id="token-5-0" pos="word" morph="none" start_char="279" end_char="286">Nigerian</TOKEN>
+        <TOKEN id="token-5-1" pos="word" morph="none" start_char="288" end_char="296">President</TOKEN>
+        <TOKEN id="token-5-2" pos="word" morph="none" start_char="298" end_char="305">Concedes</TOKEN>
+        <TOKEN id="token-5-3" pos="word" morph="none" start_char="307" end_char="314">Election</TOKEN>
+        <TOKEN id="token-5-4" pos="word" morph="none" start_char="316" end_char="317">To</TOKEN>
+        <TOKEN id="token-5-5" pos="word" morph="none" start_char="319" end_char="328">Opposition</TOKEN>
+        <TOKEN id="token-5-6" pos="word" morph="none" start_char="330" end_char="338">Candidate</TOKEN>
+      </SEG>
+      <SEG id="segment-6" start_char="340" end_char="350">
+        <ORIGINAL_TEXT>&lt;/HEADLINE&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-6-0" pos="unknown" morph="none" start_char="340" end_char="350">&lt;/HEADLINE&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-7" start_char="352" end_char="357">
+        <ORIGINAL_TEXT>&lt;TEXT&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-7-0" pos="unknown" morph="none" start_char="352" end_char="357">&lt;TEXT&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-8" start_char="359" end_char="361">
+        <ORIGINAL_TEXT>&lt;P&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-8-0" pos="unknown" morph="none" start_char="359" end_char="361">&lt;P&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-9" start_char="363" end_char="439">
+        <ORIGINAL_TEXT>Nigerian President Goodluck Jonathan has called his rival to congratulate him</ORIGINAL_TEXT>
+        <TOKEN id="token-9-0" pos="word" morph="none" start_char="363" end_char="370">Nigerian</TOKEN>
+        <TOKEN id="token-9-1" pos="word" morph="none" start_char="372" end_char="380">President</TOKEN>
+        <TOKEN id="token-9-2" pos="word" morph="none" start_char="382" end_char="389">Goodluck</TOKEN>
+        <TOKEN id="token-9-3" pos="word" morph="none" start_char="391" end_char="398">Jonathan</TOKEN>
+        <TOKEN id="token-9-4" pos="word" morph="none" start_char="400" end_char="402">has</TOKEN>
+        <TOKEN id="token-9-5" pos="word" morph="none" start_char="404" end_char="409">called</TOKEN>
+        <TOKEN id="token-9-6" pos="word" morph="none" start_char="411" end_char="413">his</TOKEN>
+        <TOKEN id="token-9-7" pos="word" morph="none" start_char="415" end_char="419">rival</TOKEN>
+        <TOKEN id="token-9-8" pos="word" morph="none" start_char="421" end_char="422">to</TOKEN>
+        <TOKEN id="token-9-9" pos="word" morph="none" start_char="424" end_char="435">congratulate</TOKEN>
+        <TOKEN id="token-9-10" pos="word" morph="none" start_char="437" end_char="439">him</TOKEN>
+      </SEG>
+      <SEG id="segment-10" start_char="441" end_char="455">
+        <ORIGINAL_TEXT>on his victory.</ORIGINAL_TEXT>
+        <TOKEN id="token-10-0" pos="word" morph="none" start_char="441" end_char="442">on</TOKEN>
+        <TOKEN id="token-10-1" pos="word" morph="none" start_char="444" end_char="446">his</TOKEN>
+        <TOKEN id="token-10-2" pos="word" morph="none" start_char="448" end_char="454">victory</TOKEN>
+        <TOKEN id="token-10-3" pos="punct" morph="none" start_char="455" end_char="455">.</TOKEN>
+      </SEG>
+      <SEG id="segment-11" start_char="457" end_char="460">
+        <ORIGINAL_TEXT>&lt;/P&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-11-0" pos="unknown" morph="none" start_char="457" end_char="460">&lt;/P&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-12" start_char="462" end_char="464">
+        <ORIGINAL_TEXT>&lt;P&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-12-0" pos="unknown" morph="none" start_char="462" end_char="464">&lt;P&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-13" start_char="466" end_char="537">
+        <ORIGINAL_TEXT>The AP reports that opposition presidential candidate Muhammadu Buhari's</ORIGINAL_TEXT>
+        <TOKEN id="token-13-0" pos="word" morph="none" start_char="466" end_char="468">The</TOKEN>
+        <TOKEN id="token-13-1" pos="word" morph="none" start_char="470" end_char="471">AP</TOKEN>
+        <TOKEN id="token-13-2" pos="word" morph="none" start_char="473" end_char="479">reports</TOKEN>
+        <TOKEN id="token-13-3" pos="word" morph="none" start_char="481" end_char="484">that</TOKEN>
+        <TOKEN id="token-13-4" pos="word" morph="none" start_char="486" end_char="495">opposition</TOKEN>
+        <TOKEN id="token-13-5" pos="word" morph="none" start_char="497" end_char="508">presidential</TOKEN>
+        <TOKEN id="token-13-6" pos="word" morph="none" start_char="510" end_char="518">candidate</TOKEN>
+        <TOKEN id="token-13-7" pos="word" morph="none" start_char="520" end_char="528">Muhammadu</TOKEN>
+        <TOKEN id="token-13-8" pos="word" morph="none" start_char="530" end_char="535">Buhari</TOKEN>
+        <TOKEN id="token-13-9" pos="punct" morph="none" start_char="536" end_char="536">'</TOKEN>
+        <TOKEN id="token-13-10" pos="word" morph="none" start_char="537" end_char="537">s</TOKEN>
+      </SEG>
+      <SEG id="segment-14" start_char="539" end_char="609">
+        <ORIGINAL_TEXT>campaign said Jonathan made the call on Tuesday, after partial election</ORIGINAL_TEXT>
+        <TOKEN id="token-14-0" pos="word" morph="none" start_char="539" end_char="546">campaign</TOKEN>
+        <TOKEN id="token-14-1" pos="word" morph="none" start_char="548" end_char="551">said</TOKEN>
+        <TOKEN id="token-14-2" pos="word" morph="none" start_char="553" end_char="560">Jonathan</TOKEN>
+        <TOKEN id="token-14-3" pos="word" morph="none" start_char="562" end_char="565">made</TOKEN>
+        <TOKEN id="token-14-4" pos="word" morph="none" start_char="567" end_char="569">the</TOKEN>
+        <TOKEN id="token-14-5" pos="word" morph="none" start_char="571" end_char="574">call</TOKEN>
+        <TOKEN id="token-14-6" pos="word" morph="none" start_char="576" end_char="577">on</TOKEN>
+        <TOKEN id="token-14-7" pos="word" morph="none" start_char="579" end_char="585">Tuesday</TOKEN>
+        <TOKEN id="token-14-8" pos="punct" morph="none" start_char="586" end_char="586">,</TOKEN>
+        <TOKEN id="token-14-9" pos="word" morph="none" start_char="588" end_char="592">after</TOKEN>
+        <TOKEN id="token-14-10" pos="word" morph="none" start_char="594" end_char="600">partial</TOKEN>
+        <TOKEN id="token-14-11" pos="word" morph="none" start_char="602" end_char="609">election</TOKEN>
+      </SEG>
+      <SEG id="segment-15" start_char="611" end_char="668">
+        <ORIGINAL_TEXT>results showed Buhari leading by close to 3 million votes.</ORIGINAL_TEXT>
+        <TOKEN id="token-15-0" pos="word" morph="none" start_char="611" end_char="617">results</TOKEN>
+        <TOKEN id="token-15-1" pos="word" morph="none" start_char="619" end_char="624">showed</TOKEN>
+        <TOKEN id="token-15-2" pos="word" morph="none" start_char="626" end_char="631">Buhari</TOKEN>
+        <TOKEN id="token-15-3" pos="word" morph="none" start_char="633" end_char="639">leading</TOKEN>
+        <TOKEN id="token-15-4" pos="word" morph="none" start_char="641" end_char="642">by</TOKEN>
+        <TOKEN id="token-15-5" pos="word" morph="none" start_char="644" end_char="648">close</TOKEN>
+        <TOKEN id="token-15-6" pos="word" morph="none" start_char="650" end_char="651">to</TOKEN>
+        <TOKEN id="token-15-7" pos="number" morph="none" start_char="653" end_char="653">3</TOKEN>
+        <TOKEN id="token-15-8" pos="word" morph="none" start_char="655" end_char="661">million</TOKEN>
+        <TOKEN id="token-15-9" pos="word" morph="none" start_char="663" end_char="667">votes</TOKEN>
+        <TOKEN id="token-15-10" pos="punct" morph="none" start_char="668" end_char="668">.</TOKEN>
+      </SEG>
+      <SEG id="segment-16" start_char="670" end_char="673">
+        <ORIGINAL_TEXT>&lt;/P&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-16-0" pos="unknown" morph="none" start_char="670" end_char="673">&lt;/P&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-17" start_char="675" end_char="677">
+        <ORIGINAL_TEXT>&lt;P&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-17-0" pos="unknown" morph="none" start_char="675" end_char="677">&lt;P&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-18" start_char="679" end_char="693">
+        <ORIGINAL_TEXT>The AP reports:</ORIGINAL_TEXT>
+        <TOKEN id="token-18-0" pos="word" morph="none" start_char="679" end_char="681">The</TOKEN>
+        <TOKEN id="token-18-1" pos="word" morph="none" start_char="683" end_char="684">AP</TOKEN>
+        <TOKEN id="token-18-2" pos="word" morph="none" start_char="686" end_char="692">reports</TOKEN>
+        <TOKEN id="token-18-3" pos="punct" morph="none" start_char="693" end_char="693">:</TOKEN>
+      </SEG>
+      <SEG id="segment-19" start_char="695" end_char="698">
+        <ORIGINAL_TEXT>&lt;/P&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-19-0" pos="unknown" morph="none" start_char="695" end_char="698">&lt;/P&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-20" start_char="700" end_char="702">
+        <ORIGINAL_TEXT>&lt;P&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-20-0" pos="unknown" morph="none" start_char="700" end_char="702">&lt;P&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-21" start_char="704" end_char="775">
+        <ORIGINAL_TEXT>"An aide in Jonathan's offices says the president is preparing to make a</ORIGINAL_TEXT>
+        <TOKEN id="token-21-0" pos="punct" morph="none" start_char="704" end_char="704">"</TOKEN>
+        <TOKEN id="token-21-1" pos="word" morph="none" start_char="705" end_char="706">An</TOKEN>
+        <TOKEN id="token-21-2" pos="word" morph="none" start_char="708" end_char="711">aide</TOKEN>
+        <TOKEN id="token-21-3" pos="word" morph="none" start_char="713" end_char="714">in</TOKEN>
+        <TOKEN id="token-21-4" pos="word" morph="none" start_char="716" end_char="723">Jonathan</TOKEN>
+        <TOKEN id="token-21-5" pos="punct" morph="none" start_char="724" end_char="724">'</TOKEN>
+        <TOKEN id="token-21-6" pos="word" morph="none" start_char="725" end_char="725">s</TOKEN>
+        <TOKEN id="token-21-7" pos="word" morph="none" start_char="727" end_char="733">offices</TOKEN>
+        <TOKEN id="token-21-8" pos="word" morph="none" start_char="735" end_char="738">says</TOKEN>
+        <TOKEN id="token-21-9" pos="word" morph="none" start_char="740" end_char="742">the</TOKEN>
+        <TOKEN id="token-21-10" pos="word" morph="none" start_char="744" end_char="752">president</TOKEN>
+        <TOKEN id="token-21-11" pos="word" morph="none" start_char="754" end_char="755">is</TOKEN>
+        <TOKEN id="token-21-12" pos="word" morph="none" start_char="757" end_char="765">preparing</TOKEN>
+        <TOKEN id="token-21-13" pos="word" morph="none" start_char="767" end_char="768">to</TOKEN>
+        <TOKEN id="token-21-14" pos="word" morph="none" start_char="770" end_char="773">make</TOKEN>
+        <TOKEN id="token-21-15" pos="word" morph="none" start_char="775" end_char="775">a</TOKEN>
+      </SEG>
+      <SEG id="segment-22" start_char="777" end_char="787">
+        <ORIGINAL_TEXT>speech. ...</ORIGINAL_TEXT>
+        <TOKEN id="token-22-0" pos="word" morph="none" start_char="777" end_char="782">speech</TOKEN>
+        <TOKEN id="token-22-1" pos="punct" morph="none" start_char="783" end_char="783">.</TOKEN>
+        <TOKEN id="token-22-2" pos="unknown" morph="none" start_char="785" end_char="787">...</TOKEN>
+      </SEG>
+      <SEG id="segment-23" start_char="789" end_char="792">
+        <ORIGINAL_TEXT>&lt;/P&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-23-0" pos="unknown" morph="none" start_char="789" end_char="792">&lt;/P&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-24" start_char="794" end_char="796">
+        <ORIGINAL_TEXT>&lt;P&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-24-0" pos="unknown" morph="none" start_char="794" end_char="796">&lt;P&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-25" start_char="798" end_char="874">
+        <ORIGINAL_TEXT>"Celebrations have erupted all over Buhari's strongholds in northern Nigeria,</ORIGINAL_TEXT>
+        <TOKEN id="token-25-0" pos="punct" morph="none" start_char="798" end_char="798">"</TOKEN>
+        <TOKEN id="token-25-1" pos="word" morph="none" start_char="799" end_char="810">Celebrations</TOKEN>
+        <TOKEN id="token-25-2" pos="word" morph="none" start_char="812" end_char="815">have</TOKEN>
+        <TOKEN id="token-25-3" pos="word" morph="none" start_char="817" end_char="823">erupted</TOKEN>
+        <TOKEN id="token-25-4" pos="word" morph="none" start_char="825" end_char="827">all</TOKEN>
+        <TOKEN id="token-25-5" pos="word" morph="none" start_char="829" end_char="832">over</TOKEN>
+        <TOKEN id="token-25-6" pos="word" morph="none" start_char="834" end_char="839">Buhari</TOKEN>
+        <TOKEN id="token-25-7" pos="punct" morph="none" start_char="840" end_char="840">'</TOKEN>
+        <TOKEN id="token-25-8" pos="word" morph="none" start_char="841" end_char="841">s</TOKEN>
+        <TOKEN id="token-25-9" pos="word" morph="none" start_char="843" end_char="853">strongholds</TOKEN>
+        <TOKEN id="token-25-10" pos="word" morph="none" start_char="855" end_char="856">in</TOKEN>
+        <TOKEN id="token-25-11" pos="word" morph="none" start_char="858" end_char="865">northern</TOKEN>
+        <TOKEN id="token-25-12" pos="word" morph="none" start_char="867" end_char="873">Nigeria</TOKEN>
+        <TOKEN id="token-25-13" pos="punct" morph="none" start_char="874" end_char="874">,</TOKEN>
+      </SEG>
+      <SEG id="segment-26" start_char="876" end_char="949">
+        <ORIGINAL_TEXT>but the streets of Abuja, the capital, are deserted amid fears of violence</ORIGINAL_TEXT>
+        <TOKEN id="token-26-0" pos="word" morph="none" start_char="876" end_char="878">but</TOKEN>
+        <TOKEN id="token-26-1" pos="word" morph="none" start_char="880" end_char="882">the</TOKEN>
+        <TOKEN id="token-26-2" pos="word" morph="none" start_char="884" end_char="890">streets</TOKEN>
+        <TOKEN id="token-26-3" pos="word" morph="none" start_char="892" end_char="893">of</TOKEN>
+        <TOKEN id="token-26-4" pos="word" morph="none" start_char="895" end_char="899">Abuja</TOKEN>
+        <TOKEN id="token-26-5" pos="punct" morph="none" start_char="900" end_char="900">,</TOKEN>
+        <TOKEN id="token-26-6" pos="word" morph="none" start_char="902" end_char="904">the</TOKEN>
+        <TOKEN id="token-26-7" pos="word" morph="none" start_char="906" end_char="912">capital</TOKEN>
+        <TOKEN id="token-26-8" pos="punct" morph="none" start_char="913" end_char="913">,</TOKEN>
+        <TOKEN id="token-26-9" pos="word" morph="none" start_char="915" end_char="917">are</TOKEN>
+        <TOKEN id="token-26-10" pos="word" morph="none" start_char="919" end_char="926">deserted</TOKEN>
+        <TOKEN id="token-26-11" pos="word" morph="none" start_char="928" end_char="931">amid</TOKEN>
+        <TOKEN id="token-26-12" pos="word" morph="none" start_char="933" end_char="937">fears</TOKEN>
+        <TOKEN id="token-26-13" pos="word" morph="none" start_char="939" end_char="940">of</TOKEN>
+        <TOKEN id="token-26-14" pos="word" morph="none" start_char="942" end_char="949">violence</TOKEN>
+      </SEG>
+      <SEG id="segment-27" start_char="951" end_char="991">
+        <ORIGINAL_TEXT>from Jonathan's supporters in the south."</ORIGINAL_TEXT>
+        <TOKEN id="token-27-0" pos="word" morph="none" start_char="951" end_char="954">from</TOKEN>
+        <TOKEN id="token-27-1" pos="word" morph="none" start_char="956" end_char="963">Jonathan</TOKEN>
+        <TOKEN id="token-27-2" pos="punct" morph="none" start_char="964" end_char="964">'</TOKEN>
+        <TOKEN id="token-27-3" pos="word" morph="none" start_char="965" end_char="965">s</TOKEN>
+        <TOKEN id="token-27-4" pos="word" morph="none" start_char="967" end_char="976">supporters</TOKEN>
+        <TOKEN id="token-27-5" pos="word" morph="none" start_char="978" end_char="979">in</TOKEN>
+        <TOKEN id="token-27-6" pos="word" morph="none" start_char="981" end_char="983">the</TOKEN>
+        <TOKEN id="token-27-7" pos="word" morph="none" start_char="985" end_char="989">south</TOKEN>
+        <TOKEN id="token-27-8" pos="punct" morph="none" start_char="990" end_char="991">."</TOKEN>
+      </SEG>
+      <SEG id="segment-28" start_char="993" end_char="996">
+        <ORIGINAL_TEXT>&lt;/P&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-28-0" pos="unknown" morph="none" start_char="993" end_char="996">&lt;/P&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-29" start_char="998" end_char="1000">
+        <ORIGINAL_TEXT>&lt;P&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-29-0" pos="unknown" morph="none" start_char="998" end_char="1000">&lt;P&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-30" start_char="1002" end_char="1074">
+        <ORIGINAL_TEXT>With the partial results, The New York Times also projected Buhari as the</ORIGINAL_TEXT>
+        <TOKEN id="token-30-0" pos="word" morph="none" start_char="1002" end_char="1005">With</TOKEN>
+        <TOKEN id="token-30-1" pos="word" morph="none" start_char="1007" end_char="1009">the</TOKEN>
+        <TOKEN id="token-30-2" pos="word" morph="none" start_char="1011" end_char="1017">partial</TOKEN>
+        <TOKEN id="token-30-3" pos="word" morph="none" start_char="1019" end_char="1025">results</TOKEN>
+        <TOKEN id="token-30-4" pos="punct" morph="none" start_char="1026" end_char="1026">,</TOKEN>
+        <TOKEN id="token-30-5" pos="word" morph="none" start_char="1028" end_char="1030">The</TOKEN>
+        <TOKEN id="token-30-6" pos="word" morph="none" start_char="1032" end_char="1034">New</TOKEN>
+        <TOKEN id="token-30-7" pos="word" morph="none" start_char="1036" end_char="1039">York</TOKEN>
+        <TOKEN id="token-30-8" pos="word" morph="none" start_char="1041" end_char="1045">Times</TOKEN>
+        <TOKEN id="token-30-9" pos="word" morph="none" start_char="1047" end_char="1050">also</TOKEN>
+        <TOKEN id="token-30-10" pos="word" morph="none" start_char="1052" end_char="1060">projected</TOKEN>
+        <TOKEN id="token-30-11" pos="word" morph="none" start_char="1062" end_char="1067">Buhari</TOKEN>
+        <TOKEN id="token-30-12" pos="word" morph="none" start_char="1069" end_char="1070">as</TOKEN>
+        <TOKEN id="token-30-13" pos="word" morph="none" start_char="1072" end_char="1074">the</TOKEN>
+      </SEG>
+      <SEG id="segment-31" start_char="1076" end_char="1082">
+        <ORIGINAL_TEXT>winner.</ORIGINAL_TEXT>
+        <TOKEN id="token-31-0" pos="word" morph="none" start_char="1076" end_char="1081">winner</TOKEN>
+        <TOKEN id="token-31-1" pos="punct" morph="none" start_char="1082" end_char="1082">.</TOKEN>
+      </SEG>
+      <SEG id="segment-32" start_char="1084" end_char="1087">
+        <ORIGINAL_TEXT>&lt;/P&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-32-0" pos="unknown" morph="none" start_char="1084" end_char="1087">&lt;/P&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-33" start_char="1089" end_char="1091">
+        <ORIGINAL_TEXT>&lt;P&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-33-0" pos="unknown" morph="none" start_char="1089" end_char="1091">&lt;P&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-34" start_char="1093" end_char="1164">
+        <ORIGINAL_TEXT>The only outstanding votes come from the north of the country, the paper</ORIGINAL_TEXT>
+        <TOKEN id="token-34-0" pos="word" morph="none" start_char="1093" end_char="1095">The</TOKEN>
+        <TOKEN id="token-34-1" pos="word" morph="none" start_char="1097" end_char="1100">only</TOKEN>
+        <TOKEN id="token-34-2" pos="word" morph="none" start_char="1102" end_char="1112">outstanding</TOKEN>
+        <TOKEN id="token-34-3" pos="word" morph="none" start_char="1114" end_char="1118">votes</TOKEN>
+        <TOKEN id="token-34-4" pos="word" morph="none" start_char="1120" end_char="1123">come</TOKEN>
+        <TOKEN id="token-34-5" pos="word" morph="none" start_char="1125" end_char="1128">from</TOKEN>
+        <TOKEN id="token-34-6" pos="word" morph="none" start_char="1130" end_char="1132">the</TOKEN>
+        <TOKEN id="token-34-7" pos="word" morph="none" start_char="1134" end_char="1138">north</TOKEN>
+        <TOKEN id="token-34-8" pos="word" morph="none" start_char="1140" end_char="1141">of</TOKEN>
+        <TOKEN id="token-34-9" pos="word" morph="none" start_char="1143" end_char="1145">the</TOKEN>
+        <TOKEN id="token-34-10" pos="word" morph="none" start_char="1147" end_char="1153">country</TOKEN>
+        <TOKEN id="token-34-11" pos="punct" morph="none" start_char="1154" end_char="1154">,</TOKEN>
+        <TOKEN id="token-34-12" pos="word" morph="none" start_char="1156" end_char="1158">the</TOKEN>
+        <TOKEN id="token-34-13" pos="word" morph="none" start_char="1160" end_char="1164">paper</TOKEN>
+      </SEG>
+      <SEG id="segment-35" start_char="1166" end_char="1241">
+        <ORIGINAL_TEXT>reported, "where Mr. Buhari enjoys broad support and the government has been</ORIGINAL_TEXT>
+        <TOKEN id="token-35-0" pos="word" morph="none" start_char="1166" end_char="1173">reported</TOKEN>
+        <TOKEN id="token-35-1" pos="punct" morph="none" start_char="1174" end_char="1174">,</TOKEN>
+        <TOKEN id="token-35-2" pos="punct" morph="none" start_char="1176" end_char="1176">"</TOKEN>
+        <TOKEN id="token-35-3" pos="word" morph="none" start_char="1177" end_char="1181">where</TOKEN>
+        <TOKEN id="token-35-4" pos="word" morph="none" start_char="1183" end_char="1184">Mr</TOKEN>
+        <TOKEN id="token-35-5" pos="punct" morph="none" start_char="1185" end_char="1185">.</TOKEN>
+        <TOKEN id="token-35-6" pos="word" morph="none" start_char="1187" end_char="1192">Buhari</TOKEN>
+        <TOKEN id="token-35-7" pos="word" morph="none" start_char="1194" end_char="1199">enjoys</TOKEN>
+        <TOKEN id="token-35-8" pos="word" morph="none" start_char="1201" end_char="1205">broad</TOKEN>
+        <TOKEN id="token-35-9" pos="word" morph="none" start_char="1207" end_char="1213">support</TOKEN>
+        <TOKEN id="token-35-10" pos="word" morph="none" start_char="1215" end_char="1217">and</TOKEN>
+        <TOKEN id="token-35-11" pos="word" morph="none" start_char="1219" end_char="1221">the</TOKEN>
+        <TOKEN id="token-35-12" pos="word" morph="none" start_char="1223" end_char="1232">government</TOKEN>
+        <TOKEN id="token-35-13" pos="word" morph="none" start_char="1234" end_char="1236">has</TOKEN>
+        <TOKEN id="token-35-14" pos="word" morph="none" start_char="1238" end_char="1241">been</TOKEN>
+      </SEG>
+      <SEG id="segment-36" start_char="1243" end_char="1318">
+        <ORIGINAL_TEXT>widely condemned for allowing the Boko Haram militant group to sweep through</ORIGINAL_TEXT>
+        <TOKEN id="token-36-0" pos="word" morph="none" start_char="1243" end_char="1248">widely</TOKEN>
+        <TOKEN id="token-36-1" pos="word" morph="none" start_char="1250" end_char="1258">condemned</TOKEN>
+        <TOKEN id="token-36-2" pos="word" morph="none" start_char="1260" end_char="1262">for</TOKEN>
+        <TOKEN id="token-36-3" pos="word" morph="none" start_char="1264" end_char="1271">allowing</TOKEN>
+        <TOKEN id="token-36-4" pos="word" morph="none" start_char="1273" end_char="1275">the</TOKEN>
+        <TOKEN id="token-36-5" pos="word" morph="none" start_char="1277" end_char="1280">Boko</TOKEN>
+        <TOKEN id="token-36-6" pos="word" morph="none" start_char="1282" end_char="1286">Haram</TOKEN>
+        <TOKEN id="token-36-7" pos="word" morph="none" start_char="1288" end_char="1295">militant</TOKEN>
+        <TOKEN id="token-36-8" pos="word" morph="none" start_char="1297" end_char="1301">group</TOKEN>
+        <TOKEN id="token-36-9" pos="word" morph="none" start_char="1303" end_char="1304">to</TOKEN>
+        <TOKEN id="token-36-10" pos="word" morph="none" start_char="1306" end_char="1310">sweep</TOKEN>
+        <TOKEN id="token-36-11" pos="word" morph="none" start_char="1312" end_char="1318">through</TOKEN>
+      </SEG>
+      <SEG id="segment-37" start_char="1320" end_char="1371">
+        <ORIGINAL_TEXT>villages and towns, killing thousands of civilians."</ORIGINAL_TEXT>
+        <TOKEN id="token-37-0" pos="word" morph="none" start_char="1320" end_char="1327">villages</TOKEN>
+        <TOKEN id="token-37-1" pos="word" morph="none" start_char="1329" end_char="1331">and</TOKEN>
+        <TOKEN id="token-37-2" pos="word" morph="none" start_char="1333" end_char="1337">towns</TOKEN>
+        <TOKEN id="token-37-3" pos="punct" morph="none" start_char="1338" end_char="1338">,</TOKEN>
+        <TOKEN id="token-37-4" pos="word" morph="none" start_char="1340" end_char="1346">killing</TOKEN>
+        <TOKEN id="token-37-5" pos="word" morph="none" start_char="1348" end_char="1356">thousands</TOKEN>
+        <TOKEN id="token-37-6" pos="word" morph="none" start_char="1358" end_char="1359">of</TOKEN>
+        <TOKEN id="token-37-7" pos="word" morph="none" start_char="1361" end_char="1369">civilians</TOKEN>
+        <TOKEN id="token-37-8" pos="punct" morph="none" start_char="1370" end_char="1371">."</TOKEN>
+      </SEG>
+      <SEG id="segment-38" start_char="1373" end_char="1376">
+        <ORIGINAL_TEXT>&lt;/P&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-38-0" pos="unknown" morph="none" start_char="1373" end_char="1376">&lt;/P&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-39" start_char="1378" end_char="1380">
+        <ORIGINAL_TEXT>&lt;P&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-39-0" pos="unknown" morph="none" start_char="1378" end_char="1380">&lt;P&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-40" start_char="1382" end_char="1457">
+        <ORIGINAL_TEXT>As we reported, voting in the presidential contest took place amid continued</ORIGINAL_TEXT>
+        <TOKEN id="token-40-0" pos="word" morph="none" start_char="1382" end_char="1383">As</TOKEN>
+        <TOKEN id="token-40-1" pos="word" morph="none" start_char="1385" end_char="1386">we</TOKEN>
+        <TOKEN id="token-40-2" pos="word" morph="none" start_char="1388" end_char="1395">reported</TOKEN>
+        <TOKEN id="token-40-3" pos="punct" morph="none" start_char="1396" end_char="1396">,</TOKEN>
+        <TOKEN id="token-40-4" pos="word" morph="none" start_char="1398" end_char="1403">voting</TOKEN>
+        <TOKEN id="token-40-5" pos="word" morph="none" start_char="1405" end_char="1406">in</TOKEN>
+        <TOKEN id="token-40-6" pos="word" morph="none" start_char="1408" end_char="1410">the</TOKEN>
+        <TOKEN id="token-40-7" pos="word" morph="none" start_char="1412" end_char="1423">presidential</TOKEN>
+        <TOKEN id="token-40-8" pos="word" morph="none" start_char="1425" end_char="1431">contest</TOKEN>
+        <TOKEN id="token-40-9" pos="word" morph="none" start_char="1433" end_char="1436">took</TOKEN>
+        <TOKEN id="token-40-10" pos="word" morph="none" start_char="1438" end_char="1442">place</TOKEN>
+        <TOKEN id="token-40-11" pos="word" morph="none" start_char="1444" end_char="1447">amid</TOKEN>
+        <TOKEN id="token-40-12" pos="word" morph="none" start_char="1449" end_char="1457">continued</TOKEN>
+      </SEG>
+      <SEG id="segment-41" start_char="1459" end_char="1535">
+        <ORIGINAL_TEXT>violence. Over the weekend, Boko Haram militants opened fire on voters in two</ORIGINAL_TEXT>
+        <TOKEN id="token-41-0" pos="word" morph="none" start_char="1459" end_char="1466">violence</TOKEN>
+        <TOKEN id="token-41-1" pos="punct" morph="none" start_char="1467" end_char="1467">.</TOKEN>
+        <TOKEN id="token-41-2" pos="word" morph="none" start_char="1469" end_char="1472">Over</TOKEN>
+        <TOKEN id="token-41-3" pos="word" morph="none" start_char="1474" end_char="1476">the</TOKEN>
+        <TOKEN id="token-41-4" pos="word" morph="none" start_char="1478" end_char="1484">weekend</TOKEN>
+        <TOKEN id="token-41-5" pos="punct" morph="none" start_char="1485" end_char="1485">,</TOKEN>
+        <TOKEN id="token-41-6" pos="word" morph="none" start_char="1487" end_char="1490">Boko</TOKEN>
+        <TOKEN id="token-41-7" pos="word" morph="none" start_char="1492" end_char="1496">Haram</TOKEN>
+        <TOKEN id="token-41-8" pos="word" morph="none" start_char="1498" end_char="1506">militants</TOKEN>
+        <TOKEN id="token-41-9" pos="word" morph="none" start_char="1508" end_char="1513">opened</TOKEN>
+        <TOKEN id="token-41-10" pos="word" morph="none" start_char="1515" end_char="1518">fire</TOKEN>
+        <TOKEN id="token-41-11" pos="word" morph="none" start_char="1520" end_char="1521">on</TOKEN>
+        <TOKEN id="token-41-12" pos="word" morph="none" start_char="1523" end_char="1528">voters</TOKEN>
+        <TOKEN id="token-41-13" pos="word" morph="none" start_char="1530" end_char="1531">in</TOKEN>
+        <TOKEN id="token-41-14" pos="word" morph="none" start_char="1533" end_char="1535">two</TOKEN>
+      </SEG>
+      <SEG id="segment-42" start_char="1537" end_char="1564">
+        <ORIGINAL_TEXT>locations, leaving six dead.</ORIGINAL_TEXT>
+        <TOKEN id="token-42-0" pos="word" morph="none" start_char="1537" end_char="1545">locations</TOKEN>
+        <TOKEN id="token-42-1" pos="punct" morph="none" start_char="1546" end_char="1546">,</TOKEN>
+        <TOKEN id="token-42-2" pos="word" morph="none" start_char="1548" end_char="1554">leaving</TOKEN>
+        <TOKEN id="token-42-3" pos="word" morph="none" start_char="1556" end_char="1558">six</TOKEN>
+        <TOKEN id="token-42-4" pos="word" morph="none" start_char="1560" end_char="1563">dead</TOKEN>
+        <TOKEN id="token-42-5" pos="punct" morph="none" start_char="1564" end_char="1564">.</TOKEN>
+      </SEG>
+      <SEG id="segment-43" start_char="1566" end_char="1569">
+        <ORIGINAL_TEXT>&lt;/P&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-43-0" pos="unknown" morph="none" start_char="1566" end_char="1569">&lt;/P&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-44" start_char="1571" end_char="1573">
+        <ORIGINAL_TEXT>&lt;P&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-44-0" pos="unknown" morph="none" start_char="1571" end_char="1573">&lt;P&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-45" start_char="1575" end_char="1652">
+        <ORIGINAL_TEXT>As the BBC reports, a sitting president has never lost an election in Nigeria,</ORIGINAL_TEXT>
+        <TOKEN id="token-45-0" pos="word" morph="none" start_char="1575" end_char="1576">As</TOKEN>
+        <TOKEN id="token-45-1" pos="word" morph="none" start_char="1578" end_char="1580">the</TOKEN>
+        <TOKEN id="token-45-2" pos="word" morph="none" start_char="1582" end_char="1584">BBC</TOKEN>
+        <TOKEN id="token-45-3" pos="word" morph="none" start_char="1586" end_char="1592">reports</TOKEN>
+        <TOKEN id="token-45-4" pos="punct" morph="none" start_char="1593" end_char="1593">,</TOKEN>
+        <TOKEN id="token-45-5" pos="word" morph="none" start_char="1595" end_char="1595">a</TOKEN>
+        <TOKEN id="token-45-6" pos="word" morph="none" start_char="1597" end_char="1603">sitting</TOKEN>
+        <TOKEN id="token-45-7" pos="word" morph="none" start_char="1605" end_char="1613">president</TOKEN>
+        <TOKEN id="token-45-8" pos="word" morph="none" start_char="1615" end_char="1617">has</TOKEN>
+        <TOKEN id="token-45-9" pos="word" morph="none" start_char="1619" end_char="1623">never</TOKEN>
+        <TOKEN id="token-45-10" pos="word" morph="none" start_char="1625" end_char="1628">lost</TOKEN>
+        <TOKEN id="token-45-11" pos="word" morph="none" start_char="1630" end_char="1631">an</TOKEN>
+        <TOKEN id="token-45-12" pos="word" morph="none" start_char="1633" end_char="1640">election</TOKEN>
+        <TOKEN id="token-45-13" pos="word" morph="none" start_char="1642" end_char="1643">in</TOKEN>
+        <TOKEN id="token-45-14" pos="word" morph="none" start_char="1645" end_char="1651">Nigeria</TOKEN>
+        <TOKEN id="token-45-15" pos="punct" morph="none" start_char="1652" end_char="1652">,</TOKEN>
+      </SEG>
+      <SEG id="segment-46" start_char="1654" end_char="1727">
+        <ORIGINAL_TEXT>Africa's most populous country and one of the world's biggest democracies.</ORIGINAL_TEXT>
+        <TOKEN id="token-46-0" pos="word" morph="none" start_char="1654" end_char="1659">Africa</TOKEN>
+        <TOKEN id="token-46-1" pos="punct" morph="none" start_char="1660" end_char="1660">'</TOKEN>
+        <TOKEN id="token-46-2" pos="word" morph="none" start_char="1661" end_char="1661">s</TOKEN>
+        <TOKEN id="token-46-3" pos="word" morph="none" start_char="1663" end_char="1666">most</TOKEN>
+        <TOKEN id="token-46-4" pos="word" morph="none" start_char="1668" end_char="1675">populous</TOKEN>
+        <TOKEN id="token-46-5" pos="word" morph="none" start_char="1677" end_char="1683">country</TOKEN>
+        <TOKEN id="token-46-6" pos="word" morph="none" start_char="1685" end_char="1687">and</TOKEN>
+        <TOKEN id="token-46-7" pos="word" morph="none" start_char="1689" end_char="1691">one</TOKEN>
+        <TOKEN id="token-46-8" pos="word" morph="none" start_char="1693" end_char="1694">of</TOKEN>
+        <TOKEN id="token-46-9" pos="word" morph="none" start_char="1696" end_char="1698">the</TOKEN>
+        <TOKEN id="token-46-10" pos="word" morph="none" start_char="1700" end_char="1704">world</TOKEN>
+        <TOKEN id="token-46-11" pos="punct" morph="none" start_char="1705" end_char="1705">'</TOKEN>
+        <TOKEN id="token-46-12" pos="word" morph="none" start_char="1706" end_char="1706">s</TOKEN>
+        <TOKEN id="token-46-13" pos="word" morph="none" start_char="1708" end_char="1714">biggest</TOKEN>
+        <TOKEN id="token-46-14" pos="word" morph="none" start_char="1716" end_char="1726">democracies</TOKEN>
+        <TOKEN id="token-46-15" pos="punct" morph="none" start_char="1727" end_char="1727">.</TOKEN>
+      </SEG>
+      <SEG id="segment-47" start_char="1729" end_char="1732">
+        <ORIGINAL_TEXT>&lt;/P&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-47-0" pos="unknown" morph="none" start_char="1729" end_char="1732">&lt;/P&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-48" start_char="1734" end_char="1736">
+        <ORIGINAL_TEXT>&lt;P&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-48-0" pos="unknown" morph="none" start_char="1734" end_char="1736">&lt;P&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-49" start_char="1738" end_char="1810">
+        <ORIGINAL_TEXT>The big issue in the country, of course, has been Jonathan's inability to</ORIGINAL_TEXT>
+        <TOKEN id="token-49-0" pos="word" morph="none" start_char="1738" end_char="1740">The</TOKEN>
+        <TOKEN id="token-49-1" pos="word" morph="none" start_char="1742" end_char="1744">big</TOKEN>
+        <TOKEN id="token-49-2" pos="word" morph="none" start_char="1746" end_char="1750">issue</TOKEN>
+        <TOKEN id="token-49-3" pos="word" morph="none" start_char="1752" end_char="1753">in</TOKEN>
+        <TOKEN id="token-49-4" pos="word" morph="none" start_char="1755" end_char="1757">the</TOKEN>
+        <TOKEN id="token-49-5" pos="word" morph="none" start_char="1759" end_char="1765">country</TOKEN>
+        <TOKEN id="token-49-6" pos="punct" morph="none" start_char="1766" end_char="1766">,</TOKEN>
+        <TOKEN id="token-49-7" pos="word" morph="none" start_char="1768" end_char="1769">of</TOKEN>
+        <TOKEN id="token-49-8" pos="word" morph="none" start_char="1771" end_char="1776">course</TOKEN>
+        <TOKEN id="token-49-9" pos="punct" morph="none" start_char="1777" end_char="1777">,</TOKEN>
+        <TOKEN id="token-49-10" pos="word" morph="none" start_char="1779" end_char="1781">has</TOKEN>
+        <TOKEN id="token-49-11" pos="word" morph="none" start_char="1783" end_char="1786">been</TOKEN>
+        <TOKEN id="token-49-12" pos="word" morph="none" start_char="1788" end_char="1795">Jonathan</TOKEN>
+        <TOKEN id="token-49-13" pos="punct" morph="none" start_char="1796" end_char="1796">'</TOKEN>
+        <TOKEN id="token-49-14" pos="word" morph="none" start_char="1797" end_char="1797">s</TOKEN>
+        <TOKEN id="token-49-15" pos="word" morph="none" start_char="1799" end_char="1807">inability</TOKEN>
+        <TOKEN id="token-49-16" pos="word" morph="none" start_char="1809" end_char="1810">to</TOKEN>
+      </SEG>
+      <SEG id="segment-50" start_char="1812" end_char="1882">
+        <ORIGINAL_TEXT>control Boko Haram's Islamist insurrection in the north of the country.</ORIGINAL_TEXT>
+        <TOKEN id="token-50-0" pos="word" morph="none" start_char="1812" end_char="1818">control</TOKEN>
+        <TOKEN id="token-50-1" pos="word" morph="none" start_char="1820" end_char="1823">Boko</TOKEN>
+        <TOKEN id="token-50-2" pos="word" morph="none" start_char="1825" end_char="1829">Haram</TOKEN>
+        <TOKEN id="token-50-3" pos="punct" morph="none" start_char="1830" end_char="1830">'</TOKEN>
+        <TOKEN id="token-50-4" pos="word" morph="none" start_char="1831" end_char="1831">s</TOKEN>
+        <TOKEN id="token-50-5" pos="word" morph="none" start_char="1833" end_char="1840">Islamist</TOKEN>
+        <TOKEN id="token-50-6" pos="word" morph="none" start_char="1842" end_char="1853">insurrection</TOKEN>
+        <TOKEN id="token-50-7" pos="word" morph="none" start_char="1855" end_char="1856">in</TOKEN>
+        <TOKEN id="token-50-8" pos="word" morph="none" start_char="1858" end_char="1860">the</TOKEN>
+        <TOKEN id="token-50-9" pos="word" morph="none" start_char="1862" end_char="1866">north</TOKEN>
+        <TOKEN id="token-50-10" pos="word" morph="none" start_char="1868" end_char="1869">of</TOKEN>
+        <TOKEN id="token-50-11" pos="word" morph="none" start_char="1871" end_char="1873">the</TOKEN>
+        <TOKEN id="token-50-12" pos="word" morph="none" start_char="1875" end_char="1881">country</TOKEN>
+        <TOKEN id="token-50-13" pos="punct" morph="none" start_char="1882" end_char="1882">.</TOKEN>
+      </SEG>
+      <SEG id="segment-51" start_char="1884" end_char="1961">
+        <ORIGINAL_TEXT>Buhari, a former general who ruled the country for a couple of years following</ORIGINAL_TEXT>
+        <TOKEN id="token-51-0" pos="word" morph="none" start_char="1884" end_char="1889">Buhari</TOKEN>
+        <TOKEN id="token-51-1" pos="punct" morph="none" start_char="1890" end_char="1890">,</TOKEN>
+        <TOKEN id="token-51-2" pos="word" morph="none" start_char="1892" end_char="1892">a</TOKEN>
+        <TOKEN id="token-51-3" pos="word" morph="none" start_char="1894" end_char="1899">former</TOKEN>
+        <TOKEN id="token-51-4" pos="word" morph="none" start_char="1901" end_char="1907">general</TOKEN>
+        <TOKEN id="token-51-5" pos="word" morph="none" start_char="1909" end_char="1911">who</TOKEN>
+        <TOKEN id="token-51-6" pos="word" morph="none" start_char="1913" end_char="1917">ruled</TOKEN>
+        <TOKEN id="token-51-7" pos="word" morph="none" start_char="1919" end_char="1921">the</TOKEN>
+        <TOKEN id="token-51-8" pos="word" morph="none" start_char="1923" end_char="1929">country</TOKEN>
+        <TOKEN id="token-51-9" pos="word" morph="none" start_char="1931" end_char="1933">for</TOKEN>
+        <TOKEN id="token-51-10" pos="word" morph="none" start_char="1935" end_char="1935">a</TOKEN>
+        <TOKEN id="token-51-11" pos="word" morph="none" start_char="1937" end_char="1942">couple</TOKEN>
+        <TOKEN id="token-51-12" pos="word" morph="none" start_char="1944" end_char="1945">of</TOKEN>
+        <TOKEN id="token-51-13" pos="word" morph="none" start_char="1947" end_char="1951">years</TOKEN>
+        <TOKEN id="token-51-14" pos="word" morph="none" start_char="1953" end_char="1961">following</TOKEN>
+      </SEG>
+      <SEG id="segment-52" start_char="1963" end_char="2012">
+        <ORIGINAL_TEXT>a coup, campaigned on getting tough on corruption.</ORIGINAL_TEXT>
+        <TOKEN id="token-52-0" pos="word" morph="none" start_char="1963" end_char="1963">a</TOKEN>
+        <TOKEN id="token-52-1" pos="word" morph="none" start_char="1965" end_char="1968">coup</TOKEN>
+        <TOKEN id="token-52-2" pos="punct" morph="none" start_char="1969" end_char="1969">,</TOKEN>
+        <TOKEN id="token-52-3" pos="word" morph="none" start_char="1971" end_char="1980">campaigned</TOKEN>
+        <TOKEN id="token-52-4" pos="word" morph="none" start_char="1982" end_char="1983">on</TOKEN>
+        <TOKEN id="token-52-5" pos="word" morph="none" start_char="1985" end_char="1991">getting</TOKEN>
+        <TOKEN id="token-52-6" pos="word" morph="none" start_char="1993" end_char="1997">tough</TOKEN>
+        <TOKEN id="token-52-7" pos="word" morph="none" start_char="1999" end_char="2000">on</TOKEN>
+        <TOKEN id="token-52-8" pos="word" morph="none" start_char="2002" end_char="2011">corruption</TOKEN>
+        <TOKEN id="token-52-9" pos="punct" morph="none" start_char="2012" end_char="2012">.</TOKEN>
+      </SEG>
+      <SEG id="segment-53" start_char="2014" end_char="2017">
+        <ORIGINAL_TEXT>&lt;/P&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-53-0" pos="unknown" morph="none" start_char="2014" end_char="2017">&lt;/P&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-54" start_char="2019" end_char="2021">
+        <ORIGINAL_TEXT>&lt;P&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-54-0" pos="unknown" morph="none" start_char="2019" end_char="2021">&lt;P&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-55" start_char="2023" end_char="2098">
+        <ORIGINAL_TEXT>As for the election results, the BBC's Abuja correspondent sounded a note of</ORIGINAL_TEXT>
+        <TOKEN id="token-55-0" pos="word" morph="none" start_char="2023" end_char="2024">As</TOKEN>
+        <TOKEN id="token-55-1" pos="word" morph="none" start_char="2026" end_char="2028">for</TOKEN>
+        <TOKEN id="token-55-2" pos="word" morph="none" start_char="2030" end_char="2032">the</TOKEN>
+        <TOKEN id="token-55-3" pos="word" morph="none" start_char="2034" end_char="2041">election</TOKEN>
+        <TOKEN id="token-55-4" pos="word" morph="none" start_char="2043" end_char="2049">results</TOKEN>
+        <TOKEN id="token-55-5" pos="punct" morph="none" start_char="2050" end_char="2050">,</TOKEN>
+        <TOKEN id="token-55-6" pos="word" morph="none" start_char="2052" end_char="2054">the</TOKEN>
+        <TOKEN id="token-55-7" pos="word" morph="none" start_char="2056" end_char="2058">BBC</TOKEN>
+        <TOKEN id="token-55-8" pos="punct" morph="none" start_char="2059" end_char="2059">'</TOKEN>
+        <TOKEN id="token-55-9" pos="word" morph="none" start_char="2060" end_char="2060">s</TOKEN>
+        <TOKEN id="token-55-10" pos="word" morph="none" start_char="2062" end_char="2066">Abuja</TOKEN>
+        <TOKEN id="token-55-11" pos="word" morph="none" start_char="2068" end_char="2080">correspondent</TOKEN>
+        <TOKEN id="token-55-12" pos="word" morph="none" start_char="2082" end_char="2088">sounded</TOKEN>
+        <TOKEN id="token-55-13" pos="word" morph="none" start_char="2090" end_char="2090">a</TOKEN>
+        <TOKEN id="token-55-14" pos="word" morph="none" start_char="2092" end_char="2095">note</TOKEN>
+        <TOKEN id="token-55-15" pos="word" morph="none" start_char="2097" end_char="2098">of</TOKEN>
+      </SEG>
+      <SEG id="segment-56" start_char="2100" end_char="2107">
+        <ORIGINAL_TEXT>caution:</ORIGINAL_TEXT>
+        <TOKEN id="token-56-0" pos="word" morph="none" start_char="2100" end_char="2106">caution</TOKEN>
+        <TOKEN id="token-56-1" pos="punct" morph="none" start_char="2107" end_char="2107">:</TOKEN>
+      </SEG>
+      <SEG id="segment-57" start_char="2109" end_char="2112">
+        <ORIGINAL_TEXT>&lt;/P&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-57-0" pos="unknown" morph="none" start_char="2109" end_char="2112">&lt;/P&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-58" start_char="2114" end_char="2116">
+        <ORIGINAL_TEXT>&lt;P&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-58-0" pos="unknown" morph="none" start_char="2114" end_char="2116">&lt;P&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-59" start_char="2118" end_char="2193">
+        <ORIGINAL_TEXT>"There are long faces in the PDP camp. It looks like Muhammadu Buhari's lead</ORIGINAL_TEXT>
+        <TOKEN id="token-59-0" pos="punct" morph="none" start_char="2118" end_char="2118">"</TOKEN>
+        <TOKEN id="token-59-1" pos="word" morph="none" start_char="2119" end_char="2123">There</TOKEN>
+        <TOKEN id="token-59-2" pos="word" morph="none" start_char="2125" end_char="2127">are</TOKEN>
+        <TOKEN id="token-59-3" pos="word" morph="none" start_char="2129" end_char="2132">long</TOKEN>
+        <TOKEN id="token-59-4" pos="word" morph="none" start_char="2134" end_char="2138">faces</TOKEN>
+        <TOKEN id="token-59-5" pos="word" morph="none" start_char="2140" end_char="2141">in</TOKEN>
+        <TOKEN id="token-59-6" pos="word" morph="none" start_char="2143" end_char="2145">the</TOKEN>
+        <TOKEN id="token-59-7" pos="word" morph="none" start_char="2147" end_char="2149">PDP</TOKEN>
+        <TOKEN id="token-59-8" pos="word" morph="none" start_char="2151" end_char="2154">camp</TOKEN>
+        <TOKEN id="token-59-9" pos="punct" morph="none" start_char="2155" end_char="2155">.</TOKEN>
+        <TOKEN id="token-59-10" pos="word" morph="none" start_char="2157" end_char="2158">It</TOKEN>
+        <TOKEN id="token-59-11" pos="word" morph="none" start_char="2160" end_char="2164">looks</TOKEN>
+        <TOKEN id="token-59-12" pos="word" morph="none" start_char="2166" end_char="2169">like</TOKEN>
+        <TOKEN id="token-59-13" pos="word" morph="none" start_char="2171" end_char="2179">Muhammadu</TOKEN>
+        <TOKEN id="token-59-14" pos="word" morph="none" start_char="2181" end_char="2186">Buhari</TOKEN>
+        <TOKEN id="token-59-15" pos="punct" morph="none" start_char="2187" end_char="2187">'</TOKEN>
+        <TOKEN id="token-59-16" pos="word" morph="none" start_char="2188" end_char="2188">s</TOKEN>
+        <TOKEN id="token-59-17" pos="word" morph="none" start_char="2190" end_char="2193">lead</TOKEN>
+      </SEG>
+      <SEG id="segment-60" start_char="2195" end_char="2232">
+        <ORIGINAL_TEXT>may well prove too wide to be bridged.</ORIGINAL_TEXT>
+        <TOKEN id="token-60-0" pos="word" morph="none" start_char="2195" end_char="2197">may</TOKEN>
+        <TOKEN id="token-60-1" pos="word" morph="none" start_char="2199" end_char="2202">well</TOKEN>
+        <TOKEN id="token-60-2" pos="word" morph="none" start_char="2204" end_char="2208">prove</TOKEN>
+        <TOKEN id="token-60-3" pos="word" morph="none" start_char="2210" end_char="2212">too</TOKEN>
+        <TOKEN id="token-60-4" pos="word" morph="none" start_char="2214" end_char="2217">wide</TOKEN>
+        <TOKEN id="token-60-5" pos="word" morph="none" start_char="2219" end_char="2220">to</TOKEN>
+        <TOKEN id="token-60-6" pos="word" morph="none" start_char="2222" end_char="2223">be</TOKEN>
+        <TOKEN id="token-60-7" pos="word" morph="none" start_char="2225" end_char="2231">bridged</TOKEN>
+        <TOKEN id="token-60-8" pos="punct" morph="none" start_char="2232" end_char="2232">.</TOKEN>
+      </SEG>
+      <SEG id="segment-61" start_char="2234" end_char="2237">
+        <ORIGINAL_TEXT>&lt;/P&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-61-0" pos="unknown" morph="none" start_char="2234" end_char="2237">&lt;/P&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-62" start_char="2239" end_char="2241">
+        <ORIGINAL_TEXT>&lt;P&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-62-0" pos="unknown" morph="none" start_char="2239" end_char="2241">&lt;P&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-63" start_char="2243" end_char="2320">
+        <ORIGINAL_TEXT>"But this is Nigeria and predictions are dangerous. The biggest surprise would</ORIGINAL_TEXT>
+        <TOKEN id="token-63-0" pos="punct" morph="none" start_char="2243" end_char="2243">"</TOKEN>
+        <TOKEN id="token-63-1" pos="word" morph="none" start_char="2244" end_char="2246">But</TOKEN>
+        <TOKEN id="token-63-2" pos="word" morph="none" start_char="2248" end_char="2251">this</TOKEN>
+        <TOKEN id="token-63-3" pos="word" morph="none" start_char="2253" end_char="2254">is</TOKEN>
+        <TOKEN id="token-63-4" pos="word" morph="none" start_char="2256" end_char="2262">Nigeria</TOKEN>
+        <TOKEN id="token-63-5" pos="word" morph="none" start_char="2264" end_char="2266">and</TOKEN>
+        <TOKEN id="token-63-6" pos="word" morph="none" start_char="2268" end_char="2278">predictions</TOKEN>
+        <TOKEN id="token-63-7" pos="word" morph="none" start_char="2280" end_char="2282">are</TOKEN>
+        <TOKEN id="token-63-8" pos="word" morph="none" start_char="2284" end_char="2292">dangerous</TOKEN>
+        <TOKEN id="token-63-9" pos="punct" morph="none" start_char="2293" end_char="2293">.</TOKEN>
+        <TOKEN id="token-63-10" pos="word" morph="none" start_char="2295" end_char="2297">The</TOKEN>
+        <TOKEN id="token-63-11" pos="word" morph="none" start_char="2299" end_char="2305">biggest</TOKEN>
+        <TOKEN id="token-63-12" pos="word" morph="none" start_char="2307" end_char="2314">surprise</TOKEN>
+        <TOKEN id="token-63-13" pos="word" morph="none" start_char="2316" end_char="2320">would</TOKEN>
+      </SEG>
+      <SEG id="segment-64" start_char="2322" end_char="2373">
+        <ORIGINAL_TEXT>be if the result is not disputed by the losing side.</ORIGINAL_TEXT>
+        <TOKEN id="token-64-0" pos="word" morph="none" start_char="2322" end_char="2323">be</TOKEN>
+        <TOKEN id="token-64-1" pos="word" morph="none" start_char="2325" end_char="2326">if</TOKEN>
+        <TOKEN id="token-64-2" pos="word" morph="none" start_char="2328" end_char="2330">the</TOKEN>
+        <TOKEN id="token-64-3" pos="word" morph="none" start_char="2332" end_char="2337">result</TOKEN>
+        <TOKEN id="token-64-4" pos="word" morph="none" start_char="2339" end_char="2340">is</TOKEN>
+        <TOKEN id="token-64-5" pos="word" morph="none" start_char="2342" end_char="2344">not</TOKEN>
+        <TOKEN id="token-64-6" pos="word" morph="none" start_char="2346" end_char="2353">disputed</TOKEN>
+        <TOKEN id="token-64-7" pos="word" morph="none" start_char="2355" end_char="2356">by</TOKEN>
+        <TOKEN id="token-64-8" pos="word" morph="none" start_char="2358" end_char="2360">the</TOKEN>
+        <TOKEN id="token-64-9" pos="word" morph="none" start_char="2362" end_char="2367">losing</TOKEN>
+        <TOKEN id="token-64-10" pos="word" morph="none" start_char="2369" end_char="2372">side</TOKEN>
+        <TOKEN id="token-64-11" pos="punct" morph="none" start_char="2373" end_char="2373">.</TOKEN>
+      </SEG>
+      <SEG id="segment-65" start_char="2375" end_char="2378">
+        <ORIGINAL_TEXT>&lt;/P&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-65-0" pos="unknown" morph="none" start_char="2375" end_char="2378">&lt;/P&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-66" start_char="2380" end_char="2382">
+        <ORIGINAL_TEXT>&lt;P&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-66-0" pos="unknown" morph="none" start_char="2380" end_char="2382">&lt;P&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-67" start_char="2384" end_char="2458">
+        <ORIGINAL_TEXT>"During the vote, the card readers experienced some technical glitches, but</ORIGINAL_TEXT>
+        <TOKEN id="token-67-0" pos="punct" morph="none" start_char="2384" end_char="2384">"</TOKEN>
+        <TOKEN id="token-67-1" pos="word" morph="none" start_char="2385" end_char="2390">During</TOKEN>
+        <TOKEN id="token-67-2" pos="word" morph="none" start_char="2392" end_char="2394">the</TOKEN>
+        <TOKEN id="token-67-3" pos="word" morph="none" start_char="2396" end_char="2399">vote</TOKEN>
+        <TOKEN id="token-67-4" pos="punct" morph="none" start_char="2400" end_char="2400">,</TOKEN>
+        <TOKEN id="token-67-5" pos="word" morph="none" start_char="2402" end_char="2404">the</TOKEN>
+        <TOKEN id="token-67-6" pos="word" morph="none" start_char="2406" end_char="2409">card</TOKEN>
+        <TOKEN id="token-67-7" pos="word" morph="none" start_char="2411" end_char="2417">readers</TOKEN>
+        <TOKEN id="token-67-8" pos="word" morph="none" start_char="2419" end_char="2429">experienced</TOKEN>
+        <TOKEN id="token-67-9" pos="word" morph="none" start_char="2431" end_char="2434">some</TOKEN>
+        <TOKEN id="token-67-10" pos="word" morph="none" start_char="2436" end_char="2444">technical</TOKEN>
+        <TOKEN id="token-67-11" pos="word" morph="none" start_char="2446" end_char="2453">glitches</TOKEN>
+        <TOKEN id="token-67-12" pos="punct" morph="none" start_char="2454" end_char="2454">,</TOKEN>
+        <TOKEN id="token-67-13" pos="word" morph="none" start_char="2456" end_char="2458">but</TOKEN>
+      </SEG>
+      <SEG id="segment-68" start_char="2460" end_char="2534">
+        <ORIGINAL_TEXT>they could prove to be decisive in ensuring the numbers could not be cooked</ORIGINAL_TEXT>
+        <TOKEN id="token-68-0" pos="word" morph="none" start_char="2460" end_char="2463">they</TOKEN>
+        <TOKEN id="token-68-1" pos="word" morph="none" start_char="2465" end_char="2469">could</TOKEN>
+        <TOKEN id="token-68-2" pos="word" morph="none" start_char="2471" end_char="2475">prove</TOKEN>
+        <TOKEN id="token-68-3" pos="word" morph="none" start_char="2477" end_char="2478">to</TOKEN>
+        <TOKEN id="token-68-4" pos="word" morph="none" start_char="2480" end_char="2481">be</TOKEN>
+        <TOKEN id="token-68-5" pos="word" morph="none" start_char="2483" end_char="2490">decisive</TOKEN>
+        <TOKEN id="token-68-6" pos="word" morph="none" start_char="2492" end_char="2493">in</TOKEN>
+        <TOKEN id="token-68-7" pos="word" morph="none" start_char="2495" end_char="2502">ensuring</TOKEN>
+        <TOKEN id="token-68-8" pos="word" morph="none" start_char="2504" end_char="2506">the</TOKEN>
+        <TOKEN id="token-68-9" pos="word" morph="none" start_char="2508" end_char="2514">numbers</TOKEN>
+        <TOKEN id="token-68-10" pos="word" morph="none" start_char="2516" end_char="2520">could</TOKEN>
+        <TOKEN id="token-68-11" pos="word" morph="none" start_char="2522" end_char="2524">not</TOKEN>
+        <TOKEN id="token-68-12" pos="word" morph="none" start_char="2526" end_char="2527">be</TOKEN>
+        <TOKEN id="token-68-13" pos="word" morph="none" start_char="2529" end_char="2534">cooked</TOKEN>
+      </SEG>
+      <SEG id="segment-69" start_char="2536" end_char="2584">
+        <ORIGINAL_TEXT>and the views of Nigerians could not be ignored."</ORIGINAL_TEXT>
+        <TOKEN id="token-69-0" pos="word" morph="none" start_char="2536" end_char="2538">and</TOKEN>
+        <TOKEN id="token-69-1" pos="word" morph="none" start_char="2540" end_char="2542">the</TOKEN>
+        <TOKEN id="token-69-2" pos="word" morph="none" start_char="2544" end_char="2548">views</TOKEN>
+        <TOKEN id="token-69-3" pos="word" morph="none" start_char="2550" end_char="2551">of</TOKEN>
+        <TOKEN id="token-69-4" pos="word" morph="none" start_char="2553" end_char="2561">Nigerians</TOKEN>
+        <TOKEN id="token-69-5" pos="word" morph="none" start_char="2563" end_char="2567">could</TOKEN>
+        <TOKEN id="token-69-6" pos="word" morph="none" start_char="2569" end_char="2571">not</TOKEN>
+        <TOKEN id="token-69-7" pos="word" morph="none" start_char="2573" end_char="2574">be</TOKEN>
+        <TOKEN id="token-69-8" pos="word" morph="none" start_char="2576" end_char="2582">ignored</TOKEN>
+        <TOKEN id="token-69-9" pos="punct" morph="none" start_char="2583" end_char="2584">."</TOKEN>
+      </SEG>
+      <SEG id="segment-70" start_char="2586" end_char="2589">
+        <ORIGINAL_TEXT>&lt;/P&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-70-0" pos="unknown" morph="none" start_char="2586" end_char="2589">&lt;/P&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-71" start_char="2591" end_char="2597">
+        <ORIGINAL_TEXT>&lt;/TEXT&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-71-0" pos="unknown" morph="none" start_char="2591" end_char="2597">&lt;/TEXT&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-72" start_char="2599" end_char="2604">
+        <ORIGINAL_TEXT>&lt;/DOC&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-72-0" pos="unknown" morph="none" start_char="2599" end_char="2604">&lt;/DOC&gt;</TOKEN>
+      </SEG>
+    </TEXT>
+  </DOC>
+</LCTL_TEXT>

@@ -1,0 +1,781 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE LCTL_TEXT SYSTEM "ltf.v1.5.dtd">
+<LCTL_TEXT>
+<DOC id="CMN_DF_000191_20150112_F001000A1.df.xml" tokenization="tokenization_parameters" grammar="none" raw_text_char_length="6647" raw_text_md5="0ba16ed7df724132fe2ee080bfe1a559">
+<TEXT>
+<SEG id="segment-0" start_char="0" end_char="37">
+<ORIGINAL_TEXT>&lt;?xml version="1.0" encoding="utf-8"?&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-0-0" pos="unknown" morph="none" start_char="0" end_char="4">&lt;?xml</TOKEN>
+<TOKEN id="token-0-1" pos="unknown" morph="none" start_char="6" end_char="18">version="1.0"</TOKEN>
+<TOKEN id="token-0-2" pos="unknown" morph="none" start_char="20" end_char="37">encoding="utf-8"?&gt;</TOKEN>
+</SEG>
+<SEG id="segment-1" start_char="39" end_char="81">
+<ORIGINAL_TEXT>&lt;doc id="CMN_DF_000191_20150112_F001000A1"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-1-0" pos="unknown" morph="none" start_char="39" end_char="42">&lt;doc</TOKEN>
+<TOKEN id="token-1-1" pos="unknown" morph="none" start_char="44" end_char="81">id="CMN_DF_000191_20150112_F001000A1"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-2" start_char="83" end_char="92">
+<ORIGINAL_TEXT>&lt;headline&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-2-0" pos="unknown" morph="none" start_char="83" end_char="92">&lt;headline&gt;</TOKEN>
+</SEG>
+<SEG id="segment-3" start_char="94" end_char="111">
+<ORIGINAL_TEXT>“查理血案”人质开口:这个杀手不太冷</ORIGINAL_TEXT>
+<TOKEN id="token-3-0" pos="unknown" morph="none" start_char="94" end_char="111">“查理血案”人质开口:这个杀手不太冷</TOKEN>
+</SEG>
+<SEG id="segment-4" start_char="113" end_char="123">
+<ORIGINAL_TEXT>&lt;/headline&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-4-0" pos="unknown" morph="none" start_char="113" end_char="123">&lt;/headline&gt;</TOKEN>
+</SEG>
+<SEG id="segment-5" start_char="125" end_char="187">
+<ORIGINAL_TEXT>&lt;post id="p1" author="天朝子民1980" datetime="2015-01-12T17:39:57"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-5-0" pos="unknown" morph="none" start_char="125" end_char="129">&lt;post</TOKEN>
+<TOKEN id="token-5-1" pos="unknown" morph="none" start_char="131" end_char="137">id="p1"</TOKEN>
+<TOKEN id="token-5-2" pos="unknown" morph="none" start_char="139" end_char="155">author="天朝子民1980"</TOKEN>
+<TOKEN id="token-5-3" pos="unknown" morph="none" start_char="157" end_char="187">datetime="2015-01-12T17:39:57"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-6" start_char="189" end_char="955">
+<ORIGINAL_TEXT>http://www.135plat.com/zh-tw/articles/20150111/54b32820-9744-421d-97dd-7f3202734e20.html &amp;lt;img  src="http://img4.itiexue.net/1955/19550452.jpg" border="0" onload="bbimg(this)" border="0" alt="“查理血案”人质开口:这个杀手不太冷(组图)" title="“查理血案”人质开口:这个杀手不太冷(组图)（图1）"/&amp;gt; &amp;lt;img  src="http://img11.itiexue.net/1955/19550459.jpg" border="0" onload="bbimg(this)" border="0" alt="“查理血案”人质开口:这个杀手不太冷(组图)" title="“查理血案”人质开口:这个杀手不太冷(组图)（图2）"/&amp;gt; &amp;lt;img  src="http://img0.itiexue.net/1955/19550460.jpg" border="0" onload="bbimg(this)" border="0" alt="“查理血案”人质开口:这个杀手不太冷(组图)" title="“查理血案”人质开口:这个杀手不太冷(组图)（图3）"/&amp;gt;  &amp;lt;img  src="http://img2.itiexue.net/1955/19550462.jpg" border="0" onload="bbimg(this)" border="0" alt="“查理血案”人质开口:这个杀手不太冷(组图)" title="“查理血案”人质开口:这个杀手不太冷(组图)（图4）"/&amp;gt; </ORIGINAL_TEXT>
+<TOKEN id="token-6-0" pos="url" morph="none" start_char="189" end_char="276">http://www.135plat.com/zh-tw/articles/20150111/54b32820-9744-421d-97dd-7f3202734e20.html</TOKEN>
+<TOKEN id="token-6-1" pos="punct" morph="none" start_char="278" end_char="278">&amp;</TOKEN>
+<TOKEN id="token-6-2" pos="word" morph="none" start_char="279" end_char="280">lt</TOKEN>
+<TOKEN id="token-6-3" pos="punct" morph="none" start_char="281" end_char="281">;</TOKEN>
+<TOKEN id="token-6-4" pos="word" morph="none" start_char="282" end_char="284">img</TOKEN>
+<TOKEN id="token-6-5" pos="unknown" morph="none" start_char="287" end_char="333">src="http://img4.itiexue.net/1955/19550452.jpg"</TOKEN>
+<TOKEN id="token-6-6" pos="unknown" morph="none" start_char="335" end_char="344">border="0"</TOKEN>
+<TOKEN id="token-6-7" pos="unknown" morph="none" start_char="346" end_char="365">onload="bbimg(this)"</TOKEN>
+<TOKEN id="token-6-8" pos="unknown" morph="none" start_char="367" end_char="376">border="0"</TOKEN>
+<TOKEN id="token-6-9" pos="unknown" morph="none" start_char="378" end_char="405">alt="“查理血案”人质开口:这个杀手不太冷(组图)"</TOKEN>
+<TOKEN id="token-6-10" pos="unknown" morph="none" start_char="407" end_char="445">title="“查理血案”人质开口:这个杀手不太冷(组图)（图1）"/&amp;gt;</TOKEN>
+<TOKEN id="token-6-11" pos="punct" morph="none" start_char="447" end_char="447">&amp;</TOKEN>
+<TOKEN id="token-6-12" pos="word" morph="none" start_char="448" end_char="449">lt</TOKEN>
+<TOKEN id="token-6-13" pos="punct" morph="none" start_char="450" end_char="450">;</TOKEN>
+<TOKEN id="token-6-14" pos="word" morph="none" start_char="451" end_char="453">img</TOKEN>
+<TOKEN id="token-6-15" pos="unknown" morph="none" start_char="456" end_char="503">src="http://img11.itiexue.net/1955/19550459.jpg"</TOKEN>
+<TOKEN id="token-6-16" pos="unknown" morph="none" start_char="505" end_char="514">border="0"</TOKEN>
+<TOKEN id="token-6-17" pos="unknown" morph="none" start_char="516" end_char="535">onload="bbimg(this)"</TOKEN>
+<TOKEN id="token-6-18" pos="unknown" morph="none" start_char="537" end_char="546">border="0"</TOKEN>
+<TOKEN id="token-6-19" pos="unknown" morph="none" start_char="548" end_char="575">alt="“查理血案”人质开口:这个杀手不太冷(组图)"</TOKEN>
+<TOKEN id="token-6-20" pos="unknown" morph="none" start_char="577" end_char="615">title="“查理血案”人质开口:这个杀手不太冷(组图)（图2）"/&amp;gt;</TOKEN>
+<TOKEN id="token-6-21" pos="punct" morph="none" start_char="617" end_char="617">&amp;</TOKEN>
+<TOKEN id="token-6-22" pos="word" morph="none" start_char="618" end_char="619">lt</TOKEN>
+<TOKEN id="token-6-23" pos="punct" morph="none" start_char="620" end_char="620">;</TOKEN>
+<TOKEN id="token-6-24" pos="word" morph="none" start_char="621" end_char="623">img</TOKEN>
+<TOKEN id="token-6-25" pos="unknown" morph="none" start_char="626" end_char="672">src="http://img0.itiexue.net/1955/19550460.jpg"</TOKEN>
+<TOKEN id="token-6-26" pos="unknown" morph="none" start_char="674" end_char="683">border="0"</TOKEN>
+<TOKEN id="token-6-27" pos="unknown" morph="none" start_char="685" end_char="704">onload="bbimg(this)"</TOKEN>
+<TOKEN id="token-6-28" pos="unknown" morph="none" start_char="706" end_char="715">border="0"</TOKEN>
+<TOKEN id="token-6-29" pos="unknown" morph="none" start_char="717" end_char="744">alt="“查理血案”人质开口:这个杀手不太冷(组图)"</TOKEN>
+<TOKEN id="token-6-30" pos="unknown" morph="none" start_char="746" end_char="784">title="“查理血案”人质开口:这个杀手不太冷(组图)（图3）"/&amp;gt;</TOKEN>
+<TOKEN id="token-6-31" pos="punct" morph="none" start_char="787" end_char="787">&amp;</TOKEN>
+<TOKEN id="token-6-32" pos="word" morph="none" start_char="788" end_char="789">lt</TOKEN>
+<TOKEN id="token-6-33" pos="punct" morph="none" start_char="790" end_char="790">;</TOKEN>
+<TOKEN id="token-6-34" pos="word" morph="none" start_char="791" end_char="793">img</TOKEN>
+<TOKEN id="token-6-35" pos="unknown" morph="none" start_char="796" end_char="842">src="http://img2.itiexue.net/1955/19550462.jpg"</TOKEN>
+<TOKEN id="token-6-36" pos="unknown" morph="none" start_char="844" end_char="853">border="0"</TOKEN>
+<TOKEN id="token-6-37" pos="unknown" morph="none" start_char="855" end_char="874">onload="bbimg(this)"</TOKEN>
+<TOKEN id="token-6-38" pos="unknown" morph="none" start_char="876" end_char="885">border="0"</TOKEN>
+<TOKEN id="token-6-39" pos="unknown" morph="none" start_char="887" end_char="914">alt="“查理血案”人质开口:这个杀手不太冷(组图)"</TOKEN>
+<TOKEN id="token-6-40" pos="unknown" morph="none" start_char="916" end_char="954">title="“查理血案”人质开口:这个杀手不太冷(组图)（图4）"/&amp;gt;</TOKEN>
+</SEG>
+<SEG id="segment-7" start_char="957" end_char="963">
+<ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-7-0" pos="unknown" morph="none" start_char="957" end_char="963">&lt;/post&gt;</TOKEN>
+</SEG>
+<SEG id="segment-8" start_char="965" end_char="1025">
+<ORIGINAL_TEXT>&lt;post id="p2" author="共和国警备队" datetime="2015-01-12T19:07:22"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-8-0" pos="unknown" morph="none" start_char="965" end_char="969">&lt;post</TOKEN>
+<TOKEN id="token-8-1" pos="unknown" morph="none" start_char="971" end_char="977">id="p2"</TOKEN>
+<TOKEN id="token-8-2" pos="unknown" morph="none" start_char="979" end_char="993">author="共和国警备队"</TOKEN>
+<TOKEN id="token-8-3" pos="unknown" morph="none" start_char="995" end_char="1025">datetime="2015-01-12T19:07:22"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-9" start_char="1027" end_char="1057">
+<ORIGINAL_TEXT>杀人是不对的，但以自由的名义对宗教不敬也是不明智的。&amp;#13;</ORIGINAL_TEXT>
+<TOKEN id="token-9-0" pos="unknown" morph="none" start_char="1027" end_char="1057">杀人是不对的，但以自由的名义对宗教不敬也是不明智的。&amp;#13;</TOKEN>
+</SEG>
+<SEG id="segment-10" start_char="1059" end_char="1100">
+<ORIGINAL_TEXT>&amp;#13;拿真主先知开涮，不要说基地分支，就连街上兰州拉面馆的师傅都要揍你的。。。。</ORIGINAL_TEXT>
+<TOKEN id="token-10-0" pos="unknown" morph="none" start_char="1059" end_char="1100">&amp;#13;拿真主先知开涮，不要说基地分支，就连街上兰州拉面馆的师傅都要揍你的。。。。</TOKEN>
+</SEG>
+<SEG id="segment-11" start_char="1102" end_char="1108">
+<ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-11-0" pos="unknown" morph="none" start_char="1102" end_char="1108">&lt;/post&gt;</TOKEN>
+</SEG>
+<SEG id="segment-12" start_char="1110" end_char="1167">
+<ORIGINAL_TEXT>&lt;post id="p3" author="吐个圈" datetime="2015-01-12T19:42:56"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-12-0" pos="unknown" morph="none" start_char="1110" end_char="1114">&lt;post</TOKEN>
+<TOKEN id="token-12-1" pos="unknown" morph="none" start_char="1116" end_char="1122">id="p3"</TOKEN>
+<TOKEN id="token-12-2" pos="unknown" morph="none" start_char="1124" end_char="1135">author="吐个圈"</TOKEN>
+<TOKEN id="token-12-3" pos="unknown" morph="none" start_char="1137" end_char="1167">datetime="2015-01-12T19:42:56"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-13" start_char="1169" end_char="1193">
+<ORIGINAL_TEXT>这根本就是一场让人厌恶的狗血攻防警匪剧。&amp;#13;</ORIGINAL_TEXT>
+<TOKEN id="token-13-0" pos="word" morph="none" start_char="1169" end_char="1187">这根本就是一场让人厌恶的狗血攻防警匪剧</TOKEN>
+<TOKEN id="token-13-1" pos="punct" morph="none" start_char="1188" end_char="1190">。&amp;#</TOKEN>
+<TOKEN id="token-13-2" pos="word" morph="none" start_char="1191" end_char="1192">13</TOKEN>
+<TOKEN id="token-13-3" pos="punct" morph="none" start_char="1193" end_char="1193">;</TOKEN>
+</SEG>
+<SEG id="segment-14" start_char="1195" end_char="1220">
+<ORIGINAL_TEXT>一堆欧洲政治家也有点手拉手的上街喊口号，有因才有果。</ORIGINAL_TEXT>
+<TOKEN id="token-14-0" pos="word" morph="none" start_char="1195" end_char="1213">一堆欧洲政治家也有点手拉手的上街喊口号</TOKEN>
+<TOKEN id="token-14-1" pos="punct" morph="none" start_char="1214" end_char="1214">，</TOKEN>
+<TOKEN id="token-14-2" pos="word" morph="none" start_char="1215" end_char="1219">有因才有果</TOKEN>
+<TOKEN id="token-14-3" pos="punct" morph="none" start_char="1220" end_char="1220">。</TOKEN>
+</SEG>
+<SEG id="segment-15" start_char="1222" end_char="1228">
+<ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-15-0" pos="unknown" morph="none" start_char="1222" end_char="1228">&lt;/post&gt;</TOKEN>
+</SEG>
+<SEG id="segment-16" start_char="1230" end_char="1294">
+<ORIGINAL_TEXT>&lt;post id="p4" author="zengkuiyan" datetime="2015-01-12T20:12:01"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-16-0" pos="unknown" morph="none" start_char="1230" end_char="1234">&lt;post</TOKEN>
+<TOKEN id="token-16-1" pos="unknown" morph="none" start_char="1236" end_char="1242">id="p4"</TOKEN>
+<TOKEN id="token-16-2" pos="unknown" morph="none" start_char="1244" end_char="1262">author="zengkuiyan"</TOKEN>
+<TOKEN id="token-16-3" pos="unknown" morph="none" start_char="1264" end_char="1294">datetime="2015-01-12T20:12:01"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-17" start_char="1296" end_char="1331">
+<ORIGINAL_TEXT>什么言论自由都要建立在相互重的基础上，骂人是你的自由打人也是别人的自由，</ORIGINAL_TEXT>
+<TOKEN id="token-17-0" pos="word" morph="none" start_char="1296" end_char="1313">什么言论自由都要建立在相互重的基础上</TOKEN>
+<TOKEN id="token-17-1" pos="punct" morph="none" start_char="1314" end_char="1314">，</TOKEN>
+<TOKEN id="token-17-2" pos="word" morph="none" start_char="1315" end_char="1330">骂人是你的自由打人也是别人的自由</TOKEN>
+<TOKEN id="token-17-3" pos="punct" morph="none" start_char="1331" end_char="1331">，</TOKEN>
+</SEG>
+<SEG id="segment-18" start_char="1333" end_char="1339">
+<ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-18-0" pos="unknown" morph="none" start_char="1333" end_char="1339">&lt;/post&gt;</TOKEN>
+</SEG>
+<SEG id="segment-19" start_char="1341" end_char="1401">
+<ORIGINAL_TEXT>&lt;post id="p5" author="lwjack" datetime="2015-01-12T21:34:15"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-19-0" pos="unknown" morph="none" start_char="1341" end_char="1345">&lt;post</TOKEN>
+<TOKEN id="token-19-1" pos="unknown" morph="none" start_char="1347" end_char="1353">id="p5"</TOKEN>
+<TOKEN id="token-19-2" pos="unknown" morph="none" start_char="1355" end_char="1369">author="lwjack"</TOKEN>
+<TOKEN id="token-19-3" pos="unknown" morph="none" start_char="1371" end_char="1401">datetime="2015-01-12T21:34:15"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-20" start_char="1403" end_char="1487">
+<ORIGINAL_TEXT>@三思小新：这就是温伯格所说的“要让好人做坏事，尼就需要宗教了”。两人显然不是什么十恶不赦之徒，但为什么会干出如此十恶不赦之事？如果没有信绿教，他们还会如此咩？&amp;#13;</ORIGINAL_TEXT>
+<TOKEN id="token-20-0" pos="twitter" morph="none" start_char="1403" end_char="1487">@三思小新：这就是温伯格所说的“要让好人做坏事，尼就需要宗教了”。两人显然不是什么十恶不赦之徒，但为什么会干出如此十恶不赦之事？如果没有信绿教，他们还会如此咩？&amp;#13;</TOKEN>
+</SEG>
+<SEG id="segment-21" start_char="1489" end_char="1525">
+<ORIGINAL_TEXT>--------------------------------&amp;#13;</ORIGINAL_TEXT>
+<TOKEN id="token-21-0" pos="punct" morph="none" start_char="1489" end_char="1522">--------------------------------&amp;#</TOKEN>
+<TOKEN id="token-21-1" pos="word" morph="none" start_char="1523" end_char="1524">13</TOKEN>
+<TOKEN id="token-21-2" pos="punct" morph="none" start_char="1525" end_char="1525">;</TOKEN>
+</SEG>
+<SEG id="segment-22" start_char="1527" end_char="1649">
+<ORIGINAL_TEXT>查理周刊的编辑和画师们或许也不是坏人，但是他们信了“自由教”“民主教”于是就把自己的快乐和自由建筑在别人的痛苦和对别人的侮辱上，做了坏事侮辱别人，结果遭受了报应。由此可见，西方宗教洗脑多么害人，如果 他们没有信“民主自由教”，他们还会如此么？？？</ORIGINAL_TEXT>
+<TOKEN id="token-22-0" pos="unknown" morph="none" start_char="1527" end_char="1625">查理周刊的编辑和画师们或许也不是坏人，但是他们信了“自由教”“民主教”于是就把自己的快乐和自由建筑在别人的痛苦和对别人的侮辱上，做了坏事侮辱别人，结果遭受了报应。由此可见，西方宗教洗脑多么害人，如果</TOKEN>
+<TOKEN id="token-22-1" pos="unknown" morph="none" start_char="1627" end_char="1649">他们没有信“民主自由教”，他们还会如此么？？？</TOKEN>
+</SEG>
+<SEG id="segment-23" start_char="1651" end_char="1657">
+<ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-23-0" pos="unknown" morph="none" start_char="1651" end_char="1657">&lt;/post&gt;</TOKEN>
+</SEG>
+<SEG id="segment-24" start_char="1659" end_char="1717">
+<ORIGINAL_TEXT>&lt;post id="p6" author="海外刀客" datetime="2015-01-12T21:35:45"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-24-0" pos="unknown" morph="none" start_char="1659" end_char="1663">&lt;post</TOKEN>
+<TOKEN id="token-24-1" pos="unknown" morph="none" start_char="1665" end_char="1671">id="p6"</TOKEN>
+<TOKEN id="token-24-2" pos="unknown" morph="none" start_char="1673" end_char="1685">author="海外刀客"</TOKEN>
+<TOKEN id="token-24-3" pos="unknown" morph="none" start_char="1687" end_char="1717">datetime="2015-01-12T21:35:45"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-25" start_char="1719" end_char="1721">
+<ORIGINAL_TEXT>凄然！</ORIGINAL_TEXT>
+<TOKEN id="token-25-0" pos="word" morph="none" start_char="1719" end_char="1720">凄然</TOKEN>
+<TOKEN id="token-25-1" pos="punct" morph="none" start_char="1721" end_char="1721">！</TOKEN>
+</SEG>
+<SEG id="segment-26" start_char="1723" end_char="1729">
+<ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-26-0" pos="unknown" morph="none" start_char="1723" end_char="1729">&lt;/post&gt;</TOKEN>
+</SEG>
+<SEG id="segment-27" start_char="1731" end_char="1794">
+<ORIGINAL_TEXT>&lt;post id="p7" author="csdcsdcsd" datetime="2015-01-12T21:48:50"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-27-0" pos="unknown" morph="none" start_char="1731" end_char="1735">&lt;post</TOKEN>
+<TOKEN id="token-27-1" pos="unknown" morph="none" start_char="1737" end_char="1743">id="p7"</TOKEN>
+<TOKEN id="token-27-2" pos="unknown" morph="none" start_char="1745" end_char="1762">author="csdcsdcsd"</TOKEN>
+<TOKEN id="token-27-3" pos="unknown" morph="none" start_char="1764" end_char="1794">datetime="2015-01-12T21:48:50"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-28" start_char="1796" end_char="1811">
+<ORIGINAL_TEXT>这个老板明显得了斯德哥尔摩综合症</ORIGINAL_TEXT>
+<TOKEN id="token-28-0" pos="word" morph="none" start_char="1796" end_char="1811">这个老板明显得了斯德哥尔摩综合症</TOKEN>
+</SEG>
+<SEG id="segment-29" start_char="1813" end_char="1819">
+<ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-29-0" pos="unknown" morph="none" start_char="1813" end_char="1819">&lt;/post&gt;</TOKEN>
+</SEG>
+<SEG id="segment-30" start_char="1821" end_char="1882">
+<ORIGINAL_TEXT>&lt;post id="p8" author="tsp4587" datetime="2015-01-12T21:59:59"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-30-0" pos="unknown" morph="none" start_char="1821" end_char="1825">&lt;post</TOKEN>
+<TOKEN id="token-30-1" pos="unknown" morph="none" start_char="1827" end_char="1833">id="p8"</TOKEN>
+<TOKEN id="token-30-2" pos="unknown" morph="none" start_char="1835" end_char="1850">author="tsp4587"</TOKEN>
+<TOKEN id="token-30-3" pos="unknown" morph="none" start_char="1852" end_char="1882">datetime="2015-01-12T21:59:59"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-31" start_char="1884" end_char="1911">
+<ORIGINAL_TEXT>&lt;quote orig_author="lwjack"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-31-0" pos="unknown" morph="none" start_char="1884" end_char="1889">&lt;quote</TOKEN>
+<TOKEN id="token-31-1" pos="unknown" morph="none" start_char="1891" end_char="1911">orig_author="lwjack"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-32" start_char="1913" end_char="1997">
+<ORIGINAL_TEXT>@三思小新：这就是温伯格所说的“要让好人做坏事，尼就需要宗教了”。两人显然不是什么十恶不赦之徒，但为什么会干出如此十恶不赦之事？如果没有信绿教，他们还会如此咩？&amp;#13;</ORIGINAL_TEXT>
+<TOKEN id="token-32-0" pos="twitter" morph="none" start_char="1913" end_char="1997">@三思小新：这就是温伯格所说的“要让好人做坏事，尼就需要宗教了”。两人显然不是什么十恶不赦之徒，但为什么会干出如此十恶不赦之事？如果没有信绿教，他们还会如此咩？&amp;#13;</TOKEN>
+</SEG>
+<SEG id="segment-33" start_char="1999" end_char="2035">
+<ORIGINAL_TEXT>--------------------------------&amp;#13;</ORIGINAL_TEXT>
+<TOKEN id="token-33-0" pos="punct" morph="none" start_char="1999" end_char="2032">--------------------------------&amp;#</TOKEN>
+<TOKEN id="token-33-1" pos="word" morph="none" start_char="2033" end_char="2034">13</TOKEN>
+<TOKEN id="token-33-2" pos="punct" morph="none" start_char="2035" end_char="2035">;</TOKEN>
+</SEG>
+<SEG id="segment-34" start_char="2037" end_char="2159">
+<ORIGINAL_TEXT>查理周刊的编辑和画师们或许也不是坏人，但是他们信了“自由教”“民主教”于是就把自己的快乐和自由建筑在别人的痛苦和对别人的侮辱上，做了坏事侮辱别人，结果遭受了报应。由此可见，西方宗教洗脑多么害人，如果 他们没有信“民主自由教”，他们还会如此么？？？</ORIGINAL_TEXT>
+<TOKEN id="token-34-0" pos="unknown" morph="none" start_char="2037" end_char="2135">查理周刊的编辑和画师们或许也不是坏人，但是他们信了“自由教”“民主教”于是就把自己的快乐和自由建筑在别人的痛苦和对别人的侮辱上，做了坏事侮辱别人，结果遭受了报应。由此可见，西方宗教洗脑多么害人，如果</TOKEN>
+<TOKEN id="token-34-1" pos="unknown" morph="none" start_char="2137" end_char="2159">他们没有信“民主自由教”，他们还会如此么？？？</TOKEN>
+</SEG>
+<SEG id="segment-35" start_char="2161" end_char="2168">
+<ORIGINAL_TEXT>&lt;/quote&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-35-0" pos="unknown" morph="none" start_char="2161" end_char="2168">&lt;/quote&gt;</TOKEN>
+</SEG>
+<SEG id="segment-36" start_char="2170" end_char="2207">
+<ORIGINAL_TEXT>查理周刊丑化lsls？当lsls在斩首俘虏时，早就不存在丑化了，只存在揭露！</ORIGINAL_TEXT>
+<TOKEN id="token-36-0" pos="unknown" morph="none" start_char="2170" end_char="2207">查理周刊丑化lsls？当lsls在斩首俘虏时，早就不存在丑化了，只存在揭露！</TOKEN>
+</SEG>
+<SEG id="segment-37" start_char="2209" end_char="2215">
+<ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-37-0" pos="unknown" morph="none" start_char="2209" end_char="2215">&lt;/post&gt;</TOKEN>
+</SEG>
+<SEG id="segment-38" start_char="2217" end_char="2277">
+<ORIGINAL_TEXT>&lt;post id="p9" author="lwjack" datetime="2015-01-12T22:07:55"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-38-0" pos="unknown" morph="none" start_char="2217" end_char="2221">&lt;post</TOKEN>
+<TOKEN id="token-38-1" pos="unknown" morph="none" start_char="2223" end_char="2229">id="p9"</TOKEN>
+<TOKEN id="token-38-2" pos="unknown" morph="none" start_char="2231" end_char="2245">author="lwjack"</TOKEN>
+<TOKEN id="token-38-3" pos="unknown" morph="none" start_char="2247" end_char="2277">datetime="2015-01-12T22:07:55"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-39" start_char="2279" end_char="2307">
+<ORIGINAL_TEXT>&lt;quote orig_author="tsp4587"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-39-0" pos="unknown" morph="none" start_char="2279" end_char="2284">&lt;quote</TOKEN>
+<TOKEN id="token-39-1" pos="unknown" morph="none" start_char="2286" end_char="2307">orig_author="tsp4587"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-40" start_char="2309" end_char="2336">
+<ORIGINAL_TEXT>&lt;quote orig_author="lwjack"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-40-0" pos="unknown" morph="none" start_char="2309" end_char="2314">&lt;quote</TOKEN>
+<TOKEN id="token-40-1" pos="unknown" morph="none" start_char="2316" end_char="2336">orig_author="lwjack"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-41" start_char="2338" end_char="2422">
+<ORIGINAL_TEXT>@三思小新：这就是温伯格所说的“要让好人做坏事，尼就需要宗教了”。两人显然不是什么十恶不赦之徒，但为什么会干出如此十恶不赦之事？如果没有信绿教，他们还会如此咩？&amp;#13;</ORIGINAL_TEXT>
+<TOKEN id="token-41-0" pos="twitter" morph="none" start_char="2338" end_char="2422">@三思小新：这就是温伯格所说的“要让好人做坏事，尼就需要宗教了”。两人显然不是什么十恶不赦之徒，但为什么会干出如此十恶不赦之事？如果没有信绿教，他们还会如此咩？&amp;#13;</TOKEN>
+</SEG>
+<SEG id="segment-42" start_char="2424" end_char="2460">
+<ORIGINAL_TEXT>--------------------------------&amp;#13;</ORIGINAL_TEXT>
+<TOKEN id="token-42-0" pos="punct" morph="none" start_char="2424" end_char="2457">--------------------------------&amp;#</TOKEN>
+<TOKEN id="token-42-1" pos="word" morph="none" start_char="2458" end_char="2459">13</TOKEN>
+<TOKEN id="token-42-2" pos="punct" morph="none" start_char="2460" end_char="2460">;</TOKEN>
+</SEG>
+<SEG id="segment-43" start_char="2462" end_char="2584">
+<ORIGINAL_TEXT>查理周刊的编辑和画师们或许也不是坏人，但是他们信了“自由教”“民主教”于是就把自己的快乐和自由建筑在别人的痛苦和对别人的侮辱上，做了坏事侮辱别人，结果遭受了报应。由此可见，西方宗教洗脑多么害人，如果 他们没有信“民主自由教”，他们还会如此么？？？</ORIGINAL_TEXT>
+<TOKEN id="token-43-0" pos="unknown" morph="none" start_char="2462" end_char="2560">查理周刊的编辑和画师们或许也不是坏人，但是他们信了“自由教”“民主教”于是就把自己的快乐和自由建筑在别人的痛苦和对别人的侮辱上，做了坏事侮辱别人，结果遭受了报应。由此可见，西方宗教洗脑多么害人，如果</TOKEN>
+<TOKEN id="token-43-1" pos="unknown" morph="none" start_char="2562" end_char="2584">他们没有信“民主自由教”，他们还会如此么？？？</TOKEN>
+</SEG>
+<SEG id="segment-44" start_char="2586" end_char="2593">
+<ORIGINAL_TEXT>&lt;/quote&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-44-0" pos="unknown" morph="none" start_char="2586" end_char="2593">&lt;/quote&gt;</TOKEN>
+</SEG>
+<SEG id="segment-45" start_char="2595" end_char="2632">
+<ORIGINAL_TEXT>查理周刊丑化lsls？当lsls在斩首俘虏时，早就不存在丑化了，只存在揭露！</ORIGINAL_TEXT>
+<TOKEN id="token-45-0" pos="unknown" morph="none" start_char="2595" end_char="2632">查理周刊丑化lsls？当lsls在斩首俘虏时，早就不存在丑化了，只存在揭露！</TOKEN>
+</SEG>
+<SEG id="segment-46" start_char="2634" end_char="2641">
+<ORIGINAL_TEXT>&lt;/quote&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-46-0" pos="unknown" morph="none" start_char="2634" end_char="2641">&lt;/quote&gt;</TOKEN>
+</SEG>
+<SEG id="segment-47" start_char="2643" end_char="2722">
+<ORIGINAL_TEXT>查理周刊的矛头可不是ISIL，而是整个穆斯林世界，这批爱装逼的法国文人自以为躲在白人社会的军队后面可以随便指手画脚侮辱整个穆斯林世界而不用担心遭受报应&amp;#13;</ORIGINAL_TEXT>
+<TOKEN id="token-47-0" pos="unknown" morph="none" start_char="2643" end_char="2722">查理周刊的矛头可不是ISIL，而是整个穆斯林世界，这批爱装逼的法国文人自以为躲在白人社会的军队后面可以随便指手画脚侮辱整个穆斯林世界而不用担心遭受报应&amp;#13;</TOKEN>
+</SEG>
+<SEG id="segment-48" start_char="2724" end_char="2755">
+<ORIGINAL_TEXT>结果就悲剧了，他们直接被法国国籍的法国人穆斯林给杀死了&amp;#13;</ORIGINAL_TEXT>
+<TOKEN id="token-48-0" pos="unknown" morph="none" start_char="2724" end_char="2755">结果就悲剧了，他们直接被法国国籍的法国人穆斯林给杀死了&amp;#13;</TOKEN>
+</SEG>
+<SEG id="segment-49" start_char="2757" end_char="2850">
+<ORIGINAL_TEXT>至于这几个枪手，没有任何证据证明他们是ISIL的人，他们只不过是在也门接受过军事训练，穆斯林极端武装有很多派别不只有ISIL一个，还有基地，还有其他分支派别，这些派别都不是统一的&amp;#13;</ORIGINAL_TEXT>
+<TOKEN id="token-49-0" pos="unknown" morph="none" start_char="2757" end_char="2850">至于这几个枪手，没有任何证据证明他们是ISIL的人，他们只不过是在也门接受过军事训练，穆斯林极端武装有很多派别不只有ISIL一个，还有基地，还有其他分支派别，这些派别都不是统一的&amp;#13;</TOKEN>
+</SEG>
+<SEG id="segment-50" start_char="2852" end_char="2927">
+<ORIGINAL_TEXT>你看来是故意以偏概全，企图用ISIL的黑名声来指代所有穆斯林武装，事实上ISIL还没有统一穆斯林极端派别呢，很多穆斯林极端武装都反ISIL的。&amp;#13;</ORIGINAL_TEXT>
+<TOKEN id="token-50-0" pos="unknown" morph="none" start_char="2852" end_char="2927">你看来是故意以偏概全，企图用ISIL的黑名声来指代所有穆斯林武装，事实上ISIL还没有统一穆斯林极端派别呢，很多穆斯林极端武装都反ISIL的。&amp;#13;</TOKEN>
+</SEG>
+<SEG id="segment-51" start_char="2929" end_char="3028">
+<ORIGINAL_TEXT>奉劝你就别搅混水了，查理周刊早在ISIL出现之前就开始侮辱穆斯林信仰了，而且这次攻击的人也不是ISIL的人，你搅混水的企图太幼稚了，你把别人当做和你一样幼稚，还企图用这种弱智的方式来忽悠人，太可怜了。</ORIGINAL_TEXT>
+<TOKEN id="token-51-0" pos="unknown" morph="none" start_char="2929" end_char="3028">奉劝你就别搅混水了，查理周刊早在ISIL出现之前就开始侮辱穆斯林信仰了，而且这次攻击的人也不是ISIL的人，你搅混水的企图太幼稚了，你把别人当做和你一样幼稚，还企图用这种弱智的方式来忽悠人，太可怜了。</TOKEN>
+</SEG>
+<SEG id="segment-52" start_char="3030" end_char="3036">
+<ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-52-0" pos="unknown" morph="none" start_char="3030" end_char="3036">&lt;/post&gt;</TOKEN>
+</SEG>
+<SEG id="segment-53" start_char="3038" end_char="3103">
+<ORIGINAL_TEXT>&lt;post id="p10" author="zhangyaztx" datetime="2015-01-12T22:21:55"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-53-0" pos="unknown" morph="none" start_char="3038" end_char="3042">&lt;post</TOKEN>
+<TOKEN id="token-53-1" pos="unknown" morph="none" start_char="3044" end_char="3051">id="p10"</TOKEN>
+<TOKEN id="token-53-2" pos="unknown" morph="none" start_char="3053" end_char="3071">author="zhangyaztx"</TOKEN>
+<TOKEN id="token-53-3" pos="unknown" morph="none" start_char="3073" end_char="3103">datetime="2015-01-12T22:21:55"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-54" start_char="3105" end_char="3184">
+<ORIGINAL_TEXT>老板和工人都是中立的，那两兄弟和官府是对立的，是恩怨分明的三方；相比昆明那次暴徒乱砍乱杀，性质很明显，但在西方定义中昆明的是“体质问题，它们的才是“恐怖”事件。</ORIGINAL_TEXT>
+<TOKEN id="token-54-0" pos="unknown" morph="none" start_char="3105" end_char="3184">老板和工人都是中立的，那两兄弟和官府是对立的，是恩怨分明的三方；相比昆明那次暴徒乱砍乱杀，性质很明显，但在西方定义中昆明的是“体质问题，它们的才是“恐怖”事件。</TOKEN>
+</SEG>
+<SEG id="segment-55" start_char="3186" end_char="3192">
+<ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-55-0" pos="unknown" morph="none" start_char="3186" end_char="3192">&lt;/post&gt;</TOKEN>
+</SEG>
+<SEG id="segment-56" start_char="3194" end_char="3252">
+<ORIGINAL_TEXT>&lt;post id="p11" author="图一笑" datetime="2015-01-12T22:22:02"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-56-0" pos="unknown" morph="none" start_char="3194" end_char="3198">&lt;post</TOKEN>
+<TOKEN id="token-56-1" pos="unknown" morph="none" start_char="3200" end_char="3207">id="p11"</TOKEN>
+<TOKEN id="token-56-2" pos="unknown" morph="none" start_char="3209" end_char="3220">author="图一笑"</TOKEN>
+<TOKEN id="token-56-3" pos="unknown" morph="none" start_char="3222" end_char="3252">datetime="2015-01-12T22:22:02"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-57" start_char="3254" end_char="3310">
+<ORIGINAL_TEXT>随意侮辱他人是要付出代价的！这件事是这一句话最好的诠释！前段时间有个叫小苹果的视频，不知道那个制作人现在在想什么?</ORIGINAL_TEXT>
+<TOKEN id="token-57-0" pos="unknown" morph="none" start_char="3254" end_char="3310">随意侮辱他人是要付出代价的！这件事是这一句话最好的诠释！前段时间有个叫小苹果的视频，不知道那个制作人现在在想什么?</TOKEN>
+</SEG>
+<SEG id="segment-58" start_char="3312" end_char="3318">
+<ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-58-0" pos="unknown" morph="none" start_char="3312" end_char="3318">&lt;/post&gt;</TOKEN>
+</SEG>
+<SEG id="segment-59" start_char="3320" end_char="3379">
+<ORIGINAL_TEXT>&lt;post id="p12" author="惊奇发现" datetime="2015-01-12T22:45:09"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-59-0" pos="unknown" morph="none" start_char="3320" end_char="3324">&lt;post</TOKEN>
+<TOKEN id="token-59-1" pos="unknown" morph="none" start_char="3326" end_char="3333">id="p12"</TOKEN>
+<TOKEN id="token-59-2" pos="unknown" morph="none" start_char="3335" end_char="3347">author="惊奇发现"</TOKEN>
+<TOKEN id="token-59-3" pos="unknown" morph="none" start_char="3349" end_char="3379">datetime="2015-01-12T22:45:09"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-60" start_char="3381" end_char="3429">
+<ORIGINAL_TEXT>也不知是反恐怖主义还是反西方，在国际哀悼死难者时候，五毛狗却在丑化，煽动仇恨西方，而不是恐怖分子。</ORIGINAL_TEXT>
+<TOKEN id="token-60-0" pos="unknown" morph="none" start_char="3381" end_char="3429">也不知是反恐怖主义还是反西方，在国际哀悼死难者时候，五毛狗却在丑化，煽动仇恨西方，而不是恐怖分子。</TOKEN>
+</SEG>
+<SEG id="segment-61" start_char="3431" end_char="3437">
+<ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-61-0" pos="unknown" morph="none" start_char="3431" end_char="3437">&lt;/post&gt;</TOKEN>
+</SEG>
+<SEG id="segment-62" start_char="3439" end_char="3500">
+<ORIGINAL_TEXT>&lt;post id="p13" author="lvgong" datetime="2015-01-12T23:35:18"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-62-0" pos="unknown" morph="none" start_char="3439" end_char="3443">&lt;post</TOKEN>
+<TOKEN id="token-62-1" pos="unknown" morph="none" start_char="3445" end_char="3452">id="p13"</TOKEN>
+<TOKEN id="token-62-2" pos="unknown" morph="none" start_char="3454" end_char="3468">author="lvgong"</TOKEN>
+<TOKEN id="token-62-3" pos="unknown" morph="none" start_char="3470" end_char="3500">datetime="2015-01-12T23:35:18"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-63" start_char="3502" end_char="3527">
+<ORIGINAL_TEXT>&lt;quote orig_author="惊奇发现"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-63-0" pos="unknown" morph="none" start_char="3502" end_char="3507">&lt;quote</TOKEN>
+<TOKEN id="token-63-1" pos="unknown" morph="none" start_char="3509" end_char="3527">orig_author="惊奇发现"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-64" start_char="3529" end_char="3577">
+<ORIGINAL_TEXT>也不知是反恐怖主义还是反西方，在国际哀悼死难者时候，五毛狗却在丑化，煽动仇恨西方，而不是恐怖分子。</ORIGINAL_TEXT>
+<TOKEN id="token-64-0" pos="unknown" morph="none" start_char="3529" end_char="3577">也不知是反恐怖主义还是反西方，在国际哀悼死难者时候，五毛狗却在丑化，煽动仇恨西方，而不是恐怖分子。</TOKEN>
+</SEG>
+<SEG id="segment-65" start_char="3579" end_char="3586">
+<ORIGINAL_TEXT>&lt;/quote&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-65-0" pos="unknown" morph="none" start_char="3579" end_char="3586">&lt;/quote&gt;</TOKEN>
+</SEG>
+<SEG id="segment-66" start_char="3588" end_char="3594">
+<ORIGINAL_TEXT>狗狗，过来吃屎</ORIGINAL_TEXT>
+<TOKEN id="token-66-0" pos="word" morph="none" start_char="3588" end_char="3589">狗狗</TOKEN>
+<TOKEN id="token-66-1" pos="punct" morph="none" start_char="3590" end_char="3590">，</TOKEN>
+<TOKEN id="token-66-2" pos="word" morph="none" start_char="3591" end_char="3594">过来吃屎</TOKEN>
+</SEG>
+<SEG id="segment-67" start_char="3596" end_char="3602">
+<ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-67-0" pos="unknown" morph="none" start_char="3596" end_char="3602">&lt;/post&gt;</TOKEN>
+</SEG>
+<SEG id="segment-68" start_char="3604" end_char="3665">
+<ORIGINAL_TEXT>&lt;post id="p14" author="as手机用户" datetime="2015-01-12T23:39:15"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-68-0" pos="unknown" morph="none" start_char="3604" end_char="3608">&lt;post</TOKEN>
+<TOKEN id="token-68-1" pos="unknown" morph="none" start_char="3610" end_char="3617">id="p14"</TOKEN>
+<TOKEN id="token-68-2" pos="unknown" morph="none" start_char="3619" end_char="3633">author="as手机用户"</TOKEN>
+<TOKEN id="token-68-3" pos="unknown" morph="none" start_char="3635" end_char="3665">datetime="2015-01-12T23:39:15"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-69" start_char="3667" end_char="3692">
+<ORIGINAL_TEXT>&lt;quote orig_author="惊奇发现"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-69-0" pos="unknown" morph="none" start_char="3667" end_char="3672">&lt;quote</TOKEN>
+<TOKEN id="token-69-1" pos="unknown" morph="none" start_char="3674" end_char="3692">orig_author="惊奇发现"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-70" start_char="3694" end_char="3742">
+<ORIGINAL_TEXT>也不知是反恐怖主义还是反西方，在国际哀悼死难者时候，五毛狗却在丑化，煽动仇恨西方，而不是恐怖分子。</ORIGINAL_TEXT>
+<TOKEN id="token-70-0" pos="unknown" morph="none" start_char="3694" end_char="3742">也不知是反恐怖主义还是反西方，在国际哀悼死难者时候，五毛狗却在丑化，煽动仇恨西方，而不是恐怖分子。</TOKEN>
+</SEG>
+<SEG id="segment-71" start_char="3744" end_char="3751">
+<ORIGINAL_TEXT>&lt;/quote&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-71-0" pos="unknown" morph="none" start_char="3744" end_char="3751">&lt;/quote&gt;</TOKEN>
+</SEG>
+<SEG id="segment-72" start_char="3753" end_char="3788">
+<ORIGINAL_TEXT>那么你能告诉我，我们在哀悼昆明火车站死难者的时候，西方媒体是怎么说的呢？</ORIGINAL_TEXT>
+<TOKEN id="token-72-0" pos="unknown" morph="none" start_char="3753" end_char="3788">那么你能告诉我，我们在哀悼昆明火车站死难者的时候，西方媒体是怎么说的呢？</TOKEN>
+</SEG>
+<SEG id="segment-73" start_char="3790" end_char="3796">
+<ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-73-0" pos="unknown" morph="none" start_char="3790" end_char="3796">&lt;/post&gt;</TOKEN>
+</SEG>
+<SEG id="segment-74" start_char="3798" end_char="3859">
+<ORIGINAL_TEXT>&lt;post id="p15" author="lvgong" datetime="2015-01-12T23:47:06"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-74-0" pos="unknown" morph="none" start_char="3798" end_char="3802">&lt;post</TOKEN>
+<TOKEN id="token-74-1" pos="unknown" morph="none" start_char="3804" end_char="3811">id="p15"</TOKEN>
+<TOKEN id="token-74-2" pos="unknown" morph="none" start_char="3813" end_char="3827">author="lvgong"</TOKEN>
+<TOKEN id="token-74-3" pos="unknown" morph="none" start_char="3829" end_char="3859">datetime="2015-01-12T23:47:06"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-75" start_char="3861" end_char="3886">
+<ORIGINAL_TEXT>&lt;quote orig_author="惊奇发现"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-75-0" pos="unknown" morph="none" start_char="3861" end_char="3866">&lt;quote</TOKEN>
+<TOKEN id="token-75-1" pos="unknown" morph="none" start_char="3868" end_char="3886">orig_author="惊奇发现"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-76" start_char="3888" end_char="3936">
+<ORIGINAL_TEXT>也不知是反恐怖主义还是反西方，在国际哀悼死难者时候，五毛狗却在丑化，煽动仇恨西方，而不是恐怖分子。</ORIGINAL_TEXT>
+<TOKEN id="token-76-0" pos="unknown" morph="none" start_char="3888" end_char="3936">也不知是反恐怖主义还是反西方，在国际哀悼死难者时候，五毛狗却在丑化，煽动仇恨西方，而不是恐怖分子。</TOKEN>
+</SEG>
+<SEG id="segment-77" start_char="3938" end_char="3945">
+<ORIGINAL_TEXT>&lt;/quote&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-77-0" pos="unknown" morph="none" start_char="3938" end_char="3945">&lt;/quote&gt;</TOKEN>
+</SEG>
+<SEG id="segment-78" start_char="3947" end_char="3997">
+<ORIGINAL_TEXT>没智商不怨你，但是别吧脑残当个性好吗？就好比经常有人拿着你妈的裸照侮辱你，难道你还一脸媚笑的叫人家爹？</ORIGINAL_TEXT>
+<TOKEN id="token-78-0" pos="unknown" morph="none" start_char="3947" end_char="3997">没智商不怨你，但是别吧脑残当个性好吗？就好比经常有人拿着你妈的裸照侮辱你，难道你还一脸媚笑的叫人家爹？</TOKEN>
+</SEG>
+<SEG id="segment-79" start_char="3999" end_char="4005">
+<ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-79-0" pos="unknown" morph="none" start_char="3999" end_char="4005">&lt;/post&gt;</TOKEN>
+</SEG>
+<SEG id="segment-80" start_char="4007" end_char="4072">
+<ORIGINAL_TEXT>&lt;post id="p16" author="1596350313" datetime="2015-01-13T00:47:50"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-80-0" pos="unknown" morph="none" start_char="4007" end_char="4011">&lt;post</TOKEN>
+<TOKEN id="token-80-1" pos="unknown" morph="none" start_char="4013" end_char="4020">id="p16"</TOKEN>
+<TOKEN id="token-80-2" pos="unknown" morph="none" start_char="4022" end_char="4040">author="1596350313"</TOKEN>
+<TOKEN id="token-80-3" pos="unknown" morph="none" start_char="4042" end_char="4072">datetime="2015-01-13T00:47:50"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-81" start_char="4074" end_char="4099">
+<ORIGINAL_TEXT>&lt;quote orig_author="惊奇发现"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-81-0" pos="unknown" morph="none" start_char="4074" end_char="4079">&lt;quote</TOKEN>
+<TOKEN id="token-81-1" pos="unknown" morph="none" start_char="4081" end_char="4099">orig_author="惊奇发现"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-82" start_char="4101" end_char="4149">
+<ORIGINAL_TEXT>也不知是反恐怖主义还是反西方，在国际哀悼死难者时候，五毛狗却在丑化，煽动仇恨西方，而不是恐怖分子。</ORIGINAL_TEXT>
+<TOKEN id="token-82-0" pos="unknown" morph="none" start_char="4101" end_char="4149">也不知是反恐怖主义还是反西方，在国际哀悼死难者时候，五毛狗却在丑化，煽动仇恨西方，而不是恐怖分子。</TOKEN>
+</SEG>
+<SEG id="segment-83" start_char="4151" end_char="4158">
+<ORIGINAL_TEXT>&lt;/quote&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-83-0" pos="unknown" morph="none" start_char="4151" end_char="4158">&lt;/quote&gt;</TOKEN>
+</SEG>
+<SEG id="segment-84" start_char="4160" end_char="4221">
+<ORIGINAL_TEXT>滚你妈蛋！实话实说就是煽动仇恨西方、同情恐怖分子吗？究竟谁更像恐怖分子？是滥杀无辜的西方？还是放掉人质的Kouachi兄弟？</ORIGINAL_TEXT>
+<TOKEN id="token-84-0" pos="unknown" morph="none" start_char="4160" end_char="4221">滚你妈蛋！实话实说就是煽动仇恨西方、同情恐怖分子吗？究竟谁更像恐怖分子？是滥杀无辜的西方？还是放掉人质的Kouachi兄弟？</TOKEN>
+</SEG>
+<SEG id="segment-85" start_char="4223" end_char="4229">
+<ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-85-0" pos="unknown" morph="none" start_char="4223" end_char="4229">&lt;/post&gt;</TOKEN>
+</SEG>
+<SEG id="segment-86" start_char="4231" end_char="4294">
+<ORIGINAL_TEXT>&lt;post id="p17" author="我是中国小老百姓" datetime="2015-01-13T00:53:45"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-86-0" pos="unknown" morph="none" start_char="4231" end_char="4235">&lt;post</TOKEN>
+<TOKEN id="token-86-1" pos="unknown" morph="none" start_char="4237" end_char="4244">id="p17"</TOKEN>
+<TOKEN id="token-86-2" pos="unknown" morph="none" start_char="4246" end_char="4262">author="我是中国小老百姓"</TOKEN>
+<TOKEN id="token-86-3" pos="unknown" morph="none" start_char="4264" end_char="4294">datetime="2015-01-13T00:53:45"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-87" start_char="4296" end_char="4323">
+<ORIGINAL_TEXT>&lt;quote orig_author="lvgong"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-87-0" pos="unknown" morph="none" start_char="4296" end_char="4301">&lt;quote</TOKEN>
+<TOKEN id="token-87-1" pos="unknown" morph="none" start_char="4303" end_char="4323">orig_author="lvgong"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-88" start_char="4325" end_char="4350">
+<ORIGINAL_TEXT>&lt;quote orig_author="惊奇发现"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-88-0" pos="unknown" morph="none" start_char="4325" end_char="4330">&lt;quote</TOKEN>
+<TOKEN id="token-88-1" pos="unknown" morph="none" start_char="4332" end_char="4350">orig_author="惊奇发现"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-89" start_char="4352" end_char="4400">
+<ORIGINAL_TEXT>也不知是反恐怖主义还是反西方，在国际哀悼死难者时候，五毛狗却在丑化，煽动仇恨西方，而不是恐怖分子。</ORIGINAL_TEXT>
+<TOKEN id="token-89-0" pos="unknown" morph="none" start_char="4352" end_char="4400">也不知是反恐怖主义还是反西方，在国际哀悼死难者时候，五毛狗却在丑化，煽动仇恨西方，而不是恐怖分子。</TOKEN>
+</SEG>
+<SEG id="segment-90" start_char="4402" end_char="4409">
+<ORIGINAL_TEXT>&lt;/quote&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-90-0" pos="unknown" morph="none" start_char="4402" end_char="4409">&lt;/quote&gt;</TOKEN>
+</SEG>
+<SEG id="segment-91" start_char="4411" end_char="4461">
+<ORIGINAL_TEXT>没智商不怨你，但是别吧脑残当个性好吗？就好比经常有人拿着你妈的裸照侮辱你，难道你还一脸媚笑的叫人家爹？</ORIGINAL_TEXT>
+<TOKEN id="token-91-0" pos="unknown" morph="none" start_char="4411" end_char="4461">没智商不怨你，但是别吧脑残当个性好吗？就好比经常有人拿着你妈的裸照侮辱你，难道你还一脸媚笑的叫人家爹？</TOKEN>
+</SEG>
+<SEG id="segment-92" start_char="4463" end_char="4470">
+<ORIGINAL_TEXT>&lt;/quote&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-92-0" pos="unknown" morph="none" start_char="4463" end_char="4470">&lt;/quote&gt;</TOKEN>
+</SEG>
+<SEG id="segment-93" start_char="4472" end_char="4491">
+<ORIGINAL_TEXT>你说的没错，随时日TMD，不就是他爹吗？</ORIGINAL_TEXT>
+<TOKEN id="token-93-0" pos="unknown" morph="none" start_char="4472" end_char="4491">你说的没错，随时日TMD，不就是他爹吗？</TOKEN>
+</SEG>
+<SEG id="segment-94" start_char="4493" end_char="4499">
+<ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-94-0" pos="unknown" morph="none" start_char="4493" end_char="4499">&lt;/post&gt;</TOKEN>
+</SEG>
+<SEG id="segment-95" start_char="4501" end_char="4570">
+<ORIGINAL_TEXT>&lt;post id="p18" author="棋烟琴酒&amp;#13;&amp;#10;" datetime="2015-01-13T00:59:16"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-95-0" pos="unknown" morph="none" start_char="4501" end_char="4505">&lt;post</TOKEN>
+<TOKEN id="token-95-1" pos="unknown" morph="none" start_char="4507" end_char="4514">id="p18"</TOKEN>
+<TOKEN id="token-95-2" pos="unknown" morph="none" start_char="4516" end_char="4538">author="棋烟琴酒&amp;#13;&amp;#10;"</TOKEN>
+<TOKEN id="token-95-3" pos="unknown" morph="none" start_char="4540" end_char="4570">datetime="2015-01-13T00:59:16"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-96" start_char="4572" end_char="4597">
+<ORIGINAL_TEXT>&lt;quote orig_author="惊奇发现"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-96-0" pos="unknown" morph="none" start_char="4572" end_char="4577">&lt;quote</TOKEN>
+<TOKEN id="token-96-1" pos="unknown" morph="none" start_char="4579" end_char="4597">orig_author="惊奇发现"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-97" start_char="4599" end_char="4647">
+<ORIGINAL_TEXT>也不知是反恐怖主义还是反西方，在国际哀悼死难者时候，五毛狗却在丑化，煽动仇恨西方，而不是恐怖分子。</ORIGINAL_TEXT>
+<TOKEN id="token-97-0" pos="unknown" morph="none" start_char="4599" end_char="4647">也不知是反恐怖主义还是反西方，在国际哀悼死难者时候，五毛狗却在丑化，煽动仇恨西方，而不是恐怖分子。</TOKEN>
+</SEG>
+<SEG id="segment-98" start_char="4649" end_char="4656">
+<ORIGINAL_TEXT>&lt;/quote&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-98-0" pos="unknown" morph="none" start_char="4649" end_char="4656">&lt;/quote&gt;</TOKEN>
+</SEG>
+<SEG id="segment-99" start_char="4658" end_char="4739">
+<ORIGINAL_TEXT>欧洲白人以不足世界四分之一的人口占了世界近七成的土地，东方人拥挤在狭小贫瘠的国土中挣扎生存。就这样白人还不依不饶，一会反对中国吃猪肉，一会反对伊斯兰，我看他们都该死</ORIGINAL_TEXT>
+<TOKEN id="token-99-0" pos="unknown" morph="none" start_char="4658" end_char="4739">欧洲白人以不足世界四分之一的人口占了世界近七成的土地，东方人拥挤在狭小贫瘠的国土中挣扎生存。就这样白人还不依不饶，一会反对中国吃猪肉，一会反对伊斯兰，我看他们都该死</TOKEN>
+</SEG>
+<SEG id="segment-100" start_char="4741" end_char="4747">
+<ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-100-0" pos="unknown" morph="none" start_char="4741" end_char="4747">&lt;/post&gt;</TOKEN>
+</SEG>
+<SEG id="segment-101" start_char="4749" end_char="4818">
+<ORIGINAL_TEXT>&lt;post id="p19" author="春季觉醒&amp;#13;&amp;#10;" datetime="2015-01-13T01:02:05"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-101-0" pos="unknown" morph="none" start_char="4749" end_char="4753">&lt;post</TOKEN>
+<TOKEN id="token-101-1" pos="unknown" morph="none" start_char="4755" end_char="4762">id="p19"</TOKEN>
+<TOKEN id="token-101-2" pos="unknown" morph="none" start_char="4764" end_char="4786">author="春季觉醒&amp;#13;&amp;#10;"</TOKEN>
+<TOKEN id="token-101-3" pos="unknown" morph="none" start_char="4788" end_char="4818">datetime="2015-01-13T01:02:05"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-102" start_char="4820" end_char="4841">
+<ORIGINAL_TEXT>冤有头，债有主，人家也是有目标的。&amp;#13;</ORIGINAL_TEXT>
+<TOKEN id="token-102-0" pos="unknown" morph="none" start_char="4820" end_char="4841">冤有头，债有主，人家也是有目标的。&amp;#13;</TOKEN>
+</SEG>
+<SEG id="segment-103" start_char="4843" end_char="4917">
+<ORIGINAL_TEXT>你查理周刊以为你有张嘴什么话都可以说？有些话是不能说的，无论你打着所谓“言论自由”的幌子还是真正对人家的信仰要指手画脚，都必须承担这个结果。&amp;#13;</ORIGINAL_TEXT>
+<TOKEN id="token-103-0" pos="unknown" morph="none" start_char="4843" end_char="4917">你查理周刊以为你有张嘴什么话都可以说？有些话是不能说的，无论你打着所谓“言论自由”的幌子还是真正对人家的信仰要指手画脚，都必须承担这个结果。&amp;#13;</TOKEN>
+</SEG>
+<SEG id="segment-104" start_char="4919" end_char="4961">
+<ORIGINAL_TEXT>恐怖分子的定义是指：针对无辜平民， 使用暴力，有政治要求。这兄弟俩的行为，全都符合吗？</ORIGINAL_TEXT>
+<TOKEN id="token-104-0" pos="word" morph="none" start_char="4919" end_char="4927">恐怖分子的定义是指</TOKEN>
+<TOKEN id="token-104-1" pos="punct" morph="none" start_char="4928" end_char="4928">：</TOKEN>
+<TOKEN id="token-104-2" pos="word" morph="none" start_char="4929" end_char="4934">针对无辜平民</TOKEN>
+<TOKEN id="token-104-3" pos="punct" morph="none" start_char="4935" end_char="4935">，</TOKEN>
+<TOKEN id="token-104-4" pos="unknown" morph="none" start_char="4937" end_char="4961">使用暴力，有政治要求。这兄弟俩的行为，全都符合吗？</TOKEN>
+</SEG>
+<SEG id="segment-105" start_char="4963" end_char="4969">
+<ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-105-0" pos="unknown" morph="none" start_char="4963" end_char="4969">&lt;/post&gt;</TOKEN>
+</SEG>
+<SEG id="segment-106" start_char="4971" end_char="5039">
+<ORIGINAL_TEXT>&lt;post id="p20" author="A少校&amp;#13;&amp;#10;" datetime="2015-01-13T06:02:55"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-106-0" pos="unknown" morph="none" start_char="4971" end_char="4975">&lt;post</TOKEN>
+<TOKEN id="token-106-1" pos="unknown" morph="none" start_char="4977" end_char="4984">id="p20"</TOKEN>
+<TOKEN id="token-106-2" pos="unknown" morph="none" start_char="4986" end_char="5007">author="A少校&amp;#13;&amp;#10;"</TOKEN>
+<TOKEN id="token-106-3" pos="unknown" morph="none" start_char="5009" end_char="5039">datetime="2015-01-13T06:02:55"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-107" start_char="5041" end_char="5088">
+<ORIGINAL_TEXT>任何一个宗教和信仰，都应该得到应得的尊重，你可以不信，也可以质疑，但请不要侮辱和嘲笑。&amp;#13;</ORIGINAL_TEXT>
+<TOKEN id="token-107-0" pos="unknown" morph="none" start_char="5041" end_char="5088">任何一个宗教和信仰，都应该得到应得的尊重，你可以不信，也可以质疑，但请不要侮辱和嘲笑。&amp;#13;</TOKEN>
+</SEG>
+<SEG id="segment-108" start_char="5090" end_char="5136">
+<ORIGINAL_TEXT>这次的事件，我认为是这几位“恐怖分子”，是用了错误的手段去惩罚了犯了一个不至于死的错的杂志社。</ORIGINAL_TEXT>
+<TOKEN id="token-108-0" pos="unknown" morph="none" start_char="5090" end_char="5136">这次的事件，我认为是这几位“恐怖分子”，是用了错误的手段去惩罚了犯了一个不至于死的错的杂志社。</TOKEN>
+</SEG>
+<SEG id="segment-109" start_char="5138" end_char="5144">
+<ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-109-0" pos="unknown" morph="none" start_char="5138" end_char="5144">&lt;/post&gt;</TOKEN>
+</SEG>
+<SEG id="segment-110" start_char="5146" end_char="5208">
+<ORIGINAL_TEXT>&lt;post id="p21" author="qang128" datetime="2015-01-13T18:15:24"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-110-0" pos="unknown" morph="none" start_char="5146" end_char="5150">&lt;post</TOKEN>
+<TOKEN id="token-110-1" pos="unknown" morph="none" start_char="5152" end_char="5159">id="p21"</TOKEN>
+<TOKEN id="token-110-2" pos="unknown" morph="none" start_char="5161" end_char="5176">author="qang128"</TOKEN>
+<TOKEN id="token-110-3" pos="unknown" morph="none" start_char="5178" end_char="5208">datetime="2015-01-13T18:15:24"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-111" start_char="5210" end_char="5475">
+<ORIGINAL_TEXT>有个人天天侮辱你娘的时候，在忍无可忍之下你会怎么办。向政府求助？政府说骂人是他们的自由。向白人求助？白人说我信基督，他又没骂我娘，干我球事。中国有句话“打人不打脸、骂人不揭短”，这还有回转的余地，“查理周刊”和法国政府把最后的一点余地都断掉了，这不是逼良为娼吗。可怜之人必有可恨之处，你攻击别人的时候就应该做好被攻击的准备。佛教还有一手是佛、一手是魔，为了捍卫自己的信仰拿起屠刀的说法。不要怨别人的残忍，是因为你把善良的人逼成了残忍的人。不知道“查理周刊”这些死去的人，在死之前是什么样的想法，有没有后悔对别人信仰的践踏。&amp;#13;</ORIGINAL_TEXT>
+<TOKEN id="token-111-0" pos="unknown" morph="none" start_char="5210" end_char="5475">有个人天天侮辱你娘的时候，在忍无可忍之下你会怎么办。向政府求助？政府说骂人是他们的自由。向白人求助？白人说我信基督，他又没骂我娘，干我球事。中国有句话“打人不打脸、骂人不揭短”，这还有回转的余地，“查理周刊”和法国政府把最后的一点余地都断掉了，这不是逼良为娼吗。可怜之人必有可恨之处，你攻击别人的时候就应该做好被攻击的准备。佛教还有一手是佛、一手是魔，为了捍卫自己的信仰拿起屠刀的说法。不要怨别人的残忍，是因为你把善良的人逼成了残忍的人。不知道“查理周刊”这些死去的人，在死之前是什么样的想法，有没有后悔对别人信仰的践踏。&amp;#13;</TOKEN>
+</SEG>
+<SEG id="segment-112" start_char="5478" end_char="5484">
+<ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-112-0" pos="unknown" morph="none" start_char="5478" end_char="5484">&lt;/post&gt;</TOKEN>
+</SEG>
+<SEG id="segment-113" start_char="5486" end_char="5555">
+<ORIGINAL_TEXT>&lt;post id="p22" author="持久决心&amp;#13;&amp;#10;" datetime="2015-01-13T18:29:23"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-113-0" pos="unknown" morph="none" start_char="5486" end_char="5490">&lt;post</TOKEN>
+<TOKEN id="token-113-1" pos="unknown" morph="none" start_char="5492" end_char="5499">id="p22"</TOKEN>
+<TOKEN id="token-113-2" pos="unknown" morph="none" start_char="5501" end_char="5523">author="持久决心&amp;#13;&amp;#10;"</TOKEN>
+<TOKEN id="token-113-3" pos="unknown" morph="none" start_char="5525" end_char="5555">datetime="2015-01-13T18:29:23"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-114" start_char="5557" end_char="5633">
+<ORIGINAL_TEXT>此刻我们都是巴黎人（吐槽），这可是真真正正的恐怖分子啊（我相信在巴黎大游行的时候所有公知都这么觉得，现在呢？），我就觉得什么大游行的西方政府做得太过了，哼</ORIGINAL_TEXT>
+<TOKEN id="token-114-0" pos="unknown" morph="none" start_char="5557" end_char="5633">此刻我们都是巴黎人（吐槽），这可是真真正正的恐怖分子啊（我相信在巴黎大游行的时候所有公知都这么觉得，现在呢？），我就觉得什么大游行的西方政府做得太过了，哼</TOKEN>
+</SEG>
+<SEG id="segment-115" start_char="5635" end_char="5641">
+<ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-115-0" pos="unknown" morph="none" start_char="5635" end_char="5641">&lt;/post&gt;</TOKEN>
+</SEG>
+<SEG id="segment-116" start_char="5643" end_char="5715">
+<ORIGINAL_TEXT>&lt;post id="p23" author="od火枪手bo&amp;#13;&amp;#10;" datetime="2015-01-13T18:44:15"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-116-0" pos="unknown" morph="none" start_char="5643" end_char="5647">&lt;post</TOKEN>
+<TOKEN id="token-116-1" pos="unknown" morph="none" start_char="5649" end_char="5656">id="p23"</TOKEN>
+<TOKEN id="token-116-2" pos="unknown" morph="none" start_char="5658" end_char="5683">author="od火枪手bo&amp;#13;&amp;#10;"</TOKEN>
+<TOKEN id="token-116-3" pos="unknown" morph="none" start_char="5685" end_char="5715">datetime="2015-01-13T18:44:15"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-117" start_char="5717" end_char="5760">
+<ORIGINAL_TEXT>凶手固然可恶，但拿先知开涮的死者就一定无辜么？我不信教，但我绝不会随便对任何宗教放厥词。</ORIGINAL_TEXT>
+<TOKEN id="token-117-0" pos="unknown" morph="none" start_char="5717" end_char="5760">凶手固然可恶，但拿先知开涮的死者就一定无辜么？我不信教，但我绝不会随便对任何宗教放厥词。</TOKEN>
+</SEG>
+<SEG id="segment-118" start_char="5762" end_char="5768">
+<ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-118-0" pos="unknown" morph="none" start_char="5762" end_char="5768">&lt;/post&gt;</TOKEN>
+</SEG>
+<SEG id="segment-119" start_char="5770" end_char="5839">
+<ORIGINAL_TEXT>&lt;post id="p24" author="老人新号&amp;#13;&amp;#10;" datetime="2015-01-13T18:55:57"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-119-0" pos="unknown" morph="none" start_char="5770" end_char="5774">&lt;post</TOKEN>
+<TOKEN id="token-119-1" pos="unknown" morph="none" start_char="5776" end_char="5783">id="p24"</TOKEN>
+<TOKEN id="token-119-2" pos="unknown" morph="none" start_char="5785" end_char="5807">author="老人新号&amp;#13;&amp;#10;"</TOKEN>
+<TOKEN id="token-119-3" pos="unknown" morph="none" start_char="5809" end_char="5839">datetime="2015-01-13T18:55:57"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-120" start_char="5841" end_char="5868">
+<ORIGINAL_TEXT>&lt;quote orig_author="lvgong"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-120-0" pos="unknown" morph="none" start_char="5841" end_char="5846">&lt;quote</TOKEN>
+<TOKEN id="token-120-1" pos="unknown" morph="none" start_char="5848" end_char="5868">orig_author="lvgong"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-121" start_char="5870" end_char="5895">
+<ORIGINAL_TEXT>&lt;quote orig_author="惊奇发现"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-121-0" pos="unknown" morph="none" start_char="5870" end_char="5875">&lt;quote</TOKEN>
+<TOKEN id="token-121-1" pos="unknown" morph="none" start_char="5877" end_char="5895">orig_author="惊奇发现"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-122" start_char="5897" end_char="5945">
+<ORIGINAL_TEXT>也不知是反恐怖主义还是反西方，在国际哀悼死难者时候，五毛狗却在丑化，煽动仇恨西方，而不是恐怖分子。</ORIGINAL_TEXT>
+<TOKEN id="token-122-0" pos="unknown" morph="none" start_char="5897" end_char="5945">也不知是反恐怖主义还是反西方，在国际哀悼死难者时候，五毛狗却在丑化，煽动仇恨西方，而不是恐怖分子。</TOKEN>
+</SEG>
+<SEG id="segment-123" start_char="5947" end_char="5954">
+<ORIGINAL_TEXT>&lt;/quote&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-123-0" pos="unknown" morph="none" start_char="5947" end_char="5954">&lt;/quote&gt;</TOKEN>
+</SEG>
+<SEG id="segment-124" start_char="5956" end_char="6006">
+<ORIGINAL_TEXT>没智商不怨你，但是别吧脑残当个性好吗？就好比经常有人拿着你妈的裸照侮辱你，难道你还一脸媚笑的叫人家爹？</ORIGINAL_TEXT>
+<TOKEN id="token-124-0" pos="unknown" morph="none" start_char="5956" end_char="6006">没智商不怨你，但是别吧脑残当个性好吗？就好比经常有人拿着你妈的裸照侮辱你，难道你还一脸媚笑的叫人家爹？</TOKEN>
+</SEG>
+<SEG id="segment-125" start_char="6008" end_char="6015">
+<ORIGINAL_TEXT>&lt;/quote&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-125-0" pos="unknown" morph="none" start_char="6008" end_char="6015">&lt;/quote&gt;</TOKEN>
+</SEG>
+<SEG id="segment-126" start_char="6017" end_char="6033">
+<ORIGINAL_TEXT>其实她早就叫习惯了，贱人就好这一口</ORIGINAL_TEXT>
+<TOKEN id="token-126-0" pos="word" morph="none" start_char="6017" end_char="6025">其实她早就叫习惯了</TOKEN>
+<TOKEN id="token-126-1" pos="punct" morph="none" start_char="6026" end_char="6026">，</TOKEN>
+<TOKEN id="token-126-2" pos="word" morph="none" start_char="6027" end_char="6033">贱人就好这一口</TOKEN>
+</SEG>
+<SEG id="segment-127" start_char="6035" end_char="6041">
+<ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-127-0" pos="unknown" morph="none" start_char="6035" end_char="6041">&lt;/post&gt;</TOKEN>
+</SEG>
+<SEG id="segment-128" start_char="6043" end_char="6112">
+<ORIGINAL_TEXT>&lt;post id="p25" author="老人新号&amp;#13;&amp;#10;" datetime="2015-01-13T19:00:44"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-128-0" pos="unknown" morph="none" start_char="6043" end_char="6047">&lt;post</TOKEN>
+<TOKEN id="token-128-1" pos="unknown" morph="none" start_char="6049" end_char="6056">id="p25"</TOKEN>
+<TOKEN id="token-128-2" pos="unknown" morph="none" start_char="6058" end_char="6080">author="老人新号&amp;#13;&amp;#10;"</TOKEN>
+<TOKEN id="token-128-3" pos="unknown" morph="none" start_char="6082" end_char="6112">datetime="2015-01-13T19:00:44"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-129" start_char="6114" end_char="6141">
+<ORIGINAL_TEXT>&lt;quote orig_author="lvgong"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-129-0" pos="unknown" morph="none" start_char="6114" end_char="6119">&lt;quote</TOKEN>
+<TOKEN id="token-129-1" pos="unknown" morph="none" start_char="6121" end_char="6141">orig_author="lvgong"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-130" start_char="6143" end_char="6168">
+<ORIGINAL_TEXT>&lt;quote orig_author="惊奇发现"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-130-0" pos="unknown" morph="none" start_char="6143" end_char="6148">&lt;quote</TOKEN>
+<TOKEN id="token-130-1" pos="unknown" morph="none" start_char="6150" end_char="6168">orig_author="惊奇发现"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-131" start_char="6170" end_char="6218">
+<ORIGINAL_TEXT>也不知是反恐怖主义还是反西方，在国际哀悼死难者时候，五毛狗却在丑化，煽动仇恨西方，而不是恐怖分子。</ORIGINAL_TEXT>
+<TOKEN id="token-131-0" pos="unknown" morph="none" start_char="6170" end_char="6218">也不知是反恐怖主义还是反西方，在国际哀悼死难者时候，五毛狗却在丑化，煽动仇恨西方，而不是恐怖分子。</TOKEN>
+</SEG>
+<SEG id="segment-132" start_char="6220" end_char="6227">
+<ORIGINAL_TEXT>&lt;/quote&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-132-0" pos="unknown" morph="none" start_char="6220" end_char="6227">&lt;/quote&gt;</TOKEN>
+</SEG>
+<SEG id="segment-133" start_char="6229" end_char="6235">
+<ORIGINAL_TEXT>狗狗，过来吃屎</ORIGINAL_TEXT>
+<TOKEN id="token-133-0" pos="word" morph="none" start_char="6229" end_char="6230">狗狗</TOKEN>
+<TOKEN id="token-133-1" pos="punct" morph="none" start_char="6231" end_char="6231">，</TOKEN>
+<TOKEN id="token-133-2" pos="word" morph="none" start_char="6232" end_char="6235">过来吃屎</TOKEN>
+</SEG>
+<SEG id="segment-134" start_char="6237" end_char="6244">
+<ORIGINAL_TEXT>&lt;/quote&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-134-0" pos="unknown" morph="none" start_char="6237" end_char="6244">&lt;/quote&gt;</TOKEN>
+</SEG>
+<SEG id="segment-135" start_char="6246" end_char="6259">
+<ORIGINAL_TEXT>吃屎也可以了，应该让它是枪子</ORIGINAL_TEXT>
+<TOKEN id="token-135-0" pos="word" morph="none" start_char="6246" end_char="6251">吃屎也可以了</TOKEN>
+<TOKEN id="token-135-1" pos="punct" morph="none" start_char="6252" end_char="6252">，</TOKEN>
+<TOKEN id="token-135-2" pos="word" morph="none" start_char="6253" end_char="6259">应该让它是枪子</TOKEN>
+</SEG>
+<SEG id="segment-136" start_char="6261" end_char="6267">
+<ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-136-0" pos="unknown" morph="none" start_char="6261" end_char="6267">&lt;/post&gt;</TOKEN>
+</SEG>
+<SEG id="segment-137" start_char="6269" end_char="6328">
+<ORIGINAL_TEXT>&lt;post id="p26" author="老人新号" datetime="2015-01-13T19:04:39"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-137-0" pos="unknown" morph="none" start_char="6269" end_char="6273">&lt;post</TOKEN>
+<TOKEN id="token-137-1" pos="unknown" morph="none" start_char="6275" end_char="6282">id="p26"</TOKEN>
+<TOKEN id="token-137-2" pos="unknown" morph="none" start_char="6284" end_char="6296">author="老人新号"</TOKEN>
+<TOKEN id="token-137-3" pos="unknown" morph="none" start_char="6298" end_char="6328">datetime="2015-01-13T19:04:39"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-138" start_char="6330" end_char="6355">
+<ORIGINAL_TEXT>&lt;quote orig_author="惊奇发现"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-138-0" pos="unknown" morph="none" start_char="6330" end_char="6335">&lt;quote</TOKEN>
+<TOKEN id="token-138-1" pos="unknown" morph="none" start_char="6337" end_char="6355">orig_author="惊奇发现"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-139" start_char="6357" end_char="6405">
+<ORIGINAL_TEXT>也不知是反恐怖主义还是反西方，在国际哀悼死难者时候，五毛狗却在丑化，煽动仇恨西方，而不是恐怖分子。</ORIGINAL_TEXT>
+<TOKEN id="token-139-0" pos="unknown" morph="none" start_char="6357" end_char="6405">也不知是反恐怖主义还是反西方，在国际哀悼死难者时候，五毛狗却在丑化，煽动仇恨西方，而不是恐怖分子。</TOKEN>
+</SEG>
+<SEG id="segment-140" start_char="6407" end_char="6414">
+<ORIGINAL_TEXT>&lt;/quote&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-140-0" pos="unknown" morph="none" start_char="6407" end_char="6414">&lt;/quote&gt;</TOKEN>
+</SEG>
+<SEG id="segment-141" start_char="6416" end_char="6443">
+<ORIGINAL_TEXT>袭击昆明时，你个死霉狗死哪去了，这会儿在这里装什么人啊？</ORIGINAL_TEXT>
+<TOKEN id="token-141-0" pos="unknown" morph="none" start_char="6416" end_char="6443">袭击昆明时，你个死霉狗死哪去了，这会儿在这里装什么人啊？</TOKEN>
+</SEG>
+<SEG id="segment-142" start_char="6445" end_char="6451">
+<ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-142-0" pos="unknown" morph="none" start_char="6445" end_char="6451">&lt;/post&gt;</TOKEN>
+</SEG>
+<SEG id="segment-143" start_char="6453" end_char="6511">
+<ORIGINAL_TEXT>&lt;post id="p27" author="陈屠夫" datetime="2015-01-13T21:40:29"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-143-0" pos="unknown" morph="none" start_char="6453" end_char="6457">&lt;post</TOKEN>
+<TOKEN id="token-143-1" pos="unknown" morph="none" start_char="6459" end_char="6466">id="p27"</TOKEN>
+<TOKEN id="token-143-2" pos="unknown" morph="none" start_char="6468" end_char="6479">author="陈屠夫"</TOKEN>
+<TOKEN id="token-143-3" pos="unknown" morph="none" start_char="6481" end_char="6511">datetime="2015-01-13T21:40:29"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-144" start_char="6513" end_char="6525">
+<ORIGINAL_TEXT>向反抗基督教统治的勇士致敬</ORIGINAL_TEXT>
+<TOKEN id="token-144-0" pos="word" morph="none" start_char="6513" end_char="6525">向反抗基督教统治的勇士致敬</TOKEN>
+</SEG>
+<SEG id="segment-145" start_char="6527" end_char="6533">
+<ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-145-0" pos="unknown" morph="none" start_char="6527" end_char="6533">&lt;/post&gt;</TOKEN>
+</SEG>
+<SEG id="segment-146" start_char="6535" end_char="6595">
+<ORIGINAL_TEXT>&lt;post id="p28" author="全金属元元" datetime="2015-01-17T17:09:20"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-146-0" pos="unknown" morph="none" start_char="6535" end_char="6539">&lt;post</TOKEN>
+<TOKEN id="token-146-1" pos="unknown" morph="none" start_char="6541" end_char="6548">id="p28"</TOKEN>
+<TOKEN id="token-146-2" pos="unknown" morph="none" start_char="6550" end_char="6563">author="全金属元元"</TOKEN>
+<TOKEN id="token-146-3" pos="unknown" morph="none" start_char="6565" end_char="6595">datetime="2015-01-17T17:09:20"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-147" start_char="6597" end_char="6630">
+<ORIGINAL_TEXT>我想对白皮猪说，他们不是恐怖分子，他们只是被你们激怒的有原则的复仇者</ORIGINAL_TEXT>
+<TOKEN id="token-147-0" pos="unknown" morph="none" start_char="6597" end_char="6630">我想对白皮猪说，他们不是恐怖分子，他们只是被你们激怒的有原则的复仇者</TOKEN>
+</SEG>
+<SEG id="segment-148" start_char="6632" end_char="6638">
+<ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-148-0" pos="unknown" morph="none" start_char="6632" end_char="6638">&lt;/post&gt;</TOKEN>
+</SEG>
+<SEG id="segment-149" start_char="6640" end_char="6645">
+<ORIGINAL_TEXT>&lt;/doc&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-149-0" pos="unknown" morph="none" start_char="6640" end_char="6645">&lt;/doc&gt;</TOKEN>
+</SEG>
+</TEXT>
+</DOC>
+</LCTL_TEXT>

@@ -1,0 +1,950 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LCTL_TEXT>
+  <DOC id="ENG_NW_001025_20150328_F0000000U.xml" tokenization="tokenization_parameters" grammar="none" raw_text_char_length="3632" raw_text_md5="29a4268cbe1ae08e67d2fb4435e79563">
+    <TEXT>
+      <SEG id="segment-0" start_char="0" end_char="37">
+        <ORIGINAL_TEXT>&lt;?xml version="1.0" encoding="utf-8"?&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-0-0" pos="unknown" morph="none" start_char="0" end_char="4">&lt;?xml</TOKEN>
+        <TOKEN id="token-0-1" pos="unknown" morph="none" start_char="6" end_char="18">version="1.0"</TOKEN>
+        <TOKEN id="token-0-2" pos="unknown" morph="none" start_char="20" end_char="37">encoding="utf-8"?&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-1" start_char="39" end_char="81">
+        <ORIGINAL_TEXT>&lt;DOC id="ENG_NW_001025_20150328_F0000000U"&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-1-0" pos="unknown" morph="none" start_char="39" end_char="42">&lt;DOC</TOKEN>
+        <TOKEN id="token-1-1" pos="unknown" morph="none" start_char="44" end_char="81">id="ENG_NW_001025_20150328_F0000000U"&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-2" start_char="83" end_char="215">
+        <ORIGINAL_TEXT>&lt;SOURCE&gt;http://www.irishtimes.com/news/social-affairs/should-grandmothers-be-minding-the-kids-or-running-the-world-1.2156607&lt;/SOURCE&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-2-0" pos="unknown" morph="none" start_char="83" end_char="215">&lt;SOURCE&gt;http://www.irishtimes.com/news/social-affairs/should-grandmothers-be-minding-the-kids-or-running-the-world-1.2156607&lt;/SOURCE&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-3" start_char="217" end_char="258">
+        <ORIGINAL_TEXT>&lt;DATE_TIME&gt;2015-03-28T00:00:00&lt;/DATE_TIME&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-3-0" pos="unknown" morph="none" start_char="217" end_char="258">&lt;DATE_TIME&gt;2015-03-28T00:00:00&lt;/DATE_TIME&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-4" start_char="260" end_char="269">
+        <ORIGINAL_TEXT>&lt;HEADLINE&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-4-0" pos="unknown" morph="none" start_char="260" end_char="269">&lt;HEADLINE&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-5" start_char="271" end_char="331">
+        <ORIGINAL_TEXT>Should grandmothers be minding the kids or running the world?</ORIGINAL_TEXT>
+        <TOKEN id="token-5-0" pos="word" morph="none" start_char="271" end_char="276">Should</TOKEN>
+        <TOKEN id="token-5-1" pos="word" morph="none" start_char="278" end_char="289">grandmothers</TOKEN>
+        <TOKEN id="token-5-2" pos="word" morph="none" start_char="291" end_char="292">be</TOKEN>
+        <TOKEN id="token-5-3" pos="word" morph="none" start_char="294" end_char="300">minding</TOKEN>
+        <TOKEN id="token-5-4" pos="word" morph="none" start_char="302" end_char="304">the</TOKEN>
+        <TOKEN id="token-5-5" pos="word" morph="none" start_char="306" end_char="309">kids</TOKEN>
+        <TOKEN id="token-5-6" pos="word" morph="none" start_char="311" end_char="312">or</TOKEN>
+        <TOKEN id="token-5-7" pos="word" morph="none" start_char="314" end_char="320">running</TOKEN>
+        <TOKEN id="token-5-8" pos="word" morph="none" start_char="322" end_char="324">the</TOKEN>
+        <TOKEN id="token-5-9" pos="word" morph="none" start_char="326" end_char="330">world</TOKEN>
+        <TOKEN id="token-5-10" pos="punct" morph="none" start_char="331" end_char="331">?</TOKEN>
+      </SEG>
+      <SEG id="segment-6" start_char="333" end_char="343">
+        <ORIGINAL_TEXT>&lt;/HEADLINE&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-6-0" pos="unknown" morph="none" start_char="333" end_char="343">&lt;/HEADLINE&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-7" start_char="345" end_char="350">
+        <ORIGINAL_TEXT>&lt;TEXT&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-7-0" pos="unknown" morph="none" start_char="345" end_char="350">&lt;TEXT&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-8" start_char="352" end_char="354">
+        <ORIGINAL_TEXT>&lt;P&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-8-0" pos="unknown" morph="none" start_char="352" end_char="354">&lt;P&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-9" start_char="356" end_char="429">
+        <ORIGINAL_TEXT>Does being a good granny mean giving up the second half of your life, like</ORIGINAL_TEXT>
+        <TOKEN id="token-9-0" pos="word" morph="none" start_char="356" end_char="359">Does</TOKEN>
+        <TOKEN id="token-9-1" pos="word" morph="none" start_char="361" end_char="365">being</TOKEN>
+        <TOKEN id="token-9-2" pos="word" morph="none" start_char="367" end_char="367">a</TOKEN>
+        <TOKEN id="token-9-3" pos="word" morph="none" start_char="369" end_char="372">good</TOKEN>
+        <TOKEN id="token-9-4" pos="word" morph="none" start_char="374" end_char="379">granny</TOKEN>
+        <TOKEN id="token-9-5" pos="word" morph="none" start_char="381" end_char="384">mean</TOKEN>
+        <TOKEN id="token-9-6" pos="word" morph="none" start_char="386" end_char="391">giving</TOKEN>
+        <TOKEN id="token-9-7" pos="word" morph="none" start_char="393" end_char="394">up</TOKEN>
+        <TOKEN id="token-9-8" pos="word" morph="none" start_char="396" end_char="398">the</TOKEN>
+        <TOKEN id="token-9-9" pos="word" morph="none" start_char="400" end_char="405">second</TOKEN>
+        <TOKEN id="token-9-10" pos="word" morph="none" start_char="407" end_char="410">half</TOKEN>
+        <TOKEN id="token-9-11" pos="word" morph="none" start_char="412" end_char="413">of</TOKEN>
+        <TOKEN id="token-9-12" pos="word" morph="none" start_char="415" end_char="418">your</TOKEN>
+        <TOKEN id="token-9-13" pos="word" morph="none" start_char="420" end_char="423">life</TOKEN>
+        <TOKEN id="token-9-14" pos="punct" morph="none" start_char="424" end_char="424">,</TOKEN>
+        <TOKEN id="token-9-15" pos="word" morph="none" start_char="426" end_char="429">like</TOKEN>
+      </SEG>
+      <SEG id="segment-10" start_char="431" end_char="456">
+        <ORIGINAL_TEXT>some of you did the first?</ORIGINAL_TEXT>
+        <TOKEN id="token-10-0" pos="word" morph="none" start_char="431" end_char="434">some</TOKEN>
+        <TOKEN id="token-10-1" pos="word" morph="none" start_char="436" end_char="437">of</TOKEN>
+        <TOKEN id="token-10-2" pos="word" morph="none" start_char="439" end_char="441">you</TOKEN>
+        <TOKEN id="token-10-3" pos="word" morph="none" start_char="443" end_char="445">did</TOKEN>
+        <TOKEN id="token-10-4" pos="word" morph="none" start_char="447" end_char="449">the</TOKEN>
+        <TOKEN id="token-10-5" pos="word" morph="none" start_char="451" end_char="455">first</TOKEN>
+        <TOKEN id="token-10-6" pos="punct" morph="none" start_char="456" end_char="456">?</TOKEN>
+      </SEG>
+      <SEG id="segment-11" start_char="458" end_char="461">
+        <ORIGINAL_TEXT>&lt;/P&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-11-0" pos="unknown" morph="none" start_char="458" end_char="461">&lt;/P&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-12" start_char="463" end_char="465">
+        <ORIGINAL_TEXT>&lt;P&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-12-0" pos="unknown" morph="none" start_char="463" end_char="465">&lt;P&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-13" start_char="467" end_char="532">
+        <ORIGINAL_TEXT>#GrandmothersKnowBest . Yes they do, Hillary Clinton, yes they do.</ORIGINAL_TEXT>
+        <TOKEN id="token-13-0" pos="twitter" morph="none" start_char="467" end_char="487">#GrandmothersKnowBest</TOKEN>
+        <TOKEN id="token-13-1" pos="unknown" morph="none" start_char="489" end_char="489">.</TOKEN>
+        <TOKEN id="token-13-2" pos="word" morph="none" start_char="491" end_char="493">Yes</TOKEN>
+        <TOKEN id="token-13-3" pos="word" morph="none" start_char="495" end_char="498">they</TOKEN>
+        <TOKEN id="token-13-4" pos="word" morph="none" start_char="500" end_char="501">do</TOKEN>
+        <TOKEN id="token-13-5" pos="punct" morph="none" start_char="502" end_char="502">,</TOKEN>
+        <TOKEN id="token-13-6" pos="word" morph="none" start_char="504" end_char="510">Hillary</TOKEN>
+        <TOKEN id="token-13-7" pos="word" morph="none" start_char="512" end_char="518">Clinton</TOKEN>
+        <TOKEN id="token-13-8" pos="punct" morph="none" start_char="519" end_char="519">,</TOKEN>
+        <TOKEN id="token-13-9" pos="word" morph="none" start_char="521" end_char="523">yes</TOKEN>
+        <TOKEN id="token-13-10" pos="word" morph="none" start_char="525" end_char="528">they</TOKEN>
+        <TOKEN id="token-13-11" pos="word" morph="none" start_char="530" end_char="531">do</TOKEN>
+        <TOKEN id="token-13-12" pos="punct" morph="none" start_char="532" end_char="532">.</TOKEN>
+      </SEG>
+      <SEG id="segment-14" start_char="534" end_char="537">
+        <ORIGINAL_TEXT>&lt;/P&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-14-0" pos="unknown" morph="none" start_char="534" end_char="537">&lt;/P&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-15" start_char="539" end_char="541">
+        <ORIGINAL_TEXT>&lt;P&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-15-0" pos="unknown" morph="none" start_char="539" end_char="541">&lt;P&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-16" start_char="543" end_char="616">
+        <ORIGINAL_TEXT>Clinton was using her sixth tweet of 2015 to get people to vaccinate their</ORIGINAL_TEXT>
+        <TOKEN id="token-16-0" pos="word" morph="none" start_char="543" end_char="549">Clinton</TOKEN>
+        <TOKEN id="token-16-1" pos="word" morph="none" start_char="551" end_char="553">was</TOKEN>
+        <TOKEN id="token-16-2" pos="word" morph="none" start_char="555" end_char="559">using</TOKEN>
+        <TOKEN id="token-16-3" pos="word" morph="none" start_char="561" end_char="563">her</TOKEN>
+        <TOKEN id="token-16-4" pos="word" morph="none" start_char="565" end_char="569">sixth</TOKEN>
+        <TOKEN id="token-16-5" pos="word" morph="none" start_char="571" end_char="575">tweet</TOKEN>
+        <TOKEN id="token-16-6" pos="word" morph="none" start_char="577" end_char="578">of</TOKEN>
+        <TOKEN id="token-16-7" pos="number" morph="none" start_char="580" end_char="583">2015</TOKEN>
+        <TOKEN id="token-16-8" pos="word" morph="none" start_char="585" end_char="586">to</TOKEN>
+        <TOKEN id="token-16-9" pos="word" morph="none" start_char="588" end_char="590">get</TOKEN>
+        <TOKEN id="token-16-10" pos="word" morph="none" start_char="592" end_char="597">people</TOKEN>
+        <TOKEN id="token-16-11" pos="word" morph="none" start_char="599" end_char="600">to</TOKEN>
+        <TOKEN id="token-16-12" pos="word" morph="none" start_char="602" end_char="610">vaccinate</TOKEN>
+        <TOKEN id="token-16-13" pos="word" morph="none" start_char="612" end_char="616">their</TOKEN>
+      </SEG>
+      <SEG id="segment-17" start_char="618" end_char="685">
+        <ORIGINAL_TEXT>kids. “The science is clear. The earth is round, the sky is blue and</ORIGINAL_TEXT>
+        <TOKEN id="token-17-0" pos="word" morph="none" start_char="618" end_char="621">kids</TOKEN>
+        <TOKEN id="token-17-1" pos="punct" morph="none" start_char="622" end_char="622">.</TOKEN>
+        <TOKEN id="token-17-2" pos="punct" morph="none" start_char="624" end_char="624">“</TOKEN>
+        <TOKEN id="token-17-3" pos="word" morph="none" start_char="625" end_char="627">The</TOKEN>
+        <TOKEN id="token-17-4" pos="word" morph="none" start_char="629" end_char="635">science</TOKEN>
+        <TOKEN id="token-17-5" pos="word" morph="none" start_char="637" end_char="638">is</TOKEN>
+        <TOKEN id="token-17-6" pos="word" morph="none" start_char="640" end_char="644">clear</TOKEN>
+        <TOKEN id="token-17-7" pos="punct" morph="none" start_char="645" end_char="645">.</TOKEN>
+        <TOKEN id="token-17-8" pos="word" morph="none" start_char="647" end_char="649">The</TOKEN>
+        <TOKEN id="token-17-9" pos="word" morph="none" start_char="651" end_char="655">earth</TOKEN>
+        <TOKEN id="token-17-10" pos="word" morph="none" start_char="657" end_char="658">is</TOKEN>
+        <TOKEN id="token-17-11" pos="word" morph="none" start_char="660" end_char="664">round</TOKEN>
+        <TOKEN id="token-17-12" pos="punct" morph="none" start_char="665" end_char="665">,</TOKEN>
+        <TOKEN id="token-17-13" pos="word" morph="none" start_char="667" end_char="669">the</TOKEN>
+        <TOKEN id="token-17-14" pos="word" morph="none" start_char="671" end_char="673">sky</TOKEN>
+        <TOKEN id="token-17-15" pos="word" morph="none" start_char="675" end_char="676">is</TOKEN>
+        <TOKEN id="token-17-16" pos="word" morph="none" start_char="678" end_char="681">blue</TOKEN>
+        <TOKEN id="token-17-17" pos="word" morph="none" start_char="683" end_char="685">and</TOKEN>
+      </SEG>
+      <SEG id="segment-18" start_char="687" end_char="752">
+        <ORIGINAL_TEXT>#vaccineswork. Let’s protect all our kids. #GrandmothersKnowBest”.</ORIGINAL_TEXT>
+        <TOKEN id="token-18-0" pos="twitter" morph="none" start_char="687" end_char="700">#vaccineswork.</TOKEN>
+        <TOKEN id="token-18-1" pos="word" morph="none" start_char="702" end_char="704">Let</TOKEN>
+        <TOKEN id="token-18-2" pos="punct" morph="none" start_char="705" end_char="705">’</TOKEN>
+        <TOKEN id="token-18-3" pos="word" morph="none" start_char="706" end_char="706">s</TOKEN>
+        <TOKEN id="token-18-4" pos="word" morph="none" start_char="708" end_char="714">protect</TOKEN>
+        <TOKEN id="token-18-5" pos="word" morph="none" start_char="716" end_char="718">all</TOKEN>
+        <TOKEN id="token-18-6" pos="word" morph="none" start_char="720" end_char="722">our</TOKEN>
+        <TOKEN id="token-18-7" pos="word" morph="none" start_char="724" end_char="727">kids</TOKEN>
+        <TOKEN id="token-18-8" pos="punct" morph="none" start_char="728" end_char="728">.</TOKEN>
+        <TOKEN id="token-18-9" pos="twitter" morph="none" start_char="730" end_char="752">#GrandmothersKnowBest”.</TOKEN>
+      </SEG>
+      <SEG id="segment-19" start_char="754" end_char="757">
+        <ORIGINAL_TEXT>&lt;/P&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-19-0" pos="unknown" morph="none" start_char="754" end_char="757">&lt;/P&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-20" start_char="759" end_char="761">
+        <ORIGINAL_TEXT>&lt;P&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-20-0" pos="unknown" morph="none" start_char="759" end_char="761">&lt;P&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-21" start_char="763" end_char="832">
+        <ORIGINAL_TEXT>Being a grandmother to Charlotte – the six-month-old child of Bill and</ORIGINAL_TEXT>
+        <TOKEN id="token-21-0" pos="word" morph="none" start_char="763" end_char="767">Being</TOKEN>
+        <TOKEN id="token-21-1" pos="word" morph="none" start_char="769" end_char="769">a</TOKEN>
+        <TOKEN id="token-21-2" pos="word" morph="none" start_char="771" end_char="781">grandmother</TOKEN>
+        <TOKEN id="token-21-3" pos="word" morph="none" start_char="783" end_char="784">to</TOKEN>
+        <TOKEN id="token-21-4" pos="word" morph="none" start_char="786" end_char="794">Charlotte</TOKEN>
+        <TOKEN id="token-21-5" pos="unknown" morph="none" start_char="796" end_char="796">–</TOKEN>
+        <TOKEN id="token-21-6" pos="word" morph="none" start_char="798" end_char="800">the</TOKEN>
+        <TOKEN id="token-21-7" pos="unknown" morph="none" start_char="802" end_char="814">six-month-old</TOKEN>
+        <TOKEN id="token-21-8" pos="word" morph="none" start_char="816" end_char="820">child</TOKEN>
+        <TOKEN id="token-21-9" pos="word" morph="none" start_char="822" end_char="823">of</TOKEN>
+        <TOKEN id="token-21-10" pos="word" morph="none" start_char="825" end_char="828">Bill</TOKEN>
+        <TOKEN id="token-21-11" pos="word" morph="none" start_char="830" end_char="832">and</TOKEN>
+      </SEG>
+      <SEG id="segment-22" start_char="834" end_char="904">
+        <ORIGINAL_TEXT>Hillary Clinton’s daughter Chelsea and her husband Marc Mezvinsky – may</ORIGINAL_TEXT>
+        <TOKEN id="token-22-0" pos="word" morph="none" start_char="834" end_char="840">Hillary</TOKEN>
+        <TOKEN id="token-22-1" pos="word" morph="none" start_char="842" end_char="848">Clinton</TOKEN>
+        <TOKEN id="token-22-2" pos="punct" morph="none" start_char="849" end_char="849">’</TOKEN>
+        <TOKEN id="token-22-3" pos="word" morph="none" start_char="850" end_char="850">s</TOKEN>
+        <TOKEN id="token-22-4" pos="word" morph="none" start_char="852" end_char="859">daughter</TOKEN>
+        <TOKEN id="token-22-5" pos="word" morph="none" start_char="861" end_char="867">Chelsea</TOKEN>
+        <TOKEN id="token-22-6" pos="word" morph="none" start_char="869" end_char="871">and</TOKEN>
+        <TOKEN id="token-22-7" pos="word" morph="none" start_char="873" end_char="875">her</TOKEN>
+        <TOKEN id="token-22-8" pos="word" morph="none" start_char="877" end_char="883">husband</TOKEN>
+        <TOKEN id="token-22-9" pos="word" morph="none" start_char="885" end_char="888">Marc</TOKEN>
+        <TOKEN id="token-22-10" pos="word" morph="none" start_char="890" end_char="898">Mezvinsky</TOKEN>
+        <TOKEN id="token-22-11" pos="unknown" morph="none" start_char="900" end_char="900">–</TOKEN>
+        <TOKEN id="token-22-12" pos="word" morph="none" start_char="902" end_char="904">may</TOKEN>
+      </SEG>
+      <SEG id="segment-23" start_char="906" end_char="974">
+        <ORIGINAL_TEXT>yet knock those blue-stocking edges off Hillary in the eyes of the US</ORIGINAL_TEXT>
+        <TOKEN id="token-23-0" pos="word" morph="none" start_char="906" end_char="908">yet</TOKEN>
+        <TOKEN id="token-23-1" pos="word" morph="none" start_char="910" end_char="914">knock</TOKEN>
+        <TOKEN id="token-23-2" pos="word" morph="none" start_char="916" end_char="920">those</TOKEN>
+        <TOKEN id="token-23-3" pos="word" morph="none" start_char="922" end_char="925">blue</TOKEN>
+        <TOKEN id="token-23-4" pos="punct" morph="none" start_char="926" end_char="926">-</TOKEN>
+        <TOKEN id="token-23-5" pos="word" morph="none" start_char="927" end_char="934">stocking</TOKEN>
+        <TOKEN id="token-23-6" pos="word" morph="none" start_char="936" end_char="940">edges</TOKEN>
+        <TOKEN id="token-23-7" pos="word" morph="none" start_char="942" end_char="944">off</TOKEN>
+        <TOKEN id="token-23-8" pos="word" morph="none" start_char="946" end_char="952">Hillary</TOKEN>
+        <TOKEN id="token-23-9" pos="word" morph="none" start_char="954" end_char="955">in</TOKEN>
+        <TOKEN id="token-23-10" pos="word" morph="none" start_char="957" end_char="959">the</TOKEN>
+        <TOKEN id="token-23-11" pos="word" morph="none" start_char="961" end_char="964">eyes</TOKEN>
+        <TOKEN id="token-23-12" pos="word" morph="none" start_char="966" end_char="967">of</TOKEN>
+        <TOKEN id="token-23-13" pos="word" morph="none" start_char="969" end_char="971">the</TOKEN>
+        <TOKEN id="token-23-14" pos="word" morph="none" start_char="973" end_char="974">US</TOKEN>
+      </SEG>
+      <SEG id="segment-24" start_char="976" end_char="1010">
+        <ORIGINAL_TEXT>electorate. They love grandmothers.</ORIGINAL_TEXT>
+        <TOKEN id="token-24-0" pos="word" morph="none" start_char="976" end_char="985">electorate</TOKEN>
+        <TOKEN id="token-24-1" pos="punct" morph="none" start_char="986" end_char="986">.</TOKEN>
+        <TOKEN id="token-24-2" pos="word" morph="none" start_char="988" end_char="991">They</TOKEN>
+        <TOKEN id="token-24-3" pos="word" morph="none" start_char="993" end_char="996">love</TOKEN>
+        <TOKEN id="token-24-4" pos="word" morph="none" start_char="998" end_char="1009">grandmothers</TOKEN>
+        <TOKEN id="token-24-5" pos="punct" morph="none" start_char="1010" end_char="1010">.</TOKEN>
+      </SEG>
+      <SEG id="segment-25" start_char="1012" end_char="1015">
+        <ORIGINAL_TEXT>&lt;/P&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-25-0" pos="unknown" morph="none" start_char="1012" end_char="1015">&lt;/P&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-26" start_char="1017" end_char="1019">
+        <ORIGINAL_TEXT>&lt;P&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-26-0" pos="unknown" morph="none" start_char="1017" end_char="1019">&lt;P&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-27" start_char="1021" end_char="1086">
+        <ORIGINAL_TEXT>Kathleen Parker of the Washington Post wrote: “I would submit that</ORIGINAL_TEXT>
+        <TOKEN id="token-27-0" pos="word" morph="none" start_char="1021" end_char="1028">Kathleen</TOKEN>
+        <TOKEN id="token-27-1" pos="word" morph="none" start_char="1030" end_char="1035">Parker</TOKEN>
+        <TOKEN id="token-27-2" pos="word" morph="none" start_char="1037" end_char="1038">of</TOKEN>
+        <TOKEN id="token-27-3" pos="word" morph="none" start_char="1040" end_char="1042">the</TOKEN>
+        <TOKEN id="token-27-4" pos="word" morph="none" start_char="1044" end_char="1053">Washington</TOKEN>
+        <TOKEN id="token-27-5" pos="word" morph="none" start_char="1055" end_char="1058">Post</TOKEN>
+        <TOKEN id="token-27-6" pos="word" morph="none" start_char="1060" end_char="1064">wrote</TOKEN>
+        <TOKEN id="token-27-7" pos="punct" morph="none" start_char="1065" end_char="1065">:</TOKEN>
+        <TOKEN id="token-27-8" pos="punct" morph="none" start_char="1067" end_char="1067">“</TOKEN>
+        <TOKEN id="token-27-9" pos="word" morph="none" start_char="1068" end_char="1068">I</TOKEN>
+        <TOKEN id="token-27-10" pos="word" morph="none" start_char="1070" end_char="1074">would</TOKEN>
+        <TOKEN id="token-27-11" pos="word" morph="none" start_char="1076" end_char="1081">submit</TOKEN>
+        <TOKEN id="token-27-12" pos="word" morph="none" start_char="1083" end_char="1086">that</TOKEN>
+      </SEG>
+      <SEG id="segment-28" start_char="1088" end_char="1154">
+        <ORIGINAL_TEXT>Chelsea’s baby gives Hillary Clinton all the more reason to run for</ORIGINAL_TEXT>
+        <TOKEN id="token-28-0" pos="word" morph="none" start_char="1088" end_char="1094">Chelsea</TOKEN>
+        <TOKEN id="token-28-1" pos="punct" morph="none" start_char="1095" end_char="1095">’</TOKEN>
+        <TOKEN id="token-28-2" pos="word" morph="none" start_char="1096" end_char="1096">s</TOKEN>
+        <TOKEN id="token-28-3" pos="word" morph="none" start_char="1098" end_char="1101">baby</TOKEN>
+        <TOKEN id="token-28-4" pos="word" morph="none" start_char="1103" end_char="1107">gives</TOKEN>
+        <TOKEN id="token-28-5" pos="word" morph="none" start_char="1109" end_char="1115">Hillary</TOKEN>
+        <TOKEN id="token-28-6" pos="word" morph="none" start_char="1117" end_char="1123">Clinton</TOKEN>
+        <TOKEN id="token-28-7" pos="word" morph="none" start_char="1125" end_char="1127">all</TOKEN>
+        <TOKEN id="token-28-8" pos="word" morph="none" start_char="1129" end_char="1131">the</TOKEN>
+        <TOKEN id="token-28-9" pos="word" morph="none" start_char="1133" end_char="1136">more</TOKEN>
+        <TOKEN id="token-28-10" pos="word" morph="none" start_char="1138" end_char="1143">reason</TOKEN>
+        <TOKEN id="token-28-11" pos="word" morph="none" start_char="1145" end_char="1146">to</TOKEN>
+        <TOKEN id="token-28-12" pos="word" morph="none" start_char="1148" end_char="1150">run</TOKEN>
+        <TOKEN id="token-28-13" pos="word" morph="none" start_char="1152" end_char="1154">for</TOKEN>
+      </SEG>
+      <SEG id="segment-29" start_char="1156" end_char="1230">
+        <ORIGINAL_TEXT>president. She not only will want to help shape a world in which women lead</ORIGINAL_TEXT>
+        <TOKEN id="token-29-0" pos="word" morph="none" start_char="1156" end_char="1164">president</TOKEN>
+        <TOKEN id="token-29-1" pos="punct" morph="none" start_char="1165" end_char="1165">.</TOKEN>
+        <TOKEN id="token-29-2" pos="word" morph="none" start_char="1167" end_char="1169">She</TOKEN>
+        <TOKEN id="token-29-3" pos="word" morph="none" start_char="1171" end_char="1173">not</TOKEN>
+        <TOKEN id="token-29-4" pos="word" morph="none" start_char="1175" end_char="1178">only</TOKEN>
+        <TOKEN id="token-29-5" pos="word" morph="none" start_char="1180" end_char="1183">will</TOKEN>
+        <TOKEN id="token-29-6" pos="word" morph="none" start_char="1185" end_char="1188">want</TOKEN>
+        <TOKEN id="token-29-7" pos="word" morph="none" start_char="1190" end_char="1191">to</TOKEN>
+        <TOKEN id="token-29-8" pos="word" morph="none" start_char="1193" end_char="1196">help</TOKEN>
+        <TOKEN id="token-29-9" pos="word" morph="none" start_char="1198" end_char="1202">shape</TOKEN>
+        <TOKEN id="token-29-10" pos="word" morph="none" start_char="1204" end_char="1204">a</TOKEN>
+        <TOKEN id="token-29-11" pos="word" morph="none" start_char="1206" end_char="1210">world</TOKEN>
+        <TOKEN id="token-29-12" pos="word" morph="none" start_char="1212" end_char="1213">in</TOKEN>
+        <TOKEN id="token-29-13" pos="word" morph="none" start_char="1215" end_char="1219">which</TOKEN>
+        <TOKEN id="token-29-14" pos="word" morph="none" start_char="1221" end_char="1225">women</TOKEN>
+        <TOKEN id="token-29-15" pos="word" morph="none" start_char="1227" end_char="1230">lead</TOKEN>
+      </SEG>
+      <SEG id="segment-30" start_char="1232" end_char="1305">
+        <ORIGINAL_TEXT>nations but also one in which babies and grandmotherhood are celebrated as</ORIGINAL_TEXT>
+        <TOKEN id="token-30-0" pos="word" morph="none" start_char="1232" end_char="1238">nations</TOKEN>
+        <TOKEN id="token-30-1" pos="word" morph="none" start_char="1240" end_char="1242">but</TOKEN>
+        <TOKEN id="token-30-2" pos="word" morph="none" start_char="1244" end_char="1247">also</TOKEN>
+        <TOKEN id="token-30-3" pos="word" morph="none" start_char="1249" end_char="1251">one</TOKEN>
+        <TOKEN id="token-30-4" pos="word" morph="none" start_char="1253" end_char="1254">in</TOKEN>
+        <TOKEN id="token-30-5" pos="word" morph="none" start_char="1256" end_char="1260">which</TOKEN>
+        <TOKEN id="token-30-6" pos="word" morph="none" start_char="1262" end_char="1267">babies</TOKEN>
+        <TOKEN id="token-30-7" pos="word" morph="none" start_char="1269" end_char="1271">and</TOKEN>
+        <TOKEN id="token-30-8" pos="word" morph="none" start_char="1273" end_char="1287">grandmotherhood</TOKEN>
+        <TOKEN id="token-30-9" pos="word" morph="none" start_char="1289" end_char="1291">are</TOKEN>
+        <TOKEN id="token-30-10" pos="word" morph="none" start_char="1293" end_char="1302">celebrated</TOKEN>
+        <TOKEN id="token-30-11" pos="word" morph="none" start_char="1304" end_char="1305">as</TOKEN>
+      </SEG>
+      <SEG id="segment-31" start_char="1307" end_char="1333">
+        <ORIGINAL_TEXT>integral to women’s lives.”</ORIGINAL_TEXT>
+        <TOKEN id="token-31-0" pos="word" morph="none" start_char="1307" end_char="1314">integral</TOKEN>
+        <TOKEN id="token-31-1" pos="word" morph="none" start_char="1316" end_char="1317">to</TOKEN>
+        <TOKEN id="token-31-2" pos="word" morph="none" start_char="1319" end_char="1323">women</TOKEN>
+        <TOKEN id="token-31-3" pos="punct" morph="none" start_char="1324" end_char="1324">’</TOKEN>
+        <TOKEN id="token-31-4" pos="word" morph="none" start_char="1325" end_char="1325">s</TOKEN>
+        <TOKEN id="token-31-5" pos="word" morph="none" start_char="1327" end_char="1331">lives</TOKEN>
+        <TOKEN id="token-31-6" pos="punct" morph="none" start_char="1332" end_char="1333">.”</TOKEN>
+      </SEG>
+      <SEG id="segment-32" start_char="1335" end_char="1338">
+        <ORIGINAL_TEXT>&lt;/P&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-32-0" pos="unknown" morph="none" start_char="1335" end_char="1338">&lt;/P&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-33" start_char="1340" end_char="1342">
+        <ORIGINAL_TEXT>&lt;P&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-33-0" pos="unknown" morph="none" start_char="1340" end_char="1342">&lt;P&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-34" start_char="1344" end_char="1420">
+        <ORIGINAL_TEXT>Meanwhile, to misquote our own first woman president Mary Robinson, this week</ORIGINAL_TEXT>
+        <TOKEN id="token-34-0" pos="word" morph="none" start_char="1344" end_char="1352">Meanwhile</TOKEN>
+        <TOKEN id="token-34-1" pos="punct" morph="none" start_char="1353" end_char="1353">,</TOKEN>
+        <TOKEN id="token-34-2" pos="word" morph="none" start_char="1355" end_char="1356">to</TOKEN>
+        <TOKEN id="token-34-3" pos="word" morph="none" start_char="1358" end_char="1365">misquote</TOKEN>
+        <TOKEN id="token-34-4" pos="word" morph="none" start_char="1367" end_char="1369">our</TOKEN>
+        <TOKEN id="token-34-5" pos="word" morph="none" start_char="1371" end_char="1373">own</TOKEN>
+        <TOKEN id="token-34-6" pos="word" morph="none" start_char="1375" end_char="1379">first</TOKEN>
+        <TOKEN id="token-34-7" pos="word" morph="none" start_char="1381" end_char="1385">woman</TOKEN>
+        <TOKEN id="token-34-8" pos="word" morph="none" start_char="1387" end_char="1395">president</TOKEN>
+        <TOKEN id="token-34-9" pos="word" morph="none" start_char="1397" end_char="1400">Mary</TOKEN>
+        <TOKEN id="token-34-10" pos="word" morph="none" start_char="1402" end_char="1409">Robinson</TOKEN>
+        <TOKEN id="token-34-11" pos="punct" morph="none" start_char="1410" end_char="1410">,</TOKEN>
+        <TOKEN id="token-34-12" pos="word" morph="none" start_char="1412" end_char="1415">this</TOKEN>
+        <TOKEN id="token-34-13" pos="word" morph="none" start_char="1417" end_char="1420">week</TOKEN>
+      </SEG>
+      <SEG id="segment-35" start_char="1422" end_char="1492">
+        <ORIGINAL_TEXT>we found out that in Ireland the hands that rocked the cradle are still</ORIGINAL_TEXT>
+        <TOKEN id="token-35-0" pos="word" morph="none" start_char="1422" end_char="1423">we</TOKEN>
+        <TOKEN id="token-35-1" pos="word" morph="none" start_char="1425" end_char="1429">found</TOKEN>
+        <TOKEN id="token-35-2" pos="word" morph="none" start_char="1431" end_char="1433">out</TOKEN>
+        <TOKEN id="token-35-3" pos="word" morph="none" start_char="1435" end_char="1438">that</TOKEN>
+        <TOKEN id="token-35-4" pos="word" morph="none" start_char="1440" end_char="1441">in</TOKEN>
+        <TOKEN id="token-35-5" pos="word" morph="none" start_char="1443" end_char="1449">Ireland</TOKEN>
+        <TOKEN id="token-35-6" pos="word" morph="none" start_char="1451" end_char="1453">the</TOKEN>
+        <TOKEN id="token-35-7" pos="word" morph="none" start_char="1455" end_char="1459">hands</TOKEN>
+        <TOKEN id="token-35-8" pos="word" morph="none" start_char="1461" end_char="1464">that</TOKEN>
+        <TOKEN id="token-35-9" pos="word" morph="none" start_char="1466" end_char="1471">rocked</TOKEN>
+        <TOKEN id="token-35-10" pos="word" morph="none" start_char="1473" end_char="1475">the</TOKEN>
+        <TOKEN id="token-35-11" pos="word" morph="none" start_char="1477" end_char="1482">cradle</TOKEN>
+        <TOKEN id="token-35-12" pos="word" morph="none" start_char="1484" end_char="1486">are</TOKEN>
+        <TOKEN id="token-35-13" pos="word" morph="none" start_char="1488" end_char="1492">still</TOKEN>
+      </SEG>
+      <SEG id="segment-36" start_char="1494" end_char="1569">
+        <ORIGINAL_TEXT>rocking it. The Irish Times/Ipsos MRBI Family Values poll found grandparents</ORIGINAL_TEXT>
+        <TOKEN id="token-36-0" pos="word" morph="none" start_char="1494" end_char="1500">rocking</TOKEN>
+        <TOKEN id="token-36-1" pos="word" morph="none" start_char="1502" end_char="1503">it</TOKEN>
+        <TOKEN id="token-36-2" pos="punct" morph="none" start_char="1504" end_char="1504">.</TOKEN>
+        <TOKEN id="token-36-3" pos="word" morph="none" start_char="1506" end_char="1508">The</TOKEN>
+        <TOKEN id="token-36-4" pos="word" morph="none" start_char="1510" end_char="1514">Irish</TOKEN>
+        <TOKEN id="token-36-5" pos="word" morph="none" start_char="1516" end_char="1520">Times</TOKEN>
+        <TOKEN id="token-36-6" pos="punct" morph="none" start_char="1521" end_char="1521">/</TOKEN>
+        <TOKEN id="token-36-7" pos="word" morph="none" start_char="1522" end_char="1526">Ipsos</TOKEN>
+        <TOKEN id="token-36-8" pos="word" morph="none" start_char="1528" end_char="1531">MRBI</TOKEN>
+        <TOKEN id="token-36-9" pos="word" morph="none" start_char="1533" end_char="1538">Family</TOKEN>
+        <TOKEN id="token-36-10" pos="word" morph="none" start_char="1540" end_char="1545">Values</TOKEN>
+        <TOKEN id="token-36-11" pos="word" morph="none" start_char="1547" end_char="1550">poll</TOKEN>
+        <TOKEN id="token-36-12" pos="word" morph="none" start_char="1552" end_char="1556">found</TOKEN>
+        <TOKEN id="token-36-13" pos="word" morph="none" start_char="1558" end_char="1569">grandparents</TOKEN>
+      </SEG>
+      <SEG id="segment-37" start_char="1571" end_char="1648">
+        <ORIGINAL_TEXT>are the most popular source of childcare for working parents, providing nearly</ORIGINAL_TEXT>
+        <TOKEN id="token-37-0" pos="word" morph="none" start_char="1571" end_char="1573">are</TOKEN>
+        <TOKEN id="token-37-1" pos="word" morph="none" start_char="1575" end_char="1577">the</TOKEN>
+        <TOKEN id="token-37-2" pos="word" morph="none" start_char="1579" end_char="1582">most</TOKEN>
+        <TOKEN id="token-37-3" pos="word" morph="none" start_char="1584" end_char="1590">popular</TOKEN>
+        <TOKEN id="token-37-4" pos="word" morph="none" start_char="1592" end_char="1597">source</TOKEN>
+        <TOKEN id="token-37-5" pos="word" morph="none" start_char="1599" end_char="1600">of</TOKEN>
+        <TOKEN id="token-37-6" pos="word" morph="none" start_char="1602" end_char="1610">childcare</TOKEN>
+        <TOKEN id="token-37-7" pos="word" morph="none" start_char="1612" end_char="1614">for</TOKEN>
+        <TOKEN id="token-37-8" pos="word" morph="none" start_char="1616" end_char="1622">working</TOKEN>
+        <TOKEN id="token-37-9" pos="word" morph="none" start_char="1624" end_char="1630">parents</TOKEN>
+        <TOKEN id="token-37-10" pos="punct" morph="none" start_char="1631" end_char="1631">,</TOKEN>
+        <TOKEN id="token-37-11" pos="word" morph="none" start_char="1633" end_char="1641">providing</TOKEN>
+        <TOKEN id="token-37-12" pos="word" morph="none" start_char="1643" end_char="1648">nearly</TOKEN>
+      </SEG>
+      <SEG id="segment-38" start_char="1650" end_char="1723">
+        <ORIGINAL_TEXT>half of it. There was no gender breakdown of “grandparents” in the survey.</ORIGINAL_TEXT>
+        <TOKEN id="token-38-0" pos="word" morph="none" start_char="1650" end_char="1653">half</TOKEN>
+        <TOKEN id="token-38-1" pos="word" morph="none" start_char="1655" end_char="1656">of</TOKEN>
+        <TOKEN id="token-38-2" pos="word" morph="none" start_char="1658" end_char="1659">it</TOKEN>
+        <TOKEN id="token-38-3" pos="punct" morph="none" start_char="1660" end_char="1660">.</TOKEN>
+        <TOKEN id="token-38-4" pos="word" morph="none" start_char="1662" end_char="1666">There</TOKEN>
+        <TOKEN id="token-38-5" pos="word" morph="none" start_char="1668" end_char="1670">was</TOKEN>
+        <TOKEN id="token-38-6" pos="word" morph="none" start_char="1672" end_char="1673">no</TOKEN>
+        <TOKEN id="token-38-7" pos="word" morph="none" start_char="1675" end_char="1680">gender</TOKEN>
+        <TOKEN id="token-38-8" pos="word" morph="none" start_char="1682" end_char="1690">breakdown</TOKEN>
+        <TOKEN id="token-38-9" pos="word" morph="none" start_char="1692" end_char="1693">of</TOKEN>
+        <TOKEN id="token-38-10" pos="punct" morph="none" start_char="1695" end_char="1695">“</TOKEN>
+        <TOKEN id="token-38-11" pos="word" morph="none" start_char="1696" end_char="1707">grandparents</TOKEN>
+        <TOKEN id="token-38-12" pos="punct" morph="none" start_char="1708" end_char="1708">”</TOKEN>
+        <TOKEN id="token-38-13" pos="word" morph="none" start_char="1710" end_char="1711">in</TOKEN>
+        <TOKEN id="token-38-14" pos="word" morph="none" start_char="1713" end_char="1715">the</TOKEN>
+        <TOKEN id="token-38-15" pos="word" morph="none" start_char="1717" end_char="1722">survey</TOKEN>
+        <TOKEN id="token-38-16" pos="punct" morph="none" start_char="1723" end_char="1723">.</TOKEN>
+      </SEG>
+      <SEG id="segment-39" start_char="1725" end_char="1789">
+        <ORIGINAL_TEXT>Respondents were not asked if “granny” or “granddad” minded their</ORIGINAL_TEXT>
+        <TOKEN id="token-39-0" pos="word" morph="none" start_char="1725" end_char="1735">Respondents</TOKEN>
+        <TOKEN id="token-39-1" pos="word" morph="none" start_char="1737" end_char="1740">were</TOKEN>
+        <TOKEN id="token-39-2" pos="word" morph="none" start_char="1742" end_char="1744">not</TOKEN>
+        <TOKEN id="token-39-3" pos="word" morph="none" start_char="1746" end_char="1750">asked</TOKEN>
+        <TOKEN id="token-39-4" pos="word" morph="none" start_char="1752" end_char="1753">if</TOKEN>
+        <TOKEN id="token-39-5" pos="punct" morph="none" start_char="1755" end_char="1755">“</TOKEN>
+        <TOKEN id="token-39-6" pos="word" morph="none" start_char="1756" end_char="1761">granny</TOKEN>
+        <TOKEN id="token-39-7" pos="punct" morph="none" start_char="1762" end_char="1762">”</TOKEN>
+        <TOKEN id="token-39-8" pos="word" morph="none" start_char="1764" end_char="1765">or</TOKEN>
+        <TOKEN id="token-39-9" pos="punct" morph="none" start_char="1767" end_char="1767">“</TOKEN>
+        <TOKEN id="token-39-10" pos="word" morph="none" start_char="1768" end_char="1775">granddad</TOKEN>
+        <TOKEN id="token-39-11" pos="punct" morph="none" start_char="1776" end_char="1776">”</TOKEN>
+        <TOKEN id="token-39-12" pos="word" morph="none" start_char="1778" end_char="1783">minded</TOKEN>
+        <TOKEN id="token-39-13" pos="word" morph="none" start_char="1785" end_char="1789">their</TOKEN>
+      </SEG>
+      <SEG id="segment-40" start_char="1791" end_char="1804">
+        <ORIGINAL_TEXT>grandchildren.</ORIGINAL_TEXT>
+        <TOKEN id="token-40-0" pos="word" morph="none" start_char="1791" end_char="1803">grandchildren</TOKEN>
+        <TOKEN id="token-40-1" pos="punct" morph="none" start_char="1804" end_char="1804">.</TOKEN>
+      </SEG>
+      <SEG id="segment-41" start_char="1806" end_char="1809">
+        <ORIGINAL_TEXT>&lt;/P&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-41-0" pos="unknown" morph="none" start_char="1806" end_char="1809">&lt;/P&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-42" start_char="1811" end_char="1813">
+        <ORIGINAL_TEXT>&lt;P&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-42-0" pos="unknown" morph="none" start_char="1811" end_char="1813">&lt;P&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-43" start_char="1815" end_char="1890">
+        <ORIGINAL_TEXT>For anyone getting dangerously close to that grandmothering juncture, things</ORIGINAL_TEXT>
+        <TOKEN id="token-43-0" pos="word" morph="none" start_char="1815" end_char="1817">For</TOKEN>
+        <TOKEN id="token-43-1" pos="word" morph="none" start_char="1819" end_char="1824">anyone</TOKEN>
+        <TOKEN id="token-43-2" pos="word" morph="none" start_char="1826" end_char="1832">getting</TOKEN>
+        <TOKEN id="token-43-3" pos="word" morph="none" start_char="1834" end_char="1844">dangerously</TOKEN>
+        <TOKEN id="token-43-4" pos="word" morph="none" start_char="1846" end_char="1850">close</TOKEN>
+        <TOKEN id="token-43-5" pos="word" morph="none" start_char="1852" end_char="1853">to</TOKEN>
+        <TOKEN id="token-43-6" pos="word" morph="none" start_char="1855" end_char="1858">that</TOKEN>
+        <TOKEN id="token-43-7" pos="word" morph="none" start_char="1860" end_char="1873">grandmothering</TOKEN>
+        <TOKEN id="token-43-8" pos="word" morph="none" start_char="1875" end_char="1882">juncture</TOKEN>
+        <TOKEN id="token-43-9" pos="punct" morph="none" start_char="1883" end_char="1883">,</TOKEN>
+        <TOKEN id="token-43-10" pos="word" morph="none" start_char="1885" end_char="1890">things</TOKEN>
+      </SEG>
+      <SEG id="segment-44" start_char="1892" end_char="1966">
+        <ORIGINAL_TEXT>are not looking simple. Unlike Hillary Clinton, few of us are contemplating</ORIGINAL_TEXT>
+        <TOKEN id="token-44-0" pos="word" morph="none" start_char="1892" end_char="1894">are</TOKEN>
+        <TOKEN id="token-44-1" pos="word" morph="none" start_char="1896" end_char="1898">not</TOKEN>
+        <TOKEN id="token-44-2" pos="word" morph="none" start_char="1900" end_char="1906">looking</TOKEN>
+        <TOKEN id="token-44-3" pos="word" morph="none" start_char="1908" end_char="1913">simple</TOKEN>
+        <TOKEN id="token-44-4" pos="punct" morph="none" start_char="1914" end_char="1914">.</TOKEN>
+        <TOKEN id="token-44-5" pos="word" morph="none" start_char="1916" end_char="1921">Unlike</TOKEN>
+        <TOKEN id="token-44-6" pos="word" morph="none" start_char="1923" end_char="1929">Hillary</TOKEN>
+        <TOKEN id="token-44-7" pos="word" morph="none" start_char="1931" end_char="1937">Clinton</TOKEN>
+        <TOKEN id="token-44-8" pos="punct" morph="none" start_char="1938" end_char="1938">,</TOKEN>
+        <TOKEN id="token-44-9" pos="word" morph="none" start_char="1940" end_char="1942">few</TOKEN>
+        <TOKEN id="token-44-10" pos="word" morph="none" start_char="1944" end_char="1945">of</TOKEN>
+        <TOKEN id="token-44-11" pos="word" morph="none" start_char="1947" end_char="1948">us</TOKEN>
+        <TOKEN id="token-44-12" pos="word" morph="none" start_char="1950" end_char="1952">are</TOKEN>
+        <TOKEN id="token-44-13" pos="word" morph="none" start_char="1954" end_char="1966">contemplating</TOKEN>
+      </SEG>
+      <SEG id="segment-45" start_char="1968" end_char="2045">
+        <ORIGINAL_TEXT>running a humongous country. Like Clinton, many of us have a lot done, more to</ORIGINAL_TEXT>
+        <TOKEN id="token-45-0" pos="word" morph="none" start_char="1968" end_char="1974">running</TOKEN>
+        <TOKEN id="token-45-1" pos="word" morph="none" start_char="1976" end_char="1976">a</TOKEN>
+        <TOKEN id="token-45-2" pos="word" morph="none" start_char="1978" end_char="1986">humongous</TOKEN>
+        <TOKEN id="token-45-3" pos="word" morph="none" start_char="1988" end_char="1994">country</TOKEN>
+        <TOKEN id="token-45-4" pos="punct" morph="none" start_char="1995" end_char="1995">.</TOKEN>
+        <TOKEN id="token-45-5" pos="word" morph="none" start_char="1997" end_char="2000">Like</TOKEN>
+        <TOKEN id="token-45-6" pos="word" morph="none" start_char="2002" end_char="2008">Clinton</TOKEN>
+        <TOKEN id="token-45-7" pos="punct" morph="none" start_char="2009" end_char="2009">,</TOKEN>
+        <TOKEN id="token-45-8" pos="word" morph="none" start_char="2011" end_char="2014">many</TOKEN>
+        <TOKEN id="token-45-9" pos="word" morph="none" start_char="2016" end_char="2017">of</TOKEN>
+        <TOKEN id="token-45-10" pos="word" morph="none" start_char="2019" end_char="2020">us</TOKEN>
+        <TOKEN id="token-45-11" pos="word" morph="none" start_char="2022" end_char="2025">have</TOKEN>
+        <TOKEN id="token-45-12" pos="word" morph="none" start_char="2027" end_char="2027">a</TOKEN>
+        <TOKEN id="token-45-13" pos="word" morph="none" start_char="2029" end_char="2031">lot</TOKEN>
+        <TOKEN id="token-45-14" pos="word" morph="none" start_char="2033" end_char="2036">done</TOKEN>
+        <TOKEN id="token-45-15" pos="punct" morph="none" start_char="2037" end_char="2037">,</TOKEN>
+        <TOKEN id="token-45-16" pos="word" morph="none" start_char="2039" end_char="2042">more</TOKEN>
+        <TOKEN id="token-45-17" pos="word" morph="none" start_char="2044" end_char="2045">to</TOKEN>
+      </SEG>
+      <SEG id="segment-46" start_char="2047" end_char="2049">
+        <ORIGINAL_TEXT>do.</ORIGINAL_TEXT>
+        <TOKEN id="token-46-0" pos="word" morph="none" start_char="2047" end_char="2048">do</TOKEN>
+        <TOKEN id="token-46-1" pos="punct" morph="none" start_char="2049" end_char="2049">.</TOKEN>
+      </SEG>
+      <SEG id="segment-47" start_char="2051" end_char="2054">
+        <ORIGINAL_TEXT>&lt;/P&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-47-0" pos="unknown" morph="none" start_char="2051" end_char="2054">&lt;/P&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-48" start_char="2056" end_char="2058">
+        <ORIGINAL_TEXT>&lt;P&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-48-0" pos="unknown" morph="none" start_char="2056" end_char="2058">&lt;P&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-49" start_char="2060" end_char="2131">
+        <ORIGINAL_TEXT>We might be making some cash working at a supermarket checkout, teaching</ORIGINAL_TEXT>
+        <TOKEN id="token-49-0" pos="word" morph="none" start_char="2060" end_char="2061">We</TOKEN>
+        <TOKEN id="token-49-1" pos="word" morph="none" start_char="2063" end_char="2067">might</TOKEN>
+        <TOKEN id="token-49-2" pos="word" morph="none" start_char="2069" end_char="2070">be</TOKEN>
+        <TOKEN id="token-49-3" pos="word" morph="none" start_char="2072" end_char="2077">making</TOKEN>
+        <TOKEN id="token-49-4" pos="word" morph="none" start_char="2079" end_char="2082">some</TOKEN>
+        <TOKEN id="token-49-5" pos="word" morph="none" start_char="2084" end_char="2087">cash</TOKEN>
+        <TOKEN id="token-49-6" pos="word" morph="none" start_char="2089" end_char="2095">working</TOKEN>
+        <TOKEN id="token-49-7" pos="word" morph="none" start_char="2097" end_char="2098">at</TOKEN>
+        <TOKEN id="token-49-8" pos="word" morph="none" start_char="2100" end_char="2100">a</TOKEN>
+        <TOKEN id="token-49-9" pos="word" morph="none" start_char="2102" end_char="2112">supermarket</TOKEN>
+        <TOKEN id="token-49-10" pos="word" morph="none" start_char="2114" end_char="2121">checkout</TOKEN>
+        <TOKEN id="token-49-11" pos="punct" morph="none" start_char="2122" end_char="2122">,</TOKEN>
+        <TOKEN id="token-49-12" pos="word" morph="none" start_char="2124" end_char="2131">teaching</TOKEN>
+      </SEG>
+      <SEG id="segment-50" start_char="2133" end_char="2203">
+        <ORIGINAL_TEXT>people Spanish verbs or writing articles about cross-generational care.</ORIGINAL_TEXT>
+        <TOKEN id="token-50-0" pos="word" morph="none" start_char="2133" end_char="2138">people</TOKEN>
+        <TOKEN id="token-50-1" pos="word" morph="none" start_char="2140" end_char="2146">Spanish</TOKEN>
+        <TOKEN id="token-50-2" pos="word" morph="none" start_char="2148" end_char="2152">verbs</TOKEN>
+        <TOKEN id="token-50-3" pos="word" morph="none" start_char="2154" end_char="2155">or</TOKEN>
+        <TOKEN id="token-50-4" pos="word" morph="none" start_char="2157" end_char="2163">writing</TOKEN>
+        <TOKEN id="token-50-5" pos="word" morph="none" start_char="2165" end_char="2172">articles</TOKEN>
+        <TOKEN id="token-50-6" pos="word" morph="none" start_char="2174" end_char="2178">about</TOKEN>
+        <TOKEN id="token-50-7" pos="word" morph="none" start_char="2180" end_char="2184">cross</TOKEN>
+        <TOKEN id="token-50-8" pos="punct" morph="none" start_char="2185" end_char="2185">-</TOKEN>
+        <TOKEN id="token-50-9" pos="word" morph="none" start_char="2186" end_char="2197">generational</TOKEN>
+        <TOKEN id="token-50-10" pos="word" morph="none" start_char="2199" end_char="2202">care</TOKEN>
+        <TOKEN id="token-50-11" pos="punct" morph="none" start_char="2203" end_char="2203">.</TOKEN>
+      </SEG>
+      <SEG id="segment-51" start_char="2205" end_char="2254">
+        <ORIGINAL_TEXT>Whatever we are up to, we are actually quite busy.</ORIGINAL_TEXT>
+        <TOKEN id="token-51-0" pos="word" morph="none" start_char="2205" end_char="2212">Whatever</TOKEN>
+        <TOKEN id="token-51-1" pos="word" morph="none" start_char="2214" end_char="2215">we</TOKEN>
+        <TOKEN id="token-51-2" pos="word" morph="none" start_char="2217" end_char="2219">are</TOKEN>
+        <TOKEN id="token-51-3" pos="word" morph="none" start_char="2221" end_char="2222">up</TOKEN>
+        <TOKEN id="token-51-4" pos="word" morph="none" start_char="2224" end_char="2225">to</TOKEN>
+        <TOKEN id="token-51-5" pos="punct" morph="none" start_char="2226" end_char="2226">,</TOKEN>
+        <TOKEN id="token-51-6" pos="word" morph="none" start_char="2228" end_char="2229">we</TOKEN>
+        <TOKEN id="token-51-7" pos="word" morph="none" start_char="2231" end_char="2233">are</TOKEN>
+        <TOKEN id="token-51-8" pos="word" morph="none" start_char="2235" end_char="2242">actually</TOKEN>
+        <TOKEN id="token-51-9" pos="word" morph="none" start_char="2244" end_char="2248">quite</TOKEN>
+        <TOKEN id="token-51-10" pos="word" morph="none" start_char="2250" end_char="2253">busy</TOKEN>
+        <TOKEN id="token-51-11" pos="punct" morph="none" start_char="2254" end_char="2254">.</TOKEN>
+      </SEG>
+      <SEG id="segment-52" start_char="2256" end_char="2259">
+        <ORIGINAL_TEXT>&lt;/P&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-52-0" pos="unknown" morph="none" start_char="2256" end_char="2259">&lt;/P&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-53" start_char="2261" end_char="2263">
+        <ORIGINAL_TEXT>&lt;P&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-53-0" pos="unknown" morph="none" start_char="2261" end_char="2263">&lt;P&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-54" start_char="2265" end_char="2338">
+        <ORIGINAL_TEXT>Should women d’un certain age give everything up to mind their kids’ kids?</ORIGINAL_TEXT>
+        <TOKEN id="token-54-0" pos="word" morph="none" start_char="2265" end_char="2270">Should</TOKEN>
+        <TOKEN id="token-54-1" pos="word" morph="none" start_char="2272" end_char="2276">women</TOKEN>
+        <TOKEN id="token-54-2" pos="word" morph="none" start_char="2278" end_char="2278">d</TOKEN>
+        <TOKEN id="token-54-3" pos="punct" morph="none" start_char="2279" end_char="2279">’</TOKEN>
+        <TOKEN id="token-54-4" pos="word" morph="none" start_char="2280" end_char="2281">un</TOKEN>
+        <TOKEN id="token-54-5" pos="word" morph="none" start_char="2283" end_char="2289">certain</TOKEN>
+        <TOKEN id="token-54-6" pos="word" morph="none" start_char="2291" end_char="2293">age</TOKEN>
+        <TOKEN id="token-54-7" pos="word" morph="none" start_char="2295" end_char="2298">give</TOKEN>
+        <TOKEN id="token-54-8" pos="word" morph="none" start_char="2300" end_char="2309">everything</TOKEN>
+        <TOKEN id="token-54-9" pos="word" morph="none" start_char="2311" end_char="2312">up</TOKEN>
+        <TOKEN id="token-54-10" pos="word" morph="none" start_char="2314" end_char="2315">to</TOKEN>
+        <TOKEN id="token-54-11" pos="word" morph="none" start_char="2317" end_char="2320">mind</TOKEN>
+        <TOKEN id="token-54-12" pos="word" morph="none" start_char="2322" end_char="2326">their</TOKEN>
+        <TOKEN id="token-54-13" pos="word" morph="none" start_char="2328" end_char="2331">kids</TOKEN>
+        <TOKEN id="token-54-14" pos="punct" morph="none" start_char="2332" end_char="2332">’</TOKEN>
+        <TOKEN id="token-54-15" pos="word" morph="none" start_char="2334" end_char="2337">kids</TOKEN>
+        <TOKEN id="token-54-16" pos="punct" morph="none" start_char="2338" end_char="2338">?</TOKEN>
+      </SEG>
+      <SEG id="segment-55" start_char="2340" end_char="2413">
+        <ORIGINAL_TEXT>Does being a good granny mean giving up the second half of your life, like</ORIGINAL_TEXT>
+        <TOKEN id="token-55-0" pos="word" morph="none" start_char="2340" end_char="2343">Does</TOKEN>
+        <TOKEN id="token-55-1" pos="word" morph="none" start_char="2345" end_char="2349">being</TOKEN>
+        <TOKEN id="token-55-2" pos="word" morph="none" start_char="2351" end_char="2351">a</TOKEN>
+        <TOKEN id="token-55-3" pos="word" morph="none" start_char="2353" end_char="2356">good</TOKEN>
+        <TOKEN id="token-55-4" pos="word" morph="none" start_char="2358" end_char="2363">granny</TOKEN>
+        <TOKEN id="token-55-5" pos="word" morph="none" start_char="2365" end_char="2368">mean</TOKEN>
+        <TOKEN id="token-55-6" pos="word" morph="none" start_char="2370" end_char="2375">giving</TOKEN>
+        <TOKEN id="token-55-7" pos="word" morph="none" start_char="2377" end_char="2378">up</TOKEN>
+        <TOKEN id="token-55-8" pos="word" morph="none" start_char="2380" end_char="2382">the</TOKEN>
+        <TOKEN id="token-55-9" pos="word" morph="none" start_char="2384" end_char="2389">second</TOKEN>
+        <TOKEN id="token-55-10" pos="word" morph="none" start_char="2391" end_char="2394">half</TOKEN>
+        <TOKEN id="token-55-11" pos="word" morph="none" start_char="2396" end_char="2397">of</TOKEN>
+        <TOKEN id="token-55-12" pos="word" morph="none" start_char="2399" end_char="2402">your</TOKEN>
+        <TOKEN id="token-55-13" pos="word" morph="none" start_char="2404" end_char="2407">life</TOKEN>
+        <TOKEN id="token-55-14" pos="punct" morph="none" start_char="2408" end_char="2408">,</TOKEN>
+        <TOKEN id="token-55-15" pos="word" morph="none" start_char="2410" end_char="2413">like</TOKEN>
+      </SEG>
+      <SEG id="segment-56" start_char="2415" end_char="2440">
+        <ORIGINAL_TEXT>some of you did the first?</ORIGINAL_TEXT>
+        <TOKEN id="token-56-0" pos="word" morph="none" start_char="2415" end_char="2418">some</TOKEN>
+        <TOKEN id="token-56-1" pos="word" morph="none" start_char="2420" end_char="2421">of</TOKEN>
+        <TOKEN id="token-56-2" pos="word" morph="none" start_char="2423" end_char="2425">you</TOKEN>
+        <TOKEN id="token-56-3" pos="word" morph="none" start_char="2427" end_char="2429">did</TOKEN>
+        <TOKEN id="token-56-4" pos="word" morph="none" start_char="2431" end_char="2433">the</TOKEN>
+        <TOKEN id="token-56-5" pos="word" morph="none" start_char="2435" end_char="2439">first</TOKEN>
+        <TOKEN id="token-56-6" pos="punct" morph="none" start_char="2440" end_char="2440">?</TOKEN>
+      </SEG>
+      <SEG id="segment-57" start_char="2442" end_char="2445">
+        <ORIGINAL_TEXT>&lt;/P&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-57-0" pos="unknown" morph="none" start_char="2442" end_char="2445">&lt;/P&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-58" start_char="2447" end_char="2449">
+        <ORIGINAL_TEXT>&lt;P&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-58-0" pos="unknown" morph="none" start_char="2447" end_char="2449">&lt;P&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-59" start_char="2451" end_char="2523">
+        <ORIGINAL_TEXT>Former US president Bill Clinton has suggested his wife would rather be a</ORIGINAL_TEXT>
+        <TOKEN id="token-59-0" pos="word" morph="none" start_char="2451" end_char="2456">Former</TOKEN>
+        <TOKEN id="token-59-1" pos="word" morph="none" start_char="2458" end_char="2459">US</TOKEN>
+        <TOKEN id="token-59-2" pos="word" morph="none" start_char="2461" end_char="2469">president</TOKEN>
+        <TOKEN id="token-59-3" pos="word" morph="none" start_char="2471" end_char="2474">Bill</TOKEN>
+        <TOKEN id="token-59-4" pos="word" morph="none" start_char="2476" end_char="2482">Clinton</TOKEN>
+        <TOKEN id="token-59-5" pos="word" morph="none" start_char="2484" end_char="2486">has</TOKEN>
+        <TOKEN id="token-59-6" pos="word" morph="none" start_char="2488" end_char="2496">suggested</TOKEN>
+        <TOKEN id="token-59-7" pos="word" morph="none" start_char="2498" end_char="2500">his</TOKEN>
+        <TOKEN id="token-59-8" pos="word" morph="none" start_char="2502" end_char="2505">wife</TOKEN>
+        <TOKEN id="token-59-9" pos="word" morph="none" start_char="2507" end_char="2511">would</TOKEN>
+        <TOKEN id="token-59-10" pos="word" morph="none" start_char="2513" end_char="2518">rather</TOKEN>
+        <TOKEN id="token-59-11" pos="word" morph="none" start_char="2520" end_char="2521">be</TOKEN>
+        <TOKEN id="token-59-12" pos="word" morph="none" start_char="2523" end_char="2523">a</TOKEN>
+      </SEG>
+      <SEG id="segment-60" start_char="2525" end_char="2597">
+        <ORIGINAL_TEXT>grandma than a president. Talking to CBS News last year, he said: “If you</ORIGINAL_TEXT>
+        <TOKEN id="token-60-0" pos="word" morph="none" start_char="2525" end_char="2531">grandma</TOKEN>
+        <TOKEN id="token-60-1" pos="word" morph="none" start_char="2533" end_char="2536">than</TOKEN>
+        <TOKEN id="token-60-2" pos="word" morph="none" start_char="2538" end_char="2538">a</TOKEN>
+        <TOKEN id="token-60-3" pos="word" morph="none" start_char="2540" end_char="2548">president</TOKEN>
+        <TOKEN id="token-60-4" pos="punct" morph="none" start_char="2549" end_char="2549">.</TOKEN>
+        <TOKEN id="token-60-5" pos="word" morph="none" start_char="2551" end_char="2557">Talking</TOKEN>
+        <TOKEN id="token-60-6" pos="word" morph="none" start_char="2559" end_char="2560">to</TOKEN>
+        <TOKEN id="token-60-7" pos="word" morph="none" start_char="2562" end_char="2564">CBS</TOKEN>
+        <TOKEN id="token-60-8" pos="word" morph="none" start_char="2566" end_char="2569">News</TOKEN>
+        <TOKEN id="token-60-9" pos="word" morph="none" start_char="2571" end_char="2574">last</TOKEN>
+        <TOKEN id="token-60-10" pos="word" morph="none" start_char="2576" end_char="2579">year</TOKEN>
+        <TOKEN id="token-60-11" pos="punct" morph="none" start_char="2580" end_char="2580">,</TOKEN>
+        <TOKEN id="token-60-12" pos="word" morph="none" start_char="2582" end_char="2583">he</TOKEN>
+        <TOKEN id="token-60-13" pos="word" morph="none" start_char="2585" end_char="2588">said</TOKEN>
+        <TOKEN id="token-60-14" pos="punct" morph="none" start_char="2589" end_char="2589">:</TOKEN>
+        <TOKEN id="token-60-15" pos="punct" morph="none" start_char="2591" end_char="2591">“</TOKEN>
+        <TOKEN id="token-60-16" pos="word" morph="none" start_char="2592" end_char="2593">If</TOKEN>
+        <TOKEN id="token-60-17" pos="word" morph="none" start_char="2595" end_char="2597">you</TOKEN>
+      </SEG>
+      <SEG id="segment-61" start_char="2599" end_char="2669">
+        <ORIGINAL_TEXT>ask her, I think she’d say grandmother, but I have found it best not to</ORIGINAL_TEXT>
+        <TOKEN id="token-61-0" pos="word" morph="none" start_char="2599" end_char="2601">ask</TOKEN>
+        <TOKEN id="token-61-1" pos="word" morph="none" start_char="2603" end_char="2605">her</TOKEN>
+        <TOKEN id="token-61-2" pos="punct" morph="none" start_char="2606" end_char="2606">,</TOKEN>
+        <TOKEN id="token-61-3" pos="word" morph="none" start_char="2608" end_char="2608">I</TOKEN>
+        <TOKEN id="token-61-4" pos="word" morph="none" start_char="2610" end_char="2614">think</TOKEN>
+        <TOKEN id="token-61-5" pos="word" morph="none" start_char="2616" end_char="2618">she</TOKEN>
+        <TOKEN id="token-61-6" pos="punct" morph="none" start_char="2619" end_char="2619">’</TOKEN>
+        <TOKEN id="token-61-7" pos="word" morph="none" start_char="2620" end_char="2620">d</TOKEN>
+        <TOKEN id="token-61-8" pos="word" morph="none" start_char="2622" end_char="2624">say</TOKEN>
+        <TOKEN id="token-61-9" pos="word" morph="none" start_char="2626" end_char="2636">grandmother</TOKEN>
+        <TOKEN id="token-61-10" pos="punct" morph="none" start_char="2637" end_char="2637">,</TOKEN>
+        <TOKEN id="token-61-11" pos="word" morph="none" start_char="2639" end_char="2641">but</TOKEN>
+        <TOKEN id="token-61-12" pos="word" morph="none" start_char="2643" end_char="2643">I</TOKEN>
+        <TOKEN id="token-61-13" pos="word" morph="none" start_char="2645" end_char="2648">have</TOKEN>
+        <TOKEN id="token-61-14" pos="word" morph="none" start_char="2650" end_char="2654">found</TOKEN>
+        <TOKEN id="token-61-15" pos="word" morph="none" start_char="2656" end_char="2657">it</TOKEN>
+        <TOKEN id="token-61-16" pos="word" morph="none" start_char="2659" end_char="2662">best</TOKEN>
+        <TOKEN id="token-61-17" pos="word" morph="none" start_char="2664" end_char="2666">not</TOKEN>
+        <TOKEN id="token-61-18" pos="word" morph="none" start_char="2668" end_char="2669">to</TOKEN>
+      </SEG>
+      <SEG id="segment-62" start_char="2671" end_char="2726">
+        <ORIGINAL_TEXT>discuss that issue.” No, don’t discuss that issue, Bill.</ORIGINAL_TEXT>
+        <TOKEN id="token-62-0" pos="word" morph="none" start_char="2671" end_char="2677">discuss</TOKEN>
+        <TOKEN id="token-62-1" pos="word" morph="none" start_char="2679" end_char="2682">that</TOKEN>
+        <TOKEN id="token-62-2" pos="word" morph="none" start_char="2684" end_char="2688">issue</TOKEN>
+        <TOKEN id="token-62-3" pos="punct" morph="none" start_char="2689" end_char="2690">.”</TOKEN>
+        <TOKEN id="token-62-4" pos="word" morph="none" start_char="2692" end_char="2693">No</TOKEN>
+        <TOKEN id="token-62-5" pos="punct" morph="none" start_char="2694" end_char="2694">,</TOKEN>
+        <TOKEN id="token-62-6" pos="word" morph="none" start_char="2696" end_char="2698">don</TOKEN>
+        <TOKEN id="token-62-7" pos="punct" morph="none" start_char="2699" end_char="2699">’</TOKEN>
+        <TOKEN id="token-62-8" pos="word" morph="none" start_char="2700" end_char="2700">t</TOKEN>
+        <TOKEN id="token-62-9" pos="word" morph="none" start_char="2702" end_char="2708">discuss</TOKEN>
+        <TOKEN id="token-62-10" pos="word" morph="none" start_char="2710" end_char="2713">that</TOKEN>
+        <TOKEN id="token-62-11" pos="word" morph="none" start_char="2715" end_char="2719">issue</TOKEN>
+        <TOKEN id="token-62-12" pos="punct" morph="none" start_char="2720" end_char="2720">,</TOKEN>
+        <TOKEN id="token-62-13" pos="word" morph="none" start_char="2722" end_char="2725">Bill</TOKEN>
+        <TOKEN id="token-62-14" pos="punct" morph="none" start_char="2726" end_char="2726">.</TOKEN>
+      </SEG>
+      <SEG id="segment-63" start_char="2728" end_char="2731">
+        <ORIGINAL_TEXT>&lt;/P&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-63-0" pos="unknown" morph="none" start_char="2728" end_char="2731">&lt;/P&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-64" start_char="2733" end_char="2735">
+        <ORIGINAL_TEXT>&lt;P&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-64-0" pos="unknown" morph="none" start_char="2733" end_char="2735">&lt;P&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-65" start_char="2737" end_char="2798">
+        <ORIGINAL_TEXT>“There’s a disproportionate attention to her [Clinton] being a</ORIGINAL_TEXT>
+        <TOKEN id="token-65-0" pos="punct" morph="none" start_char="2737" end_char="2737">“</TOKEN>
+        <TOKEN id="token-65-1" pos="word" morph="none" start_char="2738" end_char="2742">There</TOKEN>
+        <TOKEN id="token-65-2" pos="punct" morph="none" start_char="2743" end_char="2743">’</TOKEN>
+        <TOKEN id="token-65-3" pos="word" morph="none" start_char="2744" end_char="2744">s</TOKEN>
+        <TOKEN id="token-65-4" pos="word" morph="none" start_char="2746" end_char="2746">a</TOKEN>
+        <TOKEN id="token-65-5" pos="word" morph="none" start_char="2748" end_char="2763">disproportionate</TOKEN>
+        <TOKEN id="token-65-6" pos="word" morph="none" start_char="2765" end_char="2773">attention</TOKEN>
+        <TOKEN id="token-65-7" pos="word" morph="none" start_char="2775" end_char="2776">to</TOKEN>
+        <TOKEN id="token-65-8" pos="word" morph="none" start_char="2778" end_char="2780">her</TOKEN>
+        <TOKEN id="token-65-9" pos="punct" morph="none" start_char="2782" end_char="2782">[</TOKEN>
+        <TOKEN id="token-65-10" pos="word" morph="none" start_char="2783" end_char="2789">Clinton</TOKEN>
+        <TOKEN id="token-65-11" pos="punct" morph="none" start_char="2790" end_char="2790">]</TOKEN>
+        <TOKEN id="token-65-12" pos="word" morph="none" start_char="2792" end_char="2796">being</TOKEN>
+        <TOKEN id="token-65-13" pos="word" morph="none" start_char="2798" end_char="2798">a</TOKEN>
+      </SEG>
+      <SEG id="segment-66" start_char="2800" end_char="2872">
+        <ORIGINAL_TEXT>grandmother,” according to Debbie Walsh, of the Center for American Women</ORIGINAL_TEXT>
+        <TOKEN id="token-66-0" pos="word" morph="none" start_char="2800" end_char="2810">grandmother</TOKEN>
+        <TOKEN id="token-66-1" pos="punct" morph="none" start_char="2811" end_char="2812">,”</TOKEN>
+        <TOKEN id="token-66-2" pos="word" morph="none" start_char="2814" end_char="2822">according</TOKEN>
+        <TOKEN id="token-66-3" pos="word" morph="none" start_char="2824" end_char="2825">to</TOKEN>
+        <TOKEN id="token-66-4" pos="word" morph="none" start_char="2827" end_char="2832">Debbie</TOKEN>
+        <TOKEN id="token-66-5" pos="word" morph="none" start_char="2834" end_char="2838">Walsh</TOKEN>
+        <TOKEN id="token-66-6" pos="punct" morph="none" start_char="2839" end_char="2839">,</TOKEN>
+        <TOKEN id="token-66-7" pos="word" morph="none" start_char="2841" end_char="2842">of</TOKEN>
+        <TOKEN id="token-66-8" pos="word" morph="none" start_char="2844" end_char="2846">the</TOKEN>
+        <TOKEN id="token-66-9" pos="word" morph="none" start_char="2848" end_char="2853">Center</TOKEN>
+        <TOKEN id="token-66-10" pos="word" morph="none" start_char="2855" end_char="2857">for</TOKEN>
+        <TOKEN id="token-66-11" pos="word" morph="none" start_char="2859" end_char="2866">American</TOKEN>
+        <TOKEN id="token-66-12" pos="word" morph="none" start_char="2868" end_char="2872">Women</TOKEN>
+      </SEG>
+      <SEG id="segment-67" start_char="2874" end_char="2942">
+        <ORIGINAL_TEXT>and Politics at Rutgers University. “Certainly, many men have run for</ORIGINAL_TEXT>
+        <TOKEN id="token-67-0" pos="word" morph="none" start_char="2874" end_char="2876">and</TOKEN>
+        <TOKEN id="token-67-1" pos="word" morph="none" start_char="2878" end_char="2885">Politics</TOKEN>
+        <TOKEN id="token-67-2" pos="word" morph="none" start_char="2887" end_char="2888">at</TOKEN>
+        <TOKEN id="token-67-3" pos="word" morph="none" start_char="2890" end_char="2896">Rutgers</TOKEN>
+        <TOKEN id="token-67-4" pos="word" morph="none" start_char="2898" end_char="2907">University</TOKEN>
+        <TOKEN id="token-67-5" pos="punct" morph="none" start_char="2908" end_char="2908">.</TOKEN>
+        <TOKEN id="token-67-6" pos="punct" morph="none" start_char="2910" end_char="2910">“</TOKEN>
+        <TOKEN id="token-67-7" pos="word" morph="none" start_char="2911" end_char="2919">Certainly</TOKEN>
+        <TOKEN id="token-67-8" pos="punct" morph="none" start_char="2920" end_char="2920">,</TOKEN>
+        <TOKEN id="token-67-9" pos="word" morph="none" start_char="2922" end_char="2925">many</TOKEN>
+        <TOKEN id="token-67-10" pos="word" morph="none" start_char="2927" end_char="2929">men</TOKEN>
+        <TOKEN id="token-67-11" pos="word" morph="none" start_char="2931" end_char="2934">have</TOKEN>
+        <TOKEN id="token-67-12" pos="word" morph="none" start_char="2936" end_char="2938">run</TOKEN>
+        <TOKEN id="token-67-13" pos="word" morph="none" start_char="2940" end_char="2942">for</TOKEN>
+      </SEG>
+      <SEG id="segment-68" start_char="2944" end_char="3016">
+        <ORIGINAL_TEXT>president as grandfathers and nobody worries if they can’t do their job.”</ORIGINAL_TEXT>
+        <TOKEN id="token-68-0" pos="word" morph="none" start_char="2944" end_char="2952">president</TOKEN>
+        <TOKEN id="token-68-1" pos="word" morph="none" start_char="2954" end_char="2955">as</TOKEN>
+        <TOKEN id="token-68-2" pos="word" morph="none" start_char="2957" end_char="2968">grandfathers</TOKEN>
+        <TOKEN id="token-68-3" pos="word" morph="none" start_char="2970" end_char="2972">and</TOKEN>
+        <TOKEN id="token-68-4" pos="word" morph="none" start_char="2974" end_char="2979">nobody</TOKEN>
+        <TOKEN id="token-68-5" pos="word" morph="none" start_char="2981" end_char="2987">worries</TOKEN>
+        <TOKEN id="token-68-6" pos="word" morph="none" start_char="2989" end_char="2990">if</TOKEN>
+        <TOKEN id="token-68-7" pos="word" morph="none" start_char="2992" end_char="2995">they</TOKEN>
+        <TOKEN id="token-68-8" pos="word" morph="none" start_char="2997" end_char="2999">can</TOKEN>
+        <TOKEN id="token-68-9" pos="punct" morph="none" start_char="3000" end_char="3000">’</TOKEN>
+        <TOKEN id="token-68-10" pos="word" morph="none" start_char="3001" end_char="3001">t</TOKEN>
+        <TOKEN id="token-68-11" pos="word" morph="none" start_char="3003" end_char="3004">do</TOKEN>
+        <TOKEN id="token-68-12" pos="word" morph="none" start_char="3006" end_char="3010">their</TOKEN>
+        <TOKEN id="token-68-13" pos="word" morph="none" start_char="3012" end_char="3014">job</TOKEN>
+        <TOKEN id="token-68-14" pos="punct" morph="none" start_char="3015" end_char="3016">.”</TOKEN>
+      </SEG>
+      <SEG id="segment-69" start_char="3018" end_char="3021">
+        <ORIGINAL_TEXT>&lt;/P&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-69-0" pos="unknown" morph="none" start_char="3018" end_char="3021">&lt;/P&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-70" start_char="3023" end_char="3025">
+        <ORIGINAL_TEXT>&lt;P&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-70-0" pos="unknown" morph="none" start_char="3023" end_char="3025">&lt;P&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-71" start_char="3027" end_char="3102">
+        <ORIGINAL_TEXT>Having benefited from grandmotherly goodwill to mind my own children, I know</ORIGINAL_TEXT>
+        <TOKEN id="token-71-0" pos="word" morph="none" start_char="3027" end_char="3032">Having</TOKEN>
+        <TOKEN id="token-71-1" pos="word" morph="none" start_char="3034" end_char="3042">benefited</TOKEN>
+        <TOKEN id="token-71-2" pos="word" morph="none" start_char="3044" end_char="3047">from</TOKEN>
+        <TOKEN id="token-71-3" pos="word" morph="none" start_char="3049" end_char="3061">grandmotherly</TOKEN>
+        <TOKEN id="token-71-4" pos="word" morph="none" start_char="3063" end_char="3070">goodwill</TOKEN>
+        <TOKEN id="token-71-5" pos="word" morph="none" start_char="3072" end_char="3073">to</TOKEN>
+        <TOKEN id="token-71-6" pos="word" morph="none" start_char="3075" end_char="3078">mind</TOKEN>
+        <TOKEN id="token-71-7" pos="word" morph="none" start_char="3080" end_char="3081">my</TOKEN>
+        <TOKEN id="token-71-8" pos="word" morph="none" start_char="3083" end_char="3085">own</TOKEN>
+        <TOKEN id="token-71-9" pos="word" morph="none" start_char="3087" end_char="3094">children</TOKEN>
+        <TOKEN id="token-71-10" pos="punct" morph="none" start_char="3095" end_char="3095">,</TOKEN>
+        <TOKEN id="token-71-11" pos="word" morph="none" start_char="3097" end_char="3097">I</TOKEN>
+        <TOKEN id="token-71-12" pos="word" morph="none" start_char="3099" end_char="3102">know</TOKEN>
+      </SEG>
+      <SEG id="segment-72" start_char="3104" end_char="3181">
+        <ORIGINAL_TEXT>what a wonderful solution grandmothers can offer. And I am truly grateful. But</ORIGINAL_TEXT>
+        <TOKEN id="token-72-0" pos="word" morph="none" start_char="3104" end_char="3107">what</TOKEN>
+        <TOKEN id="token-72-1" pos="word" morph="none" start_char="3109" end_char="3109">a</TOKEN>
+        <TOKEN id="token-72-2" pos="word" morph="none" start_char="3111" end_char="3119">wonderful</TOKEN>
+        <TOKEN id="token-72-3" pos="word" morph="none" start_char="3121" end_char="3128">solution</TOKEN>
+        <TOKEN id="token-72-4" pos="word" morph="none" start_char="3130" end_char="3141">grandmothers</TOKEN>
+        <TOKEN id="token-72-5" pos="word" morph="none" start_char="3143" end_char="3145">can</TOKEN>
+        <TOKEN id="token-72-6" pos="word" morph="none" start_char="3147" end_char="3151">offer</TOKEN>
+        <TOKEN id="token-72-7" pos="punct" morph="none" start_char="3152" end_char="3152">.</TOKEN>
+        <TOKEN id="token-72-8" pos="word" morph="none" start_char="3154" end_char="3156">And</TOKEN>
+        <TOKEN id="token-72-9" pos="word" morph="none" start_char="3158" end_char="3158">I</TOKEN>
+        <TOKEN id="token-72-10" pos="word" morph="none" start_char="3160" end_char="3161">am</TOKEN>
+        <TOKEN id="token-72-11" pos="word" morph="none" start_char="3163" end_char="3167">truly</TOKEN>
+        <TOKEN id="token-72-12" pos="word" morph="none" start_char="3169" end_char="3176">grateful</TOKEN>
+        <TOKEN id="token-72-13" pos="punct" morph="none" start_char="3177" end_char="3177">.</TOKEN>
+        <TOKEN id="token-72-14" pos="word" morph="none" start_char="3179" end_char="3181">But</TOKEN>
+      </SEG>
+      <SEG id="segment-73" start_char="3183" end_char="3258">
+        <ORIGINAL_TEXT>as I get close to that juncture myself, things are not looking so simple. My</ORIGINAL_TEXT>
+        <TOKEN id="token-73-0" pos="word" morph="none" start_char="3183" end_char="3184">as</TOKEN>
+        <TOKEN id="token-73-1" pos="word" morph="none" start_char="3186" end_char="3186">I</TOKEN>
+        <TOKEN id="token-73-2" pos="word" morph="none" start_char="3188" end_char="3190">get</TOKEN>
+        <TOKEN id="token-73-3" pos="word" morph="none" start_char="3192" end_char="3196">close</TOKEN>
+        <TOKEN id="token-73-4" pos="word" morph="none" start_char="3198" end_char="3199">to</TOKEN>
+        <TOKEN id="token-73-5" pos="word" morph="none" start_char="3201" end_char="3204">that</TOKEN>
+        <TOKEN id="token-73-6" pos="word" morph="none" start_char="3206" end_char="3213">juncture</TOKEN>
+        <TOKEN id="token-73-7" pos="word" morph="none" start_char="3215" end_char="3220">myself</TOKEN>
+        <TOKEN id="token-73-8" pos="punct" morph="none" start_char="3221" end_char="3221">,</TOKEN>
+        <TOKEN id="token-73-9" pos="word" morph="none" start_char="3223" end_char="3228">things</TOKEN>
+        <TOKEN id="token-73-10" pos="word" morph="none" start_char="3230" end_char="3232">are</TOKEN>
+        <TOKEN id="token-73-11" pos="word" morph="none" start_char="3234" end_char="3236">not</TOKEN>
+        <TOKEN id="token-73-12" pos="word" morph="none" start_char="3238" end_char="3244">looking</TOKEN>
+        <TOKEN id="token-73-13" pos="word" morph="none" start_char="3246" end_char="3247">so</TOKEN>
+        <TOKEN id="token-73-14" pos="word" morph="none" start_char="3249" end_char="3254">simple</TOKEN>
+        <TOKEN id="token-73-15" pos="punct" morph="none" start_char="3255" end_char="3255">.</TOKEN>
+        <TOKEN id="token-73-16" pos="word" morph="none" start_char="3257" end_char="3258">My</TOKEN>
+      </SEG>
+      <SEG id="segment-74" start_char="3260" end_char="3305">
+        <ORIGINAL_TEXT>own offspring can take this as advance notice.</ORIGINAL_TEXT>
+        <TOKEN id="token-74-0" pos="word" morph="none" start_char="3260" end_char="3262">own</TOKEN>
+        <TOKEN id="token-74-1" pos="word" morph="none" start_char="3264" end_char="3272">offspring</TOKEN>
+        <TOKEN id="token-74-2" pos="word" morph="none" start_char="3274" end_char="3276">can</TOKEN>
+        <TOKEN id="token-74-3" pos="word" morph="none" start_char="3278" end_char="3281">take</TOKEN>
+        <TOKEN id="token-74-4" pos="word" morph="none" start_char="3283" end_char="3286">this</TOKEN>
+        <TOKEN id="token-74-5" pos="word" morph="none" start_char="3288" end_char="3289">as</TOKEN>
+        <TOKEN id="token-74-6" pos="word" morph="none" start_char="3291" end_char="3297">advance</TOKEN>
+        <TOKEN id="token-74-7" pos="word" morph="none" start_char="3299" end_char="3304">notice</TOKEN>
+        <TOKEN id="token-74-8" pos="punct" morph="none" start_char="3305" end_char="3305">.</TOKEN>
+      </SEG>
+      <SEG id="segment-75" start_char="3307" end_char="3310">
+        <ORIGINAL_TEXT>&lt;/P&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-75-0" pos="unknown" morph="none" start_char="3307" end_char="3310">&lt;/P&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-76" start_char="3312" end_char="3314">
+        <ORIGINAL_TEXT>&lt;P&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-76-0" pos="unknown" morph="none" start_char="3312" end_char="3314">&lt;P&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-77" start_char="3316" end_char="3390">
+        <ORIGINAL_TEXT>I’m really looking forward to being a granny, but before giving anything up</ORIGINAL_TEXT>
+        <TOKEN id="token-77-0" pos="word" morph="none" start_char="3316" end_char="3316">I</TOKEN>
+        <TOKEN id="token-77-1" pos="punct" morph="none" start_char="3317" end_char="3317">’</TOKEN>
+        <TOKEN id="token-77-2" pos="word" morph="none" start_char="3318" end_char="3318">m</TOKEN>
+        <TOKEN id="token-77-3" pos="word" morph="none" start_char="3320" end_char="3325">really</TOKEN>
+        <TOKEN id="token-77-4" pos="word" morph="none" start_char="3327" end_char="3333">looking</TOKEN>
+        <TOKEN id="token-77-5" pos="word" morph="none" start_char="3335" end_char="3341">forward</TOKEN>
+        <TOKEN id="token-77-6" pos="word" morph="none" start_char="3343" end_char="3344">to</TOKEN>
+        <TOKEN id="token-77-7" pos="word" morph="none" start_char="3346" end_char="3350">being</TOKEN>
+        <TOKEN id="token-77-8" pos="word" morph="none" start_char="3352" end_char="3352">a</TOKEN>
+        <TOKEN id="token-77-9" pos="word" morph="none" start_char="3354" end_char="3359">granny</TOKEN>
+        <TOKEN id="token-77-10" pos="punct" morph="none" start_char="3360" end_char="3360">,</TOKEN>
+        <TOKEN id="token-77-11" pos="word" morph="none" start_char="3362" end_char="3364">but</TOKEN>
+        <TOKEN id="token-77-12" pos="word" morph="none" start_char="3366" end_char="3371">before</TOKEN>
+        <TOKEN id="token-77-13" pos="word" morph="none" start_char="3373" end_char="3378">giving</TOKEN>
+        <TOKEN id="token-77-14" pos="word" morph="none" start_char="3380" end_char="3387">anything</TOKEN>
+        <TOKEN id="token-77-15" pos="word" morph="none" start_char="3389" end_char="3390">up</TOKEN>
+      </SEG>
+      <SEG id="segment-78" start_char="3392" end_char="3462">
+        <ORIGINAL_TEXT>to look after the next generation, I plan to make sure there is a woman</ORIGINAL_TEXT>
+        <TOKEN id="token-78-0" pos="word" morph="none" start_char="3392" end_char="3393">to</TOKEN>
+        <TOKEN id="token-78-1" pos="word" morph="none" start_char="3395" end_char="3398">look</TOKEN>
+        <TOKEN id="token-78-2" pos="word" morph="none" start_char="3400" end_char="3404">after</TOKEN>
+        <TOKEN id="token-78-3" pos="word" morph="none" start_char="3406" end_char="3408">the</TOKEN>
+        <TOKEN id="token-78-4" pos="word" morph="none" start_char="3410" end_char="3413">next</TOKEN>
+        <TOKEN id="token-78-5" pos="word" morph="none" start_char="3415" end_char="3424">generation</TOKEN>
+        <TOKEN id="token-78-6" pos="punct" morph="none" start_char="3425" end_char="3425">,</TOKEN>
+        <TOKEN id="token-78-7" pos="word" morph="none" start_char="3427" end_char="3427">I</TOKEN>
+        <TOKEN id="token-78-8" pos="word" morph="none" start_char="3429" end_char="3432">plan</TOKEN>
+        <TOKEN id="token-78-9" pos="word" morph="none" start_char="3434" end_char="3435">to</TOKEN>
+        <TOKEN id="token-78-10" pos="word" morph="none" start_char="3437" end_char="3440">make</TOKEN>
+        <TOKEN id="token-78-11" pos="word" morph="none" start_char="3442" end_char="3445">sure</TOKEN>
+        <TOKEN id="token-78-12" pos="word" morph="none" start_char="3447" end_char="3451">there</TOKEN>
+        <TOKEN id="token-78-13" pos="word" morph="none" start_char="3453" end_char="3454">is</TOKEN>
+        <TOKEN id="token-78-14" pos="word" morph="none" start_char="3456" end_char="3456">a</TOKEN>
+        <TOKEN id="token-78-15" pos="word" morph="none" start_char="3458" end_char="3462">woman</TOKEN>
+      </SEG>
+      <SEG id="segment-79" start_char="3464" end_char="3540">
+        <ORIGINAL_TEXT>leading this country, a woman leading the US, and the rights of all women are</ORIGINAL_TEXT>
+        <TOKEN id="token-79-0" pos="word" morph="none" start_char="3464" end_char="3470">leading</TOKEN>
+        <TOKEN id="token-79-1" pos="word" morph="none" start_char="3472" end_char="3475">this</TOKEN>
+        <TOKEN id="token-79-2" pos="word" morph="none" start_char="3477" end_char="3483">country</TOKEN>
+        <TOKEN id="token-79-3" pos="punct" morph="none" start_char="3484" end_char="3484">,</TOKEN>
+        <TOKEN id="token-79-4" pos="word" morph="none" start_char="3486" end_char="3486">a</TOKEN>
+        <TOKEN id="token-79-5" pos="word" morph="none" start_char="3488" end_char="3492">woman</TOKEN>
+        <TOKEN id="token-79-6" pos="word" morph="none" start_char="3494" end_char="3500">leading</TOKEN>
+        <TOKEN id="token-79-7" pos="word" morph="none" start_char="3502" end_char="3504">the</TOKEN>
+        <TOKEN id="token-79-8" pos="word" morph="none" start_char="3506" end_char="3507">US</TOKEN>
+        <TOKEN id="token-79-9" pos="punct" morph="none" start_char="3508" end_char="3508">,</TOKEN>
+        <TOKEN id="token-79-10" pos="word" morph="none" start_char="3510" end_char="3512">and</TOKEN>
+        <TOKEN id="token-79-11" pos="word" morph="none" start_char="3514" end_char="3516">the</TOKEN>
+        <TOKEN id="token-79-12" pos="word" morph="none" start_char="3518" end_char="3523">rights</TOKEN>
+        <TOKEN id="token-79-13" pos="word" morph="none" start_char="3525" end_char="3526">of</TOKEN>
+        <TOKEN id="token-79-14" pos="word" morph="none" start_char="3528" end_char="3530">all</TOKEN>
+        <TOKEN id="token-79-15" pos="word" morph="none" start_char="3532" end_char="3536">women</TOKEN>
+        <TOKEN id="token-79-16" pos="word" morph="none" start_char="3538" end_char="3540">are</TOKEN>
+      </SEG>
+      <SEG id="segment-80" start_char="3542" end_char="3552">
+        <ORIGINAL_TEXT>vindicated.</ORIGINAL_TEXT>
+        <TOKEN id="token-80-0" pos="word" morph="none" start_char="3542" end_char="3551">vindicated</TOKEN>
+        <TOKEN id="token-80-1" pos="punct" morph="none" start_char="3552" end_char="3552">.</TOKEN>
+      </SEG>
+      <SEG id="segment-81" start_char="3554" end_char="3557">
+        <ORIGINAL_TEXT>&lt;/P&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-81-0" pos="unknown" morph="none" start_char="3554" end_char="3557">&lt;/P&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-82" start_char="3559" end_char="3561">
+        <ORIGINAL_TEXT>&lt;P&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-82-0" pos="unknown" morph="none" start_char="3559" end_char="3561">&lt;P&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-83" start_char="3563" end_char="3610">
+        <ORIGINAL_TEXT>I owe that much to my prospective granddaughter.</ORIGINAL_TEXT>
+        <TOKEN id="token-83-0" pos="word" morph="none" start_char="3563" end_char="3563">I</TOKEN>
+        <TOKEN id="token-83-1" pos="word" morph="none" start_char="3565" end_char="3567">owe</TOKEN>
+        <TOKEN id="token-83-2" pos="word" morph="none" start_char="3569" end_char="3572">that</TOKEN>
+        <TOKEN id="token-83-3" pos="word" morph="none" start_char="3574" end_char="3577">much</TOKEN>
+        <TOKEN id="token-83-4" pos="word" morph="none" start_char="3579" end_char="3580">to</TOKEN>
+        <TOKEN id="token-83-5" pos="word" morph="none" start_char="3582" end_char="3583">my</TOKEN>
+        <TOKEN id="token-83-6" pos="word" morph="none" start_char="3585" end_char="3595">prospective</TOKEN>
+        <TOKEN id="token-83-7" pos="word" morph="none" start_char="3597" end_char="3609">granddaughter</TOKEN>
+        <TOKEN id="token-83-8" pos="punct" morph="none" start_char="3610" end_char="3610">.</TOKEN>
+      </SEG>
+      <SEG id="segment-84" start_char="3612" end_char="3615">
+        <ORIGINAL_TEXT>&lt;/P&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-84-0" pos="unknown" morph="none" start_char="3612" end_char="3615">&lt;/P&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-85" start_char="3617" end_char="3623">
+        <ORIGINAL_TEXT>&lt;/TEXT&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-85-0" pos="unknown" morph="none" start_char="3617" end_char="3623">&lt;/TEXT&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-86" start_char="3625" end_char="3630">
+        <ORIGINAL_TEXT>&lt;/DOC&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-86-0" pos="unknown" morph="none" start_char="3625" end_char="3630">&lt;/DOC&gt;</TOKEN>
+      </SEG>
+    </TEXT>
+  </DOC>
+</LCTL_TEXT>

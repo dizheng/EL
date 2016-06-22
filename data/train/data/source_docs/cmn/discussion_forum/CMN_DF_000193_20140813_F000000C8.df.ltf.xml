@@ -1,0 +1,680 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LCTL_TEXT>
+  <DOC id="CMN_DF_000193_20140813_F000000C8.df.xml" tokenization="tokenization_parameters" grammar="none" raw_text_char_length="5779" raw_text_md5="7dc22822b194e0b3bb7817257fe1a296">
+    <TEXT>
+      <SEG id="segment-0" start_char="0" end_char="37">
+        <ORIGINAL_TEXT>&lt;?xml version="1.0" encoding="utf-8"?&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-0-0" pos="unknown" morph="none" start_char="0" end_char="4">&lt;?xml</TOKEN>
+        <TOKEN id="token-0-1" pos="unknown" morph="none" start_char="6" end_char="18">version="1.0"</TOKEN>
+        <TOKEN id="token-0-2" pos="unknown" morph="none" start_char="20" end_char="37">encoding="utf-8"?&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-1" start_char="39" end_char="81">
+        <ORIGINAL_TEXT>&lt;doc id="CMN_DF_000193_20140813_F000000C8"&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-1-0" pos="unknown" morph="none" start_char="39" end_char="42">&lt;doc</TOKEN>
+        <TOKEN id="token-1-1" pos="unknown" morph="none" start_char="44" end_char="81">id="CMN_DF_000193_20140813_F000000C8"&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-2" start_char="83" end_char="92">
+        <ORIGINAL_TEXT>&lt;headline&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-2-0" pos="unknown" morph="none" start_char="83" end_char="92">&lt;headline&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-3" start_char="94" end_char="107">
+        <ORIGINAL_TEXT>希拉里：我们没有兴趣打压中国</ORIGINAL_TEXT>
+        <TOKEN id="token-3-0" pos="word" morph="none" start_char="94" end_char="96">希拉里</TOKEN>
+        <TOKEN id="token-3-1" pos="punct" morph="none" start_char="97" end_char="97">：</TOKEN>
+        <TOKEN id="token-3-2" pos="word" morph="none" start_char="98" end_char="107">我们没有兴趣打压中国</TOKEN>
+      </SEG>
+      <SEG id="segment-4" start_char="109" end_char="119">
+        <ORIGINAL_TEXT>&lt;/headline&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-4-0" pos="unknown" morph="none" start_char="109" end_char="119">&lt;/headline&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-5" start_char="121" end_char="181">
+        <ORIGINAL_TEXT>&lt;post id="p1" author="real01" datetime="2014-08-13T11:13:00"&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-5-0" pos="unknown" morph="none" start_char="121" end_char="125">&lt;post</TOKEN>
+        <TOKEN id="token-5-1" pos="unknown" morph="none" start_char="127" end_char="133">id="p1"</TOKEN>
+        <TOKEN id="token-5-2" pos="unknown" morph="none" start_char="135" end_char="149">author="real01"</TOKEN>
+        <TOKEN id="token-5-3" pos="unknown" morph="none" start_char="151" end_char="181">datetime="2014-08-13T11:13:00"&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-6" start_char="183" end_char="186">
+        <ORIGINAL_TEXT>图片为准</ORIGINAL_TEXT>
+        <TOKEN id="token-6-0" pos="word" morph="none" start_char="183" end_char="186">图片为准</TOKEN>
+      </SEG>
+      <SEG id="segment-7" start_char="188" end_char="307">
+        <ORIGINAL_TEXT>http://imgsrc.baidu.com/forum/w%3D580/sign=0a5603208444ebf86d716437e9f9d736/0fe66859252dd42a49023b88003b5bb5c8eab8d2.jpg</ORIGINAL_TEXT>
+        <TOKEN id="token-7-0" pos="url" morph="none" start_char="188" end_char="307">http://imgsrc.baidu.com/forum/w%3D580/sign=0a5603208444ebf86d716437e9f9d736/0fe66859252dd42a49023b88003b5bb5c8eab8d2.jpg</TOKEN>
+      </SEG>
+      <SEG id="segment-8" start_char="309" end_char="315">
+        <ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-8-0" pos="unknown" morph="none" start_char="309" end_char="315">&lt;/post&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-9" start_char="317" end_char="377">
+        <ORIGINAL_TEXT>&lt;post id="p2" author="real01" datetime="2014-08-13T11:20:00"&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-9-0" pos="unknown" morph="none" start_char="317" end_char="321">&lt;post</TOKEN>
+        <TOKEN id="token-9-1" pos="unknown" morph="none" start_char="323" end_char="329">id="p2"</TOKEN>
+        <TOKEN id="token-9-2" pos="unknown" morph="none" start_char="331" end_char="345">author="real01"</TOKEN>
+        <TOKEN id="token-9-3" pos="unknown" morph="none" start_char="347" end_char="377">datetime="2014-08-13T11:20:00"&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-10" start_char="379" end_char="476">
+        <ORIGINAL_TEXT>我们为了应付类似危机，已经准备了四年，包括建立战略与经济对话和其他外交机制，在双方从上到下的对口人员之间发展出互信互谅的习惯，把美中关系放进共同利益和尊重的架构内，同时清晰标识人权和民主的价值观。</ORIGINAL_TEXT>
+        <TOKEN id="token-10-0" pos="unknown" morph="none" start_char="379" end_char="476">我们为了应付类似危机，已经准备了四年，包括建立战略与经济对话和其他外交机制，在双方从上到下的对口人员之间发展出互信互谅的习惯，把美中关系放进共同利益和尊重的架构内，同时清晰标识人权和民主的价值观。</TOKEN>
+      </SEG>
+      <SEG id="segment-11" start_char="479" end_char="503">
+        <ORIGINAL_TEXT>美国希望未来双方能共享繁荣，分担和平与安全的责任。</ORIGINAL_TEXT>
+        <TOKEN id="token-11-0" pos="word" morph="none" start_char="479" end_char="491">美国希望未来双方能共享繁荣</TOKEN>
+        <TOKEN id="token-11-1" pos="punct" morph="none" start_char="492" end_char="492">，</TOKEN>
+        <TOKEN id="token-11-2" pos="word" morph="none" start_char="493" end_char="502">分担和平与安全的责任</TOKEN>
+        <TOKEN id="token-11-3" pos="punct" morph="none" start_char="503" end_char="503">。</TOKEN>
+      </SEG>
+      <SEG id="segment-12" start_char="505" end_char="511">
+        <ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-12-0" pos="unknown" morph="none" start_char="505" end_char="511">&lt;/post&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-13" start_char="513" end_char="574">
+        <ORIGINAL_TEXT>&lt;post id="p3" author="可爱的雯I迷U" datetime="2014-08-13T12:48:00"&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-13-0" pos="unknown" morph="none" start_char="513" end_char="517">&lt;post</TOKEN>
+        <TOKEN id="token-13-1" pos="unknown" morph="none" start_char="519" end_char="525">id="p3"</TOKEN>
+        <TOKEN id="token-13-2" pos="unknown" morph="none" start_char="527" end_char="542">author="可爱的雯I迷U"</TOKEN>
+        <TOKEN id="token-13-3" pos="unknown" morph="none" start_char="544" end_char="574">datetime="2014-08-13T12:48:00"&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-14" start_char="576" end_char="591">
+        <ORIGINAL_TEXT>这个是希拉里的新自传里的内容吗？</ORIGINAL_TEXT>
+        <TOKEN id="token-14-0" pos="word" morph="none" start_char="576" end_char="590">这个是希拉里的新自传里的内容吗</TOKEN>
+        <TOKEN id="token-14-1" pos="punct" morph="none" start_char="591" end_char="591">？</TOKEN>
+      </SEG>
+      <SEG id="segment-15" start_char="593" end_char="599">
+        <ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-15-0" pos="unknown" morph="none" start_char="593" end_char="599">&lt;/post&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-16" start_char="601" end_char="659">
+        <ORIGINAL_TEXT>&lt;post id="p4" author="门环腰子" datetime="2014-08-14T17:58:00"&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-16-0" pos="unknown" morph="none" start_char="601" end_char="605">&lt;post</TOKEN>
+        <TOKEN id="token-16-1" pos="unknown" morph="none" start_char="607" end_char="613">id="p4"</TOKEN>
+        <TOKEN id="token-16-2" pos="unknown" morph="none" start_char="615" end_char="627">author="门环腰子"</TOKEN>
+        <TOKEN id="token-16-3" pos="unknown" morph="none" start_char="629" end_char="659">datetime="2014-08-14T17:58:00"&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-17" start_char="661" end_char="731">
+        <ORIGINAL_TEXT>你太容易受影响了，美国人出过一本书就是讲政治谎言的，他们都开的是空头支票。奥巴马也说不遏制中国，可是你看，希拉里是支持接近集体自卫权的。懂吗。</ORIGINAL_TEXT>
+        <TOKEN id="token-17-0" pos="unknown" morph="none" start_char="661" end_char="731">你太容易受影响了，美国人出过一本书就是讲政治谎言的，他们都开的是空头支票。奥巴马也说不遏制中国，可是你看，希拉里是支持接近集体自卫权的。懂吗。</TOKEN>
+      </SEG>
+      <SEG id="segment-18" start_char="733" end_char="739">
+        <ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-18-0" pos="unknown" morph="none" start_char="733" end_char="739">&lt;/post&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-19" start_char="741" end_char="804">
+        <ORIGINAL_TEXT>&lt;post id="p5" author="729103708" datetime="2014-08-16T12:05:00"&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-19-0" pos="unknown" morph="none" start_char="741" end_char="745">&lt;post</TOKEN>
+        <TOKEN id="token-19-1" pos="unknown" morph="none" start_char="747" end_char="753">id="p5"</TOKEN>
+        <TOKEN id="token-19-2" pos="unknown" morph="none" start_char="755" end_char="772">author="729103708"</TOKEN>
+        <TOKEN id="token-19-3" pos="unknown" morph="none" start_char="774" end_char="804">datetime="2014-08-16T12:05:00"&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-20" start_char="806" end_char="923">
+        <ORIGINAL_TEXT>你一本书不看完就过来说。。。。小学生吗。。。。后面她自己都承认了她坚持对待中国要有强硬态度。他那个地方强调的是要与中美关系就是uncharted sea，单方面压制是会损害自己的。而且他整个笔调对中国外交官（除了戴秉国）就是无限的鄙视。</ORIGINAL_TEXT>
+        <TOKEN id="token-20-0" pos="unknown" morph="none" start_char="806" end_char="877">你一本书不看完就过来说。。。。小学生吗。。。。后面她自己都承认了她坚持对待中国要有强硬态度。他那个地方强调的是要与中美关系就是uncharted</TOKEN>
+        <TOKEN id="token-20-1" pos="unknown" morph="none" start_char="879" end_char="923">sea，单方面压制是会损害自己的。而且他整个笔调对中国外交官（除了戴秉国）就是无限的鄙视。</TOKEN>
+      </SEG>
+      <SEG id="segment-21" start_char="925" end_char="931">
+        <ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-21-0" pos="unknown" morph="none" start_char="925" end_char="931">&lt;/post&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-22" start_char="933" end_char="996">
+        <ORIGINAL_TEXT>&lt;post id="p6" author="729103708" datetime="2014-08-16T12:11:00"&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-22-0" pos="unknown" morph="none" start_char="933" end_char="937">&lt;post</TOKEN>
+        <TOKEN id="token-22-1" pos="unknown" morph="none" start_char="939" end_char="945">id="p6"</TOKEN>
+        <TOKEN id="token-22-2" pos="unknown" morph="none" start_char="947" end_char="964">author="729103708"</TOKEN>
+        <TOKEN id="token-22-3" pos="unknown" morph="none" start_char="966" end_char="996">datetime="2014-08-16T12:11:00"&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-23" start_char="998" end_char="1203">
+        <ORIGINAL_TEXT>她的这本书是我看过的外交官里memoir写得最烂的一本，完全没有个人感情，看完后犹如白开水一样。给我印象比较深的只有对于Richard Holbrooke之死的悲痛。她的所有的用词都是为了感觉经过personal review的，完全就是政治化的。要不是每个例子都比较激烈一点的话，整本书必然读起来索然无味。作为读者，我想看到的是真实的她。不知楼主读没读过她的另一本书,living history，写的好太多。</ORIGINAL_TEXT>
+        <TOKEN id="token-23-0" pos="unknown" morph="none" start_char="998" end_char="1064">她的这本书是我看过的外交官里memoir写得最烂的一本，完全没有个人感情，看完后犹如白开水一样。给我印象比较深的只有对于Richard</TOKEN>
+        <TOKEN id="token-23-1" pos="word" morph="none" start_char="1066" end_char="1079">Holbrooke之死的悲痛</TOKEN>
+        <TOKEN id="token-23-2" pos="punct" morph="none" start_char="1080" end_char="1080">。</TOKEN>
+        <TOKEN id="token-23-3" pos="word" morph="none" start_char="1081" end_char="1103">她的所有的用词都是为了感觉经过personal</TOKEN>
+        <TOKEN id="token-23-4" pos="unknown" morph="none" start_char="1105" end_char="1188">review的，完全就是政治化的。要不是每个例子都比较激烈一点的话，整本书必然读起来索然无味。作为读者，我想看到的是真实的她。不知楼主读没读过她的另一本书,living</TOKEN>
+        <TOKEN id="token-23-5" pos="word" morph="none" start_char="1190" end_char="1196">history</TOKEN>
+        <TOKEN id="token-23-6" pos="punct" morph="none" start_char="1197" end_char="1197">，</TOKEN>
+        <TOKEN id="token-23-7" pos="word" morph="none" start_char="1198" end_char="1202">写的好太多</TOKEN>
+        <TOKEN id="token-23-8" pos="punct" morph="none" start_char="1203" end_char="1203">。</TOKEN>
+      </SEG>
+      <SEG id="segment-24" start_char="1205" end_char="1211">
+        <ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-24-0" pos="unknown" morph="none" start_char="1205" end_char="1211">&lt;/post&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-25" start_char="1213" end_char="1273">
+        <ORIGINAL_TEXT>&lt;post id="p7" author="real01" datetime="2014-08-16T12:52:00"&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-25-0" pos="unknown" morph="none" start_char="1213" end_char="1217">&lt;post</TOKEN>
+        <TOKEN id="token-25-1" pos="unknown" morph="none" start_char="1219" end_char="1225">id="p7"</TOKEN>
+        <TOKEN id="token-25-2" pos="unknown" morph="none" start_char="1227" end_char="1241">author="real01"</TOKEN>
+        <TOKEN id="token-25-3" pos="unknown" morph="none" start_char="1243" end_char="1273">datetime="2014-08-16T12:52:00"&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-26" start_char="1275" end_char="1343">
+        <ORIGINAL_TEXT>艰难抉择，身为世界第一强国的国务卿，没有自信没有魄力就无所作为。喜欢希拉里才会看她的书，本人没有强迫症，讨厌谁绝对不会勉强自己找谁的书看。</ORIGINAL_TEXT>
+        <TOKEN id="token-26-0" pos="unknown" morph="none" start_char="1275" end_char="1343">艰难抉择，身为世界第一强国的国务卿，没有自信没有魄力就无所作为。喜欢希拉里才会看她的书，本人没有强迫症，讨厌谁绝对不会勉强自己找谁的书看。</TOKEN>
+      </SEG>
+      <SEG id="segment-27" start_char="1345" end_char="1351">
+        <ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-27-0" pos="unknown" morph="none" start_char="1345" end_char="1351">&lt;/post&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-28" start_char="1353" end_char="1413">
+        <ORIGINAL_TEXT>&lt;post id="p8" author="real01" datetime="2014-08-31T06:57:00"&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-28-0" pos="unknown" morph="none" start_char="1353" end_char="1357">&lt;post</TOKEN>
+        <TOKEN id="token-28-1" pos="unknown" morph="none" start_char="1359" end_char="1365">id="p8"</TOKEN>
+        <TOKEN id="token-28-2" pos="unknown" morph="none" start_char="1367" end_char="1381">author="real01"</TOKEN>
+        <TOKEN id="token-28-3" pos="unknown" morph="none" start_char="1383" end_char="1413">datetime="2014-08-31T06:57:00"&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-29" start_char="1415" end_char="1438">
+        <ORIGINAL_TEXT>希拉里在美国哈佛大学演讲，对将来的中国进行预测：</ORIGINAL_TEXT>
+        <TOKEN id="token-29-0" pos="word" morph="none" start_char="1415" end_char="1426">希拉里在美国哈佛大学演讲</TOKEN>
+        <TOKEN id="token-29-1" pos="punct" morph="none" start_char="1427" end_char="1427">，</TOKEN>
+        <TOKEN id="token-29-2" pos="word" morph="none" start_char="1428" end_char="1437">对将来的中国进行预测</TOKEN>
+        <TOKEN id="token-29-3" pos="punct" morph="none" start_char="1438" end_char="1438">：</TOKEN>
+      </SEG>
+      <SEG id="segment-30" start_char="1441" end_char="1465">
+        <ORIGINAL_TEXT>20年后，中国将成为全球最穷国家。她给出的依据是：</ORIGINAL_TEXT>
+        <TOKEN id="token-30-0" pos="unknown" morph="none" start_char="1441" end_char="1465">20年后，中国将成为全球最穷国家。她给出的依据是：</TOKEN>
+      </SEG>
+      <SEG id="segment-31" start_char="1468" end_char="1544">
+        <ORIGINAL_TEXT>1、从申请移民的情况看，中国90%的高官家属和80%的富豪已申请移民或有移民意愿。一个国家的统治阶层和既得利益阶层为什么对自己的国家失去信心？很令人费解!</ORIGINAL_TEXT>
+        <TOKEN id="token-31-0" pos="unknown" morph="none" start_char="1468" end_char="1544">1、从申请移民的情况看，中国90%的高官家属和80%的富豪已申请移民或有移民意愿。一个国家的统治阶层和既得利益阶层为什么对自己的国家失去信心？很令人费解!</TOKEN>
+      </SEG>
+      <SEG id="segment-32" start_char="1547" end_char="1574">
+        <ORIGINAL_TEXT>2、中国人不了解他们应该对国家和社会所承担的责任和义务。</ORIGINAL_TEXT>
+        <TOKEN id="token-32-0" pos="word" morph="none" start_char="1547" end_char="1547">2</TOKEN>
+        <TOKEN id="token-32-1" pos="punct" morph="none" start_char="1548" end_char="1548">、</TOKEN>
+        <TOKEN id="token-32-2" pos="word" morph="none" start_char="1549" end_char="1573">中国人不了解他们应该对国家和社会所承担的责任和义务</TOKEN>
+        <TOKEN id="token-32-3" pos="punct" morph="none" start_char="1574" end_char="1574">。</TOKEN>
+      </SEG>
+      <SEG id="segment-33" start_char="1577" end_char="1623">
+        <ORIGINAL_TEXT>3、中国人是世界上少数没有信仰的可怕国家之一。全民上上下下唯一的崇拜就是权力和金钱，自私自利。</ORIGINAL_TEXT>
+        <TOKEN id="token-33-0" pos="unknown" morph="none" start_char="1577" end_char="1623">3、中国人是世界上少数没有信仰的可怕国家之一。全民上上下下唯一的崇拜就是权力和金钱，自私自利。</TOKEN>
+      </SEG>
+      <SEG id="segment-34" start_char="1626" end_char="1664">
+        <ORIGINAL_TEXT>4、人民大众过去是权力的奴隶，演变为金钱的奴隶。这样的国家如何赢得尊重和信任？</ORIGINAL_TEXT>
+        <TOKEN id="token-34-0" pos="unknown" morph="none" start_char="1626" end_char="1664">4、人民大众过去是权力的奴隶，演变为金钱的奴隶。这样的国家如何赢得尊重和信任？</TOKEN>
+      </SEG>
+      <SEG id="segment-35" start_char="1667" end_char="1741">
+        <ORIGINAL_TEXT>5、大多数中国人从来就没有学到过什么是体面和尊敬的生活意义，获取权力或金钱就是生活的一切，就是成功。全民腐败、堕落、茫然的现象，在人类历史上空前绝后!</ORIGINAL_TEXT>
+        <TOKEN id="token-35-0" pos="unknown" morph="none" start_char="1667" end_char="1741">5、大多数中国人从来就没有学到过什么是体面和尊敬的生活意义，获取权力或金钱就是生活的一切，就是成功。全民腐败、堕落、茫然的现象，在人类历史上空前绝后!</TOKEN>
+      </SEG>
+      <SEG id="segment-36" start_char="1744" end_char="1791">
+        <ORIGINAL_TEXT>6、对环境的破坏肆无忌惮，对资源的掠夺几近疯狂！这样奢靡、浪费的生活方式，需要几个地球才能供给?</ORIGINAL_TEXT>
+        <TOKEN id="token-36-0" pos="unknown" morph="none" start_char="1744" end_char="1791">6、对环境的破坏肆无忌惮，对资源的掠夺几近疯狂！这样奢靡、浪费的生活方式，需要几个地球才能供给?</TOKEN>
+      </SEG>
+      <SEG id="segment-37" start_char="1793" end_char="1799">
+        <ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-37-0" pos="unknown" morph="none" start_char="1793" end_char="1799">&lt;/post&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-38" start_char="1801" end_char="1861">
+        <ORIGINAL_TEXT>&lt;post id="p9" author="real01" datetime="2014-08-31T07:12:00"&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-38-0" pos="unknown" morph="none" start_char="1801" end_char="1805">&lt;post</TOKEN>
+        <TOKEN id="token-38-1" pos="unknown" morph="none" start_char="1807" end_char="1813">id="p9"</TOKEN>
+        <TOKEN id="token-38-2" pos="unknown" morph="none" start_char="1815" end_char="1829">author="real01"</TOKEN>
+        <TOKEN id="token-38-3" pos="unknown" morph="none" start_char="1831" end_char="1861">datetime="2014-08-31T07:12:00"&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-39" start_char="1863" end_char="1887">
+        <ORIGINAL_TEXT>原美国驻华大使骆家辉对中国人的评价，同样耐人寻味：</ORIGINAL_TEXT>
+        <TOKEN id="token-39-0" pos="word" morph="none" start_char="1863" end_char="1879">原美国驻华大使骆家辉对中国人的评价</TOKEN>
+        <TOKEN id="token-39-1" pos="punct" morph="none" start_char="1880" end_char="1880">，</TOKEN>
+        <TOKEN id="token-39-2" pos="word" morph="none" start_char="1881" end_char="1886">同样耐人寻味</TOKEN>
+        <TOKEN id="token-39-3" pos="punct" morph="none" start_char="1887" end_char="1887">：</TOKEN>
+      </SEG>
+      <SEG id="segment-40" start_char="1890" end_char="1904">
+        <ORIGINAL_TEXT>1.非常聪明，但非常相信传言；</ORIGINAL_TEXT>
+        <TOKEN id="token-40-0" pos="unknown" morph="none" start_char="1890" end_char="1904">1.非常聪明，但非常相信传言；</TOKEN>
+      </SEG>
+      <SEG id="segment-41" start_char="1907" end_char="1934">
+        <ORIGINAL_TEXT>2.凡事喜欢抢，从出生抢床位，到临终抢坟地，从头抢到尾；</ORIGINAL_TEXT>
+        <TOKEN id="token-41-0" pos="unknown" morph="none" start_char="1907" end_char="1934">2.凡事喜欢抢，从出生抢床位，到临终抢坟地，从头抢到尾；</TOKEN>
+      </SEG>
+      <SEG id="segment-42" start_char="1937" end_char="1959">
+        <ORIGINAL_TEXT>3.在大事上能忍气吞声，但在小事上却斤斤计较；</ORIGINAL_TEXT>
+        <TOKEN id="token-42-0" pos="unknown" morph="none" start_char="1937" end_char="1959">3.在大事上能忍气吞声，但在小事上却斤斤计较；</TOKEN>
+      </SEG>
+      <SEG id="segment-43" start_char="1962" end_char="1984">
+        <ORIGINAL_TEXT>4.能通过关系办成的事，绝不通过正当途径解决；</ORIGINAL_TEXT>
+        <TOKEN id="token-43-0" pos="unknown" morph="none" start_char="1962" end_char="1984">4.能通过关系办成的事，绝不通过正当途径解决；</TOKEN>
+      </SEG>
+      <SEG id="segment-44" start_char="1987" end_char="2007">
+        <ORIGINAL_TEXT>5.计较的不是不公平，而是自己不是受益者；</ORIGINAL_TEXT>
+        <TOKEN id="token-44-0" pos="unknown" morph="none" start_char="1987" end_char="2007">5.计较的不是不公平，而是自己不是受益者；</TOKEN>
+      </SEG>
+      <SEG id="segment-45" start_char="2010" end_char="2026">
+        <ORIGINAL_TEXT>6.动辄批判外界，却很少反思自己；</ORIGINAL_TEXT>
+        <TOKEN id="token-45-0" pos="unknown" morph="none" start_char="2010" end_char="2026">6.动辄批判外界，却很少反思自己；</TOKEN>
+      </SEG>
+      <SEG id="segment-46" start_char="2029" end_char="2048">
+        <ORIGINAL_TEXT>7.自己爽不爽没关系，反正不能让别人爽；</ORIGINAL_TEXT>
+        <TOKEN id="token-46-0" pos="unknown" morph="none" start_char="2029" end_char="2048">7.自己爽不爽没关系，反正不能让别人爽；</TOKEN>
+      </SEG>
+      <SEG id="segment-47" start_char="2051" end_char="2074">
+        <ORIGINAL_TEXT>8.不为朋友的成功欢呼，却愿为陌生人的悲惨捐助；</ORIGINAL_TEXT>
+        <TOKEN id="token-47-0" pos="unknown" morph="none" start_char="2051" end_char="2074">8.不为朋友的成功欢呼，却愿为陌生人的悲惨捐助；</TOKEN>
+      </SEG>
+      <SEG id="segment-48" start_char="2077" end_char="2098">
+        <ORIGINAL_TEXT>9.不为强者的坚持伸手，愿为弱者的妥协流泪；</ORIGINAL_TEXT>
+        <TOKEN id="token-48-0" pos="unknown" morph="none" start_char="2077" end_char="2098">9.不为强者的坚持伸手，愿为弱者的妥协流泪；</TOKEN>
+      </SEG>
+      <SEG id="segment-49" start_char="2101" end_char="2124">
+        <ORIGINAL_TEXT>10.不愿为执行规则所累，宁愿为适应潜规则受罪；</ORIGINAL_TEXT>
+        <TOKEN id="token-49-0" pos="unknown" morph="none" start_char="2101" end_char="2124">10.不愿为执行规则所累，宁愿为适应潜规则受罪；</TOKEN>
+      </SEG>
+      <SEG id="segment-50" start_char="2127" end_char="2149">
+        <ORIGINAL_TEXT>11.不为大家的利益奋斗，愿为大家的不幸怒骂；</ORIGINAL_TEXT>
+        <TOKEN id="token-50-0" pos="unknown" morph="none" start_char="2127" end_char="2149">11.不为大家的利益奋斗，愿为大家的不幸怒骂；</TOKEN>
+      </SEG>
+      <SEG id="segment-51" start_char="2152" end_char="2172">
+        <ORIGINAL_TEXT>12.不为长远未来谋福，愿为眼前小利冒险。</ORIGINAL_TEXT>
+        <TOKEN id="token-51-0" pos="unknown" morph="none" start_char="2152" end_char="2172">12.不为长远未来谋福，愿为眼前小利冒险。</TOKEN>
+      </SEG>
+      <SEG id="segment-52" start_char="2175" end_char="2247">
+        <ORIGINAL_TEXT>看完以上两段文字，作为中国人，我们更多的感到我们与现代文明社会还有不小差距！忠言逆耳，句句锥心，却是句句真实。为实现中国梦，我们除了反思，更要奋进</ORIGINAL_TEXT>
+        <TOKEN id="token-52-0" pos="unknown" morph="none" start_char="2175" end_char="2247">看完以上两段文字，作为中国人，我们更多的感到我们与现代文明社会还有不小差距！忠言逆耳，句句锥心，却是句句真实。为实现中国梦，我们除了反思，更要奋进</TOKEN>
+      </SEG>
+      <SEG id="segment-53" start_char="2249" end_char="2255">
+        <ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-53-0" pos="unknown" morph="none" start_char="2249" end_char="2255">&lt;/post&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-54" start_char="2257" end_char="2318">
+        <ORIGINAL_TEXT>&lt;post id="p10" author="real01" datetime="2014-08-31T07:26:00"&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-54-0" pos="unknown" morph="none" start_char="2257" end_char="2261">&lt;post</TOKEN>
+        <TOKEN id="token-54-1" pos="unknown" morph="none" start_char="2263" end_char="2270">id="p10"</TOKEN>
+        <TOKEN id="token-54-2" pos="unknown" morph="none" start_char="2272" end_char="2286">author="real01"</TOKEN>
+        <TOKEN id="token-54-3" pos="unknown" morph="none" start_char="2288" end_char="2318">datetime="2014-08-31T07:26:00"&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-55" start_char="2320" end_char="2394">
+        <ORIGINAL_TEXT>“人文” 就是一种植根于内心的素养，以承认约束为前提的自由，一种能设身处地为别人着想的善良。它关乎公平、正义，就在我们日常的生活，就在人和人的关系中。</ORIGINAL_TEXT>
+        <TOKEN id="token-55-0" pos="punct" morph="none" start_char="2320" end_char="2320">“</TOKEN>
+        <TOKEN id="token-55-1" pos="word" morph="none" start_char="2321" end_char="2322">人文</TOKEN>
+        <TOKEN id="token-55-2" pos="punct" morph="none" start_char="2323" end_char="2323">”</TOKEN>
+        <TOKEN id="token-55-3" pos="unknown" morph="none" start_char="2325" end_char="2394">就是一种植根于内心的素养，以承认约束为前提的自由，一种能设身处地为别人着想的善良。它关乎公平、正义，就在我们日常的生活，就在人和人的关系中。</TOKEN>
+      </SEG>
+      <SEG id="segment-56" start_char="2397" end_char="2458">
+        <ORIGINAL_TEXT>想想我们有多少时候，不需要别人提醒，就知道检点自己的行为，就能够自觉地遵纪守法、恪守做人的本分，尽可能为别人着想、帮助他人？</ORIGINAL_TEXT>
+        <TOKEN id="token-56-0" pos="unknown" morph="none" start_char="2397" end_char="2458">想想我们有多少时候，不需要别人提醒，就知道检点自己的行为，就能够自觉地遵纪守法、恪守做人的本分，尽可能为别人着想、帮助他人？</TOKEN>
+      </SEG>
+      <SEG id="segment-57" start_char="2461" end_char="2519">
+        <ORIGINAL_TEXT>言及此，我想起了那句名言：“文化可以立国”。为了国家更发达，社会更和谐，为了我们更自在，更快乐，我们要做到自律，人文!</ORIGINAL_TEXT>
+        <TOKEN id="token-57-0" pos="unknown" morph="none" start_char="2461" end_char="2519">言及此，我想起了那句名言：“文化可以立国”。为了国家更发达，社会更和谐，为了我们更自在，更快乐，我们要做到自律，人文!</TOKEN>
+      </SEG>
+      <SEG id="segment-58" start_char="2521" end_char="2572">
+        <ORIGINAL_TEXT>人文也好，宗教也好，懂得尊重别人，才能好好爱自己。好的素质是一种人文，也是一种修炼，心静内观，悠然自得。</ORIGINAL_TEXT>
+        <TOKEN id="token-58-0" pos="unknown" morph="none" start_char="2521" end_char="2572">人文也好，宗教也好，懂得尊重别人，才能好好爱自己。好的素质是一种人文，也是一种修炼，心静内观，悠然自得。</TOKEN>
+      </SEG>
+      <SEG id="segment-59" start_char="2575" end_char="2584">
+        <ORIGINAL_TEXT>转自《骨子里的高贵》</ORIGINAL_TEXT>
+        <TOKEN id="token-59-0" pos="word" morph="none" start_char="2575" end_char="2576">转自</TOKEN>
+        <TOKEN id="token-59-1" pos="punct" morph="none" start_char="2577" end_char="2577">《</TOKEN>
+        <TOKEN id="token-59-2" pos="word" morph="none" start_char="2578" end_char="2583">骨子里的高贵</TOKEN>
+        <TOKEN id="token-59-3" pos="punct" morph="none" start_char="2584" end_char="2584">》</TOKEN>
+      </SEG>
+      <SEG id="segment-60" start_char="2586" end_char="2592">
+        <ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-60-0" pos="unknown" morph="none" start_char="2586" end_char="2592">&lt;/post&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-61" start_char="2594" end_char="2655">
+        <ORIGINAL_TEXT>&lt;post id="p11" author="real01" datetime="2014-09-17T15:58:00"&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-61-0" pos="unknown" morph="none" start_char="2594" end_char="2598">&lt;post</TOKEN>
+        <TOKEN id="token-61-1" pos="unknown" morph="none" start_char="2600" end_char="2607">id="p11"</TOKEN>
+        <TOKEN id="token-61-2" pos="unknown" morph="none" start_char="2609" end_char="2623">author="real01"</TOKEN>
+        <TOKEN id="token-61-3" pos="unknown" morph="none" start_char="2625" end_char="2655">datetime="2014-09-17T15:58:00"&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-62" start_char="2657" end_char="2669">
+        <ORIGINAL_TEXT>2009，神采飞扬的希希～</ORIGINAL_TEXT>
+        <TOKEN id="token-62-0" pos="unknown" morph="none" start_char="2657" end_char="2669">2009，神采飞扬的希希～</TOKEN>
+      </SEG>
+      <SEG id="segment-63" start_char="2672" end_char="2791">
+        <ORIGINAL_TEXT>http://imgsrc.baidu.com/forum/w%3D580/sign=c249823b6863f6241c5d390bb744eb32/3334124c510fd9f9e77c5c6b262dd42a2934a491.jpg</ORIGINAL_TEXT>
+        <TOKEN id="token-63-0" pos="url" morph="none" start_char="2672" end_char="2791">http://imgsrc.baidu.com/forum/w%3D580/sign=c249823b6863f6241c5d390bb744eb32/3334124c510fd9f9e77c5c6b262dd42a2934a491.jpg</TOKEN>
+      </SEG>
+      <SEG id="segment-64" start_char="2793" end_char="2799">
+        <ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-64-0" pos="unknown" morph="none" start_char="2793" end_char="2799">&lt;/post&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-65" start_char="2801" end_char="2862">
+        <ORIGINAL_TEXT>&lt;post id="p12" author="real01" datetime="2014-09-17T16:06:00"&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-65-0" pos="unknown" morph="none" start_char="2801" end_char="2805">&lt;post</TOKEN>
+        <TOKEN id="token-65-1" pos="unknown" morph="none" start_char="2807" end_char="2814">id="p12"</TOKEN>
+        <TOKEN id="token-65-2" pos="unknown" morph="none" start_char="2816" end_char="2830">author="real01"</TOKEN>
+        <TOKEN id="token-65-3" pos="unknown" morph="none" start_char="2832" end_char="2862">datetime="2014-09-17T16:06:00"&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-66" start_char="2864" end_char="2892">
+        <ORIGINAL_TEXT>图片为准。阅读的困难主要是这书太重了！为什么不分为两册呢？</ORIGINAL_TEXT>
+        <TOKEN id="token-66-0" pos="unknown" morph="none" start_char="2864" end_char="2892">图片为准。阅读的困难主要是这书太重了！为什么不分为两册呢？</TOKEN>
+      </SEG>
+      <SEG id="segment-67" start_char="2895" end_char="2951">
+        <ORIGINAL_TEXT>“我们希望让二十一世纪的亚洲各地人民不只更富裕，也更自由。……中国的崛起，……对于某些领袖开说是颇具吸引力的范例”</ORIGINAL_TEXT>
+        <TOKEN id="token-67-0" pos="unknown" morph="none" start_char="2895" end_char="2951">“我们希望让二十一世纪的亚洲各地人民不只更富裕，也更自由。……中国的崛起，……对于某些领袖开说是颇具吸引力的范例”</TOKEN>
+      </SEG>
+      <SEG id="segment-68" start_char="2953" end_char="2959">
+        <ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-68-0" pos="unknown" morph="none" start_char="2953" end_char="2959">&lt;/post&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-69" start_char="2961" end_char="3022">
+        <ORIGINAL_TEXT>&lt;post id="p13" author="real01" datetime="2014-09-27T21:37:00"&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-69-0" pos="unknown" morph="none" start_char="2961" end_char="2965">&lt;post</TOKEN>
+        <TOKEN id="token-69-1" pos="unknown" morph="none" start_char="2967" end_char="2974">id="p13"</TOKEN>
+        <TOKEN id="token-69-2" pos="unknown" morph="none" start_char="2976" end_char="2990">author="real01"</TOKEN>
+        <TOKEN id="token-69-3" pos="unknown" morph="none" start_char="2992" end_char="3022">datetime="2014-09-27T21:37:00"&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-70" start_char="3024" end_char="3172">
+        <ORIGINAL_TEXT>如果老拿现在的日本人和日本政府说事，就像把过去蒙古人对全世界的杀戮，算在现在中国人的账上，把满清王朝对汉人的“扬州十日、嘉定三屠”的种族灭绝暴行，老让现在的中国政府道歉。或者过去周边的蛮夷番邦，许多都是对中国朝贡称臣的属国。中国在属国有驻军和征讨，现在如果这些国家老要求赔偿和道歉，这还有完没完？ </ORIGINAL_TEXT>
+        <TOKEN id="token-70-0" pos="unknown" morph="none" start_char="3024" end_char="3171">如果老拿现在的日本人和日本政府说事，就像把过去蒙古人对全世界的杀戮，算在现在中国人的账上，把满清王朝对汉人的“扬州十日、嘉定三屠”的种族灭绝暴行，老让现在的中国政府道歉。或者过去周边的蛮夷番邦，许多都是对中国朝贡称臣的属国。中国在属国有驻军和征讨，现在如果这些国家老要求赔偿和道歉，这还有完没完？</TOKEN>
+      </SEG>
+      <SEG id="segment-71" start_char="3175" end_char="3308">
+        <ORIGINAL_TEXT>实际上这些年日本国内没有什么变化，钓鱼岛也一直在他们手里。如果说有变化，就是越来越多的人对政治不感兴趣，所谓的“爱国”变成极少数极右翼的事。当走马灯上台的领导，时不时用民族主义的言行表演，却招致日本国内主流舆论的反对的时候，也说明民族主义、军国复活在日本多么没市场。 </ORIGINAL_TEXT>
+        <TOKEN id="token-71-0" pos="unknown" morph="none" start_char="3175" end_char="3307">实际上这些年日本国内没有什么变化，钓鱼岛也一直在他们手里。如果说有变化，就是越来越多的人对政治不感兴趣，所谓的“爱国”变成极少数极右翼的事。当走马灯上台的领导，时不时用民族主义的言行表演，却招致日本国内主流舆论的反对的时候，也说明民族主义、军国复活在日本多么没市场。</TOKEN>
+      </SEG>
+      <SEG id="segment-72" start_char="3311" end_char="3450">
+        <ORIGINAL_TEXT>但中日关系确实很麻烦，除了日本的原因，很多程度上是由于中国国内的变化。国力上升心态变化，意识形态不灵民族主义填补。过去钓鱼岛都不是个事，上世纪6、70年代，台湾省和海外华人风起云涌保钓，这边厢不予置评，大力推进中日邦交正常化和世代友好。现在钓鱼岛则成了天大的事。 @罗布_D_路奇</ORIGINAL_TEXT>
+        <TOKEN id="token-72-0" pos="unknown" morph="none" start_char="3311" end_char="3441">但中日关系确实很麻烦，除了日本的原因，很多程度上是由于中国国内的变化。国力上升心态变化，意识形态不灵民族主义填补。过去钓鱼岛都不是个事，上世纪6、70年代，台湾省和海外华人风起云涌保钓，这边厢不予置评，大力推进中日邦交正常化和世代友好。现在钓鱼岛则成了天大的事。</TOKEN>
+        <TOKEN id="token-72-1" pos="twitter" morph="none" start_char="3443" end_char="3450">@罗布_D_路奇</TOKEN>
+      </SEG>
+      <SEG id="segment-73" start_char="3452" end_char="3458">
+        <ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-73-0" pos="unknown" morph="none" start_char="3452" end_char="3458">&lt;/post&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-74" start_char="3460" end_char="3529">
+        <ORIGINAL_TEXT>&lt;post id="p14" author="Doctor19980604" datetime="2014-09-29T17:40:00"&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-74-0" pos="unknown" morph="none" start_char="3460" end_char="3464">&lt;post</TOKEN>
+        <TOKEN id="token-74-1" pos="unknown" morph="none" start_char="3466" end_char="3473">id="p14"</TOKEN>
+        <TOKEN id="token-74-2" pos="unknown" morph="none" start_char="3475" end_char="3497">author="Doctor19980604"</TOKEN>
+        <TOKEN id="token-74-3" pos="unknown" morph="none" start_char="3499" end_char="3529">datetime="2014-09-29T17:40:00"&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-75" start_char="3531" end_char="3553">
+        <ORIGINAL_TEXT>太好啦没看传记还以为希拉里当总统后会针对中国呢</ORIGINAL_TEXT>
+        <TOKEN id="token-75-0" pos="word" morph="none" start_char="3531" end_char="3553">太好啦没看传记还以为希拉里当总统后会针对中国呢</TOKEN>
+      </SEG>
+      <SEG id="segment-76" start_char="3555" end_char="3561">
+        <ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-76-0" pos="unknown" morph="none" start_char="3555" end_char="3561">&lt;/post&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-77" start_char="3563" end_char="3624">
+        <ORIGINAL_TEXT>&lt;post id="p15" author="real01" datetime="2014-10-15T11:16:00"&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-77-0" pos="unknown" morph="none" start_char="3563" end_char="3567">&lt;post</TOKEN>
+        <TOKEN id="token-77-1" pos="unknown" morph="none" start_char="3569" end_char="3576">id="p15"</TOKEN>
+        <TOKEN id="token-77-2" pos="unknown" morph="none" start_char="3578" end_char="3592">author="real01"</TOKEN>
+        <TOKEN id="token-77-3" pos="unknown" morph="none" start_char="3594" end_char="3624">datetime="2014-10-15T11:16:00"&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-78" start_char="3626" end_char="3638">
+        <ORIGINAL_TEXT>很喜欢这个开头，很有文采：</ORIGINAL_TEXT>
+        <TOKEN id="token-78-0" pos="word" morph="none" start_char="3626" end_char="3632">很喜欢这个开头</TOKEN>
+        <TOKEN id="token-78-1" pos="punct" morph="none" start_char="3633" end_char="3633">，</TOKEN>
+        <TOKEN id="token-78-2" pos="word" morph="none" start_char="3634" end_char="3637">很有文采</TOKEN>
+        <TOKEN id="token-78-3" pos="punct" morph="none" start_char="3638" end_char="3638">：</TOKEN>
+      </SEG>
+      <SEG id="segment-79" start_char="3641" end_char="3754">
+        <ORIGINAL_TEXT>“她身材纤细，甚至有些柔弱，却有股不容忽视的内在力量，散发着宁静、庄严的气质。在她长期被监禁的身体里，有一颗生气勃勃、热力十足的心。这些是我在其他政治犯身上，也感受到的特质，包括曼德拉……。她和他们一样，将全国的希望扛在肩上。”</ORIGINAL_TEXT>
+        <TOKEN id="token-79-0" pos="unknown" morph="none" start_char="3641" end_char="3754">“她身材纤细，甚至有些柔弱，却有股不容忽视的内在力量，散发着宁静、庄严的气质。在她长期被监禁的身体里，有一颗生气勃勃、热力十足的心。这些是我在其他政治犯身上，也感受到的特质，包括曼德拉……。她和他们一样，将全国的希望扛在肩上。”</TOKEN>
+      </SEG>
+      <SEG id="segment-80" start_char="3757" end_char="3803">
+        <ORIGINAL_TEXT>“2011年12月1日，我第一次见到昂山素季，我们两人都穿着白衣，这似乎是个幸运的巧合。……”</ORIGINAL_TEXT>
+        <TOKEN id="token-80-0" pos="unknown" morph="none" start_char="3757" end_char="3803">“2011年12月1日，我第一次见到昂山素季，我们两人都穿着白衣，这似乎是个幸运的巧合。……”</TOKEN>
+      </SEG>
+      <SEG id="segment-81" start_char="3806" end_char="3925">
+        <ORIGINAL_TEXT>http://imgsrc.baidu.com/forum/w%3D580/sign=7b9599bbb1119313c743ffb855390c10/d41b992397dda14485e23bcbb1b7d0a20df48628.jpg</ORIGINAL_TEXT>
+        <TOKEN id="token-81-0" pos="url" morph="none" start_char="3806" end_char="3925">http://imgsrc.baidu.com/forum/w%3D580/sign=7b9599bbb1119313c743ffb855390c10/d41b992397dda14485e23bcbb1b7d0a20df48628.jpg</TOKEN>
+      </SEG>
+      <SEG id="segment-82" start_char="3927" end_char="3933">
+        <ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-82-0" pos="unknown" morph="none" start_char="3927" end_char="3933">&lt;/post&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-83" start_char="3935" end_char="3992">
+        <ORIGINAL_TEXT>&lt;post id="p16" author="革义" datetime="2014-11-25T17:32:00"&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-83-0" pos="unknown" morph="none" start_char="3935" end_char="3939">&lt;post</TOKEN>
+        <TOKEN id="token-83-1" pos="unknown" morph="none" start_char="3941" end_char="3948">id="p16"</TOKEN>
+        <TOKEN id="token-83-2" pos="unknown" morph="none" start_char="3950" end_char="3960">author="革义"</TOKEN>
+        <TOKEN id="token-83-3" pos="unknown" morph="none" start_char="3962" end_char="3992">datetime="2014-11-25T17:32:00"&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-84" start_char="3994" end_char="3998">
+        <ORIGINAL_TEXT>时刻准备着</ORIGINAL_TEXT>
+        <TOKEN id="token-84-0" pos="word" morph="none" start_char="3994" end_char="3998">时刻准备着</TOKEN>
+      </SEG>
+      <SEG id="segment-85" start_char="4000" end_char="4006">
+        <ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-85-0" pos="unknown" morph="none" start_char="4000" end_char="4006">&lt;/post&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-86" start_char="4008" end_char="4071">
+        <ORIGINAL_TEXT>&lt;post id="p17" author="沉默的羔羊ccd" datetime="2014-12-31T18:08:00"&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-86-0" pos="unknown" morph="none" start_char="4008" end_char="4012">&lt;post</TOKEN>
+        <TOKEN id="token-86-1" pos="unknown" morph="none" start_char="4014" end_char="4021">id="p17"</TOKEN>
+        <TOKEN id="token-86-2" pos="unknown" morph="none" start_char="4023" end_char="4039">author="沉默的羔羊ccd"</TOKEN>
+        <TOKEN id="token-86-3" pos="unknown" morph="none" start_char="4041" end_char="4071">datetime="2014-12-31T18:08:00"&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-87" start_char="4073" end_char="4164">
+        <ORIGINAL_TEXT>中国人为什么功利心那么盛，那么自傲自大，好似他是全世界的中心，老是把他人想成坏人，就像中国一贯奉行地把陌生人都想象成假想敌人，搞得一点人味都没有了，举国上下人人自危，人与人之间没有爱。</ORIGINAL_TEXT>
+        <TOKEN id="token-87-0" pos="unknown" morph="none" start_char="4073" end_char="4164">中国人为什么功利心那么盛，那么自傲自大，好似他是全世界的中心，老是把他人想成坏人，就像中国一贯奉行地把陌生人都想象成假想敌人，搞得一点人味都没有了，举国上下人人自危，人与人之间没有爱。</TOKEN>
+      </SEG>
+      <SEG id="segment-88" start_char="4166" end_char="4172">
+        <ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-88-0" pos="unknown" morph="none" start_char="4166" end_char="4172">&lt;/post&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-89" start_char="4174" end_char="4237">
+        <ORIGINAL_TEXT>&lt;post id="p18" author="Lovely妮C" datetime="2015-01-17T09:59:00"&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-89-0" pos="unknown" morph="none" start_char="4174" end_char="4178">&lt;post</TOKEN>
+        <TOKEN id="token-89-1" pos="unknown" morph="none" start_char="4180" end_char="4187">id="p18"</TOKEN>
+        <TOKEN id="token-89-2" pos="unknown" morph="none" start_char="4189" end_char="4205">author="Lovely妮C"</TOKEN>
+        <TOKEN id="token-89-3" pos="unknown" morph="none" start_char="4207" end_char="4237">datetime="2015-01-17T09:59:00"&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-90" start_char="4239" end_char="4243">
+        <ORIGINAL_TEXT>真心太假了</ORIGINAL_TEXT>
+        <TOKEN id="token-90-0" pos="word" morph="none" start_char="4239" end_char="4243">真心太假了</TOKEN>
+      </SEG>
+      <SEG id="segment-91" start_char="4245" end_char="4251">
+        <ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-91-0" pos="unknown" morph="none" start_char="4245" end_char="4251">&lt;/post&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-92" start_char="4253" end_char="4318">
+        <ORIGINAL_TEXT>&lt;post id="p19" author="anyejixing" datetime="2015-02-28T13:50:00"&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-92-0" pos="unknown" morph="none" start_char="4253" end_char="4257">&lt;post</TOKEN>
+        <TOKEN id="token-92-1" pos="unknown" morph="none" start_char="4259" end_char="4266">id="p19"</TOKEN>
+        <TOKEN id="token-92-2" pos="unknown" morph="none" start_char="4268" end_char="4286">author="anyejixing"</TOKEN>
+        <TOKEN id="token-92-3" pos="unknown" morph="none" start_char="4288" end_char="4318">datetime="2015-02-28T13:50:00"&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-93" start_char="4320" end_char="4342">
+        <ORIGINAL_TEXT>虽然根本不可信，但我还是好好喜欢希拉里克林顿哟</ORIGINAL_TEXT>
+        <TOKEN id="token-93-0" pos="word" morph="none" start_char="4320" end_char="4326">虽然根本不可信</TOKEN>
+        <TOKEN id="token-93-1" pos="punct" morph="none" start_char="4327" end_char="4327">，</TOKEN>
+        <TOKEN id="token-93-2" pos="word" morph="none" start_char="4328" end_char="4342">但我还是好好喜欢希拉里克林顿哟</TOKEN>
+      </SEG>
+      <SEG id="segment-94" start_char="4344" end_char="4350">
+        <ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-94-0" pos="unknown" morph="none" start_char="4344" end_char="4350">&lt;/post&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-95" start_char="4352" end_char="4416">
+        <ORIGINAL_TEXT>&lt;post id="p20" author="hakeerror" datetime="2015-03-02T22:09:00"&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-95-0" pos="unknown" morph="none" start_char="4352" end_char="4356">&lt;post</TOKEN>
+        <TOKEN id="token-95-1" pos="unknown" morph="none" start_char="4358" end_char="4365">id="p20"</TOKEN>
+        <TOKEN id="token-95-2" pos="unknown" morph="none" start_char="4367" end_char="4384">author="hakeerror"</TOKEN>
+        <TOKEN id="token-95-3" pos="unknown" morph="none" start_char="4386" end_char="4416">datetime="2015-03-02T22:09:00"&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-96" start_char="4418" end_char="4462">
+        <ORIGINAL_TEXT>公平的说 新的艰难抉择 是本无味的书 对比上一本 亲历历史 差距很大 美国销量也可以看出来</ORIGINAL_TEXT>
+        <TOKEN id="token-96-0" pos="word" morph="none" start_char="4418" end_char="4421">公平的说</TOKEN>
+        <TOKEN id="token-96-1" pos="word" morph="none" start_char="4423" end_char="4428">新的艰难抉择</TOKEN>
+        <TOKEN id="token-96-2" pos="word" morph="none" start_char="4430" end_char="4435">是本无味的书</TOKEN>
+        <TOKEN id="token-96-3" pos="word" morph="none" start_char="4437" end_char="4441">对比上一本</TOKEN>
+        <TOKEN id="token-96-4" pos="word" morph="none" start_char="4443" end_char="4446">亲历历史</TOKEN>
+        <TOKEN id="token-96-5" pos="word" morph="none" start_char="4448" end_char="4451">差距很大</TOKEN>
+        <TOKEN id="token-96-6" pos="word" morph="none" start_char="4453" end_char="4462">美国销量也可以看出来</TOKEN>
+      </SEG>
+      <SEG id="segment-97" start_char="4465" end_char="4536">
+        <ORIGINAL_TEXT>差距的原因 我觉得是 2本书的准备时间和目的 都不一样 新的书很短时间成书 肯定不够成熟 而且目的大家可能忽略了 西西出新书 其实是竞选的广告 </ORIGINAL_TEXT>
+        <TOKEN id="token-97-0" pos="word" morph="none" start_char="4465" end_char="4469">差距的原因</TOKEN>
+        <TOKEN id="token-97-1" pos="word" morph="none" start_char="4471" end_char="4474">我觉得是</TOKEN>
+        <TOKEN id="token-97-2" pos="word" morph="none" start_char="4476" end_char="4486">2本书的准备时间和目的</TOKEN>
+        <TOKEN id="token-97-3" pos="word" morph="none" start_char="4488" end_char="4491">都不一样</TOKEN>
+        <TOKEN id="token-97-4" pos="word" morph="none" start_char="4493" end_char="4501">新的书很短时间成书</TOKEN>
+        <TOKEN id="token-97-5" pos="word" morph="none" start_char="4503" end_char="4508">肯定不够成熟</TOKEN>
+        <TOKEN id="token-97-6" pos="word" morph="none" start_char="4510" end_char="4520">而且目的大家可能忽略了</TOKEN>
+        <TOKEN id="token-97-7" pos="word" morph="none" start_char="4522" end_char="4526">西西出新书</TOKEN>
+        <TOKEN id="token-97-8" pos="word" morph="none" start_char="4528" end_char="4535">其实是竞选的广告</TOKEN>
+      </SEG>
+      <SEG id="segment-98" start_char="4539" end_char="4624">
+        <ORIGINAL_TEXT>为什么名字叫艰难抉择 其实是西西对女性当总统面临的可能疑惑的回答 潜意识是这么个意思 看我们女性 也有能力和勇气作出重大抉择 完全可以保护美国安全 绝对不是胆怯犹豫的代名词</ORIGINAL_TEXT>
+        <TOKEN id="token-98-0" pos="word" morph="none" start_char="4539" end_char="4548">为什么名字叫艰难抉择</TOKEN>
+        <TOKEN id="token-98-1" pos="word" morph="none" start_char="4550" end_char="4570">其实是西西对女性当总统面临的可能疑惑的回答</TOKEN>
+        <TOKEN id="token-98-2" pos="word" morph="none" start_char="4572" end_char="4580">潜意识是这么个意思</TOKEN>
+        <TOKEN id="token-98-3" pos="word" morph="none" start_char="4582" end_char="4586">看我们女性</TOKEN>
+        <TOKEN id="token-98-4" pos="word" morph="none" start_char="4588" end_char="4600">也有能力和勇气作出重大抉择</TOKEN>
+        <TOKEN id="token-98-5" pos="word" morph="none" start_char="4602" end_char="4611">完全可以保护美国安全</TOKEN>
+        <TOKEN id="token-98-6" pos="word" morph="none" start_char="4613" end_char="4624">绝对不是胆怯犹豫的代名词</TOKEN>
+      </SEG>
+      <SEG id="segment-99" start_char="4627" end_char="4648">
+        <ORIGINAL_TEXT>我欣赏西西 但是新书却有点失望 早在意料之中</ORIGINAL_TEXT>
+        <TOKEN id="token-99-0" pos="word" morph="none" start_char="4627" end_char="4631">我欣赏西西</TOKEN>
+        <TOKEN id="token-99-1" pos="word" morph="none" start_char="4633" end_char="4641">但是新书却有点失望</TOKEN>
+        <TOKEN id="token-99-2" pos="word" morph="none" start_char="4643" end_char="4648">早在意料之中</TOKEN>
+      </SEG>
+      <SEG id="segment-100" start_char="4650" end_char="4656">
+        <ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-100-0" pos="unknown" morph="none" start_char="4650" end_char="4656">&lt;/post&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-101" start_char="4658" end_char="4719">
+        <ORIGINAL_TEXT>&lt;post id="p21" author="real01" datetime="2015-03-03T18:29:00"&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-101-0" pos="unknown" morph="none" start_char="4658" end_char="4662">&lt;post</TOKEN>
+        <TOKEN id="token-101-1" pos="unknown" morph="none" start_char="4664" end_char="4671">id="p21"</TOKEN>
+        <TOKEN id="token-101-2" pos="unknown" morph="none" start_char="4673" end_char="4687">author="real01"</TOKEN>
+        <TOKEN id="token-101-3" pos="unknown" morph="none" start_char="4689" end_char="4719">datetime="2015-03-03T18:29:00"&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-102" start_char="4721" end_char="4829">
+        <ORIGINAL_TEXT>新书还是很有文采的，我特别注意写中国和缅甸的部分。写陈和王的部分如同007大片，真实的事情竟然如此紧张精彩，当事人才能写出来。为什么有吧友认为无趣？如果这些是无趣，那么什么是有趣？这么真实的故事我们去哪里看到更有趣的？</ORIGINAL_TEXT>
+        <TOKEN id="token-102-0" pos="unknown" morph="none" start_char="4721" end_char="4829">新书还是很有文采的，我特别注意写中国和缅甸的部分。写陈和王的部分如同007大片，真实的事情竟然如此紧张精彩，当事人才能写出来。为什么有吧友认为无趣？如果这些是无趣，那么什么是有趣？这么真实的故事我们去哪里看到更有趣的？</TOKEN>
+      </SEG>
+      <SEG id="segment-103" start_char="4831" end_char="4837">
+        <ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-103-0" pos="unknown" morph="none" start_char="4831" end_char="4837">&lt;/post&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-104" start_char="4839" end_char="4906">
+        <ORIGINAL_TEXT>&lt;post id="p22" author="dominick1996" datetime="2015-03-04T00:06:00"&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-104-0" pos="unknown" morph="none" start_char="4839" end_char="4843">&lt;post</TOKEN>
+        <TOKEN id="token-104-1" pos="unknown" morph="none" start_char="4845" end_char="4852">id="p22"</TOKEN>
+        <TOKEN id="token-104-2" pos="unknown" morph="none" start_char="4854" end_char="4874">author="dominick1996"</TOKEN>
+        <TOKEN id="token-104-3" pos="unknown" morph="none" start_char="4876" end_char="4906">datetime="2015-03-04T00:06:00"&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-105" start_char="4908" end_char="4916">
+        <ORIGINAL_TEXT>这句话听着有些讽刺</ORIGINAL_TEXT>
+        <TOKEN id="token-105-0" pos="word" morph="none" start_char="4908" end_char="4916">这句话听着有些讽刺</TOKEN>
+      </SEG>
+      <SEG id="segment-106" start_char="4918" end_char="4924">
+        <ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-106-0" pos="unknown" morph="none" start_char="4918" end_char="4924">&lt;/post&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-107" start_char="4926" end_char="4985">
+        <ORIGINAL_TEXT>&lt;post id="p23" author="猎隼巡游" datetime="2015-04-13T14:02:00"&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-107-0" pos="unknown" morph="none" start_char="4926" end_char="4930">&lt;post</TOKEN>
+        <TOKEN id="token-107-1" pos="unknown" morph="none" start_char="4932" end_char="4939">id="p23"</TOKEN>
+        <TOKEN id="token-107-2" pos="unknown" morph="none" start_char="4941" end_char="4953">author="猎隼巡游"</TOKEN>
+        <TOKEN id="token-107-3" pos="unknown" morph="none" start_char="4955" end_char="4985">datetime="2015-04-13T14:02:00"&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-108" start_char="4987" end_char="4997">
+        <ORIGINAL_TEXT>希拉里，我永远支持你！</ORIGINAL_TEXT>
+        <TOKEN id="token-108-0" pos="word" morph="none" start_char="4987" end_char="4989">希拉里</TOKEN>
+        <TOKEN id="token-108-1" pos="punct" morph="none" start_char="4990" end_char="4990">，</TOKEN>
+        <TOKEN id="token-108-2" pos="word" morph="none" start_char="4991" end_char="4996">我永远支持你</TOKEN>
+        <TOKEN id="token-108-3" pos="punct" morph="none" start_char="4997" end_char="4997">！</TOKEN>
+      </SEG>
+      <SEG id="segment-109" start_char="4999" end_char="5005">
+        <ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-109-0" pos="unknown" morph="none" start_char="4999" end_char="5005">&lt;/post&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-110" start_char="5007" end_char="5067">
+        <ORIGINAL_TEXT>&lt;post id="p24" author="茶烟淡思量" datetime="2015-04-15T18:18:00"&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-110-0" pos="unknown" morph="none" start_char="5007" end_char="5011">&lt;post</TOKEN>
+        <TOKEN id="token-110-1" pos="unknown" morph="none" start_char="5013" end_char="5020">id="p24"</TOKEN>
+        <TOKEN id="token-110-2" pos="unknown" morph="none" start_char="5022" end_char="5035">author="茶烟淡思量"</TOKEN>
+        <TOKEN id="token-110-3" pos="unknown" morph="none" start_char="5037" end_char="5067">datetime="2015-04-15T18:18:00"&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-111" start_char="5069" end_char="5192">
+        <ORIGINAL_TEXT>政客嘴里的话转变的太快，尤其是一直想操作中国利益的人。美国人的总体素质是比我们国人高出很多，但是他们要比我们教育先进很多年，中国是个没自由的国家，但是你可以看看其他方面。外国那边晚上都要带着枪支出门，比较乱，我们这边禁了枪支老百姓的安全还是高很多的</ORIGINAL_TEXT>
+        <TOKEN id="token-111-0" pos="unknown" morph="none" start_char="5069" end_char="5192">政客嘴里的话转变的太快，尤其是一直想操作中国利益的人。美国人的总体素质是比我们国人高出很多，但是他们要比我们教育先进很多年，中国是个没自由的国家，但是你可以看看其他方面。外国那边晚上都要带着枪支出门，比较乱，我们这边禁了枪支老百姓的安全还是高很多的</TOKEN>
+      </SEG>
+      <SEG id="segment-112" start_char="5194" end_char="5200">
+        <ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-112-0" pos="unknown" morph="none" start_char="5194" end_char="5200">&lt;/post&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-113" start_char="5202" end_char="5267">
+        <ORIGINAL_TEXT>&lt;post id="p25" author="yjf3224775" datetime="2015-04-19T10:36:00"&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-113-0" pos="unknown" morph="none" start_char="5202" end_char="5206">&lt;post</TOKEN>
+        <TOKEN id="token-113-1" pos="unknown" morph="none" start_char="5208" end_char="5215">id="p25"</TOKEN>
+        <TOKEN id="token-113-2" pos="unknown" morph="none" start_char="5217" end_char="5235">author="yjf3224775"</TOKEN>
+        <TOKEN id="token-113-3" pos="unknown" morph="none" start_char="5237" end_char="5267">datetime="2015-04-19T10:36:00"&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-114" start_char="5269" end_char="5298">
+        <ORIGINAL_TEXT>支持希拉里，支持民主，但是不支持希拉里借各种理由干预中国内政</ORIGINAL_TEXT>
+        <TOKEN id="token-114-0" pos="unknown" morph="none" start_char="5269" end_char="5298">支持希拉里，支持民主，但是不支持希拉里借各种理由干预中国内政</TOKEN>
+      </SEG>
+      <SEG id="segment-115" start_char="5300" end_char="5306">
+        <ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-115-0" pos="unknown" morph="none" start_char="5300" end_char="5306">&lt;/post&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-116" start_char="5308" end_char="5369">
+        <ORIGINAL_TEXT>&lt;post id="p26" author="real01" datetime="2015-04-19T12:40:00"&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-116-0" pos="unknown" morph="none" start_char="5308" end_char="5312">&lt;post</TOKEN>
+        <TOKEN id="token-116-1" pos="unknown" morph="none" start_char="5314" end_char="5321">id="p26"</TOKEN>
+        <TOKEN id="token-116-2" pos="unknown" morph="none" start_char="5323" end_char="5337">author="real01"</TOKEN>
+        <TOKEN id="token-116-3" pos="unknown" morph="none" start_char="5339" end_char="5369">datetime="2015-04-19T12:40:00"&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-117" start_char="5371" end_char="5521">
+        <ORIGINAL_TEXT>又见春天 二次世界大战之后，美国从来没有包围、 威胁、入侵过任何一个民主国家。相反， 美国确实直接、或间接通过军事手段推翻 了希特勒、萨达姆、米洛舍维奇等独裁政 权，使全球独裁国家的数量从120多个减 少到现在的不到20个国家。美国军事力量 威慑的，从来都是那些奴役人类的独裁政 权。——美国总统奥巴马</ORIGINAL_TEXT>
+        <TOKEN id="token-117-0" pos="word" morph="none" start_char="5371" end_char="5374">又见春天</TOKEN>
+        <TOKEN id="token-117-1" pos="word" morph="none" start_char="5376" end_char="5383">二次世界大战之后</TOKEN>
+        <TOKEN id="token-117-2" pos="punct" morph="none" start_char="5384" end_char="5384">，</TOKEN>
+        <TOKEN id="token-117-3" pos="word" morph="none" start_char="5385" end_char="5392">美国从来没有包围</TOKEN>
+        <TOKEN id="token-117-4" pos="punct" morph="none" start_char="5393" end_char="5393">、</TOKEN>
+        <TOKEN id="token-117-5" pos="unknown" morph="none" start_char="5395" end_char="5412">威胁、入侵过任何一个民主国家。相反，</TOKEN>
+        <TOKEN id="token-117-6" pos="word" morph="none" start_char="5414" end_char="5419">美国确实直接</TOKEN>
+        <TOKEN id="token-117-7" pos="punct" morph="none" start_char="5420" end_char="5420">、</TOKEN>
+        <TOKEN id="token-117-8" pos="word" morph="none" start_char="5421" end_char="5431">或间接通过军事手段推翻</TOKEN>
+        <TOKEN id="token-117-9" pos="unknown" morph="none" start_char="5433" end_char="5450">了希特勒、萨达姆、米洛舍维奇等独裁政</TOKEN>
+        <TOKEN id="token-117-10" pos="word" morph="none" start_char="5452" end_char="5452">权</TOKEN>
+        <TOKEN id="token-117-11" pos="punct" morph="none" start_char="5453" end_char="5453">，</TOKEN>
+        <TOKEN id="token-117-12" pos="word" morph="none" start_char="5454" end_char="5470">使全球独裁国家的数量从120多个减</TOKEN>
+        <TOKEN id="token-117-13" pos="word" morph="none" start_char="5472" end_char="5483">少到现在的不到20个国家</TOKEN>
+        <TOKEN id="token-117-14" pos="punct" morph="none" start_char="5484" end_char="5484">。</TOKEN>
+        <TOKEN id="token-117-15" pos="word" morph="none" start_char="5485" end_char="5490">美国军事力量</TOKEN>
+        <TOKEN id="token-117-16" pos="word" morph="none" start_char="5492" end_char="5494">威慑的</TOKEN>
+        <TOKEN id="token-117-17" pos="punct" morph="none" start_char="5495" end_char="5495">，</TOKEN>
+        <TOKEN id="token-117-18" pos="word" morph="none" start_char="5496" end_char="5509">从来都是那些奴役人类的独裁政</TOKEN>
+        <TOKEN id="token-117-19" pos="word" morph="none" start_char="5511" end_char="5511">权</TOKEN>
+        <TOKEN id="token-117-20" pos="punct" morph="none" start_char="5512" end_char="5514">。——</TOKEN>
+        <TOKEN id="token-117-21" pos="word" morph="none" start_char="5515" end_char="5521">美国总统奥巴马</TOKEN>
+      </SEG>
+      <SEG id="segment-118" start_char="5523" end_char="5529">
+        <ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-118-0" pos="unknown" morph="none" start_char="5523" end_char="5529">&lt;/post&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-119" start_char="5531" end_char="5592">
+        <ORIGINAL_TEXT>&lt;post id="p27" author="抵不住得自然" datetime="2015-06-20T22:50:00"&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-119-0" pos="unknown" morph="none" start_char="5531" end_char="5535">&lt;post</TOKEN>
+        <TOKEN id="token-119-1" pos="unknown" morph="none" start_char="5537" end_char="5544">id="p27"</TOKEN>
+        <TOKEN id="token-119-2" pos="unknown" morph="none" start_char="5546" end_char="5560">author="抵不住得自然"</TOKEN>
+        <TOKEN id="token-119-3" pos="unknown" morph="none" start_char="5562" end_char="5592">datetime="2015-06-20T22:50:00"&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-120" start_char="5594" end_char="5654">
+        <ORIGINAL_TEXT>我们没有兴趣打压中国，好威风，好煞气，以为自己是世界第一大国了不得了，岂不知现在的中国是一只展翅的雏鹰，已经锋芒毕露的鹰。</ORIGINAL_TEXT>
+        <TOKEN id="token-120-0" pos="unknown" morph="none" start_char="5594" end_char="5654">我们没有兴趣打压中国，好威风，好煞气，以为自己是世界第一大国了不得了，岂不知现在的中国是一只展翅的雏鹰，已经锋芒毕露的鹰。</TOKEN>
+      </SEG>
+      <SEG id="segment-121" start_char="5656" end_char="5662">
+        <ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-121-0" pos="unknown" morph="none" start_char="5656" end_char="5662">&lt;/post&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-122" start_char="5664" end_char="5723">
+        <ORIGINAL_TEXT>&lt;post id="p28" author="我行永远" datetime="2015-06-21T18:00:00"&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-122-0" pos="unknown" morph="none" start_char="5664" end_char="5668">&lt;post</TOKEN>
+        <TOKEN id="token-122-1" pos="unknown" morph="none" start_char="5670" end_char="5677">id="p28"</TOKEN>
+        <TOKEN id="token-122-2" pos="unknown" morph="none" start_char="5679" end_char="5691">author="我行永远"</TOKEN>
+        <TOKEN id="token-122-3" pos="unknown" morph="none" start_char="5693" end_char="5723">datetime="2015-06-21T18:00:00"&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-123" start_char="5725" end_char="5762">
+        <ORIGINAL_TEXT>希拉里：我们没有兴趣打压中国.文字为证，希拉里没有说要打压中国。支持希拉里。</ORIGINAL_TEXT>
+        <TOKEN id="token-123-0" pos="unknown" morph="none" start_char="5725" end_char="5762">希拉里：我们没有兴趣打压中国.文字为证，希拉里没有说要打压中国。支持希拉里。</TOKEN>
+      </SEG>
+      <SEG id="segment-124" start_char="5764" end_char="5770">
+        <ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-124-0" pos="unknown" morph="none" start_char="5764" end_char="5770">&lt;/post&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-125" start_char="5772" end_char="5777">
+        <ORIGINAL_TEXT>&lt;/doc&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-125-0" pos="unknown" morph="none" start_char="5772" end_char="5777">&lt;/doc&gt;</TOKEN>
+      </SEG>
+    </TEXT>
+  </DOC>
+</LCTL_TEXT>

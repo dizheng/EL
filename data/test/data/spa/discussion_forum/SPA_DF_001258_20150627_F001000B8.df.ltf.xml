@@ -1,0 +1,473 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE LCTL_TEXT SYSTEM "ltf.v1.5.dtd">
+<LCTL_TEXT>
+<DOC id="SPA_DF_001258_20150627_F001000B8.df.xml" tokenization="tokenization_parameters" grammar="none" raw_text_char_length="2042" raw_text_md5="c14fd8e9136746eb0985d0c700821c4e">
+<TEXT>
+<SEG id="segment-0" start_char="0" end_char="37">
+<ORIGINAL_TEXT>&lt;?xml version="1.0" encoding="utf-8"?&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-0-0" pos="unknown" morph="none" start_char="0" end_char="4">&lt;?xml</TOKEN>
+<TOKEN id="token-0-1" pos="unknown" morph="none" start_char="6" end_char="18">version="1.0"</TOKEN>
+<TOKEN id="token-0-2" pos="unknown" morph="none" start_char="20" end_char="37">encoding="utf-8"?&gt;</TOKEN>
+</SEG>
+<SEG id="segment-1" start_char="39" end_char="81">
+<ORIGINAL_TEXT>&lt;doc id="SPA_DF_001258_20150627_F001000B8"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-1-0" pos="unknown" morph="none" start_char="39" end_char="42">&lt;doc</TOKEN>
+<TOKEN id="token-1-1" pos="unknown" morph="none" start_char="44" end_char="81">id="SPA_DF_001258_20150627_F001000B8"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-2" start_char="83" end_char="92">
+<ORIGINAL_TEXT>&lt;headline&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-2-0" pos="unknown" morph="none" start_char="83" end_char="92">&lt;headline&gt;</TOKEN>
+</SEG>
+<SEG id="segment-3" start_char="94" end_char="169">
+<ORIGINAL_TEXT>Más de 50 muertos por atentados en Túnez, Francia y Kuwait en pleno Ramadán </ORIGINAL_TEXT>
+<TOKEN id="token-3-0" pos="word" morph="none" start_char="94" end_char="96">Más</TOKEN>
+<TOKEN id="token-3-1" pos="word" morph="none" start_char="98" end_char="99">de</TOKEN>
+<TOKEN id="token-3-2" pos="number" morph="none" start_char="101" end_char="102">50</TOKEN>
+<TOKEN id="token-3-3" pos="word" morph="none" start_char="104" end_char="110">muertos</TOKEN>
+<TOKEN id="token-3-4" pos="word" morph="none" start_char="112" end_char="114">por</TOKEN>
+<TOKEN id="token-3-5" pos="word" morph="none" start_char="116" end_char="124">atentados</TOKEN>
+<TOKEN id="token-3-6" pos="word" morph="none" start_char="126" end_char="127">en</TOKEN>
+<TOKEN id="token-3-7" pos="word" morph="none" start_char="129" end_char="133">Túnez</TOKEN>
+<TOKEN id="token-3-8" pos="punct" morph="none" start_char="134" end_char="134">,</TOKEN>
+<TOKEN id="token-3-9" pos="word" morph="none" start_char="136" end_char="142">Francia</TOKEN>
+<TOKEN id="token-3-10" pos="word" morph="none" start_char="144" end_char="144">y</TOKEN>
+<TOKEN id="token-3-11" pos="word" morph="none" start_char="146" end_char="151">Kuwait</TOKEN>
+<TOKEN id="token-3-12" pos="word" morph="none" start_char="153" end_char="154">en</TOKEN>
+<TOKEN id="token-3-13" pos="word" morph="none" start_char="156" end_char="160">pleno</TOKEN>
+<TOKEN id="token-3-14" pos="word" morph="none" start_char="162" end_char="168">Ramadán</TOKEN>
+</SEG>
+<SEG id="segment-4" start_char="171" end_char="181">
+<ORIGINAL_TEXT>&lt;/headline&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-4-0" pos="unknown" morph="none" start_char="171" end_char="181">&lt;/headline&gt;</TOKEN>
+</SEG>
+<SEG id="segment-5" start_char="183" end_char="240">
+<ORIGINAL_TEXT>&lt;post id="p1" author="Chi" datetime="2015-06-27T11:48:00"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-5-0" pos="unknown" morph="none" start_char="183" end_char="187">&lt;post</TOKEN>
+<TOKEN id="token-5-1" pos="unknown" morph="none" start_char="189" end_char="195">id="p1"</TOKEN>
+<TOKEN id="token-5-2" pos="unknown" morph="none" start_char="197" end_char="208">author="Chi"</TOKEN>
+<TOKEN id="token-5-3" pos="unknown" morph="none" start_char="210" end_char="240">datetime="2015-06-27T11:48:00"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-6" start_char="242" end_char="362">
+<ORIGINAL_TEXT>http://www.noticiascaracol.com/antioquia/mundo/mas-de-50-muertos-por-atentados-en-tunez-francia-y-kuwait-en-pleno-ramadan</ORIGINAL_TEXT>
+<TOKEN id="token-6-0" pos="url" morph="none" start_char="242" end_char="362">http://www.noticiascaracol.com/antioquia/mundo/mas-de-50-muertos-por-atentados-en-tunez-francia-y-kuwait-en-pleno-ramadan</TOKEN>
+</SEG>
+<SEG id="segment-7" start_char="364" end_char="370">
+<ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-7-0" pos="unknown" morph="none" start_char="364" end_char="370">&lt;/post&gt;</TOKEN>
+</SEG>
+<SEG id="segment-8" start_char="372" end_char="435">
+<ORIGINAL_TEXT>&lt;post id="p2" author="JUANPARAO" datetime="2015-06-27T12:08:00"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-8-0" pos="unknown" morph="none" start_char="372" end_char="376">&lt;post</TOKEN>
+<TOKEN id="token-8-1" pos="unknown" morph="none" start_char="378" end_char="384">id="p2"</TOKEN>
+<TOKEN id="token-8-2" pos="unknown" morph="none" start_char="386" end_char="403">author="JUANPARAO"</TOKEN>
+<TOKEN id="token-8-3" pos="unknown" morph="none" start_char="405" end_char="435">datetime="2015-06-27T12:08:00"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-9" start_char="437" end_char="479">
+<ORIGINAL_TEXT>Platanote le gana a los yijadistas... &amp;#13;</ORIGINAL_TEXT>
+<TOKEN id="token-9-0" pos="word" morph="none" start_char="437" end_char="445">Platanote</TOKEN>
+<TOKEN id="token-9-1" pos="word" morph="none" start_char="447" end_char="448">le</TOKEN>
+<TOKEN id="token-9-2" pos="word" morph="none" start_char="450" end_char="453">gana</TOKEN>
+<TOKEN id="token-9-3" pos="word" morph="none" start_char="455" end_char="455">a</TOKEN>
+<TOKEN id="token-9-4" pos="word" morph="none" start_char="457" end_char="459">los</TOKEN>
+<TOKEN id="token-9-5" pos="word" morph="none" start_char="461" end_char="470">yijadistas</TOKEN>
+<TOKEN id="token-9-6" pos="punct" morph="none" start_char="471" end_char="473">...</TOKEN>
+<TOKEN id="token-9-7" pos="punct" morph="none" start_char="475" end_char="476">&amp;#</TOKEN>
+<TOKEN id="token-9-8" pos="word" morph="none" start_char="477" end_char="478">13</TOKEN>
+<TOKEN id="token-9-9" pos="punct" morph="none" start_char="479" end_char="479">;</TOKEN>
+</SEG>
+<SEG id="segment-10" start_char="481" end_char="485">
+<ORIGINAL_TEXT>&amp;#13;</ORIGINAL_TEXT>
+<TOKEN id="token-10-0" pos="punct" morph="none" start_char="481" end_char="482">&amp;#</TOKEN>
+<TOKEN id="token-10-1" pos="word" morph="none" start_char="483" end_char="484">13</TOKEN>
+<TOKEN id="token-10-2" pos="punct" morph="none" start_char="485" end_char="485">;</TOKEN>
+</SEG>
+<SEG id="segment-11" start_char="487" end_char="529">
+<ORIGINAL_TEXT>MANDÓ A ASESINAR A 46 ESTUDIANTES !!! &amp;#13;</ORIGINAL_TEXT>
+<TOKEN id="token-11-0" pos="word" morph="none" start_char="487" end_char="491">MANDÓ</TOKEN>
+<TOKEN id="token-11-1" pos="word" morph="none" start_char="493" end_char="493">A</TOKEN>
+<TOKEN id="token-11-2" pos="word" morph="none" start_char="495" end_char="502">ASESINAR</TOKEN>
+<TOKEN id="token-11-3" pos="word" morph="none" start_char="504" end_char="504">A</TOKEN>
+<TOKEN id="token-11-4" pos="number" morph="none" start_char="506" end_char="507">46</TOKEN>
+<TOKEN id="token-11-5" pos="word" morph="none" start_char="509" end_char="519">ESTUDIANTES</TOKEN>
+<TOKEN id="token-11-6" pos="unknown" morph="none" start_char="521" end_char="523">!!!</TOKEN>
+<TOKEN id="token-11-7" pos="punct" morph="none" start_char="525" end_char="526">&amp;#</TOKEN>
+<TOKEN id="token-11-8" pos="word" morph="none" start_char="527" end_char="528">13</TOKEN>
+<TOKEN id="token-11-9" pos="punct" morph="none" start_char="529" end_char="529">;</TOKEN>
+</SEG>
+<SEG id="segment-12" start_char="531" end_char="535">
+<ORIGINAL_TEXT>&amp;#13;</ORIGINAL_TEXT>
+<TOKEN id="token-12-0" pos="punct" morph="none" start_char="531" end_char="532">&amp;#</TOKEN>
+<TOKEN id="token-12-1" pos="word" morph="none" start_char="533" end_char="534">13</TOKEN>
+<TOKEN id="token-12-2" pos="punct" morph="none" start_char="535" end_char="535">;</TOKEN>
+</SEG>
+<SEG id="segment-13" start_char="537" end_char="559">
+<ORIGINAL_TEXT>1.250 HERIDOS !!! &amp;#13;</ORIGINAL_TEXT>
+<TOKEN id="token-13-0" pos="number" morph="none" start_char="537" end_char="541">1.250</TOKEN>
+<TOKEN id="token-13-1" pos="word" morph="none" start_char="543" end_char="549">HERIDOS</TOKEN>
+<TOKEN id="token-13-2" pos="unknown" morph="none" start_char="551" end_char="553">!!!</TOKEN>
+<TOKEN id="token-13-3" pos="punct" morph="none" start_char="555" end_char="556">&amp;#</TOKEN>
+<TOKEN id="token-13-4" pos="word" morph="none" start_char="557" end_char="558">13</TOKEN>
+<TOKEN id="token-13-5" pos="punct" morph="none" start_char="559" end_char="559">;</TOKEN>
+</SEG>
+<SEG id="segment-14" start_char="561" end_char="565">
+<ORIGINAL_TEXT>&amp;#13;</ORIGINAL_TEXT>
+<TOKEN id="token-14-0" pos="punct" morph="none" start_char="561" end_char="562">&amp;#</TOKEN>
+<TOKEN id="token-14-1" pos="word" morph="none" start_char="563" end_char="564">13</TOKEN>
+<TOKEN id="token-14-2" pos="punct" morph="none" start_char="565" end_char="565">;</TOKEN>
+</SEG>
+<SEG id="segment-15" start_char="567" end_char="588">
+<ORIGINAL_TEXT>2.500 PRESOS !!! &amp;#13;</ORIGINAL_TEXT>
+<TOKEN id="token-15-0" pos="number" morph="none" start_char="567" end_char="571">2.500</TOKEN>
+<TOKEN id="token-15-1" pos="word" morph="none" start_char="573" end_char="578">PRESOS</TOKEN>
+<TOKEN id="token-15-2" pos="unknown" morph="none" start_char="580" end_char="582">!!!</TOKEN>
+<TOKEN id="token-15-3" pos="punct" morph="none" start_char="584" end_char="585">&amp;#</TOKEN>
+<TOKEN id="token-15-4" pos="word" morph="none" start_char="586" end_char="587">13</TOKEN>
+<TOKEN id="token-15-5" pos="punct" morph="none" start_char="588" end_char="588">;</TOKEN>
+</SEG>
+<SEG id="segment-16" start_char="590" end_char="594">
+<ORIGINAL_TEXT>&amp;#13;</ORIGINAL_TEXT>
+<TOKEN id="token-16-0" pos="punct" morph="none" start_char="590" end_char="591">&amp;#</TOKEN>
+<TOKEN id="token-16-1" pos="word" morph="none" start_char="592" end_char="593">13</TOKEN>
+<TOKEN id="token-16-2" pos="punct" morph="none" start_char="594" end_char="594">;</TOKEN>
+</SEG>
+<SEG id="segment-17" start_char="596" end_char="613">
+<ORIGINAL_TEXT>'NA GUARÁ... &amp;#13;</ORIGINAL_TEXT>
+<TOKEN id="token-17-0" pos="punct" morph="none" start_char="596" end_char="596">'</TOKEN>
+<TOKEN id="token-17-1" pos="word" morph="none" start_char="597" end_char="598">NA</TOKEN>
+<TOKEN id="token-17-2" pos="word" morph="none" start_char="600" end_char="604">GUARÁ</TOKEN>
+<TOKEN id="token-17-3" pos="punct" morph="none" start_char="605" end_char="607">...</TOKEN>
+<TOKEN id="token-17-4" pos="punct" morph="none" start_char="609" end_char="610">&amp;#</TOKEN>
+<TOKEN id="token-17-5" pos="word" morph="none" start_char="611" end_char="612">13</TOKEN>
+<TOKEN id="token-17-6" pos="punct" morph="none" start_char="613" end_char="613">;</TOKEN>
+</SEG>
+<SEG id="segment-18" start_char="615" end_char="619">
+<ORIGINAL_TEXT>&amp;#13;</ORIGINAL_TEXT>
+<TOKEN id="token-18-0" pos="punct" morph="none" start_char="615" end_char="616">&amp;#</TOKEN>
+<TOKEN id="token-18-1" pos="word" morph="none" start_char="617" end_char="618">13</TOKEN>
+<TOKEN id="token-18-2" pos="punct" morph="none" start_char="619" end_char="619">;</TOKEN>
+</SEG>
+<SEG id="segment-19" start_char="621" end_char="722">
+<ORIGINAL_TEXT>La culpa fue de los estudiantes que se le atravesaron a las balas, según la versión oficialista. &amp;#13;</ORIGINAL_TEXT>
+<TOKEN id="token-19-0" pos="word" morph="none" start_char="621" end_char="622">La</TOKEN>
+<TOKEN id="token-19-1" pos="word" morph="none" start_char="624" end_char="628">culpa</TOKEN>
+<TOKEN id="token-19-2" pos="word" morph="none" start_char="630" end_char="632">fue</TOKEN>
+<TOKEN id="token-19-3" pos="word" morph="none" start_char="634" end_char="635">de</TOKEN>
+<TOKEN id="token-19-4" pos="word" morph="none" start_char="637" end_char="639">los</TOKEN>
+<TOKEN id="token-19-5" pos="word" morph="none" start_char="641" end_char="651">estudiantes</TOKEN>
+<TOKEN id="token-19-6" pos="word" morph="none" start_char="653" end_char="655">que</TOKEN>
+<TOKEN id="token-19-7" pos="word" morph="none" start_char="657" end_char="658">se</TOKEN>
+<TOKEN id="token-19-8" pos="word" morph="none" start_char="660" end_char="661">le</TOKEN>
+<TOKEN id="token-19-9" pos="word" morph="none" start_char="663" end_char="673">atravesaron</TOKEN>
+<TOKEN id="token-19-10" pos="word" morph="none" start_char="675" end_char="675">a</TOKEN>
+<TOKEN id="token-19-11" pos="word" morph="none" start_char="677" end_char="679">las</TOKEN>
+<TOKEN id="token-19-12" pos="word" morph="none" start_char="681" end_char="685">balas</TOKEN>
+<TOKEN id="token-19-13" pos="punct" morph="none" start_char="686" end_char="686">,</TOKEN>
+<TOKEN id="token-19-14" pos="word" morph="none" start_char="688" end_char="692">según</TOKEN>
+<TOKEN id="token-19-15" pos="word" morph="none" start_char="694" end_char="695">la</TOKEN>
+<TOKEN id="token-19-16" pos="word" morph="none" start_char="697" end_char="703">versión</TOKEN>
+<TOKEN id="token-19-17" pos="word" morph="none" start_char="705" end_char="715">oficialista</TOKEN>
+<TOKEN id="token-19-18" pos="punct" morph="none" start_char="716" end_char="716">.</TOKEN>
+<TOKEN id="token-19-19" pos="punct" morph="none" start_char="718" end_char="719">&amp;#</TOKEN>
+<TOKEN id="token-19-20" pos="word" morph="none" start_char="720" end_char="721">13</TOKEN>
+<TOKEN id="token-19-21" pos="punct" morph="none" start_char="722" end_char="722">;</TOKEN>
+</SEG>
+<SEG id="segment-20" start_char="724" end_char="728">
+<ORIGINAL_TEXT>&amp;#13;</ORIGINAL_TEXT>
+<TOKEN id="token-20-0" pos="punct" morph="none" start_char="724" end_char="725">&amp;#</TOKEN>
+<TOKEN id="token-20-1" pos="word" morph="none" start_char="726" end_char="727">13</TOKEN>
+<TOKEN id="token-20-2" pos="punct" morph="none" start_char="728" end_char="728">;</TOKEN>
+</SEG>
+<SEG id="segment-21" start_char="730" end_char="734">
+<ORIGINAL_TEXT>&amp;#13;</ORIGINAL_TEXT>
+<TOKEN id="token-21-0" pos="punct" morph="none" start_char="730" end_char="731">&amp;#</TOKEN>
+<TOKEN id="token-21-1" pos="word" morph="none" start_char="732" end_char="733">13</TOKEN>
+<TOKEN id="token-21-2" pos="punct" morph="none" start_char="734" end_char="734">;</TOKEN>
+</SEG>
+<SEG id="segment-22" start_char="736" end_char="770">
+<ORIGINAL_TEXT>FUERA BANDA CRIMINAL USURPADORA !!!</ORIGINAL_TEXT>
+<TOKEN id="token-22-0" pos="word" morph="none" start_char="736" end_char="740">FUERA</TOKEN>
+<TOKEN id="token-22-1" pos="word" morph="none" start_char="742" end_char="746">BANDA</TOKEN>
+<TOKEN id="token-22-2" pos="word" morph="none" start_char="748" end_char="755">CRIMINAL</TOKEN>
+<TOKEN id="token-22-3" pos="word" morph="none" start_char="757" end_char="766">USURPADORA</TOKEN>
+<TOKEN id="token-22-4" pos="unknown" morph="none" start_char="768" end_char="770">!!!</TOKEN>
+</SEG>
+<SEG id="segment-23" start_char="772" end_char="778">
+<ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-23-0" pos="unknown" morph="none" start_char="772" end_char="778">&lt;/post&gt;</TOKEN>
+</SEG>
+<SEG id="segment-24" start_char="780" end_char="840">
+<ORIGINAL_TEXT>&lt;post id="p3" author="sabine" datetime="2015-06-27T12:13:00"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-24-0" pos="unknown" morph="none" start_char="780" end_char="784">&lt;post</TOKEN>
+<TOKEN id="token-24-1" pos="unknown" morph="none" start_char="786" end_char="792">id="p3"</TOKEN>
+<TOKEN id="token-24-2" pos="unknown" morph="none" start_char="794" end_char="808">author="sabine"</TOKEN>
+<TOKEN id="token-24-3" pos="unknown" morph="none" start_char="810" end_char="840">datetime="2015-06-27T12:13:00"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-25" start_char="842" end_char="1081">
+<ORIGINAL_TEXT>Qué peste tan inmunda son estos malparidos!! Que sigan los gobiernos con la pendejada de la tolerancia con estos asesinos... No quiero ni imaginar el futuro a muy corto plazo &amp;lt;img src="images/smiles/icon_mad.gif" alt="Mad" border="0"&amp;gt;</ORIGINAL_TEXT>
+<TOKEN id="token-25-0" pos="word" morph="none" start_char="842" end_char="844">Qué</TOKEN>
+<TOKEN id="token-25-1" pos="word" morph="none" start_char="846" end_char="850">peste</TOKEN>
+<TOKEN id="token-25-2" pos="word" morph="none" start_char="852" end_char="854">tan</TOKEN>
+<TOKEN id="token-25-3" pos="word" morph="none" start_char="856" end_char="862">inmunda</TOKEN>
+<TOKEN id="token-25-4" pos="word" morph="none" start_char="864" end_char="866">son</TOKEN>
+<TOKEN id="token-25-5" pos="word" morph="none" start_char="868" end_char="872">estos</TOKEN>
+<TOKEN id="token-25-6" pos="word" morph="none" start_char="874" end_char="883">malparidos</TOKEN>
+<TOKEN id="token-25-7" pos="punct" morph="none" start_char="884" end_char="885">!!</TOKEN>
+<TOKEN id="token-25-8" pos="word" morph="none" start_char="887" end_char="889">Que</TOKEN>
+<TOKEN id="token-25-9" pos="word" morph="none" start_char="891" end_char="895">sigan</TOKEN>
+<TOKEN id="token-25-10" pos="word" morph="none" start_char="897" end_char="899">los</TOKEN>
+<TOKEN id="token-25-11" pos="word" morph="none" start_char="901" end_char="909">gobiernos</TOKEN>
+<TOKEN id="token-25-12" pos="word" morph="none" start_char="911" end_char="913">con</TOKEN>
+<TOKEN id="token-25-13" pos="word" morph="none" start_char="915" end_char="916">la</TOKEN>
+<TOKEN id="token-25-14" pos="word" morph="none" start_char="918" end_char="926">pendejada</TOKEN>
+<TOKEN id="token-25-15" pos="word" morph="none" start_char="928" end_char="929">de</TOKEN>
+<TOKEN id="token-25-16" pos="word" morph="none" start_char="931" end_char="932">la</TOKEN>
+<TOKEN id="token-25-17" pos="word" morph="none" start_char="934" end_char="943">tolerancia</TOKEN>
+<TOKEN id="token-25-18" pos="word" morph="none" start_char="945" end_char="947">con</TOKEN>
+<TOKEN id="token-25-19" pos="word" morph="none" start_char="949" end_char="953">estos</TOKEN>
+<TOKEN id="token-25-20" pos="word" morph="none" start_char="955" end_char="962">asesinos</TOKEN>
+<TOKEN id="token-25-21" pos="punct" morph="none" start_char="963" end_char="965">...</TOKEN>
+<TOKEN id="token-25-22" pos="word" morph="none" start_char="967" end_char="968">No</TOKEN>
+<TOKEN id="token-25-23" pos="word" morph="none" start_char="970" end_char="975">quiero</TOKEN>
+<TOKEN id="token-25-24" pos="word" morph="none" start_char="977" end_char="978">ni</TOKEN>
+<TOKEN id="token-25-25" pos="word" morph="none" start_char="980" end_char="987">imaginar</TOKEN>
+<TOKEN id="token-25-26" pos="word" morph="none" start_char="989" end_char="990">el</TOKEN>
+<TOKEN id="token-25-27" pos="word" morph="none" start_char="992" end_char="997">futuro</TOKEN>
+<TOKEN id="token-25-28" pos="word" morph="none" start_char="999" end_char="999">a</TOKEN>
+<TOKEN id="token-25-29" pos="word" morph="none" start_char="1001" end_char="1003">muy</TOKEN>
+<TOKEN id="token-25-30" pos="word" morph="none" start_char="1005" end_char="1009">corto</TOKEN>
+<TOKEN id="token-25-31" pos="word" morph="none" start_char="1011" end_char="1015">plazo</TOKEN>
+<TOKEN id="token-25-32" pos="punct" morph="none" start_char="1017" end_char="1017">&amp;</TOKEN>
+<TOKEN id="token-25-33" pos="word" morph="none" start_char="1018" end_char="1019">lt</TOKEN>
+<TOKEN id="token-25-34" pos="punct" morph="none" start_char="1020" end_char="1020">;</TOKEN>
+<TOKEN id="token-25-35" pos="word" morph="none" start_char="1021" end_char="1023">img</TOKEN>
+<TOKEN id="token-25-36" pos="unknown" morph="none" start_char="1025" end_char="1056">src="images/smiles/icon_mad.gif"</TOKEN>
+<TOKEN id="token-25-37" pos="unknown" morph="none" start_char="1058" end_char="1066">alt="Mad"</TOKEN>
+<TOKEN id="token-25-38" pos="unknown" morph="none" start_char="1068" end_char="1081">border="0"&amp;gt;</TOKEN>
+</SEG>
+<SEG id="segment-26" start_char="1083" end_char="1089">
+<ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-26-0" pos="unknown" morph="none" start_char="1083" end_char="1089">&lt;/post&gt;</TOKEN>
+</SEG>
+<SEG id="segment-27" start_char="1091" end_char="1148">
+<ORIGINAL_TEXT>&lt;post id="p4" author="Chi" datetime="2015-06-27T12:24:00"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-27-0" pos="unknown" morph="none" start_char="1091" end_char="1095">&lt;post</TOKEN>
+<TOKEN id="token-27-1" pos="unknown" morph="none" start_char="1097" end_char="1103">id="p4"</TOKEN>
+<TOKEN id="token-27-2" pos="unknown" morph="none" start_char="1105" end_char="1116">author="Chi"</TOKEN>
+<TOKEN id="token-27-3" pos="unknown" morph="none" start_char="1118" end_char="1148">datetime="2015-06-27T12:24:00"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-28" start_char="1150" end_char="1192">
+<ORIGINAL_TEXT>Así fue el ataque terrorista en Túnez &amp;#13;</ORIGINAL_TEXT>
+<TOKEN id="token-28-0" pos="word" morph="none" start_char="1150" end_char="1152">Así</TOKEN>
+<TOKEN id="token-28-1" pos="word" morph="none" start_char="1154" end_char="1156">fue</TOKEN>
+<TOKEN id="token-28-2" pos="word" morph="none" start_char="1158" end_char="1159">el</TOKEN>
+<TOKEN id="token-28-3" pos="word" morph="none" start_char="1161" end_char="1166">ataque</TOKEN>
+<TOKEN id="token-28-4" pos="word" morph="none" start_char="1168" end_char="1177">terrorista</TOKEN>
+<TOKEN id="token-28-5" pos="word" morph="none" start_char="1179" end_char="1180">en</TOKEN>
+<TOKEN id="token-28-6" pos="word" morph="none" start_char="1182" end_char="1186">Túnez</TOKEN>
+<TOKEN id="token-28-7" pos="punct" morph="none" start_char="1188" end_char="1189">&amp;#</TOKEN>
+<TOKEN id="token-28-8" pos="word" morph="none" start_char="1190" end_char="1191">13</TOKEN>
+<TOKEN id="token-28-9" pos="punct" morph="none" start_char="1192" end_char="1192">;</TOKEN>
+</SEG>
+<SEG id="segment-29" start_char="1194" end_char="1198">
+<ORIGINAL_TEXT>&amp;#13;</ORIGINAL_TEXT>
+<TOKEN id="token-29-0" pos="punct" morph="none" start_char="1194" end_char="1195">&amp;#</TOKEN>
+<TOKEN id="token-29-1" pos="word" morph="none" start_char="1196" end_char="1197">13</TOKEN>
+<TOKEN id="token-29-2" pos="punct" morph="none" start_char="1198" end_char="1198">;</TOKEN>
+</SEG>
+<SEG id="segment-30" start_char="1200" end_char="1349">
+<ORIGINAL_TEXT>Una grabación muestra los momentos de histeria posteriores al atentado perpetrado por dos terroristas del Estado Islámico en una playa de Túnez. &amp;#13;</ORIGINAL_TEXT>
+<TOKEN id="token-30-0" pos="word" morph="none" start_char="1200" end_char="1202">Una</TOKEN>
+<TOKEN id="token-30-1" pos="word" morph="none" start_char="1204" end_char="1212">grabación</TOKEN>
+<TOKEN id="token-30-2" pos="word" morph="none" start_char="1214" end_char="1220">muestra</TOKEN>
+<TOKEN id="token-30-3" pos="word" morph="none" start_char="1222" end_char="1224">los</TOKEN>
+<TOKEN id="token-30-4" pos="word" morph="none" start_char="1226" end_char="1233">momentos</TOKEN>
+<TOKEN id="token-30-5" pos="word" morph="none" start_char="1235" end_char="1236">de</TOKEN>
+<TOKEN id="token-30-6" pos="word" morph="none" start_char="1238" end_char="1245">histeria</TOKEN>
+<TOKEN id="token-30-7" pos="word" morph="none" start_char="1247" end_char="1257">posteriores</TOKEN>
+<TOKEN id="token-30-8" pos="word" morph="none" start_char="1259" end_char="1260">al</TOKEN>
+<TOKEN id="token-30-9" pos="word" morph="none" start_char="1262" end_char="1269">atentado</TOKEN>
+<TOKEN id="token-30-10" pos="word" morph="none" start_char="1271" end_char="1280">perpetrado</TOKEN>
+<TOKEN id="token-30-11" pos="word" morph="none" start_char="1282" end_char="1284">por</TOKEN>
+<TOKEN id="token-30-12" pos="word" morph="none" start_char="1286" end_char="1288">dos</TOKEN>
+<TOKEN id="token-30-13" pos="word" morph="none" start_char="1290" end_char="1300">terroristas</TOKEN>
+<TOKEN id="token-30-14" pos="word" morph="none" start_char="1302" end_char="1304">del</TOKEN>
+<TOKEN id="token-30-15" pos="word" morph="none" start_char="1306" end_char="1311">Estado</TOKEN>
+<TOKEN id="token-30-16" pos="word" morph="none" start_char="1313" end_char="1320">Islámico</TOKEN>
+<TOKEN id="token-30-17" pos="word" morph="none" start_char="1322" end_char="1323">en</TOKEN>
+<TOKEN id="token-30-18" pos="word" morph="none" start_char="1325" end_char="1327">una</TOKEN>
+<TOKEN id="token-30-19" pos="word" morph="none" start_char="1329" end_char="1333">playa</TOKEN>
+<TOKEN id="token-30-20" pos="word" morph="none" start_char="1335" end_char="1336">de</TOKEN>
+<TOKEN id="token-30-21" pos="word" morph="none" start_char="1338" end_char="1342">Túnez</TOKEN>
+<TOKEN id="token-30-22" pos="punct" morph="none" start_char="1343" end_char="1343">.</TOKEN>
+<TOKEN id="token-30-23" pos="punct" morph="none" start_char="1345" end_char="1346">&amp;#</TOKEN>
+<TOKEN id="token-30-24" pos="word" morph="none" start_char="1347" end_char="1348">13</TOKEN>
+<TOKEN id="token-30-25" pos="punct" morph="none" start_char="1349" end_char="1349">;</TOKEN>
+</SEG>
+<SEG id="segment-31" start_char="1351" end_char="1355">
+<ORIGINAL_TEXT>&amp;#13;</ORIGINAL_TEXT>
+<TOKEN id="token-31-0" pos="punct" morph="none" start_char="1351" end_char="1352">&amp;#</TOKEN>
+<TOKEN id="token-31-1" pos="word" morph="none" start_char="1353" end_char="1354">13</TOKEN>
+<TOKEN id="token-31-2" pos="punct" morph="none" start_char="1355" end_char="1355">;</TOKEN>
+</SEG>
+<SEG id="segment-32" start_char="1357" end_char="1371">
+<ORIGINAL_TEXT>Gaceta.es &amp;#13;</ORIGINAL_TEXT>
+<TOKEN id="token-32-0" pos="word" morph="none" start_char="1357" end_char="1362">Gaceta</TOKEN>
+<TOKEN id="token-32-1" pos="punct" morph="none" start_char="1363" end_char="1363">.</TOKEN>
+<TOKEN id="token-32-2" pos="word" morph="none" start_char="1364" end_char="1365">es</TOKEN>
+<TOKEN id="token-32-3" pos="punct" morph="none" start_char="1367" end_char="1368">&amp;#</TOKEN>
+<TOKEN id="token-32-4" pos="word" morph="none" start_char="1369" end_char="1370">13</TOKEN>
+<TOKEN id="token-32-5" pos="punct" morph="none" start_char="1371" end_char="1371">;</TOKEN>
+</SEG>
+<SEG id="segment-33" start_char="1373" end_char="1545">
+<ORIGINAL_TEXT>Un turista grabó los momentos posteriores del ataque terrorista que ha dejado 38 turistas muertos en la playa del resort Imperial Marhaba en la ciudad de Susa (Túnez). &amp;#13;</ORIGINAL_TEXT>
+<TOKEN id="token-33-0" pos="word" morph="none" start_char="1373" end_char="1374">Un</TOKEN>
+<TOKEN id="token-33-1" pos="word" morph="none" start_char="1376" end_char="1382">turista</TOKEN>
+<TOKEN id="token-33-2" pos="word" morph="none" start_char="1384" end_char="1388">grabó</TOKEN>
+<TOKEN id="token-33-3" pos="word" morph="none" start_char="1390" end_char="1392">los</TOKEN>
+<TOKEN id="token-33-4" pos="word" morph="none" start_char="1394" end_char="1401">momentos</TOKEN>
+<TOKEN id="token-33-5" pos="word" morph="none" start_char="1403" end_char="1413">posteriores</TOKEN>
+<TOKEN id="token-33-6" pos="word" morph="none" start_char="1415" end_char="1417">del</TOKEN>
+<TOKEN id="token-33-7" pos="word" morph="none" start_char="1419" end_char="1424">ataque</TOKEN>
+<TOKEN id="token-33-8" pos="word" morph="none" start_char="1426" end_char="1435">terrorista</TOKEN>
+<TOKEN id="token-33-9" pos="word" morph="none" start_char="1437" end_char="1439">que</TOKEN>
+<TOKEN id="token-33-10" pos="word" morph="none" start_char="1441" end_char="1442">ha</TOKEN>
+<TOKEN id="token-33-11" pos="word" morph="none" start_char="1444" end_char="1449">dejado</TOKEN>
+<TOKEN id="token-33-12" pos="number" morph="none" start_char="1451" end_char="1452">38</TOKEN>
+<TOKEN id="token-33-13" pos="word" morph="none" start_char="1454" end_char="1461">turistas</TOKEN>
+<TOKEN id="token-33-14" pos="word" morph="none" start_char="1463" end_char="1469">muertos</TOKEN>
+<TOKEN id="token-33-15" pos="word" morph="none" start_char="1471" end_char="1472">en</TOKEN>
+<TOKEN id="token-33-16" pos="word" morph="none" start_char="1474" end_char="1475">la</TOKEN>
+<TOKEN id="token-33-17" pos="word" morph="none" start_char="1477" end_char="1481">playa</TOKEN>
+<TOKEN id="token-33-18" pos="word" morph="none" start_char="1483" end_char="1485">del</TOKEN>
+<TOKEN id="token-33-19" pos="word" morph="none" start_char="1487" end_char="1492">resort</TOKEN>
+<TOKEN id="token-33-20" pos="word" morph="none" start_char="1494" end_char="1501">Imperial</TOKEN>
+<TOKEN id="token-33-21" pos="word" morph="none" start_char="1503" end_char="1509">Marhaba</TOKEN>
+<TOKEN id="token-33-22" pos="word" morph="none" start_char="1511" end_char="1512">en</TOKEN>
+<TOKEN id="token-33-23" pos="word" morph="none" start_char="1514" end_char="1515">la</TOKEN>
+<TOKEN id="token-33-24" pos="word" morph="none" start_char="1517" end_char="1522">ciudad</TOKEN>
+<TOKEN id="token-33-25" pos="word" morph="none" start_char="1524" end_char="1525">de</TOKEN>
+<TOKEN id="token-33-26" pos="word" morph="none" start_char="1527" end_char="1530">Susa</TOKEN>
+<TOKEN id="token-33-27" pos="punct" morph="none" start_char="1532" end_char="1532">(</TOKEN>
+<TOKEN id="token-33-28" pos="word" morph="none" start_char="1533" end_char="1537">Túnez</TOKEN>
+<TOKEN id="token-33-29" pos="punct" morph="none" start_char="1538" end_char="1539">).</TOKEN>
+<TOKEN id="token-33-30" pos="punct" morph="none" start_char="1541" end_char="1542">&amp;#</TOKEN>
+<TOKEN id="token-33-31" pos="word" morph="none" start_char="1543" end_char="1544">13</TOKEN>
+<TOKEN id="token-33-32" pos="punct" morph="none" start_char="1545" end_char="1545">;</TOKEN>
+</SEG>
+<SEG id="segment-34" start_char="1547" end_char="1551">
+<ORIGINAL_TEXT>&amp;#13;</ORIGINAL_TEXT>
+<TOKEN id="token-34-0" pos="punct" morph="none" start_char="1547" end_char="1548">&amp;#</TOKEN>
+<TOKEN id="token-34-1" pos="word" morph="none" start_char="1549" end_char="1550">13</TOKEN>
+<TOKEN id="token-34-2" pos="punct" morph="none" start_char="1551" end_char="1551">;</TOKEN>
+</SEG>
+<SEG id="segment-35" start_char="1553" end_char="1921">
+<ORIGINAL_TEXT>La grabación, emitida en el canal de Youtube de Mosaique FM, muestra los momentos de histeria en la playa tras el ataque de dos yihadistas al hotel de cinco estrellas, la tensión en el recinto del hotel y se aprecia el cadáver del primer terrorista, abatido por la policía. De fondo se escucha un tiroteo mientras los turistas y personal del hotel tratan de huir. &amp;#13;</ORIGINAL_TEXT>
+<TOKEN id="token-35-0" pos="word" morph="none" start_char="1553" end_char="1554">La</TOKEN>
+<TOKEN id="token-35-1" pos="word" morph="none" start_char="1556" end_char="1564">grabación</TOKEN>
+<TOKEN id="token-35-2" pos="punct" morph="none" start_char="1565" end_char="1565">,</TOKEN>
+<TOKEN id="token-35-3" pos="word" morph="none" start_char="1567" end_char="1573">emitida</TOKEN>
+<TOKEN id="token-35-4" pos="word" morph="none" start_char="1575" end_char="1576">en</TOKEN>
+<TOKEN id="token-35-5" pos="word" morph="none" start_char="1578" end_char="1579">el</TOKEN>
+<TOKEN id="token-35-6" pos="word" morph="none" start_char="1581" end_char="1585">canal</TOKEN>
+<TOKEN id="token-35-7" pos="word" morph="none" start_char="1587" end_char="1588">de</TOKEN>
+<TOKEN id="token-35-8" pos="word" morph="none" start_char="1590" end_char="1596">Youtube</TOKEN>
+<TOKEN id="token-35-9" pos="word" morph="none" start_char="1598" end_char="1599">de</TOKEN>
+<TOKEN id="token-35-10" pos="word" morph="none" start_char="1601" end_char="1608">Mosaique</TOKEN>
+<TOKEN id="token-35-11" pos="word" morph="none" start_char="1610" end_char="1611">FM</TOKEN>
+<TOKEN id="token-35-12" pos="punct" morph="none" start_char="1612" end_char="1612">,</TOKEN>
+<TOKEN id="token-35-13" pos="word" morph="none" start_char="1614" end_char="1620">muestra</TOKEN>
+<TOKEN id="token-35-14" pos="word" morph="none" start_char="1622" end_char="1624">los</TOKEN>
+<TOKEN id="token-35-15" pos="word" morph="none" start_char="1626" end_char="1633">momentos</TOKEN>
+<TOKEN id="token-35-16" pos="word" morph="none" start_char="1635" end_char="1636">de</TOKEN>
+<TOKEN id="token-35-17" pos="word" morph="none" start_char="1638" end_char="1645">histeria</TOKEN>
+<TOKEN id="token-35-18" pos="word" morph="none" start_char="1647" end_char="1648">en</TOKEN>
+<TOKEN id="token-35-19" pos="word" morph="none" start_char="1650" end_char="1651">la</TOKEN>
+<TOKEN id="token-35-20" pos="word" morph="none" start_char="1653" end_char="1657">playa</TOKEN>
+<TOKEN id="token-35-21" pos="word" morph="none" start_char="1659" end_char="1662">tras</TOKEN>
+<TOKEN id="token-35-22" pos="word" morph="none" start_char="1664" end_char="1665">el</TOKEN>
+<TOKEN id="token-35-23" pos="word" morph="none" start_char="1667" end_char="1672">ataque</TOKEN>
+<TOKEN id="token-35-24" pos="word" morph="none" start_char="1674" end_char="1675">de</TOKEN>
+<TOKEN id="token-35-25" pos="word" morph="none" start_char="1677" end_char="1679">dos</TOKEN>
+<TOKEN id="token-35-26" pos="word" morph="none" start_char="1681" end_char="1690">yihadistas</TOKEN>
+<TOKEN id="token-35-27" pos="word" morph="none" start_char="1692" end_char="1693">al</TOKEN>
+<TOKEN id="token-35-28" pos="word" morph="none" start_char="1695" end_char="1699">hotel</TOKEN>
+<TOKEN id="token-35-29" pos="word" morph="none" start_char="1701" end_char="1702">de</TOKEN>
+<TOKEN id="token-35-30" pos="word" morph="none" start_char="1704" end_char="1708">cinco</TOKEN>
+<TOKEN id="token-35-31" pos="word" morph="none" start_char="1710" end_char="1718">estrellas</TOKEN>
+<TOKEN id="token-35-32" pos="punct" morph="none" start_char="1719" end_char="1719">,</TOKEN>
+<TOKEN id="token-35-33" pos="word" morph="none" start_char="1721" end_char="1722">la</TOKEN>
+<TOKEN id="token-35-34" pos="word" morph="none" start_char="1724" end_char="1730">tensión</TOKEN>
+<TOKEN id="token-35-35" pos="word" morph="none" start_char="1732" end_char="1733">en</TOKEN>
+<TOKEN id="token-35-36" pos="word" morph="none" start_char="1735" end_char="1736">el</TOKEN>
+<TOKEN id="token-35-37" pos="word" morph="none" start_char="1738" end_char="1744">recinto</TOKEN>
+<TOKEN id="token-35-38" pos="word" morph="none" start_char="1746" end_char="1748">del</TOKEN>
+<TOKEN id="token-35-39" pos="word" morph="none" start_char="1750" end_char="1754">hotel</TOKEN>
+<TOKEN id="token-35-40" pos="word" morph="none" start_char="1756" end_char="1756">y</TOKEN>
+<TOKEN id="token-35-41" pos="word" morph="none" start_char="1758" end_char="1759">se</TOKEN>
+<TOKEN id="token-35-42" pos="word" morph="none" start_char="1761" end_char="1767">aprecia</TOKEN>
+<TOKEN id="token-35-43" pos="word" morph="none" start_char="1769" end_char="1770">el</TOKEN>
+<TOKEN id="token-35-44" pos="word" morph="none" start_char="1772" end_char="1778">cadáver</TOKEN>
+<TOKEN id="token-35-45" pos="word" morph="none" start_char="1780" end_char="1782">del</TOKEN>
+<TOKEN id="token-35-46" pos="word" morph="none" start_char="1784" end_char="1789">primer</TOKEN>
+<TOKEN id="token-35-47" pos="word" morph="none" start_char="1791" end_char="1800">terrorista</TOKEN>
+<TOKEN id="token-35-48" pos="punct" morph="none" start_char="1801" end_char="1801">,</TOKEN>
+<TOKEN id="token-35-49" pos="word" morph="none" start_char="1803" end_char="1809">abatido</TOKEN>
+<TOKEN id="token-35-50" pos="word" morph="none" start_char="1811" end_char="1813">por</TOKEN>
+<TOKEN id="token-35-51" pos="word" morph="none" start_char="1815" end_char="1816">la</TOKEN>
+<TOKEN id="token-35-52" pos="word" morph="none" start_char="1818" end_char="1824">policía</TOKEN>
+<TOKEN id="token-35-53" pos="punct" morph="none" start_char="1825" end_char="1825">.</TOKEN>
+<TOKEN id="token-35-54" pos="word" morph="none" start_char="1827" end_char="1828">De</TOKEN>
+<TOKEN id="token-35-55" pos="word" morph="none" start_char="1830" end_char="1834">fondo</TOKEN>
+<TOKEN id="token-35-56" pos="word" morph="none" start_char="1836" end_char="1837">se</TOKEN>
+<TOKEN id="token-35-57" pos="word" morph="none" start_char="1839" end_char="1845">escucha</TOKEN>
+<TOKEN id="token-35-58" pos="word" morph="none" start_char="1847" end_char="1848">un</TOKEN>
+<TOKEN id="token-35-59" pos="word" morph="none" start_char="1850" end_char="1856">tiroteo</TOKEN>
+<TOKEN id="token-35-60" pos="word" morph="none" start_char="1858" end_char="1865">mientras</TOKEN>
+<TOKEN id="token-35-61" pos="word" morph="none" start_char="1867" end_char="1869">los</TOKEN>
+<TOKEN id="token-35-62" pos="word" morph="none" start_char="1871" end_char="1878">turistas</TOKEN>
+<TOKEN id="token-35-63" pos="word" morph="none" start_char="1880" end_char="1880">y</TOKEN>
+<TOKEN id="token-35-64" pos="word" morph="none" start_char="1882" end_char="1889">personal</TOKEN>
+<TOKEN id="token-35-65" pos="word" morph="none" start_char="1891" end_char="1893">del</TOKEN>
+<TOKEN id="token-35-66" pos="word" morph="none" start_char="1895" end_char="1899">hotel</TOKEN>
+<TOKEN id="token-35-67" pos="word" morph="none" start_char="1901" end_char="1906">tratan</TOKEN>
+<TOKEN id="token-35-68" pos="word" morph="none" start_char="1908" end_char="1909">de</TOKEN>
+<TOKEN id="token-35-69" pos="word" morph="none" start_char="1911" end_char="1914">huir</TOKEN>
+<TOKEN id="token-35-70" pos="punct" morph="none" start_char="1915" end_char="1915">.</TOKEN>
+<TOKEN id="token-35-71" pos="punct" morph="none" start_char="1917" end_char="1918">&amp;#</TOKEN>
+<TOKEN id="token-35-72" pos="word" morph="none" start_char="1919" end_char="1920">13</TOKEN>
+<TOKEN id="token-35-73" pos="punct" morph="none" start_char="1921" end_char="1921">;</TOKEN>
+</SEG>
+<SEG id="segment-36" start_char="1923" end_char="1927">
+<ORIGINAL_TEXT>&amp;#13;</ORIGINAL_TEXT>
+<TOKEN id="token-36-0" pos="punct" morph="none" start_char="1923" end_char="1924">&amp;#</TOKEN>
+<TOKEN id="token-36-1" pos="word" morph="none" start_char="1925" end_char="1926">13</TOKEN>
+<TOKEN id="token-36-2" pos="punct" morph="none" start_char="1927" end_char="1927">;</TOKEN>
+</SEG>
+<SEG id="segment-37" start_char="1929" end_char="1995">
+<ORIGINAL_TEXT>ADVERTENCIA: Las siguientes imágenes pueden herir su sensibilidad. </ORIGINAL_TEXT>
+<TOKEN id="token-37-0" pos="word" morph="none" start_char="1929" end_char="1939">ADVERTENCIA</TOKEN>
+<TOKEN id="token-37-1" pos="punct" morph="none" start_char="1940" end_char="1940">:</TOKEN>
+<TOKEN id="token-37-2" pos="word" morph="none" start_char="1942" end_char="1944">Las</TOKEN>
+<TOKEN id="token-37-3" pos="word" morph="none" start_char="1946" end_char="1955">siguientes</TOKEN>
+<TOKEN id="token-37-4" pos="word" morph="none" start_char="1957" end_char="1964">imágenes</TOKEN>
+<TOKEN id="token-37-5" pos="word" morph="none" start_char="1966" end_char="1971">pueden</TOKEN>
+<TOKEN id="token-37-6" pos="word" morph="none" start_char="1973" end_char="1977">herir</TOKEN>
+<TOKEN id="token-37-7" pos="word" morph="none" start_char="1979" end_char="1980">su</TOKEN>
+<TOKEN id="token-37-8" pos="word" morph="none" start_char="1982" end_char="1993">sensibilidad</TOKEN>
+<TOKEN id="token-37-9" pos="punct" morph="none" start_char="1994" end_char="1994">.</TOKEN>
+</SEG>
+<SEG id="segment-38" start_char="1998" end_char="2025">
+<ORIGINAL_TEXT>https://youtu.be/cXhkxP4fZrw</ORIGINAL_TEXT>
+<TOKEN id="token-38-0" pos="url" morph="none" start_char="1998" end_char="2025">https://youtu.be/cXhkxP4fZrw</TOKEN>
+</SEG>
+<SEG id="segment-39" start_char="2027" end_char="2033">
+<ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-39-0" pos="unknown" morph="none" start_char="2027" end_char="2033">&lt;/post&gt;</TOKEN>
+</SEG>
+<SEG id="segment-40" start_char="2035" end_char="2040">
+<ORIGINAL_TEXT>&lt;/doc&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-40-0" pos="unknown" morph="none" start_char="2035" end_char="2040">&lt;/doc&gt;</TOKEN>
+</SEG>
+</TEXT>
+</DOC>
+</LCTL_TEXT>

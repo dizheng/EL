@@ -1,0 +1,848 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE LCTL_TEXT SYSTEM "ltf.v1.5.dtd">
+<LCTL_TEXT>
+<DOC id="CMN_DF_000311_20150708_F0010009T.df.xml" tokenization="tokenization_parameters" grammar="none" raw_text_char_length="5270" raw_text_md5="e66a172656a78dc3865889484a876f1a">
+<TEXT>
+<SEG id="segment-0" start_char="0" end_char="37">
+<ORIGINAL_TEXT>&lt;?xml version="1.0" encoding="utf-8"?&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-0-0" pos="unknown" morph="none" start_char="0" end_char="4">&lt;?xml</TOKEN>
+<TOKEN id="token-0-1" pos="unknown" morph="none" start_char="6" end_char="18">version="1.0"</TOKEN>
+<TOKEN id="token-0-2" pos="unknown" morph="none" start_char="20" end_char="37">encoding="utf-8"?&gt;</TOKEN>
+</SEG>
+<SEG id="segment-1" start_char="39" end_char="81">
+<ORIGINAL_TEXT>&lt;doc id="CMN_DF_000311_20150708_F0010009T"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-1-0" pos="unknown" morph="none" start_char="39" end_char="42">&lt;doc</TOKEN>
+<TOKEN id="token-1-1" pos="unknown" morph="none" start_char="44" end_char="81">id="CMN_DF_000311_20150708_F0010009T"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-2" start_char="83" end_char="92">
+<ORIGINAL_TEXT>&lt;headline&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-2-0" pos="unknown" morph="none" start_char="83" end_char="92">&lt;headline&gt;</TOKEN>
+</SEG>
+<SEG id="segment-3" start_char="94" end_char="109">
+<ORIGINAL_TEXT>这次股市暴跌就是金融战争的开始。</ORIGINAL_TEXT>
+<TOKEN id="token-3-0" pos="word" morph="none" start_char="94" end_char="108">这次股市暴跌就是金融战争的开始</TOKEN>
+<TOKEN id="token-3-1" pos="punct" morph="none" start_char="109" end_char="109">。</TOKEN>
+</SEG>
+<SEG id="segment-4" start_char="111" end_char="121">
+<ORIGINAL_TEXT>&lt;/headline&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-4-0" pos="unknown" morph="none" start_char="111" end_char="121">&lt;/headline&gt;</TOKEN>
+</SEG>
+<SEG id="segment-5" start_char="123" end_char="180">
+<ORIGINAL_TEXT>&lt;post id="p1" author="歪歪兔" datetime="2015-07-08T15:47:00"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-5-0" pos="unknown" morph="none" start_char="123" end_char="127">&lt;post</TOKEN>
+<TOKEN id="token-5-1" pos="unknown" morph="none" start_char="129" end_char="135">id="p1"</TOKEN>
+<TOKEN id="token-5-2" pos="unknown" morph="none" start_char="137" end_char="148">author="歪歪兔"</TOKEN>
+<TOKEN id="token-5-3" pos="unknown" morph="none" start_char="150" end_char="180">datetime="2015-07-08T15:47:00"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-6" start_char="182" end_char="294">
+<ORIGINAL_TEXT>前段时间我以为股市暴跌是正常回调，但通过这段时间观察，我个人推测就是全世界金融战争的开始，不光是国内的，而且是全球性的，主要是指中欧美三个经济实体的在金融战场上的对决，目前中欧是处于守势，白头鹰处于攻势，欢迎各位发表不同见解。</ORIGINAL_TEXT>
+<TOKEN id="token-6-0" pos="unknown" morph="none" start_char="182" end_char="294">前段时间我以为股市暴跌是正常回调，但通过这段时间观察，我个人推测就是全世界金融战争的开始，不光是国内的，而且是全球性的，主要是指中欧美三个经济实体的在金融战场上的对决，目前中欧是处于守势，白头鹰处于攻势，欢迎各位发表不同见解。</TOKEN>
+</SEG>
+<SEG id="segment-7" start_char="297" end_char="306">
+<ORIGINAL_TEXT>刚刚看到新闻，附链接</ORIGINAL_TEXT>
+<TOKEN id="token-7-0" pos="word" morph="none" start_char="297" end_char="302">刚刚看到新闻</TOKEN>
+<TOKEN id="token-7-1" pos="punct" morph="none" start_char="303" end_char="303">，</TOKEN>
+<TOKEN id="token-7-2" pos="word" morph="none" start_char="304" end_char="306">附链接</TOKEN>
+</SEG>
+<SEG id="segment-8" start_char="309" end_char="360">
+<ORIGINAL_TEXT>http://finance.ifeng.com/a/20150708/13825472_0.shtml</ORIGINAL_TEXT>
+<TOKEN id="token-8-0" pos="url" morph="none" start_char="309" end_char="360">http://finance.ifeng.com/a/20150708/13825472_0.shtml</TOKEN>
+</SEG>
+<SEG id="segment-9" start_char="362" end_char="368">
+<ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-9-0" pos="unknown" morph="none" start_char="362" end_char="368">&lt;/post&gt;</TOKEN>
+</SEG>
+<SEG id="segment-10" start_char="370" end_char="426">
+<ORIGINAL_TEXT>&lt;post id="p2" author="口条" datetime="2015-07-08T15:48:00"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-10-0" pos="unknown" morph="none" start_char="370" end_char="374">&lt;post</TOKEN>
+<TOKEN id="token-10-1" pos="unknown" morph="none" start_char="376" end_char="382">id="p2"</TOKEN>
+<TOKEN id="token-10-2" pos="unknown" morph="none" start_char="384" end_char="394">author="口条"</TOKEN>
+<TOKEN id="token-10-3" pos="unknown" morph="none" start_char="396" end_char="426">datetime="2015-07-08T15:48:00"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-11" start_char="428" end_char="450">
+<ORIGINAL_TEXT>大青果药丸，国朝养士60年，楼主就殉了大青果吧</ORIGINAL_TEXT>
+<TOKEN id="token-11-0" pos="unknown" morph="none" start_char="428" end_char="450">大青果药丸，国朝养士60年，楼主就殉了大青果吧</TOKEN>
+</SEG>
+<SEG id="segment-12" start_char="452" end_char="458">
+<ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-12-0" pos="unknown" morph="none" start_char="452" end_char="458">&lt;/post&gt;</TOKEN>
+</SEG>
+<SEG id="segment-13" start_char="460" end_char="525">
+<ORIGINAL_TEXT>&lt;post id="p3" author="FriedrichIV" datetime="2015-07-08T15:50:00"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-13-0" pos="unknown" morph="none" start_char="460" end_char="464">&lt;post</TOKEN>
+<TOKEN id="token-13-1" pos="unknown" morph="none" start_char="466" end_char="472">id="p3"</TOKEN>
+<TOKEN id="token-13-2" pos="unknown" morph="none" start_char="474" end_char="493">author="FriedrichIV"</TOKEN>
+<TOKEN id="token-13-3" pos="unknown" morph="none" start_char="495" end_char="525">datetime="2015-07-08T15:50:00"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-14" start_char="527" end_char="537">
+<ORIGINAL_TEXT>兔吧八级的哪里来回哪去</ORIGINAL_TEXT>
+<TOKEN id="token-14-0" pos="word" morph="none" start_char="527" end_char="537">兔吧八级的哪里来回哪去</TOKEN>
+</SEG>
+<SEG id="segment-15" start_char="540" end_char="551">
+<ORIGINAL_TEXT>财经版能不能封了这种贴？</ORIGINAL_TEXT>
+<TOKEN id="token-15-0" pos="word" morph="none" start_char="540" end_char="550">财经版能不能封了这种贴</TOKEN>
+<TOKEN id="token-15-1" pos="punct" morph="none" start_char="551" end_char="551">？</TOKEN>
+</SEG>
+<SEG id="segment-16" start_char="553" end_char="559">
+<ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-16-0" pos="unknown" morph="none" start_char="553" end_char="559">&lt;/post&gt;</TOKEN>
+</SEG>
+<SEG id="segment-17" start_char="561" end_char="618">
+<ORIGINAL_TEXT>&lt;post id="p4" author="歪歪兔" datetime="2015-07-08T15:50:00"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-17-0" pos="unknown" morph="none" start_char="561" end_char="565">&lt;post</TOKEN>
+<TOKEN id="token-17-1" pos="unknown" morph="none" start_char="567" end_char="573">id="p4"</TOKEN>
+<TOKEN id="token-17-2" pos="unknown" morph="none" start_char="575" end_char="586">author="歪歪兔"</TOKEN>
+<TOKEN id="token-17-3" pos="unknown" morph="none" start_char="588" end_char="618">datetime="2015-07-08T15:50:00"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-18" start_char="620" end_char="643">
+<ORIGINAL_TEXT>&lt;quote orig_author="口条"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-18-0" pos="unknown" morph="none" start_char="620" end_char="625">&lt;quote</TOKEN>
+<TOKEN id="token-18-1" pos="unknown" morph="none" start_char="627" end_char="643">orig_author="口条"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-19" start_char="645" end_char="667">
+<ORIGINAL_TEXT>大青果药丸，国朝养士60年，楼主就殉了大青果吧</ORIGINAL_TEXT>
+<TOKEN id="token-19-0" pos="unknown" morph="none" start_char="645" end_char="667">大青果药丸，国朝养士60年，楼主就殉了大青果吧</TOKEN>
+</SEG>
+<SEG id="segment-20" start_char="669" end_char="676">
+<ORIGINAL_TEXT>&lt;/quote&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-20-0" pos="unknown" morph="none" start_char="669" end_char="676">&lt;/quote&gt;</TOKEN>
+</SEG>
+<SEG id="segment-21" start_char="678" end_char="816">
+<ORIGINAL_TEXT>我只围观中，但目测这次大战搞不好会搞成全球金融危机，那就好玩了。&amp;lt;img src="http://img.cjdby.com/static2/image/smiley/default/lol.gif" smilieid="12" border="0" alt=""&amp;gt;</ORIGINAL_TEXT>
+<TOKEN id="token-21-0" pos="unknown" morph="none" start_char="678" end_char="716">我只围观中，但目测这次大战搞不好会搞成全球金融危机，那就好玩了。&amp;lt;img</TOKEN>
+<TOKEN id="token-21-1" pos="unknown" morph="none" start_char="718" end_char="780">src="http://img.cjdby.com/static2/image/smiley/default/lol.gif"</TOKEN>
+<TOKEN id="token-21-2" pos="unknown" morph="none" start_char="782" end_char="794">smilieid="12"</TOKEN>
+<TOKEN id="token-21-3" pos="unknown" morph="none" start_char="796" end_char="805">border="0"</TOKEN>
+<TOKEN id="token-21-4" pos="unknown" morph="none" start_char="807" end_char="816">alt=""&amp;gt;</TOKEN>
+</SEG>
+<SEG id="segment-22" start_char="818" end_char="824">
+<ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-22-0" pos="unknown" morph="none" start_char="818" end_char="824">&lt;/post&gt;</TOKEN>
+</SEG>
+<SEG id="segment-23" start_char="826" end_char="882">
+<ORIGINAL_TEXT>&lt;post id="p5" author="口条" datetime="2015-07-08T15:52:00"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-23-0" pos="unknown" morph="none" start_char="826" end_char="830">&lt;post</TOKEN>
+<TOKEN id="token-23-1" pos="unknown" morph="none" start_char="832" end_char="838">id="p5"</TOKEN>
+<TOKEN id="token-23-2" pos="unknown" morph="none" start_char="840" end_char="850">author="口条"</TOKEN>
+<TOKEN id="token-23-3" pos="unknown" morph="none" start_char="852" end_char="882">datetime="2015-07-08T15:52:00"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-24" start_char="884" end_char="916">
+<ORIGINAL_TEXT>&lt;quote orig_author="FriedrichIV"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-24-0" pos="unknown" morph="none" start_char="884" end_char="889">&lt;quote</TOKEN>
+<TOKEN id="token-24-1" pos="unknown" morph="none" start_char="891" end_char="916">orig_author="FriedrichIV"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-25" start_char="918" end_char="928">
+<ORIGINAL_TEXT>兔吧八级的哪里来回哪去</ORIGINAL_TEXT>
+<TOKEN id="token-25-0" pos="word" morph="none" start_char="918" end_char="928">兔吧八级的哪里来回哪去</TOKEN>
+</SEG>
+<SEG id="segment-26" start_char="931" end_char="942">
+<ORIGINAL_TEXT>财经版能不能封了这种贴？</ORIGINAL_TEXT>
+<TOKEN id="token-26-0" pos="word" morph="none" start_char="931" end_char="941">财经版能不能封了这种贴</TOKEN>
+<TOKEN id="token-26-1" pos="punct" morph="none" start_char="942" end_char="942">？</TOKEN>
+</SEG>
+<SEG id="segment-27" start_char="944" end_char="951">
+<ORIGINAL_TEXT>&lt;/quote&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-27-0" pos="unknown" morph="none" start_char="944" end_char="951">&lt;/quote&gt;</TOKEN>
+</SEG>
+<SEG id="segment-28" start_char="953" end_char="968">
+<ORIGINAL_TEXT>陛下怎么通过id看出是兔吧八级？</ORIGINAL_TEXT>
+<TOKEN id="token-28-0" pos="word" morph="none" start_char="953" end_char="967">陛下怎么通过id看出是兔吧八级</TOKEN>
+<TOKEN id="token-28-1" pos="punct" morph="none" start_char="968" end_char="968">？</TOKEN>
+</SEG>
+<SEG id="segment-29" start_char="970" end_char="976">
+<ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-29-0" pos="unknown" morph="none" start_char="970" end_char="976">&lt;/post&gt;</TOKEN>
+</SEG>
+<SEG id="segment-30" start_char="978" end_char="1041">
+<ORIGINAL_TEXT>&lt;post id="p6" author="blucewish" datetime="2015-07-08T15:53:00"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-30-0" pos="unknown" morph="none" start_char="978" end_char="982">&lt;post</TOKEN>
+<TOKEN id="token-30-1" pos="unknown" morph="none" start_char="984" end_char="990">id="p6"</TOKEN>
+<TOKEN id="token-30-2" pos="unknown" morph="none" start_char="992" end_char="1009">author="blucewish"</TOKEN>
+<TOKEN id="token-30-3" pos="unknown" morph="none" start_char="1011" end_char="1041">datetime="2015-07-08T15:53:00"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-31" start_char="1043" end_char="1067">
+<ORIGINAL_TEXT>&lt;quote orig_author="歪歪兔"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-31-0" pos="unknown" morph="none" start_char="1043" end_char="1048">&lt;quote</TOKEN>
+<TOKEN id="token-31-1" pos="unknown" morph="none" start_char="1050" end_char="1067">orig_author="歪歪兔"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-32" start_char="1069" end_char="1207">
+<ORIGINAL_TEXT>我只围观中，但目测这次大战搞不好会搞成全球金融危机，那就好玩了。&amp;lt;img src="http://img.cjdby.com/static2/image/smiley/default/lol.gif" smilieid="12" border="0" alt=""&amp;gt;</ORIGINAL_TEXT>
+<TOKEN id="token-32-0" pos="unknown" morph="none" start_char="1069" end_char="1107">我只围观中，但目测这次大战搞不好会搞成全球金融危机，那就好玩了。&amp;lt;img</TOKEN>
+<TOKEN id="token-32-1" pos="unknown" morph="none" start_char="1109" end_char="1171">src="http://img.cjdby.com/static2/image/smiley/default/lol.gif"</TOKEN>
+<TOKEN id="token-32-2" pos="unknown" morph="none" start_char="1173" end_char="1185">smilieid="12"</TOKEN>
+<TOKEN id="token-32-3" pos="unknown" morph="none" start_char="1187" end_char="1196">border="0"</TOKEN>
+<TOKEN id="token-32-4" pos="unknown" morph="none" start_char="1198" end_char="1207">alt=""&amp;gt;</TOKEN>
+</SEG>
+<SEG id="segment-33" start_char="1209" end_char="1216">
+<ORIGINAL_TEXT>&lt;/quote&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-33-0" pos="unknown" morph="none" start_char="1209" end_char="1216">&lt;/quote&gt;</TOKEN>
+</SEG>
+<SEG id="segment-34" start_char="1218" end_char="1244">
+<ORIGINAL_TEXT>很明显，已经是金融危机的样子了。不过大青果还撑得下去。</ORIGINAL_TEXT>
+<TOKEN id="token-34-0" pos="unknown" morph="none" start_char="1218" end_char="1244">很明显，已经是金融危机的样子了。不过大青果还撑得下去。</TOKEN>
+</SEG>
+<SEG id="segment-35" start_char="1246" end_char="1252">
+<ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-35-0" pos="unknown" morph="none" start_char="1246" end_char="1252">&lt;/post&gt;</TOKEN>
+</SEG>
+<SEG id="segment-36" start_char="1254" end_char="1310">
+<ORIGINAL_TEXT>&lt;post id="p7" author="口条" datetime="2015-07-08T15:54:00"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-36-0" pos="unknown" morph="none" start_char="1254" end_char="1258">&lt;post</TOKEN>
+<TOKEN id="token-36-1" pos="unknown" morph="none" start_char="1260" end_char="1266">id="p7"</TOKEN>
+<TOKEN id="token-36-2" pos="unknown" morph="none" start_char="1268" end_char="1278">author="口条"</TOKEN>
+<TOKEN id="token-36-3" pos="unknown" morph="none" start_char="1280" end_char="1310">datetime="2015-07-08T15:54:00"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-37" start_char="1312" end_char="1342">
+<ORIGINAL_TEXT>&lt;quote orig_author="blucewish"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-37-0" pos="unknown" morph="none" start_char="1312" end_char="1317">&lt;quote</TOKEN>
+<TOKEN id="token-37-1" pos="unknown" morph="none" start_char="1319" end_char="1342">orig_author="blucewish"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-38" start_char="1344" end_char="1370">
+<ORIGINAL_TEXT>很明显，已经是金融危机的样子了。不过大青果还撑得下去。</ORIGINAL_TEXT>
+<TOKEN id="token-38-0" pos="unknown" morph="none" start_char="1344" end_char="1370">很明显，已经是金融危机的样子了。不过大青果还撑得下去。</TOKEN>
+</SEG>
+<SEG id="segment-39" start_char="1372" end_char="1379">
+<ORIGINAL_TEXT>&lt;/quote&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-39-0" pos="unknown" morph="none" start_char="1372" end_char="1379">&lt;/quote&gt;</TOKEN>
+</SEG>
+<SEG id="segment-40" start_char="1381" end_char="1393">
+<ORIGINAL_TEXT>我大青果海晏河清，时和岁丰</ORIGINAL_TEXT>
+<TOKEN id="token-40-0" pos="word" morph="none" start_char="1381" end_char="1388">我大青果海晏河清</TOKEN>
+<TOKEN id="token-40-1" pos="punct" morph="none" start_char="1389" end_char="1389">，</TOKEN>
+<TOKEN id="token-40-2" pos="word" morph="none" start_char="1390" end_char="1393">时和岁丰</TOKEN>
+</SEG>
+<SEG id="segment-41" start_char="1395" end_char="1401">
+<ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-41-0" pos="unknown" morph="none" start_char="1395" end_char="1401">&lt;/post&gt;</TOKEN>
+</SEG>
+<SEG id="segment-42" start_char="1403" end_char="1460">
+<ORIGINAL_TEXT>&lt;post id="p8" author="歪歪兔" datetime="2015-07-08T15:54:00"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-42-0" pos="unknown" morph="none" start_char="1403" end_char="1407">&lt;post</TOKEN>
+<TOKEN id="token-42-1" pos="unknown" morph="none" start_char="1409" end_char="1415">id="p8"</TOKEN>
+<TOKEN id="token-42-2" pos="unknown" morph="none" start_char="1417" end_char="1428">author="歪歪兔"</TOKEN>
+<TOKEN id="token-42-3" pos="unknown" morph="none" start_char="1430" end_char="1460">datetime="2015-07-08T15:54:00"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-43" start_char="1462" end_char="1494">
+<ORIGINAL_TEXT>&lt;quote orig_author="FriedrichIV"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-43-0" pos="unknown" morph="none" start_char="1462" end_char="1467">&lt;quote</TOKEN>
+<TOKEN id="token-43-1" pos="unknown" morph="none" start_char="1469" end_char="1494">orig_author="FriedrichIV"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-44" start_char="1496" end_char="1506">
+<ORIGINAL_TEXT>兔吧八级的哪里来回哪去</ORIGINAL_TEXT>
+<TOKEN id="token-44-0" pos="word" morph="none" start_char="1496" end_char="1506">兔吧八级的哪里来回哪去</TOKEN>
+</SEG>
+<SEG id="segment-45" start_char="1509" end_char="1520">
+<ORIGINAL_TEXT>财经版能不能封了这种贴？</ORIGINAL_TEXT>
+<TOKEN id="token-45-0" pos="word" morph="none" start_char="1509" end_char="1519">财经版能不能封了这种贴</TOKEN>
+<TOKEN id="token-45-1" pos="punct" morph="none" start_char="1520" end_char="1520">？</TOKEN>
+</SEG>
+<SEG id="segment-46" start_char="1522" end_char="1529">
+<ORIGINAL_TEXT>&lt;/quote&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-46-0" pos="unknown" morph="none" start_char="1522" end_char="1529">&lt;/quote&gt;</TOKEN>
+</SEG>
+<SEG id="segment-47" start_char="1531" end_char="1579">
+<ORIGINAL_TEXT>我可是超大的老ID，注册时候你还在哪里，这帖子只是就现在情况发表自己的观点，你认为有错可以反驳哈。</ORIGINAL_TEXT>
+<TOKEN id="token-47-0" pos="unknown" morph="none" start_char="1531" end_char="1579">我可是超大的老ID，注册时候你还在哪里，这帖子只是就现在情况发表自己的观点，你认为有错可以反驳哈。</TOKEN>
+</SEG>
+<SEG id="segment-48" start_char="1581" end_char="1587">
+<ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-48-0" pos="unknown" morph="none" start_char="1581" end_char="1587">&lt;/post&gt;</TOKEN>
+</SEG>
+<SEG id="segment-49" start_char="1589" end_char="1654">
+<ORIGINAL_TEXT>&lt;post id="p9" author="FriedrichIV" datetime="2015-07-08T15:56:00"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-49-0" pos="unknown" morph="none" start_char="1589" end_char="1593">&lt;post</TOKEN>
+<TOKEN id="token-49-1" pos="unknown" morph="none" start_char="1595" end_char="1601">id="p9"</TOKEN>
+<TOKEN id="token-49-2" pos="unknown" morph="none" start_char="1603" end_char="1622">author="FriedrichIV"</TOKEN>
+<TOKEN id="token-49-3" pos="unknown" morph="none" start_char="1624" end_char="1654">datetime="2015-07-08T15:56:00"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-50" start_char="1656" end_char="1679">
+<ORIGINAL_TEXT>&lt;quote orig_author="口条"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-50-0" pos="unknown" morph="none" start_char="1656" end_char="1661">&lt;quote</TOKEN>
+<TOKEN id="token-50-1" pos="unknown" morph="none" start_char="1663" end_char="1679">orig_author="口条"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-51" start_char="1681" end_char="1696">
+<ORIGINAL_TEXT>陛下怎么通过id看出是兔吧八级？</ORIGINAL_TEXT>
+<TOKEN id="token-51-0" pos="word" morph="none" start_char="1681" end_char="1695">陛下怎么通过id看出是兔吧八级</TOKEN>
+<TOKEN id="token-51-1" pos="punct" morph="none" start_char="1696" end_char="1696">？</TOKEN>
+</SEG>
+<SEG id="segment-52" start_char="1698" end_char="1705">
+<ORIGINAL_TEXT>&lt;/quote&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-52-0" pos="unknown" morph="none" start_char="1698" end_char="1705">&lt;/quote&gt;</TOKEN>
+</SEG>
+<SEG id="segment-53" start_char="1707" end_char="1712">
+<ORIGINAL_TEXT>形容词而已！</ORIGINAL_TEXT>
+<TOKEN id="token-53-0" pos="word" morph="none" start_char="1707" end_char="1711">形容词而已</TOKEN>
+<TOKEN id="token-53-1" pos="punct" morph="none" start_char="1712" end_char="1712">！</TOKEN>
+</SEG>
+<SEG id="segment-54" start_char="1715" end_char="1734">
+<ORIGINAL_TEXT>看这次股灾开始后那些家户都是怎样司马的？</ORIGINAL_TEXT>
+<TOKEN id="token-54-0" pos="word" morph="none" start_char="1715" end_char="1733">看这次股灾开始后那些家户都是怎样司马的</TOKEN>
+<TOKEN id="token-54-1" pos="punct" morph="none" start_char="1734" end_char="1734">？</TOKEN>
+</SEG>
+<SEG id="segment-55" start_char="1737" end_char="1763">
+<ORIGINAL_TEXT>从刚开始跌的时候国内JY，到跌了大了开始说蛤蛤和地雷阵</ORIGINAL_TEXT>
+<TOKEN id="token-55-0" pos="word" morph="none" start_char="1737" end_char="1748">从刚开始跌的时候国内JY</TOKEN>
+<TOKEN id="token-55-1" pos="punct" morph="none" start_char="1749" end_char="1749">，</TOKEN>
+<TOKEN id="token-55-2" pos="word" morph="none" start_char="1750" end_char="1763">到跌了大了开始说蛤蛤和地雷阵</TOKEN>
+</SEG>
+<SEG id="segment-56" start_char="1766" end_char="1789">
+<ORIGINAL_TEXT>然后国际游资通过沪港通，被戳穿后又说内奸外敌合力</ORIGINAL_TEXT>
+<TOKEN id="token-56-0" pos="word" morph="none" start_char="1766" end_char="1776">然后国际游资通过沪港通</TOKEN>
+<TOKEN id="token-56-1" pos="punct" morph="none" start_char="1777" end_char="1777">，</TOKEN>
+<TOKEN id="token-56-2" pos="word" morph="none" start_char="1778" end_char="1789">被戳穿后又说内奸外敌合力</TOKEN>
+</SEG>
+<SEG id="segment-57" start_char="1792" end_char="1818">
+<ORIGINAL_TEXT>昨夜今晨已经低智到国外势力通过云南广西口岸走私钱进场了</ORIGINAL_TEXT>
+<TOKEN id="token-57-0" pos="word" morph="none" start_char="1792" end_char="1818">昨夜今晨已经低智到国外势力通过云南广西口岸走私钱进场了</TOKEN>
+</SEG>
+<SEG id="segment-58" start_char="1821" end_char="1848">
+<ORIGINAL_TEXT>养带鱼、膜麻蛇，碰到这样一届司马的有什么奇景不会出现？！</ORIGINAL_TEXT>
+<TOKEN id="token-58-0" pos="unknown" morph="none" start_char="1821" end_char="1848">养带鱼、膜麻蛇，碰到这样一届司马的有什么奇景不会出现？！</TOKEN>
+</SEG>
+<SEG id="segment-59" start_char="1850" end_char="1856">
+<ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-59-0" pos="unknown" morph="none" start_char="1850" end_char="1856">&lt;/post&gt;</TOKEN>
+</SEG>
+<SEG id="segment-60" start_char="1858" end_char="1915">
+<ORIGINAL_TEXT>&lt;post id="p10" author="口条" datetime="2015-07-08T15:56:00"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-60-0" pos="unknown" morph="none" start_char="1858" end_char="1862">&lt;post</TOKEN>
+<TOKEN id="token-60-1" pos="unknown" morph="none" start_char="1864" end_char="1871">id="p10"</TOKEN>
+<TOKEN id="token-60-2" pos="unknown" morph="none" start_char="1873" end_char="1883">author="口条"</TOKEN>
+<TOKEN id="token-60-3" pos="unknown" morph="none" start_char="1885" end_char="1915">datetime="2015-07-08T15:56:00"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-61" start_char="1917" end_char="1941">
+<ORIGINAL_TEXT>&lt;quote orig_author="歪歪兔"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-61-0" pos="unknown" morph="none" start_char="1917" end_char="1922">&lt;quote</TOKEN>
+<TOKEN id="token-61-1" pos="unknown" morph="none" start_char="1924" end_char="1941">orig_author="歪歪兔"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-62" start_char="1943" end_char="1991">
+<ORIGINAL_TEXT>我可是超大的老ID，注册时候你还在哪里，这帖子只是就现在情况发表自己的观点，你认为有错可以反驳哈。</ORIGINAL_TEXT>
+<TOKEN id="token-62-0" pos="unknown" morph="none" start_char="1943" end_char="1991">我可是超大的老ID，注册时候你还在哪里，这帖子只是就现在情况发表自己的观点，你认为有错可以反驳哈。</TOKEN>
+</SEG>
+<SEG id="segment-63" start_char="1993" end_char="2000">
+<ORIGINAL_TEXT>&lt;/quote&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-63-0" pos="unknown" morph="none" start_char="1993" end_char="2000">&lt;/quote&gt;</TOKEN>
+</SEG>
+<SEG id="segment-64" start_char="2002" end_char="2033">
+<ORIGINAL_TEXT>你敢质问高登巴姆家的人？大不敬啊！赶紧细软跑去投奔同盟或者费沙吧</ORIGINAL_TEXT>
+<TOKEN id="token-64-0" pos="unknown" morph="none" start_char="2002" end_char="2033">你敢质问高登巴姆家的人？大不敬啊！赶紧细软跑去投奔同盟或者费沙吧</TOKEN>
+</SEG>
+<SEG id="segment-65" start_char="2035" end_char="2041">
+<ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-65-0" pos="unknown" morph="none" start_char="2035" end_char="2041">&lt;/post&gt;</TOKEN>
+</SEG>
+<SEG id="segment-66" start_char="2043" end_char="2101">
+<ORIGINAL_TEXT>&lt;post id="p11" author="歪歪兔" datetime="2015-07-08T15:57:00"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-66-0" pos="unknown" morph="none" start_char="2043" end_char="2047">&lt;post</TOKEN>
+<TOKEN id="token-66-1" pos="unknown" morph="none" start_char="2049" end_char="2056">id="p11"</TOKEN>
+<TOKEN id="token-66-2" pos="unknown" morph="none" start_char="2058" end_char="2069">author="歪歪兔"</TOKEN>
+<TOKEN id="token-66-3" pos="unknown" morph="none" start_char="2071" end_char="2101">datetime="2015-07-08T15:57:00"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-67" start_char="2103" end_char="2133">
+<ORIGINAL_TEXT>&lt;quote orig_author="blucewish"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-67-0" pos="unknown" morph="none" start_char="2103" end_char="2108">&lt;quote</TOKEN>
+<TOKEN id="token-67-1" pos="unknown" morph="none" start_char="2110" end_char="2133">orig_author="blucewish"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-68" start_char="2135" end_char="2161">
+<ORIGINAL_TEXT>很明显，已经是金融危机的样子了。不过大青果还撑得下去。</ORIGINAL_TEXT>
+<TOKEN id="token-68-0" pos="unknown" morph="none" start_char="2135" end_char="2161">很明显，已经是金融危机的样子了。不过大青果还撑得下去。</TOKEN>
+</SEG>
+<SEG id="segment-69" start_char="2163" end_char="2170">
+<ORIGINAL_TEXT>&lt;/quote&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-69-0" pos="unknown" morph="none" start_char="2163" end_char="2170">&lt;/quote&gt;</TOKEN>
+</SEG>
+<SEG id="segment-70" start_char="2172" end_char="2241">
+<ORIGINAL_TEXT>我也希望兔子能挺过这场战争，这场战争目前来看，兔子处于被动守势，关键是国内带路党在里面通风报信，妖言惑众，习大要下重手惩治这批带路党买办了。</ORIGINAL_TEXT>
+<TOKEN id="token-70-0" pos="unknown" morph="none" start_char="2172" end_char="2241">我也希望兔子能挺过这场战争，这场战争目前来看，兔子处于被动守势，关键是国内带路党在里面通风报信，妖言惑众，习大要下重手惩治这批带路党买办了。</TOKEN>
+</SEG>
+<SEG id="segment-71" start_char="2243" end_char="2249">
+<ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-71-0" pos="unknown" morph="none" start_char="2243" end_char="2249">&lt;/post&gt;</TOKEN>
+</SEG>
+<SEG id="segment-72" start_char="2251" end_char="2308">
+<ORIGINAL_TEXT>&lt;post id="p12" author="口条" datetime="2015-07-08T15:59:00"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-72-0" pos="unknown" morph="none" start_char="2251" end_char="2255">&lt;post</TOKEN>
+<TOKEN id="token-72-1" pos="unknown" morph="none" start_char="2257" end_char="2264">id="p12"</TOKEN>
+<TOKEN id="token-72-2" pos="unknown" morph="none" start_char="2266" end_char="2276">author="口条"</TOKEN>
+<TOKEN id="token-72-3" pos="unknown" morph="none" start_char="2278" end_char="2308">datetime="2015-07-08T15:59:00"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-73" start_char="2310" end_char="2342">
+<ORIGINAL_TEXT>&lt;quote orig_author="FriedrichIV"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-73-0" pos="unknown" morph="none" start_char="2310" end_char="2315">&lt;quote</TOKEN>
+<TOKEN id="token-73-1" pos="unknown" morph="none" start_char="2317" end_char="2342">orig_author="FriedrichIV"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-74" start_char="2344" end_char="2349">
+<ORIGINAL_TEXT>形容词而已！</ORIGINAL_TEXT>
+<TOKEN id="token-74-0" pos="word" morph="none" start_char="2344" end_char="2348">形容词而已</TOKEN>
+<TOKEN id="token-74-1" pos="punct" morph="none" start_char="2349" end_char="2349">！</TOKEN>
+</SEG>
+<SEG id="segment-75" start_char="2352" end_char="2371">
+<ORIGINAL_TEXT>看这次股灾开始后那些家户都是怎样司马的？</ORIGINAL_TEXT>
+<TOKEN id="token-75-0" pos="word" morph="none" start_char="2352" end_char="2370">看这次股灾开始后那些家户都是怎样司马的</TOKEN>
+<TOKEN id="token-75-1" pos="punct" morph="none" start_char="2371" end_char="2371">？</TOKEN>
+</SEG>
+<SEG id="segment-76" start_char="2373" end_char="2380">
+<ORIGINAL_TEXT>&lt;/quote&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-76-0" pos="unknown" morph="none" start_char="2373" end_char="2380">&lt;/quote&gt;</TOKEN>
+</SEG>
+<SEG id="segment-77" start_char="2382" end_char="2403">
+<ORIGINAL_TEXT>兔吧不是膜蛤的吗？怎么哈哈阴毛论是兔吧出的？</ORIGINAL_TEXT>
+<TOKEN id="token-77-0" pos="word" morph="none" start_char="2382" end_char="2389">兔吧不是膜蛤的吗</TOKEN>
+<TOKEN id="token-77-1" pos="punct" morph="none" start_char="2390" end_char="2390">？</TOKEN>
+<TOKEN id="token-77-2" pos="word" morph="none" start_char="2391" end_char="2402">怎么哈哈阴毛论是兔吧出的</TOKEN>
+<TOKEN id="token-77-3" pos="punct" morph="none" start_char="2403" end_char="2403">？</TOKEN>
+</SEG>
+<SEG id="segment-78" start_char="2405" end_char="2411">
+<ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-78-0" pos="unknown" morph="none" start_char="2405" end_char="2411">&lt;/post&gt;</TOKEN>
+</SEG>
+<SEG id="segment-79" start_char="2413" end_char="2471">
+<ORIGINAL_TEXT>&lt;post id="p13" author="歪歪兔" datetime="2015-07-08T15:59:00"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-79-0" pos="unknown" morph="none" start_char="2413" end_char="2417">&lt;post</TOKEN>
+<TOKEN id="token-79-1" pos="unknown" morph="none" start_char="2419" end_char="2426">id="p13"</TOKEN>
+<TOKEN id="token-79-2" pos="unknown" morph="none" start_char="2428" end_char="2439">author="歪歪兔"</TOKEN>
+<TOKEN id="token-79-3" pos="unknown" morph="none" start_char="2441" end_char="2471">datetime="2015-07-08T15:59:00"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-80" start_char="2473" end_char="2496">
+<ORIGINAL_TEXT>&lt;quote orig_author="口条"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-80-0" pos="unknown" morph="none" start_char="2473" end_char="2478">&lt;quote</TOKEN>
+<TOKEN id="token-80-1" pos="unknown" morph="none" start_char="2480" end_char="2496">orig_author="口条"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-81" start_char="2498" end_char="2529">
+<ORIGINAL_TEXT>你敢质问高登巴姆家的人？大不敬啊！赶紧细软跑去投奔同盟或者费沙吧</ORIGINAL_TEXT>
+<TOKEN id="token-81-0" pos="unknown" morph="none" start_char="2498" end_char="2529">你敢质问高登巴姆家的人？大不敬啊！赶紧细软跑去投奔同盟或者费沙吧</TOKEN>
+</SEG>
+<SEG id="segment-82" start_char="2531" end_char="2538">
+<ORIGINAL_TEXT>&lt;/quote&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-82-0" pos="unknown" morph="none" start_char="2531" end_char="2538">&lt;/quote&gt;</TOKEN>
+</SEG>
+<SEG id="segment-83" start_char="2540" end_char="2572">
+<ORIGINAL_TEXT>这ID算啥鸟，我当初来这坛子的时候，这ID还不知道在哪里玩泥巴呢。</ORIGINAL_TEXT>
+<TOKEN id="token-83-0" pos="unknown" morph="none" start_char="2540" end_char="2572">这ID算啥鸟，我当初来这坛子的时候，这ID还不知道在哪里玩泥巴呢。</TOKEN>
+</SEG>
+<SEG id="segment-84" start_char="2574" end_char="2580">
+<ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-84-0" pos="unknown" morph="none" start_char="2574" end_char="2580">&lt;/post&gt;</TOKEN>
+</SEG>
+<SEG id="segment-85" start_char="2582" end_char="2642">
+<ORIGINAL_TEXT>&lt;post id="p14" author="deson" datetime="2015-07-08T16:01:00"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-85-0" pos="unknown" morph="none" start_char="2582" end_char="2586">&lt;post</TOKEN>
+<TOKEN id="token-85-1" pos="unknown" morph="none" start_char="2588" end_char="2595">id="p14"</TOKEN>
+<TOKEN id="token-85-2" pos="unknown" morph="none" start_char="2597" end_char="2610">author="deson"</TOKEN>
+<TOKEN id="token-85-3" pos="unknown" morph="none" start_char="2612" end_char="2642">datetime="2015-07-08T16:01:00"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-86" start_char="2644" end_char="2711">
+<ORIGINAL_TEXT> 目前国际金融市场局势和 A股超同步， 不排除金融领域有被渗透的可能。 苏联的教训告诉我们，对大青果预备的各种收拾手段时刻都会运用上去。</ORIGINAL_TEXT>
+<TOKEN id="token-86-0" pos="word" morph="none" start_char="2645" end_char="2655">目前国际金融市场局势和</TOKEN>
+<TOKEN id="token-86-1" pos="word" morph="none" start_char="2657" end_char="2661">A股超同步</TOKEN>
+<TOKEN id="token-86-2" pos="punct" morph="none" start_char="2662" end_char="2662">，</TOKEN>
+<TOKEN id="token-86-3" pos="word" morph="none" start_char="2664" end_char="2677">不排除金融领域有被渗透的可能</TOKEN>
+<TOKEN id="token-86-4" pos="punct" morph="none" start_char="2678" end_char="2678">。</TOKEN>
+<TOKEN id="token-86-5" pos="word" morph="none" start_char="2680" end_char="2688">苏联的教训告诉我们</TOKEN>
+<TOKEN id="token-86-6" pos="punct" morph="none" start_char="2689" end_char="2689">，</TOKEN>
+<TOKEN id="token-86-7" pos="word" morph="none" start_char="2690" end_char="2710">对大青果预备的各种收拾手段时刻都会运用上去</TOKEN>
+<TOKEN id="token-86-8" pos="punct" morph="none" start_char="2711" end_char="2711">。</TOKEN>
+</SEG>
+<SEG id="segment-87" start_char="2713" end_char="2719">
+<ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-87-0" pos="unknown" morph="none" start_char="2713" end_char="2719">&lt;/post&gt;</TOKEN>
+</SEG>
+<SEG id="segment-88" start_char="2721" end_char="2783">
+<ORIGINAL_TEXT>&lt;post id="p15" author="boby123" datetime="2015-07-08T16:04:00"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-88-0" pos="unknown" morph="none" start_char="2721" end_char="2725">&lt;post</TOKEN>
+<TOKEN id="token-88-1" pos="unknown" morph="none" start_char="2727" end_char="2734">id="p15"</TOKEN>
+<TOKEN id="token-88-2" pos="unknown" morph="none" start_char="2736" end_char="2751">author="boby123"</TOKEN>
+<TOKEN id="token-88-3" pos="unknown" morph="none" start_char="2753" end_char="2783">datetime="2015-07-08T16:04:00"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-89" start_char="2785" end_char="2795">
+<ORIGINAL_TEXT>这两天全球股市都不咋好</ORIGINAL_TEXT>
+<TOKEN id="token-89-0" pos="word" morph="none" start_char="2785" end_char="2795">这两天全球股市都不咋好</TOKEN>
+</SEG>
+<SEG id="segment-90" start_char="2797" end_char="2803">
+<ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-90-0" pos="unknown" morph="none" start_char="2797" end_char="2803">&lt;/post&gt;</TOKEN>
+</SEG>
+<SEG id="segment-91" start_char="2805" end_char="2862">
+<ORIGINAL_TEXT>&lt;post id="p16" author="口条" datetime="2015-07-08T16:05:00"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-91-0" pos="unknown" morph="none" start_char="2805" end_char="2809">&lt;post</TOKEN>
+<TOKEN id="token-91-1" pos="unknown" morph="none" start_char="2811" end_char="2818">id="p16"</TOKEN>
+<TOKEN id="token-91-2" pos="unknown" morph="none" start_char="2820" end_char="2830">author="口条"</TOKEN>
+<TOKEN id="token-91-3" pos="unknown" morph="none" start_char="2832" end_char="2862">datetime="2015-07-08T16:05:00"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-92" start_char="2864" end_char="2890">
+<ORIGINAL_TEXT>&lt;quote orig_author="deson"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-92-0" pos="unknown" morph="none" start_char="2864" end_char="2869">&lt;quote</TOKEN>
+<TOKEN id="token-92-1" pos="unknown" morph="none" start_char="2871" end_char="2890">orig_author="deson"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-93" start_char="2892" end_char="2959">
+<ORIGINAL_TEXT> 目前国际金融市场局势和 A股超同步， 不排除金融领域有被渗透的可能。 苏联的教训告诉我们，对大青果预备的各种收拾手段时刻都会运用上去。</ORIGINAL_TEXT>
+<TOKEN id="token-93-0" pos="word" morph="none" start_char="2893" end_char="2903">目前国际金融市场局势和</TOKEN>
+<TOKEN id="token-93-1" pos="word" morph="none" start_char="2905" end_char="2909">A股超同步</TOKEN>
+<TOKEN id="token-93-2" pos="punct" morph="none" start_char="2910" end_char="2910">，</TOKEN>
+<TOKEN id="token-93-3" pos="word" morph="none" start_char="2912" end_char="2925">不排除金融领域有被渗透的可能</TOKEN>
+<TOKEN id="token-93-4" pos="punct" morph="none" start_char="2926" end_char="2926">。</TOKEN>
+<TOKEN id="token-93-5" pos="word" morph="none" start_char="2928" end_char="2936">苏联的教训告诉我们</TOKEN>
+<TOKEN id="token-93-6" pos="punct" morph="none" start_char="2937" end_char="2937">，</TOKEN>
+<TOKEN id="token-93-7" pos="word" morph="none" start_char="2938" end_char="2958">对大青果预备的各种收拾手段时刻都会运用上去</TOKEN>
+<TOKEN id="token-93-8" pos="punct" morph="none" start_char="2959" end_char="2959">。</TOKEN>
+</SEG>
+<SEG id="segment-94" start_char="2961" end_char="2968">
+<ORIGINAL_TEXT>&lt;/quote&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-94-0" pos="unknown" morph="none" start_char="2961" end_char="2968">&lt;/quote&gt;</TOKEN>
+</SEG>
+<SEG id="segment-95" start_char="2970" end_char="3001">
+<ORIGINAL_TEXT>苏联丸了揍了车臣，大青果要是丸了，会揍的只有一个地方，想想就吃鸡</ORIGINAL_TEXT>
+<TOKEN id="token-95-0" pos="unknown" morph="none" start_char="2970" end_char="3001">苏联丸了揍了车臣，大青果要是丸了，会揍的只有一个地方，想想就吃鸡</TOKEN>
+</SEG>
+<SEG id="segment-96" start_char="3003" end_char="3009">
+<ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-96-0" pos="unknown" morph="none" start_char="3003" end_char="3009">&lt;/post&gt;</TOKEN>
+</SEG>
+<SEG id="segment-97" start_char="3011" end_char="3069">
+<ORIGINAL_TEXT>&lt;post id="p17" author="歪歪兔" datetime="2015-07-08T16:05:00"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-97-0" pos="unknown" morph="none" start_char="3011" end_char="3015">&lt;post</TOKEN>
+<TOKEN id="token-97-1" pos="unknown" morph="none" start_char="3017" end_char="3024">id="p17"</TOKEN>
+<TOKEN id="token-97-2" pos="unknown" morph="none" start_char="3026" end_char="3037">author="歪歪兔"</TOKEN>
+<TOKEN id="token-97-3" pos="unknown" morph="none" start_char="3039" end_char="3069">datetime="2015-07-08T16:05:00"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-98" start_char="3071" end_char="3097">
+<ORIGINAL_TEXT>&lt;quote orig_author="deson"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-98-0" pos="unknown" morph="none" start_char="3071" end_char="3076">&lt;quote</TOKEN>
+<TOKEN id="token-98-1" pos="unknown" morph="none" start_char="3078" end_char="3097">orig_author="deson"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-99" start_char="3099" end_char="3166">
+<ORIGINAL_TEXT> 目前国际金融市场局势和 A股超同步， 不排除金融领域有被渗透的可能。 苏联的教训告诉我们，对大青果预备的各种收拾手段时刻都会运用上去。</ORIGINAL_TEXT>
+<TOKEN id="token-99-0" pos="word" morph="none" start_char="3100" end_char="3110">目前国际金融市场局势和</TOKEN>
+<TOKEN id="token-99-1" pos="word" morph="none" start_char="3112" end_char="3116">A股超同步</TOKEN>
+<TOKEN id="token-99-2" pos="punct" morph="none" start_char="3117" end_char="3117">，</TOKEN>
+<TOKEN id="token-99-3" pos="word" morph="none" start_char="3119" end_char="3132">不排除金融领域有被渗透的可能</TOKEN>
+<TOKEN id="token-99-4" pos="punct" morph="none" start_char="3133" end_char="3133">。</TOKEN>
+<TOKEN id="token-99-5" pos="word" morph="none" start_char="3135" end_char="3143">苏联的教训告诉我们</TOKEN>
+<TOKEN id="token-99-6" pos="punct" morph="none" start_char="3144" end_char="3144">，</TOKEN>
+<TOKEN id="token-99-7" pos="word" morph="none" start_char="3145" end_char="3165">对大青果预备的各种收拾手段时刻都会运用上去</TOKEN>
+<TOKEN id="token-99-8" pos="punct" morph="none" start_char="3166" end_char="3166">。</TOKEN>
+</SEG>
+<SEG id="segment-100" start_char="3168" end_char="3175">
+<ORIGINAL_TEXT>&lt;/quote&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-100-0" pos="unknown" morph="none" start_char="3168" end_char="3175">&lt;/quote&gt;</TOKEN>
+</SEG>
+<SEG id="segment-101" start_char="3177" end_char="3296">
+<ORIGINAL_TEXT>赞同，前段时间我以为是大盘正常回调，但通过最近观察，这次非理性的暴跌，就是国内金融领域带路买办与白头鹰金融大佬们联手搞乱兔子国内经济金融形势，这次白头鹰就是要和中欧在金融市场上对决，再次树立白头鹰在国际金融市场上的霸权和美元的国际强势地位。</ORIGINAL_TEXT>
+<TOKEN id="token-101-0" pos="unknown" morph="none" start_char="3177" end_char="3296">赞同，前段时间我以为是大盘正常回调，但通过最近观察，这次非理性的暴跌，就是国内金融领域带路买办与白头鹰金融大佬们联手搞乱兔子国内经济金融形势，这次白头鹰就是要和中欧在金融市场上对决，再次树立白头鹰在国际金融市场上的霸权和美元的国际强势地位。</TOKEN>
+</SEG>
+<SEG id="segment-102" start_char="3298" end_char="3304">
+<ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-102-0" pos="unknown" morph="none" start_char="3298" end_char="3304">&lt;/post&gt;</TOKEN>
+</SEG>
+<SEG id="segment-103" start_char="3306" end_char="3367">
+<ORIGINAL_TEXT>&lt;post id="p18" author="GPSGDP" datetime="2015-07-08T16:06:00"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-103-0" pos="unknown" morph="none" start_char="3306" end_char="3310">&lt;post</TOKEN>
+<TOKEN id="token-103-1" pos="unknown" morph="none" start_char="3312" end_char="3319">id="p18"</TOKEN>
+<TOKEN id="token-103-2" pos="unknown" morph="none" start_char="3321" end_char="3335">author="GPSGDP"</TOKEN>
+<TOKEN id="token-103-3" pos="unknown" morph="none" start_char="3337" end_char="3367">datetime="2015-07-08T16:06:00"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-104" start_char="3369" end_char="3390">
+<ORIGINAL_TEXT>楼主敌人在哪里？十个索罗斯来也玩不过国家队。</ORIGINAL_TEXT>
+<TOKEN id="token-104-0" pos="word" morph="none" start_char="3369" end_char="3375">楼主敌人在哪里</TOKEN>
+<TOKEN id="token-104-1" pos="punct" morph="none" start_char="3376" end_char="3376">？</TOKEN>
+<TOKEN id="token-104-2" pos="word" morph="none" start_char="3377" end_char="3389">十个索罗斯来也玩不过国家队</TOKEN>
+<TOKEN id="token-104-3" pos="punct" morph="none" start_char="3390" end_char="3390">。</TOKEN>
+</SEG>
+<SEG id="segment-105" start_char="3392" end_char="3398">
+<ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-105-0" pos="unknown" morph="none" start_char="3392" end_char="3398">&lt;/post&gt;</TOKEN>
+</SEG>
+<SEG id="segment-106" start_char="3400" end_char="3458">
+<ORIGINAL_TEXT>&lt;post id="p19" author="歪歪兔" datetime="2015-07-08T16:07:00"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-106-0" pos="unknown" morph="none" start_char="3400" end_char="3404">&lt;post</TOKEN>
+<TOKEN id="token-106-1" pos="unknown" morph="none" start_char="3406" end_char="3413">id="p19"</TOKEN>
+<TOKEN id="token-106-2" pos="unknown" morph="none" start_char="3415" end_char="3426">author="歪歪兔"</TOKEN>
+<TOKEN id="token-106-3" pos="unknown" morph="none" start_char="3428" end_char="3458">datetime="2015-07-08T16:07:00"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-107" start_char="3460" end_char="3488">
+<ORIGINAL_TEXT>&lt;quote orig_author="boby123"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-107-0" pos="unknown" morph="none" start_char="3460" end_char="3465">&lt;quote</TOKEN>
+<TOKEN id="token-107-1" pos="unknown" morph="none" start_char="3467" end_char="3488">orig_author="boby123"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-108" start_char="3490" end_char="3500">
+<ORIGINAL_TEXT>这两天全球股市都不咋好</ORIGINAL_TEXT>
+<TOKEN id="token-108-0" pos="word" morph="none" start_char="3490" end_char="3500">这两天全球股市都不咋好</TOKEN>
+</SEG>
+<SEG id="segment-109" start_char="3502" end_char="3509">
+<ORIGINAL_TEXT>&lt;/quote&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-109-0" pos="unknown" morph="none" start_char="3502" end_char="3509">&lt;/quote&gt;</TOKEN>
+</SEG>
+<SEG id="segment-110" start_char="3511" end_char="3540">
+<ORIGINAL_TEXT>美股独善其身哈，美元现在也强势，欧元兑美元也处于一路下跌中。</ORIGINAL_TEXT>
+<TOKEN id="token-110-0" pos="unknown" morph="none" start_char="3511" end_char="3540">美股独善其身哈，美元现在也强势，欧元兑美元也处于一路下跌中。</TOKEN>
+</SEG>
+<SEG id="segment-111" start_char="3542" end_char="3548">
+<ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-111-0" pos="unknown" morph="none" start_char="3542" end_char="3548">&lt;/post&gt;</TOKEN>
+</SEG>
+<SEG id="segment-112" start_char="3550" end_char="3611">
+<ORIGINAL_TEXT>&lt;post id="p20" author="GPSGDP" datetime="2015-07-08T16:08:00"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-112-0" pos="unknown" morph="none" start_char="3550" end_char="3554">&lt;post</TOKEN>
+<TOKEN id="token-112-1" pos="unknown" morph="none" start_char="3556" end_char="3563">id="p20"</TOKEN>
+<TOKEN id="token-112-2" pos="unknown" morph="none" start_char="3565" end_char="3579">author="GPSGDP"</TOKEN>
+<TOKEN id="token-112-3" pos="unknown" morph="none" start_char="3581" end_char="3611">datetime="2015-07-08T16:08:00"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-113" start_char="3613" end_char="3633">
+<ORIGINAL_TEXT>整天把屎盘子扣到欧美上，以为大家是傻子么。</ORIGINAL_TEXT>
+<TOKEN id="token-113-0" pos="word" morph="none" start_char="3613" end_char="3623">整天把屎盘子扣到欧美上</TOKEN>
+<TOKEN id="token-113-1" pos="punct" morph="none" start_char="3624" end_char="3624">，</TOKEN>
+<TOKEN id="token-113-2" pos="word" morph="none" start_char="3625" end_char="3632">以为大家是傻子么</TOKEN>
+<TOKEN id="token-113-3" pos="punct" morph="none" start_char="3633" end_char="3633">。</TOKEN>
+</SEG>
+<SEG id="segment-114" start_char="3635" end_char="3641">
+<ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-114-0" pos="unknown" morph="none" start_char="3635" end_char="3641">&lt;/post&gt;</TOKEN>
+</SEG>
+<SEG id="segment-115" start_char="3643" end_char="3701">
+<ORIGINAL_TEXT>&lt;post id="p21" author="歪歪兔" datetime="2015-07-08T16:08:00"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-115-0" pos="unknown" morph="none" start_char="3643" end_char="3647">&lt;post</TOKEN>
+<TOKEN id="token-115-1" pos="unknown" morph="none" start_char="3649" end_char="3656">id="p21"</TOKEN>
+<TOKEN id="token-115-2" pos="unknown" morph="none" start_char="3658" end_char="3669">author="歪歪兔"</TOKEN>
+<TOKEN id="token-115-3" pos="unknown" morph="none" start_char="3671" end_char="3701">datetime="2015-07-08T16:08:00"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-116" start_char="3703" end_char="3735">
+<ORIGINAL_TEXT>&lt;quote orig_author="FriedrichIV"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-116-0" pos="unknown" morph="none" start_char="3703" end_char="3708">&lt;quote</TOKEN>
+<TOKEN id="token-116-1" pos="unknown" morph="none" start_char="3710" end_char="3735">orig_author="FriedrichIV"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-117" start_char="3737" end_char="3742">
+<ORIGINAL_TEXT>形容词而已！</ORIGINAL_TEXT>
+<TOKEN id="token-117-0" pos="word" morph="none" start_char="3737" end_char="3741">形容词而已</TOKEN>
+<TOKEN id="token-117-1" pos="punct" morph="none" start_char="3742" end_char="3742">！</TOKEN>
+</SEG>
+<SEG id="segment-118" start_char="3745" end_char="3764">
+<ORIGINAL_TEXT>看这次股灾开始后那些家户都是怎样司马的？</ORIGINAL_TEXT>
+<TOKEN id="token-118-0" pos="word" morph="none" start_char="3745" end_char="3763">看这次股灾开始后那些家户都是怎样司马的</TOKEN>
+<TOKEN id="token-118-1" pos="punct" morph="none" start_char="3764" end_char="3764">？</TOKEN>
+</SEG>
+<SEG id="segment-119" start_char="3766" end_char="3773">
+<ORIGINAL_TEXT>&lt;/quote&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-119-0" pos="unknown" morph="none" start_char="3766" end_char="3773">&lt;/quote&gt;</TOKEN>
+</SEG>
+<SEG id="segment-120" start_char="3775" end_char="3790">
+<ORIGINAL_TEXT>不要光看国内，看看现在欧洲形势。</ORIGINAL_TEXT>
+<TOKEN id="token-120-0" pos="word" morph="none" start_char="3775" end_char="3780">不要光看国内</TOKEN>
+<TOKEN id="token-120-1" pos="punct" morph="none" start_char="3781" end_char="3781">，</TOKEN>
+<TOKEN id="token-120-2" pos="word" morph="none" start_char="3782" end_char="3789">看看现在欧洲形势</TOKEN>
+<TOKEN id="token-120-3" pos="punct" morph="none" start_char="3790" end_char="3790">。</TOKEN>
+</SEG>
+<SEG id="segment-121" start_char="3792" end_char="3798">
+<ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-121-0" pos="unknown" morph="none" start_char="3792" end_char="3798">&lt;/post&gt;</TOKEN>
+</SEG>
+<SEG id="segment-122" start_char="3800" end_char="3858">
+<ORIGINAL_TEXT>&lt;post id="p22" author="歪歪兔" datetime="2015-07-08T16:15:00"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-122-0" pos="unknown" morph="none" start_char="3800" end_char="3804">&lt;post</TOKEN>
+<TOKEN id="token-122-1" pos="unknown" morph="none" start_char="3806" end_char="3813">id="p22"</TOKEN>
+<TOKEN id="token-122-2" pos="unknown" morph="none" start_char="3815" end_char="3826">author="歪歪兔"</TOKEN>
+<TOKEN id="token-122-3" pos="unknown" morph="none" start_char="3828" end_char="3858">datetime="2015-07-08T16:15:00"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-123" start_char="3860" end_char="3887">
+<ORIGINAL_TEXT>&lt;quote orig_author="GPSGDP"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-123-0" pos="unknown" morph="none" start_char="3860" end_char="3865">&lt;quote</TOKEN>
+<TOKEN id="token-123-1" pos="unknown" morph="none" start_char="3867" end_char="3887">orig_author="GPSGDP"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-124" start_char="3889" end_char="3909">
+<ORIGINAL_TEXT>整天把屎盘子扣到欧美上，以为大家是傻子么。</ORIGINAL_TEXT>
+<TOKEN id="token-124-0" pos="word" morph="none" start_char="3889" end_char="3899">整天把屎盘子扣到欧美上</TOKEN>
+<TOKEN id="token-124-1" pos="punct" morph="none" start_char="3900" end_char="3900">，</TOKEN>
+<TOKEN id="token-124-2" pos="word" morph="none" start_char="3901" end_char="3908">以为大家是傻子么</TOKEN>
+<TOKEN id="token-124-3" pos="punct" morph="none" start_char="3909" end_char="3909">。</TOKEN>
+</SEG>
+<SEG id="segment-125" start_char="3911" end_char="3918">
+<ORIGINAL_TEXT>&lt;/quote&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-125-0" pos="unknown" morph="none" start_char="3911" end_char="3918">&lt;/quote&gt;</TOKEN>
+</SEG>
+<SEG id="segment-126" start_char="3920" end_char="3960">
+<ORIGINAL_TEXT>这次是白头鹰和中欧对决，白头鹰是不希望在全球金融市场上有强势人民币和欧元的存在的。</ORIGINAL_TEXT>
+<TOKEN id="token-126-0" pos="word" morph="none" start_char="3920" end_char="3930">这次是白头鹰和中欧对决</TOKEN>
+<TOKEN id="token-126-1" pos="punct" morph="none" start_char="3931" end_char="3931">，</TOKEN>
+<TOKEN id="token-126-2" pos="word" morph="none" start_char="3932" end_char="3959">白头鹰是不希望在全球金融市场上有强势人民币和欧元的存在的</TOKEN>
+<TOKEN id="token-126-3" pos="punct" morph="none" start_char="3960" end_char="3960">。</TOKEN>
+</SEG>
+<SEG id="segment-127" start_char="3962" end_char="3968">
+<ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-127-0" pos="unknown" morph="none" start_char="3962" end_char="3968">&lt;/post&gt;</TOKEN>
+</SEG>
+<SEG id="segment-128" start_char="3970" end_char="4028">
+<ORIGINAL_TEXT>&lt;post id="p23" author="歪歪兔" datetime="2015-07-08T16:22:00"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-128-0" pos="unknown" morph="none" start_char="3970" end_char="3974">&lt;post</TOKEN>
+<TOKEN id="token-128-1" pos="unknown" morph="none" start_char="3976" end_char="3983">id="p23"</TOKEN>
+<TOKEN id="token-128-2" pos="unknown" morph="none" start_char="3985" end_char="3996">author="歪歪兔"</TOKEN>
+<TOKEN id="token-128-3" pos="unknown" morph="none" start_char="3998" end_char="4028">datetime="2015-07-08T16:22:00"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-129" start_char="4030" end_char="4057">
+<ORIGINAL_TEXT>&lt;quote orig_author="GPSGDP"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-129-0" pos="unknown" morph="none" start_char="4030" end_char="4035">&lt;quote</TOKEN>
+<TOKEN id="token-129-1" pos="unknown" morph="none" start_char="4037" end_char="4057">orig_author="GPSGDP"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-130" start_char="4059" end_char="4080">
+<ORIGINAL_TEXT>楼主敌人在哪里？十个索罗斯来也玩不过国家队。</ORIGINAL_TEXT>
+<TOKEN id="token-130-0" pos="word" morph="none" start_char="4059" end_char="4065">楼主敌人在哪里</TOKEN>
+<TOKEN id="token-130-1" pos="punct" morph="none" start_char="4066" end_char="4066">？</TOKEN>
+<TOKEN id="token-130-2" pos="word" morph="none" start_char="4067" end_char="4079">十个索罗斯来也玩不过国家队</TOKEN>
+<TOKEN id="token-130-3" pos="punct" morph="none" start_char="4080" end_char="4080">。</TOKEN>
+</SEG>
+<SEG id="segment-131" start_char="4082" end_char="4089">
+<ORIGINAL_TEXT>&lt;/quote&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-131-0" pos="unknown" morph="none" start_char="4082" end_char="4089">&lt;/quote&gt;</TOKEN>
+</SEG>
+<SEG id="segment-132" start_char="4091" end_char="4163">
+<ORIGINAL_TEXT>在封闭市场，国家队可以这样玩，问题是现在国内融资融券了，也开了期指了，也可以沪港通，前两天中央拉内地指标股，就反手做空港股，很明显战争已经开始了。</ORIGINAL_TEXT>
+<TOKEN id="token-132-0" pos="unknown" morph="none" start_char="4091" end_char="4163">在封闭市场，国家队可以这样玩，问题是现在国内融资融券了，也开了期指了，也可以沪港通，前两天中央拉内地指标股，就反手做空港股，很明显战争已经开始了。</TOKEN>
+</SEG>
+<SEG id="segment-133" start_char="4165" end_char="4171">
+<ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-133-0" pos="unknown" morph="none" start_char="4165" end_char="4171">&lt;/post&gt;</TOKEN>
+</SEG>
+<SEG id="segment-134" start_char="4173" end_char="4235">
+<ORIGINAL_TEXT>&lt;post id="p24" author="z600518" datetime="2015-07-08T16:23:00"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-134-0" pos="unknown" morph="none" start_char="4173" end_char="4177">&lt;post</TOKEN>
+<TOKEN id="token-134-1" pos="unknown" morph="none" start_char="4179" end_char="4186">id="p24"</TOKEN>
+<TOKEN id="token-134-2" pos="unknown" morph="none" start_char="4188" end_char="4203">author="z600518"</TOKEN>
+<TOKEN id="token-134-3" pos="unknown" morph="none" start_char="4205" end_char="4235">datetime="2015-07-08T16:23:00"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-135" start_char="4237" end_char="4260">
+<ORIGINAL_TEXT>就是自己制造泡沫圈钱玩脱了而已，哪来那么多阴谋论</ORIGINAL_TEXT>
+<TOKEN id="token-135-0" pos="word" morph="none" start_char="4237" end_char="4251">就是自己制造泡沫圈钱玩脱了而已</TOKEN>
+<TOKEN id="token-135-1" pos="punct" morph="none" start_char="4252" end_char="4252">，</TOKEN>
+<TOKEN id="token-135-2" pos="word" morph="none" start_char="4253" end_char="4260">哪来那么多阴谋论</TOKEN>
+</SEG>
+<SEG id="segment-136" start_char="4262" end_char="4268">
+<ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-136-0" pos="unknown" morph="none" start_char="4262" end_char="4268">&lt;/post&gt;</TOKEN>
+</SEG>
+<SEG id="segment-137" start_char="4270" end_char="4328">
+<ORIGINAL_TEXT>&lt;post id="p25" author="秋风原" datetime="2015-07-08T16:25:00"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-137-0" pos="unknown" morph="none" start_char="4270" end_char="4274">&lt;post</TOKEN>
+<TOKEN id="token-137-1" pos="unknown" morph="none" start_char="4276" end_char="4283">id="p25"</TOKEN>
+<TOKEN id="token-137-2" pos="unknown" morph="none" start_char="4285" end_char="4296">author="秋风原"</TOKEN>
+<TOKEN id="token-137-3" pos="unknown" morph="none" start_char="4298" end_char="4328">datetime="2015-07-08T16:25:00"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-138" start_char="4330" end_char="4350">
+<ORIGINAL_TEXT>这有什么，只要国内说要抛售美券，利马就尿。</ORIGINAL_TEXT>
+<TOKEN id="token-138-0" pos="unknown" morph="none" start_char="4330" end_char="4350">这有什么，只要国内说要抛售美券，利马就尿。</TOKEN>
+</SEG>
+<SEG id="segment-139" start_char="4352" end_char="4358">
+<ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-139-0" pos="unknown" morph="none" start_char="4352" end_char="4358">&lt;/post&gt;</TOKEN>
+</SEG>
+<SEG id="segment-140" start_char="4360" end_char="4422">
+<ORIGINAL_TEXT>&lt;post id="p26" author="z600518" datetime="2015-07-08T16:28:00"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-140-0" pos="unknown" morph="none" start_char="4360" end_char="4364">&lt;post</TOKEN>
+<TOKEN id="token-140-1" pos="unknown" morph="none" start_char="4366" end_char="4373">id="p26"</TOKEN>
+<TOKEN id="token-140-2" pos="unknown" morph="none" start_char="4375" end_char="4390">author="z600518"</TOKEN>
+<TOKEN id="token-140-3" pos="unknown" morph="none" start_char="4392" end_char="4422">datetime="2015-07-08T16:28:00"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-141" start_char="4424" end_char="4533">
+<ORIGINAL_TEXT>这次泡沫吹到5178，市值已经相当于GDP了，以前6124就是这样崩盘的。如果给你吹到6124之上，就相当于1.5倍GDP，全世界没有一个股市能够支撑这样的泡沫（相当于1929年华尔街大崩盘和1989日本股市崩盘的水平）</ORIGINAL_TEXT>
+<TOKEN id="token-141-0" pos="unknown" morph="none" start_char="4424" end_char="4533">这次泡沫吹到5178，市值已经相当于GDP了，以前6124就是这样崩盘的。如果给你吹到6124之上，就相当于1.5倍GDP，全世界没有一个股市能够支撑这样的泡沫（相当于1929年华尔街大崩盘和1989日本股市崩盘的水平）</TOKEN>
+</SEG>
+<SEG id="segment-142" start_char="4535" end_char="4541">
+<ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-142-0" pos="unknown" morph="none" start_char="4535" end_char="4541">&lt;/post&gt;</TOKEN>
+</SEG>
+<SEG id="segment-143" start_char="4543" end_char="4604">
+<ORIGINAL_TEXT>&lt;post id="p27" author="GPSGDP" datetime="2015-07-08T16:29:00"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-143-0" pos="unknown" morph="none" start_char="4543" end_char="4547">&lt;post</TOKEN>
+<TOKEN id="token-143-1" pos="unknown" morph="none" start_char="4549" end_char="4556">id="p27"</TOKEN>
+<TOKEN id="token-143-2" pos="unknown" morph="none" start_char="4558" end_char="4572">author="GPSGDP"</TOKEN>
+<TOKEN id="token-143-3" pos="unknown" morph="none" start_char="4574" end_char="4604">datetime="2015-07-08T16:29:00"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-144" start_char="4606" end_char="4630">
+<ORIGINAL_TEXT>&lt;quote orig_author="歪歪兔"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-144-0" pos="unknown" morph="none" start_char="4606" end_char="4611">&lt;quote</TOKEN>
+<TOKEN id="token-144-1" pos="unknown" morph="none" start_char="4613" end_char="4630">orig_author="歪歪兔"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-145" start_char="4632" end_char="4672">
+<ORIGINAL_TEXT>这次是白头鹰和中欧对决，白头鹰是不希望在全球金融市场上有强势人民币和欧元的存在的。</ORIGINAL_TEXT>
+<TOKEN id="token-145-0" pos="word" morph="none" start_char="4632" end_char="4642">这次是白头鹰和中欧对决</TOKEN>
+<TOKEN id="token-145-1" pos="punct" morph="none" start_char="4643" end_char="4643">，</TOKEN>
+<TOKEN id="token-145-2" pos="word" morph="none" start_char="4644" end_char="4671">白头鹰是不希望在全球金融市场上有强势人民币和欧元的存在的</TOKEN>
+<TOKEN id="token-145-3" pos="punct" morph="none" start_char="4672" end_char="4672">。</TOKEN>
+</SEG>
+<SEG id="segment-146" start_char="4674" end_char="4681">
+<ORIGINAL_TEXT>&lt;/quote&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-146-0" pos="unknown" morph="none" start_char="4674" end_char="4681">&lt;/quote&gt;</TOKEN>
+</SEG>
+<SEG id="segment-147" start_char="4683" end_char="4772">
+<ORIGINAL_TEXT>别意淫了好不好，上次东南亚金融危机，哪几个国外对冲基金在搞事马上就知道，香港甚至提前就知道索罗斯要做空港股，谁在搞事？我们连谁都不知道？你知道恶意造空中国股市又不让政府知道有多难？</ORIGINAL_TEXT>
+<TOKEN id="token-147-0" pos="unknown" morph="none" start_char="4683" end_char="4772">别意淫了好不好，上次东南亚金融危机，哪几个国外对冲基金在搞事马上就知道，香港甚至提前就知道索罗斯要做空港股，谁在搞事？我们连谁都不知道？你知道恶意造空中国股市又不让政府知道有多难？</TOKEN>
+</SEG>
+<SEG id="segment-148" start_char="4774" end_char="4780">
+<ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-148-0" pos="unknown" morph="none" start_char="4774" end_char="4780">&lt;/post&gt;</TOKEN>
+</SEG>
+<SEG id="segment-149" start_char="4782" end_char="4843">
+<ORIGINAL_TEXT>&lt;post id="p28" author="GPSGDP" datetime="2015-07-08T16:30:00"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-149-0" pos="unknown" morph="none" start_char="4782" end_char="4786">&lt;post</TOKEN>
+<TOKEN id="token-149-1" pos="unknown" morph="none" start_char="4788" end_char="4795">id="p28"</TOKEN>
+<TOKEN id="token-149-2" pos="unknown" morph="none" start_char="4797" end_char="4811">author="GPSGDP"</TOKEN>
+<TOKEN id="token-149-3" pos="unknown" morph="none" start_char="4813" end_char="4843">datetime="2015-07-08T16:30:00"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-150" start_char="4845" end_char="4869">
+<ORIGINAL_TEXT>&lt;quote orig_author="歪歪兔"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-150-0" pos="unknown" morph="none" start_char="4845" end_char="4850">&lt;quote</TOKEN>
+<TOKEN id="token-150-1" pos="unknown" morph="none" start_char="4852" end_char="4869">orig_author="歪歪兔"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-151" start_char="4871" end_char="4943">
+<ORIGINAL_TEXT>在封闭市场，国家队可以这样玩，问题是现在国内融资融券了，也开了期指了，也可以沪港通，前两天中央拉内地指标股，就反手做空港股，很明显战争已经开始了。</ORIGINAL_TEXT>
+<TOKEN id="token-151-0" pos="unknown" morph="none" start_char="4871" end_char="4943">在封闭市场，国家队可以这样玩，问题是现在国内融资融券了，也开了期指了，也可以沪港通，前两天中央拉内地指标股，就反手做空港股，很明显战争已经开始了。</TOKEN>
+</SEG>
+<SEG id="segment-152" start_char="4945" end_char="4952">
+<ORIGINAL_TEXT>&lt;/quote&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-152-0" pos="unknown" morph="none" start_char="4945" end_char="4952">&lt;/quote&gt;</TOKEN>
+</SEG>
+<SEG id="segment-153" start_char="4954" end_char="4980">
+<ORIGINAL_TEXT>拜托你学点金融知识，港股跌是中资急着把钱抽回内地股市。</ORIGINAL_TEXT>
+<TOKEN id="token-153-0" pos="word" morph="none" start_char="4954" end_char="4962">拜托你学点金融知识</TOKEN>
+<TOKEN id="token-153-1" pos="punct" morph="none" start_char="4963" end_char="4963">，</TOKEN>
+<TOKEN id="token-153-2" pos="word" morph="none" start_char="4964" end_char="4979">港股跌是中资急着把钱抽回内地股市</TOKEN>
+<TOKEN id="token-153-3" pos="punct" morph="none" start_char="4980" end_char="4980">。</TOKEN>
+</SEG>
+<SEG id="segment-154" start_char="4982" end_char="4988">
+<ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-154-0" pos="unknown" morph="none" start_char="4982" end_char="4988">&lt;/post&gt;</TOKEN>
+</SEG>
+<SEG id="segment-155" start_char="4990" end_char="5048">
+<ORIGINAL_TEXT>&lt;post id="p29" author="歪歪兔" datetime="2015-07-08T16:44:00"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-155-0" pos="unknown" morph="none" start_char="4990" end_char="4994">&lt;post</TOKEN>
+<TOKEN id="token-155-1" pos="unknown" morph="none" start_char="4996" end_char="5003">id="p29"</TOKEN>
+<TOKEN id="token-155-2" pos="unknown" morph="none" start_char="5005" end_char="5016">author="歪歪兔"</TOKEN>
+<TOKEN id="token-155-3" pos="unknown" morph="none" start_char="5018" end_char="5048">datetime="2015-07-08T16:44:00"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-156" start_char="5050" end_char="5075">
+<ORIGINAL_TEXT>过段时间，战争中场会有消息放出来的，这段时间围观中。</ORIGINAL_TEXT>
+<TOKEN id="token-156-0" pos="unknown" morph="none" start_char="5050" end_char="5075">过段时间，战争中场会有消息放出来的，这段时间围观中。</TOKEN>
+</SEG>
+<SEG id="segment-157" start_char="5077" end_char="5083">
+<ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-157-0" pos="unknown" morph="none" start_char="5077" end_char="5083">&lt;/post&gt;</TOKEN>
+</SEG>
+<SEG id="segment-158" start_char="5085" end_char="5144">
+<ORIGINAL_TEXT>&lt;post id="p30" author="君丶折柳" datetime="2015-07-08T16:59:00"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-158-0" pos="unknown" morph="none" start_char="5085" end_char="5089">&lt;post</TOKEN>
+<TOKEN id="token-158-1" pos="unknown" morph="none" start_char="5091" end_char="5098">id="p30"</TOKEN>
+<TOKEN id="token-158-2" pos="unknown" morph="none" start_char="5100" end_char="5112">author="君丶折柳"</TOKEN>
+<TOKEN id="token-158-3" pos="unknown" morph="none" start_char="5114" end_char="5144">datetime="2015-07-08T16:59:00"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-159" start_char="5146" end_char="5253">
+<ORIGINAL_TEXT>思维真发散。脑洞不是一般的大，能禁止这种无脑的贴子吗。中国股市本来就是赌博池，下跌的原因无非就是涨高了，大家都卖了。至于有人做空？呵呵，减持的全都是政企机关和大股东。今天看见一个新闻，南充财政局成功逃顶，净赚几十亿。</ORIGINAL_TEXT>
+<TOKEN id="token-159-0" pos="unknown" morph="none" start_char="5146" end_char="5253">思维真发散。脑洞不是一般的大，能禁止这种无脑的贴子吗。中国股市本来就是赌博池，下跌的原因无非就是涨高了，大家都卖了。至于有人做空？呵呵，减持的全都是政企机关和大股东。今天看见一个新闻，南充财政局成功逃顶，净赚几十亿。</TOKEN>
+</SEG>
+<SEG id="segment-160" start_char="5255" end_char="5261">
+<ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-160-0" pos="unknown" morph="none" start_char="5255" end_char="5261">&lt;/post&gt;</TOKEN>
+</SEG>
+<SEG id="segment-161" start_char="5263" end_char="5268">
+<ORIGINAL_TEXT>&lt;/doc&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-161-0" pos="unknown" morph="none" start_char="5263" end_char="5268">&lt;/doc&gt;</TOKEN>
+</SEG>
+</TEXT>
+</DOC>
+</LCTL_TEXT>

@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE LCTL_TEXT SYSTEM "ltf.v1.5.dtd">
+<LCTL_TEXT>
+<DOC id="CMN_NW_001317_20150111_F0010002C.nw.xml" tokenization="tokenization_parameters" grammar="none" raw_text_char_length="1305" raw_text_md5="3c51faef3f5a8b2a349ca43b91b806bc">
+<TEXT>
+<SEG id="segment-0" start_char="0" end_char="37">
+<ORIGINAL_TEXT>&lt;?xml version="1.0" encoding="utf-8"?&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-0-0" pos="unknown" morph="none" start_char="0" end_char="4">&lt;?xml</TOKEN>
+<TOKEN id="token-0-1" pos="unknown" morph="none" start_char="6" end_char="18">version="1.0"</TOKEN>
+<TOKEN id="token-0-2" pos="unknown" morph="none" start_char="20" end_char="37">encoding="utf-8"?&gt;</TOKEN>
+</SEG>
+<SEG id="segment-1" start_char="39" end_char="81">
+<ORIGINAL_TEXT>&lt;DOC id="CMN_NW_001317_20150111_F0010002C"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-1-0" pos="unknown" morph="none" start_char="39" end_char="42">&lt;DOC</TOKEN>
+<TOKEN id="token-1-1" pos="unknown" morph="none" start_char="44" end_char="81">id="CMN_NW_001317_20150111_F0010002C"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-2" start_char="83" end_char="151">
+<ORIGINAL_TEXT>&lt;SOURCE&gt;http://news.fjnet.cn/2015-01/11/content_15531081.htm&lt;/SOURCE&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-2-0" pos="unknown" morph="none" start_char="83" end_char="151">&lt;SOURCE&gt;http://news.fjnet.cn/2015-01/11/content_15531081.htm&lt;/SOURCE&gt;</TOKEN>
+</SEG>
+<SEG id="segment-3" start_char="153" end_char="194">
+<ORIGINAL_TEXT>&lt;DATE_TIME&gt;2015-01-11T00:00:00&lt;/DATE_TIME&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-3-0" pos="unknown" morph="none" start_char="153" end_char="194">&lt;DATE_TIME&gt;2015-01-11T00:00:00&lt;/DATE_TIME&gt;</TOKEN>
+</SEG>
+<SEG id="segment-4" start_char="196" end_char="205">
+<ORIGINAL_TEXT>&lt;HEADLINE&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-4-0" pos="unknown" morph="none" start_char="196" end_char="205">&lt;HEADLINE&gt;</TOKEN>
+</SEG>
+<SEG id="segment-5" start_char="207" end_char="229">
+<ORIGINAL_TEXT>“博科圣地”在尼日利亚屠城 杀死至少数百名平民</ORIGINAL_TEXT>
+<TOKEN id="token-5-0" pos="punct" morph="none" start_char="207" end_char="207">“</TOKEN>
+<TOKEN id="token-5-1" pos="word" morph="none" start_char="208" end_char="211">博科圣地</TOKEN>
+<TOKEN id="token-5-2" pos="punct" morph="none" start_char="212" end_char="212">”</TOKEN>
+<TOKEN id="token-5-3" pos="word" morph="none" start_char="213" end_char="219">在尼日利亚屠城</TOKEN>
+<TOKEN id="token-5-4" pos="word" morph="none" start_char="221" end_char="229">杀死至少数百名平民</TOKEN>
+</SEG>
+<SEG id="segment-6" start_char="231" end_char="241">
+<ORIGINAL_TEXT>&lt;/HEADLINE&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-6-0" pos="unknown" morph="none" start_char="231" end_char="241">&lt;/HEADLINE&gt;</TOKEN>
+</SEG>
+<SEG id="segment-7" start_char="243" end_char="248">
+<ORIGINAL_TEXT>&lt;TEXT&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-7-0" pos="unknown" morph="none" start_char="243" end_char="248">&lt;TEXT&gt;</TOKEN>
+</SEG>
+<SEG id="segment-8" start_char="250" end_char="252">
+<ORIGINAL_TEXT>&lt;P&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-8-0" pos="unknown" morph="none" start_char="250" end_char="252">&lt;P&gt;</TOKEN>
+</SEG>
+<SEG id="segment-9" start_char="254" end_char="274">
+<ORIGINAL_TEXT>原标题：博科圣地“屠城” 烧毁至少16城镇</ORIGINAL_TEXT>
+<TOKEN id="token-9-0" pos="unknown" morph="none" start_char="254" end_char="265">原标题：博科圣地“屠城”</TOKEN>
+<TOKEN id="token-9-1" pos="word" morph="none" start_char="267" end_char="274">烧毁至少16城镇</TOKEN>
+</SEG>
+<SEG id="segment-10" start_char="276" end_char="279">
+<ORIGINAL_TEXT>&lt;/P&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-10-0" pos="unknown" morph="none" start_char="276" end_char="279">&lt;/P&gt;</TOKEN>
+</SEG>
+<SEG id="segment-11" start_char="281" end_char="283">
+<ORIGINAL_TEXT>&lt;P&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-11-0" pos="unknown" morph="none" start_char="281" end_char="283">&lt;P&gt;</TOKEN>
+</SEG>
+<SEG id="segment-12" start_char="285" end_char="395">
+<ORIGINAL_TEXT>据新加坡《联合早报》10日报道，非洲激进组织博科圣地前两天向尼日利亚东北部发动大规模袭击，烧毁了至少16个城镇和村庄，估计造成大量人员丧命，大批民众弃家逃亡。目前，各媒体报道的平民死亡数字相去甚远，在几百到2000人之间。</ORIGINAL_TEXT>
+<TOKEN id="token-12-0" pos="unknown" morph="none" start_char="285" end_char="395">据新加坡《联合早报》10日报道，非洲激进组织博科圣地前两天向尼日利亚东北部发动大规模袭击，烧毁了至少16个城镇和村庄，估计造成大量人员丧命，大批民众弃家逃亡。目前，各媒体报道的平民死亡数字相去甚远，在几百到2000人之间。</TOKEN>
+</SEG>
+<SEG id="segment-13" start_char="397" end_char="400">
+<ORIGINAL_TEXT>&lt;/P&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-13-0" pos="unknown" morph="none" start_char="397" end_char="400">&lt;/P&gt;</TOKEN>
+</SEG>
+<SEG id="segment-14" start_char="402" end_char="404">
+<ORIGINAL_TEXT>&lt;P&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-14-0" pos="unknown" morph="none" start_char="402" end_char="404">&lt;P&gt;</TOKEN>
+</SEG>
+<SEG id="segment-15" start_char="406" end_char="417">
+<ORIGINAL_TEXT>保护当地的政府军士兵逃离</ORIGINAL_TEXT>
+<TOKEN id="token-15-0" pos="word" morph="none" start_char="406" end_char="417">保护当地的政府军士兵逃离</TOKEN>
+</SEG>
+<SEG id="segment-16" start_char="419" end_char="422">
+<ORIGINAL_TEXT>&lt;/P&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-16-0" pos="unknown" morph="none" start_char="419" end_char="422">&lt;/P&gt;</TOKEN>
+</SEG>
+<SEG id="segment-17" start_char="424" end_char="426">
+<ORIGINAL_TEXT>&lt;P&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-17-0" pos="unknown" morph="none" start_char="424" end_char="426">&lt;P&gt;</TOKEN>
+</SEG>
+<SEG id="segment-18" start_char="428" end_char="551">
+<ORIGINAL_TEXT>据英国媒体9日的报道，在5天的时间里博科圣地在尼日利亚东北部地区巴加镇，屠杀了2000余人。尼日利亚东北部巴加镇的两名镇民称，博科圣地的武装人员进村后，便任意开枪射杀，随后焚烧建筑物。袭击行动从6日持续到7日。保护当地的政府军士兵已经在上周末逃离。</ORIGINAL_TEXT>
+<TOKEN id="token-18-0" pos="unknown" morph="none" start_char="428" end_char="551">据英国媒体9日的报道，在5天的时间里博科圣地在尼日利亚东北部地区巴加镇，屠杀了2000余人。尼日利亚东北部巴加镇的两名镇民称，博科圣地的武装人员进村后，便任意开枪射杀，随后焚烧建筑物。袭击行动从6日持续到7日。保护当地的政府军士兵已经在上周末逃离。</TOKEN>
+</SEG>
+<SEG id="segment-19" start_char="553" end_char="556">
+<ORIGINAL_TEXT>&lt;/P&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-19-0" pos="unknown" morph="none" start_char="553" end_char="556">&lt;/P&gt;</TOKEN>
+</SEG>
+<SEG id="segment-20" start_char="558" end_char="560">
+<ORIGINAL_TEXT>&lt;P&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-20-0" pos="unknown" morph="none" start_char="558" end_char="560">&lt;P&gt;</TOKEN>
+</SEG>
+<SEG id="segment-21" start_char="562" end_char="618">
+<ORIGINAL_TEXT>一名目击者说：“我见到博科圣地的武装人员滥杀无辜，急忙和家人坐车逃亡……许多人横尸街头。一些妇女和小孩哭着求救。”</ORIGINAL_TEXT>
+<TOKEN id="token-21-0" pos="unknown" morph="none" start_char="562" end_char="618">一名目击者说：“我见到博科圣地的武装人员滥杀无辜，急忙和家人坐车逃亡……许多人横尸街头。一些妇女和小孩哭着求救。”</TOKEN>
+</SEG>
+<SEG id="segment-22" start_char="620" end_char="623">
+<ORIGINAL_TEXT>&lt;/P&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-22-0" pos="unknown" morph="none" start_char="620" end_char="623">&lt;/P&gt;</TOKEN>
+</SEG>
+<SEG id="segment-23" start_char="625" end_char="627">
+<ORIGINAL_TEXT>&lt;P&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-23-0" pos="unknown" morph="none" start_char="625" end_char="627">&lt;P&gt;</TOKEN>
+</SEG>
+<SEG id="segment-24" start_char="629" end_char="667">
+<ORIGINAL_TEXT>尼日利亚参议员拉万说，目前还不可能知道确切死亡人数，但是他说“绝不止数百人”。</ORIGINAL_TEXT>
+<TOKEN id="token-24-0" pos="unknown" morph="none" start_char="629" end_char="667">尼日利亚参议员拉万说，目前还不可能知道确切死亡人数，但是他说“绝不止数百人”。</TOKEN>
+</SEG>
+<SEG id="segment-25" start_char="669" end_char="672">
+<ORIGINAL_TEXT>&lt;/P&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-25-0" pos="unknown" morph="none" start_char="669" end_char="672">&lt;/P&gt;</TOKEN>
+</SEG>
+<SEG id="segment-26" start_char="674" end_char="676">
+<ORIGINAL_TEXT>&lt;P&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-26-0" pos="unknown" morph="none" start_char="674" end_char="676">&lt;P&gt;</TOKEN>
+</SEG>
+<SEG id="segment-27" start_char="678" end_char="689">
+<ORIGINAL_TEXT>总统忙于竞选不管恐怖袭击</ORIGINAL_TEXT>
+<TOKEN id="token-27-0" pos="word" morph="none" start_char="678" end_char="689">总统忙于竞选不管恐怖袭击</TOKEN>
+</SEG>
+<SEG id="segment-28" start_char="691" end_char="694">
+<ORIGINAL_TEXT>&lt;/P&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-28-0" pos="unknown" morph="none" start_char="691" end_char="694">&lt;/P&gt;</TOKEN>
+</SEG>
+<SEG id="segment-29" start_char="696" end_char="698">
+<ORIGINAL_TEXT>&lt;P&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-29-0" pos="unknown" morph="none" start_char="696" end_char="698">&lt;P&gt;</TOKEN>
+</SEG>
+<SEG id="segment-30" start_char="700" end_char="749">
+<ORIGINAL_TEXT>博科圣地7日发动大规模袭击之际，尼日利亚总统乔纳森同天在尼日利亚最大城市拉各斯宣布开启竞选连任活动。</ORIGINAL_TEXT>
+<TOKEN id="token-30-0" pos="word" morph="none" start_char="700" end_char="714">博科圣地7日发动大规模袭击之际</TOKEN>
+<TOKEN id="token-30-1" pos="punct" morph="none" start_char="715" end_char="715">，</TOKEN>
+<TOKEN id="token-30-2" pos="word" morph="none" start_char="716" end_char="748">尼日利亚总统乔纳森同天在尼日利亚最大城市拉各斯宣布开启竞选连任活动</TOKEN>
+<TOKEN id="token-30-3" pos="punct" morph="none" start_char="749" end_char="749">。</TOKEN>
+</SEG>
+<SEG id="segment-31" start_char="751" end_char="754">
+<ORIGINAL_TEXT>&lt;/P&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-31-0" pos="unknown" morph="none" start_char="751" end_char="754">&lt;/P&gt;</TOKEN>
+</SEG>
+<SEG id="segment-32" start_char="756" end_char="758">
+<ORIGINAL_TEXT>&lt;P&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-32-0" pos="unknown" morph="none" start_char="756" end_char="758">&lt;P&gt;</TOKEN>
+</SEG>
+<SEG id="segment-33" start_char="760" end_char="872">
+<ORIGINAL_TEXT>乔纳森此前因没能阻止博科圣地发动恐怖袭击而招致批评，并引发群众示威。但在当天举行的群众集会上，乔纳森却把国内发生的恐怖袭击归咎于前任政府，指保安疏漏是上届政府国防开支不足所致。乔纳森告诉成千上万名支持者：“那些人什么也没买。”</ORIGINAL_TEXT>
+<TOKEN id="token-33-0" pos="unknown" morph="none" start_char="760" end_char="872">乔纳森此前因没能阻止博科圣地发动恐怖袭击而招致批评，并引发群众示威。但在当天举行的群众集会上，乔纳森却把国内发生的恐怖袭击归咎于前任政府，指保安疏漏是上届政府国防开支不足所致。乔纳森告诉成千上万名支持者：“那些人什么也没买。”</TOKEN>
+</SEG>
+<SEG id="segment-34" start_char="874" end_char="877">
+<ORIGINAL_TEXT>&lt;/P&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-34-0" pos="unknown" morph="none" start_char="874" end_char="877">&lt;/P&gt;</TOKEN>
+</SEG>
+<SEG id="segment-35" start_char="879" end_char="881">
+<ORIGINAL_TEXT>&lt;P&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-35-0" pos="unknown" morph="none" start_char="879" end_char="881">&lt;P&gt;</TOKEN>
+</SEG>
+<SEG id="segment-36" start_char="883" end_char="921">
+<ORIGINAL_TEXT>尼日利亚政府军曾抱怨，士兵缺乏武器，甚至是子弹，无法与博科圣地的武装人员对抗。</ORIGINAL_TEXT>
+<TOKEN id="token-36-0" pos="unknown" morph="none" start_char="883" end_char="921">尼日利亚政府军曾抱怨，士兵缺乏武器，甚至是子弹，无法与博科圣地的武装人员对抗。</TOKEN>
+</SEG>
+<SEG id="segment-37" start_char="923" end_char="926">
+<ORIGINAL_TEXT>&lt;/P&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-37-0" pos="unknown" morph="none" start_char="923" end_char="926">&lt;/P&gt;</TOKEN>
+</SEG>
+<SEG id="segment-38" start_char="928" end_char="930">
+<ORIGINAL_TEXT>&lt;P&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-38-0" pos="unknown" morph="none" start_char="928" end_char="930">&lt;P&gt;</TOKEN>
+</SEG>
+<SEG id="segment-39" start_char="932" end_char="990">
+<ORIGINAL_TEXT>尼日利亚即将在下个月14日举行总统选举，预计东北部的战乱情况会影响当地的选举活动。不过选举机构宣称，不会延期举行投票。</ORIGINAL_TEXT>
+<TOKEN id="token-39-0" pos="unknown" morph="none" start_char="932" end_char="990">尼日利亚即将在下个月14日举行总统选举，预计东北部的战乱情况会影响当地的选举活动。不过选举机构宣称，不会延期举行投票。</TOKEN>
+</SEG>
+<SEG id="segment-40" start_char="992" end_char="995">
+<ORIGINAL_TEXT>&lt;/P&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-40-0" pos="unknown" morph="none" start_char="992" end_char="995">&lt;/P&gt;</TOKEN>
+</SEG>
+<SEG id="segment-41" start_char="997" end_char="999">
+<ORIGINAL_TEXT>&lt;P&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-41-0" pos="unknown" morph="none" start_char="997" end_char="999">&lt;P&gt;</TOKEN>
+</SEG>
+<SEG id="segment-42" start_char="1001" end_char="1011">
+<ORIGINAL_TEXT>乍得呼吁国际援助尼难民</ORIGINAL_TEXT>
+<TOKEN id="token-42-0" pos="word" morph="none" start_char="1001" end_char="1011">乍得呼吁国际援助尼难民</TOKEN>
+</SEG>
+<SEG id="segment-43" start_char="1013" end_char="1016">
+<ORIGINAL_TEXT>&lt;/P&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-43-0" pos="unknown" morph="none" start_char="1013" end_char="1016">&lt;/P&gt;</TOKEN>
+</SEG>
+<SEG id="segment-44" start_char="1018" end_char="1020">
+<ORIGINAL_TEXT>&lt;P&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-44-0" pos="unknown" morph="none" start_char="1018" end_char="1020">&lt;P&gt;</TOKEN>
+</SEG>
+<SEG id="segment-45" start_char="1022" end_char="1180">
+<ORIGINAL_TEXT>另据美国媒体报道，上周六，尼日利亚政府军士兵与“博科圣地”的激进分子进行激烈枪战后被赶出军事基地。有关官员说，枪战之后激进分子焚烧了巴加以及周围村庄的大部分房屋，导致数以千计的人逃离到乍得湖上的几个岛屿或者博尔诺州首府迈杜古里。博尔诺州被认为是尼日利亚极端组织博科圣地活跃地区，巴加镇也位于博尔诺州，该州也与乍得接壤。</ORIGINAL_TEXT>
+<TOKEN id="token-45-0" pos="unknown" morph="none" start_char="1022" end_char="1180">另据美国媒体报道，上周六，尼日利亚政府军士兵与“博科圣地”的激进分子进行激烈枪战后被赶出军事基地。有关官员说，枪战之后激进分子焚烧了巴加以及周围村庄的大部分房屋，导致数以千计的人逃离到乍得湖上的几个岛屿或者博尔诺州首府迈杜古里。博尔诺州被认为是尼日利亚极端组织博科圣地活跃地区，巴加镇也位于博尔诺州，该州也与乍得接壤。</TOKEN>
+</SEG>
+<SEG id="segment-46" start_char="1182" end_char="1185">
+<ORIGINAL_TEXT>&lt;/P&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-46-0" pos="unknown" morph="none" start_char="1182" end_char="1185">&lt;/P&gt;</TOKEN>
+</SEG>
+<SEG id="segment-47" start_char="1187" end_char="1189">
+<ORIGINAL_TEXT>&lt;P&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-47-0" pos="unknown" morph="none" start_char="1187" end_char="1189">&lt;P&gt;</TOKEN>
+</SEG>
+<SEG id="segment-48" start_char="1191" end_char="1283">
+<ORIGINAL_TEXT>面对大批来自尼日利亚的难民，乍得方面呼吁国际社会予以援助，联合国难民事务高级专员办事处近期也表示，自2014年底，博科圣地在尼日利亚和乍得边境地区发动袭击以来，当地人道主义状况不断恶化。</ORIGINAL_TEXT>
+<TOKEN id="token-48-0" pos="unknown" morph="none" start_char="1191" end_char="1283">面对大批来自尼日利亚的难民，乍得方面呼吁国际社会予以援助，联合国难民事务高级专员办事处近期也表示，自2014年底，博科圣地在尼日利亚和乍得边境地区发动袭击以来，当地人道主义状况不断恶化。</TOKEN>
+</SEG>
+<SEG id="segment-49" start_char="1285" end_char="1288">
+<ORIGINAL_TEXT>&lt;/P&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-49-0" pos="unknown" morph="none" start_char="1285" end_char="1288">&lt;/P&gt;</TOKEN>
+</SEG>
+<SEG id="segment-50" start_char="1290" end_char="1296">
+<ORIGINAL_TEXT>&lt;/TEXT&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-50-0" pos="unknown" morph="none" start_char="1290" end_char="1296">&lt;/TEXT&gt;</TOKEN>
+</SEG>
+<SEG id="segment-51" start_char="1298" end_char="1303">
+<ORIGINAL_TEXT>&lt;/DOC&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-51-0" pos="unknown" morph="none" start_char="1298" end_char="1303">&lt;/DOC&gt;</TOKEN>
+</SEG>
+</TEXT>
+</DOC>
+</LCTL_TEXT>

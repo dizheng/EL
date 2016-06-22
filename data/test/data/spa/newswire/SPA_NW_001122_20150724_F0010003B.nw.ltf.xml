@@ -1,0 +1,735 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE LCTL_TEXT SYSTEM "ltf.v1.5.dtd">
+<LCTL_TEXT>
+<DOC id="SPA_NW_001122_20150724_F0010003B.nw.xml" tokenization="tokenization_parameters" grammar="none" raw_text_char_length="3071" raw_text_md5="49ce5ee7ca78d3c3495ced668b204dd2">
+<TEXT>
+<SEG id="segment-0" start_char="0" end_char="37">
+<ORIGINAL_TEXT>&lt;?xml version="1.0" encoding="utf-8"?&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-0-0" pos="unknown" morph="none" start_char="0" end_char="4">&lt;?xml</TOKEN>
+<TOKEN id="token-0-1" pos="unknown" morph="none" start_char="6" end_char="18">version="1.0"</TOKEN>
+<TOKEN id="token-0-2" pos="unknown" morph="none" start_char="20" end_char="37">encoding="utf-8"?&gt;</TOKEN>
+</SEG>
+<SEG id="segment-1" start_char="39" end_char="81">
+<ORIGINAL_TEXT>&lt;DOC id="SPA_NW_001122_20150724_F0010003B"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-1-0" pos="unknown" morph="none" start_char="39" end_char="42">&lt;DOC</TOKEN>
+<TOKEN id="token-1-1" pos="unknown" morph="none" start_char="44" end_char="81">id="SPA_NW_001122_20150724_F0010003B"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-2" start_char="83" end_char="208">
+<ORIGINAL_TEXT>&lt;SOURCE&gt;http://www.taringa.net/posts/noticias/18810932/Denunciaron-a-los-Jinkis-y-a-Burzaco-por-fraude-al-Estado.html&lt;/SOURCE&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-2-0" pos="unknown" morph="none" start_char="83" end_char="208">&lt;SOURCE&gt;http://www.taringa.net/posts/noticias/18810932/Denunciaron-a-los-Jinkis-y-a-Burzaco-por-fraude-al-Estado.html&lt;/SOURCE&gt;</TOKEN>
+</SEG>
+<SEG id="segment-3" start_char="210" end_char="251">
+<ORIGINAL_TEXT>&lt;DATE_TIME&gt;2015-07-24T00:00:00&lt;/DATE_TIME&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-3-0" pos="unknown" morph="none" start_char="210" end_char="251">&lt;DATE_TIME&gt;2015-07-24T00:00:00&lt;/DATE_TIME&gt;</TOKEN>
+</SEG>
+<SEG id="segment-4" start_char="253" end_char="262">
+<ORIGINAL_TEXT>&lt;HEADLINE&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-4-0" pos="unknown" morph="none" start_char="253" end_char="262">&lt;HEADLINE&gt;</TOKEN>
+</SEG>
+<SEG id="segment-5" start_char="264" end_char="320">
+<ORIGINAL_TEXT>Denunciaron a los Jinkis y a Burzaco por fraude al Estado</ORIGINAL_TEXT>
+<TOKEN id="token-5-0" pos="word" morph="none" start_char="264" end_char="274">Denunciaron</TOKEN>
+<TOKEN id="token-5-1" pos="word" morph="none" start_char="276" end_char="276">a</TOKEN>
+<TOKEN id="token-5-2" pos="word" morph="none" start_char="278" end_char="280">los</TOKEN>
+<TOKEN id="token-5-3" pos="word" morph="none" start_char="282" end_char="287">Jinkis</TOKEN>
+<TOKEN id="token-5-4" pos="word" morph="none" start_char="289" end_char="289">y</TOKEN>
+<TOKEN id="token-5-5" pos="word" morph="none" start_char="291" end_char="291">a</TOKEN>
+<TOKEN id="token-5-6" pos="word" morph="none" start_char="293" end_char="299">Burzaco</TOKEN>
+<TOKEN id="token-5-7" pos="word" morph="none" start_char="301" end_char="303">por</TOKEN>
+<TOKEN id="token-5-8" pos="word" morph="none" start_char="305" end_char="310">fraude</TOKEN>
+<TOKEN id="token-5-9" pos="word" morph="none" start_char="312" end_char="313">al</TOKEN>
+<TOKEN id="token-5-10" pos="word" morph="none" start_char="315" end_char="320">Estado</TOKEN>
+</SEG>
+<SEG id="segment-6" start_char="322" end_char="332">
+<ORIGINAL_TEXT>&lt;/HEADLINE&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-6-0" pos="unknown" morph="none" start_char="322" end_char="332">&lt;/HEADLINE&gt;</TOKEN>
+</SEG>
+<SEG id="segment-7" start_char="334" end_char="339">
+<ORIGINAL_TEXT>&lt;TEXT&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-7-0" pos="unknown" morph="none" start_char="334" end_char="339">&lt;TEXT&gt;</TOKEN>
+</SEG>
+<SEG id="segment-8" start_char="341" end_char="343">
+<ORIGINAL_TEXT>&lt;P&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-8-0" pos="unknown" morph="none" start_char="341" end_char="343">&lt;P&gt;</TOKEN>
+</SEG>
+<SEG id="segment-9" start_char="345" end_char="401">
+<ORIGINAL_TEXT>Denunciaron a los Jinkis y a Burzaco por fraude al Estado</ORIGINAL_TEXT>
+<TOKEN id="token-9-0" pos="word" morph="none" start_char="345" end_char="355">Denunciaron</TOKEN>
+<TOKEN id="token-9-1" pos="word" morph="none" start_char="357" end_char="357">a</TOKEN>
+<TOKEN id="token-9-2" pos="word" morph="none" start_char="359" end_char="361">los</TOKEN>
+<TOKEN id="token-9-3" pos="word" morph="none" start_char="363" end_char="368">Jinkis</TOKEN>
+<TOKEN id="token-9-4" pos="word" morph="none" start_char="370" end_char="370">y</TOKEN>
+<TOKEN id="token-9-5" pos="word" morph="none" start_char="372" end_char="372">a</TOKEN>
+<TOKEN id="token-9-6" pos="word" morph="none" start_char="374" end_char="380">Burzaco</TOKEN>
+<TOKEN id="token-9-7" pos="word" morph="none" start_char="382" end_char="384">por</TOKEN>
+<TOKEN id="token-9-8" pos="word" morph="none" start_char="386" end_char="391">fraude</TOKEN>
+<TOKEN id="token-9-9" pos="word" morph="none" start_char="393" end_char="394">al</TOKEN>
+<TOKEN id="token-9-10" pos="word" morph="none" start_char="396" end_char="401">Estado</TOKEN>
+</SEG>
+<SEG id="segment-10" start_char="403" end_char="406">
+<ORIGINAL_TEXT>&lt;/P&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-10-0" pos="unknown" morph="none" start_char="403" end_char="406">&lt;/P&gt;</TOKEN>
+</SEG>
+<SEG id="segment-11" start_char="408" end_char="410">
+<ORIGINAL_TEXT>&lt;P&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-11-0" pos="unknown" morph="none" start_char="408" end_char="410">&lt;P&gt;</TOKEN>
+</SEG>
+<SEG id="segment-12" start_char="412" end_char="488">
+<ORIGINAL_TEXT>La Unidad de Información Financiera denunció a los empresarios Hugo y Mariano</ORIGINAL_TEXT>
+<TOKEN id="token-12-0" pos="word" morph="none" start_char="412" end_char="413">La</TOKEN>
+<TOKEN id="token-12-1" pos="word" morph="none" start_char="415" end_char="420">Unidad</TOKEN>
+<TOKEN id="token-12-2" pos="word" morph="none" start_char="422" end_char="423">de</TOKEN>
+<TOKEN id="token-12-3" pos="word" morph="none" start_char="425" end_char="435">Información</TOKEN>
+<TOKEN id="token-12-4" pos="word" morph="none" start_char="437" end_char="446">Financiera</TOKEN>
+<TOKEN id="token-12-5" pos="word" morph="none" start_char="448" end_char="455">denunció</TOKEN>
+<TOKEN id="token-12-6" pos="word" morph="none" start_char="457" end_char="457">a</TOKEN>
+<TOKEN id="token-12-7" pos="word" morph="none" start_char="459" end_char="461">los</TOKEN>
+<TOKEN id="token-12-8" pos="word" morph="none" start_char="463" end_char="473">empresarios</TOKEN>
+<TOKEN id="token-12-9" pos="word" morph="none" start_char="475" end_char="478">Hugo</TOKEN>
+<TOKEN id="token-12-10" pos="word" morph="none" start_char="480" end_char="480">y</TOKEN>
+<TOKEN id="token-12-11" pos="word" morph="none" start_char="482" end_char="488">Mariano</TOKEN>
+</SEG>
+<SEG id="segment-13" start_char="490" end_char="568">
+<ORIGINAL_TEXT>Jinkis, y al ex CEO de Torneos y Competencias, Alejandro Burzaco, detenidos por</ORIGINAL_TEXT>
+<TOKEN id="token-13-0" pos="word" morph="none" start_char="490" end_char="495">Jinkis</TOKEN>
+<TOKEN id="token-13-1" pos="punct" morph="none" start_char="496" end_char="496">,</TOKEN>
+<TOKEN id="token-13-2" pos="word" morph="none" start_char="498" end_char="498">y</TOKEN>
+<TOKEN id="token-13-3" pos="word" morph="none" start_char="500" end_char="501">al</TOKEN>
+<TOKEN id="token-13-4" pos="word" morph="none" start_char="503" end_char="504">ex</TOKEN>
+<TOKEN id="token-13-5" pos="word" morph="none" start_char="506" end_char="508">CEO</TOKEN>
+<TOKEN id="token-13-6" pos="word" morph="none" start_char="510" end_char="511">de</TOKEN>
+<TOKEN id="token-13-7" pos="word" morph="none" start_char="513" end_char="519">Torneos</TOKEN>
+<TOKEN id="token-13-8" pos="word" morph="none" start_char="521" end_char="521">y</TOKEN>
+<TOKEN id="token-13-9" pos="word" morph="none" start_char="523" end_char="534">Competencias</TOKEN>
+<TOKEN id="token-13-10" pos="punct" morph="none" start_char="535" end_char="535">,</TOKEN>
+<TOKEN id="token-13-11" pos="word" morph="none" start_char="537" end_char="545">Alejandro</TOKEN>
+<TOKEN id="token-13-12" pos="word" morph="none" start_char="547" end_char="553">Burzaco</TOKEN>
+<TOKEN id="token-13-13" pos="punct" morph="none" start_char="554" end_char="554">,</TOKEN>
+<TOKEN id="token-13-14" pos="word" morph="none" start_char="556" end_char="564">detenidos</TOKEN>
+<TOKEN id="token-13-15" pos="word" morph="none" start_char="566" end_char="568">por</TOKEN>
+</SEG>
+<SEG id="segment-14" start_char="570" end_char="646">
+<ORIGINAL_TEXT>la causa de corrupción en el seno de la FIFA a raíz del pago de sobornos para</ORIGINAL_TEXT>
+<TOKEN id="token-14-0" pos="word" morph="none" start_char="570" end_char="571">la</TOKEN>
+<TOKEN id="token-14-1" pos="word" morph="none" start_char="573" end_char="577">causa</TOKEN>
+<TOKEN id="token-14-2" pos="word" morph="none" start_char="579" end_char="580">de</TOKEN>
+<TOKEN id="token-14-3" pos="word" morph="none" start_char="582" end_char="591">corrupción</TOKEN>
+<TOKEN id="token-14-4" pos="word" morph="none" start_char="593" end_char="594">en</TOKEN>
+<TOKEN id="token-14-5" pos="word" morph="none" start_char="596" end_char="597">el</TOKEN>
+<TOKEN id="token-14-6" pos="word" morph="none" start_char="599" end_char="602">seno</TOKEN>
+<TOKEN id="token-14-7" pos="word" morph="none" start_char="604" end_char="605">de</TOKEN>
+<TOKEN id="token-14-8" pos="word" morph="none" start_char="607" end_char="608">la</TOKEN>
+<TOKEN id="token-14-9" pos="word" morph="none" start_char="610" end_char="613">FIFA</TOKEN>
+<TOKEN id="token-14-10" pos="word" morph="none" start_char="615" end_char="615">a</TOKEN>
+<TOKEN id="token-14-11" pos="word" morph="none" start_char="617" end_char="620">raíz</TOKEN>
+<TOKEN id="token-14-12" pos="word" morph="none" start_char="622" end_char="624">del</TOKEN>
+<TOKEN id="token-14-13" pos="word" morph="none" start_char="626" end_char="629">pago</TOKEN>
+<TOKEN id="token-14-14" pos="word" morph="none" start_char="631" end_char="632">de</TOKEN>
+<TOKEN id="token-14-15" pos="word" morph="none" start_char="634" end_char="641">sobornos</TOKEN>
+<TOKEN id="token-14-16" pos="word" morph="none" start_char="643" end_char="646">para</TOKEN>
+</SEG>
+<SEG id="segment-15" start_char="648" end_char="722">
+<ORIGINAL_TEXT>obtener contratos millonarios de marketing. Los acusó de fraude al Estado y</ORIGINAL_TEXT>
+<TOKEN id="token-15-0" pos="word" morph="none" start_char="648" end_char="654">obtener</TOKEN>
+<TOKEN id="token-15-1" pos="word" morph="none" start_char="656" end_char="664">contratos</TOKEN>
+<TOKEN id="token-15-2" pos="word" morph="none" start_char="666" end_char="676">millonarios</TOKEN>
+<TOKEN id="token-15-3" pos="word" morph="none" start_char="678" end_char="679">de</TOKEN>
+<TOKEN id="token-15-4" pos="word" morph="none" start_char="681" end_char="689">marketing</TOKEN>
+<TOKEN id="token-15-5" pos="punct" morph="none" start_char="690" end_char="690">.</TOKEN>
+<TOKEN id="token-15-6" pos="word" morph="none" start_char="692" end_char="694">Los</TOKEN>
+<TOKEN id="token-15-7" pos="word" morph="none" start_char="696" end_char="700">acusó</TOKEN>
+<TOKEN id="token-15-8" pos="word" morph="none" start_char="702" end_char="703">de</TOKEN>
+<TOKEN id="token-15-9" pos="word" morph="none" start_char="705" end_char="710">fraude</TOKEN>
+<TOKEN id="token-15-10" pos="word" morph="none" start_char="712" end_char="713">al</TOKEN>
+<TOKEN id="token-15-11" pos="word" morph="none" start_char="715" end_char="720">Estado</TOKEN>
+<TOKEN id="token-15-12" pos="word" morph="none" start_char="722" end_char="722">y</TOKEN>
+</SEG>
+<SEG id="segment-16" start_char="724" end_char="740">
+<ORIGINAL_TEXT>lavado de dinero.</ORIGINAL_TEXT>
+<TOKEN id="token-16-0" pos="word" morph="none" start_char="724" end_char="729">lavado</TOKEN>
+<TOKEN id="token-16-1" pos="word" morph="none" start_char="731" end_char="732">de</TOKEN>
+<TOKEN id="token-16-2" pos="word" morph="none" start_char="734" end_char="739">dinero</TOKEN>
+<TOKEN id="token-16-3" pos="punct" morph="none" start_char="740" end_char="740">.</TOKEN>
+</SEG>
+<SEG id="segment-17" start_char="742" end_char="745">
+<ORIGINAL_TEXT>&lt;/P&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-17-0" pos="unknown" morph="none" start_char="742" end_char="745">&lt;/P&gt;</TOKEN>
+</SEG>
+<SEG id="segment-18" start_char="747" end_char="749">
+<ORIGINAL_TEXT>&lt;P&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-18-0" pos="unknown" morph="none" start_char="747" end_char="749">&lt;P&gt;</TOKEN>
+</SEG>
+<SEG id="segment-19" start_char="751" end_char="819">
+<ORIGINAL_TEXT>La denuncia quedó en poder del juez Daniel Rafecas y fue hecha por la</ORIGINAL_TEXT>
+<TOKEN id="token-19-0" pos="word" morph="none" start_char="751" end_char="752">La</TOKEN>
+<TOKEN id="token-19-1" pos="word" morph="none" start_char="754" end_char="761">denuncia</TOKEN>
+<TOKEN id="token-19-2" pos="word" morph="none" start_char="763" end_char="767">quedó</TOKEN>
+<TOKEN id="token-19-3" pos="word" morph="none" start_char="769" end_char="770">en</TOKEN>
+<TOKEN id="token-19-4" pos="word" morph="none" start_char="772" end_char="776">poder</TOKEN>
+<TOKEN id="token-19-5" pos="word" morph="none" start_char="778" end_char="780">del</TOKEN>
+<TOKEN id="token-19-6" pos="word" morph="none" start_char="782" end_char="785">juez</TOKEN>
+<TOKEN id="token-19-7" pos="word" morph="none" start_char="787" end_char="792">Daniel</TOKEN>
+<TOKEN id="token-19-8" pos="word" morph="none" start_char="794" end_char="800">Rafecas</TOKEN>
+<TOKEN id="token-19-9" pos="word" morph="none" start_char="802" end_char="802">y</TOKEN>
+<TOKEN id="token-19-10" pos="word" morph="none" start_char="804" end_char="806">fue</TOKEN>
+<TOKEN id="token-19-11" pos="word" morph="none" start_char="808" end_char="812">hecha</TOKEN>
+<TOKEN id="token-19-12" pos="word" morph="none" start_char="814" end_char="816">por</TOKEN>
+<TOKEN id="token-19-13" pos="word" morph="none" start_char="818" end_char="819">la</TOKEN>
+</SEG>
+<SEG id="segment-20" start_char="821" end_char="899">
+<ORIGINAL_TEXT>Procuraduría de Criminalidad Económica y Lavado de Activos (PROCELAC), luego de</ORIGINAL_TEXT>
+<TOKEN id="token-20-0" pos="word" morph="none" start_char="821" end_char="832">Procuraduría</TOKEN>
+<TOKEN id="token-20-1" pos="word" morph="none" start_char="834" end_char="835">de</TOKEN>
+<TOKEN id="token-20-2" pos="word" morph="none" start_char="837" end_char="848">Criminalidad</TOKEN>
+<TOKEN id="token-20-3" pos="word" morph="none" start_char="850" end_char="858">Económica</TOKEN>
+<TOKEN id="token-20-4" pos="word" morph="none" start_char="860" end_char="860">y</TOKEN>
+<TOKEN id="token-20-5" pos="word" morph="none" start_char="862" end_char="867">Lavado</TOKEN>
+<TOKEN id="token-20-6" pos="word" morph="none" start_char="869" end_char="870">de</TOKEN>
+<TOKEN id="token-20-7" pos="word" morph="none" start_char="872" end_char="878">Activos</TOKEN>
+<TOKEN id="token-20-8" pos="punct" morph="none" start_char="880" end_char="880">(</TOKEN>
+<TOKEN id="token-20-9" pos="word" morph="none" start_char="881" end_char="888">PROCELAC</TOKEN>
+<TOKEN id="token-20-10" pos="punct" morph="none" start_char="889" end_char="890">),</TOKEN>
+<TOKEN id="token-20-11" pos="word" morph="none" start_char="892" end_char="896">luego</TOKEN>
+<TOKEN id="token-20-12" pos="word" morph="none" start_char="898" end_char="899">de</TOKEN>
+</SEG>
+<SEG id="segment-21" start_char="901" end_char="979">
+<ORIGINAL_TEXT>la investigación que se inició en los Estados Unidos y en la cual ya se reclamó</ORIGINAL_TEXT>
+<TOKEN id="token-21-0" pos="word" morph="none" start_char="901" end_char="902">la</TOKEN>
+<TOKEN id="token-21-1" pos="word" morph="none" start_char="904" end_char="916">investigación</TOKEN>
+<TOKEN id="token-21-2" pos="word" morph="none" start_char="918" end_char="920">que</TOKEN>
+<TOKEN id="token-21-3" pos="word" morph="none" start_char="922" end_char="923">se</TOKEN>
+<TOKEN id="token-21-4" pos="word" morph="none" start_char="925" end_char="930">inició</TOKEN>
+<TOKEN id="token-21-5" pos="word" morph="none" start_char="932" end_char="933">en</TOKEN>
+<TOKEN id="token-21-6" pos="word" morph="none" start_char="935" end_char="937">los</TOKEN>
+<TOKEN id="token-21-7" pos="word" morph="none" start_char="939" end_char="945">Estados</TOKEN>
+<TOKEN id="token-21-8" pos="word" morph="none" start_char="947" end_char="952">Unidos</TOKEN>
+<TOKEN id="token-21-9" pos="word" morph="none" start_char="954" end_char="954">y</TOKEN>
+<TOKEN id="token-21-10" pos="word" morph="none" start_char="956" end_char="957">en</TOKEN>
+<TOKEN id="token-21-11" pos="word" morph="none" start_char="959" end_char="960">la</TOKEN>
+<TOKEN id="token-21-12" pos="word" morph="none" start_char="962" end_char="965">cual</TOKEN>
+<TOKEN id="token-21-13" pos="word" morph="none" start_char="967" end_char="968">ya</TOKEN>
+<TOKEN id="token-21-14" pos="word" morph="none" start_char="970" end_char="971">se</TOKEN>
+<TOKEN id="token-21-15" pos="word" morph="none" start_char="973" end_char="979">reclamó</TOKEN>
+</SEG>
+<SEG id="segment-22" start_char="981" end_char="1030">
+<ORIGINAL_TEXT>la extradición de los tres empresarios argentinos.</ORIGINAL_TEXT>
+<TOKEN id="token-22-0" pos="word" morph="none" start_char="981" end_char="982">la</TOKEN>
+<TOKEN id="token-22-1" pos="word" morph="none" start_char="984" end_char="994">extradición</TOKEN>
+<TOKEN id="token-22-2" pos="word" morph="none" start_char="996" end_char="997">de</TOKEN>
+<TOKEN id="token-22-3" pos="word" morph="none" start_char="999" end_char="1001">los</TOKEN>
+<TOKEN id="token-22-4" pos="word" morph="none" start_char="1003" end_char="1006">tres</TOKEN>
+<TOKEN id="token-22-5" pos="word" morph="none" start_char="1008" end_char="1018">empresarios</TOKEN>
+<TOKEN id="token-22-6" pos="word" morph="none" start_char="1020" end_char="1029">argentinos</TOKEN>
+<TOKEN id="token-22-7" pos="punct" morph="none" start_char="1030" end_char="1030">.</TOKEN>
+</SEG>
+<SEG id="segment-23" start_char="1032" end_char="1035">
+<ORIGINAL_TEXT>&lt;/P&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-23-0" pos="unknown" morph="none" start_char="1032" end_char="1035">&lt;/P&gt;</TOKEN>
+</SEG>
+<SEG id="segment-24" start_char="1037" end_char="1039">
+<ORIGINAL_TEXT>&lt;P&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-24-0" pos="unknown" morph="none" start_char="1037" end_char="1039">&lt;P&gt;</TOKEN>
+</SEG>
+<SEG id="segment-25" start_char="1041" end_char="1113">
+<ORIGINAL_TEXT>Los Jinkis están detenidos actualmente con prisión domiciliaria en Buenos</ORIGINAL_TEXT>
+<TOKEN id="token-25-0" pos="word" morph="none" start_char="1041" end_char="1043">Los</TOKEN>
+<TOKEN id="token-25-1" pos="word" morph="none" start_char="1045" end_char="1050">Jinkis</TOKEN>
+<TOKEN id="token-25-2" pos="word" morph="none" start_char="1052" end_char="1056">están</TOKEN>
+<TOKEN id="token-25-3" pos="word" morph="none" start_char="1058" end_char="1066">detenidos</TOKEN>
+<TOKEN id="token-25-4" pos="word" morph="none" start_char="1068" end_char="1078">actualmente</TOKEN>
+<TOKEN id="token-25-5" pos="word" morph="none" start_char="1080" end_char="1082">con</TOKEN>
+<TOKEN id="token-25-6" pos="word" morph="none" start_char="1084" end_char="1090">prisión</TOKEN>
+<TOKEN id="token-25-7" pos="word" morph="none" start_char="1092" end_char="1103">domiciliaria</TOKEN>
+<TOKEN id="token-25-8" pos="word" morph="none" start_char="1105" end_char="1106">en</TOKEN>
+<TOKEN id="token-25-9" pos="word" morph="none" start_char="1108" end_char="1113">Buenos</TOKEN>
+</SEG>
+<SEG id="segment-26" start_char="1115" end_char="1193">
+<ORIGINAL_TEXT>Aires, dispuesta por el juez federal Claudio Bonadio, en tanto que Burzaco está</ORIGINAL_TEXT>
+<TOKEN id="token-26-0" pos="word" morph="none" start_char="1115" end_char="1119">Aires</TOKEN>
+<TOKEN id="token-26-1" pos="punct" morph="none" start_char="1120" end_char="1120">,</TOKEN>
+<TOKEN id="token-26-2" pos="word" morph="none" start_char="1122" end_char="1130">dispuesta</TOKEN>
+<TOKEN id="token-26-3" pos="word" morph="none" start_char="1132" end_char="1134">por</TOKEN>
+<TOKEN id="token-26-4" pos="word" morph="none" start_char="1136" end_char="1137">el</TOKEN>
+<TOKEN id="token-26-5" pos="word" morph="none" start_char="1139" end_char="1142">juez</TOKEN>
+<TOKEN id="token-26-6" pos="word" morph="none" start_char="1144" end_char="1150">federal</TOKEN>
+<TOKEN id="token-26-7" pos="word" morph="none" start_char="1152" end_char="1158">Claudio</TOKEN>
+<TOKEN id="token-26-8" pos="word" morph="none" start_char="1160" end_char="1166">Bonadio</TOKEN>
+<TOKEN id="token-26-9" pos="punct" morph="none" start_char="1167" end_char="1167">,</TOKEN>
+<TOKEN id="token-26-10" pos="word" morph="none" start_char="1169" end_char="1170">en</TOKEN>
+<TOKEN id="token-26-11" pos="word" morph="none" start_char="1172" end_char="1176">tanto</TOKEN>
+<TOKEN id="token-26-12" pos="word" morph="none" start_char="1178" end_char="1180">que</TOKEN>
+<TOKEN id="token-26-13" pos="word" morph="none" start_char="1182" end_char="1188">Burzaco</TOKEN>
+<TOKEN id="token-26-14" pos="word" morph="none" start_char="1190" end_char="1193">está</TOKEN>
+</SEG>
+<SEG id="segment-27" start_char="1195" end_char="1268">
+<ORIGINAL_TEXT>preso en Italia y ésta semana trascendió que accedería a ser llevado a los</ORIGINAL_TEXT>
+<TOKEN id="token-27-0" pos="word" morph="none" start_char="1195" end_char="1199">preso</TOKEN>
+<TOKEN id="token-27-1" pos="word" morph="none" start_char="1201" end_char="1202">en</TOKEN>
+<TOKEN id="token-27-2" pos="word" morph="none" start_char="1204" end_char="1209">Italia</TOKEN>
+<TOKEN id="token-27-3" pos="word" morph="none" start_char="1211" end_char="1211">y</TOKEN>
+<TOKEN id="token-27-4" pos="word" morph="none" start_char="1213" end_char="1216">ésta</TOKEN>
+<TOKEN id="token-27-5" pos="word" morph="none" start_char="1218" end_char="1223">semana</TOKEN>
+<TOKEN id="token-27-6" pos="word" morph="none" start_char="1225" end_char="1234">trascendió</TOKEN>
+<TOKEN id="token-27-7" pos="word" morph="none" start_char="1236" end_char="1238">que</TOKEN>
+<TOKEN id="token-27-8" pos="word" morph="none" start_char="1240" end_char="1248">accedería</TOKEN>
+<TOKEN id="token-27-9" pos="word" morph="none" start_char="1250" end_char="1250">a</TOKEN>
+<TOKEN id="token-27-10" pos="word" morph="none" start_char="1252" end_char="1254">ser</TOKEN>
+<TOKEN id="token-27-11" pos="word" morph="none" start_char="1256" end_char="1262">llevado</TOKEN>
+<TOKEN id="token-27-12" pos="word" morph="none" start_char="1264" end_char="1264">a</TOKEN>
+<TOKEN id="token-27-13" pos="word" morph="none" start_char="1266" end_char="1268">los</TOKEN>
+</SEG>
+<SEG id="segment-28" start_char="1270" end_char="1307">
+<ORIGINAL_TEXT>Estados Unidos para afrontar la causa.</ORIGINAL_TEXT>
+<TOKEN id="token-28-0" pos="word" morph="none" start_char="1270" end_char="1276">Estados</TOKEN>
+<TOKEN id="token-28-1" pos="word" morph="none" start_char="1278" end_char="1283">Unidos</TOKEN>
+<TOKEN id="token-28-2" pos="word" morph="none" start_char="1285" end_char="1288">para</TOKEN>
+<TOKEN id="token-28-3" pos="word" morph="none" start_char="1290" end_char="1297">afrontar</TOKEN>
+<TOKEN id="token-28-4" pos="word" morph="none" start_char="1299" end_char="1300">la</TOKEN>
+<TOKEN id="token-28-5" pos="word" morph="none" start_char="1302" end_char="1306">causa</TOKEN>
+<TOKEN id="token-28-6" pos="punct" morph="none" start_char="1307" end_char="1307">.</TOKEN>
+</SEG>
+<SEG id="segment-29" start_char="1309" end_char="1312">
+<ORIGINAL_TEXT>&lt;/P&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-29-0" pos="unknown" morph="none" start_char="1309" end_char="1312">&lt;/P&gt;</TOKEN>
+</SEG>
+<SEG id="segment-30" start_char="1314" end_char="1316">
+<ORIGINAL_TEXT>&lt;P&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-30-0" pos="unknown" morph="none" start_char="1314" end_char="1316">&lt;P&gt;</TOKEN>
+</SEG>
+<SEG id="segment-31" start_char="1318" end_char="1396">
+<ORIGINAL_TEXT>En su denuncia, la UIF aseguró que los tres habrían pagado millonarios sobornos</ORIGINAL_TEXT>
+<TOKEN id="token-31-0" pos="word" morph="none" start_char="1318" end_char="1319">En</TOKEN>
+<TOKEN id="token-31-1" pos="word" morph="none" start_char="1321" end_char="1322">su</TOKEN>
+<TOKEN id="token-31-2" pos="word" morph="none" start_char="1324" end_char="1331">denuncia</TOKEN>
+<TOKEN id="token-31-3" pos="punct" morph="none" start_char="1332" end_char="1332">,</TOKEN>
+<TOKEN id="token-31-4" pos="word" morph="none" start_char="1334" end_char="1335">la</TOKEN>
+<TOKEN id="token-31-5" pos="word" morph="none" start_char="1337" end_char="1339">UIF</TOKEN>
+<TOKEN id="token-31-6" pos="word" morph="none" start_char="1341" end_char="1347">aseguró</TOKEN>
+<TOKEN id="token-31-7" pos="word" morph="none" start_char="1349" end_char="1351">que</TOKEN>
+<TOKEN id="token-31-8" pos="word" morph="none" start_char="1353" end_char="1355">los</TOKEN>
+<TOKEN id="token-31-9" pos="word" morph="none" start_char="1357" end_char="1360">tres</TOKEN>
+<TOKEN id="token-31-10" pos="word" morph="none" start_char="1362" end_char="1368">habrían</TOKEN>
+<TOKEN id="token-31-11" pos="word" morph="none" start_char="1370" end_char="1375">pagado</TOKEN>
+<TOKEN id="token-31-12" pos="word" morph="none" start_char="1377" end_char="1387">millonarios</TOKEN>
+<TOKEN id="token-31-13" pos="word" morph="none" start_char="1389" end_char="1396">sobornos</TOKEN>
+</SEG>
+<SEG id="segment-32" start_char="1398" end_char="1474">
+<ORIGINAL_TEXT>a las autoridades de la Federación Internacional del Fútbol Asociado (FIFA) y</ORIGINAL_TEXT>
+<TOKEN id="token-32-0" pos="word" morph="none" start_char="1398" end_char="1398">a</TOKEN>
+<TOKEN id="token-32-1" pos="word" morph="none" start_char="1400" end_char="1402">las</TOKEN>
+<TOKEN id="token-32-2" pos="word" morph="none" start_char="1404" end_char="1414">autoridades</TOKEN>
+<TOKEN id="token-32-3" pos="word" morph="none" start_char="1416" end_char="1417">de</TOKEN>
+<TOKEN id="token-32-4" pos="word" morph="none" start_char="1419" end_char="1420">la</TOKEN>
+<TOKEN id="token-32-5" pos="word" morph="none" start_char="1422" end_char="1431">Federación</TOKEN>
+<TOKEN id="token-32-6" pos="word" morph="none" start_char="1433" end_char="1445">Internacional</TOKEN>
+<TOKEN id="token-32-7" pos="word" morph="none" start_char="1447" end_char="1449">del</TOKEN>
+<TOKEN id="token-32-8" pos="word" morph="none" start_char="1451" end_char="1456">Fútbol</TOKEN>
+<TOKEN id="token-32-9" pos="word" morph="none" start_char="1458" end_char="1465">Asociado</TOKEN>
+<TOKEN id="token-32-10" pos="punct" morph="none" start_char="1467" end_char="1467">(</TOKEN>
+<TOKEN id="token-32-11" pos="word" morph="none" start_char="1468" end_char="1471">FIFA</TOKEN>
+<TOKEN id="token-32-12" pos="punct" morph="none" start_char="1472" end_char="1472">)</TOKEN>
+<TOKEN id="token-32-13" pos="word" morph="none" start_char="1474" end_char="1474">y</TOKEN>
+</SEG>
+<SEG id="segment-33" start_char="1476" end_char="1553">
+<ORIGINAL_TEXT>la Confederación Sudamericana de Fútbol (CONMEBOL) para acceder a negociar con</ORIGINAL_TEXT>
+<TOKEN id="token-33-0" pos="word" morph="none" start_char="1476" end_char="1477">la</TOKEN>
+<TOKEN id="token-33-1" pos="word" morph="none" start_char="1479" end_char="1491">Confederación</TOKEN>
+<TOKEN id="token-33-2" pos="word" morph="none" start_char="1493" end_char="1504">Sudamericana</TOKEN>
+<TOKEN id="token-33-3" pos="word" morph="none" start_char="1506" end_char="1507">de</TOKEN>
+<TOKEN id="token-33-4" pos="word" morph="none" start_char="1509" end_char="1514">Fútbol</TOKEN>
+<TOKEN id="token-33-5" pos="punct" morph="none" start_char="1516" end_char="1516">(</TOKEN>
+<TOKEN id="token-33-6" pos="word" morph="none" start_char="1517" end_char="1524">CONMEBOL</TOKEN>
+<TOKEN id="token-33-7" pos="punct" morph="none" start_char="1525" end_char="1525">)</TOKEN>
+<TOKEN id="token-33-8" pos="word" morph="none" start_char="1527" end_char="1530">para</TOKEN>
+<TOKEN id="token-33-9" pos="word" morph="none" start_char="1532" end_char="1538">acceder</TOKEN>
+<TOKEN id="token-33-10" pos="word" morph="none" start_char="1540" end_char="1540">a</TOKEN>
+<TOKEN id="token-33-11" pos="word" morph="none" start_char="1542" end_char="1549">negociar</TOKEN>
+<TOKEN id="token-33-12" pos="word" morph="none" start_char="1551" end_char="1553">con</TOKEN>
+</SEG>
+<SEG id="segment-34" start_char="1555" end_char="1631">
+<ORIGINAL_TEXT>el Estado Nacional los derechos económicos de comercialización del marketing,</ORIGINAL_TEXT>
+<TOKEN id="token-34-0" pos="word" morph="none" start_char="1555" end_char="1556">el</TOKEN>
+<TOKEN id="token-34-1" pos="word" morph="none" start_char="1558" end_char="1563">Estado</TOKEN>
+<TOKEN id="token-34-2" pos="word" morph="none" start_char="1565" end_char="1572">Nacional</TOKEN>
+<TOKEN id="token-34-3" pos="word" morph="none" start_char="1574" end_char="1576">los</TOKEN>
+<TOKEN id="token-34-4" pos="word" morph="none" start_char="1578" end_char="1585">derechos</TOKEN>
+<TOKEN id="token-34-5" pos="word" morph="none" start_char="1587" end_char="1596">económicos</TOKEN>
+<TOKEN id="token-34-6" pos="word" morph="none" start_char="1598" end_char="1599">de</TOKEN>
+<TOKEN id="token-34-7" pos="word" morph="none" start_char="1601" end_char="1616">comercialización</TOKEN>
+<TOKEN id="token-34-8" pos="word" morph="none" start_char="1618" end_char="1620">del</TOKEN>
+<TOKEN id="token-34-9" pos="word" morph="none" start_char="1622" end_char="1630">marketing</TOKEN>
+<TOKEN id="token-34-10" pos="punct" morph="none" start_char="1631" end_char="1631">,</TOKEN>
+</SEG>
+<SEG id="segment-35" start_char="1633" end_char="1691">
+<ORIGINAL_TEXT>publicidad y transmisión de diversos campeonatos de fútbol.</ORIGINAL_TEXT>
+<TOKEN id="token-35-0" pos="word" morph="none" start_char="1633" end_char="1642">publicidad</TOKEN>
+<TOKEN id="token-35-1" pos="word" morph="none" start_char="1644" end_char="1644">y</TOKEN>
+<TOKEN id="token-35-2" pos="word" morph="none" start_char="1646" end_char="1656">transmisión</TOKEN>
+<TOKEN id="token-35-3" pos="word" morph="none" start_char="1658" end_char="1659">de</TOKEN>
+<TOKEN id="token-35-4" pos="word" morph="none" start_char="1661" end_char="1668">diversos</TOKEN>
+<TOKEN id="token-35-5" pos="word" morph="none" start_char="1670" end_char="1680">campeonatos</TOKEN>
+<TOKEN id="token-35-6" pos="word" morph="none" start_char="1682" end_char="1683">de</TOKEN>
+<TOKEN id="token-35-7" pos="word" morph="none" start_char="1685" end_char="1690">fútbol</TOKEN>
+<TOKEN id="token-35-8" pos="punct" morph="none" start_char="1691" end_char="1691">.</TOKEN>
+</SEG>
+<SEG id="segment-36" start_char="1693" end_char="1696">
+<ORIGINAL_TEXT>&lt;/P&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-36-0" pos="unknown" morph="none" start_char="1693" end_char="1696">&lt;/P&gt;</TOKEN>
+</SEG>
+<SEG id="segment-37" start_char="1698" end_char="1700">
+<ORIGINAL_TEXT>&lt;P&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-37-0" pos="unknown" morph="none" start_char="1698" end_char="1700">&lt;P&gt;</TOKEN>
+</SEG>
+<SEG id="segment-38" start_char="1702" end_char="1774">
+<ORIGINAL_TEXT>Los empresarios habrían obtenido unos 3,2 millones de dólares por la Copa</ORIGINAL_TEXT>
+<TOKEN id="token-38-0" pos="word" morph="none" start_char="1702" end_char="1704">Los</TOKEN>
+<TOKEN id="token-38-1" pos="word" morph="none" start_char="1706" end_char="1716">empresarios</TOKEN>
+<TOKEN id="token-38-2" pos="word" morph="none" start_char="1718" end_char="1724">habrían</TOKEN>
+<TOKEN id="token-38-3" pos="word" morph="none" start_char="1726" end_char="1733">obtenido</TOKEN>
+<TOKEN id="token-38-4" pos="word" morph="none" start_char="1735" end_char="1738">unos</TOKEN>
+<TOKEN id="token-38-5" pos="word" morph="none" start_char="1740" end_char="1740">3</TOKEN>
+<TOKEN id="token-38-6" pos="punct" morph="none" start_char="1741" end_char="1741">,</TOKEN>
+<TOKEN id="token-38-7" pos="word" morph="none" start_char="1742" end_char="1742">2</TOKEN>
+<TOKEN id="token-38-8" pos="word" morph="none" start_char="1744" end_char="1751">millones</TOKEN>
+<TOKEN id="token-38-9" pos="word" morph="none" start_char="1753" end_char="1754">de</TOKEN>
+<TOKEN id="token-38-10" pos="word" morph="none" start_char="1756" end_char="1762">dólares</TOKEN>
+<TOKEN id="token-38-11" pos="word" morph="none" start_char="1764" end_char="1766">por</TOKEN>
+<TOKEN id="token-38-12" pos="word" morph="none" start_char="1768" end_char="1769">la</TOKEN>
+<TOKEN id="token-38-13" pos="word" morph="none" start_char="1771" end_char="1774">Copa</TOKEN>
+</SEG>
+<SEG id="segment-39" start_char="1776" end_char="1845">
+<ORIGINAL_TEXT>América del año 2011, 8,6 millones de dólares por la del 2015 y por el</ORIGINAL_TEXT>
+<TOKEN id="token-39-0" pos="word" morph="none" start_char="1776" end_char="1782">América</TOKEN>
+<TOKEN id="token-39-1" pos="word" morph="none" start_char="1784" end_char="1786">del</TOKEN>
+<TOKEN id="token-39-2" pos="word" morph="none" start_char="1788" end_char="1790">año</TOKEN>
+<TOKEN id="token-39-3" pos="word" morph="none" start_char="1792" end_char="1795">2011</TOKEN>
+<TOKEN id="token-39-4" pos="punct" morph="none" start_char="1796" end_char="1796">,</TOKEN>
+<TOKEN id="token-39-5" pos="word" morph="none" start_char="1798" end_char="1798">8</TOKEN>
+<TOKEN id="token-39-6" pos="punct" morph="none" start_char="1799" end_char="1799">,</TOKEN>
+<TOKEN id="token-39-7" pos="word" morph="none" start_char="1800" end_char="1800">6</TOKEN>
+<TOKEN id="token-39-8" pos="word" morph="none" start_char="1802" end_char="1809">millones</TOKEN>
+<TOKEN id="token-39-9" pos="word" morph="none" start_char="1811" end_char="1812">de</TOKEN>
+<TOKEN id="token-39-10" pos="word" morph="none" start_char="1814" end_char="1820">dólares</TOKEN>
+<TOKEN id="token-39-11" pos="word" morph="none" start_char="1822" end_char="1824">por</TOKEN>
+<TOKEN id="token-39-12" pos="word" morph="none" start_char="1826" end_char="1827">la</TOKEN>
+<TOKEN id="token-39-13" pos="word" morph="none" start_char="1829" end_char="1831">del</TOKEN>
+<TOKEN id="token-39-14" pos="number" morph="none" start_char="1833" end_char="1836">2015</TOKEN>
+<TOKEN id="token-39-15" pos="word" morph="none" start_char="1838" end_char="1838">y</TOKEN>
+<TOKEN id="token-39-16" pos="word" morph="none" start_char="1840" end_char="1842">por</TOKEN>
+<TOKEN id="token-39-17" pos="word" morph="none" start_char="1844" end_char="1845">el</TOKEN>
+</SEG>
+<SEG id="segment-40" start_char="1847" end_char="1925">
+<ORIGINAL_TEXT>Campeonato Sudamericano Sub-20, 19 millones de dólares por el Mundial de Fútbol</ORIGINAL_TEXT>
+<TOKEN id="token-40-0" pos="word" morph="none" start_char="1847" end_char="1856">Campeonato</TOKEN>
+<TOKEN id="token-40-1" pos="word" morph="none" start_char="1858" end_char="1869">Sudamericano</TOKEN>
+<TOKEN id="token-40-2" pos="word" morph="none" start_char="1871" end_char="1873">Sub</TOKEN>
+<TOKEN id="token-40-3" pos="punct" morph="none" start_char="1874" end_char="1874">-</TOKEN>
+<TOKEN id="token-40-4" pos="word" morph="none" start_char="1875" end_char="1876">20</TOKEN>
+<TOKEN id="token-40-5" pos="punct" morph="none" start_char="1877" end_char="1877">,</TOKEN>
+<TOKEN id="token-40-6" pos="number" morph="none" start_char="1879" end_char="1880">19</TOKEN>
+<TOKEN id="token-40-7" pos="word" morph="none" start_char="1882" end_char="1889">millones</TOKEN>
+<TOKEN id="token-40-8" pos="word" morph="none" start_char="1891" end_char="1892">de</TOKEN>
+<TOKEN id="token-40-9" pos="word" morph="none" start_char="1894" end_char="1900">dólares</TOKEN>
+<TOKEN id="token-40-10" pos="word" morph="none" start_char="1902" end_char="1904">por</TOKEN>
+<TOKEN id="token-40-11" pos="word" morph="none" start_char="1906" end_char="1907">el</TOKEN>
+<TOKEN id="token-40-12" pos="word" morph="none" start_char="1909" end_char="1915">Mundial</TOKEN>
+<TOKEN id="token-40-13" pos="word" morph="none" start_char="1917" end_char="1918">de</TOKEN>
+<TOKEN id="token-40-14" pos="word" morph="none" start_char="1920" end_char="1925">Fútbol</TOKEN>
+</SEG>
+<SEG id="segment-41" start_char="1927" end_char="2001">
+<ORIGINAL_TEXT>en Brasil de 2014, 5,5 millones de dólares por la Supercopa de las Américas</ORIGINAL_TEXT>
+<TOKEN id="token-41-0" pos="word" morph="none" start_char="1927" end_char="1928">en</TOKEN>
+<TOKEN id="token-41-1" pos="word" morph="none" start_char="1930" end_char="1935">Brasil</TOKEN>
+<TOKEN id="token-41-2" pos="word" morph="none" start_char="1937" end_char="1938">de</TOKEN>
+<TOKEN id="token-41-3" pos="word" morph="none" start_char="1940" end_char="1943">2014</TOKEN>
+<TOKEN id="token-41-4" pos="punct" morph="none" start_char="1944" end_char="1944">,</TOKEN>
+<TOKEN id="token-41-5" pos="word" morph="none" start_char="1946" end_char="1946">5</TOKEN>
+<TOKEN id="token-41-6" pos="punct" morph="none" start_char="1947" end_char="1947">,</TOKEN>
+<TOKEN id="token-41-7" pos="word" morph="none" start_char="1948" end_char="1948">5</TOKEN>
+<TOKEN id="token-41-8" pos="word" morph="none" start_char="1950" end_char="1957">millones</TOKEN>
+<TOKEN id="token-41-9" pos="word" morph="none" start_char="1959" end_char="1960">de</TOKEN>
+<TOKEN id="token-41-10" pos="word" morph="none" start_char="1962" end_char="1968">dólares</TOKEN>
+<TOKEN id="token-41-11" pos="word" morph="none" start_char="1970" end_char="1972">por</TOKEN>
+<TOKEN id="token-41-12" pos="word" morph="none" start_char="1974" end_char="1975">la</TOKEN>
+<TOKEN id="token-41-13" pos="word" morph="none" start_char="1977" end_char="1985">Supercopa</TOKEN>
+<TOKEN id="token-41-14" pos="word" morph="none" start_char="1987" end_char="1988">de</TOKEN>
+<TOKEN id="token-41-15" pos="word" morph="none" start_char="1990" end_char="1992">las</TOKEN>
+<TOKEN id="token-41-16" pos="word" morph="none" start_char="1994" end_char="2001">Américas</TOKEN>
+</SEG>
+<SEG id="segment-42" start_char="2003" end_char="2079">
+<ORIGINAL_TEXT>Argentina - Brasil de 2010 y 2011, y 1,8 millones de dólares por otros cuatro</ORIGINAL_TEXT>
+<TOKEN id="token-42-0" pos="word" morph="none" start_char="2003" end_char="2011">Argentina</TOKEN>
+<TOKEN id="token-42-1" pos="unknown" morph="none" start_char="2013" end_char="2013">-</TOKEN>
+<TOKEN id="token-42-2" pos="word" morph="none" start_char="2015" end_char="2020">Brasil</TOKEN>
+<TOKEN id="token-42-3" pos="word" morph="none" start_char="2022" end_char="2023">de</TOKEN>
+<TOKEN id="token-42-4" pos="number" morph="none" start_char="2025" end_char="2028">2010</TOKEN>
+<TOKEN id="token-42-5" pos="word" morph="none" start_char="2030" end_char="2030">y</TOKEN>
+<TOKEN id="token-42-6" pos="word" morph="none" start_char="2032" end_char="2035">2011</TOKEN>
+<TOKEN id="token-42-7" pos="punct" morph="none" start_char="2036" end_char="2036">,</TOKEN>
+<TOKEN id="token-42-8" pos="word" morph="none" start_char="2038" end_char="2038">y</TOKEN>
+<TOKEN id="token-42-9" pos="word" morph="none" start_char="2040" end_char="2040">1</TOKEN>
+<TOKEN id="token-42-10" pos="punct" morph="none" start_char="2041" end_char="2041">,</TOKEN>
+<TOKEN id="token-42-11" pos="word" morph="none" start_char="2042" end_char="2042">8</TOKEN>
+<TOKEN id="token-42-12" pos="word" morph="none" start_char="2044" end_char="2051">millones</TOKEN>
+<TOKEN id="token-42-13" pos="word" morph="none" start_char="2053" end_char="2054">de</TOKEN>
+<TOKEN id="token-42-14" pos="word" morph="none" start_char="2056" end_char="2062">dólares</TOKEN>
+<TOKEN id="token-42-15" pos="word" morph="none" start_char="2064" end_char="2066">por</TOKEN>
+<TOKEN id="token-42-16" pos="word" morph="none" start_char="2068" end_char="2072">otros</TOKEN>
+<TOKEN id="token-42-17" pos="word" morph="none" start_char="2074" end_char="2079">cuatro</TOKEN>
+</SEG>
+<SEG id="segment-43" start_char="2081" end_char="2105">
+<ORIGINAL_TEXT>partidos de la Supercopa.</ORIGINAL_TEXT>
+<TOKEN id="token-43-0" pos="word" morph="none" start_char="2081" end_char="2088">partidos</TOKEN>
+<TOKEN id="token-43-1" pos="word" morph="none" start_char="2090" end_char="2091">de</TOKEN>
+<TOKEN id="token-43-2" pos="word" morph="none" start_char="2093" end_char="2094">la</TOKEN>
+<TOKEN id="token-43-3" pos="word" morph="none" start_char="2096" end_char="2104">Supercopa</TOKEN>
+<TOKEN id="token-43-4" pos="punct" morph="none" start_char="2105" end_char="2105">.</TOKEN>
+</SEG>
+<SEG id="segment-44" start_char="2107" end_char="2110">
+<ORIGINAL_TEXT>&lt;/P&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-44-0" pos="unknown" morph="none" start_char="2107" end_char="2110">&lt;/P&gt;</TOKEN>
+</SEG>
+<SEG id="segment-45" start_char="2112" end_char="2114">
+<ORIGINAL_TEXT>&lt;P&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-45-0" pos="unknown" morph="none" start_char="2112" end_char="2114">&lt;P&gt;</TOKEN>
+</SEG>
+<SEG id="segment-46" start_char="2116" end_char="2187">
+<ORIGINAL_TEXT>Según la UIF, "todo ello (se produjo) en claro detrimento del patrimonio</ORIGINAL_TEXT>
+<TOKEN id="token-46-0" pos="word" morph="none" start_char="2116" end_char="2120">Según</TOKEN>
+<TOKEN id="token-46-1" pos="word" morph="none" start_char="2122" end_char="2123">la</TOKEN>
+<TOKEN id="token-46-2" pos="word" morph="none" start_char="2125" end_char="2127">UIF</TOKEN>
+<TOKEN id="token-46-3" pos="punct" morph="none" start_char="2128" end_char="2128">,</TOKEN>
+<TOKEN id="token-46-4" pos="punct" morph="none" start_char="2130" end_char="2130">"</TOKEN>
+<TOKEN id="token-46-5" pos="word" morph="none" start_char="2131" end_char="2134">todo</TOKEN>
+<TOKEN id="token-46-6" pos="word" morph="none" start_char="2136" end_char="2139">ello</TOKEN>
+<TOKEN id="token-46-7" pos="punct" morph="none" start_char="2141" end_char="2141">(</TOKEN>
+<TOKEN id="token-46-8" pos="word" morph="none" start_char="2142" end_char="2143">se</TOKEN>
+<TOKEN id="token-46-9" pos="word" morph="none" start_char="2145" end_char="2151">produjo</TOKEN>
+<TOKEN id="token-46-10" pos="punct" morph="none" start_char="2152" end_char="2152">)</TOKEN>
+<TOKEN id="token-46-11" pos="word" morph="none" start_char="2154" end_char="2155">en</TOKEN>
+<TOKEN id="token-46-12" pos="word" morph="none" start_char="2157" end_char="2161">claro</TOKEN>
+<TOKEN id="token-46-13" pos="word" morph="none" start_char="2163" end_char="2172">detrimento</TOKEN>
+<TOKEN id="token-46-14" pos="word" morph="none" start_char="2174" end_char="2176">del</TOKEN>
+<TOKEN id="token-46-15" pos="word" morph="none" start_char="2178" end_char="2187">patrimonio</TOKEN>
+</SEG>
+<SEG id="segment-47" start_char="2189" end_char="2262">
+<ORIGINAL_TEXT>público", por lo que el organismo denunció a los empresarios por fraude en</ORIGINAL_TEXT>
+<TOKEN id="token-47-0" pos="word" morph="none" start_char="2189" end_char="2195">público</TOKEN>
+<TOKEN id="token-47-1" pos="punct" morph="none" start_char="2196" end_char="2197">",</TOKEN>
+<TOKEN id="token-47-2" pos="word" morph="none" start_char="2199" end_char="2201">por</TOKEN>
+<TOKEN id="token-47-3" pos="word" morph="none" start_char="2203" end_char="2204">lo</TOKEN>
+<TOKEN id="token-47-4" pos="word" morph="none" start_char="2206" end_char="2208">que</TOKEN>
+<TOKEN id="token-47-5" pos="word" morph="none" start_char="2210" end_char="2211">el</TOKEN>
+<TOKEN id="token-47-6" pos="word" morph="none" start_char="2213" end_char="2221">organismo</TOKEN>
+<TOKEN id="token-47-7" pos="word" morph="none" start_char="2223" end_char="2230">denunció</TOKEN>
+<TOKEN id="token-47-8" pos="word" morph="none" start_char="2232" end_char="2232">a</TOKEN>
+<TOKEN id="token-47-9" pos="word" morph="none" start_char="2234" end_char="2236">los</TOKEN>
+<TOKEN id="token-47-10" pos="word" morph="none" start_char="2238" end_char="2248">empresarios</TOKEN>
+<TOKEN id="token-47-11" pos="word" morph="none" start_char="2250" end_char="2252">por</TOKEN>
+<TOKEN id="token-47-12" pos="word" morph="none" start_char="2254" end_char="2259">fraude</TOKEN>
+<TOKEN id="token-47-13" pos="word" morph="none" start_char="2261" end_char="2262">en</TOKEN>
+</SEG>
+<SEG id="segment-48" start_char="2264" end_char="2324">
+<ORIGINAL_TEXT>perjuicio de la administración pública, más lavado de dinero.</ORIGINAL_TEXT>
+<TOKEN id="token-48-0" pos="word" morph="none" start_char="2264" end_char="2272">perjuicio</TOKEN>
+<TOKEN id="token-48-1" pos="word" morph="none" start_char="2274" end_char="2275">de</TOKEN>
+<TOKEN id="token-48-2" pos="word" morph="none" start_char="2277" end_char="2278">la</TOKEN>
+<TOKEN id="token-48-3" pos="word" morph="none" start_char="2280" end_char="2293">administración</TOKEN>
+<TOKEN id="token-48-4" pos="word" morph="none" start_char="2295" end_char="2301">pública</TOKEN>
+<TOKEN id="token-48-5" pos="punct" morph="none" start_char="2302" end_char="2302">,</TOKEN>
+<TOKEN id="token-48-6" pos="word" morph="none" start_char="2304" end_char="2306">más</TOKEN>
+<TOKEN id="token-48-7" pos="word" morph="none" start_char="2308" end_char="2313">lavado</TOKEN>
+<TOKEN id="token-48-8" pos="word" morph="none" start_char="2315" end_char="2316">de</TOKEN>
+<TOKEN id="token-48-9" pos="word" morph="none" start_char="2318" end_char="2323">dinero</TOKEN>
+<TOKEN id="token-48-10" pos="punct" morph="none" start_char="2324" end_char="2324">.</TOKEN>
+</SEG>
+<SEG id="segment-49" start_char="2326" end_char="2329">
+<ORIGINAL_TEXT>&lt;/P&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-49-0" pos="unknown" morph="none" start_char="2326" end_char="2329">&lt;/P&gt;</TOKEN>
+</SEG>
+<SEG id="segment-50" start_char="2331" end_char="2333">
+<ORIGINAL_TEXT>&lt;P&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-50-0" pos="unknown" morph="none" start_char="2331" end_char="2333">&lt;P&gt;</TOKEN>
+</SEG>
+<SEG id="segment-51" start_char="2335" end_char="2407">
+<ORIGINAL_TEXT>Previo a la presentación de la denuncia, la UIF realizó varias medidas de</ORIGINAL_TEXT>
+<TOKEN id="token-51-0" pos="word" morph="none" start_char="2335" end_char="2340">Previo</TOKEN>
+<TOKEN id="token-51-1" pos="word" morph="none" start_char="2342" end_char="2342">a</TOKEN>
+<TOKEN id="token-51-2" pos="word" morph="none" start_char="2344" end_char="2345">la</TOKEN>
+<TOKEN id="token-51-3" pos="word" morph="none" start_char="2347" end_char="2358">presentación</TOKEN>
+<TOKEN id="token-51-4" pos="word" morph="none" start_char="2360" end_char="2361">de</TOKEN>
+<TOKEN id="token-51-5" pos="word" morph="none" start_char="2363" end_char="2364">la</TOKEN>
+<TOKEN id="token-51-6" pos="word" morph="none" start_char="2366" end_char="2373">denuncia</TOKEN>
+<TOKEN id="token-51-7" pos="punct" morph="none" start_char="2374" end_char="2374">,</TOKEN>
+<TOKEN id="token-51-8" pos="word" morph="none" start_char="2376" end_char="2377">la</TOKEN>
+<TOKEN id="token-51-9" pos="word" morph="none" start_char="2379" end_char="2381">UIF</TOKEN>
+<TOKEN id="token-51-10" pos="word" morph="none" start_char="2383" end_char="2389">realizó</TOKEN>
+<TOKEN id="token-51-11" pos="word" morph="none" start_char="2391" end_char="2396">varias</TOKEN>
+<TOKEN id="token-51-12" pos="word" morph="none" start_char="2398" end_char="2404">medidas</TOKEN>
+<TOKEN id="token-51-13" pos="word" morph="none" start_char="2406" end_char="2407">de</TOKEN>
+</SEG>
+<SEG id="segment-52" start_char="2409" end_char="2484">
+<ORIGINAL_TEXT>prueba, como pedidos para acceder a los contratos en poder de la Jefatura de</ORIGINAL_TEXT>
+<TOKEN id="token-52-0" pos="word" morph="none" start_char="2409" end_char="2414">prueba</TOKEN>
+<TOKEN id="token-52-1" pos="punct" morph="none" start_char="2415" end_char="2415">,</TOKEN>
+<TOKEN id="token-52-2" pos="word" morph="none" start_char="2417" end_char="2420">como</TOKEN>
+<TOKEN id="token-52-3" pos="word" morph="none" start_char="2422" end_char="2428">pedidos</TOKEN>
+<TOKEN id="token-52-4" pos="word" morph="none" start_char="2430" end_char="2433">para</TOKEN>
+<TOKEN id="token-52-5" pos="word" morph="none" start_char="2435" end_char="2441">acceder</TOKEN>
+<TOKEN id="token-52-6" pos="word" morph="none" start_char="2443" end_char="2443">a</TOKEN>
+<TOKEN id="token-52-7" pos="word" morph="none" start_char="2445" end_char="2447">los</TOKEN>
+<TOKEN id="token-52-8" pos="word" morph="none" start_char="2449" end_char="2457">contratos</TOKEN>
+<TOKEN id="token-52-9" pos="word" morph="none" start_char="2459" end_char="2460">en</TOKEN>
+<TOKEN id="token-52-10" pos="word" morph="none" start_char="2462" end_char="2466">poder</TOKEN>
+<TOKEN id="token-52-11" pos="word" morph="none" start_char="2468" end_char="2469">de</TOKEN>
+<TOKEN id="token-52-12" pos="word" morph="none" start_char="2471" end_char="2472">la</TOKEN>
+<TOKEN id="token-52-13" pos="word" morph="none" start_char="2474" end_char="2481">Jefatura</TOKEN>
+<TOKEN id="token-52-14" pos="word" morph="none" start_char="2483" end_char="2484">de</TOKEN>
+</SEG>
+<SEG id="segment-53" start_char="2486" end_char="2555">
+<ORIGINAL_TEXT>Gabinete de la Nación y solicitudes de información a la AFIP sobre los</ORIGINAL_TEXT>
+<TOKEN id="token-53-0" pos="word" morph="none" start_char="2486" end_char="2493">Gabinete</TOKEN>
+<TOKEN id="token-53-1" pos="word" morph="none" start_char="2495" end_char="2496">de</TOKEN>
+<TOKEN id="token-53-2" pos="word" morph="none" start_char="2498" end_char="2499">la</TOKEN>
+<TOKEN id="token-53-3" pos="word" morph="none" start_char="2501" end_char="2506">Nación</TOKEN>
+<TOKEN id="token-53-4" pos="word" morph="none" start_char="2508" end_char="2508">y</TOKEN>
+<TOKEN id="token-53-5" pos="word" morph="none" start_char="2510" end_char="2520">solicitudes</TOKEN>
+<TOKEN id="token-53-6" pos="word" morph="none" start_char="2522" end_char="2523">de</TOKEN>
+<TOKEN id="token-53-7" pos="word" morph="none" start_char="2525" end_char="2535">información</TOKEN>
+<TOKEN id="token-53-8" pos="word" morph="none" start_char="2537" end_char="2537">a</TOKEN>
+<TOKEN id="token-53-9" pos="word" morph="none" start_char="2539" end_char="2540">la</TOKEN>
+<TOKEN id="token-53-10" pos="word" morph="none" start_char="2542" end_char="2545">AFIP</TOKEN>
+<TOKEN id="token-53-11" pos="word" morph="none" start_char="2547" end_char="2551">sobre</TOKEN>
+<TOKEN id="token-53-12" pos="word" morph="none" start_char="2553" end_char="2555">los</TOKEN>
+</SEG>
+<SEG id="segment-54" start_char="2557" end_char="2633">
+<ORIGINAL_TEXT>involucrados y las empresa Full Play (de los Jinkis) y Torneos y Competencias</ORIGINAL_TEXT>
+<TOKEN id="token-54-0" pos="word" morph="none" start_char="2557" end_char="2568">involucrados</TOKEN>
+<TOKEN id="token-54-1" pos="word" morph="none" start_char="2570" end_char="2570">y</TOKEN>
+<TOKEN id="token-54-2" pos="word" morph="none" start_char="2572" end_char="2574">las</TOKEN>
+<TOKEN id="token-54-3" pos="word" morph="none" start_char="2576" end_char="2582">empresa</TOKEN>
+<TOKEN id="token-54-4" pos="word" morph="none" start_char="2584" end_char="2587">Full</TOKEN>
+<TOKEN id="token-54-5" pos="word" morph="none" start_char="2589" end_char="2592">Play</TOKEN>
+<TOKEN id="token-54-6" pos="punct" morph="none" start_char="2594" end_char="2594">(</TOKEN>
+<TOKEN id="token-54-7" pos="word" morph="none" start_char="2595" end_char="2596">de</TOKEN>
+<TOKEN id="token-54-8" pos="word" morph="none" start_char="2598" end_char="2600">los</TOKEN>
+<TOKEN id="token-54-9" pos="word" morph="none" start_char="2602" end_char="2607">Jinkis</TOKEN>
+<TOKEN id="token-54-10" pos="punct" morph="none" start_char="2608" end_char="2608">)</TOKEN>
+<TOKEN id="token-54-11" pos="word" morph="none" start_char="2610" end_char="2610">y</TOKEN>
+<TOKEN id="token-54-12" pos="word" morph="none" start_char="2612" end_char="2618">Torneos</TOKEN>
+<TOKEN id="token-54-13" pos="word" morph="none" start_char="2620" end_char="2620">y</TOKEN>
+<TOKEN id="token-54-14" pos="word" morph="none" start_char="2622" end_char="2633">Competencias</TOKEN>
+</SEG>
+<SEG id="segment-55" start_char="2635" end_char="2658">
+<ORIGINAL_TEXT>(que integraba Burzaco).</ORIGINAL_TEXT>
+<TOKEN id="token-55-0" pos="punct" morph="none" start_char="2635" end_char="2635">(</TOKEN>
+<TOKEN id="token-55-1" pos="word" morph="none" start_char="2636" end_char="2638">que</TOKEN>
+<TOKEN id="token-55-2" pos="word" morph="none" start_char="2640" end_char="2648">integraba</TOKEN>
+<TOKEN id="token-55-3" pos="word" morph="none" start_char="2650" end_char="2656">Burzaco</TOKEN>
+<TOKEN id="token-55-4" pos="punct" morph="none" start_char="2657" end_char="2658">).</TOKEN>
+</SEG>
+<SEG id="segment-56" start_char="2660" end_char="2663">
+<ORIGINAL_TEXT>&lt;/P&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-56-0" pos="unknown" morph="none" start_char="2660" end_char="2663">&lt;/P&gt;</TOKEN>
+</SEG>
+<SEG id="segment-57" start_char="2665" end_char="2667">
+<ORIGINAL_TEXT>&lt;P&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-57-0" pos="unknown" morph="none" start_char="2665" end_char="2667">&lt;P&gt;</TOKEN>
+</SEG>
+<SEG id="segment-58" start_char="2669" end_char="2740">
+<ORIGINAL_TEXT>"Las empresas y personas reportadas incurrieron a lo largo del tiempo en</ORIGINAL_TEXT>
+<TOKEN id="token-58-0" pos="punct" morph="none" start_char="2669" end_char="2669">"</TOKEN>
+<TOKEN id="token-58-1" pos="word" morph="none" start_char="2670" end_char="2672">Las</TOKEN>
+<TOKEN id="token-58-2" pos="word" morph="none" start_char="2674" end_char="2681">empresas</TOKEN>
+<TOKEN id="token-58-3" pos="word" morph="none" start_char="2683" end_char="2683">y</TOKEN>
+<TOKEN id="token-58-4" pos="word" morph="none" start_char="2685" end_char="2692">personas</TOKEN>
+<TOKEN id="token-58-5" pos="word" morph="none" start_char="2694" end_char="2703">reportadas</TOKEN>
+<TOKEN id="token-58-6" pos="word" morph="none" start_char="2705" end_char="2715">incurrieron</TOKEN>
+<TOKEN id="token-58-7" pos="word" morph="none" start_char="2717" end_char="2717">a</TOKEN>
+<TOKEN id="token-58-8" pos="word" morph="none" start_char="2719" end_char="2720">lo</TOKEN>
+<TOKEN id="token-58-9" pos="word" morph="none" start_char="2722" end_char="2726">largo</TOKEN>
+<TOKEN id="token-58-10" pos="word" morph="none" start_char="2728" end_char="2730">del</TOKEN>
+<TOKEN id="token-58-11" pos="word" morph="none" start_char="2732" end_char="2737">tiempo</TOKEN>
+<TOKEN id="token-58-12" pos="word" morph="none" start_char="2739" end_char="2740">en</TOKEN>
+</SEG>
+<SEG id="segment-59" start_char="2742" end_char="2816">
+<ORIGINAL_TEXT>posible fraude al Estado Nacional, generaron nuevos fondos ilícitos que, en</ORIGINAL_TEXT>
+<TOKEN id="token-59-0" pos="word" morph="none" start_char="2742" end_char="2748">posible</TOKEN>
+<TOKEN id="token-59-1" pos="word" morph="none" start_char="2750" end_char="2755">fraude</TOKEN>
+<TOKEN id="token-59-2" pos="word" morph="none" start_char="2757" end_char="2758">al</TOKEN>
+<TOKEN id="token-59-3" pos="word" morph="none" start_char="2760" end_char="2765">Estado</TOKEN>
+<TOKEN id="token-59-4" pos="word" morph="none" start_char="2767" end_char="2774">Nacional</TOKEN>
+<TOKEN id="token-59-5" pos="punct" morph="none" start_char="2775" end_char="2775">,</TOKEN>
+<TOKEN id="token-59-6" pos="word" morph="none" start_char="2777" end_char="2785">generaron</TOKEN>
+<TOKEN id="token-59-7" pos="word" morph="none" start_char="2787" end_char="2792">nuevos</TOKEN>
+<TOKEN id="token-59-8" pos="word" morph="none" start_char="2794" end_char="2799">fondos</TOKEN>
+<TOKEN id="token-59-9" pos="word" morph="none" start_char="2801" end_char="2808">ilícitos</TOKEN>
+<TOKEN id="token-59-10" pos="word" morph="none" start_char="2810" end_char="2812">que</TOKEN>
+<TOKEN id="token-59-11" pos="punct" morph="none" start_char="2813" end_char="2813">,</TOKEN>
+<TOKEN id="token-59-12" pos="word" morph="none" start_char="2815" end_char="2816">en</TOKEN>
+</SEG>
+<SEG id="segment-60" start_char="2818" end_char="2894">
+<ORIGINAL_TEXT>definitiva y a la luz de las imputaciones dirigidas en su contra, les habrían</ORIGINAL_TEXT>
+<TOKEN id="token-60-0" pos="word" morph="none" start_char="2818" end_char="2827">definitiva</TOKEN>
+<TOKEN id="token-60-1" pos="word" morph="none" start_char="2829" end_char="2829">y</TOKEN>
+<TOKEN id="token-60-2" pos="word" morph="none" start_char="2831" end_char="2831">a</TOKEN>
+<TOKEN id="token-60-3" pos="word" morph="none" start_char="2833" end_char="2834">la</TOKEN>
+<TOKEN id="token-60-4" pos="word" morph="none" start_char="2836" end_char="2838">luz</TOKEN>
+<TOKEN id="token-60-5" pos="word" morph="none" start_char="2840" end_char="2841">de</TOKEN>
+<TOKEN id="token-60-6" pos="word" morph="none" start_char="2843" end_char="2845">las</TOKEN>
+<TOKEN id="token-60-7" pos="word" morph="none" start_char="2847" end_char="2858">imputaciones</TOKEN>
+<TOKEN id="token-60-8" pos="word" morph="none" start_char="2860" end_char="2868">dirigidas</TOKEN>
+<TOKEN id="token-60-9" pos="word" morph="none" start_char="2870" end_char="2871">en</TOKEN>
+<TOKEN id="token-60-10" pos="word" morph="none" start_char="2873" end_char="2874">su</TOKEN>
+<TOKEN id="token-60-11" pos="word" morph="none" start_char="2876" end_char="2881">contra</TOKEN>
+<TOKEN id="token-60-12" pos="punct" morph="none" start_char="2882" end_char="2882">,</TOKEN>
+<TOKEN id="token-60-13" pos="word" morph="none" start_char="2884" end_char="2886">les</TOKEN>
+<TOKEN id="token-60-14" pos="word" morph="none" start_char="2888" end_char="2894">habrían</TOKEN>
+</SEG>
+<SEG id="segment-61" start_char="2896" end_char="2974">
+<ORIGINAL_TEXT>servido de base para solventar el pago de nuevos sobornos e ir asegurándose así</ORIGINAL_TEXT>
+<TOKEN id="token-61-0" pos="word" morph="none" start_char="2896" end_char="2902">servido</TOKEN>
+<TOKEN id="token-61-1" pos="word" morph="none" start_char="2904" end_char="2905">de</TOKEN>
+<TOKEN id="token-61-2" pos="word" morph="none" start_char="2907" end_char="2910">base</TOKEN>
+<TOKEN id="token-61-3" pos="word" morph="none" start_char="2912" end_char="2915">para</TOKEN>
+<TOKEN id="token-61-4" pos="word" morph="none" start_char="2917" end_char="2925">solventar</TOKEN>
+<TOKEN id="token-61-5" pos="word" morph="none" start_char="2927" end_char="2928">el</TOKEN>
+<TOKEN id="token-61-6" pos="word" morph="none" start_char="2930" end_char="2933">pago</TOKEN>
+<TOKEN id="token-61-7" pos="word" morph="none" start_char="2935" end_char="2936">de</TOKEN>
+<TOKEN id="token-61-8" pos="word" morph="none" start_char="2938" end_char="2943">nuevos</TOKEN>
+<TOKEN id="token-61-9" pos="word" morph="none" start_char="2945" end_char="2952">sobornos</TOKEN>
+<TOKEN id="token-61-10" pos="word" morph="none" start_char="2954" end_char="2954">e</TOKEN>
+<TOKEN id="token-61-11" pos="word" morph="none" start_char="2956" end_char="2957">ir</TOKEN>
+<TOKEN id="token-61-12" pos="word" morph="none" start_char="2959" end_char="2970">asegurándose</TOKEN>
+<TOKEN id="token-61-13" pos="word" morph="none" start_char="2972" end_char="2974">así</TOKEN>
+</SEG>
+<SEG id="segment-62" start_char="2976" end_char="3049">
+<ORIGINAL_TEXT>indefinidamente su posición preponderante en el mercado", concluyó la UIF.</ORIGINAL_TEXT>
+<TOKEN id="token-62-0" pos="word" morph="none" start_char="2976" end_char="2990">indefinidamente</TOKEN>
+<TOKEN id="token-62-1" pos="word" morph="none" start_char="2992" end_char="2993">su</TOKEN>
+<TOKEN id="token-62-2" pos="word" morph="none" start_char="2995" end_char="3002">posición</TOKEN>
+<TOKEN id="token-62-3" pos="word" morph="none" start_char="3004" end_char="3016">preponderante</TOKEN>
+<TOKEN id="token-62-4" pos="word" morph="none" start_char="3018" end_char="3019">en</TOKEN>
+<TOKEN id="token-62-5" pos="word" morph="none" start_char="3021" end_char="3022">el</TOKEN>
+<TOKEN id="token-62-6" pos="word" morph="none" start_char="3024" end_char="3030">mercado</TOKEN>
+<TOKEN id="token-62-7" pos="punct" morph="none" start_char="3031" end_char="3032">",</TOKEN>
+<TOKEN id="token-62-8" pos="word" morph="none" start_char="3034" end_char="3041">concluyó</TOKEN>
+<TOKEN id="token-62-9" pos="word" morph="none" start_char="3043" end_char="3044">la</TOKEN>
+<TOKEN id="token-62-10" pos="word" morph="none" start_char="3046" end_char="3048">UIF</TOKEN>
+<TOKEN id="token-62-11" pos="punct" morph="none" start_char="3049" end_char="3049">.</TOKEN>
+</SEG>
+<SEG id="segment-63" start_char="3051" end_char="3054">
+<ORIGINAL_TEXT>&lt;/P&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-63-0" pos="unknown" morph="none" start_char="3051" end_char="3054">&lt;/P&gt;</TOKEN>
+</SEG>
+<SEG id="segment-64" start_char="3056" end_char="3062">
+<ORIGINAL_TEXT>&lt;/TEXT&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-64-0" pos="unknown" morph="none" start_char="3056" end_char="3062">&lt;/TEXT&gt;</TOKEN>
+</SEG>
+<SEG id="segment-65" start_char="3064" end_char="3069">
+<ORIGINAL_TEXT>&lt;/DOC&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-65-0" pos="unknown" morph="none" start_char="3064" end_char="3069">&lt;/DOC&gt;</TOKEN>
+</SEG>
+</TEXT>
+</DOC>
+</LCTL_TEXT>

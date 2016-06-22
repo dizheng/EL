@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE LCTL_TEXT SYSTEM "ltf.v1.5.dtd">
+<LCTL_TEXT>
+<DOC id="CMN_DF_000311_20150707_F0010009S.df.xml" tokenization="tokenization_parameters" grammar="none" raw_text_char_length="458" raw_text_md5="b7e984b1228c604ee036dcbc0be0578d">
+<TEXT>
+<SEG id="segment-0" start_char="0" end_char="37">
+<ORIGINAL_TEXT>&lt;?xml version="1.0" encoding="utf-8"?&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-0-0" pos="unknown" morph="none" start_char="0" end_char="4">&lt;?xml</TOKEN>
+<TOKEN id="token-0-1" pos="unknown" morph="none" start_char="6" end_char="18">version="1.0"</TOKEN>
+<TOKEN id="token-0-2" pos="unknown" morph="none" start_char="20" end_char="37">encoding="utf-8"?&gt;</TOKEN>
+</SEG>
+<SEG id="segment-1" start_char="39" end_char="81">
+<ORIGINAL_TEXT>&lt;doc id="CMN_DF_000311_20150707_F0010009S"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-1-0" pos="unknown" morph="none" start_char="39" end_char="42">&lt;doc</TOKEN>
+<TOKEN id="token-1-1" pos="unknown" morph="none" start_char="44" end_char="81">id="CMN_DF_000311_20150707_F0010009S"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-2" start_char="83" end_char="92">
+<ORIGINAL_TEXT>&lt;headline&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-2-0" pos="unknown" morph="none" start_char="83" end_char="92">&lt;headline&gt;</TOKEN>
+</SEG>
+<SEG id="segment-3" start_char="94" end_char="121">
+<ORIGINAL_TEXT>黑客公司被黑，泄露文件显示可为NSA监控越狱iPhone</ORIGINAL_TEXT>
+<TOKEN id="token-3-0" pos="word" morph="none" start_char="94" end_char="99">黑客公司被黑</TOKEN>
+<TOKEN id="token-3-1" pos="punct" morph="none" start_char="100" end_char="100">，</TOKEN>
+<TOKEN id="token-3-2" pos="word" morph="none" start_char="101" end_char="121">泄露文件显示可为NSA监控越狱iPhone</TOKEN>
+</SEG>
+<SEG id="segment-4" start_char="123" end_char="133">
+<ORIGINAL_TEXT>&lt;/headline&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-4-0" pos="unknown" morph="none" start_char="123" end_char="133">&lt;/headline&gt;</TOKEN>
+</SEG>
+<SEG id="segment-5" start_char="135" end_char="192">
+<ORIGINAL_TEXT>&lt;post id="p1" author="娄山关" datetime="2015-07-07T14:52:00"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-5-0" pos="unknown" morph="none" start_char="135" end_char="139">&lt;post</TOKEN>
+<TOKEN id="token-5-1" pos="unknown" morph="none" start_char="141" end_char="147">id="p1"</TOKEN>
+<TOKEN id="token-5-2" pos="unknown" morph="none" start_char="149" end_char="160">author="娄山关"</TOKEN>
+<TOKEN id="token-5-3" pos="unknown" morph="none" start_char="162" end_char="192">datetime="2015-07-07T14:52:00"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-6" start_char="194" end_char="237">
+<ORIGINAL_TEXT>http://www.ithome.com/html/iphone/161082.htm</ORIGINAL_TEXT>
+<TOKEN id="token-6-0" pos="url" morph="none" start_char="194" end_char="237">http://www.ithome.com/html/iphone/161082.htm</TOKEN>
+</SEG>
+<SEG id="segment-7" start_char="239" end_char="245">
+<ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-7-0" pos="unknown" morph="none" start_char="239" end_char="245">&lt;/post&gt;</TOKEN>
+</SEG>
+<SEG id="segment-8" start_char="247" end_char="308">
+<ORIGINAL_TEXT>&lt;post id="p2" author="keeperX" datetime="2015-07-07T04:15:00"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-8-0" pos="unknown" morph="none" start_char="247" end_char="251">&lt;post</TOKEN>
+<TOKEN id="token-8-1" pos="unknown" morph="none" start_char="253" end_char="259">id="p2"</TOKEN>
+<TOKEN id="token-8-2" pos="unknown" morph="none" start_char="261" end_char="276">author="keeperX"</TOKEN>
+<TOKEN id="token-8-3" pos="unknown" morph="none" start_char="278" end_char="308">datetime="2015-07-07T04:15:00"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-9" start_char="310" end_char="323">
+<ORIGINAL_TEXT>不进dfu模式根本无法越狱。</ORIGINAL_TEXT>
+<TOKEN id="token-9-0" pos="word" morph="none" start_char="310" end_char="322">不进dfu模式根本无法越狱</TOKEN>
+<TOKEN id="token-9-1" pos="punct" morph="none" start_char="323" end_char="323">。</TOKEN>
+</SEG>
+<SEG id="segment-10" start_char="325" end_char="335">
+<ORIGINAL_TEXT>控制权始终在用户手上。</ORIGINAL_TEXT>
+<TOKEN id="token-10-0" pos="word" morph="none" start_char="325" end_char="334">控制权始终在用户手上</TOKEN>
+<TOKEN id="token-10-1" pos="punct" morph="none" start_char="335" end_char="335">。</TOKEN>
+</SEG>
+<SEG id="segment-11" start_char="337" end_char="343">
+<ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-11-0" pos="unknown" morph="none" start_char="337" end_char="343">&lt;/post&gt;</TOKEN>
+</SEG>
+<SEG id="segment-12" start_char="345" end_char="410">
+<ORIGINAL_TEXT>&lt;post id="p3" author="xnihxa520sb" datetime="2015-07-09T14:02:00"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-12-0" pos="unknown" morph="none" start_char="345" end_char="349">&lt;post</TOKEN>
+<TOKEN id="token-12-1" pos="unknown" morph="none" start_char="351" end_char="357">id="p3"</TOKEN>
+<TOKEN id="token-12-2" pos="unknown" morph="none" start_char="359" end_char="378">author="xnihxa520sb"</TOKEN>
+<TOKEN id="token-12-3" pos="unknown" morph="none" start_char="380" end_char="410">datetime="2015-07-09T14:02:00"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-13" start_char="412" end_char="441">
+<ORIGINAL_TEXT>果粉会说你们这些用不起苹果的是在黑！！苹果手机是最安全的！！</ORIGINAL_TEXT>
+<TOKEN id="token-13-0" pos="word" morph="none" start_char="412" end_char="428">果粉会说你们这些用不起苹果的是在黑</TOKEN>
+<TOKEN id="token-13-1" pos="punct" morph="none" start_char="429" end_char="430">！！</TOKEN>
+<TOKEN id="token-13-2" pos="word" morph="none" start_char="431" end_char="439">苹果手机是最安全的</TOKEN>
+<TOKEN id="token-13-3" pos="punct" morph="none" start_char="440" end_char="441">！！</TOKEN>
+</SEG>
+<SEG id="segment-14" start_char="443" end_char="449">
+<ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-14-0" pos="unknown" morph="none" start_char="443" end_char="449">&lt;/post&gt;</TOKEN>
+</SEG>
+<SEG id="segment-15" start_char="451" end_char="456">
+<ORIGINAL_TEXT>&lt;/doc&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-15-0" pos="unknown" morph="none" start_char="451" end_char="456">&lt;/doc&gt;</TOKEN>
+</SEG>
+</TEXT>
+</DOC>
+</LCTL_TEXT>

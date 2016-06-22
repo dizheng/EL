@@ -1,0 +1,2096 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE LCTL_TEXT SYSTEM "ltf.v1.5.dtd">
+<LCTL_TEXT>
+<DOC id="CMN_DF_000191_20150508_F00100098.df.xml" tokenization="tokenization_parameters" grammar="none" raw_text_char_length="19137" raw_text_md5="7b67f670bd7063c21f2c7fa3786738bf">
+<TEXT>
+<SEG id="segment-0" start_char="0" end_char="37">
+<ORIGINAL_TEXT>&lt;?xml version="1.0" encoding="utf-8"?&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-0-0" pos="unknown" morph="none" start_char="0" end_char="4">&lt;?xml</TOKEN>
+<TOKEN id="token-0-1" pos="unknown" morph="none" start_char="6" end_char="18">version="1.0"</TOKEN>
+<TOKEN id="token-0-2" pos="unknown" morph="none" start_char="20" end_char="37">encoding="utf-8"?&gt;</TOKEN>
+</SEG>
+<SEG id="segment-1" start_char="39" end_char="81">
+<ORIGINAL_TEXT>&lt;doc id="CMN_DF_000191_20150508_F00100098"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-1-0" pos="unknown" morph="none" start_char="39" end_char="42">&lt;doc</TOKEN>
+<TOKEN id="token-1-1" pos="unknown" morph="none" start_char="44" end_char="81">id="CMN_DF_000191_20150508_F00100098"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-2" start_char="83" end_char="92">
+<ORIGINAL_TEXT>&lt;headline&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-2-0" pos="unknown" morph="none" start_char="83" end_char="92">&lt;headline&gt;</TOKEN>
+</SEG>
+<SEG id="segment-3" start_char="94" end_char="114">
+<ORIGINAL_TEXT>斯诺登赢了！美国法庭首次判NSA监听属非法</ORIGINAL_TEXT>
+<TOKEN id="token-3-0" pos="word" morph="none" start_char="94" end_char="98">斯诺登赢了</TOKEN>
+<TOKEN id="token-3-1" pos="punct" morph="none" start_char="99" end_char="99">！</TOKEN>
+<TOKEN id="token-3-2" pos="word" morph="none" start_char="100" end_char="114">美国法庭首次判NSA监听属非法</TOKEN>
+</SEG>
+<SEG id="segment-4" start_char="116" end_char="126">
+<ORIGINAL_TEXT>&lt;/headline&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-4-0" pos="unknown" morph="none" start_char="116" end_char="126">&lt;/headline&gt;</TOKEN>
+</SEG>
+<SEG id="segment-5" start_char="128" end_char="184">
+<ORIGINAL_TEXT>&lt;post id="p1" author="谷岳" datetime="2015-05-08T17:27:51"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-5-0" pos="unknown" morph="none" start_char="128" end_char="132">&lt;post</TOKEN>
+<TOKEN id="token-5-1" pos="unknown" morph="none" start_char="134" end_char="140">id="p1"</TOKEN>
+<TOKEN id="token-5-2" pos="unknown" morph="none" start_char="142" end_char="152">author="谷岳"</TOKEN>
+<TOKEN id="token-5-3" pos="unknown" morph="none" start_char="154" end_char="184">datetime="2015-05-08T17:27:51"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-6" start_char="186" end_char="245">
+<ORIGINAL_TEXT>http://www.ibtimes.com.cn/articles/44392/20150508/333472.htm</ORIGINAL_TEXT>
+<TOKEN id="token-6-0" pos="url" morph="none" start_char="186" end_char="245">http://www.ibtimes.com.cn/articles/44392/20150508/333472.htm</TOKEN>
+</SEG>
+<SEG id="segment-7" start_char="247" end_char="253">
+<ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-7-0" pos="unknown" morph="none" start_char="247" end_char="253">&lt;/post&gt;</TOKEN>
+</SEG>
+<SEG id="segment-8" start_char="255" end_char="318">
+<ORIGINAL_TEXT>&lt;post id="p2" author="giga_fans" datetime="2015-05-08T21:10:02"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-8-0" pos="unknown" morph="none" start_char="255" end_char="259">&lt;post</TOKEN>
+<TOKEN id="token-8-1" pos="unknown" morph="none" start_char="261" end_char="267">id="p2"</TOKEN>
+<TOKEN id="token-8-2" pos="unknown" morph="none" start_char="269" end_char="286">author="giga_fans"</TOKEN>
+<TOKEN id="token-8-3" pos="unknown" morph="none" start_char="288" end_char="318">datetime="2015-05-08T21:10:02"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-9" start_char="320" end_char="334">
+<ORIGINAL_TEXT>监听行为获得法院批准是合法的。</ORIGINAL_TEXT>
+<TOKEN id="token-9-0" pos="word" morph="none" start_char="320" end_char="333">监听行为获得法院批准是合法的</TOKEN>
+<TOKEN id="token-9-1" pos="punct" morph="none" start_char="334" end_char="334">。</TOKEN>
+</SEG>
+<SEG id="segment-10" start_char="336" end_char="358">
+<ORIGINAL_TEXT>但是未得到法院批准前就监听，在美国是违法行为。</ORIGINAL_TEXT>
+<TOKEN id="token-10-0" pos="word" morph="none" start_char="336" end_char="348">但是未得到法院批准前就监听</TOKEN>
+<TOKEN id="token-10-1" pos="punct" morph="none" start_char="349" end_char="349">，</TOKEN>
+<TOKEN id="token-10-2" pos="word" morph="none" start_char="350" end_char="357">在美国是违法行为</TOKEN>
+<TOKEN id="token-10-3" pos="punct" morph="none" start_char="358" end_char="358">。</TOKEN>
+</SEG>
+<SEG id="segment-11" start_char="360" end_char="421">
+<ORIGINAL_TEXT>斯诺登爆料说，NSA打擦边球，一边申请法院令的同时一边就在监听了，这样行为有“数千起”。按照美国法律，这样的窃听也是违法的。</ORIGINAL_TEXT>
+<TOKEN id="token-11-0" pos="unknown" morph="none" start_char="360" end_char="421">斯诺登爆料说，NSA打擦边球，一边申请法院令的同时一边就在监听了，这样行为有“数千起”。按照美国法律，这样的窃听也是违法的。</TOKEN>
+</SEG>
+<SEG id="segment-12" start_char="423" end_char="427">
+<ORIGINAL_TEXT>加强学习。</ORIGINAL_TEXT>
+<TOKEN id="token-12-0" pos="word" morph="none" start_char="423" end_char="426">加强学习</TOKEN>
+<TOKEN id="token-12-1" pos="punct" morph="none" start_char="427" end_char="427">。</TOKEN>
+</SEG>
+<SEG id="segment-13" start_char="429" end_char="474">
+<ORIGINAL_TEXT>至于“大规模监听”（即从往来电讯中随机拦截敏感词信息），大概只有在美国，才会被视为违法行为。</ORIGINAL_TEXT>
+<TOKEN id="token-13-0" pos="unknown" morph="none" start_char="429" end_char="474">至于“大规模监听”（即从往来电讯中随机拦截敏感词信息），大概只有在美国，才会被视为违法行为。</TOKEN>
+</SEG>
+<SEG id="segment-14" start_char="476" end_char="482">
+<ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-14-0" pos="unknown" morph="none" start_char="476" end_char="482">&lt;/post&gt;</TOKEN>
+</SEG>
+<SEG id="segment-15" start_char="484" end_char="542">
+<ORIGINAL_TEXT>&lt;post id="p3" author="百年妖怪" datetime="2015-05-09T00:20:43"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-15-0" pos="unknown" morph="none" start_char="484" end_char="488">&lt;post</TOKEN>
+<TOKEN id="token-15-1" pos="unknown" morph="none" start_char="490" end_char="496">id="p3"</TOKEN>
+<TOKEN id="token-15-2" pos="unknown" morph="none" start_char="498" end_char="510">author="百年妖怪"</TOKEN>
+<TOKEN id="token-15-3" pos="unknown" morph="none" start_char="512" end_char="542">datetime="2015-05-09T00:20:43"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-16" start_char="544" end_char="574">
+<ORIGINAL_TEXT>&lt;quote orig_author="giga_fans"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-16-0" pos="unknown" morph="none" start_char="544" end_char="549">&lt;quote</TOKEN>
+<TOKEN id="token-16-1" pos="unknown" morph="none" start_char="551" end_char="574">orig_author="giga_fans"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-17" start_char="576" end_char="590">
+<ORIGINAL_TEXT>监听行为获得法院批准是合法的。</ORIGINAL_TEXT>
+<TOKEN id="token-17-0" pos="word" morph="none" start_char="576" end_char="589">监听行为获得法院批准是合法的</TOKEN>
+<TOKEN id="token-17-1" pos="punct" morph="none" start_char="590" end_char="590">。</TOKEN>
+</SEG>
+<SEG id="segment-18" start_char="592" end_char="614">
+<ORIGINAL_TEXT>但是未得到法院批准前就监听，在美国是违法行为。</ORIGINAL_TEXT>
+<TOKEN id="token-18-0" pos="word" morph="none" start_char="592" end_char="604">但是未得到法院批准前就监听</TOKEN>
+<TOKEN id="token-18-1" pos="punct" morph="none" start_char="605" end_char="605">，</TOKEN>
+<TOKEN id="token-18-2" pos="word" morph="none" start_char="606" end_char="613">在美国是违法行为</TOKEN>
+<TOKEN id="token-18-3" pos="punct" morph="none" start_char="614" end_char="614">。</TOKEN>
+</SEG>
+<SEG id="segment-19" start_char="616" end_char="677">
+<ORIGINAL_TEXT>斯诺登爆料说，NSA打擦边球，一边申请法院令的同时一边就在监听了，这样行为有“数千起”。按照美国法律，这样的窃听也是违法的。</ORIGINAL_TEXT>
+<TOKEN id="token-19-0" pos="unknown" morph="none" start_char="616" end_char="677">斯诺登爆料说，NSA打擦边球，一边申请法院令的同时一边就在监听了，这样行为有“数千起”。按照美国法律，这样的窃听也是违法的。</TOKEN>
+</SEG>
+<SEG id="segment-20" start_char="679" end_char="683">
+<ORIGINAL_TEXT>加强学习。</ORIGINAL_TEXT>
+<TOKEN id="token-20-0" pos="word" morph="none" start_char="679" end_char="682">加强学习</TOKEN>
+<TOKEN id="token-20-1" pos="punct" morph="none" start_char="683" end_char="683">。</TOKEN>
+</SEG>
+<SEG id="segment-21" start_char="685" end_char="730">
+<ORIGINAL_TEXT>至于“大规模监听”（即从往来电讯中随机拦截敏感词信息），大概只有在美国，才会被视为违法行为。</ORIGINAL_TEXT>
+<TOKEN id="token-21-0" pos="unknown" morph="none" start_char="685" end_char="730">至于“大规模监听”（即从往来电讯中随机拦截敏感词信息），大概只有在美国，才会被视为违法行为。</TOKEN>
+</SEG>
+<SEG id="segment-22" start_char="732" end_char="739">
+<ORIGINAL_TEXT>&lt;/quote&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-22-0" pos="unknown" morph="none" start_char="732" end_char="739">&lt;/quote&gt;</TOKEN>
+</SEG>
+<SEG id="segment-23" start_char="741" end_char="765">
+<ORIGINAL_TEXT>你又跑到这了，跟你说了让你加强学习，还是这么不长进</ORIGINAL_TEXT>
+<TOKEN id="token-23-0" pos="unknown" morph="none" start_char="741" end_char="765">你又跑到这了，跟你说了让你加强学习，还是这么不长进</TOKEN>
+</SEG>
+<SEG id="segment-24" start_char="767" end_char="773">
+<ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-24-0" pos="unknown" morph="none" start_char="767" end_char="773">&lt;/post&gt;</TOKEN>
+</SEG>
+<SEG id="segment-25" start_char="775" end_char="835">
+<ORIGINAL_TEXT>&lt;post id="p4" author="ljd930" datetime="2015-05-10T18:24:41"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-25-0" pos="unknown" morph="none" start_char="775" end_char="779">&lt;post</TOKEN>
+<TOKEN id="token-25-1" pos="unknown" morph="none" start_char="781" end_char="787">id="p4"</TOKEN>
+<TOKEN id="token-25-2" pos="unknown" morph="none" start_char="789" end_char="803">author="ljd930"</TOKEN>
+<TOKEN id="token-25-3" pos="unknown" morph="none" start_char="805" end_char="835">datetime="2015-05-10T18:24:41"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-26" start_char="837" end_char="843">
+<ORIGINAL_TEXT>事实胜于雄辩。</ORIGINAL_TEXT>
+<TOKEN id="token-26-0" pos="word" morph="none" start_char="837" end_char="842">事实胜于雄辩</TOKEN>
+<TOKEN id="token-26-1" pos="punct" morph="none" start_char="843" end_char="843">。</TOKEN>
+</SEG>
+<SEG id="segment-27" start_char="845" end_char="851">
+<ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-27-0" pos="unknown" morph="none" start_char="845" end_char="851">&lt;/post&gt;</TOKEN>
+</SEG>
+<SEG id="segment-28" start_char="853" end_char="910">
+<ORIGINAL_TEXT>&lt;post id="p5" author="吐个圈" datetime="2015-05-10T18:43:33"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-28-0" pos="unknown" morph="none" start_char="853" end_char="857">&lt;post</TOKEN>
+<TOKEN id="token-28-1" pos="unknown" morph="none" start_char="859" end_char="865">id="p5"</TOKEN>
+<TOKEN id="token-28-2" pos="unknown" morph="none" start_char="867" end_char="878">author="吐个圈"</TOKEN>
+<TOKEN id="token-28-3" pos="unknown" morph="none" start_char="880" end_char="910">datetime="2015-05-10T18:43:33"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-29" start_char="912" end_char="919">
+<ORIGINAL_TEXT>赢了也不敢回去啊</ORIGINAL_TEXT>
+<TOKEN id="token-29-0" pos="word" morph="none" start_char="912" end_char="919">赢了也不敢回去啊</TOKEN>
+</SEG>
+<SEG id="segment-30" start_char="921" end_char="927">
+<ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-30-0" pos="unknown" morph="none" start_char="921" end_char="927">&lt;/post&gt;</TOKEN>
+</SEG>
+<SEG id="segment-31" start_char="929" end_char="990">
+<ORIGINAL_TEXT>&lt;post id="p6" author="wudarou" datetime="2015-05-11T00:11:50"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-31-0" pos="unknown" morph="none" start_char="929" end_char="933">&lt;post</TOKEN>
+<TOKEN id="token-31-1" pos="unknown" morph="none" start_char="935" end_char="941">id="p6"</TOKEN>
+<TOKEN id="token-31-2" pos="unknown" morph="none" start_char="943" end_char="958">author="wudarou"</TOKEN>
+<TOKEN id="token-31-3" pos="unknown" morph="none" start_char="960" end_char="990">datetime="2015-05-11T00:11:50"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-32" start_char="992" end_char="1005">
+<ORIGINAL_TEXT>斯诺登无罪了吗？不是扯啥扯！</ORIGINAL_TEXT>
+<TOKEN id="token-32-0" pos="word" morph="none" start_char="992" end_char="998">斯诺登无罪了吗</TOKEN>
+<TOKEN id="token-32-1" pos="punct" morph="none" start_char="999" end_char="999">？</TOKEN>
+<TOKEN id="token-32-2" pos="word" morph="none" start_char="1000" end_char="1004">不是扯啥扯</TOKEN>
+<TOKEN id="token-32-3" pos="punct" morph="none" start_char="1005" end_char="1005">！</TOKEN>
+</SEG>
+<SEG id="segment-33" start_char="1007" end_char="1013">
+<ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-33-0" pos="unknown" morph="none" start_char="1007" end_char="1013">&lt;/post&gt;</TOKEN>
+</SEG>
+<SEG id="segment-34" start_char="1015" end_char="1074">
+<ORIGINAL_TEXT>&lt;post id="p7" author="五楼十二城" datetime="2015-05-11T00:38:32"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-34-0" pos="unknown" morph="none" start_char="1015" end_char="1019">&lt;post</TOKEN>
+<TOKEN id="token-34-1" pos="unknown" morph="none" start_char="1021" end_char="1027">id="p7"</TOKEN>
+<TOKEN id="token-34-2" pos="unknown" morph="none" start_char="1029" end_char="1042">author="五楼十二城"</TOKEN>
+<TOKEN id="token-34-3" pos="unknown" morph="none" start_char="1044" end_char="1074">datetime="2015-05-11T00:38:32"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-35" start_char="1076" end_char="1102">
+<ORIGINAL_TEXT>回去最大的可能就是死于暗杀，或者飞机失事，出车祸...</ORIGINAL_TEXT>
+<TOKEN id="token-35-0" pos="unknown" morph="none" start_char="1076" end_char="1102">回去最大的可能就是死于暗杀，或者飞机失事，出车祸...</TOKEN>
+</SEG>
+<SEG id="segment-36" start_char="1104" end_char="1110">
+<ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-36-0" pos="unknown" morph="none" start_char="1104" end_char="1110">&lt;/post&gt;</TOKEN>
+</SEG>
+<SEG id="segment-37" start_char="1112" end_char="1170">
+<ORIGINAL_TEXT>&lt;post id="p8" author="似疯似癫" datetime="2015-05-11T01:09:33"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-37-0" pos="unknown" morph="none" start_char="1112" end_char="1116">&lt;post</TOKEN>
+<TOKEN id="token-37-1" pos="unknown" morph="none" start_char="1118" end_char="1124">id="p8"</TOKEN>
+<TOKEN id="token-37-2" pos="unknown" morph="none" start_char="1126" end_char="1138">author="似疯似癫"</TOKEN>
+<TOKEN id="token-37-3" pos="unknown" morph="none" start_char="1140" end_char="1170">datetime="2015-05-11T01:09:33"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-38" start_char="1172" end_char="1202">
+<ORIGINAL_TEXT>&lt;quote orig_author="giga_fans"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-38-0" pos="unknown" morph="none" start_char="1172" end_char="1177">&lt;quote</TOKEN>
+<TOKEN id="token-38-1" pos="unknown" morph="none" start_char="1179" end_char="1202">orig_author="giga_fans"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-39" start_char="1204" end_char="1218">
+<ORIGINAL_TEXT>监听行为获得法院批准是合法的。</ORIGINAL_TEXT>
+<TOKEN id="token-39-0" pos="word" morph="none" start_char="1204" end_char="1217">监听行为获得法院批准是合法的</TOKEN>
+<TOKEN id="token-39-1" pos="punct" morph="none" start_char="1218" end_char="1218">。</TOKEN>
+</SEG>
+<SEG id="segment-40" start_char="1220" end_char="1242">
+<ORIGINAL_TEXT>但是未得到法院批准前就监听，在美国是违法行为。</ORIGINAL_TEXT>
+<TOKEN id="token-40-0" pos="word" morph="none" start_char="1220" end_char="1232">但是未得到法院批准前就监听</TOKEN>
+<TOKEN id="token-40-1" pos="punct" morph="none" start_char="1233" end_char="1233">，</TOKEN>
+<TOKEN id="token-40-2" pos="word" morph="none" start_char="1234" end_char="1241">在美国是违法行为</TOKEN>
+<TOKEN id="token-40-3" pos="punct" morph="none" start_char="1242" end_char="1242">。</TOKEN>
+</SEG>
+<SEG id="segment-41" start_char="1244" end_char="1305">
+<ORIGINAL_TEXT>斯诺登爆料说，NSA打擦边球，一边申请法院令的同时一边就在监听了，这样行为有“数千起”。按照美国法律，这样的窃听也是违法的。</ORIGINAL_TEXT>
+<TOKEN id="token-41-0" pos="unknown" morph="none" start_char="1244" end_char="1305">斯诺登爆料说，NSA打擦边球，一边申请法院令的同时一边就在监听了，这样行为有“数千起”。按照美国法律，这样的窃听也是违法的。</TOKEN>
+</SEG>
+<SEG id="segment-42" start_char="1307" end_char="1311">
+<ORIGINAL_TEXT>加强学习。</ORIGINAL_TEXT>
+<TOKEN id="token-42-0" pos="word" morph="none" start_char="1307" end_char="1310">加强学习</TOKEN>
+<TOKEN id="token-42-1" pos="punct" morph="none" start_char="1311" end_char="1311">。</TOKEN>
+</SEG>
+<SEG id="segment-43" start_char="1313" end_char="1358">
+<ORIGINAL_TEXT>至于“大规模监听”（即从往来电讯中随机拦截敏感词信息），大概只有在美国，才会被视为违法行为。</ORIGINAL_TEXT>
+<TOKEN id="token-43-0" pos="unknown" morph="none" start_char="1313" end_char="1358">至于“大规模监听”（即从往来电讯中随机拦截敏感词信息），大概只有在美国，才会被视为违法行为。</TOKEN>
+</SEG>
+<SEG id="segment-44" start_char="1360" end_char="1367">
+<ORIGINAL_TEXT>&lt;/quote&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-44-0" pos="unknown" morph="none" start_char="1360" end_char="1367">&lt;/quote&gt;</TOKEN>
+</SEG>
+<SEG id="segment-45" start_char="1369" end_char="1384">
+<ORIGINAL_TEXT>唉，这地洗得好，不知洗得干净吗？</ORIGINAL_TEXT>
+<TOKEN id="token-45-0" pos="unknown" morph="none" start_char="1369" end_char="1384">唉，这地洗得好，不知洗得干净吗？</TOKEN>
+</SEG>
+<SEG id="segment-46" start_char="1386" end_char="1392">
+<ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-46-0" pos="unknown" morph="none" start_char="1386" end_char="1392">&lt;/post&gt;</TOKEN>
+</SEG>
+<SEG id="segment-47" start_char="1394" end_char="1457">
+<ORIGINAL_TEXT>&lt;post id="p9" author="giga_fans" datetime="2015-05-11T13:09:32"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-47-0" pos="unknown" morph="none" start_char="1394" end_char="1398">&lt;post</TOKEN>
+<TOKEN id="token-47-1" pos="unknown" morph="none" start_char="1400" end_char="1406">id="p9"</TOKEN>
+<TOKEN id="token-47-2" pos="unknown" morph="none" start_char="1408" end_char="1425">author="giga_fans"</TOKEN>
+<TOKEN id="token-47-3" pos="unknown" morph="none" start_char="1427" end_char="1457">datetime="2015-05-11T13:09:32"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-48" start_char="1459" end_char="1484">
+<ORIGINAL_TEXT>&lt;quote orig_author="似疯似癫"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-48-0" pos="unknown" morph="none" start_char="1459" end_char="1464">&lt;quote</TOKEN>
+<TOKEN id="token-48-1" pos="unknown" morph="none" start_char="1466" end_char="1484">orig_author="似疯似癫"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-49" start_char="1486" end_char="1516">
+<ORIGINAL_TEXT>&lt;quote orig_author="giga_fans"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-49-0" pos="unknown" morph="none" start_char="1486" end_char="1491">&lt;quote</TOKEN>
+<TOKEN id="token-49-1" pos="unknown" morph="none" start_char="1493" end_char="1516">orig_author="giga_fans"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-50" start_char="1518" end_char="1532">
+<ORIGINAL_TEXT>监听行为获得法院批准是合法的。</ORIGINAL_TEXT>
+<TOKEN id="token-50-0" pos="word" morph="none" start_char="1518" end_char="1531">监听行为获得法院批准是合法的</TOKEN>
+<TOKEN id="token-50-1" pos="punct" morph="none" start_char="1532" end_char="1532">。</TOKEN>
+</SEG>
+<SEG id="segment-51" start_char="1534" end_char="1556">
+<ORIGINAL_TEXT>但是未得到法院批准前就监听，在美国是违法行为。</ORIGINAL_TEXT>
+<TOKEN id="token-51-0" pos="word" morph="none" start_char="1534" end_char="1546">但是未得到法院批准前就监听</TOKEN>
+<TOKEN id="token-51-1" pos="punct" morph="none" start_char="1547" end_char="1547">，</TOKEN>
+<TOKEN id="token-51-2" pos="word" morph="none" start_char="1548" end_char="1555">在美国是违法行为</TOKEN>
+<TOKEN id="token-51-3" pos="punct" morph="none" start_char="1556" end_char="1556">。</TOKEN>
+</SEG>
+<SEG id="segment-52" start_char="1558" end_char="1619">
+<ORIGINAL_TEXT>斯诺登爆料说，NSA打擦边球，一边申请法院令的同时一边就在监听了，这样行为有“数千起”。按照美国法律，这样的窃听也是违法的。</ORIGINAL_TEXT>
+<TOKEN id="token-52-0" pos="unknown" morph="none" start_char="1558" end_char="1619">斯诺登爆料说，NSA打擦边球，一边申请法院令的同时一边就在监听了，这样行为有“数千起”。按照美国法律，这样的窃听也是违法的。</TOKEN>
+</SEG>
+<SEG id="segment-53" start_char="1621" end_char="1625">
+<ORIGINAL_TEXT>加强学习。</ORIGINAL_TEXT>
+<TOKEN id="token-53-0" pos="word" morph="none" start_char="1621" end_char="1624">加强学习</TOKEN>
+<TOKEN id="token-53-1" pos="punct" morph="none" start_char="1625" end_char="1625">。</TOKEN>
+</SEG>
+<SEG id="segment-54" start_char="1627" end_char="1672">
+<ORIGINAL_TEXT>至于“大规模监听”（即从往来电讯中随机拦截敏感词信息），大概只有在美国，才会被视为违法行为。</ORIGINAL_TEXT>
+<TOKEN id="token-54-0" pos="unknown" morph="none" start_char="1627" end_char="1672">至于“大规模监听”（即从往来电讯中随机拦截敏感词信息），大概只有在美国，才会被视为违法行为。</TOKEN>
+</SEG>
+<SEG id="segment-55" start_char="1674" end_char="1681">
+<ORIGINAL_TEXT>&lt;/quote&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-55-0" pos="unknown" morph="none" start_char="1674" end_char="1681">&lt;/quote&gt;</TOKEN>
+</SEG>
+<SEG id="segment-56" start_char="1683" end_char="1698">
+<ORIGINAL_TEXT>唉，这地洗得好，不知洗得干净吗？</ORIGINAL_TEXT>
+<TOKEN id="token-56-0" pos="unknown" morph="none" start_char="1683" end_char="1698">唉，这地洗得好，不知洗得干净吗？</TOKEN>
+</SEG>
+<SEG id="segment-57" start_char="1700" end_char="1707">
+<ORIGINAL_TEXT>&lt;/quote&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-57-0" pos="unknown" morph="none" start_char="1700" end_char="1707">&lt;/quote&gt;</TOKEN>
+</SEG>
+<SEG id="segment-58" start_char="1709" end_char="1764">
+<ORIGINAL_TEXT>爱国愤青蛮有意思的，听谎话说谎话相信谎话成了习惯，因此看见有人在说真吗，立即认为“凡说真话者皆为洗地的带路党”。</ORIGINAL_TEXT>
+<TOKEN id="token-58-0" pos="unknown" morph="none" start_char="1709" end_char="1764">爱国愤青蛮有意思的，听谎话说谎话相信谎话成了习惯，因此看见有人在说真吗，立即认为“凡说真话者皆为洗地的带路党”。</TOKEN>
+</SEG>
+<SEG id="segment-59" start_char="1766" end_char="1772">
+<ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-59-0" pos="unknown" morph="none" start_char="1766" end_char="1772">&lt;/post&gt;</TOKEN>
+</SEG>
+<SEG id="segment-60" start_char="1774" end_char="1831">
+<ORIGINAL_TEXT>&lt;post id="p10" author="豺狼" datetime="2015-05-11T14:39:39"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-60-0" pos="unknown" morph="none" start_char="1774" end_char="1778">&lt;post</TOKEN>
+<TOKEN id="token-60-1" pos="unknown" morph="none" start_char="1780" end_char="1787">id="p10"</TOKEN>
+<TOKEN id="token-60-2" pos="unknown" morph="none" start_char="1789" end_char="1799">author="豺狼"</TOKEN>
+<TOKEN id="token-60-3" pos="unknown" morph="none" start_char="1801" end_char="1831">datetime="2015-05-11T14:39:39"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-61" start_char="1833" end_char="1844">
+<ORIGINAL_TEXT>知道什么是双重标准吗，，</ORIGINAL_TEXT>
+<TOKEN id="token-61-0" pos="word" morph="none" start_char="1833" end_char="1842">知道什么是双重标准吗</TOKEN>
+<TOKEN id="token-61-1" pos="punct" morph="none" start_char="1843" end_char="1844">，，</TOKEN>
+</SEG>
+<SEG id="segment-62" start_char="1846" end_char="1852">
+<ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-62-0" pos="unknown" morph="none" start_char="1846" end_char="1852">&lt;/post&gt;</TOKEN>
+</SEG>
+<SEG id="segment-63" start_char="1854" end_char="1918">
+<ORIGINAL_TEXT>&lt;post id="p11" author="giga_fans" datetime="2015-05-11T14:46:02"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-63-0" pos="unknown" morph="none" start_char="1854" end_char="1858">&lt;post</TOKEN>
+<TOKEN id="token-63-1" pos="unknown" morph="none" start_char="1860" end_char="1867">id="p11"</TOKEN>
+<TOKEN id="token-63-2" pos="unknown" morph="none" start_char="1869" end_char="1886">author="giga_fans"</TOKEN>
+<TOKEN id="token-63-3" pos="unknown" morph="none" start_char="1888" end_char="1918">datetime="2015-05-11T14:46:02"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-64" start_char="1920" end_char="1943">
+<ORIGINAL_TEXT>&lt;quote orig_author="豺狼"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-64-0" pos="unknown" morph="none" start_char="1920" end_char="1925">&lt;quote</TOKEN>
+<TOKEN id="token-64-1" pos="unknown" morph="none" start_char="1927" end_char="1943">orig_author="豺狼"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-65" start_char="1945" end_char="1956">
+<ORIGINAL_TEXT>知道什么是双重标准吗，，</ORIGINAL_TEXT>
+<TOKEN id="token-65-0" pos="word" morph="none" start_char="1945" end_char="1954">知道什么是双重标准吗</TOKEN>
+<TOKEN id="token-65-1" pos="punct" morph="none" start_char="1955" end_char="1956">，，</TOKEN>
+</SEG>
+<SEG id="segment-66" start_char="1958" end_char="1965">
+<ORIGINAL_TEXT>&lt;/quote&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-66-0" pos="unknown" morph="none" start_char="1958" end_char="1965">&lt;/quote&gt;</TOKEN>
+</SEG>
+<SEG id="segment-67" start_char="1967" end_char="1979">
+<ORIGINAL_TEXT>你知道什么叫做双重标准吗？</ORIGINAL_TEXT>
+<TOKEN id="token-67-0" pos="word" morph="none" start_char="1967" end_char="1978">你知道什么叫做双重标准吗</TOKEN>
+<TOKEN id="token-67-1" pos="punct" morph="none" start_char="1979" end_char="1979">？</TOKEN>
+</SEG>
+<SEG id="segment-68" start_char="1981" end_char="1987">
+<ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-68-0" pos="unknown" morph="none" start_char="1981" end_char="1987">&lt;/post&gt;</TOKEN>
+</SEG>
+<SEG id="segment-69" start_char="1989" end_char="2052">
+<ORIGINAL_TEXT>&lt;post id="p12" author="lewescat" datetime="2015-05-11T14:48:47"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-69-0" pos="unknown" morph="none" start_char="1989" end_char="1993">&lt;post</TOKEN>
+<TOKEN id="token-69-1" pos="unknown" morph="none" start_char="1995" end_char="2002">id="p12"</TOKEN>
+<TOKEN id="token-69-2" pos="unknown" morph="none" start_char="2004" end_char="2020">author="lewescat"</TOKEN>
+<TOKEN id="token-69-3" pos="unknown" morph="none" start_char="2022" end_char="2052">datetime="2015-05-11T14:48:47"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-70" start_char="2054" end_char="2110">
+<ORIGINAL_TEXT>这算体制内问题还是体制外问题啊?法院管得了NSA吗?俗话说：狗改不了吃屎，美国政府不被推翻违法的事就只会越来越甚。</ORIGINAL_TEXT>
+<TOKEN id="token-70-0" pos="unknown" morph="none" start_char="2054" end_char="2110">这算体制内问题还是体制外问题啊?法院管得了NSA吗?俗话说：狗改不了吃屎，美国政府不被推翻违法的事就只会越来越甚。</TOKEN>
+</SEG>
+<SEG id="segment-71" start_char="2112" end_char="2118">
+<ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-71-0" pos="unknown" morph="none" start_char="2112" end_char="2118">&lt;/post&gt;</TOKEN>
+</SEG>
+<SEG id="segment-72" start_char="2120" end_char="2177">
+<ORIGINAL_TEXT>&lt;post id="p13" author="豺狼" datetime="2015-05-11T14:59:13"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-72-0" pos="unknown" morph="none" start_char="2120" end_char="2124">&lt;post</TOKEN>
+<TOKEN id="token-72-1" pos="unknown" morph="none" start_char="2126" end_char="2133">id="p13"</TOKEN>
+<TOKEN id="token-72-2" pos="unknown" morph="none" start_char="2135" end_char="2145">author="豺狼"</TOKEN>
+<TOKEN id="token-72-3" pos="unknown" morph="none" start_char="2147" end_char="2177">datetime="2015-05-11T14:59:13"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-73" start_char="2179" end_char="2209">
+<ORIGINAL_TEXT>&lt;quote orig_author="giga_fans"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-73-0" pos="unknown" morph="none" start_char="2179" end_char="2184">&lt;quote</TOKEN>
+<TOKEN id="token-73-1" pos="unknown" morph="none" start_char="2186" end_char="2209">orig_author="giga_fans"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-74" start_char="2211" end_char="2234">
+<ORIGINAL_TEXT>&lt;quote orig_author="豺狼"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-74-0" pos="unknown" morph="none" start_char="2211" end_char="2216">&lt;quote</TOKEN>
+<TOKEN id="token-74-1" pos="unknown" morph="none" start_char="2218" end_char="2234">orig_author="豺狼"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-75" start_char="2236" end_char="2247">
+<ORIGINAL_TEXT>知道什么是双重标准吗，，</ORIGINAL_TEXT>
+<TOKEN id="token-75-0" pos="word" morph="none" start_char="2236" end_char="2245">知道什么是双重标准吗</TOKEN>
+<TOKEN id="token-75-1" pos="punct" morph="none" start_char="2246" end_char="2247">，，</TOKEN>
+</SEG>
+<SEG id="segment-76" start_char="2249" end_char="2256">
+<ORIGINAL_TEXT>&lt;/quote&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-76-0" pos="unknown" morph="none" start_char="2249" end_char="2256">&lt;/quote&gt;</TOKEN>
+</SEG>
+<SEG id="segment-77" start_char="2258" end_char="2270">
+<ORIGINAL_TEXT>你知道什么叫做双重标准吗？</ORIGINAL_TEXT>
+<TOKEN id="token-77-0" pos="word" morph="none" start_char="2258" end_char="2269">你知道什么叫做双重标准吗</TOKEN>
+<TOKEN id="token-77-1" pos="punct" morph="none" start_char="2270" end_char="2270">？</TOKEN>
+</SEG>
+<SEG id="segment-78" start_char="2272" end_char="2279">
+<ORIGINAL_TEXT>&lt;/quote&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-78-0" pos="unknown" morph="none" start_char="2272" end_char="2279">&lt;/quote&gt;</TOKEN>
+</SEG>
+<SEG id="segment-79" start_char="2281" end_char="2304">
+<ORIGINAL_TEXT>连这个也反问，真心是智商问题了，立场也有点问题，</ORIGINAL_TEXT>
+<TOKEN id="token-79-0" pos="unknown" morph="none" start_char="2281" end_char="2304">连这个也反问，真心是智商问题了，立场也有点问题，</TOKEN>
+</SEG>
+<SEG id="segment-80" start_char="2306" end_char="2312">
+<ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-80-0" pos="unknown" morph="none" start_char="2306" end_char="2312">&lt;/post&gt;</TOKEN>
+</SEG>
+<SEG id="segment-81" start_char="2314" end_char="2378">
+<ORIGINAL_TEXT>&lt;post id="p14" author="szy070706" datetime="2015-05-11T15:13:54"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-81-0" pos="unknown" morph="none" start_char="2314" end_char="2318">&lt;post</TOKEN>
+<TOKEN id="token-81-1" pos="unknown" morph="none" start_char="2320" end_char="2327">id="p14"</TOKEN>
+<TOKEN id="token-81-2" pos="unknown" morph="none" start_char="2329" end_char="2346">author="szy070706"</TOKEN>
+<TOKEN id="token-81-3" pos="unknown" morph="none" start_char="2348" end_char="2378">datetime="2015-05-11T15:13:54"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-82" start_char="2380" end_char="2415">
+<ORIGINAL_TEXT>美法院判违法有意义吗？我只知道美帝一定会加紧在全世界监视行为，特别是中国</ORIGINAL_TEXT>
+<TOKEN id="token-82-0" pos="unknown" morph="none" start_char="2380" end_char="2415">美法院判违法有意义吗？我只知道美帝一定会加紧在全世界监视行为，特别是中国</TOKEN>
+</SEG>
+<SEG id="segment-83" start_char="2417" end_char="2423">
+<ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-83-0" pos="unknown" morph="none" start_char="2417" end_char="2423">&lt;/post&gt;</TOKEN>
+</SEG>
+<SEG id="segment-84" start_char="2425" end_char="2484">
+<ORIGINAL_TEXT>&lt;post id="p15" author="一生唏嘘" datetime="2015-05-11T15:21:27"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-84-0" pos="unknown" morph="none" start_char="2425" end_char="2429">&lt;post</TOKEN>
+<TOKEN id="token-84-1" pos="unknown" morph="none" start_char="2431" end_char="2438">id="p15"</TOKEN>
+<TOKEN id="token-84-2" pos="unknown" morph="none" start_char="2440" end_char="2452">author="一生唏嘘"</TOKEN>
+<TOKEN id="token-84-3" pos="unknown" morph="none" start_char="2454" end_char="2484">datetime="2015-05-11T15:21:27"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-85" start_char="2486" end_char="2502">
+<ORIGINAL_TEXT>这是要把斯诺登骗回美国弄死的节奏啊</ORIGINAL_TEXT>
+<TOKEN id="token-85-0" pos="word" morph="none" start_char="2486" end_char="2502">这是要把斯诺登骗回美国弄死的节奏啊</TOKEN>
+</SEG>
+<SEG id="segment-86" start_char="2504" end_char="2510">
+<ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-86-0" pos="unknown" morph="none" start_char="2504" end_char="2510">&lt;/post&gt;</TOKEN>
+</SEG>
+<SEG id="segment-87" start_char="2512" end_char="2569">
+<ORIGINAL_TEXT>&lt;post id="p16" author="狼浪" datetime="2015-05-11T15:55:32"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-87-0" pos="unknown" morph="none" start_char="2512" end_char="2516">&lt;post</TOKEN>
+<TOKEN id="token-87-1" pos="unknown" morph="none" start_char="2518" end_char="2525">id="p16"</TOKEN>
+<TOKEN id="token-87-2" pos="unknown" morph="none" start_char="2527" end_char="2537">author="狼浪"</TOKEN>
+<TOKEN id="token-87-3" pos="unknown" morph="none" start_char="2539" end_char="2569">datetime="2015-05-11T15:55:32"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-88" start_char="2571" end_char="2601">
+<ORIGINAL_TEXT>&lt;quote orig_author="szy070706"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-88-0" pos="unknown" morph="none" start_char="2571" end_char="2576">&lt;quote</TOKEN>
+<TOKEN id="token-88-1" pos="unknown" morph="none" start_char="2578" end_char="2601">orig_author="szy070706"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-89" start_char="2603" end_char="2638">
+<ORIGINAL_TEXT>美法院判违法有意义吗？我只知道美帝一定会加紧在全世界监视行为，特别是中国</ORIGINAL_TEXT>
+<TOKEN id="token-89-0" pos="unknown" morph="none" start_char="2603" end_char="2638">美法院判违法有意义吗？我只知道美帝一定会加紧在全世界监视行为，特别是中国</TOKEN>
+</SEG>
+<SEG id="segment-90" start_char="2640" end_char="2647">
+<ORIGINAL_TEXT>&lt;/quote&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-90-0" pos="unknown" morph="none" start_char="2640" end_char="2647">&lt;/quote&gt;</TOKEN>
+</SEG>
+<SEG id="segment-91" start_char="2649" end_char="2697">
+<ORIGINAL_TEXT>判定违法,紧接着的步骤是否违宪，奥巴马是否应该被弹劾提前下台被审判，小布什是否应该违宪被传唤审判？</ORIGINAL_TEXT>
+<TOKEN id="token-91-0" pos="unknown" morph="none" start_char="2649" end_char="2697">判定违法,紧接着的步骤是否违宪，奥巴马是否应该被弹劾提前下台被审判，小布什是否应该违宪被传唤审判？</TOKEN>
+</SEG>
+<SEG id="segment-92" start_char="2699" end_char="2715">
+<ORIGINAL_TEXT>哦倒想看看 美国是否有胆如此法制。</ORIGINAL_TEXT>
+<TOKEN id="token-92-0" pos="word" morph="none" start_char="2699" end_char="2703">哦倒想看看</TOKEN>
+<TOKEN id="token-92-1" pos="word" morph="none" start_char="2705" end_char="2714">美国是否有胆如此法制</TOKEN>
+<TOKEN id="token-92-2" pos="punct" morph="none" start_char="2715" end_char="2715">。</TOKEN>
+</SEG>
+<SEG id="segment-93" start_char="2717" end_char="2723">
+<ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-93-0" pos="unknown" morph="none" start_char="2717" end_char="2723">&lt;/post&gt;</TOKEN>
+</SEG>
+<SEG id="segment-94" start_char="2725" end_char="2782">
+<ORIGINAL_TEXT>&lt;post id="p17" author="狼浪" datetime="2015-05-11T16:05:18"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-94-0" pos="unknown" morph="none" start_char="2725" end_char="2729">&lt;post</TOKEN>
+<TOKEN id="token-94-1" pos="unknown" morph="none" start_char="2731" end_char="2738">id="p17"</TOKEN>
+<TOKEN id="token-94-2" pos="unknown" morph="none" start_char="2740" end_char="2750">author="狼浪"</TOKEN>
+<TOKEN id="token-94-3" pos="unknown" morph="none" start_char="2752" end_char="2782">datetime="2015-05-11T16:05:18"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-95" start_char="2784" end_char="2814">
+<ORIGINAL_TEXT>&lt;quote orig_author="giga_fans"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-95-0" pos="unknown" morph="none" start_char="2784" end_char="2789">&lt;quote</TOKEN>
+<TOKEN id="token-95-1" pos="unknown" morph="none" start_char="2791" end_char="2814">orig_author="giga_fans"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-96" start_char="2816" end_char="2830">
+<ORIGINAL_TEXT>监听行为获得法院批准是合法的。</ORIGINAL_TEXT>
+<TOKEN id="token-96-0" pos="word" morph="none" start_char="2816" end_char="2829">监听行为获得法院批准是合法的</TOKEN>
+<TOKEN id="token-96-1" pos="punct" morph="none" start_char="2830" end_char="2830">。</TOKEN>
+</SEG>
+<SEG id="segment-97" start_char="2832" end_char="2854">
+<ORIGINAL_TEXT>但是未得到法院批准前就监听，在美国是违法行为。</ORIGINAL_TEXT>
+<TOKEN id="token-97-0" pos="word" morph="none" start_char="2832" end_char="2844">但是未得到法院批准前就监听</TOKEN>
+<TOKEN id="token-97-1" pos="punct" morph="none" start_char="2845" end_char="2845">，</TOKEN>
+<TOKEN id="token-97-2" pos="word" morph="none" start_char="2846" end_char="2853">在美国是违法行为</TOKEN>
+<TOKEN id="token-97-3" pos="punct" morph="none" start_char="2854" end_char="2854">。</TOKEN>
+</SEG>
+<SEG id="segment-98" start_char="2856" end_char="2917">
+<ORIGINAL_TEXT>斯诺登爆料说，NSA打擦边球，一边申请法院令的同时一边就在监听了，这样行为有“数千起”。按照美国法律，这样的窃听也是违法的。</ORIGINAL_TEXT>
+<TOKEN id="token-98-0" pos="unknown" morph="none" start_char="2856" end_char="2917">斯诺登爆料说，NSA打擦边球，一边申请法院令的同时一边就在监听了，这样行为有“数千起”。按照美国法律，这样的窃听也是违法的。</TOKEN>
+</SEG>
+<SEG id="segment-99" start_char="2919" end_char="2923">
+<ORIGINAL_TEXT>加强学习。</ORIGINAL_TEXT>
+<TOKEN id="token-99-0" pos="word" morph="none" start_char="2919" end_char="2922">加强学习</TOKEN>
+<TOKEN id="token-99-1" pos="punct" morph="none" start_char="2923" end_char="2923">。</TOKEN>
+</SEG>
+<SEG id="segment-100" start_char="2925" end_char="2970">
+<ORIGINAL_TEXT>至于“大规模监听”（即从往来电讯中随机拦截敏感词信息），大概只有在美国，才会被视为违法行为。</ORIGINAL_TEXT>
+<TOKEN id="token-100-0" pos="unknown" morph="none" start_char="2925" end_char="2970">至于“大规模监听”（即从往来电讯中随机拦截敏感词信息），大概只有在美国，才会被视为违法行为。</TOKEN>
+</SEG>
+<SEG id="segment-101" start_char="2972" end_char="2979">
+<ORIGINAL_TEXT>&lt;/quote&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-101-0" pos="unknown" morph="none" start_char="2972" end_char="2979">&lt;/quote&gt;</TOKEN>
+</SEG>
+<SEG id="segment-102" start_char="2981" end_char="2995">
+<ORIGINAL_TEXT>监听行为获得法院批准是合法的。</ORIGINAL_TEXT>
+<TOKEN id="token-102-0" pos="word" morph="none" start_char="2981" end_char="2994">监听行为获得法院批准是合法的</TOKEN>
+<TOKEN id="token-102-1" pos="punct" morph="none" start_char="2995" end_char="2995">。</TOKEN>
+</SEG>
+<SEG id="segment-103" start_char="2997" end_char="3025">
+<ORIGINAL_TEXT>=============================</ORIGINAL_TEXT>
+<TOKEN id="token-103-0" pos="unknown" morph="none" start_char="2997" end_char="3025">=============================</TOKEN>
+</SEG>
+<SEG id="segment-104" start_char="3027" end_char="3051">
+<ORIGINAL_TEXT>什么法院！！！是最低端的县法院 还是最高法院???</ORIGINAL_TEXT>
+<TOKEN id="token-104-0" pos="word" morph="none" start_char="3027" end_char="3030">什么法院</TOKEN>
+<TOKEN id="token-104-1" pos="punct" morph="none" start_char="3031" end_char="3033">！！！</TOKEN>
+<TOKEN id="token-104-2" pos="word" morph="none" start_char="3034" end_char="3041">是最低端的县法院</TOKEN>
+<TOKEN id="token-104-3" pos="word" morph="none" start_char="3043" end_char="3048">还是最高法院</TOKEN>
+<TOKEN id="token-104-4" pos="punct" morph="none" start_char="3049" end_char="3051">???</TOKEN>
+</SEG>
+<SEG id="segment-105" start_char="3053" end_char="3059">
+<ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-105-0" pos="unknown" morph="none" start_char="3053" end_char="3059">&lt;/post&gt;</TOKEN>
+</SEG>
+<SEG id="segment-106" start_char="3061" end_char="3125">
+<ORIGINAL_TEXT>&lt;post id="p18" author="giga_fans" datetime="2015-05-12T13:04:12"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-106-0" pos="unknown" morph="none" start_char="3061" end_char="3065">&lt;post</TOKEN>
+<TOKEN id="token-106-1" pos="unknown" morph="none" start_char="3067" end_char="3074">id="p18"</TOKEN>
+<TOKEN id="token-106-2" pos="unknown" morph="none" start_char="3076" end_char="3093">author="giga_fans"</TOKEN>
+<TOKEN id="token-106-3" pos="unknown" morph="none" start_char="3095" end_char="3125">datetime="2015-05-12T13:04:12"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-107" start_char="3127" end_char="3150">
+<ORIGINAL_TEXT>&lt;quote orig_author="狼浪"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-107-0" pos="unknown" morph="none" start_char="3127" end_char="3132">&lt;quote</TOKEN>
+<TOKEN id="token-107-1" pos="unknown" morph="none" start_char="3134" end_char="3150">orig_author="狼浪"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-108" start_char="3152" end_char="3182">
+<ORIGINAL_TEXT>&lt;quote orig_author="giga_fans"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-108-0" pos="unknown" morph="none" start_char="3152" end_char="3157">&lt;quote</TOKEN>
+<TOKEN id="token-108-1" pos="unknown" morph="none" start_char="3159" end_char="3182">orig_author="giga_fans"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-109" start_char="3184" end_char="3198">
+<ORIGINAL_TEXT>监听行为获得法院批准是合法的。</ORIGINAL_TEXT>
+<TOKEN id="token-109-0" pos="word" morph="none" start_char="3184" end_char="3197">监听行为获得法院批准是合法的</TOKEN>
+<TOKEN id="token-109-1" pos="punct" morph="none" start_char="3198" end_char="3198">。</TOKEN>
+</SEG>
+<SEG id="segment-110" start_char="3200" end_char="3222">
+<ORIGINAL_TEXT>但是未得到法院批准前就监听，在美国是违法行为。</ORIGINAL_TEXT>
+<TOKEN id="token-110-0" pos="word" morph="none" start_char="3200" end_char="3212">但是未得到法院批准前就监听</TOKEN>
+<TOKEN id="token-110-1" pos="punct" morph="none" start_char="3213" end_char="3213">，</TOKEN>
+<TOKEN id="token-110-2" pos="word" morph="none" start_char="3214" end_char="3221">在美国是违法行为</TOKEN>
+<TOKEN id="token-110-3" pos="punct" morph="none" start_char="3222" end_char="3222">。</TOKEN>
+</SEG>
+<SEG id="segment-111" start_char="3224" end_char="3285">
+<ORIGINAL_TEXT>斯诺登爆料说，NSA打擦边球，一边申请法院令的同时一边就在监听了，这样行为有“数千起”。按照美国法律，这样的窃听也是违法的。</ORIGINAL_TEXT>
+<TOKEN id="token-111-0" pos="unknown" morph="none" start_char="3224" end_char="3285">斯诺登爆料说，NSA打擦边球，一边申请法院令的同时一边就在监听了，这样行为有“数千起”。按照美国法律，这样的窃听也是违法的。</TOKEN>
+</SEG>
+<SEG id="segment-112" start_char="3287" end_char="3291">
+<ORIGINAL_TEXT>加强学习。</ORIGINAL_TEXT>
+<TOKEN id="token-112-0" pos="word" morph="none" start_char="3287" end_char="3290">加强学习</TOKEN>
+<TOKEN id="token-112-1" pos="punct" morph="none" start_char="3291" end_char="3291">。</TOKEN>
+</SEG>
+<SEG id="segment-113" start_char="3293" end_char="3338">
+<ORIGINAL_TEXT>至于“大规模监听”（即从往来电讯中随机拦截敏感词信息），大概只有在美国，才会被视为违法行为。</ORIGINAL_TEXT>
+<TOKEN id="token-113-0" pos="unknown" morph="none" start_char="3293" end_char="3338">至于“大规模监听”（即从往来电讯中随机拦截敏感词信息），大概只有在美国，才会被视为违法行为。</TOKEN>
+</SEG>
+<SEG id="segment-114" start_char="3340" end_char="3347">
+<ORIGINAL_TEXT>&lt;/quote&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-114-0" pos="unknown" morph="none" start_char="3340" end_char="3347">&lt;/quote&gt;</TOKEN>
+</SEG>
+<SEG id="segment-115" start_char="3349" end_char="3363">
+<ORIGINAL_TEXT>监听行为获得法院批准是合法的。</ORIGINAL_TEXT>
+<TOKEN id="token-115-0" pos="word" morph="none" start_char="3349" end_char="3362">监听行为获得法院批准是合法的</TOKEN>
+<TOKEN id="token-115-1" pos="punct" morph="none" start_char="3363" end_char="3363">。</TOKEN>
+</SEG>
+<SEG id="segment-116" start_char="3365" end_char="3393">
+<ORIGINAL_TEXT>=============================</ORIGINAL_TEXT>
+<TOKEN id="token-116-0" pos="unknown" morph="none" start_char="3365" end_char="3393">=============================</TOKEN>
+</SEG>
+<SEG id="segment-117" start_char="3395" end_char="3419">
+<ORIGINAL_TEXT>什么法院！！！是最低端的县法院 还是最高法院???</ORIGINAL_TEXT>
+<TOKEN id="token-117-0" pos="word" morph="none" start_char="3395" end_char="3398">什么法院</TOKEN>
+<TOKEN id="token-117-1" pos="punct" morph="none" start_char="3399" end_char="3401">！！！</TOKEN>
+<TOKEN id="token-117-2" pos="word" morph="none" start_char="3402" end_char="3409">是最低端的县法院</TOKEN>
+<TOKEN id="token-117-3" pos="word" morph="none" start_char="3411" end_char="3416">还是最高法院</TOKEN>
+<TOKEN id="token-117-4" pos="punct" morph="none" start_char="3417" end_char="3419">???</TOKEN>
+</SEG>
+<SEG id="segment-118" start_char="3421" end_char="3428">
+<ORIGINAL_TEXT>&lt;/quote&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-118-0" pos="unknown" morph="none" start_char="3421" end_char="3428">&lt;/quote&gt;</TOKEN>
+</SEG>
+<SEG id="segment-119" start_char="3430" end_char="3456">
+<ORIGINAL_TEXT>你告诉我，“最低法院”是什么？“最高端法院”又是什么？</ORIGINAL_TEXT>
+<TOKEN id="token-119-0" pos="unknown" morph="none" start_char="3430" end_char="3456">你告诉我，“最低法院”是什么？“最高端法院”又是什么？</TOKEN>
+</SEG>
+<SEG id="segment-120" start_char="3459" end_char="3581">
+<ORIGINAL_TEXT>海洋法观念中，并无“上下级法院”关系，也不存在神州的“法院是用来打官司”“惩处罪犯”的概念。为了任何一个事务组织委员会，这个council就有了法院的概念，美国的郡法院，州法院并非联邦最高法院的下级，联邦巡回法院对于州法院也并无管辖关系。加强学习</ORIGINAL_TEXT>
+<TOKEN id="token-120-0" pos="unknown" morph="none" start_char="3459" end_char="3581">海洋法观念中，并无“上下级法院”关系，也不存在神州的“法院是用来打官司”“惩处罪犯”的概念。为了任何一个事务组织委员会，这个council就有了法院的概念，美国的郡法院，州法院并非联邦最高法院的下级，联邦巡回法院对于州法院也并无管辖关系。加强学习</TOKEN>
+</SEG>
+<SEG id="segment-121" start_char="3584" end_char="3707">
+<ORIGINAL_TEXT>对于监听，需要法院授权现在已经是多国普遍的情况，美国NSA要窃听某人，需要有相应管辖权的法院申请。如果想要窃听一个杀人嫌犯的电信，需要向案件管辖地的法院申请，而如果涉及恐怖分子的，则向联邦法院申请（涉嫌恐怖行为的，属于触犯联邦法的罪行）。明白了吗？</ORIGINAL_TEXT>
+<TOKEN id="token-121-0" pos="unknown" morph="none" start_char="3584" end_char="3707">对于监听，需要法院授权现在已经是多国普遍的情况，美国NSA要窃听某人，需要有相应管辖权的法院申请。如果想要窃听一个杀人嫌犯的电信，需要向案件管辖地的法院申请，而如果涉及恐怖分子的，则向联邦法院申请（涉嫌恐怖行为的，属于触犯联邦法的罪行）。明白了吗？</TOKEN>
+</SEG>
+<SEG id="segment-122" start_char="3710" end_char="3923">
+<ORIGINAL_TEXT>问题在于NSA经常在监听中忽然发现某人，因为对于此人监听并不在批准名单中，因此必须立即向法院申请。而要命的是这样的申请会导致延时，而授权令下达，此人可能早就完成了联系而失踪了-----911前就发生过这样的事情，FBI得知有2个和恐怖组织有关的沙特人从德国入境美国（情报由沙特情报局提出，经CIA转交给FBI），但是等FBI得到法院授权去搜查那两人住的旅馆时，发现他们已经离开----后来才发现，这两人就是911事件中的劫机犯。</ORIGINAL_TEXT>
+<TOKEN id="token-122-0" pos="unknown" morph="none" start_char="3710" end_char="3923">问题在于NSA经常在监听中忽然发现某人，因为对于此人监听并不在批准名单中，因此必须立即向法院申请。而要命的是这样的申请会导致延时，而授权令下达，此人可能早就完成了联系而失踪了-----911前就发生过这样的事情，FBI得知有2个和恐怖组织有关的沙特人从德国入境美国（情报由沙特情报局提出，经CIA转交给FBI），但是等FBI得到法院授权去搜查那两人住的旅馆时，发现他们已经离开----后来才发现，这两人就是911事件中的劫机犯。</TOKEN>
+</SEG>
+<SEG id="segment-123" start_char="3926" end_char="3982">
+<ORIGINAL_TEXT>因此后来NSA以“追求效率”为名，经常就搞“边申请边监听”的花样。不过在斯诺登看来，这是严重违背信息自由化观点的。</ORIGINAL_TEXT>
+<TOKEN id="token-123-0" pos="unknown" morph="none" start_char="3926" end_char="3982">因此后来NSA以“追求效率”为名，经常就搞“边申请边监听”的花样。不过在斯诺登看来，这是严重违背信息自由化观点的。</TOKEN>
+</SEG>
+<SEG id="segment-124" start_char="3984" end_char="3990">
+<ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-124-0" pos="unknown" morph="none" start_char="3984" end_char="3990">&lt;/post&gt;</TOKEN>
+</SEG>
+<SEG id="segment-125" start_char="3992" end_char="4049">
+<ORIGINAL_TEXT>&lt;post id="p19" author="狼浪" datetime="2015-05-12T13:07:33"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-125-0" pos="unknown" morph="none" start_char="3992" end_char="3996">&lt;post</TOKEN>
+<TOKEN id="token-125-1" pos="unknown" morph="none" start_char="3998" end_char="4005">id="p19"</TOKEN>
+<TOKEN id="token-125-2" pos="unknown" morph="none" start_char="4007" end_char="4017">author="狼浪"</TOKEN>
+<TOKEN id="token-125-3" pos="unknown" morph="none" start_char="4019" end_char="4049">datetime="2015-05-12T13:07:33"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-126" start_char="4051" end_char="4081">
+<ORIGINAL_TEXT>&lt;quote orig_author="giga_fans"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-126-0" pos="unknown" morph="none" start_char="4051" end_char="4056">&lt;quote</TOKEN>
+<TOKEN id="token-126-1" pos="unknown" morph="none" start_char="4058" end_char="4081">orig_author="giga_fans"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-127" start_char="4083" end_char="4106">
+<ORIGINAL_TEXT>&lt;quote orig_author="狼浪"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-127-0" pos="unknown" morph="none" start_char="4083" end_char="4088">&lt;quote</TOKEN>
+<TOKEN id="token-127-1" pos="unknown" morph="none" start_char="4090" end_char="4106">orig_author="狼浪"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-128" start_char="4108" end_char="4138">
+<ORIGINAL_TEXT>&lt;quote orig_author="giga_fans"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-128-0" pos="unknown" morph="none" start_char="4108" end_char="4113">&lt;quote</TOKEN>
+<TOKEN id="token-128-1" pos="unknown" morph="none" start_char="4115" end_char="4138">orig_author="giga_fans"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-129" start_char="4140" end_char="4154">
+<ORIGINAL_TEXT>监听行为获得法院批准是合法的。</ORIGINAL_TEXT>
+<TOKEN id="token-129-0" pos="word" morph="none" start_char="4140" end_char="4153">监听行为获得法院批准是合法的</TOKEN>
+<TOKEN id="token-129-1" pos="punct" morph="none" start_char="4154" end_char="4154">。</TOKEN>
+</SEG>
+<SEG id="segment-130" start_char="4156" end_char="4178">
+<ORIGINAL_TEXT>但是未得到法院批准前就监听，在美国是违法行为。</ORIGINAL_TEXT>
+<TOKEN id="token-130-0" pos="word" morph="none" start_char="4156" end_char="4168">但是未得到法院批准前就监听</TOKEN>
+<TOKEN id="token-130-1" pos="punct" morph="none" start_char="4169" end_char="4169">，</TOKEN>
+<TOKEN id="token-130-2" pos="word" morph="none" start_char="4170" end_char="4177">在美国是违法行为</TOKEN>
+<TOKEN id="token-130-3" pos="punct" morph="none" start_char="4178" end_char="4178">。</TOKEN>
+</SEG>
+<SEG id="segment-131" start_char="4180" end_char="4241">
+<ORIGINAL_TEXT>斯诺登爆料说，NSA打擦边球，一边申请法院令的同时一边就在监听了，这样行为有“数千起”。按照美国法律，这样的窃听也是违法的。</ORIGINAL_TEXT>
+<TOKEN id="token-131-0" pos="unknown" morph="none" start_char="4180" end_char="4241">斯诺登爆料说，NSA打擦边球，一边申请法院令的同时一边就在监听了，这样行为有“数千起”。按照美国法律，这样的窃听也是违法的。</TOKEN>
+</SEG>
+<SEG id="segment-132" start_char="4243" end_char="4247">
+<ORIGINAL_TEXT>加强学习。</ORIGINAL_TEXT>
+<TOKEN id="token-132-0" pos="word" morph="none" start_char="4243" end_char="4246">加强学习</TOKEN>
+<TOKEN id="token-132-1" pos="punct" morph="none" start_char="4247" end_char="4247">。</TOKEN>
+</SEG>
+<SEG id="segment-133" start_char="4249" end_char="4294">
+<ORIGINAL_TEXT>至于“大规模监听”（即从往来电讯中随机拦截敏感词信息），大概只有在美国，才会被视为违法行为。</ORIGINAL_TEXT>
+<TOKEN id="token-133-0" pos="unknown" morph="none" start_char="4249" end_char="4294">至于“大规模监听”（即从往来电讯中随机拦截敏感词信息），大概只有在美国，才会被视为违法行为。</TOKEN>
+</SEG>
+<SEG id="segment-134" start_char="4296" end_char="4303">
+<ORIGINAL_TEXT>&lt;/quote&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-134-0" pos="unknown" morph="none" start_char="4296" end_char="4303">&lt;/quote&gt;</TOKEN>
+</SEG>
+<SEG id="segment-135" start_char="4305" end_char="4319">
+<ORIGINAL_TEXT>监听行为获得法院批准是合法的。</ORIGINAL_TEXT>
+<TOKEN id="token-135-0" pos="word" morph="none" start_char="4305" end_char="4318">监听行为获得法院批准是合法的</TOKEN>
+<TOKEN id="token-135-1" pos="punct" morph="none" start_char="4319" end_char="4319">。</TOKEN>
+</SEG>
+<SEG id="segment-136" start_char="4321" end_char="4349">
+<ORIGINAL_TEXT>=============================</ORIGINAL_TEXT>
+<TOKEN id="token-136-0" pos="unknown" morph="none" start_char="4321" end_char="4349">=============================</TOKEN>
+</SEG>
+<SEG id="segment-137" start_char="4351" end_char="4375">
+<ORIGINAL_TEXT>什么法院！！！是最低端的县法院 还是最高法院???</ORIGINAL_TEXT>
+<TOKEN id="token-137-0" pos="word" morph="none" start_char="4351" end_char="4354">什么法院</TOKEN>
+<TOKEN id="token-137-1" pos="punct" morph="none" start_char="4355" end_char="4357">！！！</TOKEN>
+<TOKEN id="token-137-2" pos="word" morph="none" start_char="4358" end_char="4365">是最低端的县法院</TOKEN>
+<TOKEN id="token-137-3" pos="word" morph="none" start_char="4367" end_char="4372">还是最高法院</TOKEN>
+<TOKEN id="token-137-4" pos="punct" morph="none" start_char="4373" end_char="4375">???</TOKEN>
+</SEG>
+<SEG id="segment-138" start_char="4377" end_char="4384">
+<ORIGINAL_TEXT>&lt;/quote&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-138-0" pos="unknown" morph="none" start_char="4377" end_char="4384">&lt;/quote&gt;</TOKEN>
+</SEG>
+<SEG id="segment-139" start_char="4386" end_char="4412">
+<ORIGINAL_TEXT>你告诉我，“最低法院”是什么？“最高端法院”又是什么？</ORIGINAL_TEXT>
+<TOKEN id="token-139-0" pos="unknown" morph="none" start_char="4386" end_char="4412">你告诉我，“最低法院”是什么？“最高端法院”又是什么？</TOKEN>
+</SEG>
+<SEG id="segment-140" start_char="4415" end_char="4537">
+<ORIGINAL_TEXT>海洋法观念中，并无“上下级法院”关系，也不存在神州的“法院是用来打官司”“惩处罪犯”的概念。为了任何一个事务组织委员会，这个council就有了法院的概念，美国的郡法院，州法院并非联邦最高法院的下级，联邦巡回法院对于州法院也并无管辖关系。加强学习</ORIGINAL_TEXT>
+<TOKEN id="token-140-0" pos="unknown" morph="none" start_char="4415" end_char="4537">海洋法观念中，并无“上下级法院”关系，也不存在神州的“法院是用来打官司”“惩处罪犯”的概念。为了任何一个事务组织委员会，这个council就有了法院的概念，美国的郡法院，州法院并非联邦最高法院的下级，联邦巡回法院对于州法院也并无管辖关系。加强学习</TOKEN>
+</SEG>
+<SEG id="segment-141" start_char="4540" end_char="4663">
+<ORIGINAL_TEXT>对于监听，需要法院授权现在已经是多国普遍的情况，美国NSA要窃听某人，需要有相应管辖权的法院申请。如果想要窃听一个杀人嫌犯的电信，需要向案件管辖地的法院申请，而如果涉及恐怖分子的，则向联邦法院申请（涉嫌恐怖行为的，属于触犯联邦法的罪行）。明白了吗？</ORIGINAL_TEXT>
+<TOKEN id="token-141-0" pos="unknown" morph="none" start_char="4540" end_char="4663">对于监听，需要法院授权现在已经是多国普遍的情况，美国NSA要窃听某人，需要有相应管辖权的法院申请。如果想要窃听一个杀人嫌犯的电信，需要向案件管辖地的法院申请，而如果涉及恐怖分子的，则向联邦法院申请（涉嫌恐怖行为的，属于触犯联邦法的罪行）。明白了吗？</TOKEN>
+</SEG>
+<SEG id="segment-142" start_char="4666" end_char="4879">
+<ORIGINAL_TEXT>问题在于NSA经常在监听中忽然发现某人，因为对于此人监听并不在批准名单中，因此必须立即向法院申请。而要命的是这样的申请会导致延时，而授权令下达，此人可能早就完成了联系而失踪了-----911前就发生过这样的事情，FBI得知有2个和恐怖组织有关的沙特人从德国入境美国（情报由沙特情报局提出，经CIA转交给FBI），但是等FBI得到法院授权去搜查那两人住的旅馆时，发现他们已经离开----后来才发现，这两人就是911事件中的劫机犯。</ORIGINAL_TEXT>
+<TOKEN id="token-142-0" pos="unknown" morph="none" start_char="4666" end_char="4879">问题在于NSA经常在监听中忽然发现某人，因为对于此人监听并不在批准名单中，因此必须立即向法院申请。而要命的是这样的申请会导致延时，而授权令下达，此人可能早就完成了联系而失踪了-----911前就发生过这样的事情，FBI得知有2个和恐怖组织有关的沙特人从德国入境美国（情报由沙特情报局提出，经CIA转交给FBI），但是等FBI得到法院授权去搜查那两人住的旅馆时，发现他们已经离开----后来才发现，这两人就是911事件中的劫机犯。</TOKEN>
+</SEG>
+<SEG id="segment-143" start_char="4882" end_char="4938">
+<ORIGINAL_TEXT>因此后来NSA以“追求效率”为名，经常就搞“边申请边监听”的花样。不过在斯诺登看来，这是严重违背信息自由化观点的。</ORIGINAL_TEXT>
+<TOKEN id="token-143-0" pos="unknown" morph="none" start_char="4882" end_char="4938">因此后来NSA以“追求效率”为名，经常就搞“边申请边监听”的花样。不过在斯诺登看来，这是严重违背信息自由化观点的。</TOKEN>
+</SEG>
+<SEG id="segment-144" start_char="4940" end_char="4947">
+<ORIGINAL_TEXT>&lt;/quote&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-144-0" pos="unknown" morph="none" start_char="4940" end_char="4947">&lt;/quote&gt;</TOKEN>
+</SEG>
+<SEG id="segment-145" start_char="4949" end_char="4988">
+<ORIGINAL_TEXT>关键是什么法院有资格解释宪法...而阁下显然是顾左右而言其他...洗地效率太差。</ORIGINAL_TEXT>
+<TOKEN id="token-145-0" pos="unknown" morph="none" start_char="4949" end_char="4988">关键是什么法院有资格解释宪法...而阁下显然是顾左右而言其他...洗地效率太差。</TOKEN>
+</SEG>
+<SEG id="segment-146" start_char="4990" end_char="4996">
+<ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-146-0" pos="unknown" morph="none" start_char="4990" end_char="4996">&lt;/post&gt;</TOKEN>
+</SEG>
+<SEG id="segment-147" start_char="4998" end_char="5062">
+<ORIGINAL_TEXT>&lt;post id="p20" author="giga_fans" datetime="2015-05-12T14:07:43"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-147-0" pos="unknown" morph="none" start_char="4998" end_char="5002">&lt;post</TOKEN>
+<TOKEN id="token-147-1" pos="unknown" morph="none" start_char="5004" end_char="5011">id="p20"</TOKEN>
+<TOKEN id="token-147-2" pos="unknown" morph="none" start_char="5013" end_char="5030">author="giga_fans"</TOKEN>
+<TOKEN id="token-147-3" pos="unknown" morph="none" start_char="5032" end_char="5062">datetime="2015-05-12T14:07:43"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-148" start_char="5064" end_char="5087">
+<ORIGINAL_TEXT>&lt;quote orig_author="狼浪"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-148-0" pos="unknown" morph="none" start_char="5064" end_char="5069">&lt;quote</TOKEN>
+<TOKEN id="token-148-1" pos="unknown" morph="none" start_char="5071" end_char="5087">orig_author="狼浪"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-149" start_char="5089" end_char="5119">
+<ORIGINAL_TEXT>&lt;quote orig_author="giga_fans"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-149-0" pos="unknown" morph="none" start_char="5089" end_char="5094">&lt;quote</TOKEN>
+<TOKEN id="token-149-1" pos="unknown" morph="none" start_char="5096" end_char="5119">orig_author="giga_fans"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-150" start_char="5121" end_char="5144">
+<ORIGINAL_TEXT>&lt;quote orig_author="狼浪"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-150-0" pos="unknown" morph="none" start_char="5121" end_char="5126">&lt;quote</TOKEN>
+<TOKEN id="token-150-1" pos="unknown" morph="none" start_char="5128" end_char="5144">orig_author="狼浪"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-151" start_char="5146" end_char="5176">
+<ORIGINAL_TEXT>&lt;quote orig_author="giga_fans"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-151-0" pos="unknown" morph="none" start_char="5146" end_char="5151">&lt;quote</TOKEN>
+<TOKEN id="token-151-1" pos="unknown" morph="none" start_char="5153" end_char="5176">orig_author="giga_fans"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-152" start_char="5178" end_char="5192">
+<ORIGINAL_TEXT>监听行为获得法院批准是合法的。</ORIGINAL_TEXT>
+<TOKEN id="token-152-0" pos="word" morph="none" start_char="5178" end_char="5191">监听行为获得法院批准是合法的</TOKEN>
+<TOKEN id="token-152-1" pos="punct" morph="none" start_char="5192" end_char="5192">。</TOKEN>
+</SEG>
+<SEG id="segment-153" start_char="5194" end_char="5216">
+<ORIGINAL_TEXT>但是未得到法院批准前就监听，在美国是违法行为。</ORIGINAL_TEXT>
+<TOKEN id="token-153-0" pos="word" morph="none" start_char="5194" end_char="5206">但是未得到法院批准前就监听</TOKEN>
+<TOKEN id="token-153-1" pos="punct" morph="none" start_char="5207" end_char="5207">，</TOKEN>
+<TOKEN id="token-153-2" pos="word" morph="none" start_char="5208" end_char="5215">在美国是违法行为</TOKEN>
+<TOKEN id="token-153-3" pos="punct" morph="none" start_char="5216" end_char="5216">。</TOKEN>
+</SEG>
+<SEG id="segment-154" start_char="5218" end_char="5279">
+<ORIGINAL_TEXT>斯诺登爆料说，NSA打擦边球，一边申请法院令的同时一边就在监听了，这样行为有“数千起”。按照美国法律，这样的窃听也是违法的。</ORIGINAL_TEXT>
+<TOKEN id="token-154-0" pos="unknown" morph="none" start_char="5218" end_char="5279">斯诺登爆料说，NSA打擦边球，一边申请法院令的同时一边就在监听了，这样行为有“数千起”。按照美国法律，这样的窃听也是违法的。</TOKEN>
+</SEG>
+<SEG id="segment-155" start_char="5281" end_char="5285">
+<ORIGINAL_TEXT>加强学习。</ORIGINAL_TEXT>
+<TOKEN id="token-155-0" pos="word" morph="none" start_char="5281" end_char="5284">加强学习</TOKEN>
+<TOKEN id="token-155-1" pos="punct" morph="none" start_char="5285" end_char="5285">。</TOKEN>
+</SEG>
+<SEG id="segment-156" start_char="5287" end_char="5332">
+<ORIGINAL_TEXT>至于“大规模监听”（即从往来电讯中随机拦截敏感词信息），大概只有在美国，才会被视为违法行为。</ORIGINAL_TEXT>
+<TOKEN id="token-156-0" pos="unknown" morph="none" start_char="5287" end_char="5332">至于“大规模监听”（即从往来电讯中随机拦截敏感词信息），大概只有在美国，才会被视为违法行为。</TOKEN>
+</SEG>
+<SEG id="segment-157" start_char="5334" end_char="5341">
+<ORIGINAL_TEXT>&lt;/quote&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-157-0" pos="unknown" morph="none" start_char="5334" end_char="5341">&lt;/quote&gt;</TOKEN>
+</SEG>
+<SEG id="segment-158" start_char="5343" end_char="5357">
+<ORIGINAL_TEXT>监听行为获得法院批准是合法的。</ORIGINAL_TEXT>
+<TOKEN id="token-158-0" pos="word" morph="none" start_char="5343" end_char="5356">监听行为获得法院批准是合法的</TOKEN>
+<TOKEN id="token-158-1" pos="punct" morph="none" start_char="5357" end_char="5357">。</TOKEN>
+</SEG>
+<SEG id="segment-159" start_char="5359" end_char="5387">
+<ORIGINAL_TEXT>=============================</ORIGINAL_TEXT>
+<TOKEN id="token-159-0" pos="unknown" morph="none" start_char="5359" end_char="5387">=============================</TOKEN>
+</SEG>
+<SEG id="segment-160" start_char="5389" end_char="5413">
+<ORIGINAL_TEXT>什么法院！！！是最低端的县法院 还是最高法院???</ORIGINAL_TEXT>
+<TOKEN id="token-160-0" pos="word" morph="none" start_char="5389" end_char="5392">什么法院</TOKEN>
+<TOKEN id="token-160-1" pos="punct" morph="none" start_char="5393" end_char="5395">！！！</TOKEN>
+<TOKEN id="token-160-2" pos="word" morph="none" start_char="5396" end_char="5403">是最低端的县法院</TOKEN>
+<TOKEN id="token-160-3" pos="word" morph="none" start_char="5405" end_char="5410">还是最高法院</TOKEN>
+<TOKEN id="token-160-4" pos="punct" morph="none" start_char="5411" end_char="5413">???</TOKEN>
+</SEG>
+<SEG id="segment-161" start_char="5415" end_char="5422">
+<ORIGINAL_TEXT>&lt;/quote&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-161-0" pos="unknown" morph="none" start_char="5415" end_char="5422">&lt;/quote&gt;</TOKEN>
+</SEG>
+<SEG id="segment-162" start_char="5424" end_char="5450">
+<ORIGINAL_TEXT>你告诉我，“最低法院”是什么？“最高端法院”又是什么？</ORIGINAL_TEXT>
+<TOKEN id="token-162-0" pos="unknown" morph="none" start_char="5424" end_char="5450">你告诉我，“最低法院”是什么？“最高端法院”又是什么？</TOKEN>
+</SEG>
+<SEG id="segment-163" start_char="5453" end_char="5575">
+<ORIGINAL_TEXT>海洋法观念中，并无“上下级法院”关系，也不存在神州的“法院是用来打官司”“惩处罪犯”的概念。为了任何一个事务组织委员会，这个council就有了法院的概念，美国的郡法院，州法院并非联邦最高法院的下级，联邦巡回法院对于州法院也并无管辖关系。加强学习</ORIGINAL_TEXT>
+<TOKEN id="token-163-0" pos="unknown" morph="none" start_char="5453" end_char="5575">海洋法观念中，并无“上下级法院”关系，也不存在神州的“法院是用来打官司”“惩处罪犯”的概念。为了任何一个事务组织委员会，这个council就有了法院的概念，美国的郡法院，州法院并非联邦最高法院的下级，联邦巡回法院对于州法院也并无管辖关系。加强学习</TOKEN>
+</SEG>
+<SEG id="segment-164" start_char="5578" end_char="5701">
+<ORIGINAL_TEXT>对于监听，需要法院授权现在已经是多国普遍的情况，美国NSA要窃听某人，需要有相应管辖权的法院申请。如果想要窃听一个杀人嫌犯的电信，需要向案件管辖地的法院申请，而如果涉及恐怖分子的，则向联邦法院申请（涉嫌恐怖行为的，属于触犯联邦法的罪行）。明白了吗？</ORIGINAL_TEXT>
+<TOKEN id="token-164-0" pos="unknown" morph="none" start_char="5578" end_char="5701">对于监听，需要法院授权现在已经是多国普遍的情况，美国NSA要窃听某人，需要有相应管辖权的法院申请。如果想要窃听一个杀人嫌犯的电信，需要向案件管辖地的法院申请，而如果涉及恐怖分子的，则向联邦法院申请（涉嫌恐怖行为的，属于触犯联邦法的罪行）。明白了吗？</TOKEN>
+</SEG>
+<SEG id="segment-165" start_char="5704" end_char="5917">
+<ORIGINAL_TEXT>问题在于NSA经常在监听中忽然发现某人，因为对于此人监听并不在批准名单中，因此必须立即向法院申请。而要命的是这样的申请会导致延时，而授权令下达，此人可能早就完成了联系而失踪了-----911前就发生过这样的事情，FBI得知有2个和恐怖组织有关的沙特人从德国入境美国（情报由沙特情报局提出，经CIA转交给FBI），但是等FBI得到法院授权去搜查那两人住的旅馆时，发现他们已经离开----后来才发现，这两人就是911事件中的劫机犯。</ORIGINAL_TEXT>
+<TOKEN id="token-165-0" pos="unknown" morph="none" start_char="5704" end_char="5917">问题在于NSA经常在监听中忽然发现某人，因为对于此人监听并不在批准名单中，因此必须立即向法院申请。而要命的是这样的申请会导致延时，而授权令下达，此人可能早就完成了联系而失踪了-----911前就发生过这样的事情，FBI得知有2个和恐怖组织有关的沙特人从德国入境美国（情报由沙特情报局提出，经CIA转交给FBI），但是等FBI得到法院授权去搜查那两人住的旅馆时，发现他们已经离开----后来才发现，这两人就是911事件中的劫机犯。</TOKEN>
+</SEG>
+<SEG id="segment-166" start_char="5920" end_char="5976">
+<ORIGINAL_TEXT>因此后来NSA以“追求效率”为名，经常就搞“边申请边监听”的花样。不过在斯诺登看来，这是严重违背信息自由化观点的。</ORIGINAL_TEXT>
+<TOKEN id="token-166-0" pos="unknown" morph="none" start_char="5920" end_char="5976">因此后来NSA以“追求效率”为名，经常就搞“边申请边监听”的花样。不过在斯诺登看来，这是严重违背信息自由化观点的。</TOKEN>
+</SEG>
+<SEG id="segment-167" start_char="5978" end_char="5985">
+<ORIGINAL_TEXT>&lt;/quote&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-167-0" pos="unknown" morph="none" start_char="5978" end_char="5985">&lt;/quote&gt;</TOKEN>
+</SEG>
+<SEG id="segment-168" start_char="5987" end_char="6026">
+<ORIGINAL_TEXT>关键是什么法院有资格解释宪法...而阁下显然是顾左右而言其他...洗地效率太差。</ORIGINAL_TEXT>
+<TOKEN id="token-168-0" pos="unknown" morph="none" start_char="5987" end_char="6026">关键是什么法院有资格解释宪法...而阁下显然是顾左右而言其他...洗地效率太差。</TOKEN>
+</SEG>
+<SEG id="segment-169" start_char="6028" end_char="6035">
+<ORIGINAL_TEXT>&lt;/quote&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-169-0" pos="unknown" morph="none" start_char="6028" end_char="6035">&lt;/quote&gt;</TOKEN>
+</SEG>
+<SEG id="segment-170" start_char="6037" end_char="6091">
+<ORIGINAL_TEXT>？？？在美国，解释宪法的最高法院，加强学习。但是批准监听的不是最高法院，而是各个实际案件的管辖法院，明白了吗？</ORIGINAL_TEXT>
+<TOKEN id="token-170-0" pos="unknown" morph="none" start_char="6037" end_char="6091">？？？在美国，解释宪法的最高法院，加强学习。但是批准监听的不是最高法院，而是各个实际案件的管辖法院，明白了吗？</TOKEN>
+</SEG>
+<SEG id="segment-171" start_char="6095" end_char="6190">
+<ORIGINAL_TEXT>关于民权组织提出的监听侵权，最高法院曾以5：4否决了这个case，也就是说最高法院的裁定是只要法院批准（合乎法律流程）的监听是合法的，而信息自由者宣扬的“绝对信息自由”并不符合美国宪法的概念。</ORIGINAL_TEXT>
+<TOKEN id="token-171-0" pos="unknown" morph="none" start_char="6095" end_char="6190">关于民权组织提出的监听侵权，最高法院曾以5：4否决了这个case，也就是说最高法院的裁定是只要法院批准（合乎法律流程）的监听是合法的，而信息自由者宣扬的“绝对信息自由”并不符合美国宪法的概念。</TOKEN>
+</SEG>
+<SEG id="segment-172" start_char="6192" end_char="6198">
+<ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-172-0" pos="unknown" morph="none" start_char="6192" end_char="6198">&lt;/post&gt;</TOKEN>
+</SEG>
+<SEG id="segment-173" start_char="6200" end_char="6261">
+<ORIGINAL_TEXT>&lt;post id="p21" author="吹短笛的时候" datetime="2015-05-12T14:15:53"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-173-0" pos="unknown" morph="none" start_char="6200" end_char="6204">&lt;post</TOKEN>
+<TOKEN id="token-173-1" pos="unknown" morph="none" start_char="6206" end_char="6213">id="p21"</TOKEN>
+<TOKEN id="token-173-2" pos="unknown" morph="none" start_char="6215" end_char="6229">author="吹短笛的时候"</TOKEN>
+<TOKEN id="token-173-3" pos="unknown" morph="none" start_char="6231" end_char="6261">datetime="2015-05-12T14:15:53"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-174" start_char="6263" end_char="6276">
+<ORIGINAL_TEXT>美国法院管得太宽，太嚣张了。</ORIGINAL_TEXT>
+<TOKEN id="token-174-0" pos="word" morph="none" start_char="6263" end_char="6270">美国法院管得太宽</TOKEN>
+<TOKEN id="token-174-1" pos="punct" morph="none" start_char="6271" end_char="6271">，</TOKEN>
+<TOKEN id="token-174-2" pos="word" morph="none" start_char="6272" end_char="6275">太嚣张了</TOKEN>
+<TOKEN id="token-174-3" pos="punct" morph="none" start_char="6276" end_char="6276">。</TOKEN>
+</SEG>
+<SEG id="segment-175" start_char="6278" end_char="6284">
+<ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-175-0" pos="unknown" morph="none" start_char="6278" end_char="6284">&lt;/post&gt;</TOKEN>
+</SEG>
+<SEG id="segment-176" start_char="6286" end_char="6343">
+<ORIGINAL_TEXT>&lt;post id="p22" author="狼浪" datetime="2015-05-12T14:38:57"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-176-0" pos="unknown" morph="none" start_char="6286" end_char="6290">&lt;post</TOKEN>
+<TOKEN id="token-176-1" pos="unknown" morph="none" start_char="6292" end_char="6299">id="p22"</TOKEN>
+<TOKEN id="token-176-2" pos="unknown" morph="none" start_char="6301" end_char="6311">author="狼浪"</TOKEN>
+<TOKEN id="token-176-3" pos="unknown" morph="none" start_char="6313" end_char="6343">datetime="2015-05-12T14:38:57"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-177" start_char="6345" end_char="6375">
+<ORIGINAL_TEXT>&lt;quote orig_author="giga_fans"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-177-0" pos="unknown" morph="none" start_char="6345" end_char="6350">&lt;quote</TOKEN>
+<TOKEN id="token-177-1" pos="unknown" morph="none" start_char="6352" end_char="6375">orig_author="giga_fans"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-178" start_char="6377" end_char="6400">
+<ORIGINAL_TEXT>&lt;quote orig_author="狼浪"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-178-0" pos="unknown" morph="none" start_char="6377" end_char="6382">&lt;quote</TOKEN>
+<TOKEN id="token-178-1" pos="unknown" morph="none" start_char="6384" end_char="6400">orig_author="狼浪"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-179" start_char="6402" end_char="6432">
+<ORIGINAL_TEXT>&lt;quote orig_author="giga_fans"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-179-0" pos="unknown" morph="none" start_char="6402" end_char="6407">&lt;quote</TOKEN>
+<TOKEN id="token-179-1" pos="unknown" morph="none" start_char="6409" end_char="6432">orig_author="giga_fans"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-180" start_char="6434" end_char="6457">
+<ORIGINAL_TEXT>&lt;quote orig_author="狼浪"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-180-0" pos="unknown" morph="none" start_char="6434" end_char="6439">&lt;quote</TOKEN>
+<TOKEN id="token-180-1" pos="unknown" morph="none" start_char="6441" end_char="6457">orig_author="狼浪"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-181" start_char="6459" end_char="6489">
+<ORIGINAL_TEXT>&lt;quote orig_author="giga_fans"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-181-0" pos="unknown" morph="none" start_char="6459" end_char="6464">&lt;quote</TOKEN>
+<TOKEN id="token-181-1" pos="unknown" morph="none" start_char="6466" end_char="6489">orig_author="giga_fans"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-182" start_char="6491" end_char="6505">
+<ORIGINAL_TEXT>监听行为获得法院批准是合法的。</ORIGINAL_TEXT>
+<TOKEN id="token-182-0" pos="word" morph="none" start_char="6491" end_char="6504">监听行为获得法院批准是合法的</TOKEN>
+<TOKEN id="token-182-1" pos="punct" morph="none" start_char="6505" end_char="6505">。</TOKEN>
+</SEG>
+<SEG id="segment-183" start_char="6507" end_char="6529">
+<ORIGINAL_TEXT>但是未得到法院批准前就监听，在美国是违法行为。</ORIGINAL_TEXT>
+<TOKEN id="token-183-0" pos="word" morph="none" start_char="6507" end_char="6519">但是未得到法院批准前就监听</TOKEN>
+<TOKEN id="token-183-1" pos="punct" morph="none" start_char="6520" end_char="6520">，</TOKEN>
+<TOKEN id="token-183-2" pos="word" morph="none" start_char="6521" end_char="6528">在美国是违法行为</TOKEN>
+<TOKEN id="token-183-3" pos="punct" morph="none" start_char="6529" end_char="6529">。</TOKEN>
+</SEG>
+<SEG id="segment-184" start_char="6531" end_char="6592">
+<ORIGINAL_TEXT>斯诺登爆料说，NSA打擦边球，一边申请法院令的同时一边就在监听了，这样行为有“数千起”。按照美国法律，这样的窃听也是违法的。</ORIGINAL_TEXT>
+<TOKEN id="token-184-0" pos="unknown" morph="none" start_char="6531" end_char="6592">斯诺登爆料说，NSA打擦边球，一边申请法院令的同时一边就在监听了，这样行为有“数千起”。按照美国法律，这样的窃听也是违法的。</TOKEN>
+</SEG>
+<SEG id="segment-185" start_char="6594" end_char="6598">
+<ORIGINAL_TEXT>加强学习。</ORIGINAL_TEXT>
+<TOKEN id="token-185-0" pos="word" morph="none" start_char="6594" end_char="6597">加强学习</TOKEN>
+<TOKEN id="token-185-1" pos="punct" morph="none" start_char="6598" end_char="6598">。</TOKEN>
+</SEG>
+<SEG id="segment-186" start_char="6600" end_char="6645">
+<ORIGINAL_TEXT>至于“大规模监听”（即从往来电讯中随机拦截敏感词信息），大概只有在美国，才会被视为违法行为。</ORIGINAL_TEXT>
+<TOKEN id="token-186-0" pos="unknown" morph="none" start_char="6600" end_char="6645">至于“大规模监听”（即从往来电讯中随机拦截敏感词信息），大概只有在美国，才会被视为违法行为。</TOKEN>
+</SEG>
+<SEG id="segment-187" start_char="6647" end_char="6654">
+<ORIGINAL_TEXT>&lt;/quote&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-187-0" pos="unknown" morph="none" start_char="6647" end_char="6654">&lt;/quote&gt;</TOKEN>
+</SEG>
+<SEG id="segment-188" start_char="6656" end_char="6670">
+<ORIGINAL_TEXT>监听行为获得法院批准是合法的。</ORIGINAL_TEXT>
+<TOKEN id="token-188-0" pos="word" morph="none" start_char="6656" end_char="6669">监听行为获得法院批准是合法的</TOKEN>
+<TOKEN id="token-188-1" pos="punct" morph="none" start_char="6670" end_char="6670">。</TOKEN>
+</SEG>
+<SEG id="segment-189" start_char="6672" end_char="6700">
+<ORIGINAL_TEXT>=============================</ORIGINAL_TEXT>
+<TOKEN id="token-189-0" pos="unknown" morph="none" start_char="6672" end_char="6700">=============================</TOKEN>
+</SEG>
+<SEG id="segment-190" start_char="6702" end_char="6726">
+<ORIGINAL_TEXT>什么法院！！！是最低端的县法院 还是最高法院???</ORIGINAL_TEXT>
+<TOKEN id="token-190-0" pos="word" morph="none" start_char="6702" end_char="6705">什么法院</TOKEN>
+<TOKEN id="token-190-1" pos="punct" morph="none" start_char="6706" end_char="6708">！！！</TOKEN>
+<TOKEN id="token-190-2" pos="word" morph="none" start_char="6709" end_char="6716">是最低端的县法院</TOKEN>
+<TOKEN id="token-190-3" pos="word" morph="none" start_char="6718" end_char="6723">还是最高法院</TOKEN>
+<TOKEN id="token-190-4" pos="punct" morph="none" start_char="6724" end_char="6726">???</TOKEN>
+</SEG>
+<SEG id="segment-191" start_char="6728" end_char="6735">
+<ORIGINAL_TEXT>&lt;/quote&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-191-0" pos="unknown" morph="none" start_char="6728" end_char="6735">&lt;/quote&gt;</TOKEN>
+</SEG>
+<SEG id="segment-192" start_char="6737" end_char="6763">
+<ORIGINAL_TEXT>你告诉我，“最低法院”是什么？“最高端法院”又是什么？</ORIGINAL_TEXT>
+<TOKEN id="token-192-0" pos="unknown" morph="none" start_char="6737" end_char="6763">你告诉我，“最低法院”是什么？“最高端法院”又是什么？</TOKEN>
+</SEG>
+<SEG id="segment-193" start_char="6766" end_char="6888">
+<ORIGINAL_TEXT>海洋法观念中，并无“上下级法院”关系，也不存在神州的“法院是用来打官司”“惩处罪犯”的概念。为了任何一个事务组织委员会，这个council就有了法院的概念，美国的郡法院，州法院并非联邦最高法院的下级，联邦巡回法院对于州法院也并无管辖关系。加强学习</ORIGINAL_TEXT>
+<TOKEN id="token-193-0" pos="unknown" morph="none" start_char="6766" end_char="6888">海洋法观念中，并无“上下级法院”关系，也不存在神州的“法院是用来打官司”“惩处罪犯”的概念。为了任何一个事务组织委员会，这个council就有了法院的概念，美国的郡法院，州法院并非联邦最高法院的下级，联邦巡回法院对于州法院也并无管辖关系。加强学习</TOKEN>
+</SEG>
+<SEG id="segment-194" start_char="6891" end_char="7014">
+<ORIGINAL_TEXT>对于监听，需要法院授权现在已经是多国普遍的情况，美国NSA要窃听某人，需要有相应管辖权的法院申请。如果想要窃听一个杀人嫌犯的电信，需要向案件管辖地的法院申请，而如果涉及恐怖分子的，则向联邦法院申请（涉嫌恐怖行为的，属于触犯联邦法的罪行）。明白了吗？</ORIGINAL_TEXT>
+<TOKEN id="token-194-0" pos="unknown" morph="none" start_char="6891" end_char="7014">对于监听，需要法院授权现在已经是多国普遍的情况，美国NSA要窃听某人，需要有相应管辖权的法院申请。如果想要窃听一个杀人嫌犯的电信，需要向案件管辖地的法院申请，而如果涉及恐怖分子的，则向联邦法院申请（涉嫌恐怖行为的，属于触犯联邦法的罪行）。明白了吗？</TOKEN>
+</SEG>
+<SEG id="segment-195" start_char="7017" end_char="7230">
+<ORIGINAL_TEXT>问题在于NSA经常在监听中忽然发现某人，因为对于此人监听并不在批准名单中，因此必须立即向法院申请。而要命的是这样的申请会导致延时，而授权令下达，此人可能早就完成了联系而失踪了-----911前就发生过这样的事情，FBI得知有2个和恐怖组织有关的沙特人从德国入境美国（情报由沙特情报局提出，经CIA转交给FBI），但是等FBI得到法院授权去搜查那两人住的旅馆时，发现他们已经离开----后来才发现，这两人就是911事件中的劫机犯。</ORIGINAL_TEXT>
+<TOKEN id="token-195-0" pos="unknown" morph="none" start_char="7017" end_char="7230">问题在于NSA经常在监听中忽然发现某人，因为对于此人监听并不在批准名单中，因此必须立即向法院申请。而要命的是这样的申请会导致延时，而授权令下达，此人可能早就完成了联系而失踪了-----911前就发生过这样的事情，FBI得知有2个和恐怖组织有关的沙特人从德国入境美国（情报由沙特情报局提出，经CIA转交给FBI），但是等FBI得到法院授权去搜查那两人住的旅馆时，发现他们已经离开----后来才发现，这两人就是911事件中的劫机犯。</TOKEN>
+</SEG>
+<SEG id="segment-196" start_char="7233" end_char="7289">
+<ORIGINAL_TEXT>因此后来NSA以“追求效率”为名，经常就搞“边申请边监听”的花样。不过在斯诺登看来，这是严重违背信息自由化观点的。</ORIGINAL_TEXT>
+<TOKEN id="token-196-0" pos="unknown" morph="none" start_char="7233" end_char="7289">因此后来NSA以“追求效率”为名，经常就搞“边申请边监听”的花样。不过在斯诺登看来，这是严重违背信息自由化观点的。</TOKEN>
+</SEG>
+<SEG id="segment-197" start_char="7291" end_char="7298">
+<ORIGINAL_TEXT>&lt;/quote&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-197-0" pos="unknown" morph="none" start_char="7291" end_char="7298">&lt;/quote&gt;</TOKEN>
+</SEG>
+<SEG id="segment-198" start_char="7300" end_char="7339">
+<ORIGINAL_TEXT>关键是什么法院有资格解释宪法...而阁下显然是顾左右而言其他...洗地效率太差。</ORIGINAL_TEXT>
+<TOKEN id="token-198-0" pos="unknown" morph="none" start_char="7300" end_char="7339">关键是什么法院有资格解释宪法...而阁下显然是顾左右而言其他...洗地效率太差。</TOKEN>
+</SEG>
+<SEG id="segment-199" start_char="7341" end_char="7348">
+<ORIGINAL_TEXT>&lt;/quote&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-199-0" pos="unknown" morph="none" start_char="7341" end_char="7348">&lt;/quote&gt;</TOKEN>
+</SEG>
+<SEG id="segment-200" start_char="7350" end_char="7404">
+<ORIGINAL_TEXT>？？？在美国，解释宪法的最高法院，加强学习。但是批准监听的不是最高法院，而是各个实际案件的管辖法院，明白了吗？</ORIGINAL_TEXT>
+<TOKEN id="token-200-0" pos="unknown" morph="none" start_char="7350" end_char="7404">？？？在美国，解释宪法的最高法院，加强学习。但是批准监听的不是最高法院，而是各个实际案件的管辖法院，明白了吗？</TOKEN>
+</SEG>
+<SEG id="segment-201" start_char="7408" end_char="7503">
+<ORIGINAL_TEXT>关于民权组织提出的监听侵权，最高法院曾以5：4否决了这个case，也就是说最高法院的裁定是只要法院批准（合乎法律流程）的监听是合法的，而信息自由者宣扬的“绝对信息自由”并不符合美国宪法的概念。</ORIGINAL_TEXT>
+<TOKEN id="token-201-0" pos="unknown" morph="none" start_char="7408" end_char="7503">关于民权组织提出的监听侵权，最高法院曾以5：4否决了这个case，也就是说最高法院的裁定是只要法院批准（合乎法律流程）的监听是合法的，而信息自由者宣扬的“绝对信息自由”并不符合美国宪法的概念。</TOKEN>
+</SEG>
+<SEG id="segment-202" start_char="7505" end_char="7512">
+<ORIGINAL_TEXT>&lt;/quote&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-202-0" pos="unknown" morph="none" start_char="7505" end_char="7512">&lt;/quote&gt;</TOKEN>
+</SEG>
+<SEG id="segment-203" start_char="7514" end_char="7585">
+<ORIGINAL_TEXT>除了最高法院，还有那个法院可以管辖所有美国人与机构，请注意一个基本事实，截至目前的资料，并未有证据现实所谓的最高法院的大法官，不再监听范围之内。</ORIGINAL_TEXT>
+<TOKEN id="token-203-0" pos="unknown" morph="none" start_char="7514" end_char="7585">除了最高法院，还有那个法院可以管辖所有美国人与机构，请注意一个基本事实，截至目前的资料，并未有证据现实所谓的最高法院的大法官，不再监听范围之内。</TOKEN>
+</SEG>
+<SEG id="segment-204" start_char="7587" end_char="7593">
+<ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-204-0" pos="unknown" morph="none" start_char="7587" end_char="7593">&lt;/post&gt;</TOKEN>
+</SEG>
+<SEG id="segment-205" start_char="7595" end_char="7659">
+<ORIGINAL_TEXT>&lt;post id="p23" author="giga_fans" datetime="2015-05-12T14:43:25"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-205-0" pos="unknown" morph="none" start_char="7595" end_char="7599">&lt;post</TOKEN>
+<TOKEN id="token-205-1" pos="unknown" morph="none" start_char="7601" end_char="7608">id="p23"</TOKEN>
+<TOKEN id="token-205-2" pos="unknown" morph="none" start_char="7610" end_char="7627">author="giga_fans"</TOKEN>
+<TOKEN id="token-205-3" pos="unknown" morph="none" start_char="7629" end_char="7659">datetime="2015-05-12T14:43:25"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-206" start_char="7661" end_char="7706">
+<ORIGINAL_TEXT>1，美国最高法院以5:4否决信息自由主义的民权组织提出诉讼，可以参见百度，你不会查可以自学；</ORIGINAL_TEXT>
+<TOKEN id="token-206-0" pos="unknown" morph="none" start_char="7661" end_char="7706">1，美国最高法院以5:4否决信息自由主义的民权组织提出诉讼，可以参见百度，你不会查可以自学；</TOKEN>
+</SEG>
+<SEG id="segment-207" start_char="7708" end_char="7831">
+<ORIGINAL_TEXT>2, 本世纪初，美国最高法院在几起恐怖嫌犯诉讼小布什，拉姆斯菲尔德（当时国防部长）的案子中支持了恐怖嫌犯的要求，其结果是出现了美国最高法院裁决，即便不是在美国本土，只要在美国政府控制之下的嫌犯也拥有美国宪法所赋予的基本民权------人身保护令权。</ORIGINAL_TEXT>
+<TOKEN id="token-207-0" pos="word" morph="none" start_char="7708" end_char="7708">2</TOKEN>
+<TOKEN id="token-207-1" pos="punct" morph="none" start_char="7709" end_char="7709">,</TOKEN>
+<TOKEN id="token-207-2" pos="unknown" morph="none" start_char="7711" end_char="7831">本世纪初，美国最高法院在几起恐怖嫌犯诉讼小布什，拉姆斯菲尔德（当时国防部长）的案子中支持了恐怖嫌犯的要求，其结果是出现了美国最高法院裁决，即便不是在美国本土，只要在美国政府控制之下的嫌犯也拥有美国宪法所赋予的基本民权------人身保护令权。</TOKEN>
+</SEG>
+<SEG id="segment-208" start_char="7833" end_char="7865">
+<ORIGINAL_TEXT>[ 转自铁血社区 http://bbs.tiexue.net/ ]</ORIGINAL_TEXT>
+<TOKEN id="token-208-0" pos="unknown" morph="none" start_char="7833" end_char="7833">[</TOKEN>
+<TOKEN id="token-208-1" pos="word" morph="none" start_char="7835" end_char="7840">转自铁血社区</TOKEN>
+<TOKEN id="token-208-2" pos="url" morph="none" start_char="7842" end_char="7863">http://bbs.tiexue.net/</TOKEN>
+<TOKEN id="token-208-3" pos="unknown" morph="none" start_char="7865" end_char="7865">]</TOKEN>
+</SEG>
+<SEG id="segment-209" start_char="7867" end_char="7943">
+<ORIGINAL_TEXT>因此经美国国会批准，美国政府被迫组织“军事委员会”（即军事法庭）负责审理关塔那摩被关押的恐怖嫌犯，如果没有足够证据或者羁押期限已经超过刑期的立即予以释放。</ORIGINAL_TEXT>
+<TOKEN id="token-209-0" pos="unknown" morph="none" start_char="7867" end_char="7943">因此经美国国会批准，美国政府被迫组织“军事委员会”（即军事法庭）负责审理关塔那摩被关押的恐怖嫌犯，如果没有足够证据或者羁押期限已经超过刑期的立即予以释放。</TOKEN>
+</SEG>
+<SEG id="segment-210" start_char="7945" end_char="7951">
+<ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-210-0" pos="unknown" morph="none" start_char="7945" end_char="7951">&lt;/post&gt;</TOKEN>
+</SEG>
+<SEG id="segment-211" start_char="7953" end_char="8010">
+<ORIGINAL_TEXT>&lt;post id="p24" author="狼浪" datetime="2015-05-12T14:49:35"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-211-0" pos="unknown" morph="none" start_char="7953" end_char="7957">&lt;post</TOKEN>
+<TOKEN id="token-211-1" pos="unknown" morph="none" start_char="7959" end_char="7966">id="p24"</TOKEN>
+<TOKEN id="token-211-2" pos="unknown" morph="none" start_char="7968" end_char="7978">author="狼浪"</TOKEN>
+<TOKEN id="token-211-3" pos="unknown" morph="none" start_char="7980" end_char="8010">datetime="2015-05-12T14:49:35"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-212" start_char="8012" end_char="8042">
+<ORIGINAL_TEXT>&lt;quote orig_author="giga_fans"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-212-0" pos="unknown" morph="none" start_char="8012" end_char="8017">&lt;quote</TOKEN>
+<TOKEN id="token-212-1" pos="unknown" morph="none" start_char="8019" end_char="8042">orig_author="giga_fans"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-213" start_char="8044" end_char="8067">
+<ORIGINAL_TEXT>&lt;quote orig_author="狼浪"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-213-0" pos="unknown" morph="none" start_char="8044" end_char="8049">&lt;quote</TOKEN>
+<TOKEN id="token-213-1" pos="unknown" morph="none" start_char="8051" end_char="8067">orig_author="狼浪"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-214" start_char="8069" end_char="8099">
+<ORIGINAL_TEXT>&lt;quote orig_author="giga_fans"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-214-0" pos="unknown" morph="none" start_char="8069" end_char="8074">&lt;quote</TOKEN>
+<TOKEN id="token-214-1" pos="unknown" morph="none" start_char="8076" end_char="8099">orig_author="giga_fans"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-215" start_char="8101" end_char="8124">
+<ORIGINAL_TEXT>&lt;quote orig_author="狼浪"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-215-0" pos="unknown" morph="none" start_char="8101" end_char="8106">&lt;quote</TOKEN>
+<TOKEN id="token-215-1" pos="unknown" morph="none" start_char="8108" end_char="8124">orig_author="狼浪"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-216" start_char="8126" end_char="8156">
+<ORIGINAL_TEXT>&lt;quote orig_author="giga_fans"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-216-0" pos="unknown" morph="none" start_char="8126" end_char="8131">&lt;quote</TOKEN>
+<TOKEN id="token-216-1" pos="unknown" morph="none" start_char="8133" end_char="8156">orig_author="giga_fans"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-217" start_char="8158" end_char="8172">
+<ORIGINAL_TEXT>监听行为获得法院批准是合法的。</ORIGINAL_TEXT>
+<TOKEN id="token-217-0" pos="word" morph="none" start_char="8158" end_char="8171">监听行为获得法院批准是合法的</TOKEN>
+<TOKEN id="token-217-1" pos="punct" morph="none" start_char="8172" end_char="8172">。</TOKEN>
+</SEG>
+<SEG id="segment-218" start_char="8174" end_char="8196">
+<ORIGINAL_TEXT>但是未得到法院批准前就监听，在美国是违法行为。</ORIGINAL_TEXT>
+<TOKEN id="token-218-0" pos="word" morph="none" start_char="8174" end_char="8186">但是未得到法院批准前就监听</TOKEN>
+<TOKEN id="token-218-1" pos="punct" morph="none" start_char="8187" end_char="8187">，</TOKEN>
+<TOKEN id="token-218-2" pos="word" morph="none" start_char="8188" end_char="8195">在美国是违法行为</TOKEN>
+<TOKEN id="token-218-3" pos="punct" morph="none" start_char="8196" end_char="8196">。</TOKEN>
+</SEG>
+<SEG id="segment-219" start_char="8198" end_char="8259">
+<ORIGINAL_TEXT>斯诺登爆料说，NSA打擦边球，一边申请法院令的同时一边就在监听了，这样行为有“数千起”。按照美国法律，这样的窃听也是违法的。</ORIGINAL_TEXT>
+<TOKEN id="token-219-0" pos="unknown" morph="none" start_char="8198" end_char="8259">斯诺登爆料说，NSA打擦边球，一边申请法院令的同时一边就在监听了，这样行为有“数千起”。按照美国法律，这样的窃听也是违法的。</TOKEN>
+</SEG>
+<SEG id="segment-220" start_char="8261" end_char="8265">
+<ORIGINAL_TEXT>加强学习。</ORIGINAL_TEXT>
+<TOKEN id="token-220-0" pos="word" morph="none" start_char="8261" end_char="8264">加强学习</TOKEN>
+<TOKEN id="token-220-1" pos="punct" morph="none" start_char="8265" end_char="8265">。</TOKEN>
+</SEG>
+<SEG id="segment-221" start_char="8267" end_char="8312">
+<ORIGINAL_TEXT>至于“大规模监听”（即从往来电讯中随机拦截敏感词信息），大概只有在美国，才会被视为违法行为。</ORIGINAL_TEXT>
+<TOKEN id="token-221-0" pos="unknown" morph="none" start_char="8267" end_char="8312">至于“大规模监听”（即从往来电讯中随机拦截敏感词信息），大概只有在美国，才会被视为违法行为。</TOKEN>
+</SEG>
+<SEG id="segment-222" start_char="8314" end_char="8321">
+<ORIGINAL_TEXT>&lt;/quote&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-222-0" pos="unknown" morph="none" start_char="8314" end_char="8321">&lt;/quote&gt;</TOKEN>
+</SEG>
+<SEG id="segment-223" start_char="8323" end_char="8337">
+<ORIGINAL_TEXT>监听行为获得法院批准是合法的。</ORIGINAL_TEXT>
+<TOKEN id="token-223-0" pos="word" morph="none" start_char="8323" end_char="8336">监听行为获得法院批准是合法的</TOKEN>
+<TOKEN id="token-223-1" pos="punct" morph="none" start_char="8337" end_char="8337">。</TOKEN>
+</SEG>
+<SEG id="segment-224" start_char="8339" end_char="8367">
+<ORIGINAL_TEXT>=============================</ORIGINAL_TEXT>
+<TOKEN id="token-224-0" pos="unknown" morph="none" start_char="8339" end_char="8367">=============================</TOKEN>
+</SEG>
+<SEG id="segment-225" start_char="8369" end_char="8393">
+<ORIGINAL_TEXT>什么法院！！！是最低端的县法院 还是最高法院???</ORIGINAL_TEXT>
+<TOKEN id="token-225-0" pos="word" morph="none" start_char="8369" end_char="8372">什么法院</TOKEN>
+<TOKEN id="token-225-1" pos="punct" morph="none" start_char="8373" end_char="8375">！！！</TOKEN>
+<TOKEN id="token-225-2" pos="word" morph="none" start_char="8376" end_char="8383">是最低端的县法院</TOKEN>
+<TOKEN id="token-225-3" pos="word" morph="none" start_char="8385" end_char="8390">还是最高法院</TOKEN>
+<TOKEN id="token-225-4" pos="punct" morph="none" start_char="8391" end_char="8393">???</TOKEN>
+</SEG>
+<SEG id="segment-226" start_char="8395" end_char="8402">
+<ORIGINAL_TEXT>&lt;/quote&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-226-0" pos="unknown" morph="none" start_char="8395" end_char="8402">&lt;/quote&gt;</TOKEN>
+</SEG>
+<SEG id="segment-227" start_char="8404" end_char="8430">
+<ORIGINAL_TEXT>你告诉我，“最低法院”是什么？“最高端法院”又是什么？</ORIGINAL_TEXT>
+<TOKEN id="token-227-0" pos="unknown" morph="none" start_char="8404" end_char="8430">你告诉我，“最低法院”是什么？“最高端法院”又是什么？</TOKEN>
+</SEG>
+<SEG id="segment-228" start_char="8433" end_char="8555">
+<ORIGINAL_TEXT>海洋法观念中，并无“上下级法院”关系，也不存在神州的“法院是用来打官司”“惩处罪犯”的概念。为了任何一个事务组织委员会，这个council就有了法院的概念，美国的郡法院，州法院并非联邦最高法院的下级，联邦巡回法院对于州法院也并无管辖关系。加强学习</ORIGINAL_TEXT>
+<TOKEN id="token-228-0" pos="unknown" morph="none" start_char="8433" end_char="8555">海洋法观念中，并无“上下级法院”关系，也不存在神州的“法院是用来打官司”“惩处罪犯”的概念。为了任何一个事务组织委员会，这个council就有了法院的概念，美国的郡法院，州法院并非联邦最高法院的下级，联邦巡回法院对于州法院也并无管辖关系。加强学习</TOKEN>
+</SEG>
+<SEG id="segment-229" start_char="8558" end_char="8681">
+<ORIGINAL_TEXT>对于监听，需要法院授权现在已经是多国普遍的情况，美国NSA要窃听某人，需要有相应管辖权的法院申请。如果想要窃听一个杀人嫌犯的电信，需要向案件管辖地的法院申请，而如果涉及恐怖分子的，则向联邦法院申请（涉嫌恐怖行为的，属于触犯联邦法的罪行）。明白了吗？</ORIGINAL_TEXT>
+<TOKEN id="token-229-0" pos="unknown" morph="none" start_char="8558" end_char="8681">对于监听，需要法院授权现在已经是多国普遍的情况，美国NSA要窃听某人，需要有相应管辖权的法院申请。如果想要窃听一个杀人嫌犯的电信，需要向案件管辖地的法院申请，而如果涉及恐怖分子的，则向联邦法院申请（涉嫌恐怖行为的，属于触犯联邦法的罪行）。明白了吗？</TOKEN>
+</SEG>
+<SEG id="segment-230" start_char="8684" end_char="8897">
+<ORIGINAL_TEXT>问题在于NSA经常在监听中忽然发现某人，因为对于此人监听并不在批准名单中，因此必须立即向法院申请。而要命的是这样的申请会导致延时，而授权令下达，此人可能早就完成了联系而失踪了-----911前就发生过这样的事情，FBI得知有2个和恐怖组织有关的沙特人从德国入境美国（情报由沙特情报局提出，经CIA转交给FBI），但是等FBI得到法院授权去搜查那两人住的旅馆时，发现他们已经离开----后来才发现，这两人就是911事件中的劫机犯。</ORIGINAL_TEXT>
+<TOKEN id="token-230-0" pos="unknown" morph="none" start_char="8684" end_char="8897">问题在于NSA经常在监听中忽然发现某人，因为对于此人监听并不在批准名单中，因此必须立即向法院申请。而要命的是这样的申请会导致延时，而授权令下达，此人可能早就完成了联系而失踪了-----911前就发生过这样的事情，FBI得知有2个和恐怖组织有关的沙特人从德国入境美国（情报由沙特情报局提出，经CIA转交给FBI），但是等FBI得到法院授权去搜查那两人住的旅馆时，发现他们已经离开----后来才发现，这两人就是911事件中的劫机犯。</TOKEN>
+</SEG>
+<SEG id="segment-231" start_char="8900" end_char="8956">
+<ORIGINAL_TEXT>因此后来NSA以“追求效率”为名，经常就搞“边申请边监听”的花样。不过在斯诺登看来，这是严重违背信息自由化观点的。</ORIGINAL_TEXT>
+<TOKEN id="token-231-0" pos="unknown" morph="none" start_char="8900" end_char="8956">因此后来NSA以“追求效率”为名，经常就搞“边申请边监听”的花样。不过在斯诺登看来，这是严重违背信息自由化观点的。</TOKEN>
+</SEG>
+<SEG id="segment-232" start_char="8958" end_char="8965">
+<ORIGINAL_TEXT>&lt;/quote&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-232-0" pos="unknown" morph="none" start_char="8958" end_char="8965">&lt;/quote&gt;</TOKEN>
+</SEG>
+<SEG id="segment-233" start_char="8967" end_char="9006">
+<ORIGINAL_TEXT>关键是什么法院有资格解释宪法...而阁下显然是顾左右而言其他...洗地效率太差。</ORIGINAL_TEXT>
+<TOKEN id="token-233-0" pos="unknown" morph="none" start_char="8967" end_char="9006">关键是什么法院有资格解释宪法...而阁下显然是顾左右而言其他...洗地效率太差。</TOKEN>
+</SEG>
+<SEG id="segment-234" start_char="9008" end_char="9015">
+<ORIGINAL_TEXT>&lt;/quote&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-234-0" pos="unknown" morph="none" start_char="9008" end_char="9015">&lt;/quote&gt;</TOKEN>
+</SEG>
+<SEG id="segment-235" start_char="9017" end_char="9071">
+<ORIGINAL_TEXT>？？？在美国，解释宪法的最高法院，加强学习。但是批准监听的不是最高法院，而是各个实际案件的管辖法院，明白了吗？</ORIGINAL_TEXT>
+<TOKEN id="token-235-0" pos="unknown" morph="none" start_char="9017" end_char="9071">？？？在美国，解释宪法的最高法院，加强学习。但是批准监听的不是最高法院，而是各个实际案件的管辖法院，明白了吗？</TOKEN>
+</SEG>
+<SEG id="segment-236" start_char="9075" end_char="9170">
+<ORIGINAL_TEXT>关于民权组织提出的监听侵权，最高法院曾以5：4否决了这个case，也就是说最高法院的裁定是只要法院批准（合乎法律流程）的监听是合法的，而信息自由者宣扬的“绝对信息自由”并不符合美国宪法的概念。</ORIGINAL_TEXT>
+<TOKEN id="token-236-0" pos="unknown" morph="none" start_char="9075" end_char="9170">关于民权组织提出的监听侵权，最高法院曾以5：4否决了这个case，也就是说最高法院的裁定是只要法院批准（合乎法律流程）的监听是合法的，而信息自由者宣扬的“绝对信息自由”并不符合美国宪法的概念。</TOKEN>
+</SEG>
+<SEG id="segment-237" start_char="9172" end_char="9179">
+<ORIGINAL_TEXT>&lt;/quote&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-237-0" pos="unknown" morph="none" start_char="9172" end_char="9179">&lt;/quote&gt;</TOKEN>
+</SEG>
+<SEG id="segment-238" start_char="9181" end_char="9233">
+<ORIGINAL_TEXT>最高法院曾以5：4否决了这个case，也就是说最高法院的裁定是只要法院批准（合乎法律流程）的监听是合法的，</ORIGINAL_TEXT>
+<TOKEN id="token-238-0" pos="unknown" morph="none" start_char="9181" end_char="9233">最高法院曾以5：4否决了这个case，也就是说最高法院的裁定是只要法院批准（合乎法律流程）的监听是合法的，</TOKEN>
+</SEG>
+<SEG id="segment-239" start_char="9235" end_char="9270">
+<ORIGINAL_TEXT>====================================</ORIGINAL_TEXT>
+<TOKEN id="token-239-0" pos="unknown" morph="none" start_char="9235" end_char="9270">====================================</TOKEN>
+</SEG>
+<SEG id="segment-240" start_char="9272" end_char="9366">
+<ORIGINAL_TEXT>自2001年遭遇“9.11”恐怖袭击以来，美国政府一直都在根据这些理论扩大其监控权力，其结果是美国国家安全局利用《爱国者法案》来证明收集在美国境内进行的几乎每一次电话通话记录是有正当理由的。</ORIGINAL_TEXT>
+<TOKEN id="token-240-0" pos="unknown" morph="none" start_char="9272" end_char="9366">自2001年遭遇“9.11”恐怖袭击以来，美国政府一直都在根据这些理论扩大其监控权力，其结果是美国国家安全局利用《爱国者法案》来证明收集在美国境内进行的几乎每一次电话通话记录是有正当理由的。</TOKEN>
+</SEG>
+<SEG id="segment-241" start_char="9368" end_char="9374">
+<ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-241-0" pos="unknown" morph="none" start_char="9368" end_char="9374">&lt;/post&gt;</TOKEN>
+</SEG>
+<SEG id="segment-242" start_char="9376" end_char="9440">
+<ORIGINAL_TEXT>&lt;post id="p25" author="giga_fans" datetime="2015-05-02T14:53:20"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-242-0" pos="unknown" morph="none" start_char="9376" end_char="9380">&lt;post</TOKEN>
+<TOKEN id="token-242-1" pos="unknown" morph="none" start_char="9382" end_char="9389">id="p25"</TOKEN>
+<TOKEN id="token-242-2" pos="unknown" morph="none" start_char="9391" end_char="9408">author="giga_fans"</TOKEN>
+<TOKEN id="token-242-3" pos="unknown" morph="none" start_char="9410" end_char="9440">datetime="2015-05-02T14:53:20"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-243" start_char="9442" end_char="9465">
+<ORIGINAL_TEXT>&lt;quote orig_author="狼浪"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-243-0" pos="unknown" morph="none" start_char="9442" end_char="9447">&lt;quote</TOKEN>
+<TOKEN id="token-243-1" pos="unknown" morph="none" start_char="9449" end_char="9465">orig_author="狼浪"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-244" start_char="9467" end_char="9497">
+<ORIGINAL_TEXT>&lt;quote orig_author="giga_fans"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-244-0" pos="unknown" morph="none" start_char="9467" end_char="9472">&lt;quote</TOKEN>
+<TOKEN id="token-244-1" pos="unknown" morph="none" start_char="9474" end_char="9497">orig_author="giga_fans"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-245" start_char="9499" end_char="9522">
+<ORIGINAL_TEXT>&lt;quote orig_author="狼浪"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-245-0" pos="unknown" morph="none" start_char="9499" end_char="9504">&lt;quote</TOKEN>
+<TOKEN id="token-245-1" pos="unknown" morph="none" start_char="9506" end_char="9522">orig_author="狼浪"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-246" start_char="9524" end_char="9554">
+<ORIGINAL_TEXT>&lt;quote orig_author="giga_fans"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-246-0" pos="unknown" morph="none" start_char="9524" end_char="9529">&lt;quote</TOKEN>
+<TOKEN id="token-246-1" pos="unknown" morph="none" start_char="9531" end_char="9554">orig_author="giga_fans"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-247" start_char="9556" end_char="9579">
+<ORIGINAL_TEXT>&lt;quote orig_author="狼浪"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-247-0" pos="unknown" morph="none" start_char="9556" end_char="9561">&lt;quote</TOKEN>
+<TOKEN id="token-247-1" pos="unknown" morph="none" start_char="9563" end_char="9579">orig_author="狼浪"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-248" start_char="9581" end_char="9611">
+<ORIGINAL_TEXT>&lt;quote orig_author="giga_fans"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-248-0" pos="unknown" morph="none" start_char="9581" end_char="9586">&lt;quote</TOKEN>
+<TOKEN id="token-248-1" pos="unknown" morph="none" start_char="9588" end_char="9611">orig_author="giga_fans"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-249" start_char="9613" end_char="9627">
+<ORIGINAL_TEXT>监听行为获得法院批准是合法的。</ORIGINAL_TEXT>
+<TOKEN id="token-249-0" pos="word" morph="none" start_char="9613" end_char="9626">监听行为获得法院批准是合法的</TOKEN>
+<TOKEN id="token-249-1" pos="punct" morph="none" start_char="9627" end_char="9627">。</TOKEN>
+</SEG>
+<SEG id="segment-250" start_char="9629" end_char="9651">
+<ORIGINAL_TEXT>但是未得到法院批准前就监听，在美国是违法行为。</ORIGINAL_TEXT>
+<TOKEN id="token-250-0" pos="word" morph="none" start_char="9629" end_char="9641">但是未得到法院批准前就监听</TOKEN>
+<TOKEN id="token-250-1" pos="punct" morph="none" start_char="9642" end_char="9642">，</TOKEN>
+<TOKEN id="token-250-2" pos="word" morph="none" start_char="9643" end_char="9650">在美国是违法行为</TOKEN>
+<TOKEN id="token-250-3" pos="punct" morph="none" start_char="9651" end_char="9651">。</TOKEN>
+</SEG>
+<SEG id="segment-251" start_char="9653" end_char="9714">
+<ORIGINAL_TEXT>斯诺登爆料说，NSA打擦边球，一边申请法院令的同时一边就在监听了，这样行为有“数千起”。按照美国法律，这样的窃听也是违法的。</ORIGINAL_TEXT>
+<TOKEN id="token-251-0" pos="unknown" morph="none" start_char="9653" end_char="9714">斯诺登爆料说，NSA打擦边球，一边申请法院令的同时一边就在监听了，这样行为有“数千起”。按照美国法律，这样的窃听也是违法的。</TOKEN>
+</SEG>
+<SEG id="segment-252" start_char="9716" end_char="9720">
+<ORIGINAL_TEXT>加强学习。</ORIGINAL_TEXT>
+<TOKEN id="token-252-0" pos="word" morph="none" start_char="9716" end_char="9719">加强学习</TOKEN>
+<TOKEN id="token-252-1" pos="punct" morph="none" start_char="9720" end_char="9720">。</TOKEN>
+</SEG>
+<SEG id="segment-253" start_char="9722" end_char="9767">
+<ORIGINAL_TEXT>至于“大规模监听”（即从往来电讯中随机拦截敏感词信息），大概只有在美国，才会被视为违法行为。</ORIGINAL_TEXT>
+<TOKEN id="token-253-0" pos="unknown" morph="none" start_char="9722" end_char="9767">至于“大规模监听”（即从往来电讯中随机拦截敏感词信息），大概只有在美国，才会被视为违法行为。</TOKEN>
+</SEG>
+<SEG id="segment-254" start_char="9769" end_char="9776">
+<ORIGINAL_TEXT>&lt;/quote&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-254-0" pos="unknown" morph="none" start_char="9769" end_char="9776">&lt;/quote&gt;</TOKEN>
+</SEG>
+<SEG id="segment-255" start_char="9778" end_char="9792">
+<ORIGINAL_TEXT>监听行为获得法院批准是合法的。</ORIGINAL_TEXT>
+<TOKEN id="token-255-0" pos="word" morph="none" start_char="9778" end_char="9791">监听行为获得法院批准是合法的</TOKEN>
+<TOKEN id="token-255-1" pos="punct" morph="none" start_char="9792" end_char="9792">。</TOKEN>
+</SEG>
+<SEG id="segment-256" start_char="9794" end_char="9822">
+<ORIGINAL_TEXT>=============================</ORIGINAL_TEXT>
+<TOKEN id="token-256-0" pos="unknown" morph="none" start_char="9794" end_char="9822">=============================</TOKEN>
+</SEG>
+<SEG id="segment-257" start_char="9824" end_char="9848">
+<ORIGINAL_TEXT>什么法院！！！是最低端的县法院 还是最高法院???</ORIGINAL_TEXT>
+<TOKEN id="token-257-0" pos="word" morph="none" start_char="9824" end_char="9827">什么法院</TOKEN>
+<TOKEN id="token-257-1" pos="punct" morph="none" start_char="9828" end_char="9830">！！！</TOKEN>
+<TOKEN id="token-257-2" pos="word" morph="none" start_char="9831" end_char="9838">是最低端的县法院</TOKEN>
+<TOKEN id="token-257-3" pos="word" morph="none" start_char="9840" end_char="9845">还是最高法院</TOKEN>
+<TOKEN id="token-257-4" pos="punct" morph="none" start_char="9846" end_char="9848">???</TOKEN>
+</SEG>
+<SEG id="segment-258" start_char="9850" end_char="9857">
+<ORIGINAL_TEXT>&lt;/quote&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-258-0" pos="unknown" morph="none" start_char="9850" end_char="9857">&lt;/quote&gt;</TOKEN>
+</SEG>
+<SEG id="segment-259" start_char="9859" end_char="9885">
+<ORIGINAL_TEXT>你告诉我，“最低法院”是什么？“最高端法院”又是什么？</ORIGINAL_TEXT>
+<TOKEN id="token-259-0" pos="unknown" morph="none" start_char="9859" end_char="9885">你告诉我，“最低法院”是什么？“最高端法院”又是什么？</TOKEN>
+</SEG>
+<SEG id="segment-260" start_char="9888" end_char="10010">
+<ORIGINAL_TEXT>海洋法观念中，并无“上下级法院”关系，也不存在神州的“法院是用来打官司”“惩处罪犯”的概念。为了任何一个事务组织委员会，这个council就有了法院的概念，美国的郡法院，州法院并非联邦最高法院的下级，联邦巡回法院对于州法院也并无管辖关系。加强学习</ORIGINAL_TEXT>
+<TOKEN id="token-260-0" pos="unknown" morph="none" start_char="9888" end_char="10010">海洋法观念中，并无“上下级法院”关系，也不存在神州的“法院是用来打官司”“惩处罪犯”的概念。为了任何一个事务组织委员会，这个council就有了法院的概念，美国的郡法院，州法院并非联邦最高法院的下级，联邦巡回法院对于州法院也并无管辖关系。加强学习</TOKEN>
+</SEG>
+<SEG id="segment-261" start_char="10013" end_char="10136">
+<ORIGINAL_TEXT>对于监听，需要法院授权现在已经是多国普遍的情况，美国NSA要窃听某人，需要有相应管辖权的法院申请。如果想要窃听一个杀人嫌犯的电信，需要向案件管辖地的法院申请，而如果涉及恐怖分子的，则向联邦法院申请（涉嫌恐怖行为的，属于触犯联邦法的罪行）。明白了吗？</ORIGINAL_TEXT>
+<TOKEN id="token-261-0" pos="unknown" morph="none" start_char="10013" end_char="10136">对于监听，需要法院授权现在已经是多国普遍的情况，美国NSA要窃听某人，需要有相应管辖权的法院申请。如果想要窃听一个杀人嫌犯的电信，需要向案件管辖地的法院申请，而如果涉及恐怖分子的，则向联邦法院申请（涉嫌恐怖行为的，属于触犯联邦法的罪行）。明白了吗？</TOKEN>
+</SEG>
+<SEG id="segment-262" start_char="10139" end_char="10352">
+<ORIGINAL_TEXT>问题在于NSA经常在监听中忽然发现某人，因为对于此人监听并不在批准名单中，因此必须立即向法院申请。而要命的是这样的申请会导致延时，而授权令下达，此人可能早就完成了联系而失踪了-----911前就发生过这样的事情，FBI得知有2个和恐怖组织有关的沙特人从德国入境美国（情报由沙特情报局提出，经CIA转交给FBI），但是等FBI得到法院授权去搜查那两人住的旅馆时，发现他们已经离开----后来才发现，这两人就是911事件中的劫机犯。</ORIGINAL_TEXT>
+<TOKEN id="token-262-0" pos="unknown" morph="none" start_char="10139" end_char="10352">问题在于NSA经常在监听中忽然发现某人，因为对于此人监听并不在批准名单中，因此必须立即向法院申请。而要命的是这样的申请会导致延时，而授权令下达，此人可能早就完成了联系而失踪了-----911前就发生过这样的事情，FBI得知有2个和恐怖组织有关的沙特人从德国入境美国（情报由沙特情报局提出，经CIA转交给FBI），但是等FBI得到法院授权去搜查那两人住的旅馆时，发现他们已经离开----后来才发现，这两人就是911事件中的劫机犯。</TOKEN>
+</SEG>
+<SEG id="segment-263" start_char="10355" end_char="10411">
+<ORIGINAL_TEXT>因此后来NSA以“追求效率”为名，经常就搞“边申请边监听”的花样。不过在斯诺登看来，这是严重违背信息自由化观点的。</ORIGINAL_TEXT>
+<TOKEN id="token-263-0" pos="unknown" morph="none" start_char="10355" end_char="10411">因此后来NSA以“追求效率”为名，经常就搞“边申请边监听”的花样。不过在斯诺登看来，这是严重违背信息自由化观点的。</TOKEN>
+</SEG>
+<SEG id="segment-264" start_char="10413" end_char="10420">
+<ORIGINAL_TEXT>&lt;/quote&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-264-0" pos="unknown" morph="none" start_char="10413" end_char="10420">&lt;/quote&gt;</TOKEN>
+</SEG>
+<SEG id="segment-265" start_char="10422" end_char="10461">
+<ORIGINAL_TEXT>关键是什么法院有资格解释宪法...而阁下显然是顾左右而言其他...洗地效率太差。</ORIGINAL_TEXT>
+<TOKEN id="token-265-0" pos="unknown" morph="none" start_char="10422" end_char="10461">关键是什么法院有资格解释宪法...而阁下显然是顾左右而言其他...洗地效率太差。</TOKEN>
+</SEG>
+<SEG id="segment-266" start_char="10463" end_char="10470">
+<ORIGINAL_TEXT>&lt;/quote&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-266-0" pos="unknown" morph="none" start_char="10463" end_char="10470">&lt;/quote&gt;</TOKEN>
+</SEG>
+<SEG id="segment-267" start_char="10472" end_char="10526">
+<ORIGINAL_TEXT>？？？在美国，解释宪法的最高法院，加强学习。但是批准监听的不是最高法院，而是各个实际案件的管辖法院，明白了吗？</ORIGINAL_TEXT>
+<TOKEN id="token-267-0" pos="unknown" morph="none" start_char="10472" end_char="10526">？？？在美国，解释宪法的最高法院，加强学习。但是批准监听的不是最高法院，而是各个实际案件的管辖法院，明白了吗？</TOKEN>
+</SEG>
+<SEG id="segment-268" start_char="10530" end_char="10625">
+<ORIGINAL_TEXT>关于民权组织提出的监听侵权，最高法院曾以5：4否决了这个case，也就是说最高法院的裁定是只要法院批准（合乎法律流程）的监听是合法的，而信息自由者宣扬的“绝对信息自由”并不符合美国宪法的概念。</ORIGINAL_TEXT>
+<TOKEN id="token-268-0" pos="unknown" morph="none" start_char="10530" end_char="10625">关于民权组织提出的监听侵权，最高法院曾以5：4否决了这个case，也就是说最高法院的裁定是只要法院批准（合乎法律流程）的监听是合法的，而信息自由者宣扬的“绝对信息自由”并不符合美国宪法的概念。</TOKEN>
+</SEG>
+<SEG id="segment-269" start_char="10627" end_char="10634">
+<ORIGINAL_TEXT>&lt;/quote&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-269-0" pos="unknown" morph="none" start_char="10627" end_char="10634">&lt;/quote&gt;</TOKEN>
+</SEG>
+<SEG id="segment-270" start_char="10636" end_char="10707">
+<ORIGINAL_TEXT>除了最高法院，还有那个法院可以管辖所有美国人与机构，请注意一个基本事实，截至目前的资料，并未有证据现实所谓的最高法院的大法官，不再监听范围之内。</ORIGINAL_TEXT>
+<TOKEN id="token-270-0" pos="unknown" morph="none" start_char="10636" end_char="10707">除了最高法院，还有那个法院可以管辖所有美国人与机构，请注意一个基本事实，截至目前的资料，并未有证据现实所谓的最高法院的大法官，不再监听范围之内。</TOKEN>
+</SEG>
+<SEG id="segment-271" start_char="10709" end_char="10716">
+<ORIGINAL_TEXT>&lt;/quote&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-271-0" pos="unknown" morph="none" start_char="10709" end_char="10716">&lt;/quote&gt;</TOKEN>
+</SEG>
+<SEG id="segment-272" start_char="10718" end_char="10727">
+<ORIGINAL_TEXT>你理解能力有问题吧。</ORIGINAL_TEXT>
+<TOKEN id="token-272-0" pos="word" morph="none" start_char="10718" end_char="10726">你理解能力有问题吧</TOKEN>
+<TOKEN id="token-272-1" pos="punct" morph="none" start_char="10727" end_char="10727">。</TOKEN>
+</SEG>
+<SEG id="segment-273" start_char="10730" end_char="10804">
+<ORIGINAL_TEXT>我上文已经明确告诉你了，监听是由管辖法院批准，如对一个刑事案件嫌犯的监听，需要地方法院批准；而如对一个涉嫌恐怖组织监听，则应该由一家联邦法院作出裁决。</ORIGINAL_TEXT>
+<TOKEN id="token-273-0" pos="unknown" morph="none" start_char="10730" end_char="10804">我上文已经明确告诉你了，监听是由管辖法院批准，如对一个刑事案件嫌犯的监听，需要地方法院批准；而如对一个涉嫌恐怖组织监听，则应该由一家联邦法院作出裁决。</TOKEN>
+</SEG>
+<SEG id="segment-274" start_char="10807" end_char="10906">
+<ORIGINAL_TEXT>美国最高法院又称“宪法法院”，主要负责进行“违宪审核”等重大裁决。对于一般刑事和民事案件，州最高法院或者联邦巡回法院就是终审法院了。只有在案件中发现了违宪情节，才能上诉到联邦最高法院进行“违宪审核”。</ORIGINAL_TEXT>
+<TOKEN id="token-274-0" pos="unknown" morph="none" start_char="10807" end_char="10906">美国最高法院又称“宪法法院”，主要负责进行“违宪审核”等重大裁决。对于一般刑事和民事案件，州最高法院或者联邦巡回法院就是终审法院了。只有在案件中发现了违宪情节，才能上诉到联邦最高法院进行“违宪审核”。</TOKEN>
+</SEG>
+<SEG id="segment-275" start_char="10909" end_char="10913">
+<ORIGINAL_TEXT>明白了吗？</ORIGINAL_TEXT>
+<TOKEN id="token-275-0" pos="word" morph="none" start_char="10909" end_char="10912">明白了吗</TOKEN>
+<TOKEN id="token-275-1" pos="punct" morph="none" start_char="10913" end_char="10913">？</TOKEN>
+</SEG>
+<SEG id="segment-276" start_char="10916" end_char="10967">
+<ORIGINAL_TEXT>因此你去向美国最高法院申请监听令？别说美国，在中国你跑去最高法院申请监听许可，都会直接被当做脑残赶出来！</ORIGINAL_TEXT>
+<TOKEN id="token-276-0" pos="unknown" morph="none" start_char="10916" end_char="10967">因此你去向美国最高法院申请监听令？别说美国，在中国你跑去最高法院申请监听许可，都会直接被当做脑残赶出来！</TOKEN>
+</SEG>
+<SEG id="segment-277" start_char="10970" end_char="11116">
+<ORIGINAL_TEXT>最后。如果最高法院的大法官个人涉嫌违法，那么经某一级法院核准对其监听是合法的。最高法院的大官也是联邦官员之一，也受到联邦法律的束缚。当然最高法院法官身份特殊，因此对其监听必须是非常慎重，在美国监听最高法院法官需要何种程度许可不明，但是相似情况，如果要监听议员，需要议长和国会司法事务委员会批准。</ORIGINAL_TEXT>
+<TOKEN id="token-277-0" pos="unknown" morph="none" start_char="10970" end_char="11116">最后。如果最高法院的大法官个人涉嫌违法，那么经某一级法院核准对其监听是合法的。最高法院的大官也是联邦官员之一，也受到联邦法律的束缚。当然最高法院法官身份特殊，因此对其监听必须是非常慎重，在美国监听最高法院法官需要何种程度许可不明，但是相似情况，如果要监听议员，需要议长和国会司法事务委员会批准。</TOKEN>
+</SEG>
+<SEG id="segment-278" start_char="11119" end_char="11148">
+<ORIGINAL_TEXT>没有证据，那么就烦请不要“YY”什么“监听最高法官”。可乎？</ORIGINAL_TEXT>
+<TOKEN id="token-278-0" pos="unknown" morph="none" start_char="11119" end_char="11148">没有证据，那么就烦请不要“YY”什么“监听最高法官”。可乎？</TOKEN>
+</SEG>
+<SEG id="segment-279" start_char="11150" end_char="11156">
+<ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-279-0" pos="unknown" morph="none" start_char="11150" end_char="11156">&lt;/post&gt;</TOKEN>
+</SEG>
+<SEG id="segment-280" start_char="11158" end_char="11215">
+<ORIGINAL_TEXT>&lt;post id="p26" author="狼浪" datetime="2015-05-12T15:24:18"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-280-0" pos="unknown" morph="none" start_char="11158" end_char="11162">&lt;post</TOKEN>
+<TOKEN id="token-280-1" pos="unknown" morph="none" start_char="11164" end_char="11171">id="p26"</TOKEN>
+<TOKEN id="token-280-2" pos="unknown" morph="none" start_char="11173" end_char="11183">author="狼浪"</TOKEN>
+<TOKEN id="token-280-3" pos="unknown" morph="none" start_char="11185" end_char="11215">datetime="2015-05-12T15:24:18"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-281" start_char="11217" end_char="11247">
+<ORIGINAL_TEXT>&lt;quote orig_author="giga_fans"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-281-0" pos="unknown" morph="none" start_char="11217" end_char="11222">&lt;quote</TOKEN>
+<TOKEN id="token-281-1" pos="unknown" morph="none" start_char="11224" end_char="11247">orig_author="giga_fans"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-282" start_char="11249" end_char="11272">
+<ORIGINAL_TEXT>&lt;quote orig_author="狼浪"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-282-0" pos="unknown" morph="none" start_char="11249" end_char="11254">&lt;quote</TOKEN>
+<TOKEN id="token-282-1" pos="unknown" morph="none" start_char="11256" end_char="11272">orig_author="狼浪"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-283" start_char="11274" end_char="11304">
+<ORIGINAL_TEXT>&lt;quote orig_author="giga_fans"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-283-0" pos="unknown" morph="none" start_char="11274" end_char="11279">&lt;quote</TOKEN>
+<TOKEN id="token-283-1" pos="unknown" morph="none" start_char="11281" end_char="11304">orig_author="giga_fans"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-284" start_char="11306" end_char="11329">
+<ORIGINAL_TEXT>&lt;quote orig_author="狼狼"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-284-0" pos="unknown" morph="none" start_char="11306" end_char="11311">&lt;quote</TOKEN>
+<TOKEN id="token-284-1" pos="unknown" morph="none" start_char="11313" end_char="11329">orig_author="狼狼"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-285" start_char="11331" end_char="11361">
+<ORIGINAL_TEXT>&lt;quote orig_author="giga_fans"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-285-0" pos="unknown" morph="none" start_char="11331" end_char="11336">&lt;quote</TOKEN>
+<TOKEN id="token-285-1" pos="unknown" morph="none" start_char="11338" end_char="11361">orig_author="giga_fans"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-286" start_char="11363" end_char="11389">
+<ORIGINAL_TEXT>你告诉我，“最低法院”是什么？“最高端法院”又是什么？</ORIGINAL_TEXT>
+<TOKEN id="token-286-0" pos="unknown" morph="none" start_char="11363" end_char="11389">你告诉我，“最低法院”是什么？“最高端法院”又是什么？</TOKEN>
+</SEG>
+<SEG id="segment-287" start_char="11392" end_char="11514">
+<ORIGINAL_TEXT>海洋法观念中，并无“上下级法院”关系，也不存在神州的“法院是用来打官司”“惩处罪犯”的概念。为了任何一个事务组织委员会，这个council就有了法院的概念，美国的郡法院，州法院并非联邦最高法院的下级，联邦巡回法院对于州法院也并无管辖关系。加强学习</ORIGINAL_TEXT>
+<TOKEN id="token-287-0" pos="unknown" morph="none" start_char="11392" end_char="11514">海洋法观念中，并无“上下级法院”关系，也不存在神州的“法院是用来打官司”“惩处罪犯”的概念。为了任何一个事务组织委员会，这个council就有了法院的概念，美国的郡法院，州法院并非联邦最高法院的下级，联邦巡回法院对于州法院也并无管辖关系。加强学习</TOKEN>
+</SEG>
+<SEG id="segment-288" start_char="11517" end_char="11640">
+<ORIGINAL_TEXT>对于监听，需要法院授权现在已经是多国普遍的情况，美国NSA要窃听某人，需要有相应管辖权的法院申请。如果想要窃听一个杀人嫌犯的电信，需要向案件管辖地的法院申请，而如果涉及恐怖分子的，则向联邦法院申请（涉嫌恐怖行为的，属于触犯联邦法的罪行）。明白了吗？</ORIGINAL_TEXT>
+<TOKEN id="token-288-0" pos="unknown" morph="none" start_char="11517" end_char="11640">对于监听，需要法院授权现在已经是多国普遍的情况，美国NSA要窃听某人，需要有相应管辖权的法院申请。如果想要窃听一个杀人嫌犯的电信，需要向案件管辖地的法院申请，而如果涉及恐怖分子的，则向联邦法院申请（涉嫌恐怖行为的，属于触犯联邦法的罪行）。明白了吗？</TOKEN>
+</SEG>
+<SEG id="segment-289" start_char="11643" end_char="11856">
+<ORIGINAL_TEXT>问题在于NSA经常在监听中忽然发现某人，因为对于此人监听并不在批准名单中，因此必须立即向法院申请。而要命的是这样的申请会导致延时，而授权令下达，此人可能早就完成了联系而失踪了-----911前就发生过这样的事情，FBI得知有2个和恐怖组织有关的沙特人从德国入境美国（情报由沙特情报局提出，经CIA转交给FBI），但是等FBI得到法院授权去搜查那两人住的旅馆时，发现他们已经离开----后来才发现，这两人就是911事件中的劫机犯。</ORIGINAL_TEXT>
+<TOKEN id="token-289-0" pos="unknown" morph="none" start_char="11643" end_char="11856">问题在于NSA经常在监听中忽然发现某人，因为对于此人监听并不在批准名单中，因此必须立即向法院申请。而要命的是这样的申请会导致延时，而授权令下达，此人可能早就完成了联系而失踪了-----911前就发生过这样的事情，FBI得知有2个和恐怖组织有关的沙特人从德国入境美国（情报由沙特情报局提出，经CIA转交给FBI），但是等FBI得到法院授权去搜查那两人住的旅馆时，发现他们已经离开----后来才发现，这两人就是911事件中的劫机犯。</TOKEN>
+</SEG>
+<SEG id="segment-290" start_char="11859" end_char="11915">
+<ORIGINAL_TEXT>因此后来NSA以“追求效率”为名，经常就搞“边申请边监听”的花样。不过在斯诺登看来，这是严重违背信息自由化观点的。</ORIGINAL_TEXT>
+<TOKEN id="token-290-0" pos="unknown" morph="none" start_char="11859" end_char="11915">因此后来NSA以“追求效率”为名，经常就搞“边申请边监听”的花样。不过在斯诺登看来，这是严重违背信息自由化观点的。</TOKEN>
+</SEG>
+<SEG id="segment-291" start_char="11917" end_char="11924">
+<ORIGINAL_TEXT>&lt;/quote&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-291-0" pos="unknown" morph="none" start_char="11917" end_char="11924">&lt;/quote&gt;</TOKEN>
+</SEG>
+<SEG id="segment-292" start_char="11926" end_char="11965">
+<ORIGINAL_TEXT>关键是什么法院有资格解释宪法...而阁下显然是顾左右而言其他...洗地效率太差。</ORIGINAL_TEXT>
+<TOKEN id="token-292-0" pos="unknown" morph="none" start_char="11926" end_char="11965">关键是什么法院有资格解释宪法...而阁下显然是顾左右而言其他...洗地效率太差。</TOKEN>
+</SEG>
+<SEG id="segment-293" start_char="11967" end_char="11974">
+<ORIGINAL_TEXT>&lt;/quote&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-293-0" pos="unknown" morph="none" start_char="11967" end_char="11974">&lt;/quote&gt;</TOKEN>
+</SEG>
+<SEG id="segment-294" start_char="11976" end_char="12030">
+<ORIGINAL_TEXT>？？？在美国，解释宪法的最高法院，加强学习。但是批准监听的不是最高法院，而是各个实际案件的管辖法院，明白了吗？</ORIGINAL_TEXT>
+<TOKEN id="token-294-0" pos="unknown" morph="none" start_char="11976" end_char="12030">？？？在美国，解释宪法的最高法院，加强学习。但是批准监听的不是最高法院，而是各个实际案件的管辖法院，明白了吗？</TOKEN>
+</SEG>
+<SEG id="segment-295" start_char="12034" end_char="12129">
+<ORIGINAL_TEXT>关于民权组织提出的监听侵权，最高法院曾以5：4否决了这个case，也就是说最高法院的裁定是只要法院批准（合乎法律流程）的监听是合法的，而信息自由者宣扬的“绝对信息自由”并不符合美国宪法的概念。</ORIGINAL_TEXT>
+<TOKEN id="token-295-0" pos="unknown" morph="none" start_char="12034" end_char="12129">关于民权组织提出的监听侵权，最高法院曾以5：4否决了这个case，也就是说最高法院的裁定是只要法院批准（合乎法律流程）的监听是合法的，而信息自由者宣扬的“绝对信息自由”并不符合美国宪法的概念。</TOKEN>
+</SEG>
+<SEG id="segment-296" start_char="12131" end_char="12138">
+<ORIGINAL_TEXT>&lt;/quote&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-296-0" pos="unknown" morph="none" start_char="12131" end_char="12138">&lt;/quote&gt;</TOKEN>
+</SEG>
+<SEG id="segment-297" start_char="12140" end_char="12211">
+<ORIGINAL_TEXT>除了最高法院，还有那个法院可以管辖所有美国人与机构，请注意一个基本事实，截至目前的资料，并未有证据现实所谓的最高法院的大法官，不再监听范围之内。</ORIGINAL_TEXT>
+<TOKEN id="token-297-0" pos="unknown" morph="none" start_char="12140" end_char="12211">除了最高法院，还有那个法院可以管辖所有美国人与机构，请注意一个基本事实，截至目前的资料，并未有证据现实所谓的最高法院的大法官，不再监听范围之内。</TOKEN>
+</SEG>
+<SEG id="segment-298" start_char="12213" end_char="12220">
+<ORIGINAL_TEXT>&lt;/quote&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-298-0" pos="unknown" morph="none" start_char="12213" end_char="12220">&lt;/quote&gt;</TOKEN>
+</SEG>
+<SEG id="segment-299" start_char="12222" end_char="12231">
+<ORIGINAL_TEXT>你理解能力有问题吧。</ORIGINAL_TEXT>
+<TOKEN id="token-299-0" pos="word" morph="none" start_char="12222" end_char="12230">你理解能力有问题吧</TOKEN>
+<TOKEN id="token-299-1" pos="punct" morph="none" start_char="12231" end_char="12231">。</TOKEN>
+</SEG>
+<SEG id="segment-300" start_char="12234" end_char="12308">
+<ORIGINAL_TEXT>我上文已经明确告诉你了，监听是由管辖法院批准，如对一个刑事案件嫌犯的监听，需要地方法院批准；而如对一个涉嫌恐怖组织监听，则应该由一家联邦法院作出裁决。</ORIGINAL_TEXT>
+<TOKEN id="token-300-0" pos="unknown" morph="none" start_char="12234" end_char="12308">我上文已经明确告诉你了，监听是由管辖法院批准，如对一个刑事案件嫌犯的监听，需要地方法院批准；而如对一个涉嫌恐怖组织监听，则应该由一家联邦法院作出裁决。</TOKEN>
+</SEG>
+<SEG id="segment-301" start_char="12311" end_char="12410">
+<ORIGINAL_TEXT>美国最高法院又称“宪法法院”，主要负责进行“违宪审核”等重大裁决。对于一般刑事和民事案件，州最高法院或者联邦巡回法院就是终审法院了。只有在案件中发现了违宪情节，才能上诉到联邦最高法院进行“违宪审核”。</ORIGINAL_TEXT>
+<TOKEN id="token-301-0" pos="unknown" morph="none" start_char="12311" end_char="12410">美国最高法院又称“宪法法院”，主要负责进行“违宪审核”等重大裁决。对于一般刑事和民事案件，州最高法院或者联邦巡回法院就是终审法院了。只有在案件中发现了违宪情节，才能上诉到联邦最高法院进行“违宪审核”。</TOKEN>
+</SEG>
+<SEG id="segment-302" start_char="12413" end_char="12417">
+<ORIGINAL_TEXT>明白了吗？</ORIGINAL_TEXT>
+<TOKEN id="token-302-0" pos="word" morph="none" start_char="12413" end_char="12416">明白了吗</TOKEN>
+<TOKEN id="token-302-1" pos="punct" morph="none" start_char="12417" end_char="12417">？</TOKEN>
+</SEG>
+<SEG id="segment-303" start_char="12420" end_char="12471">
+<ORIGINAL_TEXT>因此你去向美国最高法院申请监听令？别说美国，在中国你跑去最高法院申请监听许可，都会直接被当做脑残赶出来！</ORIGINAL_TEXT>
+<TOKEN id="token-303-0" pos="unknown" morph="none" start_char="12420" end_char="12471">因此你去向美国最高法院申请监听令？别说美国，在中国你跑去最高法院申请监听许可，都会直接被当做脑残赶出来！</TOKEN>
+</SEG>
+<SEG id="segment-304" start_char="12474" end_char="12620">
+<ORIGINAL_TEXT>最后。如果最高法院的大法官个人涉嫌违法，那么经某一级法院核准对其监听是合法的。最高法院的大官也是联邦官员之一，也受到联邦法律的束缚。当然最高法院法官身份特殊，因此对其监听必须是非常慎重，在美国监听最高法院法官需要何种程度许可不明，但是相似情况，如果要监听议员，需要议长和国会司法事务委员会批准。</ORIGINAL_TEXT>
+<TOKEN id="token-304-0" pos="unknown" morph="none" start_char="12474" end_char="12620">最后。如果最高法院的大法官个人涉嫌违法，那么经某一级法院核准对其监听是合法的。最高法院的大官也是联邦官员之一，也受到联邦法律的束缚。当然最高法院法官身份特殊，因此对其监听必须是非常慎重，在美国监听最高法院法官需要何种程度许可不明，但是相似情况，如果要监听议员，需要议长和国会司法事务委员会批准。</TOKEN>
+</SEG>
+<SEG id="segment-305" start_char="12623" end_char="12652">
+<ORIGINAL_TEXT>没有证据，那么就烦请不要“YY”什么“监听最高法官”。可乎？</ORIGINAL_TEXT>
+<TOKEN id="token-305-0" pos="unknown" morph="none" start_char="12623" end_char="12652">没有证据，那么就烦请不要“YY”什么“监听最高法官”。可乎？</TOKEN>
+</SEG>
+<SEG id="segment-306" start_char="12654" end_char="12661">
+<ORIGINAL_TEXT>&lt;/quote&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-306-0" pos="unknown" morph="none" start_char="12654" end_char="12661">&lt;/quote&gt;</TOKEN>
+</SEG>
+<SEG id="segment-307" start_char="12663" end_char="12693">
+<ORIGINAL_TEXT>现在公布的监听资料有排除大法官、各级议员、美国各级行政官员？？</ORIGINAL_TEXT>
+<TOKEN id="token-307-0" pos="unknown" morph="none" start_char="12663" end_char="12693">现在公布的监听资料有排除大法官、各级议员、美国各级行政官员？？</TOKEN>
+</SEG>
+<SEG id="segment-308" start_char="12696" end_char="12709">
+<ORIGINAL_TEXT>建议阁下先搞清楚 客观事实。</ORIGINAL_TEXT>
+<TOKEN id="token-308-0" pos="word" morph="none" start_char="12696" end_char="12703">建议阁下先搞清楚</TOKEN>
+<TOKEN id="token-308-1" pos="word" morph="none" start_char="12705" end_char="12708">客观事实</TOKEN>
+<TOKEN id="token-308-2" pos="punct" morph="none" start_char="12709" end_char="12709">。</TOKEN>
+</SEG>
+<SEG id="segment-309" start_char="12712" end_char="12718">
+<ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-309-0" pos="unknown" morph="none" start_char="12712" end_char="12718">&lt;/post&gt;</TOKEN>
+</SEG>
+<SEG id="segment-310" start_char="12720" end_char="12777">
+<ORIGINAL_TEXT>&lt;post id="p27" author="狼浪" datetime="2015-05-12T17:02:54"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-310-0" pos="unknown" morph="none" start_char="12720" end_char="12724">&lt;post</TOKEN>
+<TOKEN id="token-310-1" pos="unknown" morph="none" start_char="12726" end_char="12733">id="p27"</TOKEN>
+<TOKEN id="token-310-2" pos="unknown" morph="none" start_char="12735" end_char="12745">author="狼浪"</TOKEN>
+<TOKEN id="token-310-3" pos="unknown" morph="none" start_char="12747" end_char="12777">datetime="2015-05-12T17:02:54"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-311" start_char="12779" end_char="12802">
+<ORIGINAL_TEXT>&lt;quote orig_author="狼浪"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-311-0" pos="unknown" morph="none" start_char="12779" end_char="12784">&lt;quote</TOKEN>
+<TOKEN id="token-311-1" pos="unknown" morph="none" start_char="12786" end_char="12802">orig_author="狼浪"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-312" start_char="12804" end_char="12834">
+<ORIGINAL_TEXT>&lt;quote orig_author="giga_fans"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-312-0" pos="unknown" morph="none" start_char="12804" end_char="12809">&lt;quote</TOKEN>
+<TOKEN id="token-312-1" pos="unknown" morph="none" start_char="12811" end_char="12834">orig_author="giga_fans"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-313" start_char="12836" end_char="12859">
+<ORIGINAL_TEXT>&lt;quote orig_author="狼浪"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-313-0" pos="unknown" morph="none" start_char="12836" end_char="12841">&lt;quote</TOKEN>
+<TOKEN id="token-313-1" pos="unknown" morph="none" start_char="12843" end_char="12859">orig_author="狼浪"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-314" start_char="12861" end_char="12891">
+<ORIGINAL_TEXT>&lt;quote orig_author="giga_fans"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-314-0" pos="unknown" morph="none" start_char="12861" end_char="12866">&lt;quote</TOKEN>
+<TOKEN id="token-314-1" pos="unknown" morph="none" start_char="12868" end_char="12891">orig_author="giga_fans"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-315" start_char="12893" end_char="12916">
+<ORIGINAL_TEXT>&lt;quote orig_author="狼浪"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-315-0" pos="unknown" morph="none" start_char="12893" end_char="12898">&lt;quote</TOKEN>
+<TOKEN id="token-315-1" pos="unknown" morph="none" start_char="12900" end_char="12916">orig_author="狼浪"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-316" start_char="12918" end_char="12957">
+<ORIGINAL_TEXT>关键是什么法院有资格解释宪法...而阁下显然是顾左右而言其他...洗地效率太差。</ORIGINAL_TEXT>
+<TOKEN id="token-316-0" pos="unknown" morph="none" start_char="12918" end_char="12957">关键是什么法院有资格解释宪法...而阁下显然是顾左右而言其他...洗地效率太差。</TOKEN>
+</SEG>
+<SEG id="segment-317" start_char="12959" end_char="12966">
+<ORIGINAL_TEXT>&lt;/quote&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-317-0" pos="unknown" morph="none" start_char="12959" end_char="12966">&lt;/quote&gt;</TOKEN>
+</SEG>
+<SEG id="segment-318" start_char="12968" end_char="13022">
+<ORIGINAL_TEXT>？？？在美国，解释宪法的最高法院，加强学习。但是批准监听的不是最高法院，而是各个实际案件的管辖法院，明白了吗？</ORIGINAL_TEXT>
+<TOKEN id="token-318-0" pos="unknown" morph="none" start_char="12968" end_char="13022">？？？在美国，解释宪法的最高法院，加强学习。但是批准监听的不是最高法院，而是各个实际案件的管辖法院，明白了吗？</TOKEN>
+</SEG>
+<SEG id="segment-319" start_char="13026" end_char="13121">
+<ORIGINAL_TEXT>关于民权组织提出的监听侵权，最高法院曾以5：4否决了这个case，也就是说最高法院的裁定是只要法院批准（合乎法律流程）的监听是合法的，而信息自由者宣扬的“绝对信息自由”并不符合美国宪法的概念。</ORIGINAL_TEXT>
+<TOKEN id="token-319-0" pos="unknown" morph="none" start_char="13026" end_char="13121">关于民权组织提出的监听侵权，最高法院曾以5：4否决了这个case，也就是说最高法院的裁定是只要法院批准（合乎法律流程）的监听是合法的，而信息自由者宣扬的“绝对信息自由”并不符合美国宪法的概念。</TOKEN>
+</SEG>
+<SEG id="segment-320" start_char="13123" end_char="13130">
+<ORIGINAL_TEXT>&lt;/quote&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-320-0" pos="unknown" morph="none" start_char="13123" end_char="13130">&lt;/quote&gt;</TOKEN>
+</SEG>
+<SEG id="segment-321" start_char="13132" end_char="13203">
+<ORIGINAL_TEXT>除了最高法院，还有那个法院可以管辖所有美国人与机构，请注意一个基本事实，截至目前的资料，并未有证据现实所谓的最高法院的大法官，不再监听范围之内。</ORIGINAL_TEXT>
+<TOKEN id="token-321-0" pos="unknown" morph="none" start_char="13132" end_char="13203">除了最高法院，还有那个法院可以管辖所有美国人与机构，请注意一个基本事实，截至目前的资料，并未有证据现实所谓的最高法院的大法官，不再监听范围之内。</TOKEN>
+</SEG>
+<SEG id="segment-322" start_char="13205" end_char="13212">
+<ORIGINAL_TEXT>&lt;/quote&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-322-0" pos="unknown" morph="none" start_char="13205" end_char="13212">&lt;/quote&gt;</TOKEN>
+</SEG>
+<SEG id="segment-323" start_char="13214" end_char="13223">
+<ORIGINAL_TEXT>你理解能力有问题吧。</ORIGINAL_TEXT>
+<TOKEN id="token-323-0" pos="word" morph="none" start_char="13214" end_char="13222">你理解能力有问题吧</TOKEN>
+<TOKEN id="token-323-1" pos="punct" morph="none" start_char="13223" end_char="13223">。</TOKEN>
+</SEG>
+<SEG id="segment-324" start_char="13226" end_char="13300">
+<ORIGINAL_TEXT>我上文已经明确告诉你了，监听是由管辖法院批准，如对一个刑事案件嫌犯的监听，需要地方法院批准；而如对一个涉嫌恐怖组织监听，则应该由一家联邦法院作出裁决。</ORIGINAL_TEXT>
+<TOKEN id="token-324-0" pos="unknown" morph="none" start_char="13226" end_char="13300">我上文已经明确告诉你了，监听是由管辖法院批准，如对一个刑事案件嫌犯的监听，需要地方法院批准；而如对一个涉嫌恐怖组织监听，则应该由一家联邦法院作出裁决。</TOKEN>
+</SEG>
+<SEG id="segment-325" start_char="13303" end_char="13402">
+<ORIGINAL_TEXT>美国最高法院又称“宪法法院”，主要负责进行“违宪审核”等重大裁决。对于一般刑事和民事案件，州最高法院或者联邦巡回法院就是终审法院了。只有在案件中发现了违宪情节，才能上诉到联邦最高法院进行“违宪审核”。</ORIGINAL_TEXT>
+<TOKEN id="token-325-0" pos="unknown" morph="none" start_char="13303" end_char="13402">美国最高法院又称“宪法法院”，主要负责进行“违宪审核”等重大裁决。对于一般刑事和民事案件，州最高法院或者联邦巡回法院就是终审法院了。只有在案件中发现了违宪情节，才能上诉到联邦最高法院进行“违宪审核”。</TOKEN>
+</SEG>
+<SEG id="segment-326" start_char="13405" end_char="13409">
+<ORIGINAL_TEXT>明白了吗？</ORIGINAL_TEXT>
+<TOKEN id="token-326-0" pos="word" morph="none" start_char="13405" end_char="13408">明白了吗</TOKEN>
+<TOKEN id="token-326-1" pos="punct" morph="none" start_char="13409" end_char="13409">？</TOKEN>
+</SEG>
+<SEG id="segment-327" start_char="13412" end_char="13463">
+<ORIGINAL_TEXT>因此你去向美国最高法院申请监听令？别说美国，在中国你跑去最高法院申请监听许可，都会直接被当做脑残赶出来！</ORIGINAL_TEXT>
+<TOKEN id="token-327-0" pos="unknown" morph="none" start_char="13412" end_char="13463">因此你去向美国最高法院申请监听令？别说美国，在中国你跑去最高法院申请监听许可，都会直接被当做脑残赶出来！</TOKEN>
+</SEG>
+<SEG id="segment-328" start_char="13466" end_char="13612">
+<ORIGINAL_TEXT>最后。如果最高法院的大法官个人涉嫌违法，那么经某一级法院核准对其监听是合法的。最高法院的大官也是联邦官员之一，也受到联邦法律的束缚。当然最高法院法官身份特殊，因此对其监听必须是非常慎重，在美国监听最高法院法官需要何种程度许可不明，但是相似情况，如果要监听议员，需要议长和国会司法事务委员会批准。</ORIGINAL_TEXT>
+<TOKEN id="token-328-0" pos="unknown" morph="none" start_char="13466" end_char="13612">最后。如果最高法院的大法官个人涉嫌违法，那么经某一级法院核准对其监听是合法的。最高法院的大官也是联邦官员之一，也受到联邦法律的束缚。当然最高法院法官身份特殊，因此对其监听必须是非常慎重，在美国监听最高法院法官需要何种程度许可不明，但是相似情况，如果要监听议员，需要议长和国会司法事务委员会批准。</TOKEN>
+</SEG>
+<SEG id="segment-329" start_char="13615" end_char="13644">
+<ORIGINAL_TEXT>没有证据，那么就烦请不要“YY”什么“监听最高法官”。可乎？</ORIGINAL_TEXT>
+<TOKEN id="token-329-0" pos="unknown" morph="none" start_char="13615" end_char="13644">没有证据，那么就烦请不要“YY”什么“监听最高法官”。可乎？</TOKEN>
+</SEG>
+<SEG id="segment-330" start_char="13646" end_char="13653">
+<ORIGINAL_TEXT>&lt;/quote&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-330-0" pos="unknown" morph="none" start_char="13646" end_char="13653">&lt;/quote&gt;</TOKEN>
+</SEG>
+<SEG id="segment-331" start_char="13655" end_char="13685">
+<ORIGINAL_TEXT>现在公布的监听资料有排除大法官、各级议员、美国各级行政官员？？</ORIGINAL_TEXT>
+<TOKEN id="token-331-0" pos="unknown" morph="none" start_char="13655" end_char="13685">现在公布的监听资料有排除大法官、各级议员、美国各级行政官员？？</TOKEN>
+</SEG>
+<SEG id="segment-332" start_char="13688" end_char="13701">
+<ORIGINAL_TEXT>建议阁下先搞清楚 客观事实。</ORIGINAL_TEXT>
+<TOKEN id="token-332-0" pos="word" morph="none" start_char="13688" end_char="13695">建议阁下先搞清楚</TOKEN>
+<TOKEN id="token-332-1" pos="word" morph="none" start_char="13697" end_char="13700">客观事实</TOKEN>
+<TOKEN id="token-332-2" pos="punct" morph="none" start_char="13701" end_char="13701">。</TOKEN>
+</SEG>
+<SEG id="segment-333" start_char="13704" end_char="13711">
+<ORIGINAL_TEXT>&lt;/quote&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-333-0" pos="unknown" morph="none" start_char="13704" end_char="13711">&lt;/quote&gt;</TOKEN>
+</SEG>
+<SEG id="segment-334" start_char="13713" end_char="13726">
+<ORIGINAL_TEXT>我有说过吗? 还是你在YY？</ORIGINAL_TEXT>
+<TOKEN id="token-334-0" pos="word" morph="none" start_char="13713" end_char="13717">我有说过吗</TOKEN>
+<TOKEN id="token-334-1" pos="punct" morph="none" start_char="13718" end_char="13718">?</TOKEN>
+<TOKEN id="token-334-2" pos="word" morph="none" start_char="13720" end_char="13725">还是你在YY</TOKEN>
+<TOKEN id="token-334-3" pos="punct" morph="none" start_char="13726" end_char="13726">？</TOKEN>
+</SEG>
+<SEG id="segment-335" start_char="13729" end_char="13795">
+<ORIGINAL_TEXT>我告诉你了，在美国监听必须由法院（不是最高法院）批准，而如果你监听的是国会议员之类特殊人物，还需要议长和专门委员会的审核。你明白了吗？</ORIGINAL_TEXT>
+<TOKEN id="token-335-0" pos="unknown" morph="none" start_char="13729" end_char="13795">我告诉你了，在美国监听必须由法院（不是最高法院）批准，而如果你监听的是国会议员之类特殊人物，还需要议长和专门委员会的审核。你明白了吗？</TOKEN>
+</SEG>
+<SEG id="segment-336" start_char="13798" end_char="13874">
+<ORIGINAL_TEXT>就是说如果你要监听高管不是不可以，但是同样需要法院的批准，如FBI监听彼得雷乌斯（CIA局长），就是因为怀疑彼得雷乌斯涉嫌泄密，从而获得法院授权下进行的。</ORIGINAL_TEXT>
+<TOKEN id="token-336-0" pos="unknown" morph="none" start_char="13798" end_char="13874">就是说如果你要监听高管不是不可以，但是同样需要法院的批准，如FBI监听彼得雷乌斯（CIA局长），就是因为怀疑彼得雷乌斯涉嫌泄密，从而获得法院授权下进行的。</TOKEN>
+</SEG>
+<SEG id="segment-337" start_char="13876" end_char="13908">
+<ORIGINAL_TEXT>[ 转自铁血社区 http://www.tiexue.net/ ]</ORIGINAL_TEXT>
+<TOKEN id="token-337-0" pos="unknown" morph="none" start_char="13876" end_char="13876">[</TOKEN>
+<TOKEN id="token-337-1" pos="word" morph="none" start_char="13878" end_char="13883">转自铁血社区</TOKEN>
+<TOKEN id="token-337-2" pos="url" morph="none" start_char="13885" end_char="13906">http://www.tiexue.net/</TOKEN>
+<TOKEN id="token-337-3" pos="unknown" morph="none" start_char="13908" end_char="13908">]</TOKEN>
+</SEG>
+<SEG id="segment-338" start_char="13911" end_char="13996">
+<ORIGINAL_TEXT>现在斯诺登公布的资料，是美国情报机构在反恐名义下进行的监听，斯诺登是参与此类项目的一个技术人员，而他认为情报机构“边监听边申请”是“违法监听”，因此将其披露出来，明白了吗？</ORIGINAL_TEXT>
+<TOKEN id="token-338-0" pos="unknown" morph="none" start_char="13911" end_char="13996">现在斯诺登公布的资料，是美国情报机构在反恐名义下进行的监听，斯诺登是参与此类项目的一个技术人员，而他认为情报机构“边监听边申请”是“违法监听”，因此将其披露出来，明白了吗？</TOKEN>
+</SEG>
+<SEG id="segment-339" start_char="13999" end_char="14085">
+<ORIGINAL_TEXT>而按照美国的信息保密法，政府掌握的各种信息，必须等不同年限后脱密后才能公开。提前泄露本身就是违法行为，因此美国司法部针对斯诺登的罪名中有一条“向未经许可的人士泄露保密信息”。</ORIGINAL_TEXT>
+<TOKEN id="token-339-0" pos="unknown" morph="none" start_char="13999" end_char="14085">而按照美国的信息保密法，政府掌握的各种信息，必须等不同年限后脱密后才能公开。提前泄露本身就是违法行为，因此美国司法部针对斯诺登的罪名中有一条“向未经许可的人士泄露保密信息”。</TOKEN>
+</SEG>
+<SEG id="segment-340" start_char="14088" end_char="14092">
+<ORIGINAL_TEXT>明白了吗？</ORIGINAL_TEXT>
+<TOKEN id="token-340-0" pos="word" morph="none" start_char="14088" end_char="14091">明白了吗</TOKEN>
+<TOKEN id="token-340-1" pos="punct" morph="none" start_char="14092" end_char="14092">？</TOKEN>
+</SEG>
+<SEG id="segment-341" start_char="14095" end_char="14109">
+<ORIGINAL_TEXT>你脑子怎么回事，怎么这么乱？！</ORIGINAL_TEXT>
+<TOKEN id="token-341-0" pos="word" morph="none" start_char="14095" end_char="14101">你脑子怎么回事</TOKEN>
+<TOKEN id="token-341-1" pos="punct" morph="none" start_char="14102" end_char="14102">，</TOKEN>
+<TOKEN id="token-341-2" pos="word" morph="none" start_char="14103" end_char="14107">怎么这么乱</TOKEN>
+<TOKEN id="token-341-3" pos="punct" morph="none" start_char="14108" end_char="14109">？！</TOKEN>
+</SEG>
+<SEG id="segment-342" start_char="14111" end_char="14117">
+<ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-342-0" pos="unknown" morph="none" start_char="14111" end_char="14117">&lt;/post&gt;</TOKEN>
+</SEG>
+<SEG id="segment-343" start_char="14119" end_char="14183">
+<ORIGINAL_TEXT>&lt;post id="p28" author="giga_fans" datetime="2015-05-12T17:13:05"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-343-0" pos="unknown" morph="none" start_char="14119" end_char="14123">&lt;post</TOKEN>
+<TOKEN id="token-343-1" pos="unknown" morph="none" start_char="14125" end_char="14132">id="p28"</TOKEN>
+<TOKEN id="token-343-2" pos="unknown" morph="none" start_char="14134" end_char="14151">author="giga_fans"</TOKEN>
+<TOKEN id="token-343-3" pos="unknown" morph="none" start_char="14153" end_char="14183">datetime="2015-05-12T17:13:05"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-344" start_char="14185" end_char="14208">
+<ORIGINAL_TEXT>&lt;quote orig_author="狼浪"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-344-0" pos="unknown" morph="none" start_char="14185" end_char="14190">&lt;quote</TOKEN>
+<TOKEN id="token-344-1" pos="unknown" morph="none" start_char="14192" end_char="14208">orig_author="狼浪"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-345" start_char="14210" end_char="14240">
+<ORIGINAL_TEXT>&lt;quote orig_author="giga_fans"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-345-0" pos="unknown" morph="none" start_char="14210" end_char="14215">&lt;quote</TOKEN>
+<TOKEN id="token-345-1" pos="unknown" morph="none" start_char="14217" end_char="14240">orig_author="giga_fans"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-346" start_char="14242" end_char="14265">
+<ORIGINAL_TEXT>&lt;quote orig_author="狼浪"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-346-0" pos="unknown" morph="none" start_char="14242" end_char="14247">&lt;quote</TOKEN>
+<TOKEN id="token-346-1" pos="unknown" morph="none" start_char="14249" end_char="14265">orig_author="狼浪"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-347" start_char="14267" end_char="14297">
+<ORIGINAL_TEXT>&lt;quote orig_author="giga_fans"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-347-0" pos="unknown" morph="none" start_char="14267" end_char="14272">&lt;quote</TOKEN>
+<TOKEN id="token-347-1" pos="unknown" morph="none" start_char="14274" end_char="14297">orig_author="giga_fans"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-348" start_char="14299" end_char="14313">
+<ORIGINAL_TEXT>监听行为获得法院批准是合法的。</ORIGINAL_TEXT>
+<TOKEN id="token-348-0" pos="word" morph="none" start_char="14299" end_char="14312">监听行为获得法院批准是合法的</TOKEN>
+<TOKEN id="token-348-1" pos="punct" morph="none" start_char="14313" end_char="14313">。</TOKEN>
+</SEG>
+<SEG id="segment-349" start_char="14315" end_char="14343">
+<ORIGINAL_TEXT>=============================</ORIGINAL_TEXT>
+<TOKEN id="token-349-0" pos="unknown" morph="none" start_char="14315" end_char="14343">=============================</TOKEN>
+</SEG>
+<SEG id="segment-350" start_char="14345" end_char="14369">
+<ORIGINAL_TEXT>什么法院！！！是最低端的县法院 还是最高法院???</ORIGINAL_TEXT>
+<TOKEN id="token-350-0" pos="word" morph="none" start_char="14345" end_char="14348">什么法院</TOKEN>
+<TOKEN id="token-350-1" pos="punct" morph="none" start_char="14349" end_char="14351">！！！</TOKEN>
+<TOKEN id="token-350-2" pos="word" morph="none" start_char="14352" end_char="14359">是最低端的县法院</TOKEN>
+<TOKEN id="token-350-3" pos="word" morph="none" start_char="14361" end_char="14366">还是最高法院</TOKEN>
+<TOKEN id="token-350-4" pos="punct" morph="none" start_char="14367" end_char="14369">???</TOKEN>
+</SEG>
+<SEG id="segment-351" start_char="14371" end_char="14378">
+<ORIGINAL_TEXT>&lt;/quote&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-351-0" pos="unknown" morph="none" start_char="14371" end_char="14378">&lt;/quote&gt;</TOKEN>
+</SEG>
+<SEG id="segment-352" start_char="14380" end_char="14406">
+<ORIGINAL_TEXT>你告诉我，“最低法院”是什么？“最高端法院”又是什么？</ORIGINAL_TEXT>
+<TOKEN id="token-352-0" pos="unknown" morph="none" start_char="14380" end_char="14406">你告诉我，“最低法院”是什么？“最高端法院”又是什么？</TOKEN>
+</SEG>
+<SEG id="segment-353" start_char="14409" end_char="14532">
+<ORIGINAL_TEXT>海洋法观念中，并无“上下级法院”关系，也不存在神州的“法院是用来打官司”“惩处罪犯”的概念。为了任何一个事务组织委员会，这个council就有了法院的概念，美国的郡法院，州法院并非联邦最高法院的下级，联邦巡回法院对于州法院也并无管辖关系。加强学习。</ORIGINAL_TEXT>
+<TOKEN id="token-353-0" pos="unknown" morph="none" start_char="14409" end_char="14532">海洋法观念中，并无“上下级法院”关系，也不存在神州的“法院是用来打官司”“惩处罪犯”的概念。为了任何一个事务组织委员会，这个council就有了法院的概念，美国的郡法院，州法院并非联邦最高法院的下级，联邦巡回法院对于州法院也并无管辖关系。加强学习。</TOKEN>
+</SEG>
+<SEG id="segment-354" start_char="14535" end_char="14658">
+<ORIGINAL_TEXT>对于监听，需要法院授权现在已经是多国普遍的情况，美国NSA要窃听某人，需要有相应管辖权的法院申请。如果想要窃听一个杀人嫌犯的电信，需要向案件管辖地的法院申请，而如果涉及恐怖分子的，则向联邦法院申请（涉嫌恐怖行为的，属于触犯联邦法的罪行）。明白了吗？</ORIGINAL_TEXT>
+<TOKEN id="token-354-0" pos="unknown" morph="none" start_char="14535" end_char="14658">对于监听，需要法院授权现在已经是多国普遍的情况，美国NSA要窃听某人，需要有相应管辖权的法院申请。如果想要窃听一个杀人嫌犯的电信，需要向案件管辖地的法院申请，而如果涉及恐怖分子的，则向联邦法院申请（涉嫌恐怖行为的，属于触犯联邦法的罪行）。明白了吗？</TOKEN>
+</SEG>
+<SEG id="segment-355" start_char="14661" end_char="14874">
+<ORIGINAL_TEXT>问题在于NSA经常在监听中忽然发现某人，因为对于此人监听并不在批准名单中，因此必须立即向法院申请。而要命的是这样的申请会导致延时，而授权令下达，此人可能早就完成了联系而失踪了-----911前就发生过这样的事情，FBI得知有2个和恐怖组织有关的沙特人从德国入境美国（情报由沙特情报局提出，经CIA转交给FBI），但是等FBI得到法院授权去搜查那两人住的旅馆时，发现他们已经离开----后来才发现，这两人就是911事件中的劫机犯。</ORIGINAL_TEXT>
+<TOKEN id="token-355-0" pos="unknown" morph="none" start_char="14661" end_char="14874">问题在于NSA经常在监听中忽然发现某人，因为对于此人监听并不在批准名单中，因此必须立即向法院申请。而要命的是这样的申请会导致延时，而授权令下达，此人可能早就完成了联系而失踪了-----911前就发生过这样的事情，FBI得知有2个和恐怖组织有关的沙特人从德国入境美国（情报由沙特情报局提出，经CIA转交给FBI），但是等FBI得到法院授权去搜查那两人住的旅馆时，发现他们已经离开----后来才发现，这两人就是911事件中的劫机犯。</TOKEN>
+</SEG>
+<SEG id="segment-356" start_char="14877" end_char="14933">
+<ORIGINAL_TEXT>因此后来NSA以“追求效率”为名，经常就搞“边申请边监听”的花样。不过在斯诺登看来，这是严重违背信息自由化观点的。</ORIGINAL_TEXT>
+<TOKEN id="token-356-0" pos="unknown" morph="none" start_char="14877" end_char="14933">因此后来NSA以“追求效率”为名，经常就搞“边申请边监听”的花样。不过在斯诺登看来，这是严重违背信息自由化观点的。</TOKEN>
+</SEG>
+<SEG id="segment-357" start_char="14935" end_char="14942">
+<ORIGINAL_TEXT>&lt;/quote&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-357-0" pos="unknown" morph="none" start_char="14935" end_char="14942">&lt;/quote&gt;</TOKEN>
+</SEG>
+<SEG id="segment-358" start_char="14944" end_char="14998">
+<ORIGINAL_TEXT>？？？在美国，解释宪法的最高法院，加强学习。但是批准监听的不是最高法院，而是各个实际案件的管辖法院，明白了吗？</ORIGINAL_TEXT>
+<TOKEN id="token-358-0" pos="unknown" morph="none" start_char="14944" end_char="14998">？？？在美国，解释宪法的最高法院，加强学习。但是批准监听的不是最高法院，而是各个实际案件的管辖法院，明白了吗？</TOKEN>
+</SEG>
+<SEG id="segment-359" start_char="15001" end_char="15096">
+<ORIGINAL_TEXT>关于民权组织提出的监听侵权，最高法院曾以5：4否决了这个case，也就是说最高法院的裁定是只要法院批准（合乎法律流程）的监听是合法的，而信息自由者宣扬的“绝对信息自由”并不符合美国宪法的概念。</ORIGINAL_TEXT>
+<TOKEN id="token-359-0" pos="unknown" morph="none" start_char="15001" end_char="15096">关于民权组织提出的监听侵权，最高法院曾以5：4否决了这个case，也就是说最高法院的裁定是只要法院批准（合乎法律流程）的监听是合法的，而信息自由者宣扬的“绝对信息自由”并不符合美国宪法的概念。</TOKEN>
+</SEG>
+<SEG id="segment-360" start_char="15098" end_char="15105">
+<ORIGINAL_TEXT>&lt;/quote&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-360-0" pos="unknown" morph="none" start_char="15098" end_char="15105">&lt;/quote&gt;</TOKEN>
+</SEG>
+<SEG id="segment-361" start_char="15107" end_char="15159">
+<ORIGINAL_TEXT>最高法院曾以5：4否决了这个case，也就是说最高法院的裁定是只要法院批准（合乎法律流程）的监听是合法的，</ORIGINAL_TEXT>
+<TOKEN id="token-361-0" pos="unknown" morph="none" start_char="15107" end_char="15159">最高法院曾以5：4否决了这个case，也就是说最高法院的裁定是只要法院批准（合乎法律流程）的监听是合法的，</TOKEN>
+</SEG>
+<SEG id="segment-362" start_char="15161" end_char="15196">
+<ORIGINAL_TEXT>====================================</ORIGINAL_TEXT>
+<TOKEN id="token-362-0" pos="unknown" morph="none" start_char="15161" end_char="15196">====================================</TOKEN>
+</SEG>
+<SEG id="segment-363" start_char="15198" end_char="15292">
+<ORIGINAL_TEXT>自2001年遭遇“9.11”恐怖袭击以来，美国政府一直都在根据这些理论扩大其监控权力，其结果是美国国家安全局利用《爱国者法案》来证明收集在美国境内进行的几乎每一次电话通话记录是有正当理由的。</ORIGINAL_TEXT>
+<TOKEN id="token-363-0" pos="unknown" morph="none" start_char="15198" end_char="15292">自2001年遭遇“9.11”恐怖袭击以来，美国政府一直都在根据这些理论扩大其监控权力，其结果是美国国家安全局利用《爱国者法案》来证明收集在美国境内进行的几乎每一次电话通话记录是有正当理由的。</TOKEN>
+</SEG>
+<SEG id="segment-364" start_char="15294" end_char="15301">
+<ORIGINAL_TEXT>&lt;/quote&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-364-0" pos="unknown" morph="none" start_char="15294" end_char="15301">&lt;/quote&gt;</TOKEN>
+</SEG>
+<SEG id="segment-365" start_char="15303" end_char="15305">
+<ORIGINAL_TEXT>晕倒。</ORIGINAL_TEXT>
+<TOKEN id="token-365-0" pos="word" morph="none" start_char="15303" end_char="15304">晕倒</TOKEN>
+<TOKEN id="token-365-1" pos="punct" morph="none" start_char="15305" end_char="15305">。</TOKEN>
+</SEG>
+<SEG id="segment-366" start_char="15308" end_char="15314">
+<ORIGINAL_TEXT>回去加强学习。</ORIGINAL_TEXT>
+<TOKEN id="token-366-0" pos="word" morph="none" start_char="15308" end_char="15313">回去加强学习</TOKEN>
+<TOKEN id="token-366-1" pos="punct" morph="none" start_char="15314" end_char="15314">。</TOKEN>
+</SEG>
+<SEG id="segment-367" start_char="15317" end_char="15494">
+<ORIGINAL_TEXT>爱国者法案并未赋予情报机构违法监听的权利，爱国者法案，国防授权法授予美国政府保护美国国民，如何遇到涉嫌针对美国人民和美国国土的恐怖行为，政府机构获得一定授权予以应对----譬如针对恐怖嫌疑分子，国防授权法案准许政府先予以拘押，而延缓其申请人身保护令6个月，或者是予以迅速驱逐（针对外国人），即准许在7天内政府迅速驱逐一个嫌犯而不予以其向移民法院申诉的权利。</ORIGINAL_TEXT>
+<TOKEN id="token-367-0" pos="unknown" morph="none" start_char="15317" end_char="15494">爱国者法案并未赋予情报机构违法监听的权利，爱国者法案，国防授权法授予美国政府保护美国国民，如何遇到涉嫌针对美国人民和美国国土的恐怖行为，政府机构获得一定授权予以应对----譬如针对恐怖嫌疑分子，国防授权法案准许政府先予以拘押，而延缓其申请人身保护令6个月，或者是予以迅速驱逐（针对外国人），即准许在7天内政府迅速驱逐一个嫌犯而不予以其向移民法院申诉的权利。</TOKEN>
+</SEG>
+<SEG id="segment-368" start_char="15497" end_char="15501">
+<ORIGINAL_TEXT>明白了吗？</ORIGINAL_TEXT>
+<TOKEN id="token-368-0" pos="word" morph="none" start_char="15497" end_char="15500">明白了吗</TOKEN>
+<TOKEN id="token-368-1" pos="punct" morph="none" start_char="15501" end_char="15501">？</TOKEN>
+</SEG>
+<SEG id="segment-369" start_char="15504" end_char="15696">
+<ORIGINAL_TEXT>NSA在针对美国国内的每一次监听，每一次都必须有非法理由，否则就是违法监听了，明白了吗？因为NSA是国家情报机构，因此其监听的每一次都必须是针对国家安全的（涉及刑事罪案的监听，是由FBI或者各地警察局负责实施）。因此NSA宣称其每一次监听，都是在《爱国者法案》授权许可范围内-----而斯诺登则指出了另一个问题，即NSA事实上是在未得到法院授权的前提下已经开始监听，这属于“程序违法”。</ORIGINAL_TEXT>
+<TOKEN id="token-369-0" pos="unknown" morph="none" start_char="15504" end_char="15696">NSA在针对美国国内的每一次监听，每一次都必须有非法理由，否则就是违法监听了，明白了吗？因为NSA是国家情报机构，因此其监听的每一次都必须是针对国家安全的（涉及刑事罪案的监听，是由FBI或者各地警察局负责实施）。因此NSA宣称其每一次监听，都是在《爱国者法案》授权许可范围内-----而斯诺登则指出了另一个问题，即NSA事实上是在未得到法院授权的前提下已经开始监听，这属于“程序违法”。</TOKEN>
+</SEG>
+<SEG id="segment-370" start_char="15699" end_char="15702">
+<ORIGINAL_TEXT>懂了吗？</ORIGINAL_TEXT>
+<TOKEN id="token-370-0" pos="word" morph="none" start_char="15699" end_char="15701">懂了吗</TOKEN>
+<TOKEN id="token-370-1" pos="punct" morph="none" start_char="15702" end_char="15702">？</TOKEN>
+</SEG>
+<SEG id="segment-371" start_char="15705" end_char="15832">
+<ORIGINAL_TEXT>也就是说，斯诺登主张的，是情报部门在监听东Y运头目正在和北京一厮谈论暴恐行动问题，但是那厮之前并未在监听名单上，那么情报部门必须立即关闭监听设备，然后依照法律程序，向某一个法院申请针对那厮的监听令，然后几天后得到授权才能恢复监听。否则就是“非法监听行为”。</ORIGINAL_TEXT>
+<TOKEN id="token-371-0" pos="unknown" morph="none" start_char="15705" end_char="15832">也就是说，斯诺登主张的，是情报部门在监听东Y运头目正在和北京一厮谈论暴恐行动问题，但是那厮之前并未在监听名单上，那么情报部门必须立即关闭监听设备，然后依照法律程序，向某一个法院申请针对那厮的监听令，然后几天后得到授权才能恢复监听。否则就是“非法监听行为”。</TOKEN>
+</SEG>
+<SEG id="segment-372" start_char="15835" end_char="15840">
+<ORIGINAL_TEXT>明白了吗？！</ORIGINAL_TEXT>
+<TOKEN id="token-372-0" pos="word" morph="none" start_char="15835" end_char="15838">明白了吗</TOKEN>
+<TOKEN id="token-372-1" pos="punct" morph="none" start_char="15839" end_char="15840">？！</TOKEN>
+</SEG>
+<SEG id="segment-373" start_char="15842" end_char="15848">
+<ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-373-0" pos="unknown" morph="none" start_char="15842" end_char="15848">&lt;/post&gt;</TOKEN>
+</SEG>
+<SEG id="segment-374" start_char="15850" end_char="15907">
+<ORIGINAL_TEXT>&lt;post id="p29" author="狼浪" datetime="2015-05-12T18:54:37"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-374-0" pos="unknown" morph="none" start_char="15850" end_char="15854">&lt;post</TOKEN>
+<TOKEN id="token-374-1" pos="unknown" morph="none" start_char="15856" end_char="15863">id="p29"</TOKEN>
+<TOKEN id="token-374-2" pos="unknown" morph="none" start_char="15865" end_char="15875">author="狼浪"</TOKEN>
+<TOKEN id="token-374-3" pos="unknown" morph="none" start_char="15877" end_char="15907">datetime="2015-05-12T18:54:37"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-375" start_char="15909" end_char="15940">
+<ORIGINAL_TEXT>&lt;quote orig_author=" giga_fans"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-375-0" pos="unknown" morph="none" start_char="15909" end_char="15914">&lt;quote</TOKEN>
+<TOKEN id="token-375-1" pos="unknown" morph="none" start_char="15916" end_char="15928">orig_author="</TOKEN>
+<TOKEN id="token-375-2" pos="unknown" morph="none" start_char="15930" end_char="15940">giga_fans"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-376" start_char="15942" end_char="15965">
+<ORIGINAL_TEXT>&lt;quote orig_author="狼浪"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-376-0" pos="unknown" morph="none" start_char="15942" end_char="15947">&lt;quote</TOKEN>
+<TOKEN id="token-376-1" pos="unknown" morph="none" start_char="15949" end_char="15965">orig_author="狼浪"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-377" start_char="15967" end_char="15997">
+<ORIGINAL_TEXT>&lt;quote orig_author="giga_fans"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-377-0" pos="unknown" morph="none" start_char="15967" end_char="15972">&lt;quote</TOKEN>
+<TOKEN id="token-377-1" pos="unknown" morph="none" start_char="15974" end_char="15997">orig_author="giga_fans"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-378" start_char="15999" end_char="16022">
+<ORIGINAL_TEXT>&lt;quote orig_author="狼浪"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-378-0" pos="unknown" morph="none" start_char="15999" end_char="16004">&lt;quote</TOKEN>
+<TOKEN id="token-378-1" pos="unknown" morph="none" start_char="16006" end_char="16022">orig_author="狼浪"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-379" start_char="16024" end_char="16054">
+<ORIGINAL_TEXT>&lt;quote orig_author="giga_fans"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-379-0" pos="unknown" morph="none" start_char="16024" end_char="16029">&lt;quote</TOKEN>
+<TOKEN id="token-379-1" pos="unknown" morph="none" start_char="16031" end_char="16054">orig_author="giga_fans"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-380" start_char="16056" end_char="16110">
+<ORIGINAL_TEXT>？？？在美国，解释宪法的最高法院，加强学习。但是批准监听的不是最高法院，而是各个实际案件的管辖法院，明白了吗？</ORIGINAL_TEXT>
+<TOKEN id="token-380-0" pos="unknown" morph="none" start_char="16056" end_char="16110">？？？在美国，解释宪法的最高法院，加强学习。但是批准监听的不是最高法院，而是各个实际案件的管辖法院，明白了吗？</TOKEN>
+</SEG>
+<SEG id="segment-381" start_char="16113" end_char="16208">
+<ORIGINAL_TEXT>关于民权组织提出的监听侵权，最高法院曾以5：4否决了这个case，也就是说最高法院的裁定是只要法院批准（合乎法律流程）的监听是合法的，而信息自由者宣扬的“绝对信息自由”并不符合美国宪法的概念。</ORIGINAL_TEXT>
+<TOKEN id="token-381-0" pos="unknown" morph="none" start_char="16113" end_char="16208">关于民权组织提出的监听侵权，最高法院曾以5：4否决了这个case，也就是说最高法院的裁定是只要法院批准（合乎法律流程）的监听是合法的，而信息自由者宣扬的“绝对信息自由”并不符合美国宪法的概念。</TOKEN>
+</SEG>
+<SEG id="segment-382" start_char="16210" end_char="16217">
+<ORIGINAL_TEXT>&lt;/quote&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-382-0" pos="unknown" morph="none" start_char="16210" end_char="16217">&lt;/quote&gt;</TOKEN>
+</SEG>
+<SEG id="segment-383" start_char="16219" end_char="16290">
+<ORIGINAL_TEXT>除了最高法院，还有那个法院可以管辖所有美国人与机构，请注意一个基本事实，截至目前的资料，并未有证据现实所谓的最高法院的大法官，不再监听范围之内。</ORIGINAL_TEXT>
+<TOKEN id="token-383-0" pos="unknown" morph="none" start_char="16219" end_char="16290">除了最高法院，还有那个法院可以管辖所有美国人与机构，请注意一个基本事实，截至目前的资料，并未有证据现实所谓的最高法院的大法官，不再监听范围之内。</TOKEN>
+</SEG>
+<SEG id="segment-384" start_char="16292" end_char="16299">
+<ORIGINAL_TEXT>&lt;/quote&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-384-0" pos="unknown" morph="none" start_char="16292" end_char="16299">&lt;/quote&gt;</TOKEN>
+</SEG>
+<SEG id="segment-385" start_char="16301" end_char="16303">
+<ORIGINAL_TEXT>？？？</ORIGINAL_TEXT>
+<TOKEN id="token-385-0" pos="unknown" morph="none" start_char="16301" end_char="16303">？？？</TOKEN>
+</SEG>
+<SEG id="segment-386" start_char="16306" end_char="16315">
+<ORIGINAL_TEXT>你理解能力有问题吧。</ORIGINAL_TEXT>
+<TOKEN id="token-386-0" pos="word" morph="none" start_char="16306" end_char="16314">你理解能力有问题吧</TOKEN>
+<TOKEN id="token-386-1" pos="punct" morph="none" start_char="16315" end_char="16315">。</TOKEN>
+</SEG>
+<SEG id="segment-387" start_char="16318" end_char="16392">
+<ORIGINAL_TEXT>我上文已经明确告诉你了，监听是由管辖法院批准，如对一个刑事案件嫌犯的监听，需要地方法院批准；而如对一个涉嫌恐怖组织监听，则应该由一家联邦法院作出裁决。</ORIGINAL_TEXT>
+<TOKEN id="token-387-0" pos="unknown" morph="none" start_char="16318" end_char="16392">我上文已经明确告诉你了，监听是由管辖法院批准，如对一个刑事案件嫌犯的监听，需要地方法院批准；而如对一个涉嫌恐怖组织监听，则应该由一家联邦法院作出裁决。</TOKEN>
+</SEG>
+<SEG id="segment-388" start_char="16395" end_char="16494">
+<ORIGINAL_TEXT>美国最高法院又称“宪法法院”，主要负责进行“违宪审核”等重大裁决。对于一般刑事和民事案件，州最高法院或者联邦巡回法院就是终审法院了。只有在案件中发现了违宪情节，才能上诉到联邦最高法院进行“违宪审核”。</ORIGINAL_TEXT>
+<TOKEN id="token-388-0" pos="unknown" morph="none" start_char="16395" end_char="16494">美国最高法院又称“宪法法院”，主要负责进行“违宪审核”等重大裁决。对于一般刑事和民事案件，州最高法院或者联邦巡回法院就是终审法院了。只有在案件中发现了违宪情节，才能上诉到联邦最高法院进行“违宪审核”。</TOKEN>
+</SEG>
+<SEG id="segment-389" start_char="16497" end_char="16501">
+<ORIGINAL_TEXT>明白了吗？</ORIGINAL_TEXT>
+<TOKEN id="token-389-0" pos="word" morph="none" start_char="16497" end_char="16500">明白了吗</TOKEN>
+<TOKEN id="token-389-1" pos="punct" morph="none" start_char="16501" end_char="16501">？</TOKEN>
+</SEG>
+<SEG id="segment-390" start_char="16504" end_char="16555">
+<ORIGINAL_TEXT>因此你去向美国最高法院申请监听令？别说美国，在中国你跑去最高法院申请监听许可，都会直接被当做脑残赶出来！</ORIGINAL_TEXT>
+<TOKEN id="token-390-0" pos="unknown" morph="none" start_char="16504" end_char="16555">因此你去向美国最高法院申请监听令？别说美国，在中国你跑去最高法院申请监听许可，都会直接被当做脑残赶出来！</TOKEN>
+</SEG>
+<SEG id="segment-391" start_char="16558" end_char="16704">
+<ORIGINAL_TEXT>最后。如果最高法院的大法官个人涉嫌违法，那么经某一级法院核准对其监听是合法的。最高法院的大官也是联邦官员之一，也受到联邦法律的束缚。当然最高法院法官身份特殊，因此对其监听必须是非常慎重，在美国监听最高法院法官需要何种程度许可不明，但是相似情况，如果要监听议员，需要议长和国会司法事务委员会批准。</ORIGINAL_TEXT>
+<TOKEN id="token-391-0" pos="unknown" morph="none" start_char="16558" end_char="16704">最后。如果最高法院的大法官个人涉嫌违法，那么经某一级法院核准对其监听是合法的。最高法院的大官也是联邦官员之一，也受到联邦法律的束缚。当然最高法院法官身份特殊，因此对其监听必须是非常慎重，在美国监听最高法院法官需要何种程度许可不明，但是相似情况，如果要监听议员，需要议长和国会司法事务委员会批准。</TOKEN>
+</SEG>
+<SEG id="segment-392" start_char="16707" end_char="16736">
+<ORIGINAL_TEXT>没有证据，那么就烦请不要“YY”什么“监听最高法官”。可乎？</ORIGINAL_TEXT>
+<TOKEN id="token-392-0" pos="unknown" morph="none" start_char="16707" end_char="16736">没有证据，那么就烦请不要“YY”什么“监听最高法官”。可乎？</TOKEN>
+</SEG>
+<SEG id="segment-393" start_char="16738" end_char="16745">
+<ORIGINAL_TEXT>&lt;/quote&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-393-0" pos="unknown" morph="none" start_char="16738" end_char="16745">&lt;/quote&gt;</TOKEN>
+</SEG>
+<SEG id="segment-394" start_char="16747" end_char="16777">
+<ORIGINAL_TEXT>现在公布的监听资料有排除大法官、各级议员、美国各级行政官员？？</ORIGINAL_TEXT>
+<TOKEN id="token-394-0" pos="unknown" morph="none" start_char="16747" end_char="16777">现在公布的监听资料有排除大法官、各级议员、美国各级行政官员？？</TOKEN>
+</SEG>
+<SEG id="segment-395" start_char="16779" end_char="16792">
+<ORIGINAL_TEXT>建议阁下先搞清楚 客观事实。</ORIGINAL_TEXT>
+<TOKEN id="token-395-0" pos="word" morph="none" start_char="16779" end_char="16786">建议阁下先搞清楚</TOKEN>
+<TOKEN id="token-395-1" pos="word" morph="none" start_char="16788" end_char="16791">客观事实</TOKEN>
+<TOKEN id="token-395-2" pos="punct" morph="none" start_char="16792" end_char="16792">。</TOKEN>
+</SEG>
+<SEG id="segment-396" start_char="16794" end_char="16801">
+<ORIGINAL_TEXT>&lt;/quote&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-396-0" pos="unknown" morph="none" start_char="16794" end_char="16801">&lt;/quote&gt;</TOKEN>
+</SEG>
+<SEG id="segment-397" start_char="16803" end_char="16816">
+<ORIGINAL_TEXT>我有说过吗? 还是你在YY？</ORIGINAL_TEXT>
+<TOKEN id="token-397-0" pos="word" morph="none" start_char="16803" end_char="16807">我有说过吗</TOKEN>
+<TOKEN id="token-397-1" pos="punct" morph="none" start_char="16808" end_char="16808">?</TOKEN>
+<TOKEN id="token-397-2" pos="word" morph="none" start_char="16810" end_char="16815">还是你在YY</TOKEN>
+<TOKEN id="token-397-3" pos="punct" morph="none" start_char="16816" end_char="16816">？</TOKEN>
+</SEG>
+<SEG id="segment-398" start_char="16819" end_char="16885">
+<ORIGINAL_TEXT>我告诉你了，在美国监听必须由法院（不是最高法院）批准，而如果你监听的是国会议员之类特殊人物，还需要议长和专门委员会的审核。你明白了吗？</ORIGINAL_TEXT>
+<TOKEN id="token-398-0" pos="unknown" morph="none" start_char="16819" end_char="16885">我告诉你了，在美国监听必须由法院（不是最高法院）批准，而如果你监听的是国会议员之类特殊人物，还需要议长和专门委员会的审核。你明白了吗？</TOKEN>
+</SEG>
+<SEG id="segment-399" start_char="16888" end_char="16964">
+<ORIGINAL_TEXT>就是说如果你要监听高管不是不可以，但是同样需要法院的批准，如FBI监听彼得雷乌斯（CIA局长），就是因为怀疑彼得雷乌斯涉嫌泄密，从而获得法院授权下进行的。</ORIGINAL_TEXT>
+<TOKEN id="token-399-0" pos="unknown" morph="none" start_char="16888" end_char="16964">就是说如果你要监听高管不是不可以，但是同样需要法院的批准，如FBI监听彼得雷乌斯（CIA局长），就是因为怀疑彼得雷乌斯涉嫌泄密，从而获得法院授权下进行的。</TOKEN>
+</SEG>
+<SEG id="segment-400" start_char="16967" end_char="17052">
+<ORIGINAL_TEXT>现在斯诺登公布的资料，是美国情报机构在反恐名义下进行的监听，斯诺登是参与此类项目的一个技术人员，而他认为情报机构“边监听边申请”是“违法监听”，因此将其披露出来，明白了吗？</ORIGINAL_TEXT>
+<TOKEN id="token-400-0" pos="unknown" morph="none" start_char="16967" end_char="17052">现在斯诺登公布的资料，是美国情报机构在反恐名义下进行的监听，斯诺登是参与此类项目的一个技术人员，而他认为情报机构“边监听边申请”是“违法监听”，因此将其披露出来，明白了吗？</TOKEN>
+</SEG>
+<SEG id="segment-401" start_char="17055" end_char="17141">
+<ORIGINAL_TEXT>而按照美国的信息保密法，政府掌握的各种信息，必须等不同年限后脱密后才能公开。提前泄露本身就是违法行为，因此美国司法部针对斯诺登的罪名中有一条“向未经许可的人士泄露保密信息”。</ORIGINAL_TEXT>
+<TOKEN id="token-401-0" pos="unknown" morph="none" start_char="17055" end_char="17141">而按照美国的信息保密法，政府掌握的各种信息，必须等不同年限后脱密后才能公开。提前泄露本身就是违法行为，因此美国司法部针对斯诺登的罪名中有一条“向未经许可的人士泄露保密信息”。</TOKEN>
+</SEG>
+<SEG id="segment-402" start_char="17144" end_char="17148">
+<ORIGINAL_TEXT>明白了吗？</ORIGINAL_TEXT>
+<TOKEN id="token-402-0" pos="word" morph="none" start_char="17144" end_char="17147">明白了吗</TOKEN>
+<TOKEN id="token-402-1" pos="punct" morph="none" start_char="17148" end_char="17148">？</TOKEN>
+</SEG>
+<SEG id="segment-403" start_char="17151" end_char="17165">
+<ORIGINAL_TEXT>你脑子怎么回事，怎么这么乱？！</ORIGINAL_TEXT>
+<TOKEN id="token-403-0" pos="word" morph="none" start_char="17151" end_char="17157">你脑子怎么回事</TOKEN>
+<TOKEN id="token-403-1" pos="punct" morph="none" start_char="17158" end_char="17158">，</TOKEN>
+<TOKEN id="token-403-2" pos="word" morph="none" start_char="17159" end_char="17163">怎么这么乱</TOKEN>
+<TOKEN id="token-403-3" pos="punct" morph="none" start_char="17164" end_char="17165">？！</TOKEN>
+</SEG>
+<SEG id="segment-404" start_char="17167" end_char="17174">
+<ORIGINAL_TEXT>&lt;/quote&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-404-0" pos="unknown" morph="none" start_char="17167" end_char="17174">&lt;/quote&gt;</TOKEN>
+</SEG>
+<SEG id="segment-405" start_char="17176" end_char="17189">
+<ORIGINAL_TEXT>我有说过吗? 还是你在YY？</ORIGINAL_TEXT>
+<TOKEN id="token-405-0" pos="word" morph="none" start_char="17176" end_char="17180">我有说过吗</TOKEN>
+<TOKEN id="token-405-1" pos="punct" morph="none" start_char="17181" end_char="17181">?</TOKEN>
+<TOKEN id="token-405-2" pos="word" morph="none" start_char="17183" end_char="17188">还是你在YY</TOKEN>
+<TOKEN id="token-405-3" pos="punct" morph="none" start_char="17189" end_char="17189">？</TOKEN>
+</SEG>
+<SEG id="segment-406" start_char="17191" end_char="17214">
+<ORIGINAL_TEXT>========================</ORIGINAL_TEXT>
+<TOKEN id="token-406-0" pos="unknown" morph="none" start_char="17191" end_char="17214">========================</TOKEN>
+</SEG>
+<SEG id="segment-407" start_char="17216" end_char="17252">
+<ORIGINAL_TEXT>阁下不是一直在YY法院的管辖权吗？连对象都搞不清楚，如何界定法院的管辖权？</ORIGINAL_TEXT>
+<TOKEN id="token-407-0" pos="unknown" morph="none" start_char="17216" end_char="17252">阁下不是一直在YY法院的管辖权吗？连对象都搞不清楚，如何界定法院的管辖权？</TOKEN>
+</SEG>
+<SEG id="segment-408" start_char="17255" end_char="17277">
+<ORIGINAL_TEXT>前言都不搭后语，这地舔的也太没技术含量了吧！！</ORIGINAL_TEXT>
+<TOKEN id="token-408-0" pos="word" morph="none" start_char="17255" end_char="17261">前言都不搭后语</TOKEN>
+<TOKEN id="token-408-1" pos="punct" morph="none" start_char="17262" end_char="17262">，</TOKEN>
+<TOKEN id="token-408-2" pos="word" morph="none" start_char="17263" end_char="17275">这地舔的也太没技术含量了吧</TOKEN>
+<TOKEN id="token-408-3" pos="punct" morph="none" start_char="17276" end_char="17277">！！</TOKEN>
+</SEG>
+<SEG id="segment-409" start_char="17279" end_char="17285">
+<ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-409-0" pos="unknown" morph="none" start_char="17279" end_char="17285">&lt;/post&gt;</TOKEN>
+</SEG>
+<SEG id="segment-410" start_char="17287" end_char="17344">
+<ORIGINAL_TEXT>&lt;post id="p30" author="狼浪" datetime="2015-05-12T18:58:17"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-410-0" pos="unknown" morph="none" start_char="17287" end_char="17291">&lt;post</TOKEN>
+<TOKEN id="token-410-1" pos="unknown" morph="none" start_char="17293" end_char="17300">id="p30"</TOKEN>
+<TOKEN id="token-410-2" pos="unknown" morph="none" start_char="17302" end_char="17312">author="狼浪"</TOKEN>
+<TOKEN id="token-410-3" pos="unknown" morph="none" start_char="17314" end_char="17344">datetime="2015-05-12T18:58:17"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-411" start_char="17346" end_char="17376">
+<ORIGINAL_TEXT>&lt;quote orig_author="giga_fans"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-411-0" pos="unknown" morph="none" start_char="17346" end_char="17351">&lt;quote</TOKEN>
+<TOKEN id="token-411-1" pos="unknown" morph="none" start_char="17353" end_char="17376">orig_author="giga_fans"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-412" start_char="17378" end_char="17401">
+<ORIGINAL_TEXT>&lt;quote orig_author="狼浪"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-412-0" pos="unknown" morph="none" start_char="17378" end_char="17383">&lt;quote</TOKEN>
+<TOKEN id="token-412-1" pos="unknown" morph="none" start_char="17385" end_char="17401">orig_author="狼浪"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-413" start_char="17403" end_char="17433">
+<ORIGINAL_TEXT>&lt;quote orig_author="giga_fans"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-413-0" pos="unknown" morph="none" start_char="17403" end_char="17408">&lt;quote</TOKEN>
+<TOKEN id="token-413-1" pos="unknown" morph="none" start_char="17410" end_char="17433">orig_author="giga_fans"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-414" start_char="17435" end_char="17458">
+<ORIGINAL_TEXT>&lt;quote orig_author="狼浪"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-414-0" pos="unknown" morph="none" start_char="17435" end_char="17440">&lt;quote</TOKEN>
+<TOKEN id="token-414-1" pos="unknown" morph="none" start_char="17442" end_char="17458">orig_author="狼浪"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-415" start_char="17460" end_char="17491">
+<ORIGINAL_TEXT>&lt;quote orig_author=" giga_fans"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-415-0" pos="unknown" morph="none" start_char="17460" end_char="17465">&lt;quote</TOKEN>
+<TOKEN id="token-415-1" pos="unknown" morph="none" start_char="17467" end_char="17479">orig_author="</TOKEN>
+<TOKEN id="token-415-2" pos="unknown" morph="none" start_char="17481" end_char="17491">giga_fans"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-416" start_char="17493" end_char="17519">
+<ORIGINAL_TEXT>你告诉我，“最低法院”是什么？“最高端法院”又是什么？</ORIGINAL_TEXT>
+<TOKEN id="token-416-0" pos="unknown" morph="none" start_char="17493" end_char="17519">你告诉我，“最低法院”是什么？“最高端法院”又是什么？</TOKEN>
+</SEG>
+<SEG id="segment-417" start_char="17522" end_char="17645">
+<ORIGINAL_TEXT>海洋法观念中，并无“上下级法院”关系，也不存在神州的“法院是用来打官司”“惩处罪犯”的概念。为了任何一个事务组织委员会，这个council就有了法院的概念，美国的郡法院，州法院并非联邦最高法院的下级，联邦巡回法院对于州法院也并无管辖关系。加强学习。</ORIGINAL_TEXT>
+<TOKEN id="token-417-0" pos="unknown" morph="none" start_char="17522" end_char="17645">海洋法观念中，并无“上下级法院”关系，也不存在神州的“法院是用来打官司”“惩处罪犯”的概念。为了任何一个事务组织委员会，这个council就有了法院的概念，美国的郡法院，州法院并非联邦最高法院的下级，联邦巡回法院对于州法院也并无管辖关系。加强学习。</TOKEN>
+</SEG>
+<SEG id="segment-418" start_char="17648" end_char="17771">
+<ORIGINAL_TEXT>对于监听，需要法院授权现在已经是多国普遍的情况，美国NSA要窃听某人，需要有相应管辖权的法院申请。如果想要窃听一个杀人嫌犯的电信，需要向案件管辖地的法院申请，而如果涉及恐怖分子的，则向联邦法院申请（涉嫌恐怖行为的，属于触犯联邦法的罪行）。明白了吗？</ORIGINAL_TEXT>
+<TOKEN id="token-418-0" pos="unknown" morph="none" start_char="17648" end_char="17771">对于监听，需要法院授权现在已经是多国普遍的情况，美国NSA要窃听某人，需要有相应管辖权的法院申请。如果想要窃听一个杀人嫌犯的电信，需要向案件管辖地的法院申请，而如果涉及恐怖分子的，则向联邦法院申请（涉嫌恐怖行为的，属于触犯联邦法的罪行）。明白了吗？</TOKEN>
+</SEG>
+<SEG id="segment-419" start_char="17774" end_char="17987">
+<ORIGINAL_TEXT>问题在于NSA经常在监听中忽然发现某人，因为对于此人监听并不在批准名单中，因此必须立即向法院申请。而要命的是这样的申请会导致延时，而授权令下达，此人可能早就完成了联系而失踪了-----911前就发生过这样的事情，FBI得知有2个和恐怖组织有关的沙特人从德国入境美国（情报由沙特情报局提出，经CIA转交给FBI），但是等FBI得到法院授权去搜查那两人住的旅馆时，发现他们已经离开----后来才发现，这两人就是911事件中的劫机犯。</ORIGINAL_TEXT>
+<TOKEN id="token-419-0" pos="unknown" morph="none" start_char="17774" end_char="17987">问题在于NSA经常在监听中忽然发现某人，因为对于此人监听并不在批准名单中，因此必须立即向法院申请。而要命的是这样的申请会导致延时，而授权令下达，此人可能早就完成了联系而失踪了-----911前就发生过这样的事情，FBI得知有2个和恐怖组织有关的沙特人从德国入境美国（情报由沙特情报局提出，经CIA转交给FBI），但是等FBI得到法院授权去搜查那两人住的旅馆时，发现他们已经离开----后来才发现，这两人就是911事件中的劫机犯。</TOKEN>
+</SEG>
+<SEG id="segment-420" start_char="17990" end_char="18046">
+<ORIGINAL_TEXT>因此后来NSA以“追求效率”为名，经常就搞“边申请边监听”的花样。不过在斯诺登看来，这是严重违背信息自由化观点的。</ORIGINAL_TEXT>
+<TOKEN id="token-420-0" pos="unknown" morph="none" start_char="17990" end_char="18046">因此后来NSA以“追求效率”为名，经常就搞“边申请边监听”的花样。不过在斯诺登看来，这是严重违背信息自由化观点的。</TOKEN>
+</SEG>
+<SEG id="segment-421" start_char="18048" end_char="18055">
+<ORIGINAL_TEXT>&lt;/quote&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-421-0" pos="unknown" morph="none" start_char="18048" end_char="18055">&lt;/quote&gt;</TOKEN>
+</SEG>
+<SEG id="segment-422" start_char="18057" end_char="18096">
+<ORIGINAL_TEXT>关键是什么法院有资格解释宪法...而阁下显然是顾左右而言其他...洗地效率太差。</ORIGINAL_TEXT>
+<TOKEN id="token-422-0" pos="unknown" morph="none" start_char="18057" end_char="18096">关键是什么法院有资格解释宪法...而阁下显然是顾左右而言其他...洗地效率太差。</TOKEN>
+</SEG>
+<SEG id="segment-423" start_char="18098" end_char="18105">
+<ORIGINAL_TEXT>&lt;/quote&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-423-0" pos="unknown" morph="none" start_char="18098" end_char="18105">&lt;/quote&gt;</TOKEN>
+</SEG>
+<SEG id="segment-424" start_char="18107" end_char="18161">
+<ORIGINAL_TEXT>？？？在美国，解释宪法的最高法院，加强学习。但是批准监听的不是最高法院，而是各个实际案件的管辖法院，明白了吗？</ORIGINAL_TEXT>
+<TOKEN id="token-424-0" pos="unknown" morph="none" start_char="18107" end_char="18161">？？？在美国，解释宪法的最高法院，加强学习。但是批准监听的不是最高法院，而是各个实际案件的管辖法院，明白了吗？</TOKEN>
+</SEG>
+<SEG id="segment-425" start_char="18164" end_char="18259">
+<ORIGINAL_TEXT>关于民权组织提出的监听侵权，最高法院曾以5：4否决了这个case，也就是说最高法院的裁定是只要法院批准（合乎法律流程）的监听是合法的，而信息自由者宣扬的“绝对信息自由”并不符合美国宪法的概念。</ORIGINAL_TEXT>
+<TOKEN id="token-425-0" pos="unknown" morph="none" start_char="18164" end_char="18259">关于民权组织提出的监听侵权，最高法院曾以5：4否决了这个case，也就是说最高法院的裁定是只要法院批准（合乎法律流程）的监听是合法的，而信息自由者宣扬的“绝对信息自由”并不符合美国宪法的概念。</TOKEN>
+</SEG>
+<SEG id="segment-426" start_char="18261" end_char="18268">
+<ORIGINAL_TEXT>&lt;/quote&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-426-0" pos="unknown" morph="none" start_char="18261" end_char="18268">&lt;/quote&gt;</TOKEN>
+</SEG>
+<SEG id="segment-427" start_char="18271" end_char="18323">
+<ORIGINAL_TEXT>最高法院曾以5：4否决了这个case，也就是说最高法院的裁定是只要法院批准（合乎法律流程）的监听是合法的，</ORIGINAL_TEXT>
+<TOKEN id="token-427-0" pos="unknown" morph="none" start_char="18271" end_char="18323">最高法院曾以5：4否决了这个case，也就是说最高法院的裁定是只要法院批准（合乎法律流程）的监听是合法的，</TOKEN>
+</SEG>
+<SEG id="segment-428" start_char="18325" end_char="18360">
+<ORIGINAL_TEXT>====================================</ORIGINAL_TEXT>
+<TOKEN id="token-428-0" pos="unknown" morph="none" start_char="18325" end_char="18360">====================================</TOKEN>
+</SEG>
+<SEG id="segment-429" start_char="18362" end_char="18456">
+<ORIGINAL_TEXT>自2001年遭遇“9.11”恐怖袭击以来，美国政府一直都在根据这些理论扩大其监控权力，其结果是美国国家安全局利用《爱国者法案》来证明收集在美国境内进行的几乎每一次电话通话记录是有正当理由的。</ORIGINAL_TEXT>
+<TOKEN id="token-429-0" pos="unknown" morph="none" start_char="18362" end_char="18456">自2001年遭遇“9.11”恐怖袭击以来，美国政府一直都在根据这些理论扩大其监控权力，其结果是美国国家安全局利用《爱国者法案》来证明收集在美国境内进行的几乎每一次电话通话记录是有正当理由的。</TOKEN>
+</SEG>
+<SEG id="segment-430" start_char="18458" end_char="18465">
+<ORIGINAL_TEXT>&lt;/quote&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-430-0" pos="unknown" morph="none" start_char="18458" end_char="18465">&lt;/quote&gt;</TOKEN>
+</SEG>
+<SEG id="segment-431" start_char="18467" end_char="18469">
+<ORIGINAL_TEXT>晕倒。</ORIGINAL_TEXT>
+<TOKEN id="token-431-0" pos="word" morph="none" start_char="18467" end_char="18468">晕倒</TOKEN>
+<TOKEN id="token-431-1" pos="punct" morph="none" start_char="18469" end_char="18469">。</TOKEN>
+</SEG>
+<SEG id="segment-432" start_char="18472" end_char="18478">
+<ORIGINAL_TEXT>回去加强学习。</ORIGINAL_TEXT>
+<TOKEN id="token-432-0" pos="word" morph="none" start_char="18472" end_char="18477">回去加强学习</TOKEN>
+<TOKEN id="token-432-1" pos="punct" morph="none" start_char="18478" end_char="18478">。</TOKEN>
+</SEG>
+<SEG id="segment-433" start_char="18481" end_char="18658">
+<ORIGINAL_TEXT>爱国者法案并未赋予情报机构违法监听的权利，爱国者法案，国防授权法授予美国政府保护美国国民，如何遇到涉嫌针对美国人民和美国国土的恐怖行为，政府机构获得一定授权予以应对----譬如针对恐怖嫌疑分子，国防授权法案准许政府先予以拘押，而延缓其申请人身保护令6个月，或者是予以迅速驱逐（针对外国人），即准许在7天内政府迅速驱逐一个嫌犯而不予以其向移民法院申诉的权利。</ORIGINAL_TEXT>
+<TOKEN id="token-433-0" pos="unknown" morph="none" start_char="18481" end_char="18658">爱国者法案并未赋予情报机构违法监听的权利，爱国者法案，国防授权法授予美国政府保护美国国民，如何遇到涉嫌针对美国人民和美国国土的恐怖行为，政府机构获得一定授权予以应对----譬如针对恐怖嫌疑分子，国防授权法案准许政府先予以拘押，而延缓其申请人身保护令6个月，或者是予以迅速驱逐（针对外国人），即准许在7天内政府迅速驱逐一个嫌犯而不予以其向移民法院申诉的权利。</TOKEN>
+</SEG>
+<SEG id="segment-434" start_char="18661" end_char="18665">
+<ORIGINAL_TEXT>明白了吗？</ORIGINAL_TEXT>
+<TOKEN id="token-434-0" pos="word" morph="none" start_char="18661" end_char="18664">明白了吗</TOKEN>
+<TOKEN id="token-434-1" pos="punct" morph="none" start_char="18665" end_char="18665">？</TOKEN>
+</SEG>
+<SEG id="segment-435" start_char="18668" end_char="18860">
+<ORIGINAL_TEXT>NSA在针对美国国内的每一次监听，每一次都必须有非法理由，否则就是违法监听了，明白了吗？因为NSA是国家情报机构，因此其监听的每一次都必须是针对国家安全的（涉及刑事罪案的监听，是由FBI或者各地警察局负责实施）。因此NSA宣称其每一次监听，都是在《爱国者法案》授权许可范围内-----而斯诺登则指出了另一个问题，即NSA事实上是在未得到法院授权的前提下已经开始监听，这属于“程序违法”。</ORIGINAL_TEXT>
+<TOKEN id="token-435-0" pos="unknown" morph="none" start_char="18668" end_char="18860">NSA在针对美国国内的每一次监听，每一次都必须有非法理由，否则就是违法监听了，明白了吗？因为NSA是国家情报机构，因此其监听的每一次都必须是针对国家安全的（涉及刑事罪案的监听，是由FBI或者各地警察局负责实施）。因此NSA宣称其每一次监听，都是在《爱国者法案》授权许可范围内-----而斯诺登则指出了另一个问题，即NSA事实上是在未得到法院授权的前提下已经开始监听，这属于“程序违法”。</TOKEN>
+</SEG>
+<SEG id="segment-436" start_char="18863" end_char="18866">
+<ORIGINAL_TEXT>懂了吗？</ORIGINAL_TEXT>
+<TOKEN id="token-436-0" pos="word" morph="none" start_char="18863" end_char="18865">懂了吗</TOKEN>
+<TOKEN id="token-436-1" pos="punct" morph="none" start_char="18866" end_char="18866">？</TOKEN>
+</SEG>
+<SEG id="segment-437" start_char="18869" end_char="18996">
+<ORIGINAL_TEXT>也就是说，斯诺登主张的，是情报部门在监听东Y运头目正在和北京一厮谈论暴恐行动问题，但是那厮之前并未在监听名单上，那么情报部门必须立即关闭监听设备，然后依照法律程序，向某一个法院申请针对那厮的监听令，然后几天后得到授权才能恢复监听。否则就是“非法监听行为”。</ORIGINAL_TEXT>
+<TOKEN id="token-437-0" pos="unknown" morph="none" start_char="18869" end_char="18996">也就是说，斯诺登主张的，是情报部门在监听东Y运头目正在和北京一厮谈论暴恐行动问题，但是那厮之前并未在监听名单上，那么情报部门必须立即关闭监听设备，然后依照法律程序，向某一个法院申请针对那厮的监听令，然后几天后得到授权才能恢复监听。否则就是“非法监听行为”。</TOKEN>
+</SEG>
+<SEG id="segment-438" start_char="18999" end_char="19004">
+<ORIGINAL_TEXT>明白了吗？！</ORIGINAL_TEXT>
+<TOKEN id="token-438-0" pos="word" morph="none" start_char="18999" end_char="19002">明白了吗</TOKEN>
+<TOKEN id="token-438-1" pos="punct" morph="none" start_char="19003" end_char="19004">？！</TOKEN>
+</SEG>
+<SEG id="segment-439" start_char="19006" end_char="19013">
+<ORIGINAL_TEXT>&lt;/quote&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-439-0" pos="unknown" morph="none" start_char="19006" end_char="19013">&lt;/quote&gt;</TOKEN>
+</SEG>
+<SEG id="segment-440" start_char="19015" end_char="19119">
+<ORIGINAL_TEXT>斯诺登公布的只是个案，毕竟斯诺登不可能了解全部情况...在美国政府没有公布监听全部资料以前，任何人，甚至美国总统本人都难逃被监听的嫌疑...阁下拿美国欲盖弥彰的解释材料当真理，莫非是美国监听项目的编外发言人？？</ORIGINAL_TEXT>
+<TOKEN id="token-440-0" pos="unknown" morph="none" start_char="19015" end_char="19119">斯诺登公布的只是个案，毕竟斯诺登不可能了解全部情况...在美国政府没有公布监听全部资料以前，任何人，甚至美国总统本人都难逃被监听的嫌疑...阁下拿美国欲盖弥彰的解释材料当真理，莫非是美国监听项目的编外发言人？？</TOKEN>
+</SEG>
+<SEG id="segment-441" start_char="19122" end_char="19128">
+<ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-441-0" pos="unknown" morph="none" start_char="19122" end_char="19128">&lt;/post&gt;</TOKEN>
+</SEG>
+<SEG id="segment-442" start_char="19130" end_char="19135">
+<ORIGINAL_TEXT>&lt;/doc&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-442-0" pos="unknown" morph="none" start_char="19130" end_char="19135">&lt;/doc&gt;</TOKEN>
+</SEG>
+</TEXT>
+</DOC>
+</LCTL_TEXT>

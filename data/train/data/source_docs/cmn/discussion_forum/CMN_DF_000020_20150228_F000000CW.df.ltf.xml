@@ -1,0 +1,532 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LCTL_TEXT>
+  <DOC id="CMN_DF_000020_20150228_F000000CW.df.xml" tokenization="tokenization_parameters" grammar="none" raw_text_char_length="4015" raw_text_md5="17cf07f0cba11c6469ec9591d885c401">
+    <TEXT>
+      <SEG id="segment-0" start_char="0" end_char="37">
+        <ORIGINAL_TEXT>&lt;?xml version="1.0" encoding="utf-8"?&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-0-0" pos="unknown" morph="none" start_char="0" end_char="4">&lt;?xml</TOKEN>
+        <TOKEN id="token-0-1" pos="unknown" morph="none" start_char="6" end_char="18">version="1.0"</TOKEN>
+        <TOKEN id="token-0-2" pos="unknown" morph="none" start_char="20" end_char="37">encoding="utf-8"?&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-1" start_char="39" end_char="81">
+        <ORIGINAL_TEXT>&lt;doc id="CMN_DF_000020_20150228_F000000CW"&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-1-0" pos="unknown" morph="none" start_char="39" end_char="42">&lt;doc</TOKEN>
+        <TOKEN id="token-1-1" pos="unknown" morph="none" start_char="44" end_char="81">id="CMN_DF_000020_20150228_F000000CW"&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-2" start_char="83" end_char="92">
+        <ORIGINAL_TEXT>&lt;headline&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-2-0" pos="unknown" morph="none" start_char="83" end_char="92">&lt;headline&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-3" start_char="94" end_char="102">
+        <ORIGINAL_TEXT>谁枪杀了涅姆佐夫？</ORIGINAL_TEXT>
+        <TOKEN id="token-3-0" pos="word" morph="none" start_char="94" end_char="101">谁枪杀了涅姆佐夫</TOKEN>
+        <TOKEN id="token-3-1" pos="punct" morph="none" start_char="102" end_char="102">？</TOKEN>
+      </SEG>
+      <SEG id="segment-4" start_char="104" end_char="114">
+        <ORIGINAL_TEXT>&lt;/headline&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-4-0" pos="unknown" morph="none" start_char="104" end_char="114">&lt;/headline&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-5" start_char="116" end_char="176">
+        <ORIGINAL_TEXT>&lt;post id="p1" author="box321" datetime="2015-02-28T20:05:00"&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-5-0" pos="unknown" morph="none" start_char="116" end_char="120">&lt;post</TOKEN>
+        <TOKEN id="token-5-1" pos="unknown" morph="none" start_char="122" end_char="128">id="p1"</TOKEN>
+        <TOKEN id="token-5-2" pos="unknown" morph="none" start_char="130" end_char="144">author="box321"</TOKEN>
+        <TOKEN id="token-5-3" pos="unknown" morph="none" start_char="146" end_char="176">datetime="2015-02-28T20:05:00"&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-6" start_char="178" end_char="186">
+        <ORIGINAL_TEXT>(Article)</ORIGINAL_TEXT>
+        <TOKEN id="token-6-0" pos="punct" morph="none" start_char="178" end_char="178">(</TOKEN>
+        <TOKEN id="token-6-1" pos="word" morph="none" start_char="179" end_char="185">Article</TOKEN>
+        <TOKEN id="token-6-2" pos="punct" morph="none" start_char="186" end_char="186">)</TOKEN>
+      </SEG>
+      <SEG id="segment-7" start_char="188" end_char="194">
+        <ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-7-0" pos="unknown" morph="none" start_char="188" end_char="194">&lt;/post&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-8" start_char="196" end_char="254">
+        <ORIGINAL_TEXT>&lt;post id="p2" author="米锅大饼" datetime="2015-02-28T20:47:00"&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-8-0" pos="unknown" morph="none" start_char="196" end_char="200">&lt;post</TOKEN>
+        <TOKEN id="token-8-1" pos="unknown" morph="none" start_char="202" end_char="208">id="p2"</TOKEN>
+        <TOKEN id="token-8-2" pos="unknown" morph="none" start_char="210" end_char="222">author="米锅大饼"</TOKEN>
+        <TOKEN id="token-8-3" pos="unknown" morph="none" start_char="224" end_char="254">datetime="2015-02-28T20:47:00"&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-9" start_char="256" end_char="431">
+        <ORIGINAL_TEXT>先别指责谁暗杀的，要先看看台上博弈者谁主动了，谁被动了？最后再研究一下西方美狗舆论走向，基本就能断定谁是背后策划者了。当然我不是想说明此人该杀还是不该杀，但对于我个人，我觉得美狗该杀！&amp;lt;img src="http://image.club.china.com/data/templets/default/images/ppb49.gif"&amp;gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-9-0" pos="unknown" morph="none" start_char="256" end_char="354">先别指责谁暗杀的，要先看看台上博弈者谁主动了，谁被动了？最后再研究一下西方美狗舆论走向，基本就能断定谁是背后策划者了。当然我不是想说明此人该杀还是不该杀，但对于我个人，我觉得美狗该杀！&amp;lt;img</TOKEN>
+        <TOKEN id="token-9-1" pos="unknown" morph="none" start_char="356" end_char="431">src="http://image.club.china.com/data/templets/default/images/ppb49.gif"&amp;gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-10" start_char="433" end_char="439">
+        <ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-10-0" pos="unknown" morph="none" start_char="433" end_char="439">&lt;/post&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-11" start_char="441" end_char="499">
+        <ORIGINAL_TEXT>&lt;post id="p3" author="岭南纵队" datetime="2015-02-28T20:52:00"&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-11-0" pos="unknown" morph="none" start_char="441" end_char="445">&lt;post</TOKEN>
+        <TOKEN id="token-11-1" pos="unknown" morph="none" start_char="447" end_char="453">id="p3"</TOKEN>
+        <TOKEN id="token-11-2" pos="unknown" morph="none" start_char="455" end_char="467">author="岭南纵队"</TOKEN>
+        <TOKEN id="token-11-3" pos="unknown" morph="none" start_char="469" end_char="499">datetime="2015-02-28T20:52:00"&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-12" start_char="501" end_char="527">
+        <ORIGINAL_TEXT>这种美欧的鹰犬、败类，早该铲除，否则搅得国家不得安宁。</ORIGINAL_TEXT>
+        <TOKEN id="token-12-0" pos="unknown" morph="none" start_char="501" end_char="527">这种美欧的鹰犬、败类，早该铲除，否则搅得国家不得安宁。</TOKEN>
+      </SEG>
+      <SEG id="segment-13" start_char="529" end_char="535">
+        <ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-13-0" pos="unknown" morph="none" start_char="529" end_char="535">&lt;/post&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-14" start_char="537" end_char="595">
+        <ORIGINAL_TEXT>&lt;post id="p4" author="宽宏大度" datetime="2015-02-28T20:34:00"&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-14-0" pos="unknown" morph="none" start_char="537" end_char="541">&lt;post</TOKEN>
+        <TOKEN id="token-14-1" pos="unknown" morph="none" start_char="543" end_char="549">id="p4"</TOKEN>
+        <TOKEN id="token-14-2" pos="unknown" morph="none" start_char="551" end_char="563">author="宽宏大度"</TOKEN>
+        <TOKEN id="token-14-3" pos="unknown" morph="none" start_char="565" end_char="595">datetime="2015-02-28T20:34:00"&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-15" start_char="597" end_char="641">
+        <ORIGINAL_TEXT>从普京与美国的搏弈可见：普京敢作敢为，硬起来可以不择手段，但耍阴谋似乎并不符合普京的性格。</ORIGINAL_TEXT>
+        <TOKEN id="token-15-0" pos="unknown" morph="none" start_char="597" end_char="641">从普京与美国的搏弈可见：普京敢作敢为，硬起来可以不择手段，但耍阴谋似乎并不符合普京的性格。</TOKEN>
+      </SEG>
+      <SEG id="segment-16" start_char="643" end_char="649">
+        <ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-16-0" pos="unknown" morph="none" start_char="643" end_char="649">&lt;/post&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-17" start_char="651" end_char="717">
+        <ORIGINAL_TEXT>&lt;post id="p5" author="苍松8260585858" datetime="2015-02-28T22:13:00"&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-17-0" pos="unknown" morph="none" start_char="651" end_char="655">&lt;post</TOKEN>
+        <TOKEN id="token-17-1" pos="unknown" morph="none" start_char="657" end_char="663">id="p5"</TOKEN>
+        <TOKEN id="token-17-2" pos="unknown" morph="none" start_char="665" end_char="685">author="苍松8260585858"</TOKEN>
+        <TOKEN id="token-17-3" pos="unknown" morph="none" start_char="687" end_char="717">datetime="2015-02-28T22:13:00"&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-18" start_char="719" end_char="886">
+        <ORIGINAL_TEXT>俺认为；这条美狗狂吠了多年，毬用没有，主子认为这是条乏狗，指他再吠价值不大，杀了他即可省狗粮又可能嫁祸普金，进而搞垮普京领导下的俄罗斯，仅此而已。这系流氓美帝管用计俩。&amp;lt;img src="http://image.club.china.com/data/templets/default/images/ppb49.gif"&amp;gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-18-0" pos="unknown" morph="none" start_char="719" end_char="809">俺认为；这条美狗狂吠了多年，毬用没有，主子认为这是条乏狗，指他再吠价值不大，杀了他即可省狗粮又可能嫁祸普金，进而搞垮普京领导下的俄罗斯，仅此而已。这系流氓美帝管用计俩。&amp;lt;img</TOKEN>
+        <TOKEN id="token-18-1" pos="unknown" morph="none" start_char="811" end_char="886">src="http://image.club.china.com/data/templets/default/images/ppb49.gif"&amp;gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-19" start_char="888" end_char="894">
+        <ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-19-0" pos="unknown" morph="none" start_char="888" end_char="894">&lt;/post&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-20" start_char="896" end_char="956">
+        <ORIGINAL_TEXT>&lt;post id="p6" author="西北风730" datetime="2015-02-28T21:11:00"&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-20-0" pos="unknown" morph="none" start_char="896" end_char="900">&lt;post</TOKEN>
+        <TOKEN id="token-20-1" pos="unknown" morph="none" start_char="902" end_char="908">id="p6"</TOKEN>
+        <TOKEN id="token-20-2" pos="unknown" morph="none" start_char="910" end_char="924">author="西北风730"</TOKEN>
+        <TOKEN id="token-20-3" pos="unknown" morph="none" start_char="926" end_char="956">datetime="2015-02-28T21:11:00"&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-21" start_char="958" end_char="1155">
+        <ORIGINAL_TEXT>在关键时候，枪杀涅姆佐夫，会发生什么---俄罗斯社会对立和分裂！想想，在前南斯拉夫是有这样先例的，制造民族仇恨和对立，导致同文同种的南斯拉夫各兄弟民族之间仇杀，又是谁在拉偏架？致使南斯拉夫解体？在香港同样有人在制造矛盾，想干什么？谋求民主，日落帝国给香港人民主了吗？那些还不如一头猪智商的闹事者想想！谁希望香港乱？谁是颜色革命的受益者？谁是背后黑手？答案再清楚不过！枪杀涅姆佐夫的答案是很清楚的！</ORIGINAL_TEXT>
+        <TOKEN id="token-21-0" pos="unknown" morph="none" start_char="958" end_char="1155">在关键时候，枪杀涅姆佐夫，会发生什么---俄罗斯社会对立和分裂！想想，在前南斯拉夫是有这样先例的，制造民族仇恨和对立，导致同文同种的南斯拉夫各兄弟民族之间仇杀，又是谁在拉偏架？致使南斯拉夫解体？在香港同样有人在制造矛盾，想干什么？谋求民主，日落帝国给香港人民主了吗？那些还不如一头猪智商的闹事者想想！谁希望香港乱？谁是颜色革命的受益者？谁是背后黑手？答案再清楚不过！枪杀涅姆佐夫的答案是很清楚的！</TOKEN>
+      </SEG>
+      <SEG id="segment-22" start_char="1157" end_char="1163">
+        <ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-22-0" pos="unknown" morph="none" start_char="1157" end_char="1163">&lt;/post&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-23" start_char="1165" end_char="1225">
+        <ORIGINAL_TEXT>&lt;post id="p7" author="box321" datetime="2015-02-28T20:06:00"&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-23-0" pos="unknown" morph="none" start_char="1165" end_char="1169">&lt;post</TOKEN>
+        <TOKEN id="token-23-1" pos="unknown" morph="none" start_char="1171" end_char="1177">id="p7"</TOKEN>
+        <TOKEN id="token-23-2" pos="unknown" morph="none" start_char="1179" end_char="1193">author="box321"</TOKEN>
+        <TOKEN id="token-23-3" pos="unknown" morph="none" start_char="1195" end_char="1225">datetime="2015-02-28T20:06:00"&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-24" start_char="1227" end_char="1310">
+        <ORIGINAL_TEXT>&amp;lt;img src="http://image.club.china.com/data/templets/default/images/ppb49.gif"&amp;gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-24-0" pos="punct" morph="none" start_char="1227" end_char="1227">&amp;</TOKEN>
+        <TOKEN id="token-24-1" pos="word" morph="none" start_char="1228" end_char="1229">lt</TOKEN>
+        <TOKEN id="token-24-2" pos="punct" morph="none" start_char="1230" end_char="1230">;</TOKEN>
+        <TOKEN id="token-24-3" pos="word" morph="none" start_char="1231" end_char="1233">img</TOKEN>
+        <TOKEN id="token-24-4" pos="unknown" morph="none" start_char="1235" end_char="1310">src="http://image.club.china.com/data/templets/default/images/ppb49.gif"&amp;gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-25" start_char="1312" end_char="1318">
+        <ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-25-0" pos="unknown" morph="none" start_char="1312" end_char="1318">&lt;/post&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-26" start_char="1320" end_char="1378">
+        <ORIGINAL_TEXT>&lt;post id="p8" author="护国大将" datetime="2015-02-28T20:17:00"&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-26-0" pos="unknown" morph="none" start_char="1320" end_char="1324">&lt;post</TOKEN>
+        <TOKEN id="token-26-1" pos="unknown" morph="none" start_char="1326" end_char="1332">id="p8"</TOKEN>
+        <TOKEN id="token-26-2" pos="unknown" morph="none" start_char="1334" end_char="1346">author="护国大将"</TOKEN>
+        <TOKEN id="token-26-3" pos="unknown" morph="none" start_char="1348" end_char="1378">datetime="2015-02-28T20:17:00"&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-27" start_char="1380" end_char="1398">
+        <ORIGINAL_TEXT>是我那弹弓射的。。。。。。。。。。。。</ORIGINAL_TEXT>
+        <TOKEN id="token-27-0" pos="word" morph="none" start_char="1380" end_char="1386">是我那弹弓射的</TOKEN>
+        <TOKEN id="token-27-1" pos="punct" morph="none" start_char="1387" end_char="1398">。。。。。。。。。。。。</TOKEN>
+      </SEG>
+      <SEG id="segment-28" start_char="1400" end_char="1406">
+        <ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-28-0" pos="unknown" morph="none" start_char="1400" end_char="1406">&lt;/post&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-29" start_char="1408" end_char="1466">
+        <ORIGINAL_TEXT>&lt;post id="p9" author="极地温差" datetime="2015-02-28T21:02:00"&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-29-0" pos="unknown" morph="none" start_char="1408" end_char="1412">&lt;post</TOKEN>
+        <TOKEN id="token-29-1" pos="unknown" morph="none" start_char="1414" end_char="1420">id="p9"</TOKEN>
+        <TOKEN id="token-29-2" pos="unknown" morph="none" start_char="1422" end_char="1434">author="极地温差"</TOKEN>
+        <TOKEN id="token-29-3" pos="unknown" morph="none" start_char="1436" end_char="1466">datetime="2015-02-28T21:02:00"&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-30" start_char="1468" end_char="1490">
+        <ORIGINAL_TEXT>凤凰的马鼎盛又说了，闭着眼睛都知道是普京干的！</ORIGINAL_TEXT>
+        <TOKEN id="token-30-0" pos="word" morph="none" start_char="1468" end_char="1476">凤凰的马鼎盛又说了</TOKEN>
+        <TOKEN id="token-30-1" pos="punct" morph="none" start_char="1477" end_char="1477">，</TOKEN>
+        <TOKEN id="token-30-2" pos="word" morph="none" start_char="1478" end_char="1489">闭着眼睛都知道是普京干的</TOKEN>
+        <TOKEN id="token-30-3" pos="punct" morph="none" start_char="1490" end_char="1490">！</TOKEN>
+      </SEG>
+      <SEG id="segment-31" start_char="1492" end_char="1498">
+        <ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-31-0" pos="unknown" morph="none" start_char="1492" end_char="1498">&lt;/post&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-32" start_char="1500" end_char="1562">
+        <ORIGINAL_TEXT>&lt;post id="p10" author="彼得堡的小和尚" datetime="2015-02-28T21:14:00"&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-32-0" pos="unknown" morph="none" start_char="1500" end_char="1504">&lt;post</TOKEN>
+        <TOKEN id="token-32-1" pos="unknown" morph="none" start_char="1506" end_char="1513">id="p10"</TOKEN>
+        <TOKEN id="token-32-2" pos="unknown" morph="none" start_char="1515" end_char="1530">author="彼得堡的小和尚"</TOKEN>
+        <TOKEN id="token-32-3" pos="unknown" morph="none" start_char="1532" end_char="1562">datetime="2015-02-28T21:14:00"&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-33" start_char="1564" end_char="1578">
+        <ORIGINAL_TEXT>狗的智商一直就是这样，不奇怪。</ORIGINAL_TEXT>
+        <TOKEN id="token-33-0" pos="word" morph="none" start_char="1564" end_char="1573">狗的智商一直就是这样</TOKEN>
+        <TOKEN id="token-33-1" pos="punct" morph="none" start_char="1574" end_char="1574">，</TOKEN>
+        <TOKEN id="token-33-2" pos="word" morph="none" start_char="1575" end_char="1577">不奇怪</TOKEN>
+        <TOKEN id="token-33-3" pos="punct" morph="none" start_char="1578" end_char="1578">。</TOKEN>
+      </SEG>
+      <SEG id="segment-34" start_char="1580" end_char="1586">
+        <ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-34-0" pos="unknown" morph="none" start_char="1580" end_char="1586">&lt;/post&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-35" start_char="1588" end_char="1647">
+        <ORIGINAL_TEXT>&lt;post id="p11" author="明月苍狼" datetime="2015-02-28T21:33:00"&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-35-0" pos="unknown" morph="none" start_char="1588" end_char="1592">&lt;post</TOKEN>
+        <TOKEN id="token-35-1" pos="unknown" morph="none" start_char="1594" end_char="1601">id="p11"</TOKEN>
+        <TOKEN id="token-35-2" pos="unknown" morph="none" start_char="1603" end_char="1615">author="明月苍狼"</TOKEN>
+        <TOKEN id="token-35-3" pos="unknown" morph="none" start_char="1617" end_char="1647">datetime="2015-02-28T21:33:00"&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-36" start_char="1649" end_char="1672">
+        <ORIGINAL_TEXT>M370是内外勾结针对领导人来的，败露了，灭迹了</ORIGINAL_TEXT>
+        <TOKEN id="token-36-0" pos="unknown" morph="none" start_char="1649" end_char="1672">M370是内外勾结针对领导人来的，败露了，灭迹了</TOKEN>
+      </SEG>
+      <SEG id="segment-37" start_char="1674" end_char="1680">
+        <ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-37-0" pos="unknown" morph="none" start_char="1674" end_char="1680">&lt;/post&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-38" start_char="1682" end_char="1740">
+        <ORIGINAL_TEXT>&lt;post id="p12" author="一兔毛" datetime="2015-02-28T21:37:00"&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-38-0" pos="unknown" morph="none" start_char="1682" end_char="1686">&lt;post</TOKEN>
+        <TOKEN id="token-38-1" pos="unknown" morph="none" start_char="1688" end_char="1695">id="p12"</TOKEN>
+        <TOKEN id="token-38-2" pos="unknown" morph="none" start_char="1697" end_char="1708">author="一兔毛"</TOKEN>
+        <TOKEN id="token-38-3" pos="unknown" morph="none" start_char="1710" end_char="1740">datetime="2015-02-28T21:37:00"&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-39" start_char="1742" end_char="1747">
+        <ORIGINAL_TEXT>阎王勾去了。</ORIGINAL_TEXT>
+        <TOKEN id="token-39-0" pos="word" morph="none" start_char="1742" end_char="1746">阎王勾去了</TOKEN>
+        <TOKEN id="token-39-1" pos="punct" morph="none" start_char="1747" end_char="1747">。</TOKEN>
+      </SEG>
+      <SEG id="segment-40" start_char="1749" end_char="1755">
+        <ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-40-0" pos="unknown" morph="none" start_char="1749" end_char="1755">&lt;/post&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-41" start_char="1757" end_char="1817">
+        <ORIGINAL_TEXT>&lt;post id="p13" author="石头321" datetime="2015-02-28T21:53:00"&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-41-0" pos="unknown" morph="none" start_char="1757" end_char="1761">&lt;post</TOKEN>
+        <TOKEN id="token-41-1" pos="unknown" morph="none" start_char="1763" end_char="1770">id="p13"</TOKEN>
+        <TOKEN id="token-41-2" pos="unknown" morph="none" start_char="1772" end_char="1785">author="石头321"</TOKEN>
+        <TOKEN id="token-41-3" pos="unknown" morph="none" start_char="1787" end_char="1817">datetime="2015-02-28T21:53:00"&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-42" start_char="1819" end_char="1826">
+        <ORIGINAL_TEXT>总之普京有勇无谋</ORIGINAL_TEXT>
+        <TOKEN id="token-42-0" pos="word" morph="none" start_char="1819" end_char="1826">总之普京有勇无谋</TOKEN>
+      </SEG>
+      <SEG id="segment-43" start_char="1828" end_char="1834">
+        <ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-43-0" pos="unknown" morph="none" start_char="1828" end_char="1834">&lt;/post&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-44" start_char="1836" end_char="1896">
+        <ORIGINAL_TEXT>&lt;post id="p14" author="木火-通明" datetime="2015-02-28T22:16:00"&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-44-0" pos="unknown" morph="none" start_char="1836" end_char="1840">&lt;post</TOKEN>
+        <TOKEN id="token-44-1" pos="unknown" morph="none" start_char="1842" end_char="1849">id="p14"</TOKEN>
+        <TOKEN id="token-44-2" pos="unknown" morph="none" start_char="1851" end_char="1864">author="木火-通明"</TOKEN>
+        <TOKEN id="token-44-3" pos="unknown" morph="none" start_char="1866" end_char="1896">datetime="2015-02-28T22:16:00"&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-45" start_char="1898" end_char="1900">
+        <ORIGINAL_TEXT>不是我</ORIGINAL_TEXT>
+        <TOKEN id="token-45-0" pos="word" morph="none" start_char="1898" end_char="1900">不是我</TOKEN>
+      </SEG>
+      <SEG id="segment-46" start_char="1902" end_char="1908">
+        <ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-46-0" pos="unknown" morph="none" start_char="1902" end_char="1908">&lt;/post&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-47" start_char="1910" end_char="1968">
+        <ORIGINAL_TEXT>&lt;post id="p15" author="狼王1" datetime="2015-02-28T22:16:00"&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-47-0" pos="unknown" morph="none" start_char="1910" end_char="1914">&lt;post</TOKEN>
+        <TOKEN id="token-47-1" pos="unknown" morph="none" start_char="1916" end_char="1923">id="p15"</TOKEN>
+        <TOKEN id="token-47-2" pos="unknown" morph="none" start_char="1925" end_char="1936">author="狼王1"</TOKEN>
+        <TOKEN id="token-47-3" pos="unknown" morph="none" start_char="1938" end_char="1968">datetime="2015-02-28T22:16:00"&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-48" start_char="1970" end_char="1977">
+        <ORIGINAL_TEXT>争风吃醋被干掉？</ORIGINAL_TEXT>
+        <TOKEN id="token-48-0" pos="word" morph="none" start_char="1970" end_char="1976">争风吃醋被干掉</TOKEN>
+        <TOKEN id="token-48-1" pos="punct" morph="none" start_char="1977" end_char="1977">？</TOKEN>
+      </SEG>
+      <SEG id="segment-49" start_char="1979" end_char="1985">
+        <ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-49-0" pos="unknown" morph="none" start_char="1979" end_char="1985">&lt;/post&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-50" start_char="1987" end_char="2054">
+        <ORIGINAL_TEXT>&lt;post id="p16" author="苍松8260585858" datetime="2015-02-28T22:22:00"&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-50-0" pos="unknown" morph="none" start_char="1987" end_char="1991">&lt;post</TOKEN>
+        <TOKEN id="token-50-1" pos="unknown" morph="none" start_char="1993" end_char="2000">id="p16"</TOKEN>
+        <TOKEN id="token-50-2" pos="unknown" morph="none" start_char="2002" end_char="2022">author="苍松8260585858"</TOKEN>
+        <TOKEN id="token-50-3" pos="unknown" morph="none" start_char="2024" end_char="2054">datetime="2015-02-28T22:22:00"&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-51" start_char="2056" end_char="2172">
+        <ORIGINAL_TEXT>俺宣布；2015年美狗汉奸的日子绝对不好过，而且越来越不好过！！！&amp;lt;img src="http://image.club.china.com/data/templets/default/images/ppb49.gif"&amp;gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-51-0" pos="unknown" morph="none" start_char="2056" end_char="2095">俺宣布；2015年美狗汉奸的日子绝对不好过，而且越来越不好过！！！&amp;lt;img</TOKEN>
+        <TOKEN id="token-51-1" pos="unknown" morph="none" start_char="2097" end_char="2172">src="http://image.club.china.com/data/templets/default/images/ppb49.gif"&amp;gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-52" start_char="2174" end_char="2180">
+        <ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-52-0" pos="unknown" morph="none" start_char="2174" end_char="2180">&lt;/post&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-53" start_char="2182" end_char="2244">
+        <ORIGINAL_TEXT>&lt;post id="p17" author="Tomyuan" datetime="2015-02-28T22:23:00"&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-53-0" pos="unknown" morph="none" start_char="2182" end_char="2186">&lt;post</TOKEN>
+        <TOKEN id="token-53-1" pos="unknown" morph="none" start_char="2188" end_char="2195">id="p17"</TOKEN>
+        <TOKEN id="token-53-2" pos="unknown" morph="none" start_char="2197" end_char="2212">author="Tomyuan"</TOKEN>
+        <TOKEN id="token-53-3" pos="unknown" morph="none" start_char="2214" end_char="2244">datetime="2015-02-28T22:23:00"&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-54" start_char="2246" end_char="2294">
+        <ORIGINAL_TEXT>美国中情局干的噻，想点燃俄罗斯内乱的导火索。中情局是点燃别国内乱的导火索的专业户，傻子都知道这事。</ORIGINAL_TEXT>
+        <TOKEN id="token-54-0" pos="unknown" morph="none" start_char="2246" end_char="2294">美国中情局干的噻，想点燃俄罗斯内乱的导火索。中情局是点燃别国内乱的导火索的专业户，傻子都知道这事。</TOKEN>
+      </SEG>
+      <SEG id="segment-55" start_char="2296" end_char="2302">
+        <ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-55-0" pos="unknown" morph="none" start_char="2296" end_char="2302">&lt;/post&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-56" start_char="2304" end_char="2363">
+        <ORIGINAL_TEXT>&lt;post id="p18" author="善心善行" datetime="2015-02-28T22:23:00"&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-56-0" pos="unknown" morph="none" start_char="2304" end_char="2308">&lt;post</TOKEN>
+        <TOKEN id="token-56-1" pos="unknown" morph="none" start_char="2310" end_char="2317">id="p18"</TOKEN>
+        <TOKEN id="token-56-2" pos="unknown" morph="none" start_char="2319" end_char="2331">author="善心善行"</TOKEN>
+        <TOKEN id="token-56-3" pos="unknown" morph="none" start_char="2333" end_char="2363">datetime="2015-02-28T22:23:00"&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-57" start_char="2365" end_char="2372">
+        <ORIGINAL_TEXT>美国人想换狗 了</ORIGINAL_TEXT>
+        <TOKEN id="token-57-0" pos="word" morph="none" start_char="2365" end_char="2370">美国人想换狗</TOKEN>
+        <TOKEN id="token-57-1" pos="word" morph="none" start_char="2372" end_char="2372">了</TOKEN>
+      </SEG>
+      <SEG id="segment-58" start_char="2374" end_char="2380">
+        <ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-58-0" pos="unknown" morph="none" start_char="2374" end_char="2380">&lt;/post&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-59" start_char="2382" end_char="2442">
+        <ORIGINAL_TEXT>&lt;post id="p19" author="残阳_如血" datetime="2015-02-28T22:44:00"&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-59-0" pos="unknown" morph="none" start_char="2382" end_char="2386">&lt;post</TOKEN>
+        <TOKEN id="token-59-1" pos="unknown" morph="none" start_char="2388" end_char="2395">id="p19"</TOKEN>
+        <TOKEN id="token-59-2" pos="unknown" morph="none" start_char="2397" end_char="2410">author="残阳_如血"</TOKEN>
+        <TOKEN id="token-59-3" pos="unknown" morph="none" start_char="2412" end_char="2442">datetime="2015-02-28T22:44:00"&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-60" start_char="2444" end_char="2472">
+        <ORIGINAL_TEXT>奥巴玛先死者就知道谁是谋杀者。带路狗活着没有暴死的作用大。</ORIGINAL_TEXT>
+        <TOKEN id="token-60-0" pos="word" morph="none" start_char="2444" end_char="2457">奥巴玛先死者就知道谁是谋杀者</TOKEN>
+        <TOKEN id="token-60-1" pos="punct" morph="none" start_char="2458" end_char="2458">。</TOKEN>
+        <TOKEN id="token-60-2" pos="word" morph="none" start_char="2459" end_char="2471">带路狗活着没有暴死的作用大</TOKEN>
+        <TOKEN id="token-60-3" pos="punct" morph="none" start_char="2472" end_char="2472">。</TOKEN>
+      </SEG>
+      <SEG id="segment-61" start_char="2474" end_char="2480">
+        <ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-61-0" pos="unknown" morph="none" start_char="2474" end_char="2480">&lt;/post&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-62" start_char="2482" end_char="2540">
+        <ORIGINAL_TEXT>&lt;post id="p20" author="羞今草" datetime="2015-02-28T22:46:00"&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-62-0" pos="unknown" morph="none" start_char="2482" end_char="2486">&lt;post</TOKEN>
+        <TOKEN id="token-62-1" pos="unknown" morph="none" start_char="2488" end_char="2495">id="p20"</TOKEN>
+        <TOKEN id="token-62-2" pos="unknown" morph="none" start_char="2497" end_char="2508">author="羞今草"</TOKEN>
+        <TOKEN id="token-62-3" pos="unknown" morph="none" start_char="2510" end_char="2540">datetime="2015-02-28T22:46:00"&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-63" start_char="2542" end_char="2604">
+        <ORIGINAL_TEXT>涅姆佐夫的死说明了一个真理——甘愿为外国人带路的内奸、卖国贼最终的命运是被自己的主子“消声灭迹”而激起另一个更重要的角色露面！</ORIGINAL_TEXT>
+        <TOKEN id="token-63-0" pos="unknown" morph="none" start_char="2542" end_char="2604">涅姆佐夫的死说明了一个真理——甘愿为外国人带路的内奸、卖国贼最终的命运是被自己的主子“消声灭迹”而激起另一个更重要的角色露面！</TOKEN>
+      </SEG>
+      <SEG id="segment-64" start_char="2606" end_char="2612">
+        <ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-64-0" pos="unknown" morph="none" start_char="2606" end_char="2612">&lt;/post&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-65" start_char="2614" end_char="2672">
+        <ORIGINAL_TEXT>&lt;post id="p21" author="钱两文" datetime="2015-02-28T22:49:00"&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-65-0" pos="unknown" morph="none" start_char="2614" end_char="2618">&lt;post</TOKEN>
+        <TOKEN id="token-65-1" pos="unknown" morph="none" start_char="2620" end_char="2627">id="p21"</TOKEN>
+        <TOKEN id="token-65-2" pos="unknown" morph="none" start_char="2629" end_char="2640">author="钱两文"</TOKEN>
+        <TOKEN id="token-65-3" pos="unknown" morph="none" start_char="2642" end_char="2672">datetime="2015-02-28T22:49:00"&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-66" start_char="2674" end_char="2730">
+        <ORIGINAL_TEXT>浅析一二，这美俄争斗，白热化了 ，已无所不用其极了，马航17被击落是例子、原油暴跌也是例子，涅姆佐夫也是一棋子尔。</ORIGINAL_TEXT>
+        <TOKEN id="token-66-0" pos="unknown" morph="none" start_char="2674" end_char="2688">浅析一二，这美俄争斗，白热化了</TOKEN>
+        <TOKEN id="token-66-1" pos="unknown" morph="none" start_char="2690" end_char="2730">，已无所不用其极了，马航17被击落是例子、原油暴跌也是例子，涅姆佐夫也是一棋子尔。</TOKEN>
+      </SEG>
+      <SEG id="segment-67" start_char="2732" end_char="2738">
+        <ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-67-0" pos="unknown" morph="none" start_char="2732" end_char="2738">&lt;/post&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-68" start_char="2740" end_char="2802">
+        <ORIGINAL_TEXT>&lt;post id="p22" author="独步天下001" datetime="2015-02-28T23:20:00"&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-68-0" pos="unknown" morph="none" start_char="2740" end_char="2744">&lt;post</TOKEN>
+        <TOKEN id="token-68-1" pos="unknown" morph="none" start_char="2746" end_char="2753">id="p22"</TOKEN>
+        <TOKEN id="token-68-2" pos="unknown" morph="none" start_char="2755" end_char="2770">author="独步天下001"</TOKEN>
+        <TOKEN id="token-68-3" pos="unknown" morph="none" start_char="2772" end_char="2802">datetime="2015-02-28T23:20:00"&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-69" start_char="2804" end_char="2873">
+        <ORIGINAL_TEXT>不管是谁干的，这事对普京肯定不利，会给他带来大麻烦的，西方肯定一口咬定是老普干的，先忽悠右派们闹起来，一旦闹将起来，究竟是谁干的就不重要了。</ORIGINAL_TEXT>
+        <TOKEN id="token-69-0" pos="unknown" morph="none" start_char="2804" end_char="2873">不管是谁干的，这事对普京肯定不利，会给他带来大麻烦的，西方肯定一口咬定是老普干的，先忽悠右派们闹起来，一旦闹将起来，究竟是谁干的就不重要了。</TOKEN>
+      </SEG>
+      <SEG id="segment-70" start_char="2875" end_char="2881">
+        <ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-70-0" pos="unknown" morph="none" start_char="2875" end_char="2881">&lt;/post&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-71" start_char="2883" end_char="2944">
+        <ORIGINAL_TEXT>&lt;post id="p23" author="yongwu" datetime="2015-03-01T00:22:00"&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-71-0" pos="unknown" morph="none" start_char="2883" end_char="2887">&lt;post</TOKEN>
+        <TOKEN id="token-71-1" pos="unknown" morph="none" start_char="2889" end_char="2896">id="p23"</TOKEN>
+        <TOKEN id="token-71-2" pos="unknown" morph="none" start_char="2898" end_char="2912">author="yongwu"</TOKEN>
+        <TOKEN id="token-71-3" pos="unknown" morph="none" start_char="2914" end_char="2944">datetime="2015-03-01T00:22:00"&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-72" start_char="2946" end_char="2962">
+        <ORIGINAL_TEXT>据说，老二惹祸，把老大的命给丢了。</ORIGINAL_TEXT>
+        <TOKEN id="token-72-0" pos="unknown" morph="none" start_char="2946" end_char="2962">据说，老二惹祸，把老大的命给丢了。</TOKEN>
+      </SEG>
+      <SEG id="segment-73" start_char="2964" end_char="2970">
+        <ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-73-0" pos="unknown" morph="none" start_char="2964" end_char="2970">&lt;/post&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-74" start_char="2972" end_char="3037">
+        <ORIGINAL_TEXT>&lt;post id="p24" author="laowang110" datetime="2015-03-01T01:07:00"&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-74-0" pos="unknown" morph="none" start_char="2972" end_char="2976">&lt;post</TOKEN>
+        <TOKEN id="token-74-1" pos="unknown" morph="none" start_char="2978" end_char="2985">id="p24"</TOKEN>
+        <TOKEN id="token-74-2" pos="unknown" morph="none" start_char="2987" end_char="3005">author="laowang110"</TOKEN>
+        <TOKEN id="token-74-3" pos="unknown" morph="none" start_char="3007" end_char="3037">datetime="2015-03-01T01:07:00"&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-75" start_char="3039" end_char="3045">
+        <ORIGINAL_TEXT>是奥巴狗干的！</ORIGINAL_TEXT>
+        <TOKEN id="token-75-0" pos="word" morph="none" start_char="3039" end_char="3044">是奥巴狗干的</TOKEN>
+        <TOKEN id="token-75-1" pos="punct" morph="none" start_char="3045" end_char="3045">！</TOKEN>
+      </SEG>
+      <SEG id="segment-76" start_char="3047" end_char="3053">
+        <ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-76-0" pos="unknown" morph="none" start_char="3047" end_char="3053">&lt;/post&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-77" start_char="3055" end_char="3124">
+        <ORIGINAL_TEXT>&lt;post id="p25" author="china_6741txes" datetime="2015-03-01T02:21:00"&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-77-0" pos="unknown" morph="none" start_char="3055" end_char="3059">&lt;post</TOKEN>
+        <TOKEN id="token-77-1" pos="unknown" morph="none" start_char="3061" end_char="3068">id="p25"</TOKEN>
+        <TOKEN id="token-77-2" pos="unknown" morph="none" start_char="3070" end_char="3092">author="china_6741txes"</TOKEN>
+        <TOKEN id="token-77-3" pos="unknown" morph="none" start_char="3094" end_char="3124">datetime="2015-03-01T02:21:00"&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-78" start_char="3126" end_char="3153">
+        <ORIGINAL_TEXT>涅姆佐夫被美国榨干最后一点剩余价值，死得其所，没有浪费。</ORIGINAL_TEXT>
+        <TOKEN id="token-78-0" pos="unknown" morph="none" start_char="3126" end_char="3153">涅姆佐夫被美国榨干最后一点剩余价值，死得其所，没有浪费。</TOKEN>
+      </SEG>
+      <SEG id="segment-79" start_char="3155" end_char="3161">
+        <ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-79-0" pos="unknown" morph="none" start_char="3155" end_char="3161">&lt;/post&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-80" start_char="3163" end_char="3223">
+        <ORIGINAL_TEXT>&lt;post id="p26" author="晚清时代哦" datetime="2015-03-01T03:02:00"&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-80-0" pos="unknown" morph="none" start_char="3163" end_char="3167">&lt;post</TOKEN>
+        <TOKEN id="token-80-1" pos="unknown" morph="none" start_char="3169" end_char="3176">id="p26"</TOKEN>
+        <TOKEN id="token-80-2" pos="unknown" morph="none" start_char="3178" end_char="3191">author="晚清时代哦"</TOKEN>
+        <TOKEN id="token-80-3" pos="unknown" morph="none" start_char="3193" end_char="3223">datetime="2015-03-01T03:02:00"&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-81" start_char="3225" end_char="3237">
+        <ORIGINAL_TEXT>不是河南人，它们干不了好事</ORIGINAL_TEXT>
+        <TOKEN id="token-81-0" pos="word" morph="none" start_char="3225" end_char="3229">不是河南人</TOKEN>
+        <TOKEN id="token-81-1" pos="punct" morph="none" start_char="3230" end_char="3230">，</TOKEN>
+        <TOKEN id="token-81-2" pos="word" morph="none" start_char="3231" end_char="3237">它们干不了好事</TOKEN>
+      </SEG>
+      <SEG id="segment-82" start_char="3239" end_char="3245">
+        <ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-82-0" pos="unknown" morph="none" start_char="3239" end_char="3245">&lt;/post&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-83" start_char="3247" end_char="3304">
+        <ORIGINAL_TEXT>&lt;post id="p27" author="东船" datetime="2015-03-01T06:45:00"&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-83-0" pos="unknown" morph="none" start_char="3247" end_char="3251">&lt;post</TOKEN>
+        <TOKEN id="token-83-1" pos="unknown" morph="none" start_char="3253" end_char="3260">id="p27"</TOKEN>
+        <TOKEN id="token-83-2" pos="unknown" morph="none" start_char="3262" end_char="3272">author="东船"</TOKEN>
+        <TOKEN id="token-83-3" pos="unknown" morph="none" start_char="3274" end_char="3304">datetime="2015-03-01T06:45:00"&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-84" start_char="3306" end_char="3316">
+        <ORIGINAL_TEXT>此人该杀.谁都可以杀.</ORIGINAL_TEXT>
+        <TOKEN id="token-84-0" pos="word" morph="none" start_char="3306" end_char="3309">此人该杀</TOKEN>
+        <TOKEN id="token-84-1" pos="punct" morph="none" start_char="3310" end_char="3310">.</TOKEN>
+        <TOKEN id="token-84-2" pos="word" morph="none" start_char="3311" end_char="3315">谁都可以杀</TOKEN>
+        <TOKEN id="token-84-3" pos="punct" morph="none" start_char="3316" end_char="3316">.</TOKEN>
+      </SEG>
+      <SEG id="segment-85" start_char="3318" end_char="3324">
+        <ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-85-0" pos="unknown" morph="none" start_char="3318" end_char="3324">&lt;/post&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-86" start_char="3326" end_char="3386">
+        <ORIGINAL_TEXT>&lt;post id="p28" author="ufoss" datetime="2015-03-01T07:55:00"&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-86-0" pos="unknown" morph="none" start_char="3326" end_char="3330">&lt;post</TOKEN>
+        <TOKEN id="token-86-1" pos="unknown" morph="none" start_char="3332" end_char="3339">id="p28"</TOKEN>
+        <TOKEN id="token-86-2" pos="unknown" morph="none" start_char="3341" end_char="3354">author="ufoss"</TOKEN>
+        <TOKEN id="token-86-3" pos="unknown" morph="none" start_char="3356" end_char="3386">datetime="2015-03-01T07:55:00"&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-87" start_char="3389" end_char="3422">
+        <ORIGINAL_TEXT>&lt;quote orig_author="苍松8260585858"&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-87-0" pos="unknown" morph="none" start_char="3389" end_char="3394">&lt;quote</TOKEN>
+        <TOKEN id="token-87-1" pos="unknown" morph="none" start_char="3396" end_char="3422">orig_author="苍松8260585858"&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-88" start_char="3424" end_char="3591">
+        <ORIGINAL_TEXT>俺认为；这条美狗狂吠了多年，毬用没有，主子认为这是条乏狗，指他再吠价值不大，杀了他即可省狗粮又可能嫁祸普金，进而搞垮普京领导下的俄罗斯，仅此而已。这系流氓美帝管用计俩。&amp;lt;img src="http://image.club.china.com/data/templets/default/images/ppb49.gif"&amp;gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-88-0" pos="unknown" morph="none" start_char="3424" end_char="3514">俺认为；这条美狗狂吠了多年，毬用没有，主子认为这是条乏狗，指他再吠价值不大，杀了他即可省狗粮又可能嫁祸普金，进而搞垮普京领导下的俄罗斯，仅此而已。这系流氓美帝管用计俩。&amp;lt;img</TOKEN>
+        <TOKEN id="token-88-1" pos="unknown" morph="none" start_char="3516" end_char="3591">src="http://image.club.china.com/data/templets/default/images/ppb49.gif"&amp;gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-89" start_char="3593" end_char="3600">
+        <ORIGINAL_TEXT>&lt;/quote&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-89-0" pos="unknown" morph="none" start_char="3593" end_char="3600">&lt;/quote&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-90" start_char="3603" end_char="3606">
+        <ORIGINAL_TEXT>有头脑！</ORIGINAL_TEXT>
+        <TOKEN id="token-90-0" pos="word" morph="none" start_char="3603" end_char="3605">有头脑</TOKEN>
+        <TOKEN id="token-90-1" pos="punct" morph="none" start_char="3606" end_char="3606">！</TOKEN>
+      </SEG>
+      <SEG id="segment-91" start_char="3608" end_char="3614">
+        <ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-91-0" pos="unknown" morph="none" start_char="3608" end_char="3614">&lt;/post&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-92" start_char="3616" end_char="3678">
+        <ORIGINAL_TEXT>&lt;post id="p29" author="hunter2" datetime="2015-03-01T08:28:00"&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-92-0" pos="unknown" morph="none" start_char="3616" end_char="3620">&lt;post</TOKEN>
+        <TOKEN id="token-92-1" pos="unknown" morph="none" start_char="3622" end_char="3629">id="p29"</TOKEN>
+        <TOKEN id="token-92-2" pos="unknown" morph="none" start_char="3631" end_char="3646">author="hunter2"</TOKEN>
+        <TOKEN id="token-92-3" pos="unknown" morph="none" start_char="3648" end_char="3678">datetime="2015-03-01T08:28:00"&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-93" start_char="3680" end_char="3684">
+        <ORIGINAL_TEXT>嫁祸于人。</ORIGINAL_TEXT>
+        <TOKEN id="token-93-0" pos="word" morph="none" start_char="3680" end_char="3683">嫁祸于人</TOKEN>
+        <TOKEN id="token-93-1" pos="punct" morph="none" start_char="3684" end_char="3684">。</TOKEN>
+      </SEG>
+      <SEG id="segment-94" start_char="3686" end_char="3692">
+        <ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-94-0" pos="unknown" morph="none" start_char="3686" end_char="3692">&lt;/post&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-95" start_char="3694" end_char="3753">
+        <ORIGINAL_TEXT>&lt;post id="p30" author="大豆高粱" datetime="2015-03-01T10:12:00"&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-95-0" pos="unknown" morph="none" start_char="3694" end_char="3698">&lt;post</TOKEN>
+        <TOKEN id="token-95-1" pos="unknown" morph="none" start_char="3700" end_char="3707">id="p30"</TOKEN>
+        <TOKEN id="token-95-2" pos="unknown" morph="none" start_char="3709" end_char="3721">author="大豆高粱"</TOKEN>
+        <TOKEN id="token-95-3" pos="unknown" morph="none" start_char="3723" end_char="3753">datetime="2015-03-01T10:12:00"&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-96" start_char="3755" end_char="3998">
+        <ORIGINAL_TEXT>这人该杀，只是这时杀他，肯定是想搞乱俄罗斯的人干的。普京不会蠢到杀一个政敌，给自己添乱的吧。再说他正想要得用一个这样的人，使全国人团结一起过难关呢！！！&amp;lt;img src="http://image.club.china.com/data/templets/default/images/ppb20.gif"&amp;gt;&amp;lt;img src="http://image.club.china.com/data/templets/default/images/ppb20.gif"&amp;gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-96-0" pos="unknown" morph="none" start_char="3755" end_char="3837">这人该杀，只是这时杀他，肯定是想搞乱俄罗斯的人干的。普京不会蠢到杀一个政敌，给自己添乱的吧。再说他正想要得用一个这样的人，使全国人团结一起过难关呢！！！&amp;lt;img</TOKEN>
+        <TOKEN id="token-96-1" pos="unknown" morph="none" start_char="3839" end_char="3921">src="http://image.club.china.com/data/templets/default/images/ppb20.gif"&amp;gt;&amp;lt;img</TOKEN>
+        <TOKEN id="token-96-2" pos="unknown" morph="none" start_char="3923" end_char="3998">src="http://image.club.china.com/data/templets/default/images/ppb20.gif"&amp;gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-97" start_char="4000" end_char="4006">
+        <ORIGINAL_TEXT>&lt;/post&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-97-0" pos="unknown" morph="none" start_char="4000" end_char="4006">&lt;/post&gt;</TOKEN>
+      </SEG>
+      <SEG id="segment-98" start_char="4008" end_char="4013">
+        <ORIGINAL_TEXT>&lt;/doc&gt;</ORIGINAL_TEXT>
+        <TOKEN id="token-98-0" pos="unknown" morph="none" start_char="4008" end_char="4013">&lt;/doc&gt;</TOKEN>
+      </SEG>
+    </TEXT>
+  </DOC>
+</LCTL_TEXT>

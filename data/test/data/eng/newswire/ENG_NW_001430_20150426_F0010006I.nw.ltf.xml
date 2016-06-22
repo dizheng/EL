@@ -1,0 +1,692 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE LCTL_TEXT SYSTEM "ltf.v1.5.dtd">
+<LCTL_TEXT>
+<DOC id="ENG_NW_001430_20150426_F0010006I.nw.xml" tokenization="tokenization_parameters" grammar="none" raw_text_char_length="2712" raw_text_md5="ab52143bace2d01b05728d2a895d40e4">
+<TEXT>
+<SEG id="segment-0" start_char="0" end_char="37">
+<ORIGINAL_TEXT>&lt;?xml version="1.0" encoding="utf-8"?&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-0-0" pos="unknown" morph="none" start_char="0" end_char="4">&lt;?xml</TOKEN>
+<TOKEN id="token-0-1" pos="unknown" morph="none" start_char="6" end_char="18">version="1.0"</TOKEN>
+<TOKEN id="token-0-2" pos="unknown" morph="none" start_char="20" end_char="37">encoding="utf-8"?&gt;</TOKEN>
+</SEG>
+<SEG id="segment-1" start_char="39" end_char="81">
+<ORIGINAL_TEXT>&lt;DOC id="ENG_NW_001430_20150426_F0010006I"&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-1-0" pos="unknown" morph="none" start_char="39" end_char="42">&lt;DOC</TOKEN>
+<TOKEN id="token-1-1" pos="unknown" morph="none" start_char="44" end_char="81">id="ENG_NW_001430_20150426_F0010006I"&gt;</TOKEN>
+</SEG>
+<SEG id="segment-2" start_char="83" end_char="186">
+<ORIGINAL_TEXT>&lt;SOURCE&gt;http://www.theborneopost.com/2015/04/26/nepal-hit-by-quake-aftershock-of-6-7-magnitude/&lt;/SOURCE&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-2-0" pos="unknown" morph="none" start_char="83" end_char="186">&lt;SOURCE&gt;http://www.theborneopost.com/2015/04/26/nepal-hit-by-quake-aftershock-of-6-7-magnitude/&lt;/SOURCE&gt;</TOKEN>
+</SEG>
+<SEG id="segment-3" start_char="188" end_char="229">
+<ORIGINAL_TEXT>&lt;DATE_TIME&gt;2015-04-26T00:00:00&lt;/DATE_TIME&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-3-0" pos="unknown" morph="none" start_char="188" end_char="229">&lt;DATE_TIME&gt;2015-04-26T00:00:00&lt;/DATE_TIME&gt;</TOKEN>
+</SEG>
+<SEG id="segment-4" start_char="231" end_char="240">
+<ORIGINAL_TEXT>&lt;HEADLINE&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-4-0" pos="unknown" morph="none" start_char="231" end_char="240">&lt;HEADLINE&gt;</TOKEN>
+</SEG>
+<SEG id="segment-5" start_char="242" end_char="287">
+<ORIGINAL_TEXT>Nepal hit by quake aftershock of 6.7 magnitude</ORIGINAL_TEXT>
+<TOKEN id="token-5-0" pos="word" morph="none" start_char="242" end_char="246">Nepal</TOKEN>
+<TOKEN id="token-5-1" pos="word" morph="none" start_char="248" end_char="250">hit</TOKEN>
+<TOKEN id="token-5-2" pos="word" morph="none" start_char="252" end_char="253">by</TOKEN>
+<TOKEN id="token-5-3" pos="word" morph="none" start_char="255" end_char="259">quake</TOKEN>
+<TOKEN id="token-5-4" pos="word" morph="none" start_char="261" end_char="270">aftershock</TOKEN>
+<TOKEN id="token-5-5" pos="word" morph="none" start_char="272" end_char="273">of</TOKEN>
+<TOKEN id="token-5-6" pos="number" morph="none" start_char="275" end_char="277">6.7</TOKEN>
+<TOKEN id="token-5-7" pos="word" morph="none" start_char="279" end_char="287">magnitude</TOKEN>
+</SEG>
+<SEG id="segment-6" start_char="289" end_char="299">
+<ORIGINAL_TEXT>&lt;/HEADLINE&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-6-0" pos="unknown" morph="none" start_char="289" end_char="299">&lt;/HEADLINE&gt;</TOKEN>
+</SEG>
+<SEG id="segment-7" start_char="301" end_char="306">
+<ORIGINAL_TEXT>&lt;TEXT&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-7-0" pos="unknown" morph="none" start_char="301" end_char="306">&lt;TEXT&gt;</TOKEN>
+</SEG>
+<SEG id="segment-8" start_char="308" end_char="310">
+<ORIGINAL_TEXT>&lt;P&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-8-0" pos="unknown" morph="none" start_char="308" end_char="310">&lt;P&gt;</TOKEN>
+</SEG>
+<SEG id="segment-9" start_char="312" end_char="385">
+<ORIGINAL_TEXT>KATHMANDU: A strong 6.7-magnitude aftershock jolted Nepal on today, the US</ORIGINAL_TEXT>
+<TOKEN id="token-9-0" pos="word" morph="none" start_char="312" end_char="320">KATHMANDU</TOKEN>
+<TOKEN id="token-9-1" pos="punct" morph="none" start_char="321" end_char="321">:</TOKEN>
+<TOKEN id="token-9-2" pos="word" morph="none" start_char="323" end_char="323">A</TOKEN>
+<TOKEN id="token-9-3" pos="word" morph="none" start_char="325" end_char="330">strong</TOKEN>
+<TOKEN id="token-9-4" pos="unknown" morph="none" start_char="332" end_char="344">6.7-magnitude</TOKEN>
+<TOKEN id="token-9-5" pos="word" morph="none" start_char="346" end_char="355">aftershock</TOKEN>
+<TOKEN id="token-9-6" pos="word" morph="none" start_char="357" end_char="362">jolted</TOKEN>
+<TOKEN id="token-9-7" pos="word" morph="none" start_char="364" end_char="368">Nepal</TOKEN>
+<TOKEN id="token-9-8" pos="word" morph="none" start_char="370" end_char="371">on</TOKEN>
+<TOKEN id="token-9-9" pos="word" morph="none" start_char="373" end_char="377">today</TOKEN>
+<TOKEN id="token-9-10" pos="punct" morph="none" start_char="378" end_char="378">,</TOKEN>
+<TOKEN id="token-9-11" pos="word" morph="none" start_char="380" end_char="382">the</TOKEN>
+<TOKEN id="token-9-12" pos="word" morph="none" start_char="384" end_char="385">US</TOKEN>
+</SEG>
+<SEG id="segment-10" start_char="387" end_char="420">
+<ORIGINAL_TEXT>Geological Survey (USGS) reported.</ORIGINAL_TEXT>
+<TOKEN id="token-10-0" pos="word" morph="none" start_char="387" end_char="396">Geological</TOKEN>
+<TOKEN id="token-10-1" pos="word" morph="none" start_char="398" end_char="403">Survey</TOKEN>
+<TOKEN id="token-10-2" pos="punct" morph="none" start_char="405" end_char="405">(</TOKEN>
+<TOKEN id="token-10-3" pos="word" morph="none" start_char="406" end_char="409">USGS</TOKEN>
+<TOKEN id="token-10-4" pos="punct" morph="none" start_char="410" end_char="410">)</TOKEN>
+<TOKEN id="token-10-5" pos="word" morph="none" start_char="412" end_char="419">reported</TOKEN>
+<TOKEN id="token-10-6" pos="punct" morph="none" start_char="420" end_char="420">.</TOKEN>
+</SEG>
+<SEG id="segment-11" start_char="422" end_char="425">
+<ORIGINAL_TEXT>&lt;/P&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-11-0" pos="unknown" morph="none" start_char="422" end_char="425">&lt;/P&gt;</TOKEN>
+</SEG>
+<SEG id="segment-12" start_char="427" end_char="429">
+<ORIGINAL_TEXT>&lt;P&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-12-0" pos="unknown" morph="none" start_char="427" end_char="429">&lt;P&gt;</TOKEN>
+</SEG>
+<SEG id="segment-13" start_char="431" end_char="502">
+<ORIGINAL_TEXT>The quake struck 17km south of Kodari, which lies roughly 114km from the</ORIGINAL_TEXT>
+<TOKEN id="token-13-0" pos="word" morph="none" start_char="431" end_char="433">The</TOKEN>
+<TOKEN id="token-13-1" pos="word" morph="none" start_char="435" end_char="439">quake</TOKEN>
+<TOKEN id="token-13-2" pos="word" morph="none" start_char="441" end_char="446">struck</TOKEN>
+<TOKEN id="token-13-3" pos="word" morph="none" start_char="448" end_char="451">17km</TOKEN>
+<TOKEN id="token-13-4" pos="word" morph="none" start_char="453" end_char="457">south</TOKEN>
+<TOKEN id="token-13-5" pos="word" morph="none" start_char="459" end_char="460">of</TOKEN>
+<TOKEN id="token-13-6" pos="word" morph="none" start_char="462" end_char="467">Kodari</TOKEN>
+<TOKEN id="token-13-7" pos="punct" morph="none" start_char="468" end_char="468">,</TOKEN>
+<TOKEN id="token-13-8" pos="word" morph="none" start_char="470" end_char="474">which</TOKEN>
+<TOKEN id="token-13-9" pos="word" morph="none" start_char="476" end_char="479">lies</TOKEN>
+<TOKEN id="token-13-10" pos="word" morph="none" start_char="481" end_char="487">roughly</TOKEN>
+<TOKEN id="token-13-11" pos="word" morph="none" start_char="489" end_char="493">114km</TOKEN>
+<TOKEN id="token-13-12" pos="word" morph="none" start_char="495" end_char="498">from</TOKEN>
+<TOKEN id="token-13-13" pos="word" morph="none" start_char="500" end_char="502">the</TOKEN>
+</SEG>
+<SEG id="segment-14" start_char="504" end_char="568">
+<ORIGINAL_TEXT>capital Kathmandu near the border with China, at a depth of 10km.</ORIGINAL_TEXT>
+<TOKEN id="token-14-0" pos="word" morph="none" start_char="504" end_char="510">capital</TOKEN>
+<TOKEN id="token-14-1" pos="word" morph="none" start_char="512" end_char="520">Kathmandu</TOKEN>
+<TOKEN id="token-14-2" pos="word" morph="none" start_char="522" end_char="525">near</TOKEN>
+<TOKEN id="token-14-3" pos="word" morph="none" start_char="527" end_char="529">the</TOKEN>
+<TOKEN id="token-14-4" pos="word" morph="none" start_char="531" end_char="536">border</TOKEN>
+<TOKEN id="token-14-5" pos="word" morph="none" start_char="538" end_char="541">with</TOKEN>
+<TOKEN id="token-14-6" pos="word" morph="none" start_char="543" end_char="547">China</TOKEN>
+<TOKEN id="token-14-7" pos="punct" morph="none" start_char="548" end_char="548">,</TOKEN>
+<TOKEN id="token-14-8" pos="word" morph="none" start_char="550" end_char="551">at</TOKEN>
+<TOKEN id="token-14-9" pos="word" morph="none" start_char="553" end_char="553">a</TOKEN>
+<TOKEN id="token-14-10" pos="word" morph="none" start_char="555" end_char="559">depth</TOKEN>
+<TOKEN id="token-14-11" pos="word" morph="none" start_char="561" end_char="562">of</TOKEN>
+<TOKEN id="token-14-12" pos="word" morph="none" start_char="564" end_char="567">10km</TOKEN>
+<TOKEN id="token-14-13" pos="punct" morph="none" start_char="568" end_char="568">.</TOKEN>
+</SEG>
+<SEG id="segment-15" start_char="570" end_char="573">
+<ORIGINAL_TEXT>&lt;/P&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-15-0" pos="unknown" morph="none" start_char="570" end_char="573">&lt;/P&gt;</TOKEN>
+</SEG>
+<SEG id="segment-16" start_char="575" end_char="577">
+<ORIGINAL_TEXT>&lt;P&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-16-0" pos="unknown" morph="none" start_char="575" end_char="577">&lt;P&gt;</TOKEN>
+</SEG>
+<SEG id="segment-17" start_char="579" end_char="650">
+<ORIGINAL_TEXT>Climbers reported the tremor triggered more avalanches on Mount Everest.</ORIGINAL_TEXT>
+<TOKEN id="token-17-0" pos="word" morph="none" start_char="579" end_char="586">Climbers</TOKEN>
+<TOKEN id="token-17-1" pos="word" morph="none" start_char="588" end_char="595">reported</TOKEN>
+<TOKEN id="token-17-2" pos="word" morph="none" start_char="597" end_char="599">the</TOKEN>
+<TOKEN id="token-17-3" pos="word" morph="none" start_char="601" end_char="606">tremor</TOKEN>
+<TOKEN id="token-17-4" pos="word" morph="none" start_char="608" end_char="616">triggered</TOKEN>
+<TOKEN id="token-17-5" pos="word" morph="none" start_char="618" end_char="621">more</TOKEN>
+<TOKEN id="token-17-6" pos="word" morph="none" start_char="623" end_char="632">avalanches</TOKEN>
+<TOKEN id="token-17-7" pos="word" morph="none" start_char="634" end_char="635">on</TOKEN>
+<TOKEN id="token-17-8" pos="word" morph="none" start_char="637" end_char="641">Mount</TOKEN>
+<TOKEN id="token-17-9" pos="word" morph="none" start_char="643" end_char="649">Everest</TOKEN>
+<TOKEN id="token-17-10" pos="punct" morph="none" start_char="650" end_char="650">.</TOKEN>
+</SEG>
+<SEG id="segment-18" start_char="652" end_char="655">
+<ORIGINAL_TEXT>&lt;/P&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-18-0" pos="unknown" morph="none" start_char="652" end_char="655">&lt;/P&gt;</TOKEN>
+</SEG>
+<SEG id="segment-19" start_char="657" end_char="659">
+<ORIGINAL_TEXT>&lt;P&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-19-0" pos="unknown" morph="none" start_char="657" end_char="659">&lt;P&gt;</TOKEN>
+</SEG>
+<SEG id="segment-20" start_char="661" end_char="726">
+<ORIGINAL_TEXT>On Saturday, a 7.8-magnitude struck Nepal, leaving over 2000 dead.</ORIGINAL_TEXT>
+<TOKEN id="token-20-0" pos="word" morph="none" start_char="661" end_char="662">On</TOKEN>
+<TOKEN id="token-20-1" pos="word" morph="none" start_char="664" end_char="671">Saturday</TOKEN>
+<TOKEN id="token-20-2" pos="punct" morph="none" start_char="672" end_char="672">,</TOKEN>
+<TOKEN id="token-20-3" pos="word" morph="none" start_char="674" end_char="674">a</TOKEN>
+<TOKEN id="token-20-4" pos="unknown" morph="none" start_char="676" end_char="688">7.8-magnitude</TOKEN>
+<TOKEN id="token-20-5" pos="word" morph="none" start_char="690" end_char="695">struck</TOKEN>
+<TOKEN id="token-20-6" pos="word" morph="none" start_char="697" end_char="701">Nepal</TOKEN>
+<TOKEN id="token-20-7" pos="punct" morph="none" start_char="702" end_char="702">,</TOKEN>
+<TOKEN id="token-20-8" pos="word" morph="none" start_char="704" end_char="710">leaving</TOKEN>
+<TOKEN id="token-20-9" pos="word" morph="none" start_char="712" end_char="715">over</TOKEN>
+<TOKEN id="token-20-10" pos="number" morph="none" start_char="717" end_char="720">2000</TOKEN>
+<TOKEN id="token-20-11" pos="word" morph="none" start_char="722" end_char="725">dead</TOKEN>
+<TOKEN id="token-20-12" pos="punct" morph="none" start_char="726" end_char="726">.</TOKEN>
+</SEG>
+<SEG id="segment-21" start_char="728" end_char="731">
+<ORIGINAL_TEXT>&lt;/P&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-21-0" pos="unknown" morph="none" start_char="728" end_char="731">&lt;/P&gt;</TOKEN>
+</SEG>
+<SEG id="segment-22" start_char="733" end_char="735">
+<ORIGINAL_TEXT>&lt;P&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-22-0" pos="unknown" morph="none" start_char="733" end_char="735">&lt;P&gt;</TOKEN>
+</SEG>
+<SEG id="segment-23" start_char="737" end_char="813">
+<ORIGINAL_TEXT>Meanwhile, the National Security Council (NSC) today activated its operations</ORIGINAL_TEXT>
+<TOKEN id="token-23-0" pos="word" morph="none" start_char="737" end_char="745">Meanwhile</TOKEN>
+<TOKEN id="token-23-1" pos="punct" morph="none" start_char="746" end_char="746">,</TOKEN>
+<TOKEN id="token-23-2" pos="word" morph="none" start_char="748" end_char="750">the</TOKEN>
+<TOKEN id="token-23-3" pos="word" morph="none" start_char="752" end_char="759">National</TOKEN>
+<TOKEN id="token-23-4" pos="word" morph="none" start_char="761" end_char="768">Security</TOKEN>
+<TOKEN id="token-23-5" pos="word" morph="none" start_char="770" end_char="776">Council</TOKEN>
+<TOKEN id="token-23-6" pos="punct" morph="none" start_char="778" end_char="778">(</TOKEN>
+<TOKEN id="token-23-7" pos="word" morph="none" start_char="779" end_char="781">NSC</TOKEN>
+<TOKEN id="token-23-8" pos="punct" morph="none" start_char="782" end_char="782">)</TOKEN>
+<TOKEN id="token-23-9" pos="word" morph="none" start_char="784" end_char="788">today</TOKEN>
+<TOKEN id="token-23-10" pos="word" morph="none" start_char="790" end_char="798">activated</TOKEN>
+<TOKEN id="token-23-11" pos="word" morph="none" start_char="800" end_char="802">its</TOKEN>
+<TOKEN id="token-23-12" pos="word" morph="none" start_char="804" end_char="813">operations</TOKEN>
+</SEG>
+<SEG id="segment-24" start_char="815" end_char="889">
+<ORIGINAL_TEXT>to bring back Malaysians stranded in Nepal, following yesterday afternoon’s</ORIGINAL_TEXT>
+<TOKEN id="token-24-0" pos="word" morph="none" start_char="815" end_char="816">to</TOKEN>
+<TOKEN id="token-24-1" pos="word" morph="none" start_char="818" end_char="822">bring</TOKEN>
+<TOKEN id="token-24-2" pos="word" morph="none" start_char="824" end_char="827">back</TOKEN>
+<TOKEN id="token-24-3" pos="word" morph="none" start_char="829" end_char="838">Malaysians</TOKEN>
+<TOKEN id="token-24-4" pos="word" morph="none" start_char="840" end_char="847">stranded</TOKEN>
+<TOKEN id="token-24-5" pos="word" morph="none" start_char="849" end_char="850">in</TOKEN>
+<TOKEN id="token-24-6" pos="word" morph="none" start_char="852" end_char="856">Nepal</TOKEN>
+<TOKEN id="token-24-7" pos="punct" morph="none" start_char="857" end_char="857">,</TOKEN>
+<TOKEN id="token-24-8" pos="word" morph="none" start_char="859" end_char="867">following</TOKEN>
+<TOKEN id="token-24-9" pos="word" morph="none" start_char="869" end_char="877">yesterday</TOKEN>
+<TOKEN id="token-24-10" pos="word" morph="none" start_char="879" end_char="887">afternoon</TOKEN>
+<TOKEN id="token-24-11" pos="punct" morph="none" start_char="888" end_char="888">’</TOKEN>
+<TOKEN id="token-24-12" pos="word" morph="none" start_char="889" end_char="889">s</TOKEN>
+</SEG>
+<SEG id="segment-25" start_char="891" end_char="901">
+<ORIGINAL_TEXT>earthquake.</ORIGINAL_TEXT>
+<TOKEN id="token-25-0" pos="word" morph="none" start_char="891" end_char="900">earthquake</TOKEN>
+<TOKEN id="token-25-1" pos="punct" morph="none" start_char="901" end_char="901">.</TOKEN>
+</SEG>
+<SEG id="segment-26" start_char="903" end_char="906">
+<ORIGINAL_TEXT>&lt;/P&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-26-0" pos="unknown" morph="none" start_char="903" end_char="906">&lt;/P&gt;</TOKEN>
+</SEG>
+<SEG id="segment-27" start_char="908" end_char="910">
+<ORIGINAL_TEXT>&lt;P&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-27-0" pos="unknown" morph="none" start_char="908" end_char="910">&lt;P&gt;</TOKEN>
+</SEG>
+<SEG id="segment-28" start_char="912" end_char="989">
+<ORIGINAL_TEXT>NSC secretary Datuk Mohamed Thajudeen Abdul Wahab said it was decided that the</ORIGINAL_TEXT>
+<TOKEN id="token-28-0" pos="word" morph="none" start_char="912" end_char="914">NSC</TOKEN>
+<TOKEN id="token-28-1" pos="word" morph="none" start_char="916" end_char="924">secretary</TOKEN>
+<TOKEN id="token-28-2" pos="word" morph="none" start_char="926" end_char="930">Datuk</TOKEN>
+<TOKEN id="token-28-3" pos="word" morph="none" start_char="932" end_char="938">Mohamed</TOKEN>
+<TOKEN id="token-28-4" pos="word" morph="none" start_char="940" end_char="948">Thajudeen</TOKEN>
+<TOKEN id="token-28-5" pos="word" morph="none" start_char="950" end_char="954">Abdul</TOKEN>
+<TOKEN id="token-28-6" pos="word" morph="none" start_char="956" end_char="960">Wahab</TOKEN>
+<TOKEN id="token-28-7" pos="word" morph="none" start_char="962" end_char="965">said</TOKEN>
+<TOKEN id="token-28-8" pos="word" morph="none" start_char="967" end_char="968">it</TOKEN>
+<TOKEN id="token-28-9" pos="word" morph="none" start_char="970" end_char="972">was</TOKEN>
+<TOKEN id="token-28-10" pos="word" morph="none" start_char="974" end_char="980">decided</TOKEN>
+<TOKEN id="token-28-11" pos="word" morph="none" start_char="982" end_char="985">that</TOKEN>
+<TOKEN id="token-28-12" pos="word" morph="none" start_char="987" end_char="989">the</TOKEN>
+</SEG>
+<SEG id="segment-29" start_char="991" end_char="1069">
+<ORIGINAL_TEXT>Malaysians would be brought back in a Royal Malaysian Air Force (RMAF) Hercules</ORIGINAL_TEXT>
+<TOKEN id="token-29-0" pos="word" morph="none" start_char="991" end_char="1000">Malaysians</TOKEN>
+<TOKEN id="token-29-1" pos="word" morph="none" start_char="1002" end_char="1006">would</TOKEN>
+<TOKEN id="token-29-2" pos="word" morph="none" start_char="1008" end_char="1009">be</TOKEN>
+<TOKEN id="token-29-3" pos="word" morph="none" start_char="1011" end_char="1017">brought</TOKEN>
+<TOKEN id="token-29-4" pos="word" morph="none" start_char="1019" end_char="1022">back</TOKEN>
+<TOKEN id="token-29-5" pos="word" morph="none" start_char="1024" end_char="1025">in</TOKEN>
+<TOKEN id="token-29-6" pos="word" morph="none" start_char="1027" end_char="1027">a</TOKEN>
+<TOKEN id="token-29-7" pos="word" morph="none" start_char="1029" end_char="1033">Royal</TOKEN>
+<TOKEN id="token-29-8" pos="word" morph="none" start_char="1035" end_char="1043">Malaysian</TOKEN>
+<TOKEN id="token-29-9" pos="word" morph="none" start_char="1045" end_char="1047">Air</TOKEN>
+<TOKEN id="token-29-10" pos="word" morph="none" start_char="1049" end_char="1053">Force</TOKEN>
+<TOKEN id="token-29-11" pos="punct" morph="none" start_char="1055" end_char="1055">(</TOKEN>
+<TOKEN id="token-29-12" pos="word" morph="none" start_char="1056" end_char="1059">RMAF</TOKEN>
+<TOKEN id="token-29-13" pos="punct" morph="none" start_char="1060" end_char="1060">)</TOKEN>
+<TOKEN id="token-29-14" pos="word" morph="none" start_char="1062" end_char="1069">Hercules</TOKEN>
+</SEG>
+<SEG id="segment-30" start_char="1071" end_char="1146">
+<ORIGINAL_TEXT>C-130 aircraft which would depart the RMAF base in Subang this afternoon for</ORIGINAL_TEXT>
+<TOKEN id="token-30-0" pos="word" morph="none" start_char="1071" end_char="1071">C</TOKEN>
+<TOKEN id="token-30-1" pos="punct" morph="none" start_char="1072" end_char="1072">-</TOKEN>
+<TOKEN id="token-30-2" pos="word" morph="none" start_char="1073" end_char="1075">130</TOKEN>
+<TOKEN id="token-30-3" pos="word" morph="none" start_char="1077" end_char="1084">aircraft</TOKEN>
+<TOKEN id="token-30-4" pos="word" morph="none" start_char="1086" end_char="1090">which</TOKEN>
+<TOKEN id="token-30-5" pos="word" morph="none" start_char="1092" end_char="1096">would</TOKEN>
+<TOKEN id="token-30-6" pos="word" morph="none" start_char="1098" end_char="1103">depart</TOKEN>
+<TOKEN id="token-30-7" pos="word" morph="none" start_char="1105" end_char="1107">the</TOKEN>
+<TOKEN id="token-30-8" pos="word" morph="none" start_char="1109" end_char="1112">RMAF</TOKEN>
+<TOKEN id="token-30-9" pos="word" morph="none" start_char="1114" end_char="1117">base</TOKEN>
+<TOKEN id="token-30-10" pos="word" morph="none" start_char="1119" end_char="1120">in</TOKEN>
+<TOKEN id="token-30-11" pos="word" morph="none" start_char="1122" end_char="1127">Subang</TOKEN>
+<TOKEN id="token-30-12" pos="word" morph="none" start_char="1129" end_char="1132">this</TOKEN>
+<TOKEN id="token-30-13" pos="word" morph="none" start_char="1134" end_char="1142">afternoon</TOKEN>
+<TOKEN id="token-30-14" pos="word" morph="none" start_char="1144" end_char="1146">for</TOKEN>
+</SEG>
+<SEG id="segment-31" start_char="1148" end_char="1183">
+<ORIGINAL_TEXT>the Kathmandu International Airport.</ORIGINAL_TEXT>
+<TOKEN id="token-31-0" pos="word" morph="none" start_char="1148" end_char="1150">the</TOKEN>
+<TOKEN id="token-31-1" pos="word" morph="none" start_char="1152" end_char="1160">Kathmandu</TOKEN>
+<TOKEN id="token-31-2" pos="word" morph="none" start_char="1162" end_char="1174">International</TOKEN>
+<TOKEN id="token-31-3" pos="word" morph="none" start_char="1176" end_char="1182">Airport</TOKEN>
+<TOKEN id="token-31-4" pos="punct" morph="none" start_char="1183" end_char="1183">.</TOKEN>
+</SEG>
+<SEG id="segment-32" start_char="1185" end_char="1188">
+<ORIGINAL_TEXT>&lt;/P&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-32-0" pos="unknown" morph="none" start_char="1185" end_char="1188">&lt;/P&gt;</TOKEN>
+</SEG>
+<SEG id="segment-33" start_char="1190" end_char="1192">
+<ORIGINAL_TEXT>&lt;P&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-33-0" pos="unknown" morph="none" start_char="1190" end_char="1192">&lt;P&gt;</TOKEN>
+</SEG>
+<SEG id="segment-34" start_char="1194" end_char="1270">
+<ORIGINAL_TEXT>“We received instructions from Prime Minister Datuk Seri Najib Tun Razak this</ORIGINAL_TEXT>
+<TOKEN id="token-34-0" pos="punct" morph="none" start_char="1194" end_char="1194">“</TOKEN>
+<TOKEN id="token-34-1" pos="word" morph="none" start_char="1195" end_char="1196">We</TOKEN>
+<TOKEN id="token-34-2" pos="word" morph="none" start_char="1198" end_char="1205">received</TOKEN>
+<TOKEN id="token-34-3" pos="word" morph="none" start_char="1207" end_char="1218">instructions</TOKEN>
+<TOKEN id="token-34-4" pos="word" morph="none" start_char="1220" end_char="1223">from</TOKEN>
+<TOKEN id="token-34-5" pos="word" morph="none" start_char="1225" end_char="1229">Prime</TOKEN>
+<TOKEN id="token-34-6" pos="word" morph="none" start_char="1231" end_char="1238">Minister</TOKEN>
+<TOKEN id="token-34-7" pos="word" morph="none" start_char="1240" end_char="1244">Datuk</TOKEN>
+<TOKEN id="token-34-8" pos="word" morph="none" start_char="1246" end_char="1249">Seri</TOKEN>
+<TOKEN id="token-34-9" pos="word" morph="none" start_char="1251" end_char="1255">Najib</TOKEN>
+<TOKEN id="token-34-10" pos="word" morph="none" start_char="1257" end_char="1259">Tun</TOKEN>
+<TOKEN id="token-34-11" pos="word" morph="none" start_char="1261" end_char="1265">Razak</TOKEN>
+<TOKEN id="token-34-12" pos="word" morph="none" start_char="1267" end_char="1270">this</TOKEN>
+</SEG>
+<SEG id="segment-35" start_char="1272" end_char="1343">
+<ORIGINAL_TEXT>morning…what is priority now is to bring back all the Malaysians who are</ORIGINAL_TEXT>
+<TOKEN id="token-35-0" pos="word" morph="none" start_char="1272" end_char="1278">morning</TOKEN>
+<TOKEN id="token-35-1" pos="punct" morph="none" start_char="1279" end_char="1279">…</TOKEN>
+<TOKEN id="token-35-2" pos="word" morph="none" start_char="1280" end_char="1283">what</TOKEN>
+<TOKEN id="token-35-3" pos="word" morph="none" start_char="1285" end_char="1286">is</TOKEN>
+<TOKEN id="token-35-4" pos="word" morph="none" start_char="1288" end_char="1295">priority</TOKEN>
+<TOKEN id="token-35-5" pos="word" morph="none" start_char="1297" end_char="1299">now</TOKEN>
+<TOKEN id="token-35-6" pos="word" morph="none" start_char="1301" end_char="1302">is</TOKEN>
+<TOKEN id="token-35-7" pos="word" morph="none" start_char="1304" end_char="1305">to</TOKEN>
+<TOKEN id="token-35-8" pos="word" morph="none" start_char="1307" end_char="1311">bring</TOKEN>
+<TOKEN id="token-35-9" pos="word" morph="none" start_char="1313" end_char="1316">back</TOKEN>
+<TOKEN id="token-35-10" pos="word" morph="none" start_char="1318" end_char="1320">all</TOKEN>
+<TOKEN id="token-35-11" pos="word" morph="none" start_char="1322" end_char="1324">the</TOKEN>
+<TOKEN id="token-35-12" pos="word" morph="none" start_char="1326" end_char="1335">Malaysians</TOKEN>
+<TOKEN id="token-35-13" pos="word" morph="none" start_char="1337" end_char="1339">who</TOKEN>
+<TOKEN id="token-35-14" pos="word" morph="none" start_char="1341" end_char="1343">are</TOKEN>
+</SEG>
+<SEG id="segment-36" start_char="1345" end_char="1397">
+<ORIGINAL_TEXT>stranded,” he told Bernama when contacted here today.</ORIGINAL_TEXT>
+<TOKEN id="token-36-0" pos="word" morph="none" start_char="1345" end_char="1352">stranded</TOKEN>
+<TOKEN id="token-36-1" pos="punct" morph="none" start_char="1353" end_char="1354">,”</TOKEN>
+<TOKEN id="token-36-2" pos="word" morph="none" start_char="1356" end_char="1357">he</TOKEN>
+<TOKEN id="token-36-3" pos="word" morph="none" start_char="1359" end_char="1362">told</TOKEN>
+<TOKEN id="token-36-4" pos="word" morph="none" start_char="1364" end_char="1370">Bernama</TOKEN>
+<TOKEN id="token-36-5" pos="word" morph="none" start_char="1372" end_char="1375">when</TOKEN>
+<TOKEN id="token-36-6" pos="word" morph="none" start_char="1377" end_char="1385">contacted</TOKEN>
+<TOKEN id="token-36-7" pos="word" morph="none" start_char="1387" end_char="1390">here</TOKEN>
+<TOKEN id="token-36-8" pos="word" morph="none" start_char="1392" end_char="1396">today</TOKEN>
+<TOKEN id="token-36-9" pos="punct" morph="none" start_char="1397" end_char="1397">.</TOKEN>
+</SEG>
+<SEG id="segment-37" start_char="1399" end_char="1402">
+<ORIGINAL_TEXT>&lt;/P&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-37-0" pos="unknown" morph="none" start_char="1399" end_char="1402">&lt;/P&gt;</TOKEN>
+</SEG>
+<SEG id="segment-38" start_char="1404" end_char="1406">
+<ORIGINAL_TEXT>&lt;P&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-38-0" pos="unknown" morph="none" start_char="1404" end_char="1406">&lt;P&gt;</TOKEN>
+</SEG>
+<SEG id="segment-39" start_char="1408" end_char="1485">
+<ORIGINAL_TEXT>He said the mission would include a SMART team from the NSC, the Malaysian Red</ORIGINAL_TEXT>
+<TOKEN id="token-39-0" pos="word" morph="none" start_char="1408" end_char="1409">He</TOKEN>
+<TOKEN id="token-39-1" pos="word" morph="none" start_char="1411" end_char="1414">said</TOKEN>
+<TOKEN id="token-39-2" pos="word" morph="none" start_char="1416" end_char="1418">the</TOKEN>
+<TOKEN id="token-39-3" pos="word" morph="none" start_char="1420" end_char="1426">mission</TOKEN>
+<TOKEN id="token-39-4" pos="word" morph="none" start_char="1428" end_char="1432">would</TOKEN>
+<TOKEN id="token-39-5" pos="word" morph="none" start_char="1434" end_char="1440">include</TOKEN>
+<TOKEN id="token-39-6" pos="word" morph="none" start_char="1442" end_char="1442">a</TOKEN>
+<TOKEN id="token-39-7" pos="word" morph="none" start_char="1444" end_char="1448">SMART</TOKEN>
+<TOKEN id="token-39-8" pos="word" morph="none" start_char="1450" end_char="1453">team</TOKEN>
+<TOKEN id="token-39-9" pos="word" morph="none" start_char="1455" end_char="1458">from</TOKEN>
+<TOKEN id="token-39-10" pos="word" morph="none" start_char="1460" end_char="1462">the</TOKEN>
+<TOKEN id="token-39-11" pos="word" morph="none" start_char="1464" end_char="1466">NSC</TOKEN>
+<TOKEN id="token-39-12" pos="punct" morph="none" start_char="1467" end_char="1467">,</TOKEN>
+<TOKEN id="token-39-13" pos="word" morph="none" start_char="1469" end_char="1471">the</TOKEN>
+<TOKEN id="token-39-14" pos="word" morph="none" start_char="1473" end_char="1481">Malaysian</TOKEN>
+<TOKEN id="token-39-15" pos="word" morph="none" start_char="1483" end_char="1485">Red</TOKEN>
+</SEG>
+<SEG id="segment-40" start_char="1487" end_char="1533">
+<ORIGINAL_TEXT>Crescent and several members of MERCY Malaysia.</ORIGINAL_TEXT>
+<TOKEN id="token-40-0" pos="word" morph="none" start_char="1487" end_char="1494">Crescent</TOKEN>
+<TOKEN id="token-40-1" pos="word" morph="none" start_char="1496" end_char="1498">and</TOKEN>
+<TOKEN id="token-40-2" pos="word" morph="none" start_char="1500" end_char="1506">several</TOKEN>
+<TOKEN id="token-40-3" pos="word" morph="none" start_char="1508" end_char="1514">members</TOKEN>
+<TOKEN id="token-40-4" pos="word" morph="none" start_char="1516" end_char="1517">of</TOKEN>
+<TOKEN id="token-40-5" pos="word" morph="none" start_char="1519" end_char="1523">MERCY</TOKEN>
+<TOKEN id="token-40-6" pos="word" morph="none" start_char="1525" end_char="1532">Malaysia</TOKEN>
+<TOKEN id="token-40-7" pos="punct" morph="none" start_char="1533" end_char="1533">.</TOKEN>
+</SEG>
+<SEG id="segment-41" start_char="1535" end_char="1538">
+<ORIGINAL_TEXT>&lt;/P&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-41-0" pos="unknown" morph="none" start_char="1535" end_char="1538">&lt;/P&gt;</TOKEN>
+</SEG>
+<SEG id="segment-42" start_char="1540" end_char="1542">
+<ORIGINAL_TEXT>&lt;P&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-42-0" pos="unknown" morph="none" start_char="1540" end_char="1542">&lt;P&gt;</TOKEN>
+</SEG>
+<SEG id="segment-43" start_char="1544" end_char="1621">
+<ORIGINAL_TEXT>Mohamed Thajudeen also said the number of stranded Malaysians could not yet be</ORIGINAL_TEXT>
+<TOKEN id="token-43-0" pos="word" morph="none" start_char="1544" end_char="1550">Mohamed</TOKEN>
+<TOKEN id="token-43-1" pos="word" morph="none" start_char="1552" end_char="1560">Thajudeen</TOKEN>
+<TOKEN id="token-43-2" pos="word" morph="none" start_char="1562" end_char="1565">also</TOKEN>
+<TOKEN id="token-43-3" pos="word" morph="none" start_char="1567" end_char="1570">said</TOKEN>
+<TOKEN id="token-43-4" pos="word" morph="none" start_char="1572" end_char="1574">the</TOKEN>
+<TOKEN id="token-43-5" pos="word" morph="none" start_char="1576" end_char="1581">number</TOKEN>
+<TOKEN id="token-43-6" pos="word" morph="none" start_char="1583" end_char="1584">of</TOKEN>
+<TOKEN id="token-43-7" pos="word" morph="none" start_char="1586" end_char="1593">stranded</TOKEN>
+<TOKEN id="token-43-8" pos="word" morph="none" start_char="1595" end_char="1604">Malaysians</TOKEN>
+<TOKEN id="token-43-9" pos="word" morph="none" start_char="1606" end_char="1610">could</TOKEN>
+<TOKEN id="token-43-10" pos="word" morph="none" start_char="1612" end_char="1614">not</TOKEN>
+<TOKEN id="token-43-11" pos="word" morph="none" start_char="1616" end_char="1618">yet</TOKEN>
+<TOKEN id="token-43-12" pos="word" morph="none" start_char="1620" end_char="1621">be</TOKEN>
+</SEG>
+<SEG id="segment-44" start_char="1623" end_char="1695">
+<ORIGINAL_TEXT>determined and efforts were being made with Wisma Putra and the Malaysian</ORIGINAL_TEXT>
+<TOKEN id="token-44-0" pos="word" morph="none" start_char="1623" end_char="1632">determined</TOKEN>
+<TOKEN id="token-44-1" pos="word" morph="none" start_char="1634" end_char="1636">and</TOKEN>
+<TOKEN id="token-44-2" pos="word" morph="none" start_char="1638" end_char="1644">efforts</TOKEN>
+<TOKEN id="token-44-3" pos="word" morph="none" start_char="1646" end_char="1649">were</TOKEN>
+<TOKEN id="token-44-4" pos="word" morph="none" start_char="1651" end_char="1655">being</TOKEN>
+<TOKEN id="token-44-5" pos="word" morph="none" start_char="1657" end_char="1660">made</TOKEN>
+<TOKEN id="token-44-6" pos="word" morph="none" start_char="1662" end_char="1665">with</TOKEN>
+<TOKEN id="token-44-7" pos="word" morph="none" start_char="1667" end_char="1671">Wisma</TOKEN>
+<TOKEN id="token-44-8" pos="word" morph="none" start_char="1673" end_char="1677">Putra</TOKEN>
+<TOKEN id="token-44-9" pos="word" morph="none" start_char="1679" end_char="1681">and</TOKEN>
+<TOKEN id="token-44-10" pos="word" morph="none" start_char="1683" end_char="1685">the</TOKEN>
+<TOKEN id="token-44-11" pos="word" morph="none" start_char="1687" end_char="1695">Malaysian</TOKEN>
+</SEG>
+<SEG id="segment-45" start_char="1697" end_char="1727">
+<ORIGINAL_TEXT>Embassy in Nepal to trace them.</ORIGINAL_TEXT>
+<TOKEN id="token-45-0" pos="word" morph="none" start_char="1697" end_char="1703">Embassy</TOKEN>
+<TOKEN id="token-45-1" pos="word" morph="none" start_char="1705" end_char="1706">in</TOKEN>
+<TOKEN id="token-45-2" pos="word" morph="none" start_char="1708" end_char="1712">Nepal</TOKEN>
+<TOKEN id="token-45-3" pos="word" morph="none" start_char="1714" end_char="1715">to</TOKEN>
+<TOKEN id="token-45-4" pos="word" morph="none" start_char="1717" end_char="1721">trace</TOKEN>
+<TOKEN id="token-45-5" pos="word" morph="none" start_char="1723" end_char="1726">them</TOKEN>
+<TOKEN id="token-45-6" pos="punct" morph="none" start_char="1727" end_char="1727">.</TOKEN>
+</SEG>
+<SEG id="segment-46" start_char="1729" end_char="1732">
+<ORIGINAL_TEXT>&lt;/P&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-46-0" pos="unknown" morph="none" start_char="1729" end_char="1732">&lt;/P&gt;</TOKEN>
+</SEG>
+<SEG id="segment-47" start_char="1734" end_char="1736">
+<ORIGINAL_TEXT>&lt;P&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-47-0" pos="unknown" morph="none" start_char="1734" end_char="1736">&lt;P&gt;</TOKEN>
+</SEG>
+<SEG id="segment-48" start_char="1738" end_char="1812">
+<ORIGINAL_TEXT>Meanwhile, executive director of MERCY Malaysia, Ahmad Faizal Mohamad, told</ORIGINAL_TEXT>
+<TOKEN id="token-48-0" pos="word" morph="none" start_char="1738" end_char="1746">Meanwhile</TOKEN>
+<TOKEN id="token-48-1" pos="punct" morph="none" start_char="1747" end_char="1747">,</TOKEN>
+<TOKEN id="token-48-2" pos="word" morph="none" start_char="1749" end_char="1757">executive</TOKEN>
+<TOKEN id="token-48-3" pos="word" morph="none" start_char="1759" end_char="1766">director</TOKEN>
+<TOKEN id="token-48-4" pos="word" morph="none" start_char="1768" end_char="1769">of</TOKEN>
+<TOKEN id="token-48-5" pos="word" morph="none" start_char="1771" end_char="1775">MERCY</TOKEN>
+<TOKEN id="token-48-6" pos="word" morph="none" start_char="1777" end_char="1784">Malaysia</TOKEN>
+<TOKEN id="token-48-7" pos="punct" morph="none" start_char="1785" end_char="1785">,</TOKEN>
+<TOKEN id="token-48-8" pos="word" morph="none" start_char="1787" end_char="1791">Ahmad</TOKEN>
+<TOKEN id="token-48-9" pos="word" morph="none" start_char="1793" end_char="1798">Faizal</TOKEN>
+<TOKEN id="token-48-10" pos="word" morph="none" start_char="1800" end_char="1806">Mohamad</TOKEN>
+<TOKEN id="token-48-11" pos="punct" morph="none" start_char="1807" end_char="1807">,</TOKEN>
+<TOKEN id="token-48-12" pos="word" morph="none" start_char="1809" end_char="1812">told</TOKEN>
+</SEG>
+<SEG id="segment-49" start_char="1814" end_char="1891">
+<ORIGINAL_TEXT>Bernama that it was ready to assist the mission with its team of seven members</ORIGINAL_TEXT>
+<TOKEN id="token-49-0" pos="word" morph="none" start_char="1814" end_char="1820">Bernama</TOKEN>
+<TOKEN id="token-49-1" pos="word" morph="none" start_char="1822" end_char="1825">that</TOKEN>
+<TOKEN id="token-49-2" pos="word" morph="none" start_char="1827" end_char="1828">it</TOKEN>
+<TOKEN id="token-49-3" pos="word" morph="none" start_char="1830" end_char="1832">was</TOKEN>
+<TOKEN id="token-49-4" pos="word" morph="none" start_char="1834" end_char="1838">ready</TOKEN>
+<TOKEN id="token-49-5" pos="word" morph="none" start_char="1840" end_char="1841">to</TOKEN>
+<TOKEN id="token-49-6" pos="word" morph="none" start_char="1843" end_char="1848">assist</TOKEN>
+<TOKEN id="token-49-7" pos="word" morph="none" start_char="1850" end_char="1852">the</TOKEN>
+<TOKEN id="token-49-8" pos="word" morph="none" start_char="1854" end_char="1860">mission</TOKEN>
+<TOKEN id="token-49-9" pos="word" morph="none" start_char="1862" end_char="1865">with</TOKEN>
+<TOKEN id="token-49-10" pos="word" morph="none" start_char="1867" end_char="1869">its</TOKEN>
+<TOKEN id="token-49-11" pos="word" morph="none" start_char="1871" end_char="1874">team</TOKEN>
+<TOKEN id="token-49-12" pos="word" morph="none" start_char="1876" end_char="1877">of</TOKEN>
+<TOKEN id="token-49-13" pos="word" morph="none" start_char="1879" end_char="1883">seven</TOKEN>
+<TOKEN id="token-49-14" pos="word" morph="none" start_char="1885" end_char="1891">members</TOKEN>
+</SEG>
+<SEG id="segment-50" start_char="1893" end_char="1949">
+<ORIGINAL_TEXT>including five doctors who would provide medical service.</ORIGINAL_TEXT>
+<TOKEN id="token-50-0" pos="word" morph="none" start_char="1893" end_char="1901">including</TOKEN>
+<TOKEN id="token-50-1" pos="word" morph="none" start_char="1903" end_char="1906">five</TOKEN>
+<TOKEN id="token-50-2" pos="word" morph="none" start_char="1908" end_char="1914">doctors</TOKEN>
+<TOKEN id="token-50-3" pos="word" morph="none" start_char="1916" end_char="1918">who</TOKEN>
+<TOKEN id="token-50-4" pos="word" morph="none" start_char="1920" end_char="1924">would</TOKEN>
+<TOKEN id="token-50-5" pos="word" morph="none" start_char="1926" end_char="1932">provide</TOKEN>
+<TOKEN id="token-50-6" pos="word" morph="none" start_char="1934" end_char="1940">medical</TOKEN>
+<TOKEN id="token-50-7" pos="word" morph="none" start_char="1942" end_char="1948">service</TOKEN>
+<TOKEN id="token-50-8" pos="punct" morph="none" start_char="1949" end_char="1949">.</TOKEN>
+</SEG>
+<SEG id="segment-51" start_char="1951" end_char="1954">
+<ORIGINAL_TEXT>&lt;/P&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-51-0" pos="unknown" morph="none" start_char="1951" end_char="1954">&lt;/P&gt;</TOKEN>
+</SEG>
+<SEG id="segment-52" start_char="1956" end_char="1958">
+<ORIGINAL_TEXT>&lt;P&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-52-0" pos="unknown" morph="none" start_char="1956" end_char="1958">&lt;P&gt;</TOKEN>
+</SEG>
+<SEG id="segment-53" start_char="1960" end_char="2026">
+<ORIGINAL_TEXT>“In the first mission, we will send emergency response unit medical</ORIGINAL_TEXT>
+<TOKEN id="token-53-0" pos="punct" morph="none" start_char="1960" end_char="1960">“</TOKEN>
+<TOKEN id="token-53-1" pos="word" morph="none" start_char="1961" end_char="1962">In</TOKEN>
+<TOKEN id="token-53-2" pos="word" morph="none" start_char="1964" end_char="1966">the</TOKEN>
+<TOKEN id="token-53-3" pos="word" morph="none" start_char="1968" end_char="1972">first</TOKEN>
+<TOKEN id="token-53-4" pos="word" morph="none" start_char="1974" end_char="1980">mission</TOKEN>
+<TOKEN id="token-53-5" pos="punct" morph="none" start_char="1981" end_char="1981">,</TOKEN>
+<TOKEN id="token-53-6" pos="word" morph="none" start_char="1983" end_char="1984">we</TOKEN>
+<TOKEN id="token-53-7" pos="word" morph="none" start_char="1986" end_char="1989">will</TOKEN>
+<TOKEN id="token-53-8" pos="word" morph="none" start_char="1991" end_char="1994">send</TOKEN>
+<TOKEN id="token-53-9" pos="word" morph="none" start_char="1996" end_char="2004">emergency</TOKEN>
+<TOKEN id="token-53-10" pos="word" morph="none" start_char="2006" end_char="2013">response</TOKEN>
+<TOKEN id="token-53-11" pos="word" morph="none" start_char="2015" end_char="2018">unit</TOKEN>
+<TOKEN id="token-53-12" pos="word" morph="none" start_char="2020" end_char="2026">medical</TOKEN>
+</SEG>
+<SEG id="segment-54" start_char="2028" end_char="2102">
+<ORIGINAL_TEXT>personnel as an advance team before subsequent missions which will comprise</ORIGINAL_TEXT>
+<TOKEN id="token-54-0" pos="word" morph="none" start_char="2028" end_char="2036">personnel</TOKEN>
+<TOKEN id="token-54-1" pos="word" morph="none" start_char="2038" end_char="2039">as</TOKEN>
+<TOKEN id="token-54-2" pos="word" morph="none" start_char="2041" end_char="2042">an</TOKEN>
+<TOKEN id="token-54-3" pos="word" morph="none" start_char="2044" end_char="2050">advance</TOKEN>
+<TOKEN id="token-54-4" pos="word" morph="none" start_char="2052" end_char="2055">team</TOKEN>
+<TOKEN id="token-54-5" pos="word" morph="none" start_char="2057" end_char="2062">before</TOKEN>
+<TOKEN id="token-54-6" pos="word" morph="none" start_char="2064" end_char="2073">subsequent</TOKEN>
+<TOKEN id="token-54-7" pos="word" morph="none" start_char="2075" end_char="2082">missions</TOKEN>
+<TOKEN id="token-54-8" pos="word" morph="none" start_char="2084" end_char="2088">which</TOKEN>
+<TOKEN id="token-54-9" pos="word" morph="none" start_char="2090" end_char="2093">will</TOKEN>
+<TOKEN id="token-54-10" pos="word" morph="none" start_char="2095" end_char="2102">comprise</TOKEN>
+</SEG>
+<SEG id="segment-55" start_char="2104" end_char="2134">
+<ORIGINAL_TEXT>more than 20 doctors,” he said.</ORIGINAL_TEXT>
+<TOKEN id="token-55-0" pos="word" morph="none" start_char="2104" end_char="2107">more</TOKEN>
+<TOKEN id="token-55-1" pos="word" morph="none" start_char="2109" end_char="2112">than</TOKEN>
+<TOKEN id="token-55-2" pos="number" morph="none" start_char="2114" end_char="2115">20</TOKEN>
+<TOKEN id="token-55-3" pos="word" morph="none" start_char="2117" end_char="2123">doctors</TOKEN>
+<TOKEN id="token-55-4" pos="punct" morph="none" start_char="2124" end_char="2125">,”</TOKEN>
+<TOKEN id="token-55-5" pos="word" morph="none" start_char="2127" end_char="2128">he</TOKEN>
+<TOKEN id="token-55-6" pos="word" morph="none" start_char="2130" end_char="2133">said</TOKEN>
+<TOKEN id="token-55-7" pos="punct" morph="none" start_char="2134" end_char="2134">.</TOKEN>
+</SEG>
+<SEG id="segment-56" start_char="2136" end_char="2139">
+<ORIGINAL_TEXT>&lt;/P&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-56-0" pos="unknown" morph="none" start_char="2136" end_char="2139">&lt;/P&gt;</TOKEN>
+</SEG>
+<SEG id="segment-57" start_char="2141" end_char="2143">
+<ORIGINAL_TEXT>&lt;P&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-57-0" pos="unknown" morph="none" start_char="2141" end_char="2143">&lt;P&gt;</TOKEN>
+</SEG>
+<SEG id="segment-58" start_char="2145" end_char="2223">
+<ORIGINAL_TEXT>He added that various medications and logistic provisions would also be sent on</ORIGINAL_TEXT>
+<TOKEN id="token-58-0" pos="word" morph="none" start_char="2145" end_char="2146">He</TOKEN>
+<TOKEN id="token-58-1" pos="word" morph="none" start_char="2148" end_char="2152">added</TOKEN>
+<TOKEN id="token-58-2" pos="word" morph="none" start_char="2154" end_char="2157">that</TOKEN>
+<TOKEN id="token-58-3" pos="word" morph="none" start_char="2159" end_char="2165">various</TOKEN>
+<TOKEN id="token-58-4" pos="word" morph="none" start_char="2167" end_char="2177">medications</TOKEN>
+<TOKEN id="token-58-5" pos="word" morph="none" start_char="2179" end_char="2181">and</TOKEN>
+<TOKEN id="token-58-6" pos="word" morph="none" start_char="2183" end_char="2190">logistic</TOKEN>
+<TOKEN id="token-58-7" pos="word" morph="none" start_char="2192" end_char="2201">provisions</TOKEN>
+<TOKEN id="token-58-8" pos="word" morph="none" start_char="2203" end_char="2207">would</TOKEN>
+<TOKEN id="token-58-9" pos="word" morph="none" start_char="2209" end_char="2212">also</TOKEN>
+<TOKEN id="token-58-10" pos="word" morph="none" start_char="2214" end_char="2215">be</TOKEN>
+<TOKEN id="token-58-11" pos="word" morph="none" start_char="2217" end_char="2220">sent</TOKEN>
+<TOKEN id="token-58-12" pos="word" morph="none" start_char="2222" end_char="2223">on</TOKEN>
+</SEG>
+<SEG id="segment-59" start_char="2225" end_char="2237">
+<ORIGINAL_TEXT>the missions.</ORIGINAL_TEXT>
+<TOKEN id="token-59-0" pos="word" morph="none" start_char="2225" end_char="2227">the</TOKEN>
+<TOKEN id="token-59-1" pos="word" morph="none" start_char="2229" end_char="2236">missions</TOKEN>
+<TOKEN id="token-59-2" pos="punct" morph="none" start_char="2237" end_char="2237">.</TOKEN>
+</SEG>
+<SEG id="segment-60" start_char="2239" end_char="2242">
+<ORIGINAL_TEXT>&lt;/P&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-60-0" pos="unknown" morph="none" start_char="2239" end_char="2242">&lt;/P&gt;</TOKEN>
+</SEG>
+<SEG id="segment-61" start_char="2244" end_char="2246">
+<ORIGINAL_TEXT>&lt;P&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-61-0" pos="unknown" morph="none" start_char="2244" end_char="2246">&lt;P&gt;</TOKEN>
+</SEG>
+<SEG id="segment-62" start_char="2248" end_char="2326">
+<ORIGINAL_TEXT>According to media reports, the number of people who died in the earthquake had</ORIGINAL_TEXT>
+<TOKEN id="token-62-0" pos="word" morph="none" start_char="2248" end_char="2256">According</TOKEN>
+<TOKEN id="token-62-1" pos="word" morph="none" start_char="2258" end_char="2259">to</TOKEN>
+<TOKEN id="token-62-2" pos="word" morph="none" start_char="2261" end_char="2265">media</TOKEN>
+<TOKEN id="token-62-3" pos="word" morph="none" start_char="2267" end_char="2273">reports</TOKEN>
+<TOKEN id="token-62-4" pos="punct" morph="none" start_char="2274" end_char="2274">,</TOKEN>
+<TOKEN id="token-62-5" pos="word" morph="none" start_char="2276" end_char="2278">the</TOKEN>
+<TOKEN id="token-62-6" pos="word" morph="none" start_char="2280" end_char="2285">number</TOKEN>
+<TOKEN id="token-62-7" pos="word" morph="none" start_char="2287" end_char="2288">of</TOKEN>
+<TOKEN id="token-62-8" pos="word" morph="none" start_char="2290" end_char="2295">people</TOKEN>
+<TOKEN id="token-62-9" pos="word" morph="none" start_char="2297" end_char="2299">who</TOKEN>
+<TOKEN id="token-62-10" pos="word" morph="none" start_char="2301" end_char="2304">died</TOKEN>
+<TOKEN id="token-62-11" pos="word" morph="none" start_char="2306" end_char="2307">in</TOKEN>
+<TOKEN id="token-62-12" pos="word" morph="none" start_char="2309" end_char="2311">the</TOKEN>
+<TOKEN id="token-62-13" pos="word" morph="none" start_char="2313" end_char="2322">earthquake</TOKEN>
+<TOKEN id="token-62-14" pos="word" morph="none" start_char="2324" end_char="2326">had</TOKEN>
+</SEG>
+<SEG id="segment-63" start_char="2328" end_char="2342">
+<ORIGINAL_TEXT>exceeded 1,800.</ORIGINAL_TEXT>
+<TOKEN id="token-63-0" pos="word" morph="none" start_char="2328" end_char="2335">exceeded</TOKEN>
+<TOKEN id="token-63-1" pos="word" morph="none" start_char="2337" end_char="2337">1</TOKEN>
+<TOKEN id="token-63-2" pos="punct" morph="none" start_char="2338" end_char="2338">,</TOKEN>
+<TOKEN id="token-63-3" pos="word" morph="none" start_char="2339" end_char="2341">800</TOKEN>
+<TOKEN id="token-63-4" pos="punct" morph="none" start_char="2342" end_char="2342">.</TOKEN>
+</SEG>
+<SEG id="segment-64" start_char="2344" end_char="2347">
+<ORIGINAL_TEXT>&lt;/P&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-64-0" pos="unknown" morph="none" start_char="2344" end_char="2347">&lt;/P&gt;</TOKEN>
+</SEG>
+<SEG id="segment-65" start_char="2349" end_char="2351">
+<ORIGINAL_TEXT>&lt;P&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-65-0" pos="unknown" morph="none" start_char="2349" end_char="2351">&lt;P&gt;</TOKEN>
+</SEG>
+<SEG id="segment-66" start_char="2353" end_char="2428">
+<ORIGINAL_TEXT>The earthquake which measured 7.9 on the Richter scale hit Nepal between its</ORIGINAL_TEXT>
+<TOKEN id="token-66-0" pos="word" morph="none" start_char="2353" end_char="2355">The</TOKEN>
+<TOKEN id="token-66-1" pos="word" morph="none" start_char="2357" end_char="2366">earthquake</TOKEN>
+<TOKEN id="token-66-2" pos="word" morph="none" start_char="2368" end_char="2372">which</TOKEN>
+<TOKEN id="token-66-3" pos="word" morph="none" start_char="2374" end_char="2381">measured</TOKEN>
+<TOKEN id="token-66-4" pos="number" morph="none" start_char="2383" end_char="2385">7.9</TOKEN>
+<TOKEN id="token-66-5" pos="word" morph="none" start_char="2387" end_char="2388">on</TOKEN>
+<TOKEN id="token-66-6" pos="word" morph="none" start_char="2390" end_char="2392">the</TOKEN>
+<TOKEN id="token-66-7" pos="word" morph="none" start_char="2394" end_char="2400">Richter</TOKEN>
+<TOKEN id="token-66-8" pos="word" morph="none" start_char="2402" end_char="2406">scale</TOKEN>
+<TOKEN id="token-66-9" pos="word" morph="none" start_char="2408" end_char="2410">hit</TOKEN>
+<TOKEN id="token-66-10" pos="word" morph="none" start_char="2412" end_char="2416">Nepal</TOKEN>
+<TOKEN id="token-66-11" pos="word" morph="none" start_char="2418" end_char="2424">between</TOKEN>
+<TOKEN id="token-66-12" pos="word" morph="none" start_char="2426" end_char="2428">its</TOKEN>
+</SEG>
+<SEG id="segment-67" start_char="2430" end_char="2502">
+<ORIGINAL_TEXT>capital city Kathmandu and the town of Pokhara, at 2.56 pm Malaysian time</ORIGINAL_TEXT>
+<TOKEN id="token-67-0" pos="word" morph="none" start_char="2430" end_char="2436">capital</TOKEN>
+<TOKEN id="token-67-1" pos="word" morph="none" start_char="2438" end_char="2441">city</TOKEN>
+<TOKEN id="token-67-2" pos="word" morph="none" start_char="2443" end_char="2451">Kathmandu</TOKEN>
+<TOKEN id="token-67-3" pos="word" morph="none" start_char="2453" end_char="2455">and</TOKEN>
+<TOKEN id="token-67-4" pos="word" morph="none" start_char="2457" end_char="2459">the</TOKEN>
+<TOKEN id="token-67-5" pos="word" morph="none" start_char="2461" end_char="2464">town</TOKEN>
+<TOKEN id="token-67-6" pos="word" morph="none" start_char="2466" end_char="2467">of</TOKEN>
+<TOKEN id="token-67-7" pos="word" morph="none" start_char="2469" end_char="2475">Pokhara</TOKEN>
+<TOKEN id="token-67-8" pos="punct" morph="none" start_char="2476" end_char="2476">,</TOKEN>
+<TOKEN id="token-67-9" pos="word" morph="none" start_char="2478" end_char="2479">at</TOKEN>
+<TOKEN id="token-67-10" pos="number" morph="none" start_char="2481" end_char="2484">2.56</TOKEN>
+<TOKEN id="token-67-11" pos="word" morph="none" start_char="2486" end_char="2487">pm</TOKEN>
+<TOKEN id="token-67-12" pos="word" morph="none" start_char="2489" end_char="2497">Malaysian</TOKEN>
+<TOKEN id="token-67-13" pos="word" morph="none" start_char="2499" end_char="2502">time</TOKEN>
+</SEG>
+<SEG id="segment-68" start_char="2504" end_char="2513">
+<ORIGINAL_TEXT>yesterday.</ORIGINAL_TEXT>
+<TOKEN id="token-68-0" pos="word" morph="none" start_char="2504" end_char="2512">yesterday</TOKEN>
+<TOKEN id="token-68-1" pos="punct" morph="none" start_char="2513" end_char="2513">.</TOKEN>
+</SEG>
+<SEG id="segment-69" start_char="2515" end_char="2518">
+<ORIGINAL_TEXT>&lt;/P&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-69-0" pos="unknown" morph="none" start_char="2515" end_char="2518">&lt;/P&gt;</TOKEN>
+</SEG>
+<SEG id="segment-70" start_char="2520" end_char="2522">
+<ORIGINAL_TEXT>&lt;P&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-70-0" pos="unknown" morph="none" start_char="2520" end_char="2522">&lt;P&gt;</TOKEN>
+</SEG>
+<SEG id="segment-71" start_char="2524" end_char="2596">
+<ORIGINAL_TEXT>As of yesterday, all Malaysians registered with the Malaysian Embassy and</ORIGINAL_TEXT>
+<TOKEN id="token-71-0" pos="word" morph="none" start_char="2524" end_char="2525">As</TOKEN>
+<TOKEN id="token-71-1" pos="word" morph="none" start_char="2527" end_char="2528">of</TOKEN>
+<TOKEN id="token-71-2" pos="word" morph="none" start_char="2530" end_char="2538">yesterday</TOKEN>
+<TOKEN id="token-71-3" pos="punct" morph="none" start_char="2539" end_char="2539">,</TOKEN>
+<TOKEN id="token-71-4" pos="word" morph="none" start_char="2541" end_char="2543">all</TOKEN>
+<TOKEN id="token-71-5" pos="word" morph="none" start_char="2545" end_char="2554">Malaysians</TOKEN>
+<TOKEN id="token-71-6" pos="word" morph="none" start_char="2556" end_char="2565">registered</TOKEN>
+<TOKEN id="token-71-7" pos="word" morph="none" start_char="2567" end_char="2570">with</TOKEN>
+<TOKEN id="token-71-8" pos="word" morph="none" start_char="2572" end_char="2574">the</TOKEN>
+<TOKEN id="token-71-9" pos="word" morph="none" start_char="2576" end_char="2584">Malaysian</TOKEN>
+<TOKEN id="token-71-10" pos="word" morph="none" start_char="2586" end_char="2592">Embassy</TOKEN>
+<TOKEN id="token-71-11" pos="word" morph="none" start_char="2594" end_char="2596">and</TOKEN>
+</SEG>
+<SEG id="segment-72" start_char="2598" end_char="2671">
+<ORIGINAL_TEXT>Kathmandu and the High Commission Office in New Delhi, were reported to be</ORIGINAL_TEXT>
+<TOKEN id="token-72-0" pos="word" morph="none" start_char="2598" end_char="2606">Kathmandu</TOKEN>
+<TOKEN id="token-72-1" pos="word" morph="none" start_char="2608" end_char="2610">and</TOKEN>
+<TOKEN id="token-72-2" pos="word" morph="none" start_char="2612" end_char="2614">the</TOKEN>
+<TOKEN id="token-72-3" pos="word" morph="none" start_char="2616" end_char="2619">High</TOKEN>
+<TOKEN id="token-72-4" pos="word" morph="none" start_char="2621" end_char="2630">Commission</TOKEN>
+<TOKEN id="token-72-5" pos="word" morph="none" start_char="2632" end_char="2637">Office</TOKEN>
+<TOKEN id="token-72-6" pos="word" morph="none" start_char="2639" end_char="2640">in</TOKEN>
+<TOKEN id="token-72-7" pos="word" morph="none" start_char="2642" end_char="2644">New</TOKEN>
+<TOKEN id="token-72-8" pos="word" morph="none" start_char="2646" end_char="2650">Delhi</TOKEN>
+<TOKEN id="token-72-9" pos="punct" morph="none" start_char="2651" end_char="2651">,</TOKEN>
+<TOKEN id="token-72-10" pos="word" morph="none" start_char="2653" end_char="2656">were</TOKEN>
+<TOKEN id="token-72-11" pos="word" morph="none" start_char="2658" end_char="2665">reported</TOKEN>
+<TOKEN id="token-72-12" pos="word" morph="none" start_char="2667" end_char="2668">to</TOKEN>
+<TOKEN id="token-72-13" pos="word" morph="none" start_char="2670" end_char="2671">be</TOKEN>
+</SEG>
+<SEG id="segment-73" start_char="2673" end_char="2689">
+<ORIGINAL_TEXT>safe.-BERNAMA-AFP</ORIGINAL_TEXT>
+<TOKEN id="token-73-0" pos="unknown" morph="none" start_char="2673" end_char="2689">safe.-BERNAMA-AFP</TOKEN>
+</SEG>
+<SEG id="segment-74" start_char="2692" end_char="2695">
+<ORIGINAL_TEXT>&lt;/P&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-74-0" pos="unknown" morph="none" start_char="2692" end_char="2695">&lt;/P&gt;</TOKEN>
+</SEG>
+<SEG id="segment-75" start_char="2697" end_char="2703">
+<ORIGINAL_TEXT>&lt;/TEXT&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-75-0" pos="unknown" morph="none" start_char="2697" end_char="2703">&lt;/TEXT&gt;</TOKEN>
+</SEG>
+<SEG id="segment-76" start_char="2705" end_char="2710">
+<ORIGINAL_TEXT>&lt;/DOC&gt;</ORIGINAL_TEXT>
+<TOKEN id="token-76-0" pos="unknown" morph="none" start_char="2705" end_char="2710">&lt;/DOC&gt;</TOKEN>
+</SEG>
+</TEXT>
+</DOC>
+</LCTL_TEXT>
